@@ -1,0 +1,159 @@
+name: Requirements archiver
+
+on:
+  schedule:
+    # Run monthly on the 15th at 1 AM UTC
+    - cron: "0 1 15 * *"
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1 # Only fetch the latest commit to compare changes
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "0.6.11"
+
+      - name: Enable caching
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+
+      - name: Run archiving process
+        run: make archive
+
+      - name: Build the index
+        run: make index
+
+      - name: Upload the archive log as an artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: archive-log
+          path: run.log
+          retention-days: 7
+          if-no-files-found: warn
+
+      - name: Upload markdown files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: merit-badge-markdown
+          path: |
+            build/merit-badges/*.md
+            build/merit-badges/images
+          retention-days: 7
+          if-no-files-found: warn
+
+      - name: Upload JSON files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: merit-badge-json
+          path: |
+            build/merit-badges/*.json
+            build/merit-badges/images
+          retention-days: 7
+          if-no-files-found: warn
+
+      - name: Validate the archive
+        run: make validate
+
+      - name: Generate change report
+        run: make report
+
+      - name: Commit changes
+        run: |
+          # Configure git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # Add files to the commit
+          git add build/merit-badges/*.json build/merit-badges/images/*
+
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes detected"
+            exit 0
+          fi
+
+          # Create commit with a detailed message
+          git commit -F- <<EOF
+          Update archive ($(date +"%Y-%m-%d"))
+
+          $(cat change-report.txt)
+
+          Automated archive via GitHub Actions
+          EOF
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+      - name: Check for failures
+        if: failure()
+        run: |
+          echo "::error::Archiving job failed! This could indicate a change in the source website structure or validation failed."
+
+      # - name: Create issue on failure
+      #   if: failure()
+      #   uses: JasonEtco/create-an-issue@v2
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   with:
+      #     filename: .github/ISSUE_TEMPLATE/archiver-failure.md
+      #     update_existing: true
+      #     search_existing: open
+
+  deploy-site:
+    runs-on: ubuntu-latest
+    needs: archive
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download Markdown artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: merit-badge-markdown
+          path: build/merit-badges/
+
+      - name: Build website
+        run: |
+          # Create website directory
+          mkdir -p _site
+          # Copy Markdown files
+          cp -R build/merit-badges/*.md _site/ 2>/dev/null || true
+          # If no markdown files were found, generate a default index
+          if [ ! -f _site/index.md ]; then
+            echo "# Scout requirements archive" > _site/index.md
+            echo "" >> _site/index.md
+            echo "An unofficial automated archive of Scouting America requirements." >> _site/index.md
+            echo "" >> _site/index.md
+            echo "**Last updated:** $(date +"%Y-%m-%d")" >> _site/index.md
+          fi
+          # Copy images and PDF files
+          mkdir -p _site/images _site/files
+          cp -R build/merit-badges/images/* _site/images/ 2>/dev/null || true
+          cp -R build/merit-badges/files/* _site/files/ 2>/dev/null || true
+          # Create Jekyll config file
+          echo "theme: jekyll-theme-cayman" > _site/_config.yml
+          echo "title: Scout requirements archive" >> _site/_config.yml
+          echo "description: Unofficial archive of Scouting America requirements" >> _site/_config.yml
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _site # The folder the action should deploy
+          branch: gh-pages # The branch the action should deploy to

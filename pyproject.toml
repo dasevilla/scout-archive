@@ -11,13 +11,6 @@ dependencies = [
     "scrapy>=2.11.2",
 ]
 
-[project.scripts]
-hello = "scout_requirements_archive:hello"
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
 [dependency-groups]
 dev = [
     "pre-commit>=4.2.0",

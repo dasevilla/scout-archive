@@ -70,6 +70,16 @@ jobs:
       - name: Generate change report
         run: make report
 
+      - name: Annotate changes
+        run: |
+          if [ -f change-report.txt ]; then
+            while IFS= read -r line; do
+              echo "::notice::${line}"
+            done < change-report.txt
+          else
+            echo "::warning::change-report.txt not found. Skipping annotation."
+          fi
+
       - name: Commit changes
         run: |
           # Configure git

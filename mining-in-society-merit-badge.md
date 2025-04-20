@@ -15,7 +15,7 @@ The Mining in Society merit badge covers the history of mining, explores the sta
 * (1) Do the following:
     * (a) Select 10 different minerals. For each one, name a product for which the mineral is used.
     * (b) Explain the role mining has in producing and processing things that are grown.
-    * (c) From the list of minerals you chose for requirement 1a, determine the countries where those minerals can be found, and discuss what you learned from your counselor.
+    * (c) From the list of minerals you chose for requirement 1(a), determine the countries where those minerals can be found, and discuss what you learned from your counselor.
 
 
 * (2) Obtain a map of your state or region showing major cities, highways, rivers, and railroads. Mark the locations of five mining enterprises. Find out what resource is processed at each location, and identify the mine as a surface or underground operation. Discuss with your counselor how the resources mined at these locations are used.
@@ -45,7 +45,7 @@ The Mining in Society merit badge covers the history of mining, explores the sta
     * (a) Explore the anticipated benefits of interplanetary mining. Learn how NASA and private investors may search for, extract, and process minerals in outer space, and the primary reasons for mining the moon, other planets, or near- Earth asteroids. Find out how exploration and mineral processing in space differ from exploration on Earth. Share what you have learned with your counselor, and discuss the difficulties encountered in exploring, collecting, and analyzing surface or near-surface samples in space.
     * (b) Identify three minerals found dissolved in seawater or found on the ocean floor, and list three places where the ocean is mined today. Share this information with your counselor, and discuss the chief incentives for mining the oceans for minerals, the reclamation necessary after mining is over, and any special concerns when mining minerals from the ocean. Find out what sustainability problems arise from mining the oceans. Discuss what you learned with your counselor.
     * (c) Learn what metals and minerals are recycled after their original use has ended. List four metals and two nonmetals, and find out how each can be recycled. Find out how recycling affects the sustainability of natural resources and how this idea is related to mining. Discuss what you learn with your counselor.
-    * (d) With your parent or guardian's permission, use the Internet and other resources to determine the current price of gold, copper, aluminum, or other commodities like cement or coal, and find out the five-year price trend for two of these. Report your findings to your counselor.
+    * (d) With your parent or guardian's permission, use the internet and other resources to determine the current price of gold, copper, aluminum, or other commodities like cement or coal, and find out the five-year price trend for two of these. Report your findings to your counselor.
 
 
 * (8) Do ONE of the following:

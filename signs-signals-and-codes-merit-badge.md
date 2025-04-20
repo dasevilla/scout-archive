@@ -46,7 +46,7 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
 * (9) Share with your counselor 10 examples of symbols used in everyday life. Design your own symbol. Share it with your counselor and explain what it means. Then do the following:
     * (a) Show examples of 10 traffic signs and explain their meaning.
     * (b) Using a topographical map, explain what a map legend is and discuss its importance. Point out 10 map symbols and explain the meaning of each.
-    * (c) Discuss text-message symbols and why they are commonly used. Give examples of your favorite 10 text symbols or emoticons. Then see if your parent, guardian or counselor can identify the meaning or usage of each symbol.
+    * (c) Discuss text-message symbols and why they are commonly used. Give examples of your favorite 10 text symbols or emoticons. Then see if your parent, guardian, or counselor can identify the meaning or usage of each symbol.
 
 
 * (10) Briefly discuss the history of secret code writing (cryptography). Make up your own secret code and write a message of up to 25 words using this code. Share the message with a friend or fellow Scout. Then share the message and code key with your counselor and discuss the effectiveness of your code.

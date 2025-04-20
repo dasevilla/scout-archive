@@ -16,7 +16,7 @@ Landscape architects design and plan the various outdoor spaces in modern commun
 * (2) After completing requirement 1, discuss the following with your counselor:
     * (a) Tell whether the design had separate spaces, a defined point of entry, a clear path system, and sun and shade variety.
     * (b) Discuss how any structures, the designated seating, eating, or parking areas suited the overall design.
-    * (c) Explain how the design reflected consideration for the comfort, shelter, andsecurity of the users.
+    * (c) Explain how the design reflected consideration for the comfort, shelter, and security of the users.
     * (d) Discuss how the choice of trees, shrubs, and ground covers used in the project contributed to its appeal and function.
 
 
@@ -27,7 +27,7 @@ Landscape architects design and plan the various outdoor spaces in modern commun
     * (c) Decide how you can make the place safer and more comfortable for those using it. Redesign the area on another copy of the plan. You may want to include new walks, covered waiting areas, benches, space-defining plantings of trees and shrubs, and drainage structures.
 
 
-* (5) Identify three career opportunities that would use skills and knowledge in landscape architecture. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
+* (5) Identify three career opportunities that would use skills and knowledge in landscape architecture. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
 
 ## Resources

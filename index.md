@@ -165,4 +165,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Wood_Carving.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35968(21)Woodwork_REQ.pdf)
 
-Generated on 2025-04-13 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2025-04-20 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

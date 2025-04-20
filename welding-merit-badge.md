@@ -30,11 +30,11 @@ Welding is the process of joining with a weld – joining or combining similar p
     * (b) Choose one welding process. Set up the process you have chosen, including gas regulators, work clamps, cables, filler materials, and equipment settings. Have your counselor inspect and approve the area for the welding process you have chosen.
 
 
-* (6) After successfully completing requirements 1 through 5, use the equipment you prepared for the welding process in 5b to do the following:
+* (6) After successfully completing requirements 1 through 5, use the equipment you prepared for the welding process in 5(b) to do the following:
     * (a) Using a metal scribe or soapstone, sketch your initial onto a metal plate, and weld a bead on the plate following the pattern of your initial.
     * (b) Cover a small plate (approximately 3" x 3" x 1/4") with weld beads side by side.
     * (c) Tack two plates together in a square groove butt joint.
-    * (d) Weld the two plates together from 6c on both sides.
+    * (d) Weld the two plates together from 6(c) on both sides.
     * (e) Tack two plates together in a T joint, have your counselor inspect it, then weld a T joint with fillet weld on both sides.
     * (f) Tack two plates together in a lap joint, have your counselor inspect it, then weld a lap joint with fillet weld on both sides.
 

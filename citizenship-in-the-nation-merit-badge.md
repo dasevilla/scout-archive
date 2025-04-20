@@ -33,7 +33,7 @@ As Scouts fulfill the requirements for this merit badge, they will learn how to 
     * (b) What the historical context was
     * (c) What difficulties the nation faced that the author wished to discuss
     * (d) What the author said
-    * (e) Why the speech is important to the nation's history.
+    * (e) Why the speech is important to the nation's history
     * (f) Choose a sentence or two from the speech that has significant meaning to you, and tell your counselor why.
 
 

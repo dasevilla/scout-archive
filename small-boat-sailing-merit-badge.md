@@ -19,7 +19,7 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
 
 
 * (2) Before doing the following requirements, successfully complete the Scouting America swimmer test.
-* (3) Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts. (The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward. )
+* (3) Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts. (The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward.)
 * (4) Before going afloat, do the following:
     * (a) Discuss the nine points of the Scouting America Safety Afloat plan.
     * (b) Explain the rules of the road in general and any specific rules or laws that apply to your area or state.

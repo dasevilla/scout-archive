@@ -42,7 +42,7 @@ Preventing crime, which can be as simple as reducing the opportuntities for crim
 
 
     * (b) Conduct a security survey of a home, a neighborhood, a park, or a camp building with adult supervision and following youth protection guidelines using a security checklist in the pamphlet or one approved by your counselor.
-    * (c) Use information from your survey for requirement 4b and the EDGE method to develop a lesson about how a family or Scouts can protect themselves from crime. Review your teaching plan with your counselor, then present your lesson to your family or to Scouts.
+    * (c) Use information from your survey for requirement 4(b) and the EDGE method to develop a lesson about how a family or Scouts can protect themselves from crime. Review your teaching plan with your counselor, then present your lesson to your family or to Scouts.
 
 
 * (5) Research the following topics and review them with your counselor:

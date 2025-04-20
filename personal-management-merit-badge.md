@@ -14,13 +14,13 @@ Personal management is about mapping a plan for your life that will involve sett
 
 * (1) Do the following:
     * (a) Choose an item that your family might want to purchase that is considered a major expense.
-    * (b) Write a plan that tells how your family would save money for the purchase identified in requirement 1a.
+    * (b) Write a plan that tells how your family would save money for the purchase identified in requirement 1(a).
         * (1) Discuss the plan with your counselor.
         * (2) Discuss the plan with your family.
         * (3) Discuss how other family needs must be considered in this plan.
 
 
-    * (c) Develop a written shopping strategy for the purchase identified in requirement 1a.
+    * (c) Develop a written shopping strategy for the purchase identified in requirement 1(a).
         * (1) Determine the quality of the item or service (using consumer publications or rating systems).
         * (2) Comparison shop for the item. Find out where you can buy the item for the best price. (Provide prices from at least two different price sources.) Call around; study ads. Look for a sale or discount coupon. Consider alternatives. Can you buy the item used? Should you wait for a sale?
 

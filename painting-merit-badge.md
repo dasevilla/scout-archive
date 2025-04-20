@@ -17,7 +17,7 @@ This merit badge provides an opportunity for Scouts to learn more about painting
     * (a) Explain three ways that coatings can improve a surface.
     * (b) Explain the differences between oil-based paints, acrylic-based paints, and water-based paints.
     * (c) Explain where you would apply enamel paint, flat paint, wood stain, and varnish, and explain the importance of sheen.
-    * (d) Tell why each is best for these uses
+    * (d) Tell why each is best for these uses.
 
 
 * (3) Prepare and paint two different surfaces using patching materials or caulking and the proper primers and topcoats. Suggested projects include an interior or exterior wall, a door, a piece of furniture, a concrete wall or floor, a porch rail, or a fence. Your counselor must preapprove the projects.

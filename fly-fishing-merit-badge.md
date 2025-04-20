@@ -14,7 +14,7 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
 
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while participating in fly-fishing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Name and explain five safety practices you should always follow while fly-fishing.
-    * (b) Discuss the prevention of and treatment for the following health concerns that could occur while fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, sunburn.
+    * (b) Discuss the prevention of and treatment for the following health concerns that could occur while fly-fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, sunburn.
     * (c) Explain how to remove a hook that has lodged in your arm.
 
 
@@ -27,7 +27,7 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
     * (e) Tie a fly onto the terminal end of the leader using an improved clinch knot.
 
 
-* (4) Explain how and when each of the following types of flies is used: dry flies, wet flies, nymphs, streamers, bass bugs, poppers, and salt water flies. Tell what each one imitates. Tie at least two types of the flies mentioned in this requirement.
+* (4) Explain how and when each of the following types of flies is used: dry flies, wet flies, nymphs, streamers, bass bugs, poppers, and saltwater flies. Tell what each one imitates. Tie at least two types of the flies mentioned in this requirement.
 * (5) Demonstrate the ability to cast a fly 30 feet consistently and accurately using both overhead and roll cast techniques.
 * (6) Go to a suitable fishing location and observe what fish may be eating both above and beneath the water's surface. Explain the importance of matching the hatch.
 * (7) Do the following:
@@ -35,7 +35,7 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
     * (b) Discuss the meaning and importance of catch and release. Describe how to properly release a fish safely to the water.
 
 
-* (8) Obtain and review a copy of the regulations affecting game fishing where you live or where you pan to fish. Explain why they were adopted and what is accomplished by following them.
+* (8) Obtain and review a copy of the regulations affecting game fishing where you live or where you plan to fish. Explain why they were adopted and what is accomplished by following them.
 * (9) Explain what good outdoor sportsmanlike behavior is and how it relates to anglers. Tell how the Leave No Trace Seven Principles and the Outdoor Code relate to a fishing sports enthusiast, including the aspects of littering, trespassing, courteous behavior, and obeying fishing regulations.
 * (10) Catch one fish and identify it.
 * (11) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. (It is not required that you eat the fish.)

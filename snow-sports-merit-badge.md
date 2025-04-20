@@ -53,9 +53,9 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
         * (e) List the items you would take on a one-day ski tour.
         * (f) Demonstrate the proper use of a topographic map and compass.
         * (g) On a gentle, packed slope, show some basic ways to control speed and direction. Include the straight run, traverse, side slip, step turn, wedge stop, and wedge turn maneuvers.
-        * (h) On a cross-country trial, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide.
+        * (h) On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide.
         * (i) Demonstrate your ability, on a tour, to cope with an average variety of snow conditions.
-        * (j) Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, pole drag, and ski-pole 'glissade'.
+        * (j) Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, pole drag, and ski-pole "glissade."
 
 
     * Option C: Snowboarding
@@ -86,7 +86,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
         * (g) Discuss the benefits of snowshoeing.
         * (h) Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope.
         * (i) Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions
-        * (j) Demonstrate the proper use of a topographic map and compass
+        * (j) Demonstrate the proper use of a topographic map and compass.
 
 
 

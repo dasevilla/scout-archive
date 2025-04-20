@@ -45,9 +45,9 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
 * (7) Tell how to properly prepare for and deal with inclement weather.
 * (8) Do the following:
     * (a) Explain the advantages and disadvantages of the different types of backpacking stoves using at least three different types of fuel.
-    * (b) Demonstrate that you know how to operate a back packing stove safely and to handle liquid fuel safely.
+    * (b) Demonstrate that you know how to operate a backpacking stove safely and to handle liquid fuel safely.
     * (c) Prepare three meals using a stove and fuel you can carry in a backpack.
-    * (d) Demonstrate that you know how to keep cooking and eating gear clean and sanitary, and that you practice proper methods for food storage while on a back packing trek.
+    * (d) Demonstrate that you know how to keep cooking and eating gear clean and sanitary, and that you practice proper methods for food storage while on a backpacking trek.
 
 
 * (9) Do the following:

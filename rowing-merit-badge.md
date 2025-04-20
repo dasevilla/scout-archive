@@ -15,7 +15,7 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while participating in rowing activities, including weather- and water-related hazards, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while rowing: blisters, hypothermia, heat-related illnesses, dehydration, sunburn, sprains, and strains.
-    * (c) Review the BSA Safety Afloat policy. Explain to your counselor how this applies to rowing activities.
+    * (c) Review the Scouting America Safety Afloat policy. Explain to your counselor how this applies to rowing activities.
 
 
 * (2) Before completing requirements 4, 5, 6, and 7, successfully complete the Scouting America swimmer test.
@@ -26,7 +26,7 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
         * (2) Row in a straight line for 100 yards. Stop, pivot, and return to the starting point.
         * (3) Backwater in a straight line for 25 yards. Make a turn underway and return to the starting point.
         * (4) Land and moor or rack your craft.
-        * (5) Tie the following mooring knots-clove hitch, roundturn with two half-hitches, bowline, Wellman's knot, and mooring hitch.
+        * (5) Tie the following mooring knots—clove hitch, roundturn with two half-hitches, bowline, Wellman's knot, and mooring hitch.
 
 
     * (b) Participate as a rowing team member in a competitive rowing meet. The team may be sponsored by a school, club, or Scout unit. The meet must include competition between two or more teams with different sponsors. Complete at least 10 hours of team practice prior to the meet.
@@ -40,8 +40,8 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
 * (6) Participate in a swamped boat drill including righting and stabilizing the craft, reboarding in deep water, and making headway. Tell why you should stay with a swamped boat.
 * (7) Alone in a rowboat, push off from the shore or a pier. Row 20 yards to a swimmer. While giving instructions to the swimmer, pivot the boat so that the swimmer can hold on to the stern. Tow the swimmer to shore.
 * (8) Describe the following:
-    * (a) Types of craft used in commercial, competitive, and recreational rowing.
-    * (b) Four common boatbuilding materials. Give some positive and negative points of each.
+    * (a) Types of craft used in commercial, competitive, and recreational rowing
+    * (b) Four common boatbuilding materials. Give some positive and negative points of each
     * (c) Types of oarlocks used in competitive and recreational rowing.
 
 

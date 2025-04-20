@@ -27,7 +27,7 @@ The history of music is rich and exciting. Through the ages, new music has been 
     * (c) Make a traditional instrument and learn to play it.
 
 
-* (5) Define for your counselor intellectual property (IP). Explain how to properly obtain and share recorded music.
+* (5) Define for your counselor(IP). Explain how to properly obtain and share recorded music.
 
 
 ## Resources

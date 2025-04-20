@@ -31,9 +31,9 @@ If you have ever wanted to go back in time or wished you could visit the future,
     * (c) Give a "book talk" to your class, troop, or patrol.
 
 
-* (4) Read a nonfiction book or magazine that teaches you how to do something like cooking, wood-building projects, video game design, science experiments, knot-tying, etc. With your counselor's and parent's or guardian's permission, complete a project from the book. Share your experience with your counselor. Reading a merit badge pamphlet will not count toward completing this requirement.
-* (5) Read about the world around you from any two sources: books, magazines, newspapers, the internet (with your parent's or guardian's permission), field manuals, etc. Topics may include Scouting, sports, environmental problems, politics, social issues, current events, nature, religion, etc. Discuss what you have learned with your counselor.
-* (6) With your counselor's and parent's or guardian's permission, choose ONE of the following activities and devote at least four hours of service to that activity. Discuss your participation with your counselor.
+* (4) Read a nonfiction book or magazine that teaches you how to do something like cooking, wood-building projects, video game design, science experiments, knot-tying, etc. With your counselor's and parent or guardian's permission, complete a project from the book. Share your experience with your counselor. Reading a merit badge pamphlet will not count toward completing this requirement.
+* (5) Read about the world around you from any two sources: books, magazines, newspapers, the internet (with your parent or guardian's permission), field manuals, etc. Topics may include Scouting, sports, environmental problems, politics, social issues, current events, nature, religion, etc. Discuss what you have learned with your counselor.
+* (6) With your counselor's and parent or guardian's permission, choose ONE of the following activities and devote at least four hours of service to that activity. Discuss your participation with your counselor.
     * (a) Read to a sick, blind, or homebound person in a hospital or in an extended-care facility.
     * (b) Perform volunteer work at your school library or a public library.
     * (c) Read stories to younger children, in a group or individually.

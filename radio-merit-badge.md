@@ -45,7 +45,7 @@ Radio is a way to send information, or communications, from one place to another
 * (7) Visit a radio installation (an amateur radio station, broadcast station, or public service communications center, for example) approved in advance by your counselor. Discuss what types of equipment you saw in use, how it was used, what types of licenses are required to operate and maintain the equipment, and the purpose of the station.
 * (8) Find out about three career opportunities in radio. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
 * (9) Do ONE of the following options:
-    * (a) Option A: Amatuer Radio
+    * (a) Option A: Amateur Radio
         * (1) Tell why the FCC has an amateur radio service. Describe activities that amateur radio operators can do on the air, once they have earned an amateur radio license.
         * (2) Explain differences between the Technician, General, and Extra Class license requirements and privileges. Explain who administers amateur radio exams.
         * (3) Explain at least five Q signals or amateur radio terms.

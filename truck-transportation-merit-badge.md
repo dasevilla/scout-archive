@@ -20,7 +20,7 @@ Trucking is a large and important industry. No matter where you live, a day is u
 
 
 * (3) Describe the difference between the gasoline engine and the diesel engine that power trucks. List the advantages of each.
-* (4) Visit a truck terminal and complete items 4a through 4e. After your visit, share what you have learned with your counselor.
+* (4) Visit a truck terminal and complete items 4(a) through 4(e). After your visit, share what you have learned with your counselor.
     * (a) Find out what kind of maintenance program the company follows to help keep its fleet, drivers, and the roadway safe.
     * (b) Find out how dispatchers maintain communication with drivers on the road.
     * (c) Talk with a professional truck driver about safety. Learn about the truck driver's rules of the road for safe driving. List five safe-driving rules every professional truck driver must follow.

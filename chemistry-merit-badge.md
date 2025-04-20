@@ -16,7 +16,7 @@ Chemistry explores how substances react with each other, how they change, how ce
     * (a) Obtain safety data sheets (SDS) for sucrose (sugar), isopropyl alcohol (rubbing alcohol), and a waterproofing spray. Compare their properties and potential hazard(s), including handling and disposal guidelines and toxicity information.
     * (b) What types of personal protective equipment (PPE) are recommended for each, and why? How does the recommended PPE change with toxicity and route of exposure?
     * (c) Review the pictograms in Section 2 of each SDS. What do they mean, and how do you see them used in your community?
-    * (d) Discuss the safe storage of chemicals. How does the safe storage of chemicals apply to your home, your school, your community, and the environment?
+    * (d) Discuss the safe storage of chemicals. How does the safe storage of chemicals apply to your home, school, community, and the environment?
 
 
 * (2) After successfully completing requirement 1, do the following:

@@ -19,7 +19,7 @@ Learning to shoot is like mastering any other skill — it takes study and pract
     * (d) Explain the need for, types, and use of eye protection and hearing protection.
     * (e) Explain the main points of the laws for owning and using guns in your community and state.
     * (f) Explain how hunting is related to the wise use of renewable wildlife resources.
-    * (g) Successfully complete a state hunter education course, or obtain a copy of the hunting laws for your state, then do the following.
+    * (g) Successfully complete a state hunter education course, or obtain a copy of the hunting laws for your state, then do the following:
         * (1) Explain the main points of hunting laws in your state, and any special laws on the use of guns and ammunition, AND
         * (2) List the kinds of wildlife that can be legally hunted in your state.
 
@@ -30,7 +30,7 @@ Learning to shoot is like mastering any other skill — it takes study and pract
 
 
 * (2) Working under the supervision of a certified National Rifle Association (NRA) Shotgun instructor and a certified range safety officer, at a nationally authorized camp property or at a commercial firearm range (as defined in the Scouting America National Range and Target Activities Manual), do ONE of the following options:
-    * (A) Option A: Shotgun Shooting (Modern Shotshell Type)
+    * Option A: Shotgun Shooting (Modern Shotshell Type)
         * (a) Identify and explain the principal parts of a shotgun, action types, and how they function.
         * (b) Identify and demonstrate the rules for safely storing and handling a shotgun.
         * (c) Identify the parts of a shotgun shell and their functions.
@@ -40,7 +40,7 @@ Learning to shoot is like mastering any other skill — it takes study and pract
         * (g) Explain the basic safety rules for cleaning a shotgun, and identify the materials needed.
         * (h) Demonstrate how to clean a shotgun properly and safely.
         * (i) Discuss what points you would consider in selecting a shotgun.
-        * (j) Shoot a moving target while following the rules and achieving the required score listed in (k) with a shotgun using the four fundamentals of firing a shot --position, mount, vision, and movement.
+        * (j) Shoot a moving target while following the rules and achieving the required score listed in (k) with a shotgun using the four fundamentals of firing a shot—position, mount, vision, and movement.
         * (k) Shooting score required: Hit at least 12 out of 25 targets (48 percent) in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired. Shooting skill rules:
             * Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter.
             * All targets should be thrown at a reasonable speed and in the same direction.
@@ -55,7 +55,7 @@ Learning to shoot is like mastering any other skill — it takes study and pract
 
 
 
-    * (B) Option B: Muzzleloading Shotgun Shooting
+    * Option B: Muzzleloading Shotgun Shooting
         * (a) Discuss with your counselor a brief history of the development of the muzzleloading shotgun.
         * (b) Identify principal parts of muzzleloading shotguns and discuss how they function.
         * (c) Identify and demonstrate the rules for safely storing and handling a muzzleloading shotgun.
@@ -68,7 +68,7 @@ Learning to shoot is like mastering any other skill — it takes study and pract
         * (j) Explain the basic safety rules for cleaning a muzzleloading shotgun, and identify the materials needed.
         * (k) Demonstrate how to clean a muzzleloading shotgun properly and safely.
         * (l) Discuss what points you would consider in selecting a muzzleloading shotgun.
-        * (m) Shoot a moving target while following the rules and achieving the required score listed in (n) with a muzzleloading shotgun using the four fundamentals of firing a shot -- position, mount, vision, and movement.
+        * (m) Shoot a moving target while following the rules and achieving the required score listed in (n) with a muzzleloading shotgun using the four fundamentals of firing a shot—position, mount, vision, and movement.
         * (n) Shooting score required: Hit at least 5 out of 15 targets in each of two 15-target groups. The two groups need not be shot in consecutive order. A minimum of 30 shots must be fired. Shooting skill rules:
             * Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter.
             * All targets should be thrown at a reasonable speed and in the same direction.

@@ -151,7 +151,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 
 
             * (4) Herbarium Visit
-                * (a) Write ahead and arrange to visit an herbarium at a university, park, or botanical garden; OR, visit an herbarium Web site (with your parent or guardian's permission).
+                * (a) Write ahead and arrange to visit an herbarium at a university, park, or botanical garden; OR, visit an herbarium website (with your parent or guardian's permission).
                 * (b) Tell how the specimens are arranged and how they are used by researchers. If possible, observe voucher specimens of a plant that is rare in your state.
                 * (c) Tell how a voucher specimen is mounted and prepared for permanent storage. Tell how specimens should be handled so that they will not be damaged.
                 * (d) Tell about the tools and references used by botanists in an herbarium.

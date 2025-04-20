@@ -13,7 +13,7 @@ As with any art, wood carving involves learning the basics of design, along with
 ## Requirements
 
 * (1) Do the following:
-    * (a) Explain to our counselor the hazards you are most likely to encounter while wood carving, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.
+    * (a) Explain to your counselor the hazards you are most likely to encounter while wood carving, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.
     * (b) Show that you know first aid for injuries that could occur while wood carving, including minor cuts and scratches and splinters.
 
 

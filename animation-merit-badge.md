@@ -34,7 +34,7 @@ In Animation merit badge you’ll learn how to create animations, the ways in wh
 
 
 * (4) Do the following:
-    * (a) Tour an animation studio or a business where animation is used, either in person, via video, or via the Internet. Share what you have learned with your counselor.
+    * (a) Tour an animation studio or a business where animation is used, either in person, via video, or via the internet. Share what you have learned with your counselor.
     * (b) Discuss with your counselor how animation might be used in the future to make your life more enjoyable and productive.
 
 

@@ -19,7 +19,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
     * (d) Explain the need for, types, and use of eye protection and hearing protection.
     * (e) Explain the main points of the laws for owning and using guns in your community and state.
     * (f) Explain how hunting is related to the wise use of renewable wildlife resources.
-    * (g) Successfully complete a state hunter education course, or obtain a copy of the hunting laws for your state, then do the following.
+    * (g) Successfully complete a state hunter education course, or obtain a copy of the hunting laws for your state, then do the following:
         * (1) Explain the main points of hunting laws in your state, and any special laws on the use of guns and ammunition, AND
         * (2) List the kinds of wildlife that can be legally hunted in your state.
 
@@ -41,7 +41,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
         * (h) Demonstrate how to clean a rifle properly and safely.
         * (i) Discuss what points you would consider in selecting a rifle.
         * (j) Using a bolt-action .22 caliber rimfire rifle, and shooting from a benchrest or supported prone position at 50 feet, fire five groups (three shots per group) that can be touched by a quarter. Using these targets, explain how to adjust sights to zero a rifle.
-        * (k) Adjust sights to center the group on the target and fire five groups (five shots per group). In the event that your instructor determines it is not practical to adjust the sights -- for instance, on a borrowed rifle -- you may explain (rather than doing) how to adjust the sights, and then fire five groups (five shots per group) in which all shots can be touched by a quarter. According to the target used, each shot in the group must meet the following minimum score: A-32 targets: 9; A-17 or TQ-1 targets: 7; A-36 targets: 5.
+        * (k) Adjust sights to center the group on the target and fire five groups (five shots per group). In the event that your instructor determines it is not practical to adjust the sights—for instance, on a borrowed rifle—you may explain (rather than doing) how to adjust the sights, and then fire five groups (five shots per group) in which all shots can be touched by a quarter. According to the target used, each shot in the group must meet the following minimum score: A-32 targets: 9; A-17 or TQ-1 targets: 7; A-36 targets: 5.
 
 
     * (B) Option B: Air Rifle Shooting (BB or Pellet)
@@ -54,7 +54,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
         * (g) Demonstrate how to clean an air rifle properly and safely.
         * (h) Discuss what points you would consider in selecting an air rifle.
         * (i) Using a BB gun or pellet rifle and shooting from a benchrest or supported prone position at 15 feet for BB guns or 33 feet for pellet rifles, fire five groups (three shots per group) that can be touched by a quarter.
-        * (j) Adjust sights to center the group on the target and fire five groups (five shots per group). In the event that your instructor determines it is not practical to adjust the sights -- for instance, on a borrowed air rifle -- you may explain (rather than doing) how to adjust the sights, and then fire five groups (five shots per group) in which all shots can be touched by a quarter. According to the target used, each shot in the group must meet the following minimum score: BB rifle at 15 feet (or 5 meters) using TQ-5 targets: 8; Pellet rifle at 25 feet using TQ-5 targets: 8; Pellet rifle at 33 feet (or 10 meters) using AR-1 targets: 6.
+        * (j) Adjust sights to center the group on the target and fire five groups (five shots per group). In the event that your instructor determines it is not practical to adjust the sights—for instance, on a borrowed air rifle—you may explain (rather than doing) how to adjust the sights, and then fire five groups (five shots per group) in which all shots can be touched by a quarter. According to the target used, each shot in the group must meet the following minimum score: BB rifle at 15 feet (or 5 meters) using TQ-5 targets: 8; Pellet rifle at 25 feet using TQ-5 targets: 8; Pellet rifle at 33 feet (or 10 meters) using AR-1 targets: 6.
 
 
     * (C) Option C: Muzzleloading Rifle Shooting
@@ -71,7 +71,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
         * (k) Demonstrate how to clean a muzzleloading rifle properly and safely.
         * (l) Discuss what points you would consider in selecting a muzzleloading rifle.
         * (m) Using a muzzleloading rifle of .45 or .50 caliber and shooting from a benchrest or supported prone position, fire three groups (three shots per group) at 50 feet that can be covered by the base of a standard-size soft drink can.
-        * (n) Adjust the sights to center the group on the target and fire three groups (five shots per group). In the event that your instructor determines it is not practical to adjust the sights -- for instance, on a borrowed muzzleloading rifle -- you may explain (rather than doing) how to adjust the sights, and then fire three groups (five shots per group) in which all shots can be covered by the base of a standard-size soft drink can. According to the target used, each shot in the group must meet the following minimum score: at 25 yards using NRA A-23 or NMLRA 50-yard targets: 7; at 50 yards using NRA A-25 or NMLRA 100-yard targets: 7.
+        * (n) Adjust the sights to center the group on the target and fire three groups (five shots per group). In the event that your instructor determines it is not practical to adjust the sights—for instance, on a borrowed muzzleloading rifle—you may explain (rather than doing) how to adjust the sights, and then fire three groups (five shots per group) in which all shots can be covered by the base of a standard-size soft drink can. According to the target used, each shot in the group must meet the following minimum score: at 25 yards using NRA A-23 or NMLRA 50-yard targets: 7; at 50 yards using NRA A-25 or NMLRA 100-yard targets: 7.
 
 
 

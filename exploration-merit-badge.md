@@ -21,7 +21,7 @@ Discover the history and importance of various kinds of exploration by earning t
 * (3) Explain to your counselor why it is important to explore. Discuss the following:
     * (a) Why it is important for exploration to have a scientific basis
     * (b) How explorers have aided in our understanding of our world
-    * (c) What you think it takes to be an explorer
+    * (c) What you think it takes to be an explorer.
 
 
 * (4) Do ONE of the following:
@@ -49,7 +49,7 @@ Discover the history and importance of various kinds of exploration by earning t
 * (7) With your parent or guardian's permission and counselor's  approval, prepare for an actual expedition to an area you have not previously explored; the place may be nearby or far away. Do the following:
     * (a) Make your preparations under the supervision of a trained expedition leader, expedition planner, or other qualified adult experienced in exploration (such as a school science teacher, museum representative, or qualified instructor).
     * (b) Use the steps listed in requirement 6 to guide your preparations. List the items of equipment and supplies you will need. Discuss with your counselor why you chose each item and how it will be of value on the expedition. Determine who should go on the expedition.
-    * (c) Conduct a pre-expedition check, covering the steps in requirement 6, and share the results with your counselor. With your counselor, walk through the Sweet Sixteen of BSA Safety for your expedition. Ensure that all foreseeable hazards for your expedition are adequately addressed.
+    * (c) Conduct a pre-expedition check, covering the steps in requirement 6, and share the results with your counselor. With your counselor, walk through the Scouting America SAFE Checklist for your expedition. Ensure that all foreseeable hazards for your expedition are adequately addressed.
 
 
 * (8) Complete the following:

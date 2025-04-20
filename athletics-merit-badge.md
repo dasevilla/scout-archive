@@ -19,9 +19,9 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
 
 
 * (2) Do the following:
-    * (a) a. Before completing requirements 3 and 5, have your health-care practitioner give you a physical examination, using the Scout Annual Health and Medical Record form.
+    * (a) Before completing requirements 3 and 5, have your health-care practitioner give you a physical examination, using the Scout Annual Health and Medical Record form.
     * (b) Explain the importance of a physical exam.
-    * (c) Explain the importance of maintaining good health habits, especially during training-and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in athletic activities.
+    * (c) Explain the importance of maintaining good health habits, especially during training—and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in athletic activities.
     * (d) Explain the importance of maintaining a healthy diet.
 
 
@@ -29,7 +29,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     * (a) With guidance from your counselor, establish a personal training program suited to the activity you have chosen. Follow this training program for three months.
     * (b) Create a chart to monitor your progress during this time.
     * (c) Explain to your counselor the equipment necessary to participate in this activity and the appropriate clothing for the time of year.
-    * (d) At the end of three months, review the chart you created for requirement 3b, and discuss with your counselor what progress you have made during training. Tell how your development has affected you mentally and physically.
+    * (d) At the end of three months, review the chart you created for requirement 3(b), and discuss with your counselor what progress you have made during training. Tell how your development has affected you mentally and physically.
 
 
 * (4) Do the following:

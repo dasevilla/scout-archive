@@ -51,6 +51,6 @@ As Scouts fulfill the requirements for this merit badge, they will learn how to 
 
 - [Citizenship in the Nation merit badge page](https://www.scouting.org/merit-badges/citizenship-in-the-nation/)
 - [Citizenship in the Nation merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35871(22)_Citizenship_Nation_REQS.pdf) ([local copy](files/citizenship-in-the-nation-merit-badge.pdf))
-- [Citizenship in the Nation merit badge pamphlet](https://www.scoutshop.org/citizenship-in-the-nation-merit-badge-pamphlet-655629.html)
+- [Citizenship in the Nation merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

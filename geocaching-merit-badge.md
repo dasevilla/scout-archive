@@ -47,6 +47,6 @@ The word geocache is a combination of “geo,” which means “earth,” and �
 
 - [Geocaching merit badge page](https://www.scouting.org/merit-badges/geocaching/)
 - [Geocaching merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Geocaching.pdf) ([local copy](files/geocaching-merit-badge.pdf))
-- [Geocaching merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-geocaching-merit-badge-pamphlet-661777.html)
+- [Geocaching merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

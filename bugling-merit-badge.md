@@ -29,6 +29,6 @@ What would summer camp be without the bugle sounding “Reveille” in the morni
 
 - [Bugling merit badge page](https://www.scouting.org/merit-badges/bugling/)
 - [Bugling merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Bugling.pdf) ([local copy](files/bugling-merit-badge.pdf))
-- [Bugling merit badge pamphlet](https://www.scoutshop.org/music-and-bugling-merit-badge-pamphlet-650736.html)
+- [Bugling merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

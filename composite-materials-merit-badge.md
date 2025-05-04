@@ -47,6 +47,6 @@ Composites can be found just about everywhere: in airplanes and sports cars, gol
 
 - [Composite Materials merit badge page](https://www.scouting.org/merit-badges/composite-materials/)
 - [Composite Materials merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35877(23)_Composite_Materials_REQ.pdf) ([local copy](files/composite-materials-merit-badge.pdf))
-- [Composite Materials merit badge pamphlet](https://www.scoutshop.org/composite-materials-35877.html)
+- [Composite Materials merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

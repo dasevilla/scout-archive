@@ -64,6 +64,6 @@ Discover the why and how we explore space. Learn about current and historic spac
 
 - [Space Exploration merit badge page](https://www.scouting.org/merit-badges/space-exploration/)
 - [Space Exploration merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Space_Exploration.pdf) ([local copy](files/space-exploration-merit-badge.pdf))
-- [Space Exploration merit badge pamphlet](https://www.scoutshop.org/space-exploration-merit-badge-pamphlet-654567.html)
+- [Space Exploration merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

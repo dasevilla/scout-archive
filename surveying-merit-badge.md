@@ -30,6 +30,6 @@ While earning this merit badge, Scouts will discover how land is measured and ho
 
 - [Surveying merit badge page](https://www.scouting.org/merit-badges/surveying/)
 - [Surveying merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Surveying.pdf) ([local copy](files/surveying-merit-badge.pdf))
-- [Surveying merit badge pamphlet](https://www.scoutshop.org/surveying-merit-badge-pamphlet-654568.html)
+- [Surveying merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

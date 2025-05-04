@@ -51,6 +51,6 @@ Inventing involves finding technological solutions to real-world problems. Inven
 
 - [Inventing merit badge page](https://www.scouting.org/merit-badges/inventing/)
 - [Inventing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35833(23)_Inventing_REQ.pdf) ([local copy](files/inventing-merit-badge.pdf))
-- [Inventing merit badge pamphlet](https://www.scoutshop.org/inventing-merit-badge-pamphlet-654378.html)
+- [Inventing merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

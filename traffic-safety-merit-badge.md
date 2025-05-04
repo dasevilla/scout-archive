@@ -50,6 +50,6 @@ Staying safe in traffic wherever you live is getting more difficult all the time
 
 - [Traffic Safety merit badge page](https://www.scouting.org/merit-badges/traffic-safety/)
 - [Traffic Safety merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35960(22)_Traffic_Safety_REQS.pdf) ([local copy](files/traffic-safety-merit-badge.pdf))
-- [Traffic Safety merit badge pamphlet](https://www.scoutshop.org/traffic-safety-merit-badge-pamphlet-656262.html)
+- [Traffic Safety merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

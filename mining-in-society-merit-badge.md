@@ -60,6 +60,6 @@ The Mining in Society merit badge covers the history of mining, explores the sta
 
 - [Mining in Society merit badge page](https://www.scouting.org/merit-badges/mining-in-society/)
 - [Mining in Society merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35737(22)_Mining_in_Society_REQS.pdf) ([local copy](files/mining-in-society-merit-badge.pdf))
-- [Mining in Society merit badge pamphlet](https://www.scoutshop.org/bsa-mining-in-society-merit-badge-pamphlet-boy-scouts-of-america-660064.html)
+- [Mining in Society merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -37,6 +37,6 @@ Model making, the art of creating copies of objects that are either smaller or l
 
 - [Model Design and Building merit badge page](https://www.scouting.org/merit-badges/model-design-and-building/)
 - [Model Design and Building merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/ModelDesign_and_Building.pdf) ([local copy](files/model-design-and-building-merit-badge.pdf))
-- [Model Design and Building merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-model-design-building-merit-badge-pamphlet-662406.html)
+- [Model Design and Building merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

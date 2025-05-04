@@ -50,6 +50,6 @@ Trucking is a large and important industry. No matter where you live, a day is u
 
 - [Truck Transportation merit badge page](https://www.scouting.org/merit-badges/truck-transportation/)
 - [Truck Transportation merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Truck_Transportation.pdf) ([local copy](files/truck-transportation-merit-badge.pdf))
-- [Truck Transportation merit badge pamphlet](https://www.scoutshop.org/truck-transportation-merit-badge-pamphlet-35961.html)
+- [Truck Transportation merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

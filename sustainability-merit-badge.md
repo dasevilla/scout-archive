@@ -65,6 +65,6 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 
 - [Sustainability merit badge page](https://www.scouting.org/merit-badges/sustainability/)
 - [Sustainability merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Sustainability.pdf) ([local copy](files/sustainability-merit-badge.pdf))
-- [Sustainability merit badge pamphlet](https://www.scoutshop.org/sustainability-merit-badge-pamphlet-654372.html)
+- [Sustainability merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

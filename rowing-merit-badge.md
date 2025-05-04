@@ -61,6 +61,6 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
 
 - [Rowing merit badge page](https://www.scouting.org/merit-badges/rowing/)
 - [Rowing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35943(21)Rowing_REQ.pdf) ([local copy](files/rowing-merit-badge.pdf))
-- [Rowing merit badge pamphlet](https://www.scoutshop.org/bsa-rowing-merit-badge-pamphlet-boy-scouts-of-america-660062.html)
+- [Rowing merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

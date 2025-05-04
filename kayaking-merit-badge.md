@@ -69,6 +69,6 @@ Kayaking has become one of the fastest-growing paddlesports in the United States
 
 - [Kayaking merit badge page](https://www.scouting.org/merit-badges/kayaking/)
 - [Kayaking merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Kayaking.pdf) ([local copy](files/kayaking-merit-badge.pdf))
-- [Kayaking merit badge pamphlet](https://www.scoutshop.org/kayaking-merit-badge-pamphlet-650732.html)
+- [Kayaking merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

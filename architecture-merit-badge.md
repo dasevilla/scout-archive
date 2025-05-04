@@ -38,6 +38,6 @@ Architecture is not just the special buildings like cathedrals, museums, or spor
 
 - [Architecture merit badge page](https://www.scouting.org/merit-badges/architecture/)
 - [Architecture merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35857(23)_Architecture_REQ.pdf) ([local copy](files/architecture-merit-badge.pdf))
-- [Architecture merit badge pamphlet](https://www.scoutshop.org/bsa-architecture-and-landscape-merit-badge-pamphlet-boy-scouts-of-america-659867.html)
+- [Architecture merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

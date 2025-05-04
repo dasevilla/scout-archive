@@ -64,6 +64,6 @@ The field of public health deals with maintaining and monitoring the health of c
 
 - [Public Health merit badge page](https://www.scouting.org/merit-badges/public-health/)
 - [Public Health merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35935(21)PublicHealth_REQ.pdf) ([local copy](files/public-health-merit-badge.pdf))
-- [Public Health merit badge pamphlet](https://www.scoutshop.org/mbp-public-health-656822.html)
+- [Public Health merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

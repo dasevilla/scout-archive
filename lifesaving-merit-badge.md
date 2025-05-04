@@ -72,6 +72,6 @@ No Boy Scout will ignore a plea for help. However, the desire to help is of litt
 
 - [Lifesaving merit badge page](https://www.scouting.org/merit-badges/lifesaving/)
 - [Lifesaving merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35915(21)Lifesaving_REQ.pdf) ([local copy](files/lifesaving-merit-badge.pdf))
-- [Lifesaving merit badge pamphlet](https://www.scoutshop.org/bsa-lifesaving-merit-badge-pamphlet-merit-badge-series-pamphlet-merit-badge-guide-and-659216.html)
+- [Lifesaving merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

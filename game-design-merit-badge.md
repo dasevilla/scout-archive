@@ -57,6 +57,6 @@ Games come in almost every shape, size, format, and flavor imaginable. Games can
 
 - [Game Design merit badge page](https://www.scouting.org/merit-badges/game-design/)
 - [Game Design merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35708(23)_Game_Design_REQ.pdf) ([local copy](files/game-design-merit-badge.pdf))
-- [Game Design merit badge pamphlet](https://www.scoutshop.org/game-design-merit-badge-pamphlet-660199.html)
+- [Game Design merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

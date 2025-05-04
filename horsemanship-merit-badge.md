@@ -47,6 +47,6 @@ In addition to learning how to safely ride and care for horses, Scouts who earn 
 
 - [Horsemanship merit badge page](https://www.scouting.org/merit-badges/horsemanship/)
 - [Horsemanship merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Horsemanship.pdf) ([local copy](files/horsemanship-merit-badge.pdf))
-- [Horsemanship merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-horesemanship-merit-badge-pamphlet-662399.html)
+- [Horsemanship merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

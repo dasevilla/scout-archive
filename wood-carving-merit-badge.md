@@ -43,6 +43,6 @@ As with any art, wood carving involves learning the basics of design, along with
 
 - [Wood Carving merit badge page](https://www.scouting.org/merit-badges/wood-carving/)
 - [Wood Carving merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Wood_Carving.pdf) ([local copy](files/wood-carving-merit-badge.pdf))
-- [Wood Carving merit badge pamphlet](https://www.scoutshop.org/bsa-woodcarving-merit-badge-pamphlet-661585.html)
+- [Wood Carving merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -47,6 +47,6 @@ Every Scout swears to an oath that includes duty to his country. A better unders
 
 - [American Heritage merit badge page](https://www.scouting.org/merit-badges/american-heritage/)
 - [American Heritage merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/American_Heritage.pdf) ([local copy](files/american-heritage-merit-badge.pdf))
-- [American Heritage merit badge pamphlet](https://www.scoutshop.org/american-heritage-merit-badge-pamphlet-654548.html)
+- [American Heritage merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

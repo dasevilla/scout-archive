@@ -49,6 +49,6 @@ Scouts who complete the requirements to earn the Leatherwork merit badge will ex
 
 - [Leatherwork merit badge page](https://www.scouting.org/merit-badges/leatherwork/)
 - [Leatherwork merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Leatherwork.pdf) ([local copy](files/leatherwork-merit-badge.pdf))
-- [Leatherwork merit badge pamphlet](https://www.scoutshop.org/bsa-leatherwork-merit-badge-pamphlet-661052.html)
+- [Leatherwork merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

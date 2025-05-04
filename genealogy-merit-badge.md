@@ -55,6 +55,6 @@ Exploring your roots—where your family name came from, why your family lives w
 
 - [Genealogy merit badge page](https://www.scouting.org/merit-badges/genealogy/)
 - [Genealogy merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35903(23)_Genealogy_REQ.pdf) ([local copy](files/genealogy-merit-badge.pdf))
-- [Genealogy merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-genealogy-merit-badge-pamphlet-660396.html)
+- [Genealogy merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

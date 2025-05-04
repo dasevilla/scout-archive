@@ -39,6 +39,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Athletics](athletics-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/athletics/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35860(22)_Athletics_REQS.pdf)
 1. [Automotive Maintenance](automotive-maintenance-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/automotive-maintenance/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Automotive_Maintenance.pdf)
 1. [Aviation](aviation-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/aviation/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Aviation.pdf)
+1. [Backpacking](backpacking-2-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/backpacking-2/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Backpacking.pdf)
 1. [Backpacking](backpacking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/backpacking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Backpacking.pdf)
 1. [Basketry](basketry-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/basketry/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Basketry.pdf)
 1. [Bird Study](bird-study-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/bird-study/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Bird_Study.pdf)
@@ -165,4 +166,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Wood_Carving.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35968(21)Woodwork_REQ.pdf)
 
-Generated on 2025-04-27 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2025-05-04 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

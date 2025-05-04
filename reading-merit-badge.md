@@ -47,6 +47,6 @@ If you have ever wanted to go back in time or wished you could visit the future,
 
 - [Reading merit badge page](https://www.scouting.org/merit-badges/reading/)
 - [Reading merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35940(22)_Reading_REQS.pdf) ([local copy](files/reading-merit-badge.pdf))
-- [Reading merit badge pamphlet](https://www.scoutshop.org/bsa-reading-merit-badge-pamphlet-boy-scouts-of-america-659872.html)
+- [Reading merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

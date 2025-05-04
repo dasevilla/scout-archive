@@ -108,6 +108,6 @@ Personal management is about mapping a plan for your life that will involve sett
 
 - [Personal Management merit badge page](https://www.scouting.org/merit-badges/personal-management/)
 - [Personal Management merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Personal_Management.pdf) ([local copy](files/personal-management-merit-badge.pdf))
-- [Personal Management merit badge pamphlet](https://www.scoutshop.org/personal-management-merit-badge-pamphlet-660208.html)
+- [Personal Management merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

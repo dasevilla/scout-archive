@@ -49,6 +49,6 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
 
 - [Oceanography merit badge page](https://www.scouting.org/merit-badges/oceanography/)
 - [Oceanography merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Oceanography.pdf) ([local copy](files/oceanography-merit-badge.pdf))
-- [Oceanography merit badge pamphlet](https://www.scoutshop.org/oceanography-merit-badge-pamphlet-654572.html)
+- [Oceanography merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -38,6 +38,6 @@ Water sports are a fun and exhilarating way to enjoy being outdoors while develo
 
 - [Water Sports merit badge page](https://www.scouting.org/merit-badges/water-sports/)
 - [Water Sports merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Water_Sports.pdf) ([local copy](files/water-sports-merit-badge.pdf))
-- [Water Sports merit badge pamphlet](https://www.scoutshop.org/water-sports-merit-badge-pamphlet-649657.html)
+- [Water Sports merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

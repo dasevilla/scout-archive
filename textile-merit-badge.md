@@ -39,6 +39,6 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
 
 - [Textile merit badge page](https://www.scouting.org/merit-badges/textile/)
 - [Textile merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Textile.pdf) ([local copy](files/textile-merit-badge.pdf))
-- [Textile merit badge pamphlet](https://www.scoutshop.org/textile-merit-badge-pamphlet-650746.html)
+- [Textile merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

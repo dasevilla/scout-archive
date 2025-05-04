@@ -80,6 +80,6 @@ Conservation isn’t just the responsibility of soil and plant scientists, hydro
 
 - [Soil and Water Conservation merit badge page](https://www.scouting.org/merit-badges/soil-and-water-conservation/)
 - [Soil and Water Conservation merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Soil_and_WaterConservation.pdf) ([local copy](files/soil-and-water-conservation-merit-badge.pdf))
-- [Soil and Water Conservation merit badge pamphlet](https://www.scoutshop.org/soil-water-conservation-merit-badge-pamphlet-649768.html)
+- [Soil and Water Conservation merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

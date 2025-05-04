@@ -57,6 +57,6 @@ Understand various disabilities and how they affect your friends, family, and co
 
 - [Disabilities Awareness merit badge page](https://www.scouting.org/merit-badges/disabilities-awareness/)
 - [Disabilities Awareness merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35883(23)_Disabilities_Awareness_REQ.pdf) ([local copy](files/disabilities-awareness-merit-badge.pdf))
-- [Disabilities Awareness merit badge pamphlet](https://www.scoutshop.org/disabilities-awareness-merit-badge-pamphlet-655705.html)
+- [Disabilities Awareness merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

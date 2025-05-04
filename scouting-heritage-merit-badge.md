@@ -49,6 +49,6 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
 
 - [Scouting Heritage merit badge page](https://www.scouting.org/merit-badges/scouting-heritage/)
 - [Scouting Heritage merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Scouting_Heritage.pdf) ([local copy](files/scouting-heritage-merit-badge.pdf))
-- [Scouting Heritage merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-scouting-heritage-merit-badge-pamphlet-662432.html)
+- [Scouting Heritage merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

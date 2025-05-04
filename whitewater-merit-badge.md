@@ -95,6 +95,6 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
 
 - [Whitewater merit badge page](https://www.scouting.org/merit-badges/whitewater/)
 - [Whitewater merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Whitewater.pdf) ([local copy](files/whitewater-merit-badge.pdf))
-- [Whitewater merit badge pamphlet](https://www.scoutshop.org/mbp-4c-whitewater-618652.html)
+- [Whitewater merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -69,6 +69,6 @@ For several centuries, the canoe was a primary method of travel for explorers an
 
 - [Canoeing merit badge page](https://www.scouting.org/merit-badges/canoeing/)
 - [Canoeing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35867(22)_Canoeing_REQS.pdf) ([local copy](files/canoeing-merit-badge.pdf))
-- [Canoeing merit badge pamphlet](https://www.scoutshop.org/bsa-canoeing-merit-badge-pamphlet-661589.html)
+- [Canoeing merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

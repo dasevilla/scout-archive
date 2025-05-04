@@ -44,6 +44,6 @@ Here’s an astonishing number to digest. Each person in the United States uses 
 
 - [Pulp and Paper merit badge page](https://www.scouting.org/merit-badges/pulp-and-paper/)
 - [Pulp and Paper merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pulp_and_Paper.pdf) ([local copy](files/pulp-and-paper-merit-badge.pdf))
-- [Pulp and Paper merit badge pamphlet](https://www.scoutshop.org/pulp-paper-merit-badge-pamphlet-655713.html)
+- [Pulp and Paper merit badge pamphlet](None)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

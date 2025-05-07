@@ -46,14 +46,14 @@ class MeritBadgesSpider(scrapy.Spider):
 
         # Get badge PDF URL
         pdf_url = response.xpath(
-            "//a[.//span[contains(text(), 'Download Current')]]/@href"
+            "//a[.//span[contains(text(), 'Download the Free Pamphlet')]]/@href"
         ).get()
         item["badge_pdf_url"] = pdf_url or ""
         item["file_urls"] = [pdf_url] if pdf_url else []
 
         # Get badge shop URL
         item["badge_shop_url"] = response.xpath(
-            '//*[@id="page"]/div/section[4]/div/div/div/div/div/div/div/section/div/div[1]/div/div[3]/div/div/a/@href'
+            "//a[.//span[contains(text(), 'Shop Now')]]/@href"
         ).get()
 
         # Get badge image URL

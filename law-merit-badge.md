@@ -50,7 +50,7 @@ Earning this merit badge enables a Scout to learn about the history and kinds of
 ## Resources
 
 - [Law merit badge page](https://www.scouting.org/merit-badges/law/)
-- [Law merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Law.pdf) ([local copy](files/law-merit-badge.pdf))
-- [Law merit badge pamphlet](None)
+- [Law merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Law_2023.pdf) ([local copy](files/law-merit-badge.pdf))
+- [Law merit badge pamphlet](https://www.scoutshop.org/law-merit-badge-pamphlet-650871.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

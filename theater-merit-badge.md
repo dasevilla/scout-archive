@@ -42,7 +42,7 @@ While earning the Theater merit badge, Scouts will learn to appreciate live perf
 ## Resources
 
 - [Theater merit badge page](https://www.scouting.org/merit-badges/theater/)
-- [Theater merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35959(21)Theater_REQ.pdf) ([local copy](files/theater-merit-badge.pdf))
-- [Theater merit badge pamphlet](None)
+- [Theater merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Theater_2025.pdf) ([local copy](files/theater-merit-badge.pdf))
+- [Theater merit badge pamphlet](https://www.scoutshop.org/theater-merit-badge-pamphlet-650747.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

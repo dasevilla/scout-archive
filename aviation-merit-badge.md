@@ -57,7 +57,7 @@ For most of history, people have dreamed of flying, imagining how it would feel 
 ## Resources
 
 - [Aviation merit badge page](https://www.scouting.org/merit-badges/aviation/)
-- [Aviation merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Aviation.pdf) ([local copy](files/aviation-merit-badge.pdf))
-- [Aviation merit badge pamphlet](None)
+- [Aviation merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation_2024.pdf) ([local copy](files/aviation-merit-badge.pdf))
+- [Aviation merit badge pamphlet](https://www.scoutshop.org/bsa-aviation-merit-badge-pamphlet-661044.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

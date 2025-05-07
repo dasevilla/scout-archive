@@ -36,7 +36,7 @@ A mammal may weigh as little as 1/12 ounce, as do some shrews, or as much as 150
 ## Resources
 
 - [Mammal Study merit badge page](https://www.scouting.org/merit-badges/mammal-study/)
-- [Mammal Study merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35916(23)_Mammal_Study_REQ.pdf) ([local copy](files/mammal-study-merit-badge.pdf))
-- [Mammal Study merit badge pamphlet](None)
+- [Mammal Study merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mammal%20Study_2025.pdf) ([local copy](files/mammal-study-merit-badge.pdf))
+- [Mammal Study merit badge pamphlet](https://www.scoutshop.org/bsa-mammal-study-merit-badge-pamphlet-y-scouts-of-america-660058.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

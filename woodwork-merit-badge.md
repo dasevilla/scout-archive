@@ -44,7 +44,7 @@ Wood is an amazingly versatile, practical, yet beautiful material. A skilled cra
 ## Resources
 
 - [Woodwork merit badge page](https://www.scouting.org/merit-badges/woodwork/)
-- [Woodwork merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35968(21)Woodwork_REQ.pdf) ([local copy](files/woodwork-merit-badge.pdf))
-- [Woodwork merit badge pamphlet](None)
+- [Woodwork merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork_2024.pdf) ([local copy](files/woodwork-merit-badge.pdf))
+- [Woodwork merit badge pamphlet](https://www.scoutshop.org/bsa-woodwork-merit-badge-pamphlet-boy-scouts-of-america-659870.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -41,7 +41,7 @@ Programming merit badge will take you “behind the screen” for a look at the 
 ## Resources
 
 - [Programming merit badge page](https://www.scouting.org/merit-badges/programming/)
-- [Programming merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35710(23)_Programming_REQ.pdf) ([local copy](files/programming-merit-badge.pdf))
-- [Programming merit badge pamphlet](None)
+- [Programming merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Programming_2025.pdf) ([local copy](files/programming-merit-badge.pdf))
+- [Programming merit badge pamphlet](https://www.scoutshop.org/bsa-programming-merit-badge-pamphlet-661584.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

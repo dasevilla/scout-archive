@@ -33,7 +33,7 @@ Landscape architects design and plan the various outdoor spaces in modern commun
 ## Resources
 
 - [Landscape Architecture merit badge page](https://www.scouting.org/merit-badges/landscape-architecture/)
-- [Landscape Architecture merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Landscape_Arch.pdf) ([local copy](files/landscape-architecture-merit-badge.pdf))
-- [Landscape Architecture merit badge pamphlet](None)
+- [Landscape Architecture merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Architecture_Landscape_2025.pdf) ([local copy](files/landscape-architecture-merit-badge.pdf))
+- [Landscape Architecture merit badge pamphlet](https://www.scoutshop.org/bsa-architecture-and-landscape-merit-badge-pamphlet-boy-scouts-of-america-659867.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

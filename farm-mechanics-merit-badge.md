@@ -51,7 +51,7 @@ From the mattock and hoe to the horse and mule, the cotton gin and reaper, the t
 ## Resources
 
 - [Farm Mechanics merit badge page](https://www.scouting.org/merit-badges/farm-mechanics/)
-- [Farm Mechanics merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35894(23)_Farm_Mechanics_REQ.pdf) ([local copy](files/farm-mechanics-merit-badge.pdf))
-- [Farm Mechanics merit badge pamphlet](None)
+- [Farm Mechanics merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Farm%20Mechanics_2024.pdf) ([local copy](files/farm-mechanics-merit-badge.pdf))
+- [Farm Mechanics merit badge pamphlet](https://www.scoutshop.org/bsa-farm-mechanics-merit-badge-pamphlet-661046.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

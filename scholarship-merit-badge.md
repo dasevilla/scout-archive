@@ -40,7 +40,7 @@ Working on the Scholarship merit badge provides Scouts with a great opportunity 
 ## Resources
 
 - [Scholarship merit badge page](https://www.scouting.org/merit-badges/scholarship/)
-- [Scholarship merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Scholarship.pdf) ([local copy](files/scholarship-merit-badge.pdf))
-- [Scholarship merit badge pamphlet](None)
+- [Scholarship merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Scholarship_2024.pdf) ([local copy](files/scholarship-merit-badge.pdf))
+- [Scholarship merit badge pamphlet](https://www.scoutshop.org/scholarship-merit-badge-pamphlet-650740.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

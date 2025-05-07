@@ -42,7 +42,7 @@ Learn how animal diversity impacts the planet and the longevity of communities a
 ## Resources
 
 - [Fish & Wildlife Management merit badge page](https://www.scouting.org/merit-badges/fish-wildlife-management/)
-- [Fish & Wildlife Management merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35898(21)FishWildlife_REQ.pdf) ([local copy](files/fish-wildlife-management-merit-badge.pdf))
-- [Fish & Wildlife Management merit badge pamphlet](None)
+- [Fish & Wildlife Management merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fish%20and%20Wildlife_2024.pdf) ([local copy](files/fish-wildlife-management-merit-badge.pdf))
+- [Fish & Wildlife Management merit badge pamphlet](https://www.scoutshop.org/fish-and-wildlife-management-merit-badge-pamphlet-655190.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

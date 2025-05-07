@@ -73,7 +73,7 @@ In learning about astronomy, Scouts study how activities in space affect our own
 ## Resources
 
 - [Astronomy merit badge page](https://www.scouting.org/merit-badges/astronomy/)
-- [Astronomy merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35859(22)_Astronomy_REQS.pdf) ([local copy](files/astronomy-merit-badge.pdf))
-- [Astronomy merit badge pamphlet](None)
+- [Astronomy merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Astronomy_2024.pdf) ([local copy](files/astronomy-merit-badge.pdf))
+- [Astronomy merit badge pamphlet](https://www.scoutshop.org/bsa-astronomy-merit-badge-pamphlet-661050.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

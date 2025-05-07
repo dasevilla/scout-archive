@@ -88,7 +88,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
 ## Resources
 
 - [Metalwork merit badge page](https://www.scouting.org/merit-badges/metalwork/)
-- [Metalwork merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Metalwork.pdf) ([local copy](files/metalwork-merit-badge.pdf))
-- [Metalwork merit badge pamphlet](None)
+- [Metalwork merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Metalwork_2024.pdf) ([local copy](files/metalwork-merit-badge.pdf))
+- [Metalwork merit badge pamphlet](https://www.scoutshop.org/metalwork-merit-badge-pamphlet-655637.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

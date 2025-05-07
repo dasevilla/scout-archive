@@ -42,7 +42,7 @@ Engineers use both science and technology to turn ideas into reality, devising a
 ## Resources
 
 - [Engineering merit badge page](https://www.scouting.org/merit-badges/engineering/)
-- [Engineering merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Engineering.pdf) ([local copy](files/engineering-merit-badge.pdf))
-- [Engineering merit badge pamphlet](None)
+- [Engineering merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Engineering_2023.pdf) ([local copy](files/engineering-merit-badge.pdf))
+- [Engineering merit badge pamphlet](https://www.scoutshop.org/bsa-engineering-merit-badge-pamphletboy-scouts-of-america-660201.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

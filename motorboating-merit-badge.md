@@ -57,7 +57,7 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
 ## Resources
 
 - [Motorboating merit badge page](https://www.scouting.org/merit-badges/motorboating/)
-- [Motorboating merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35920(21)MotorBoating_REQ.pdf) ([local copy](files/motorboating-merit-badge.pdf))
-- [Motorboating merit badge pamphlet](None)
+- [Motorboating merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Motorboating_2024.pdf) ([local copy](files/motorboating-merit-badge.pdf))
+- [Motorboating merit badge pamphlet](https://www.scoutshop.org/bsa-motorboating-merit-badge-pamphlet-boy-scouts-of-america-660060.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

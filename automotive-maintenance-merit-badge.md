@@ -103,7 +103,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
 ## Resources
 
 - [Automotive Maintenance merit badge page](https://www.scouting.org/merit-badges/automotive-maintenance/)
-- [Automotive Maintenance merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Automotive_Maintenance.pdf) ([local copy](files/automotive-maintenance-merit-badge.pdf))
-- [Automotive Maintenance merit badge pamphlet](None)
+- [Automotive Maintenance merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Automotive%20Maintenance_2025.pdf) ([local copy](files/automotive-maintenance-merit-badge.pdf))
+- [Automotive Maintenance merit badge pamphlet](https://www.scoutshop.org/bsa-automotive-maintenance-merit-badge-pamphlet-661039.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

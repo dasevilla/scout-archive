@@ -68,7 +68,7 @@ Successfully completing this badge’s requirements can lead to a lifetime of pe
 ## Resources
 
 - [Home Repairs merit badge page](https://www.scouting.org/merit-badges/home-repairs/)
-- [Home Repairs merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35908(22)_Home_Repairs_REQS.pdf) ([local copy](files/home-repairs-merit-badge.pdf))
-- [Home Repairs merit badge pamphlet](None)
+- [Home Repairs merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Home%20Repairs_2024.pdf) ([local copy](files/home-repairs-merit-badge.pdf))
+- [Home Repairs merit badge pamphlet](https://www.scoutshop.org/home-repairs-merit-badge-pamphlet-656899.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -43,7 +43,7 @@ Here’s an astonishing number to digest. Each person in the United States uses 
 ## Resources
 
 - [Pulp and Paper merit badge page](https://www.scouting.org/merit-badges/pulp-and-paper/)
-- [Pulp and Paper merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pulp_and_Paper.pdf) ([local copy](files/pulp-and-paper-merit-badge.pdf))
-- [Pulp and Paper merit badge pamphlet](None)
+- [Pulp and Paper merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp%20and%20Paper_2020.pdf) ([local copy](files/pulp-and-paper-merit-badge.pdf))
+- [Pulp and Paper merit badge pamphlet](https://www.scoutshop.org/pulp-paper-merit-badge-pamphlet-655713.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

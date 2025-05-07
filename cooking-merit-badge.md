@@ -76,7 +76,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 ## Resources
 
 - [Cooking merit badge page](https://www.scouting.org/merit-badges/cooking/)
-- [Cooking merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35879(23)_Cooking_REQ.pdf) ([local copy](files/cooking-merit-badge.pdf))
-- [Cooking merit badge pamphlet](None)
+- [Cooking merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cooking_2023.pdf) ([local copy](files/cooking-merit-badge.pdf))
+- [Cooking merit badge pamphlet](https://www.scoutshop.org/bsa-cooking-merit-badge-pamphlet-es-boy-scouts-of-america-660397.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

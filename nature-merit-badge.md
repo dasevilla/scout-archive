@@ -80,7 +80,7 @@ There is a very close connection between the soil, the plants, and all animal li
 ## Resources
 
 - [Nature merit badge page](https://www.scouting.org/merit-badges/nature/)
-- [Nature merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35922(23)_Nature_REQ.pdf) ([local copy](files/nature-merit-badge.pdf))
-- [Nature merit badge pamphlet](None)
+- [Nature merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Nature_2024.pdf) ([local copy](files/nature-merit-badge.pdf))
+- [Nature merit badge pamphlet](https://www.scoutshop.org/bsa-nature-merit-badge-pamphlet-boy-scouts-of-america-659868.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

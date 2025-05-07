@@ -54,7 +54,7 @@ Understand how cultures evolve and investigate the past using clues our ancestor
 ## Resources
 
 - [Archaeology merit badge page](https://www.scouting.org/merit-badges/archaeology/)
-- [Archaeology merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35855(21)Archaeology_REQ.pdf) ([local copy](files/archaeology-merit-badge.pdf))
-- [Archaeology merit badge pamphlet](None)
+- [Archaeology merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archaeology_2025.pdf) ([local copy](files/archaeology-merit-badge.pdf))
+- [Archaeology merit badge pamphlet](https://www.scoutshop.org/archaeology-merit-badge-pamphlet-660203.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

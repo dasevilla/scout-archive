@@ -82,7 +82,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
 ## Resources
 
 - [Climbing merit badge page](https://www.scouting.org/merit-badges/climbing/)
-- [Climbing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35873(22)_Climbing_REQS.pdf) ([local copy](files/climbing-merit-badge.pdf))
-- [Climbing merit badge pamphlet](None)
+- [Climbing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Climbing_2024.pdf) ([local copy](files/climbing-merit-badge.pdf))
+- [Climbing merit badge pamphlet](https://www.scoutshop.org/bsa-climbing-merit-badge-pamphlet-661043.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -44,7 +44,7 @@ Coin collecting is one of the oldest of all hobbies. Hoards of ancient coins fou
 ## Resources
 
 - [Coin Collecting merit badge page](https://www.scouting.org/merit-badges/coin-collecting/)
-- [Coin Collecting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/35874(22)_Coin_Collecting_REQS.pdf) ([local copy](files/coin-collecting-merit-badge.pdf))
-- [Coin Collecting merit badge pamphlet](None)
+- [Coin Collecting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Coin%20Collecting_2024.pdf) ([local copy](files/coin-collecting-merit-badge.pdf))
+- [Coin Collecting merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-coin-collecting-merit-badge-pamphlet-661779.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -59,7 +59,7 @@ By studying salesmanship, Scouts can learn self-confidence, motivation, friendli
 ## Resources
 
 - [Salesmanship merit badge page](https://www.scouting.org/merit-badges/salesmanship/)
-- [Salesmanship merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/2023_Updates/35945(23)_Salesmanship_REQ.pdf) ([local copy](files/salesmanship-merit-badge.pdf))
-- [Salesmanship merit badge pamphlet](None)
+- [Salesmanship merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Salesmanship_2025.pdf) ([local copy](files/salesmanship-merit-badge.pdf))
+- [Salesmanship merit badge pamphlet](https://www.scoutshop.org/bsa-salesmanship-merit-badge-pamphlet-boy-scouts-of-america-660398.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

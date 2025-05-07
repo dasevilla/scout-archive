@@ -25,7 +25,7 @@ This merit badge introduces Scouts to sculpture, an art form that allows an arti
 ## Resources
 
 - [Sculpture merit badge page](https://www.scouting.org/merit-badges/sculpture/)
-- [Sculpture merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Sculpture.pdf) ([local copy](files/sculpture-merit-badge.pdf))
-- [Sculpture merit badge pamphlet](None)
+- [Sculpture merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sculpture_2025.pdf) ([local copy](files/sculpture-merit-badge.pdf))
+- [Sculpture merit badge pamphlet](https://www.scoutshop.org/sculpture-merit-badge-pamphlet-650742.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

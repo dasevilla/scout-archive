@@ -37,7 +37,7 @@ The labor movement in America seeks to ensure that the civil rights of laborers 
 ## Resources
 
 - [American Labor merit badge page](https://www.scouting.org/merit-badges/american-labor/)
-- [American Labor merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/American_Labor.pdf) ([local copy](files/american-labor-merit-badge.pdf))
-- [American Labor merit badge pamphlet](None)
+- [American Labor merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Labor_2024.pdf) ([local copy](files/american-labor-merit-badge.pdf))
+- [American Labor merit badge pamphlet](https://www.scoutshop.org/american-labor-merit-badge-pamphlet-647962.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

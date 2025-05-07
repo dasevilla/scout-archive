@@ -85,7 +85,7 @@ Radio is a way to send information, or communications, from one place to another
 ## Resources
 
 - [Radio merit badge page](https://www.scouting.org/merit-badges/radio/)
-- [Radio merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Radio.pdf) ([local copy](files/radio-merit-badge.pdf))
-- [Radio merit badge pamphlet](None)
+- [Radio merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Radio_2025.pdf) ([local copy](files/radio-merit-badge.pdf))
+- [Radio merit badge pamphlet](https://www.scoutshop.org/bsa-radio-merit-badge-pamphlet-661041.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

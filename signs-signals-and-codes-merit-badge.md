@@ -55,7 +55,7 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
 ## Resources
 
 - [Signs, Signals, and Codes merit badge page](https://www.scouting.org/merit-badges/signs-signals-and-codes/)
-- [Signs, Signals, and Codes merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/SignsSignals_and_Codes.pdf) ([local copy](files/signs-signals-and-codes-merit-badge.pdf))
-- [Signs, Signals, and Codes merit badge pamphlet](None)
+- [Signs, Signals, and Codes merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Signs%20Signals%20Codes_2025.pdf) ([local copy](files/signs-signals-and-codes-merit-badge.pdf))
+- [Signs, Signals, and Codes merit badge pamphlet](https://www.scoutshop.org/signs-signals-codes-merit-badge-pamphlet-656309.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

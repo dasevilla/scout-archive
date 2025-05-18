@@ -8,7 +8,7 @@
 
 
 
-Canoeing or kayaking through whitewater rapids can be a thrilling experience. Safe whitewater fun requires each participant to understand the the equipment and techniques and to have a firm respect for the power of nature’s waterways.
+Canoeing or kayaking through whitewater rapids can be a thrilling experience. Safe whitewater fun requires each participant to understand the equipment and techniques and to have a firm respect for the power of nature’s waterways.
 
 ## Requirements
 

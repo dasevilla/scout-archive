@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 Since 1911, hundreds of thousands of Scouts have made the most of their two-wheel adventures by earning the Cycling merit badge. Whether you just got your first bicycle or have been cycling for years, you will learn more about your bike and what it can do by working on the requirements for this badge.
 

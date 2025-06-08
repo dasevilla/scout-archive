@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 Personal management is about mapping a plan for your life that will involve setting short-range and long-range goals and investigating different ways to reach those goals. Education, training, and experience all help make your goals become a reality. To achieve your goals, you will choose the best path and make a commitment to it, while remaining flexible enough to deal with changes and new opportunities.
 

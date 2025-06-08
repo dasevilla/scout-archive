@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 Realize the benefits of diversity, equity, inclusion, and ethical leadership with the Citizenship in Society Merit Badge. Scouts will research any individual who has demonstrated positive leadership while making an ethical decision, explain what options the leader had when faced with a problem, why they believe they chose their final course of action, and the outcome of the leader’s decision.
 
@@ -98,6 +98,7 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
 ## Resources
 
 - [Citizenship in Society merit badge page](https://www.scouting.org/merit-badges/citizenship-in-society/)
-- [Citizenship in Society merit badge pamphlet](None)
+- [Citizenship in Society merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20In%20Society_2021.pdf)
+- [Citizenship in Society merit badge pamphlet](#)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

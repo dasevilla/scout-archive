@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 The family is the basic unit of society and is important to both individuals and communities. The world is rapidly changing, making today’s society much more complex than ever before. As Scouts earn this merit badge, they will realize why it is important to know more about family life and how to strengthen their families.
 

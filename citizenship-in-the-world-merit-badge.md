@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 Scouts who earn the Citizenship in the World merit badge will discover that they are already a citizen of the world. How good a citizen each person is depends on his willingness to understand and appreciate the values, traditions, and concerns of people in other countries.
 

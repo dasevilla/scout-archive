@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 Personal fitness is an individual effort and desire to be the best one can be. Regardless of their current levels of personal fitness, in the twelve weeks it will take Scouts to complete the athletic requirements for this merit badge, they will be in better shape, feel better about themselves, have more energy, and gain self-confidence in their overall abilities.
 

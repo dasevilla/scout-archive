@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 First aid—caring for injured or ill persons until they can receive professional medical care—is an important skill for every Scout. With some knowledge of first aid, a Scout can provide immediate care and help to someone who is hurt or who becomes ill. First aid can help prevent infection and serious loss of blood. It could even save a limb or a life.
 

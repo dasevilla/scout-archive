@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 Scouts are often called upon to help because they know first aid and they know about the discipline and planning needed to react to an emergency situation. Earning this merit badge helps a Scout to be prepared by learning the actions that can be helpful and needed before, during, and after an emergency.
 

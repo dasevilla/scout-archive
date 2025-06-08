@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 The Cooking merit badge introduces principles of cooking that can be used both at home or in the outdoors. Scouts who earn this badge will learn about food safety, nutritional guidelines, meal planning, and methods of food preparation, and will review the variety of culinary (or cooking) careers available.
 

@@ -6,7 +6,7 @@
 
 ## Overview
 
-
+**Eagle required**
 
 No Boy Scout will ignore a plea for help. However, the desire to help is of little use unless one knows how to give the proper aid. The main purpose of the Lifesaving merit badge is to prepare Scouts to assist those involved in water accidents, teaching them the basic knowledge of rescue techniques, the skills to perform them, and the judgment to know when and how to act so that they can be prepared for emergencies.
 

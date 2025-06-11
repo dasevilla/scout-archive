@@ -6,7 +6,7 @@
 
 ## Overview
 
-
+**Eagle required**
 
 A nation is a patchwork of communities that differ from each other and may be governed differently. But regardless of how local communities differ, they all have one point in common: In the United States, local government means self-government. Good citizens help to make decisions about their community through their elected local officials.
 

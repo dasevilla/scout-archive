@@ -6,7 +6,7 @@
 
 ## Overview
 
-
+**Eagle required**
 
 As Scouts fulfill the requirements for this merit badge, they will learn how to become active citizens are aware of and grateful for their liberties and rights, to participate in their governments and protect their freedom, helping to defend their country and standing up for individual rights on behalf of all its citizens.
 

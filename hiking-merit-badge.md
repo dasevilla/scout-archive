@@ -6,7 +6,7 @@
 
 ## Overview
 
-
+**Eagle required**
 
 Hiking is a terrific way to keep your body and mind in top shape, both now and for a lifetime. Walking packs power into your legs and makes your heart and lungs healthy and strong. Exploring the outdoors challenges you with discoveries and new ideas. Your senses will improve as you use your eyes and ears to gather information along the way.
 

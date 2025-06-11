@@ -6,7 +6,7 @@
 
 ## Overview
 
-
+**Eagle required**
 
 Learn to reduce waste and teach sustainable practices to others so you can help conserve Earth’s resources with the Sustainability Merit Badge. Scouts will develop and implement a plan to reduce their water usage, household food waste, and learn about the sustainability of different energy sources, including fossil fuels, solar, wind, nuclear, hydropower, and geothermal.
 

@@ -36,7 +36,7 @@ Far different from the stereotypes or common images that are portrayed on film, 
 ## Resources
 
 - [Indian Lore merit badge page](https://www.scouting.org/merit-badges/indian-lore/)
-- [Indian Lore merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Indian%20Culture_2025.pdf) ([local copy](files/indian-lore-merit-badge.pdf))
+- [Indian Lore merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Indian_Lore_2024.pdf) ([local copy](files/indian-lore-merit-badge.pdf))
 - [Indian Lore merit badge pamphlet](https://www.scoutshop.org/indian-lore-merit-badge-pamphlet-655636.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -6,7 +6,7 @@
 
 ## Overview
 
-
+**Eagle required**
 
 While earning the Environmental Science merit badge, Scouts will get a taste of what it is like to be an environmental scientist, making observations and carrying out experiments to investigate the natural world.
 

@@ -6,7 +6,7 @@
 
 ## Overview
 
-
+**Eagle required**
 
 Swimming is a leisure activity, a competitive sport, and a basic survival skill. Scouts who earn this badge will learn about safety when swimming and diving, how swimming can contribute to overall fitness and health, and gain some basic competitive swimming skills.
 

@@ -6,7 +6,7 @@
 
 ## Overview
 
-
+**Eagle required**
 
 Camping is one of the best-known methods of the Scouting movement. When he founded the Scouting movement in the early 1900s, Robert Baden-Powell encouraged every Scout to learn the art of living out-of-doors. He believed a young person able to take care of himself while camping would have the confidence to meet life’s other challenges, too.
 

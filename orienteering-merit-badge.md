@@ -53,6 +53,6 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
 
 - [Orienteering merit badge page](https://www.scouting.org/merit-badges/orienteering/)
 - [Orienteering merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Orienteering_2024.pdf) ([local copy](files/orienteering-merit-badge.pdf))
-- [Orienteering merit badge pamphlet](https://www.scoutshop.org/bsa-orienteering-merit-badge-pamphlet-661053.html)
+- [Orienteering merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-orienteering-merit-badge-pamphlet-662414.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

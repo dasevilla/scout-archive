@@ -92,6 +92,6 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
 
 - [Animal Science merit badge page](https://www.scouting.org/merit-badges/animal-science/)
 - [Animal Science merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Animal%20Science_2023.pdf) ([local copy](files/animal-science-merit-badge.pdf))
-- [Animal Science merit badge pamphlet](https://www.scoutshop.org/no-name-provided-656985.html)
+- [Animal Science merit badge pamphlet](https://www.scoutshop.org/bsa-animal-science-merit-badge-pamphlet-boy-scouts-of-america-660194.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

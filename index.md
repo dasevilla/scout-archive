@@ -125,7 +125,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Programming](programming-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/programming/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Programming_2025.pdf)
 1. [Public Health](public-health-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/public-health/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Health_2022.pdf)
 1. [Public Speaking](public-speaking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/public-speaking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Speaking_2020.pdf)
-1. [Pulp and Paper](pulp-and-paper-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/pulp-and-paper/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp%20and%20Paper_2020.pdf)
+1. [Pulp and Paper](pulp-and-paper-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/pulp-and-paper/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp-Paper-2025-requirements.pdf)
 1. [Radio](radio-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/radio/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Radio_2025.pdf)
 1. [Railroading](railroading-2-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/railroading-2/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Railroading_2023.pdf)
 1. [Reading](reading-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/reading/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Reading_2024.pdf)
@@ -165,4 +165,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving_2025.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork_2024.pdf)
 
-Generated on 2025-06-29 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2025-07-06 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

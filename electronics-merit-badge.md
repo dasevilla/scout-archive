@@ -35,7 +35,7 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
     * (c) Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.
         * (1) A control device
         * (2) A digital circuit
-        * (3) Analog circuit
+        * (3) Analog circuit.
 
 
 

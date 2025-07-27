@@ -21,7 +21,7 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
 
 * (4) Do TWO of the following:
     * (a) Explain international law and how it differs from national law. Explain the role of international law and how international law can be used as a tool for conflict resolution.
-    * (b) Using resources such as major daily newspapers, the Internet (with your parent or guardian's permission), and news magazines, observe a current issue that involves international trade, foreign exchange, balance of payments, tariffs, and free trade. Explain what you have learned. Include in your discussion an explanation of why countries must cooperate in order for world trade and global competition to thrive.
+    * (b) Using resources such as major daily newspapers, the internet (with your parent or guardian's permission), and news magazines, observe a current issue that involves international trade, foreign exchange, balance of payments, tariffs, and free trade. Explain what you have learned. Include in your discussion an explanation of why countries must cooperate in order for world trade and global competition to thrive.
     * (c) Select TWO of the following organizations and describe their role in the world.
         * (1) United Nations and United Nations Children's Fund (UNICEF)
         * (2) International Court of Justice (The World Court)

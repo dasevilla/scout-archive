@@ -42,7 +42,7 @@ Scouts are often called upon to help because they know first aid and they know a
 
 
 * (3) Do the following:
-    * (a) At a family meeting, discuss the situations on the chart you created for requirement 2b and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor.
+    * (a) At a family meeting, discuss the situations on the chart you created for requirement 2(b) and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor.
     * (b) Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor.
     * (c) Using a checklist in the Emergency Preparedness Merit Badge pamphlet or one approved by your counselor, prepare or inspect a family disaster kit for sheltering-in-place and for evacuation of your home. Review the needs and uses of the items in a kit with your counselor.
 
@@ -68,7 +68,7 @@ Scouts are often called upon to help because they know first aid and they know a
 * (7) With another person, show two good ways to transport an injured person out of a remote area using improvised stretchers to conserve the energy of rescuers while ensuring the well-being and protection of the injured person.
 * (8) Do the following:
     * (a) Describe the National Incident Management System (NIMS) and the local Incident Command System (ICS).
-    * (b) Find out how your community and its leaders work to manage and to train for disasters. Discuss this information with your counselor, using the information you learned from requirement 1b.
+    * (b) Find out how your community and its leaders work to manage and to train for disasters. Discuss this information with your counselor.
     * (c) Discuss how a Scout troop can help in an emergency situation using ICS.
 
 

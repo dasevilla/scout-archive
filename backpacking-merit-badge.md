@@ -55,7 +55,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
     * (b) Conduct a prehike inspection of the patrol and its equipment.
     * (c) Show that you know how to properly pack your personal gear and your share of the crew's gear and food.
     * (d) Show you can properly shoulder your pack and adjust it for proper wear.
-    * (e) While using the plan you developed for requirement 9a, carry your fully loaded pack to complete a hike of at least 2 miles.
+    * (e) While using the plan you developed for requirement 9(a), carry your fully loaded pack to complete a hike of at least 2 miles.
 
 
 * (10) Following the Leave No Trace Seven Principles and the Outdoor Code, participate in at least three backpacking treks of at least three days each and at least 15 miles each, and using at least two different campsites on each trek. Carry everything you will need throughout the trek.

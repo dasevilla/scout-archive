@@ -45,7 +45,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
 
 
 * (5) Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following Options:
-    * Option A: Recurve Bow or Longbow
+    * Option A — Recurve Bow or Longbow. Do the following:
         * (a) Name and point to the parts of the recurve or longbow you are shooting.
         * (b) Explain how to properly care for and store recurve bows and longbows.
         * (c) Demonstrate and explain USA Archery's eleven "Steps of Shooting" for the bow you are shooting.
@@ -64,7 +64,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
 
 
 
-    * Option B: Compound Bow
+    * Option B — Compound Bow. Do the following:
         * (a) Name and point to the parts of the compound bow you are shooting.
         * (b) Explain how to properly care for and store compound bows.
         * (c) Demonstrate and explain USA Archery's eleven "Steps of Shooting" for the bow you are shooting.
@@ -78,7 +78,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
                 * (d) An NFAA indoor round and make a score of 60 points (indoor rounds may be shot outdoors if this is more convenient)
 
 
-            * (2) Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160. Accomplish this in the following manner: Shoot 15 arrows in five-arrow ends, at a distance of 10 yards AND Shoot 15 arrows in five-arrow ends, at a distance of 15 yards.
+            * (2) Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160. Accomplish this in the following manner:  Shoot 15 arrows in five-arrow ends, at a distance of 10 yards  AND  Shoot 15 arrows in five-arrow ends, at a distance of 15 yards.
 
 
 

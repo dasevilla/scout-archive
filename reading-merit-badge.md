@@ -17,7 +17,7 @@ If you have ever wanted to go back in time or wished you could visit the future,
     * (b) Learn how to search a library's card catalog or computerized catalog by author, title, and subject.
     * (c) In a library, search the card catalog or computerized catalog for six books of four different types, such as poetry, fiction, nonfiction, and biographies.
     * (d) With the assistance of your counselor or the librarian, see if you can locate on the shelves the six books you selected.
-    * (e) Explain what is a library card, why it is needed, and how to get one.
+    * (e) Explain what a library card is, why it is needed, and how to get one.
 
 
 * (2) Do the following:
@@ -26,7 +26,7 @@ If you have ever wanted to go back in time or wished you could visit the future,
 
 
 * (3) Read four different types of books, such as poetry, fiction, nonfiction, or biographies. Do one of the following for each book you have read:
-    * (a) Write a review of the book. Include what you liked/didn't like about the book. Include whether you would recommend this book, and if so, who might enjoy reading it.
+    * (a) Write a review of the book. Include what you liked and/or didn't like about the book. Include whether you would recommend this book, and if so, who might enjoy reading it.
     * (b) Watch a movie based on the book. What was the same between the book and movie? What was different? Which did you enjoy more? Discuss this with your counselor.
     * (c) Give a "book talk" to your class, troop, or patrol.
 

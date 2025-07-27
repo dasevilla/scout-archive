@@ -23,7 +23,7 @@ A mammal may weigh as little as 1/12 ounce, as do some shrews, or as much as 150
 * (4) Do ONE of the following:
     * (a) Under the guidance of a nature center or natural history museum, make two study skins of rats or mice. Tell the uses of study skins and mounted specimens respectively.
     * (b) Take good pictures of two kinds of mammals in the wild. Record the date(s), time of day, weather conditions, approximate distance from the animal, habitat conditions, and any other factors you feel may have influence the animal's activity and behavior.
-    * (c) Write a life history of a native game mammal that lives in your area, covering the points outlined in requirement 3c. List sources for this information.
+    * (c) Write a life history of a native game mammal that lives in your area, covering the points outlined in requirement 3(c). List sources for this information.
     * (d) Make and bait a tracking pit. Report what mammals and other animals came to the bait.
     * (e) Visit a natural history museum. Report on how specimens are prepared and cataloged. Explain the purposes of museums.
     * (f) Write a report of 500 words on a book about a mammal species.

@@ -56,7 +56,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
 
 
 * (7) Do ONE of the following special-interest options:
-    * (a) Option A: Model Railroading  With your parent or guardian's and counselor's approval, do TWO of the following:
+    * (a) Option A — Model Railroading.  With your parent or guardian's and counselor's approval, do TWO of the following:
         * (1) Draw a layout of your own model railroad or one that could be built in your home. Design a point-to-point track or loop with different routings. Include one of the following: turnaround or terminal or yard or siding.
         * (2) Build one model railroad car kit or one locomotive kit.
         * (3) Name the scale of four popular model railroad gauges. Identify the scale of four model cars or locomotives.
@@ -67,7 +67,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
         * (8) Explain the difference between powering and controlling a model railroad by using direct current, and powering and controlling a model railroad using digital command control.
 
 
-    * (b) Option B: Railfanning  With your parent or guardian's and counselor's approval, do TWO of the following:
+    * (b) Option B — Railfanning.  With your parent or guardian's and counselor's approval, do TWO of the following:
         * (1) Visit a railroad museum, historical display, or a prototype railroad sponsored public event. With permission, photograph, digitally record, or sketch items of interest. Explain what you saw and describe your photos, sketches, or video.
         * (2) Purchase tickets and ride a scenic or historic railroad. Under supervision, photograph the equipment and discuss with your counselor the historic significance of the operation.
         * (3) Locate the Web site of four rail historical groups, then find information on the history of the rail preservation operations and purpose of each group. Talk with a member of one of the groups and find out how you might help.

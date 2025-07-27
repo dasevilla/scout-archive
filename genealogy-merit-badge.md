@@ -28,7 +28,7 @@ Exploring your roots—where your family name came from, why your family lives w
     * (a) Name three types of physical genealogical resources and where you can find them, and explain how these resources can help you chart your family tree.
     * (b) Name three types of digital genealogical resources and where you can find them, and explain how these resources can help you chart your family tree.
     * (c) Obtain at least one genealogical document that supports an event that is or can be recorded on your pedigree chart or family group record.
-    * (d) Tell how you found it and how you would evaluate the genealogical information you found for requirement 4c.
+    * (d) Tell how you found it and how you would evaluate the genealogical information you found for requirement 4(c).
     * (e) Tell a likely place to find these type of genealogical records: marriage record, census record, birth record, and burial information.
 
 
@@ -43,7 +43,7 @@ Exploring your roots—where your family name came from, why your family lives w
 * (6) Begin your family tree by listing yourself and include at least two additional generations. You may complete this requirement by using the chart provided in themerit badge pamphlet or the genealogy software program of your choice.
 * (7) Complete a family group record form, listing yourself and your brothers and sisters as the children. On another family group record form, show one of your parents and his or her brothers and sisters as the children. This requirement may be completed using the chart provided or the genealogy software program of your choice.
 * (8) Do the following:
-    * (a) Explain the effect computers and the Internet are having on the world of genealogy.
+    * (a) Explain the effect computers and the internet are having on the world of genealogy.
     * (b) Explain how photography (including microfilming) has influenced genealogy.
     * (c) Explain how record indexing works and how that has influenced genealogy.
 

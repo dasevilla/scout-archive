@@ -12,6 +12,7 @@ There is a very close connection between the soil, the plants, and all animal li
 
 ## Requirements
 
+* 
 * (1) Name three ways in which plants are important to animals. Name a plant that is protected in your state or region, and explain why it is at risk.
 * (2) Name three ways in which animals are important to plants. Name an animal that is protected in your state or region, and explain why it is at risk.
 * (3) Explain the term "food chain." Give an example of a four-step land food chain and a four-step water food chain.
@@ -49,7 +50,7 @@ There is a very close connection between the soil, the plants, and all animal li
 
     * (g) 
         * (1) In the field, identify 15 species of wild plants.
-        * (2) Do ONE of the following options:
+        * (2) Do ONE of the following:
             * (a) Collect and label the seeds of six plants OR the leaves of 12 plants.
             * (b) Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.
 
@@ -74,7 +75,6 @@ There is a very close connection between the soil, the plants, and all animal li
     * (b) Identify how you might use the skills and knowledge in Nature to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
 
 
-* NOTE: In most cases all specimens should be returned to the wild at the location of original capture after the requirements have been met. Check with your merit badge counselor for those instances where the return of these specimens would not be appropriate.Under the Endangered Species Act of 1973, some plants and animals are or may be protected by federal law. The same ones and/or others may be protected by state law. Be sure that you do not collect protected species.Your state may require that you purchase and carry a license to collect certain species. Check with the wildlife and fish and game officials in your state regarding species regulations before you begin to collect.
 
 
 ## Resources

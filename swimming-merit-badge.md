@@ -17,7 +17,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
     * (b) Discuss the prevention and treatment of health concerns that could occur while swimming, including hypothermia, dehydration, sunburn, heat exhaustion, heatstroke, muscle cramps, hyperventilation, spinal injury, stings and bites, and cuts and scrapes.
 
 
-* (2) Before doing the following requirements, successfully complete the BSA  swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
+* (2) Before doing the following requirements, successfully complete the Scouting America swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
 * (3) Correctly perform the following strokes:
     * (a) Demonstrate the front crawl or the trudgen using good form.
     * (b) Demonstrate the back crawl using good form.
@@ -45,9 +45,8 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
     * (c) Do a headfirst surface dive to a depth of at least 5 feet and swim underwater for three strokes. Come to the surface, take a breath, and repeat the sequence twice.
 
 
-* (8) Following the guidelines set in the BSA Safe Swim Defense, in water at least  7 feet deep*, show a standing headfirst dive from a dock or pool deck. Show  a long shallow dive, also from the dock or pool deck.
+* (8) Following the guidelines set in the Scouting America Safe Swim Defense, in water at least  7 feet deep, show a standing headfirst dive from a dock or pool deck. Show  a long shallow dive, also from the dock or pool deck.If your state, city, or local community requires a water depth greater than 7 feet, it is important to  abide by that mandate.
 * (9) Explain the health benefits of regular aerobic exercise, and discuss why  swimming is favored as both fitness and therapeutic exercise.
-* \* If your state, city, or local community requires a water depth greater than 7 feet, it is important to  abide by that mandate.
 
 
 ## Resources

@@ -57,7 +57,7 @@ Multisport is a racing competition that includes any combination of running, bik
 
 
 * (6) Learn the methods of setting up your transition area, which is where your bike equipment and/or running gear will be. Discuss with your counselor how to smoothly and safely transition from one element to the next, such as mounting and dismounting your bike or adjusting your gear.
-* (7) After completing requirements 1-6, complete all of the activities (on the same day and consecutively) for the multisport focus area that you selected in requirement 3(d), including demonstrating a smooth and safe transition between each:[When referring to race distances, "m" stands for meter (about 3.28 feet) and "km" or simply "k" stands for kilometer  (about 0.62 mile).]
+* (7) After completing requirements 1-6, complete all of the activities (on the same day and consecutively) for the multisport focus area that you selected in requirement  3(d), including demonstrating a smooth and safe transition between each:When referring to race distances, "m" stands for meter (about 3.28 feet) and "km" or simply "k" stands for kilometer   (about 0.62 mile).
 * (8) Do TWO of the following and discuss with your counselor:
     * (a) Research and identify two ways you can continue participating in multisport after completing this merit badge.
     * (b) Research an Olympic, Paralympic, or professional triathlete (past or current). Share information on their background in the sport and what inspires you most about this individual.

@@ -30,7 +30,7 @@ One thing is for sure about journalism: It is never boring. For a reporter, almo
     * (a) Choose a current or an unusual event of interest to you, and write either a hard news article OR a feature article about the event. Gear the article for print OR audio OR video journalism. Share your article with your counselor.
     * (b) With your parent or guardian's permission and counselor's approval, interview someone in your community who is influential because of his or her leadership, talent, career, or life experiences. Then present to your counselor either a written or oral report telling what you learned about this person.
     * (c) With your parent or guardian's permission and counselor's approval, read an autobiography written by a journalist you want to learn more about. Write an article that tells what you learned about this person and the contributions this person has made to the field of journalism.
-    * (d) Attend a Scouting event and write a 200-word article (feature or hard news) about the event. Use either the inverted pyramid style or the chronological style. Review the article with your counselor, then submit it to your community newspaper or BSA local council or district newsletter for consideration.
+    * (d) Attend a Scouting event and write a 200-word article (feature or hard news) about the event. Use either the inverted pyramid style or the chronological style. Review the article with your counselor, then submit it to your community newspaper or Scouting America local council or district newsletter for consideration.
 
 
 * (4) Attend a public event and do ONE of the following:

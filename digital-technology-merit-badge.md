@@ -52,7 +52,7 @@ Comprehend how electronic devices work and how to use them effectively with the 
 * (7) Do the following:
     * (a) Explain to your counselor each of these protections and why they exist: copyright, patents, trademarks, trade secrets.
     * (b) Explain when it is permissible to accept a free copy of a program from a friend.
-    * (c) Discuss with your counselor an article or (with your parent of guardian's permission) a report on the internet about a recent legal case involving an intellectual property dispute.
+    * (c) Discuss with your counselor an article or (with your parent or guardian's permission) a report on the internet about a recent legal case involving an intellectual property dispute.
 
 
 * (8) Do TWO of the following:

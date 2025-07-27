@@ -26,7 +26,7 @@ Staying safe in traffic wherever you live is getting more difficult all the time
 
 * (3) Do the following:
     * (a) Using a vehicle that you have access to, demonstrate that all marker lights, parking lights, brake lights, turn signals, and headlights are clear and operational. Explain when you would use these lights, where the switches are to operate these lights and how these lights contribute to safe and courteous driving.
-    * (b) Using a vehicle that you have access to, demonstrate how to check the vehicle's tire pressure and where o locate the correct tire pressure rating. Explain why proper tire pressure is important to the safe operation and fuel economy of the vehicle.
+    * (b) Using a vehicle that you have access to, demonstrate how to check the vehicle's tire pressure and where to locate the correct tire pressure rating. Explain why proper tire pressure is important to the safe operation and fuel economy of the vehicle.
     * (c) Explain why proper tire tread depth is important to safe driving. On the same vehicle you checked the tire pressure on, demonstrate a method to check for adequate tire tread depth.
     * (d) Explain issues that might affect the driver's ability to see through the front, rear, and side windows. Demonstrate with a smear-and-clear test if the windshield wiper blades will clear the windshield completely or need to be replaced. Describe instances in good and bad weather when windshield wipers are important to safe driving.
 

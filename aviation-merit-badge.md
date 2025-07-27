@@ -34,7 +34,7 @@ For most of history, people have dreamed of flying, imagining how it would feel 
     * (b) Under supervision, perform a preflight inspection of an aircraft.
     * (c) Observe and/or participate in an aircraft maintenance activity. Describe the maintenance schedule and requirements for an aircraft of your choice.
     * (d) Obtain and learn how to read an aeronautical chart. Measure a true course on the chart; correct it for magnetic variation, compass deviation, and wind drift to determine a navigational heading for an aircraft.
-    * (e) With your parents or guardian's permission, take a discovery flight in an aircraft. Record the date, place, type of aircraft, and duration of flight. Report on your impressions of the flight.
+    * (e) With your parent or guardian's permission, take a discovery flight in an aircraft. Record the date, place, type of aircraft, and duration of flight. Report on your impressions of the flight.
 
 
 * (4) Do ONE of the following:

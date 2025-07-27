@@ -12,7 +12,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
 
 ## Requirements
 
-* If meeting any of the requirements for this merit badge is against the Scout's religious convictions, the requirement does not have to be done if the Scout's parent or guardian and the proper religious advisors state in writing that to do so would be against religious convictions. The Scout's parent or guardian must also accept full responsibility for anything that might happen because of this exemption.
+* 
 * (1) Do the following:
     * (a) Before completing requirements 2 through 9, have your health-care practitioner give you a physical examination, using the Scout Health and Medical Record form. Explain the following:
         * (1) Why physical exams are important
@@ -65,7 +65,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
 
 
 * (7) Outline a comprehensive 12-week physical fitness program using the results of your fitness tests. Be sure your program incorporates the endurance, intensity, and warm-up guidelines discussed in this merit badge pamphlet. Before beginning your exercises, have the program approved by your counselor and parent or guardian.
-* (8) Complete the physical fitness program you outlined in requirement 7. Keep a log of your fitness program activity (how long you exercised; how far you ran, swam, or biked; how many exercise repetitions you completed; your exercise heart rate; etc.). Keep a log of your weekly healthy eating goals. Repeat the aerobic fitness, muscular strength, and flexibility tests every four weeks and record your results. After the 12th week, repeat all of the required activities in each of the three test categories, record your results, and show improvement in each one. Discuss how well you met your healthy eating goals over these 12 weeks. Discuss the meaning and benefit of your experience, and describe your long-term plans regarding your personal fitness.
+* (8) Complete the physical fitness program you outlined in requirement 7. Keep a log of your fitness program activity (how long you exercised; how far you ran, swam, or biked; how many exercise repetitions you completed; your exercise  heart rate; etc.). Keep a log of your weekly healthy eating goals. Repeat the aerobic  fitness, muscular strength, and flexibility tests every four weeks and record your results. After the 12th week, repeat all of the required activities in each of the three test categories, record your results, and show improvement in each one. Discuss how well you met your healthy eating goals over these 12 weeks. Discuss the meaning and benefit of your experience, and describe your long-term plans regarding your personal fitness.
 * (9) Find out about three career opportunities in personal fitness. Pick one and find out the education, training, and experience required for this profession. Discuss what you learned with your counselor, and explain why this profession might interest you.
 
 

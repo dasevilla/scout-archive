@@ -12,6 +12,7 @@ Hiking is a terrific way to keep your body and mind in top shape, both now and f
 
 ## Requirements
 
+* 
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate and respond to these hazards.
     * (b) Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, snakebite.
@@ -32,8 +33,7 @@ Hiking is a terrific way to keep your body and mind in top shape, both now and f
     * (e) 20-mile hike
 
 
-* (5) After each of the hikes (or during each hike if on one continuous "trek") in requirement 4, write a short report on your hike. For each hike, give the date and description (or map) of the route covered, the weather, any interesting things you saw, and any challenges you had and how you overcame them. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this with your counselor.*
-* \*The required hikes for this badge may be used in fulfilling hiking requirements for rank advancement. However, these hikes cannot be used to fulfill requirements of other merit badges.
+* (5) After each of the hikes (or during each hike if on one continuous "trek") in requirement 4, write a short report on your hike. For each hike, give the date and description (or map) of the route covered, the weather, any interesting things you saw, and any challenges you had and how you overcame them. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this with your counselor.
 
 
 ## Resources

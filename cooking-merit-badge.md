@@ -12,6 +12,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 
 ## Requirements
 
+* 
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while participating in cooking activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Show that you know first aid for and how to prevent injuries or illnesses that could occur while preparing meals and eating, including burns and scalds, cuts, choking, and allergic reactions.
@@ -21,7 +22,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 
 
 * (2) Do the following:
-    * (a) Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:  (1) Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy
+    * (a) Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:   (1) Fruits  (2) Vegetables  (3) Grains  (4) Proteins  (5) Dairy.
     * (b) Explain why you should limit your intake of oils and sugars.
     * (c) Track your daily level of activity and your daily caloric need based on your activity for five days. Then, based on the MyPlate food guide, discuss with your counselor an appropriate meal plan for yourself for one day.
     * (d) Discuss your current eating habits with your counselor and what you can do to eat healthier, based on the MyPlate food guide.
@@ -35,14 +36,13 @@ The Cooking merit badge introduces principles of cooking that can be used both a
     * (d) Explain and give examples of how taste, texture, and smell impact what we eat.
 
 
-* The meals prepared for Cooking merit badge requirements 4, 5, and 6 will count only toward fulfilling those requirements and will not count toward rank advancement or other merit badges. Meals prepared for rank advancement or other merit badges may not count toward the Cooking merit badge. You must not repeat any menus for meals actually prepared or cooked in requirements 4, 5, and 6.
 * (4) Do the following:
     * (a) Using the MyPlate food guide or the current USDA nutrition model, plan menus for three full days of meals (three breakfasts, three lunches, and three dinners) plus one dessert. Your menus should include enough to feed yourself and at least one adult, keeping in mind any special needs (such as food allergies) and how you keep your foods safe and free from cross-contamination. List the equipment and utensils needed to prepare and serve these meals.
     * (b) Find recipes for each meal. Create a shopping list for your meals showing the amount of food needed to prepare for the number of people you will serve. Determine the cost for each meal.
     * (c) Share and discuss your meal plan and shopping list with your counselor.
     * (d) Using at least five of the 10 cooking methods from requirement 3, prepare and serve yourself and at least one adult (parent, family member, guardian, or other responsible adult) one breakfast, one lunch, one dinner, and one dessert from the meals you planned. The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. Those served need not be the same for all meals.
     * (e) Time your cooking to have each meal ready to serve at the proper time. Have an adult verify the preparation of the meal to your counselor.
-    * (f) After each meal, ask a person you served to evaluate the meal on presentation and taste, then evaluate your own meal. Discuss what you learned with your counselor, including any adjustments that could have improved or enhanced your meals. Tell how planning and preparation help ensure a successful meal.
+    * (f) After each meal, ask a person you served to evaluate the meal on presentation and taste, then evaluate your own meal. Discuss what you learned with your counselor, including any adjustments that could have improved or enhanced your meals. Tell how planning and preparation help ensure a successful meal. The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.
 
 
 * (5) Do the following:
@@ -60,7 +60,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
     * (a) Using the MyPlate food guide or the current USDA nutrition model, plan a day of meals for trail hiking or backpacking that includes one breakfast, one lunch, one dinner, and one snack. These meals must consider weight, not require refrigeration and are to be consumed by three to five people (including you). List the equipment and utensils needed to prepare and serve these meals.
     * (b) Create a shopping list for your meals, showing the amount of food needed to prepare and serve each meal, and the cost for each meal.
     * (c) Share and discuss your menu and shopping list with your counselor. Your plan must include how to repackage foods for your hike or backpacking trip to eliminate as much bulk, weight, and garbage as possible.
-    * (d) While on a trail hike or backpacking trip, prepare and serve two meals and a snack from the menu planned for this requirement. At least one of those meals must be cooked over a fire, or an approved trail stove (with proper supervision).**
+    * (d) While on a trail hike or backpacking trip, prepare and serve two meals and a snack from the menu planned for this requirement. At least one of those meals must be cooked over a fire, or an approved trail stove (with proper supervision).
     * (e) After each meal, have those you served evaluate the meal on presentation and taste, then evaluate your own meal. Discuss what you learned with your counselor, including any adjustments that could have improved or enhanced your meals. Tell how planning and preparation help ensure successful trail hiking or backpacking meals.
     * (f) Explain to your counselor how you should divide the food and cooking supplies among the patrol in order to share the load. Discuss how to properly clean the cooking area and store your food to protect it from animals.
 
@@ -70,7 +70,6 @@ The Cooking merit badge introduces principles of cooking that can be used both a
     * (b) Identify how you might use the skills and knowledge in cooking to pursue a personal hobby or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
 
 
-* \* The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively.  The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.** Where local regulations do not allow you to build a fire, the counselor may adjust the requirement to meet the  law. The meals in requirements 5 and 6 may be prepared for different trips and need not be prepared consecutively. Scouts working on this badge in summer camp should take into consideration foods that can be obtained at the  camp commissary.
 
 
 ## Resources

@@ -12,6 +12,7 @@ Successfully completing this badge’s requirements can lead to a lifetime of pe
 
 ## Requirements
 
+* 
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while working on home repairs and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working on home repairs.
     * (b) Discuss general precautions related to home repairs. Name at least 10 safe practices that every home repairer should exercise.
@@ -53,7 +54,7 @@ Successfully completing this badge’s requirements can lead to a lifetime of pe
     * (e) Clean or replace a sprinkler head.
 
 
-* (6) Under the supervision of your parent, guardian, or counselor, do THREE of the following:(Either a parent or the merit badge counselor may supervise the Scout's work on any Home Repairs requirements.)
+* (6) Under the supervision of your parent, guardian, or counselor, do THREE of the following:
     * (a) Paint a wall or ceiling.
     * (b) Repair or replace damaged tile, linoleum, or vinyl flooring.
     * (c) Install drapery or curtain rods and then hang drapes or curtains.

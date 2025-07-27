@@ -25,7 +25,7 @@ A nation is a patchwork of communities that differ from each other and may be go
 
 * (4) Choose an issue that is important to the citizens of your community; then do the following:
     * (a) Find out which branch of local government is responsible for this issue.
-    * (b) With your counselor's and a parent or guardian's approval, interview one person from the branch of government you identified in requirement 4a. Ask what is being done about this issue and how young people can help.
+    * (b) With your counselor's and a parent or guardian's approval, interview one person from the branch of government you identified in requirement 4(a). Ask what is being done about this issue and how young people can help.
     * (c) Share what you have learned with your counselor.
 
 
@@ -33,8 +33,8 @@ A nation is a patchwork of communities that differ from each other and may be go
 * (6) List some of the services (such as the library, recreation center, public transportation, and public safety) your community provides that are funded by taxpayers. Tell your counselor why these services are important to your community.
 * (7) Do the following:
     * (a) Identify three charitable organizations outside of Scouting that interest you and bring people in your community together to work for the good of your community.
-    * (b) Pick ONE of the organizations you chose for requirement 7a. Using a variety of resources (including newspapers, fliers and other literature, the Internet, volunteers, and employees of the organization), find out more about this organization.
-    * (c) With your counselor's and your parent or guardian's approval, contact the organization you chose for requirement 7b, and find out what young people can do to help. While working on this merit badge, volunteer at least eight hours of your time for the organization. After your volunteer experience is over, discuss what you have learned with your counselor.
+    * (b) Pick ONE of the organizations you chose for requirement 7(a). Using a variety of resources (including newspapers, fliers and other literature, the internet, volunteers, and employees of the organization), find out more about this organization.
+    * (c) With your counselor's and your parent or guardian's approval, contact the organization you chose for requirement 7(b), and find out what young people can do to help. While working on this merit badge, volunteer at least eight hours of your time for the organization. After your volunteer experience is over, discuss what you have learned with your counselor.
 
 
 * (8) Develop a public presentation (such as a video, slide show, speech, digital presentation, or photo exhibit) about important and unique aspects of your community. Include information about the history, cultures, and ethnic groups of your community; its best features and popular places where people gather; and the challenges it faces. Stage your presentation in front of your counselor or a group, such as your patrol or a class at school.

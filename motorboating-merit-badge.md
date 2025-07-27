@@ -19,7 +19,7 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
 
 
 * (2) Do the following:
-    * (a) Before doing requirement 5, successfully complete the BSA swimmer test.
+    * (a) Before doing requirement 5, successfully complete the Scouting America swimmer test.
     * (b) Name the different types of personal flotation devices (PFDs), and explain when each type should be used. Show how to choose and properly fit a PFD.
 
 
@@ -31,7 +31,7 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
 
 
 * (4) Show you know safety guidelines for motorboating by doing the following:
-    * (a) Review how each item of the BSA Safety Afloat policy applies, including checking the weather prior to and during time on the water, confirming all required equipment is present and functional, and following a float plan.
+    * (a) Review how each item of the Scouting America Safety Afloat policy applies, including checking the weather prior to and during time on the water, confirming all required equipment is present and functional, and following a float plan.
     * (b) Explain the rules or laws that apply to recreational boating in your area or state. Have a permit to operate a motorboat, if required by the laws of your state. Discuss how you would find information regarding the boating laws in different states.
     * (c) Discuss how hazards of weather and heavy water conditions can affect safety and performance in motorboating.
     * (d) Promise that you will follow Scouting America Safety Afloat guidelines. Explain the meaning of each point.
@@ -41,7 +41,7 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
     * (h) Discuss the common types of anchors used in motorboat-ing and under what conditions each would be preferred. Explain proper anchoring techniques.
 
 
-* (5) With your counselor or other adults on board, demonstrate proper boat-handling procedures and skills by doing the following:
+* (5) With your counselor or other adults on board, demonstrate proper boat-handling  procedures and skills by doing the following:
     * (a) Board and assist others in boarding. Confirm that all passengers on board are wearing properly fitted life jackets.
     * (b) Fuel the boat and complete a safety check.
     * (c) If equipped, attach the engine cut-off switch link and safely start the motor. Get underway from dockside or from a beach launch.

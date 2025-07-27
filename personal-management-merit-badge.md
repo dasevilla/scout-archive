@@ -12,6 +12,7 @@ Personal management is about mapping a plan for your life that will involve sett
 
 ## Requirements
 
+* 
 * (1) Do the following:
     * (a) Choose an item that your family might want to purchase that is considered a major expense.
     * (b) Write a plan that tells how your family would save money for the purchase identified in requirement 1(a).
@@ -101,7 +102,6 @@ Personal management is about mapping a plan for your life that will involve sett
     * (b) Explain to your counselor what the associated costs might be to pursue this career, such as tuition, school or training supplies, and room and board. Explain how you could prepare for these costs and how you might make up for any shortfall.
 
 
-* NOTE: Always be sure to have proper permission before using the internet. It is strongly advised that Scouts view the Personal Safety Awareness videos before starting work. Find details at
 
 
 ## Resources

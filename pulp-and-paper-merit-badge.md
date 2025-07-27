@@ -34,7 +34,7 @@ Here’s an astonishing number to digest. Each person in the United States uses 
     * (b) Visit a paper mill and get a sample of the paper made there. Describe the processes used for making this paper. Tell how it will be used.
     * (c) Visit a container plant or box plant. Describe how the plant's products are made.
     * (d) Visit a recycled paper collection or sorting facility. Describe the operations there.
-    * (e) Using books, magazines, your local library, the Internet (with your parent's permission), and any other suitable research tool, find out how paper products are developed. Find out what role research and development play in the papermaking industry. Share what you learn with your counselor.
+    * (e) Using books, magazines, your local library, the internet (with your parent or guardian's permission), and any other suitable research tool, find out how paper products are developed. Find out what role research and development play in the papermaking industry. Share what you learn with your counselor.
 
 
 * (8) Find out about three career opportunities in the papermaking industry that interest you. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.

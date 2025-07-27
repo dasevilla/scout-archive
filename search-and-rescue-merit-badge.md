@@ -12,6 +12,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 ## Requirements
 
+* The Scouting America'sstates under "Unauthorized and Restricted Activities" that flying in aircraft as part of a search and rescue mission is an unauthorized activity for youth members. For complete information, seeweb page.
 * (1) Do the following:
     * (a) Explain to your counselor the hazards you are most likely to encounter while participating in search and rescue (SAR) activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in SAR activities, including: snakebites, dehydration, shock, environmental emergencies such as hypothermia or heatstroke, blisters, and ankle and knee sprains.
@@ -40,7 +41,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 
 * (4) Find out who in your area has authority for search and rescue and what their responsibilities are. Discuss this with your counselor, and explain the official duties of a search and rescue team.
-* (5) Working with your counselor, become familiar with the Incident Command System.  You may use any combination of resource materials, such as printed or online.  Discuss with your counselor how features of the ICS compare with Scouting's patrol method*
+* (5) Working with your counselor, become familiar with the Incident Command System.  You may use any combination of resource materials, such as printed or online.  Discuss with your counselor how features of the ICS compare with Scouting's patrol method.
 * (6) Identify four types of search and rescue teams and discuss their use or role with your counselor. Then do the following:
     * (a) Interview a member of one of the teams you have identified above, and learn how this team contributes to a search and rescue operation. Discuss what you learned with your counselor.
     * (b) Describe the process and safety methods of working around at least two of the specialized SAR teams you identified above.
@@ -58,7 +59,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
     * (a) Complete an incident objectives form for this scenario.
     * (b) Complete an Incident Action Plan (IAP) to address this scenario.
     * (c) Discuss with your counselor the behavior of a lost person and how that would impact your incident action plan (for example, the differences between searching for a young child versus a teen).
-    * (d) After completing 8a-8c, discuss the hypothetical scenario with your counselor.
+    * (d) After completing 8(a)-8(c), discuss the hypothetical scenario with your counselor.
 
 
 * (9) Discuss with your counselor the termsand. Then do the following:

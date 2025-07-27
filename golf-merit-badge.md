@@ -14,7 +14,7 @@ Golf is unique because the players police themselves. Other sports depend upon r
 
 * (1) Discuss safety on the golf course. Show that you know first aid for injuries or illnesses that could occur while golfing, including lightning, heat reactions, sunburn, dehydration, blisters, animal or bug bites, poison ivy exposure, sprains, strains.
 * (2) Complete ONE of the following options:
-    * Option 1: Traditional Golf
+    * Option 1 — Traditional Golf
         * (A) Study the USGA "Rules of Golf" now in use.
             * (1) Tell about the three categories of golf etiquette.
             * (2) Demonstrate that you understand the definitions of golf terms.
@@ -53,7 +53,7 @@ Golf is unique because the players police themselves. Other sports depend upon r
         * (G) Find out about three careers related to traditional golf. Pick one and identify the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this interests you.
 
 
-    * Option 2: Disc Golf
+    * Option 2 — Disc Golf
         * (A) Study the "PDGA Official Rules of Disc Golf" now in use.
             * (1) Tell about the six areas of Courtesy (812).
             * (2) Describe the seven areas of Scoring (808).

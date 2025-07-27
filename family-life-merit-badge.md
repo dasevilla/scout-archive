@@ -24,14 +24,14 @@ The family is the basic unit of society and is important to both individuals and
 
 * (6) Do the following (discussion of each of these subjects may carry over to more than one family meeting):
     * (a) Discuss with your counselor how to plan and carry out a family meeting.
-    * (b) Prepare a meeting agenda that includes the following topics, review it with your parent or guardian, and then carry out one or more family meetings:
+    * (b) Prepare a meeting agenda that includes the following topics, review it with your parent or guardian, and then carry out one or more family meetings:  Discussion of each of these subjects will very likely carry over to more than one family meeting.
         * (1) How living the principles of the Scout Oath and Scout Law contributes to your family life
         * (2) The greatest dangers and addictions facing youth in today's society (examples include mental health challenges, use of tobacco products, alcohol, or drugs and other items such as debts, social media, etc.)
         * (3) The growing-up process and how the body changes, and making responsible decisions dealing with sex. This conversation may take place with only one parent or guardian.
         * (4) Personal and family finances
         * (5) A crisis situation within your family and whom you can turn to for support during these situations.
         * (6) The effect of technology on your family
-        * (7) Good etiquette and manners.
+        * (7) Good etiquette and manners.  Some of the issues surrounding requirement 6 for the family meeting could be considered of a personal nature. Use discretion when reviewing this requirement with the Scout.
 
 
 

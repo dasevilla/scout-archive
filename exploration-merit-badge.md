@@ -12,12 +12,13 @@ Discover the history and importance of various kinds of exploration by earning t
 
 ## Requirements
 
+* 
 * (1) Do the following:
     * (a) Define exploration and explain how it differs from adventure travel, trekking or hiking, tour-group trips, or recreational outdoor adventure trips.
     * (b) Explain how approaches to exploration may differ if it occurs in the ocean, in space, in a jungle, or in a science lab in a city.
 
 
-* (2) Discuss with your counselor the history of exploration. Select a field of study with a history of exploration to illustrate the importance of exploration in the development of that field (for example, aerospace, oil industry, paleontology, oceanography, etc.).
+* (2) Discuss with your counselor the history of exploration.  Select a field of study with a history of exploration to illustrate the importance of exploration in the development of that field (for example, aerospace, oil industry, paleontology, oceanography, etc.).
 * (3) Explain to your counselor why it is important to explore. Discuss the following:
     * (a) Why it is important for exploration to have a scientific basis
     * (b) How explorers have aided in our understanding of our world
@@ -58,7 +59,7 @@ Discover the history and importance of various kinds of exploration by earning t
     * (c) After you return, compile a report on the results of your expedition and how you accomplished your objective(s). Include a statement of the objectives, note your findings and observations, include photos, note any discoveries, report any problems or adverse events, and have a conclusion (whether you reached your objective or not). The post-expedition report must be at least one page and no more than three; one page can be photos, graphs, or figures.
 
 
-* (9) Identify three career opportunities in exploration. Pick one and explain to your counselor how to prepare for such a career. Discuss what education and training are required, and why this profession might interest you.
+* (9) Identify three career opportunities in exploration. Pick one and explain to your counselor how to prepare for such a career. Discuss what education and training are required, and why this profession  might interest you.
 
 
 ## Resources

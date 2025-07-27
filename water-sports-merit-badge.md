@@ -23,7 +23,7 @@ Water sports are a fun and exhilarating way to enjoy being outdoors while develo
     * (b) Review and discuss the Water Sports Safety Code with your counselor. Promise that you will live up to it and follow it in all water work for this merit badge. Review the safety precautions that must be used by the boat operator in pulling waterskiers and wakeboarders.
 
 
-* (3) Before doing requirements 4 through 6, successfully complete the BSA swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
+* (3) Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
 * (4) Show the following skier signals to the safety observer in the boat: skier safe, faster, slower, turns, back to dock, cut motor, skier in water.
 * (5) Showing reasonable control while using two skis, one ski, or a wakeboard, do the following:
     * (a) Show how to enter the water from a boat and make a deepwater start without help.
@@ -31,7 +31,7 @@ Water sports are a fun and exhilarating way to enjoy being outdoors while develo
     * (c) Show you can fall properly to avoid an obstacle. Also show that you can drop handle and coast to a stop without losing your balance.
 
 
-* (6) While on shore, show that you know how to properly adjust the bindings of your ski(s) or wakeboard to fit yourself. Then, in deep water, show you can adjust bindings to fit. Recover and put on your ski(s) or wakeboard that has come off during a fall.
+* (6) While on shore, show that you know how to properly adjust the bindings of your ski(s) or wakeboard to fit yourself. Then, in deep water, show you can  adjust bindings to fit. Recover and put on your ski(s) or wakeboard that has come off during a fall.
 
 
 ## Resources

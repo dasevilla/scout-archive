@@ -44,7 +44,7 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
     * (c) Things you can do to help ensure all Scouts in your unit are given an opportunity to be heard and included in decision-making and planning.
 
 
-* (6) With your parent's or guardian's approval, connect with another Scout or youth your own age who has an identity that's different from yours. (This means a trait, belief, or characteristic different from you.)
+* (6) With your parent or guardian's approval, connect with another Scout or youth your own age who has an identity that's different from yours. (This means a trait, belief, or characteristic different from you.)
     * (a) Share with each other what makes the different aspect of your identity meaningful/special to you
     * (b) Share with each other ONE of the following Options:
         * (i) A time you felt excluded from a group.

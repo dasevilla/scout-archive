@@ -31,7 +31,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
     * (a) Climbers
     * (b) Rappellers
     * (c) Belayers
-    * (d) Boulderers and their spotters
+    * (d) Boulderers and their spotters.
 
 
 * (6) Do the following:

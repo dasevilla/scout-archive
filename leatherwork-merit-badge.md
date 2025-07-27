@@ -20,7 +20,7 @@ Scouts who complete the requirements to earn the Leatherwork merit badge will ex
 * (2) Explain the following:
     * (a) Where leather comes from
     * (b) Kinds of hides that are used to make leather
-    * (c) The five types of leather
+    * (c) Five types of leather
     * (d) Best uses for each type of leather.
 
 

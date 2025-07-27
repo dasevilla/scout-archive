@@ -19,7 +19,7 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
 
 
 * (2) Before doing the following requirements, successfully complete the Scouting America swimmer test.
-* (3) Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts. (The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward.)
+* (3) Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts.The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward.
 * (4) Before going afloat, do the following:
     * (a) Discuss the nine points of the Scouting America Safety Afloat plan.
     * (b) Explain the rules of the road in general and any specific rules or laws that apply to your area or state.
@@ -37,7 +37,7 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
     * (d) Change direction by tacking; change direction by jibing.
     * (e) Demonstrate getting out of irons.
     * (f) Demonstrate the safety position.
-    * (g) Demonstrate capsize procedures and the rescue of a person overboard. (Capsize procedures should be conducted under the close supervision of the counselor. A rescue boat should be standing by to assist, if necessary, and to tow the capsized craft to shore. Self-bailing boats are acceptable for this requirement. Extreme care should be taken to avoid personal injury and damage to the boat or equipment.)
+    * (g) Demonstrate capsize procedures and the rescue of a person overboard. Capsize procedures should be conducted under the close supervision of the counselor. A rescue boat should be standing by to assist, if necessary, and to tow the capsized craft to shore. Self-bailing boats are acceptable for this requirement. Extreme care should be taken to avoid personal injury and damage to the boat or equipment.
     * (h) Demonstrate the procedure to take after running aground.
     * (i) Accept a single line or side tow and maneuver the craft being towed safely for 20 boat lengths.
     * (j) Upon returning to the dock, mooring, or beach, properly secure all equipment, furl or stow sails, and prepare the craft for unattended docking or beaching overnight or longer.

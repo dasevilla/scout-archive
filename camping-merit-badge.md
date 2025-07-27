@@ -19,10 +19,10 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 
 
 * (2) Learn the Leave No Trace Seven Principles and the Outdoor Code, and explain what they mean. Write a personal and group plan for implementing these principles on your next outing.
-* (3) Make a written plan* for an overnight trek and show how to get to your  camping spot by using a topographical map and one of the following:
+* (3) Make a written plan for an overnight trek and show how to get to your  camping spot by using a topographical map and one of the following:
     * (a) Compass
-    * (b) GPS receiver**
-    * (c) Smartphone with a GPS app**
+    * (b) GPS receiver
+    * (c) Smartphone with a GPS app.  To complete this requirement, you may use the Scout Planning Worksheet at . If a GPS-equipped device is not available, explain how to use one to get to your camping spot.
 
 
 * (4) Do the following:
@@ -60,7 +60,7 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 
     * (b) Discuss the advantages and disadvantages of different types of lightweight cooking stoves.
     * (c) Prepare a camp menu. Explain how the menu would differ from a menu for a backpacking or float trip. Give recipes and make a food list for your patrol. Plan two breakfasts, three lunches, and two suppers. Discuss how to protect your food against bad weather, animals, and contamination.
-    * (d) While camping in the outdoors, cook at least one breakfast, one lunch, and one dinner for your patrol from the meals you have planned for requirement 8c. At least one of those meals must be a trail meal requiring the use of a lightweight stove.
+    * (d) While camping in the outdoors, cook at least one breakfast, one lunch, and one dinner for your patrol from the meals you have planned for requirement 8(c). At least one of those meals must be a trail meal requiring the use of a lightweight stove.
 
 
 * (9) Show experience in camping by doing the following:
@@ -78,7 +78,6 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 
 
 * (10) Discuss how the things you did to earn this badge have taught you about  personal health and safety, survival, public health, conservation, and good  citizenship. In your discussion, tell how Scout spirit and the Scout Oath and Scout Law apply to camping and outdoor ethics.
-* \* To complete this requirement, you may use the Scout Planning Worksheet at.**If a GPS-equipped device is not available, explain how to use one to get to your camping spot.
 
 
 ## Resources

@@ -35,7 +35,7 @@ The Pottery merit badge provides an introduction to pottery making, enabling Sco
 * (7) With your parent or guardian's permission and your counselor's approval, do ONE of the following:
     * (a) Visit the kiln yard at a local college or other craft school. Learn how the different kinds of kilns work, including low fire electric, gas or propane high fire, wood or salt/soda, and raku.
     * (b) Visit a museum, art exhibit, art gallery, artists' co-op, or artist's studio that features pottery. After your visit, share with your counselor what you have learned.
-    * (c) Using resources from the library, magazines, the internet (with your parent's permission), and other outlets, learn about the historical and cultural importance of pottery. Share what you discover with your counselor.
+    * (c) Using resources from the library, magazines, the internet (with your parent or guardian's permission), and other outlets, learn about the historical and cultural importance of pottery. Share what you discover with your counselor.
 
 
 * (8) Find out about career opportunities in pottery. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.

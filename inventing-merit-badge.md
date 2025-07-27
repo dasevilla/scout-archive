@@ -12,6 +12,7 @@ Inventing involves finding technological solutions to real-world problems. Inven
 
 ## Requirements
 
+* \*Before you begin building the prototype, you must have your counselor's approval, based on the design and building plans you have already shared.
 * (1) In your own words, define. Then do the following:
     * (a) Explain to your counselor the role of inventors and their inventions in the economic development of the United States.
     * (b) List three inventions and state how they have helped humankind.
@@ -25,7 +26,7 @@ Inventing involves finding technological solutions to real-world problems. Inven
 * (3) Do the following:
     * (a) Define the term intellectual property . Explain which government agencies oversee the protection of intellectual property, the types of intellectual property that can be protected, how such property is protected, and why protection is necessary.
     * (b) Explain the components of a patent and the different types of patents available.
-    * (c) Examine your Scouting gear and find a patent number on a camping item you have used. With your parent or guardian's permission, use the Internet to find out more about that patent. Compare the finished item with the claims and drawings in the patent. Report what you learned to your counselor.
+    * (c) Examine your Scouting gear and find a patent number on a camping item you have used. With your parent or guardian's permission, use the internet to find out more about that patent. Compare the finished item with the claims and drawings in the patent. Report what you learned to your counselor.
     * (d) Explain to your counselor the term patent infringement .
 
 
@@ -37,14 +38,13 @@ Inventing involves finding technological solutions to real-world problems. Inven
     * (c) Share the idea and the model with your counselor and potential users of your invention. Record their feedback in your notebook.
 
 
-* (7) Build a working prototype of the item you invented for requirement 6*. Test and evaluate the invention. Among the aspects to consider in your evaluation are cost, usefulness, marketability, appearance, and function. Describe how your original vision and expectations for your invention are similar or dissimilar to the prototype you built. Have your counselor evaluate and critique your prototype.
+* (7) Build a working prototype of the item you invented for requirement 6. Test and evaluate the invention. Among the aspects to consider in your evaluation are cost, usefulness, marketability, appearance, and function. Describe how your original vision and expectations for your invention are similar or dissimilar to the prototype you built. Have your counselor evaluate and critique your prototype.Before you begin building the prototype, you must have your counselor's approval, based on the design and building plans you have already shared.
 * (8) Do ONE of the following:
     * (a) Participate with a club or team (robotics team, science club, or engineering club) that builds a useful item. Share your experience with your counselor.
     * (b) Visit a museum or exhibit dedicated to an inventor or invention, and create a presentation of your visit to share with a group such as your troop or patrol.
 
 
 * (9) Discuss with your counselor the diverse skills, education, training, and experience it takes to be an inventor. Discuss how you can prepare yourself to be creative and inventive to solve problems at home, in school, and in your community. Discuss three career fields that might utilize the skills of an inventor.
-* \*Before you begin building the prototype, you must have your counselor's approval, based on the design and building plans you have already shared.
 
 
 ## Resources

@@ -12,6 +12,7 @@ The Mining in Society merit badge covers the history of mining, explores the sta
 
 ## Requirements
 
+* 
 * (1) Do the following:
     * (a) Select 10 different minerals. For each one, name a product for which the mineral is used.
     * (b) Explain the role mining has in producing and processing things that are grown.
@@ -26,11 +27,11 @@ The Mining in Society merit badge covers the history of mining, explores the sta
 
 
 * (4) Discuss with your counselor the dangers someone might encounter at an abandoned mine or quarry.
-* (5) Do ONE of the following:
+* (5) Do the following:
     * (a) With your parent or guardian's approval and your counselor's assistance, use the internet to find and take a virtual tour of two types of mines. Determine the similarities and differences between them regarding resource exploration, mine planning and permitting, types of equipment used, and the minerals produced. Discuss with your counselor what you learned from your internet-based mine tours.
     * (b) With your parent or guardian's permission and counselor's approval, visit a mining or minerals exhibit at a museum. Find out about the history of the museum's exhibit and the type of mining it represents. Give three examples of how mineral resources have influenced history.
-    * (c) With your parent or guardian's permission and counselor's approval, visit an active mine.* Find out about the tasks required to explore, plan, permit, mine, and process the resource mined at that site. Take photographs, if allowed, and request brochures from your visit. Share photos, brochures, and what you have learned with your counselor.   * Visiting a mine site, a mining equipment manufacturer, or an equipment supplier requires advance planning. These sites can be potentially dangerous. You will need permission from your parent or guardian and counselor, and the manager of the mine site, or equipment manufacturer or supplier. While there, you will be required to follow closely the site manager's instructions and comply with all safety rules and procedures, including wearing appropriate clothing, footwear, and personal safety equipment.
-    * (d) With your parent or guardian's permission and counselor's approval, visit a mining equipment manufacturer or supplier.* Discuss the types of equipment produced or supplied there, and in what part of the mining process this equipment is used. Take photographs if allowed, and request brochures from your visit. Share photos, brochures, and what you have learned with your counselor.  * Visiting a mine site, a mining equipment manufacturer, or an equipment supplier requires advance planning. These sites can be potentially dangerous. You will need permission from your parent or guardian and counselor, and the manager of the mine site, or equipment manufacturer or supplier. While there, you will be required to follow closely the site manager's instructions and comply with all safety rules and procedures, including wearing appropriate clothing, footwear, and personal safety equipment.
+    * (c) With your parent or guardian's permission and counselor's approval, visit an active mine. Find out about the tasks required to explore, plan, permit, mine, and process the resource mined at that site. Take photographs, if allowed, and request brochures from your visit. Share photos, brochures, and what you have learned with your counselor.
+    * (d) With your parent or guardian's permission and counselor's approval, visit a mining equipment manufacturer or supplier.* Discuss the types of equipment produced or supplied there, and in what part of the mining process this equipment is used. Take photographs if allowed, and request brochures from your visit. Share photos, brochures, and what you have learned with your counselor.
     * (e) Discuss with your counselor two methods used to reduce rock in size, one of which uses a chemical process to extract a mineral. Explain the difference between smelting and refining.
     * (f) Learn about the history of a local mine, including what is or was mined there, how the deposit was found, the mining techniques and processes used, and how the mined resource is or was used. Find out from a historian, community leader, or business person how mining has affected your community. Note any social, cultural, or economic consequences of mining in your area. Share what you have learned with your counselor.
 

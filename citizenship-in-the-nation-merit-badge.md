@@ -27,7 +27,7 @@ As Scouts fulfill the requirements for this merit badge, they will learn how to 
     * (c) "E Pluribus Unum," the traditional United States motto.
 
 
-* (5) Watch the national evening news for five days in a row or read the main stories in a national media organization (e.g., a newspaper or news website) for five days in a row. Discuss the national issues that you learned about with your counselor. Choose one issue and explain how it affects you, your family, and community.
+* (5) Watch the national evening news for five days in a row or read the main stories in a national media organization (e.g., a newspaper or news website)  for five days in a row. Discuss the national issues that you learned about with your counselor. Choose one issue and explain how it affects you, your family, and community.
 * (6) With your counselor's approval, choose a speech of national historical importance. Explain:
     * (a) Who the author was
     * (b) What the historical context was
@@ -41,10 +41,10 @@ As Scouts fulfill the requirements for this merit badge, they will learn how to 
     * (a) Visit a place that is listed as a National Historic Landmark or that is on the National Register of Historic Places. Tell your counselor what you learned about the landmark or site and what you found interesting about it.
     * (b) Tour your state capitol building or the U.S. Capitol. Tell your counselor what you learned about the capitol, its function, and the history.
     * (c) Tour a federal facility. Explain to your counselor what you saw there and what you learned about its function in the local community and how it serves this nation.
-    * (d) Choose a national monument that interests you. Using books, brochures, the Internet (with your parent or guardian's permission), and other resources, find out more about the monument. Tell your counselor what you learned, and explain why the monument is important to this country's citizens.
+    * (d) Choose a United States national monument that interests you. Using books, brochures, the internet (with your parent or guardian's permission), and other resources, find out more about the monument. Tell your counselor what you learned, and explain why the monument is important to this country's citizens.
 
 
-* (8) Name your representatives in the United States Congress. Write a letter to your representative in Congress explaining your views on a national issue. Show your letter, along with any response you receive, to your counselor.
+* (8) Name your representatives in the United States Congress. Write a letter to your representative in Congress explaining your views on a national issue.  Show your letter, along with any response you receive, to your counselor.
 
 
 ## Resources

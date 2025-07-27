@@ -12,7 +12,7 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
 
 ## Requirements
 
-* NOTE: Scouts must not use venomous reptiles in fulfilling requirement 8a. When you decide keeping your specimen is no longer possible or desired, be sure to find another appropriate home for it or return it to the wild at the location of capture. Check with your counselor for those instances where the return of these specimens would not be appropriate. Under the Endangered Species Act of 1973, some plants and animals are, or may be, protected by federal law. The same ones and/or others may be protected by state law. Be sure that you do not collect protected species. Your state may require that you purchase and carry a license to  collect certain species. Check with the wildlife and fish and game officials in your state regarding species regulations before you begin to collect.
+* 
 * (1) Describe the identifying characteristics of six species of reptiles and four species of amphibians found in the United States. For any four of these, make sketches from your own observations or take photographs. Show markings, color patterns, or other characteristics that are important in the identification of each of the four species. Discuss the habits and habitats of all 10 species.
 * (2) Discuss with your counselor the approximate number of species and general geographic distribution of reptiles and amphibians in the United States. Prepare a list of the most common species found in your local area or state.
 * (3) Describe the main differences between

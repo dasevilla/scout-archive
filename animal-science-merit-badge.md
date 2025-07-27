@@ -15,11 +15,11 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
 * (1) Name two breeds of livestock in each of the following classifications: horses, dairy cattle, beef cattle, sheep, hogs, poultry, and goats. Tell their principal uses and merits. Tell where the breeds originated.
 * (2) List two diseases that afflict the animals in each of the classifications in requirement 1. Describe the symptoms of each disease and explain how each is contracted and how it could be prevented.
 * (3) Draw models of the digestive tracts of ruminants, horses, pigs, and poultry. Explain how the differences in structure and function among these types of digestive tracts affect the nutritional management of these species.
-* (4) Select one type of animal-beef cow, dairy cow, horse, sheep, goat, or hog, or a poultry flock-and tell how you would properly manage it. Include in your discussion nutritional (feeding) concerns, housing, disease prevention, waste control/removal, breeding programs, and biosecurity as appropriate.
+* (4) Select one type of animal: beef, cow, dairy cow, horse, sheep, goat, or hog, or a poultry flock, and tell how you would properly manage it. Include in your discussion nutritional (feeding) concerns, housing, disease prevention, waste control/removal, breeding programs, and biosecurity as appropriate.
 * (5) Do the following:
     * (a) Explain how agricultural producers make desired improvements to their stock through breeding practices and programs.
     * (b) Explain the terms pure breeding and cross breeding.
-    * (c) List two modern technologies used in the production of horses, dairy cattle, beef cattle, sheep, hogs, poultry, or goats. and tell what the advantages are of using the technology.
+    * (c) List two modern technologies used in the production of horses, dairy cattle, beef cattle, sheep, hogs, poultry, or goats, and tell what the advantages are of using the technology.
 
 
 * (6) Complete ONE of the following options:
@@ -35,7 +35,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
         * (b) Make a chart showing the components in cow's milk or goat's milk. Chart the amount of each component.
         * (c) Explain the requirements for producing grade A milk. Tell how and why milk is pasteurized.
         * (d) Tell about the kinds of equipment used for milking and the sanitation standards that must be met on dairy farms.
-        * (e) Define the following terms: bull, cow, steer, heifer, springer; buck, doe, kid.
+        * (e) Define the following terms: bull, cow, steer, heifer, springer, buck, doe, kid.
         * (f) Visit a dairy farm or a milk processing plant. Describe what you saw and explain what you learned. If you cannot visit a dairy farm or processing plant, view a video from a breed or dairy association, or research the internet (with your parent or guardian's permission) for information on dairying. Tell about your findings.
 
 
@@ -53,7 +53,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
         * (c) List products that can be made from the milk.
         * (d) Based on your choice, do ONE of the following:
             * (1) Raise a lamb or goat from weaning to market weight. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review.
-            * (2) Visit a farm or ranch where sheep or goats are raised. Describe what you saw and explain what you learned. If you cannot visit a sheep or goat farm or ranch, view a video from a breed association, or research the Internet (with your parent's permission) for information on sheep or goats. Tell about your findings.
+            * (2) Visit a farm or ranch where sheep or goats are raised. Describe what you saw and explain what you learned. If you cannot visit a sheep or goat farm or ranch, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on sheep or goats. Tell about your findings.
 
 
         * (e) Define the following terms for a sheep (wether, ewe, ram, lamb) OR a goat (doe, nanny, kid, buck, billy).
@@ -77,7 +77,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
         * (d) Do ONE of the following:
             * (1) Manage an egg-producing flock for five months. Keep records of feed purchased, eggs sold, medication, vaccination, and mortality. Present your records to your counselor for review.
             * (2) Raise five chickens from hatching. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review.
-            * (3) Visit a commercial avian production facility. Describe what you saw and explain what you learned. If you cannot visit a commercial facility, view a video from a poultry association, or research the Internet (with your parent's permission) for information on poultry production. Tell about your findings.
+            * (3) Visit a commercial avian production facility. Describe what you saw and explain what you learned. If you cannot visit a commercial facility, view a video from a poultry association, or research the internet (with your parent or guardian's permission) for information on poultry production. Tell about your findings.
 
 
         * (e) Define the following terms: chick, pullet, hen, cockerel, cock, capon.

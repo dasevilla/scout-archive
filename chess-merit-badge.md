@@ -18,7 +18,7 @@ Chess is among the oldest board games in the world, and it ranks among the most 
     * (b) Sportsmanship and chess etiquette.
 
 
-* (3) Demonstrate to your counselor that you know each of the following. Then, using Scouting EDGE to teach someone (preferably another Scout) who does not know how to play chess:
+* (3) Demonstrate to your counselor that you know each of the following. Then, using the EDGE method to teach someone (preferably another Scout) who does not know how to play chess:
     * (a) The name of each chess piece
     * (b) How to set up a chessboard
     * (c) How each chess piece moves, including castling and en passant captures.

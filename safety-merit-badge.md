@@ -13,7 +13,7 @@ Knowing about safety helps Scouts to make the right choices and to take the best
 ## Requirements
 
 * (1) Explain what safety is and what it means to be safe. Then prepare a notebook to include:
-    * (a) Newspaper, internet (with parent's or guardian's permission), or other articles, facts, and statistics showing common types and causes of injuries in the home and in the workplace, and how these injuries could be prevented
+    * (a) Newspaper, internet (with parent or guardian's permission), or other articles, facts, and statistics showing common types and causes of injuries in the home and in the workplace, and how these injuries could be prevented
     * (b) Newspaper, internet (with parent or guardian's permission), or other articles, facts, and statistics showing common types of crime and ways to avoid being a crime victim
     * (c) A paragraph or more, written by you, explaining how a serious fire, accident, crime, or a natural disaster could change your family life
     * (d) A list of safe practices and safety devices currently used by your family, such as safety practices used at home, while working, and while driving.

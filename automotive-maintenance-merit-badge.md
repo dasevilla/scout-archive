@@ -12,7 +12,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
 
 ## Requirements
 
-* Note: You will need access to a car or truck and its owner's manual to meet some requirements for this merit badge. If you do not have your own vehicle, you should work with your counselor or other trusted adult to obtain access to a vehicle and the owner's manual for that vehicle.
+* 
 * (1) Do the following:
     * (a) Explain to your counselor the hazards you are most likely to encounter during automotive maintenance activities, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.
     * (b) Discuss with your counselor the safety equipment, tools, and clothing used while checking or repairing a motor vehicle. Use this equipment, tools, and/or clothing (when needed or called for) in meeting the requirements for this merit badge.

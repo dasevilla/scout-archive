@@ -62,7 +62,7 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
 
 
 * (8) Review with your counselor the personal and group equipment necessary for a safe whitewater outing and how and why it is used.
-* (9) Demonstrate your ability to read a Class II section of river approved by your counselor. Describe the most desirable paths or lines of travel as well as alternative routes and options. Point out how to use the existing water features to your advantage, and explain how to best avoid the hazards present.
+* (9) Demonstrate your ability to read a Class II section of river approved by your  counselor. Describe the most desirable paths or lines of travel as well as  alternative routes and options. Point out how to use the existing water features  to your advantage, and explain how to best avoid the hazards present.
 * (10) Wearing a proper life jacket and being appropriately dressed for the weather and water conditions, perform the following skills in moving water in a properly equipped whitewater craft of your choice (tandem canoe, solo canoe, or solo kayak). If a tandem canoe is used, the skills must be demonstrated from both the bow and stern positions.
     * (a) Launch and land.
     * (b) Paddle forward in a straight line at least 10 boat lengths.

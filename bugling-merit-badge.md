@@ -12,6 +12,7 @@ What would summer camp be without the bugle sounding “Reveille” in the morni
 
 ## Requirements
 
+* 
 * (1) Give a brief history of the bugle.
 * (2) Do the following:
     * (a) Explain and demonstrate how the bugle makes sound, and explain how the bugle is related to other brass wind instruments.
@@ -19,10 +20,9 @@ What would summer camp be without the bugle sounding “Reveille” in the morni
 
 
 * (3) Sound 10 of the following bugle calls: "First Call," "Reveille," "Assembly," "Mess," "Drill," "Fatigue," "Officers," "Recall," "Church," "Swimming," "Fire," "Retreat," "To the Colors," "Call to Quarters," "Taps."
-* (4) Explain when each of the calls in requirement 3 is used
+* (4) Explain when each of the calls in requirement 3 is used.
 * (5) Explain how to care for, clean, and maintain a bugle.
-* (6) Serve as bugler in your troop for three months. *
-* \* NOTE: A bugle, trumpet, or cornet may be used to meet these requirements.
+* (6) Serve as bugler in your troop for three months.
 
 
 ## Resources

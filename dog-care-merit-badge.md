@@ -12,6 +12,7 @@ The love and interdependence between humans and dogs has endured for thousands o
 
 ## Requirements
 
+* 
 * (1) Do the following:
     * (a) Briefly discuss the historical origin and domestication of the dog.
     * (b) Describe some common characteristics of the dogs that make up each of the seven major dog groups.
@@ -25,7 +26,7 @@ The love and interdependence between humans and dogs has endured for thousands o
     * (c) Explain what issues (including temperament) must be considered when deciding on what breed of dog to get as a family pet.
 
 
-* (4) For two months, keep and care for your dog. Maintain a log of your activities during this period that includes these items: feeding schedule, types of food used, amount fed, exercise periods, training schedule, a weekly body weight record, grooming and bathing schedules, veterinary care, if necessary, and costs. Also include a brief description of the type of housing/shelter arrangements you have for your dog. (The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill requirements for other merit badges.)
+* (4) For two months, keep and care for your dog. Maintain a log of your activities during this period that includes these items: feeding schedule, types of food used, amount fed, exercise periods, training schedule, a weekly body weight record, grooming and bathing schedules, veterinary care, if necessary, and costs. Also include a brief description of the type of housing/shelter arrangements you have for your dog.
 * (5) Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: "come," "sit," "down," "heel," "stay," "fetch," "get it," "drop it."
 * (6) Do the following.
     * (a) Discuss the proper vaccination schedule for a dog in your area from puppyhood through adulthood.
@@ -54,7 +55,6 @@ The love and interdependence between humans and dogs has endured for thousands o
     * (b) Identify how you might use the skills and knowledge in working with dogs to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
 
 
-* \* The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill the requirements for other merit badges.
 
 
 ## Resources

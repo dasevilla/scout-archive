@@ -20,7 +20,7 @@ Discover the why and how we explore space. Learn about current and historic spac
 
 
 * (2) Design a collector's card, with a picture on the front and information on the back, about your favorite space pioneer. Share your card and discuss four other space pioneers with your counselor.
-* (3) Build, launch, and recover a model rocket.* Make a second launch to accomplish a specific objective. (Rocket must be built to meet the safety code of the National Association of Rocketry. See the "Model Rocketry" chapter of this pamphlet.) Identify and explain the following rocket parts:    NOTE: *If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.
+* (3) Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts:Rocket must be built to meet the safety code of the National Association of Rocketry. See the "Model Rocketry" chapter of this pamphlet.If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.
     * (a) Body tube
     * (b) Engine mount
     * (c) Fins

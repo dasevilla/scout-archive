@@ -21,10 +21,10 @@ Working on the Scholarship merit badge provides Scouts with a great opportunity 
     * (a) Make a list of educational places located where you live (other than schools). Visit one, and report on how you used the place for self-education.
     * (b) With your counselor's and your parent or guardian's approval, interview two professionals (other than teachers or other professionals at your school) with established careers. Find out where they were educated, what training they received, and how their education and training have helped prepare them for the career they have chosen. Find out how they continue to educate themselves. Discuss what you find out with your counselor.
     * (c) Using a daily planner, show your counselor how you keep track of assignments and activities, and discuss how you manage your time.
-    * (d) Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the Internet.
+    * (d) Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the internet.
 
 
-* (3) Get a note from the principal of your school (or another school official named by the principal) that states that during the past year your behavior, leadership, and service have been satisfactory. (If you are home-schooled or your school environment does not include a principal, you may obtain a note from a counterpart such as your parent or guardian.)
+* (3) Get a note from the principal of your school (or another school official named by the principal) that states that during the past year your behavior, leadership, and service have been satisfactory.If you are home-schooled or your school environment does not include a principal, you may obtain a note from a counterpart such as your parent or guardian.
 * (4) Do ONE of the following:
     * (a) Show that you have taken part in an extracurricular school activity, and discuss with your counselor the benefits of participation and what you learned about the importance of teamwork.
     * (b) Discuss your participation in a school project during the past semester where you were a part of a team. Tell about the positive contributions you made to the team and the project.

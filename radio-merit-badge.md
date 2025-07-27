@@ -45,7 +45,7 @@ Radio is a way to send information, or communications, from one place to another
 * (7) Visit a radio installation (an amateur radio station, broadcast station, or public service communications center, for example) approved in advance by your counselor. Discuss what types of equipment you saw in use, how it was used, what types of licenses are required to operate and maintain the equipment, and the purpose of the station.
 * (8) Find out about three career opportunities in radio. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
 * (9) Do ONE of the following options:
-    * (a) Option A: Amateur Radio
+    * (a) Option A — Amateur Radio. Do the following:
         * (1) Tell why the FCC has an amateur radio service. Describe activities that amateur radio operators can do on the air, once they have earned an amateur radio license.
         * (2) Explain differences between the Technician, General, and Extra Class license requirements and privileges. Explain who administers amateur radio exams.
         * (3) Explain at least five Q signals or amateur radio terms.
@@ -54,7 +54,7 @@ Radio is a way to send information, or communications, from one place to another
         * (6) Using proper call signs, Q signals, and abbreviations, carry on a 10-minute real or simulated amateur radio contact using voice, Morse code, or digital mode. (Licensed amateur radio operators may substitute five QSL cards as evidence of contacts with five amateur radio operators. Properly log the real or simulated ham radio contact, and record the signal report.)
 
 
-    * (b) Option B: Radio Broadcasting
+    * (b) Option B — Radio Broadcasting. Do the following:
         * (1) Discuss with your counselor FCC broadcast regulations. Include power levels, frequencies, and the regulations for low-power stations.
         * (2) Prepare a program schedule for radio station "KBSA" of exactly one-half hour, including music, news, commercials, and proper station identification. Record your program on audiotape or in a digital audio format, using proper techniques.
         * (3) Listen to and properly log 15 broadcast stations. Determine the program format and target audience for five of these stations.
@@ -62,7 +62,7 @@ Radio is a way to send information, or communications, from one place to another
         * (5) Discuss with your counselor alternative radio platforms such as internet streaming, satellite radio, and podcasts.
 
 
-    * (c) Option C: Shortwave and Medium-Wave Listening
+    * (c) Option C — Shortwave and Medium-Wave Listening. Do the following:
         * (1) Listen across several shortwave bands for four one-hour periods-at least one period during daylight hours and at least one period at night. Log the stations properly and locate them geographically on a map, globe, or web-based mapping service.
         * (2) Listen to several medium-wave stations for two one-hour periods, one period during daylight hours and one period at night. Log the stations properly and locate them on a map, globe, or web-based mapping service.
         * (3) Compare your daytime and nighttime logs; note the frequencies on which your selected stations were loudest during each session. Explain differences in the signal strength from one period to the next.
@@ -70,7 +70,7 @@ Radio is a way to send information, or communications, from one place to another
         * (5) Demonstrate listening to a radio broadcast using a smartphone/cell phone. Include international broadcasts in your demonstration.
 
 
-    * (d) Option D: Amateur Radio Direction Finding
+    * (d) Option D — Amateur Radio Direction Finding. Do the following:
         * (1) Describe amateur radio direction finding and explain why direction finding is important as both an activity and in competition.
         * (2) Describe what frequencies and equipment are used for ARDF or fox hunting.
         * (3) Build a simple directional antenna for either of the two frequencies used in ARDF.

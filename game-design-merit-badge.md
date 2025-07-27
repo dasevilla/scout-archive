@@ -33,8 +33,7 @@ Games come in almost every shape, size, format, and flavor imaginable. Games can
     * (d) Draw the game elements.
 
 
-* 
-* (6) Do the following:
+* (6) Do the following:You must have your counselor's approval of your concept before you begin creating the prototype.
     * (a) Prototype your game from requirement 5. If applicable, demonstrate to your counselor that you have addressed player safety through the rules and equipment. Record your work in your game design notebook.
     * (b) Test your prototype with as many other people as you need to meet the player format. Compare the play experience to your descriptions from requirement 5(b). Correct unclear rules, holes in the rules, dead ends, and obvious rule exploits. Change at least one rule, mechanic, or objective from your first version of the game, and describe why you are making the change. Play the game again. Record in your game design notebook whether or not your change had the expected effect.
     * (c) Repeat 6(b) at least two more times and record the results in your game design notebook.

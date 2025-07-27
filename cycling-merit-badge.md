@@ -15,12 +15,12 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while participating in cycling activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
     * (b) Show that you know first aid for injuries or illnesses that could occur while cycling, including cuts, scratches, concussions, blisters, sunburn, heat exhaustion, heatstroke, hypothermia, frostbite, dehydration, insect stings, tick bites, and snakebite. Explain to your counselor why you should be able to identify the poisonous plants and poisonous animals that are found in your area.
-    * (c) Explain the importance of wearing the right clothing and gear while cycling, including a properly sized and fitted helmet. Know the BSA Bike Safety Guidelines.
+    * (c) Explain the importance of wearing the right clothing and gear while cycling, including a properly sized and fitted helmet. Know the Scouting America Bike Safety Guidelines.
 
 
-* (2) Describe your state and local laws concerning bicycles. Discuss what is the same and what is different from laws applying to motor vehicles. Explain where and how you should ride on roads and streets to include lane position, changing lanes, making left and right turns, and riding through intersections.
+* (2) Describe your state and local laws concerning bicycles. Discuss what is the  same and what is different from laws applying to motor vehicles. Explain  where and how you should ride on roads and streets to include lane position,  changing lanes, making left and right turns, and riding through intersections.
 * (3) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather. Know the Scouting America Bike Safety Guidelines.
-* (4) Using a bicycle safety checklist, clean and adjust a bicycle and present it to your counselor for inspection. Do the following:
+* (4) Using a bicycle safety checklist, clean and adjust a bicycle and present it to  your counselor for inspection. Do the following:
     * (a) Show points that should be checked regularly to make sure the bicycle is safe to ride.
     * (b) Show how to adjust the saddle and handlebars for a proper fit.
     * (c) Show how to adjust brakes and gear shifting (derailleurs).
@@ -29,9 +29,9 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
     * (f) Show that the bicycle meets local laws.
 
 
-* (5) Demonstrate basic bicycle handling skills to your counselor, to include how to properly mount your bicycle, starting and stopping (to include emergency stops), riding in a straight line, turning, shifting gears, scanning, and signaling.
+* (5) Demonstrate basic bicycle handling skills to your counselor, to include how to  properly mount your bicycle, starting and stopping (to include emergency  stops), riding in a straight line, turning, shifting gears, scanning, and signaling.
 * (6) Using the Scouting America buddy system, complete all of the requirements for ONE of the following options: Road Biking OR Trail or Mixed Surface Biking. These requirements may be completed using a road bike, mountain bike or other properly equipped, manually-powered cycle such as a gravel bike, tandem bike, hand-powered bike, recumbent bike, adult tricycle, or adaptive cycle. If a tandem bike is used, the Scout must actively power the cycle in concert with the other rider.
-    * A
+    * A  Do the following:
         * (a) Take a road safety test with your counselor and demonstrate the following:
             * (1) On an urban street with light traffic, properly execute a left turn from the center of the street; also demonstrate an alternate left-turn technique used during periods of heavy traffic.
             * (2) Properly execute a right turn.
@@ -48,7 +48,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 
 
 
-    * B   These requirements may be completed using a mountain bike or other properly equipped, manually-powered cycle such as a gravel bike, tandem bike, hand-powered bike, recumbent bike, adult tricycle, or adaptive cycle. If a tandem bike is used, the Scout must actively power the cycle in concert with the other rider.
+    * B  Do the following:  These requirements may be completed using a mountain bike or other properly equipped, manually-powered cycle such as a gravel bike, tandem bike, hand-powered bike, recumbent bike, adult tricycle, or adaptive cycle. If a tandem bike is used, the Scout must actively power the cycle in concert with the other rider.
         * (a) Demonstrate the following mountain bike handling skills to your counselor:
             * (1) Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering
             * (2) Show shifting skills as applicable to climbs and obstacles.

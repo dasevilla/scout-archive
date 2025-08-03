@@ -23,11 +23,17 @@ Multisport is a racing competition that includes any combination of running, bik
     * (c) Define a healthy diet and explain the importance of maintaining a healthy diet.
 
 
-* (3) Do the Following:
+* (3) Do the following:
     * (a) Discuss with your counselor your level of familiarity and experience with the multisport events (swimming, biking, and running) and the order and distance of each sports segment.
     * (b) Explain to your counselor which multisport event (swimming, biking, or running) you feel is your strongest and which you could improve upon the most.
     * (c) Identify the required equipment for each of the three common multisport events (swimming, biking, and running).
     * (d) Based on your interests, experience, and discussion with your counselor, select ONE of the following multisport formats to concentrate on for the remaining requirements:
+        * Triathlon: swimming, biking, and running
+        * Duathlon: biking and running
+        * Aquathlon: swimming and running
+        * Aquabike: swimming and biking
+
+
 
 
 * (a) Swimming
@@ -48,7 +54,7 @@ Multisport is a racing competition that includes any combination of running, bik
     * (3) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
 
 
-* (4) Complete ALL of the activities that apply to the multisport format that you selected in requirement 3(d) (Triathlon, Duathlon, Aquathlon, or Aquabike):
+* (4) Complete ALL of the activities that apply to the multisport format you selected in requirement 3(d) (Triathlon, Duathlon, Aquathlon, or Aquabike):
 * (5) Do the following:
     * (a) With guidance from your counselor, establish a four-week training plan that combines your chosen multisport format to develop proper techniques, gain self-confidence, and increase endurance. Each session should last at least 25 minutes and include a proper warmup before the session and stretching afterward.
     * (b) Use a chart or other tracking method to monitor your training and development during this period.

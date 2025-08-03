@@ -35,7 +35,7 @@ Geology is the study of Earth. It includes the study of materials that make up E
         * (3) Explain how each of the following items is used in subsurface exploration to locate oil or gas: reflection seismic, electric well logs, stratigraphic correlation, offshore platform, geologic map, subsurface structure map, subsurface isopach map, and core samples and cutting samples.
         * (4) Using at least 20 data points provided by your counselor, create a subsurface structure map and use it to explain how subsurface geology maps are used to find oil, gas, or coal resources.
         * (5) Do ONE of the following:
-            * (a) Make a display or presentation showing how oil and gas or coal is found, extracted, and processed. You may use maps, books, articles from periodicals, and research found on the Internet (with your parent or guardian's permission). Share the display with your counselor or a small group (such as your class at school) in a five-minute presentation.
+            * (a) Make a display or presentation showing how oil and gas or coal is found, extracted, and processed. You may use maps, books, articles from periodicals, and research found on the internet (with your parent or guardian's permission). Share the display with your counselor or a small group (such as your class at school) in a five-minute presentation.
             * (b) With your parent or guardian's and counselor's permission and assistance, arrange for a visit to an operating drilling rig. While there, talk with a geologist and ask to see what the geologist does onsite. Ask to see cutting samples taken at the site.
 
 
@@ -68,7 +68,7 @@ Geology is the study of Earth. It includes the study of materials that make up E
             * (a) Visit a science museum or the geology department of a local university that has fossils on display. With your parent or guardian's and counselor's approval, before you go, make an appointment with a curator or guide who can show you how the fossils are preserved and prepared for display.
             * (b) Visit a structure in your area that was built using fossiliferous rocks. Determine what kind of rock was used and tell your counselor the kinds of fossil evidence you found there.
             * (c) Visit a rock outcrop that contains fossils. Determine what kind of rock contains the fossils, and tell your counselor the kinds of fossil evidence you found at the outcrop.
-            * (d) Prepare a display or presentation on your state fossil. Include an image of the fossil, the age of the fossil, and its classification. You may use maps, books, articles from periodicals, and research found on the Internet (with your parent or guardian's permission). Share the display with your counselor or a small group (such as your class at school). If your state does not have a state fossil, you may select a state fossil from a neighboring state.
+            * (d) Prepare a display or presentation on your state fossil. Include an image of the fossil, the age of the fossil, and its classification. You may use maps, books, articles from periodicals, and research found on the internet (with your parent or guardian's permission). Share the display with your counselor or a small group (such as your class at school). If your state does not have a state fossil, you may select a state fossil from a neighboring state.
 
 
 

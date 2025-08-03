@@ -12,7 +12,6 @@ Inventing involves finding technological solutions to real-world problems. Inven
 
 ## Requirements
 
-* \*Before you begin building the prototype, you must have your counselor's approval, based on the design and building plans you have already shared.
 * (1) In your own words, define. Then do the following:
     * (a) Explain to your counselor the role of inventors and their inventions in the economic development of the United States.
     * (b) List three inventions and state how they have helped humankind.

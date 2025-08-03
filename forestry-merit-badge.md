@@ -56,7 +56,7 @@ In working through the Forestry merit badge requirements, Scouts will explore th
 * (6) In your camp, local recreation area (park or equivalent), or neighborhood, inventory the trees that may be a hazard to structures or people. Make a list by area (campsite, road, trail, street, etc.). Note the species and hazardous condition, and suggest a remedy (removal or trimming). Make your list available to the proper authority or agency.
 * (7) Do the following:
     * (a) Describe the consequences to forests that result from FIVE of the following elements: wildfire, absence of fire, destructive insects, loss of pollinating insect population, tree diseases, air pollution, overgrazing, deer or other wildlife overpopulation, improper harvest, urbanization.
-    * (b) Explain what can be done to reduce the consequences you discussed in 7a.
+    * (b) Explain what can be done to reduce the consequences you discussed in 7(a).
     * (c) Describe what you should do if you discover a forest fire and how a professional firefighting crew might control it. Name your state or local wildfire control agency.
 
 

@@ -112,7 +112,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     * (d) Demonstrate first aid for someone with a suspected neck or back injury.
 
 
-* (10) Moving a Patient. Do the following:
+* (10) Do the following:
     * (a) Describe the conditions under which an injured person should and should not be moved.
     * (b) If a sick or an injured person must be moved, tell how you would decide the best method. Demonstrate these methods.
     * (c) By yourself and with a partner, demonstrate how to transport a person from a smoke-filled room.

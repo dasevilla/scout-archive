@@ -44,7 +44,7 @@ By earning the Entrepreneurship merit badge, Scouts will learn about identifying
 
     * (e) 
         * (1) Describe the methods you will use to promote your business to potential customers.
-        * (2) Explain how you will utilize the Internet and social media to increase awareness of your product or service.
+        * (2) Explain how you will utilize the internet and social media to increase awareness of your product or service.
         * (3) Design a promotional flier or poster for your product or service.
 
 

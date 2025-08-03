@@ -39,14 +39,14 @@ Successfully completing this badge’s requirements can lead to a lifetime of pe
     * (g) Repair a fence.
 
 
-* (4) Under the supervision of your parent, guardian, or counselor, do TWO of the following
+* (4) Under the supervision of your parent, guardian, or counselor, do TWO of the following:
     * (a) Locate a main electrical switch box and know how to replace a fuse or reset a circuit breaker.
     * (b) Replace an electrical cord or repair a plug or lamp socket.
     * (c) Install a single-pole light switch.
     * (d) Replace an electrical wall outlet.
 
 
-* (5) Under the supervision of your parent, guardian, or counselor, do TWO of the following
+* (5) Under the supervision of your parent, guardian, or counselor, do TWO of the following:
     * (a) Clear a clogged drain or trap.
     * (b) Repair a leaky water faucet.
     * (c) Repair a flush toilet.

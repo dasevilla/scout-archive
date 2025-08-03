@@ -26,7 +26,7 @@ Composites can be found just about everywhere: in airplanes and sports cars, gol
 * (3) Describe how composite materials are made. Then do the following:
     * (a) Discuss three different composite reinforcement materials, their positive and negative characteristics, and their uses. Obtain the SDS for each one and discuss the toxicity, disposal, and safe-handling sections for these materials.
     * (b) Discuss three different resins used in composites, their positive and negative characteristics, and their uses. Obtain the SDS for each one and discuss the toxicity, disposal, and safe-handling sections for these materials. Include thermoset resins and thermoplastic resins in your discussion.
-    * (c) For each of the three resins you chose for requirement 3b, think of a new application that might be worth developing.
+    * (c) For each of the three resins you chose for requirement 3(b), think of a new application that might be worth developing.
 
 
 * (4) With your parent or guardian's permission and your counselor's approval do ONE of the following:

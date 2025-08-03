@@ -68,7 +68,6 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 
 * (10) Find out about three career or volunteer opportunities in search and rescue. Pick one and find out the education, training, and experience required for this professional or volunteer position. Discuss this with your counselor, and explain why this position might interest you.
-* The Scouting America'sstates under "Unauthorized and Restricted Activities" that flying in aircraft as part of a search and rescue mission is an unauthorized activity for youth members. For complete information, seeweb page.
 
 
 ## Resources

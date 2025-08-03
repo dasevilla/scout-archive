@@ -17,20 +17,20 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
     * (b) Explain the ALARA principle and the measures required by law to minimize these risks. Describe what safety requirements you will need to consider while performing the requirements in this merit badge.  Resources:
     * (c) Describe the radiation hazard symbol and explain where it should be used.  Resources:
     * (d) Explain how we are exposed to ionizing radiation from outside the earth as well as on earth every day. List four examples of Naturally Occurring Radioactive Materials, NORM, that are in your house or grocery store and explain why they are radioactive.  Resources:
-    * (e) Explain the difference between radiation exposure and contamination. Describe the hazards of radiation to humans, the environment, and wildlife. Calculate your approximate annual radiation dose and compare to that of someone who works in a nuclear power plant.  Resources:
+    * (e) Explain the difference between radiation exposure and contamination. Describe the hazards of radiation to humans, the environment, and wildlife. Calculate your approximate annual radiation dose and compare it to a typical expected dose of someone who works in a nuclear power plant.  Resources:
 
 
 * (2) Do the following:
     * (a) Explain the following terms: atom, nucleus, proton, neutron, electron, quark, isotope; alpha particle, beta particle, gamma ray, X-ray; ionization, radioactivity, radioisotope, stability.  Resources:
-    * (b) Choose an element from the periodic table. Construct 3-D models for the atoms of three isotopes of this element, showing neutrons, protons, and electrons. Write down the isotope notation for each model including the atomic and mass numbers. In a separate model or diagram, explain or show how quarks make up protons and neutrons.  Resources:
+    * (b) Choose an element from the periodic table. Construct 3-D models for the atoms of three isotopes of this element, showing neutrons, protons, and electrons. Write down the isotope notation for each model including the atomic and mass numbers. In a separate model or diagram, explain or show how quarks make up protons and neutrons. Resources:
 
 
 * (3) Do ONE of the following; then discuss modern particle physics with  your counselor:
-    * (a) Visit an accelerator, research lab, or university where scientists study the properties of the nucleus or nucleons.  Resources:
+    * (a) Visit an accelerator, research lab, or university where scientists study the properties of the nucleus or nucleons.   Resources:
     * (b) List three particle accelerators and describe several experiments that each accelerator performs, including basic science and practical applications.  Resources:
 
 
-* (4) Do TWO of the following; then discuss with your counselor:
+* (4) Do TWO of the following; then discuss with your counselor:Resources:
     * (a) Build an electroscope. Show how it works. Place a radiation source inside and explain the effect it causes.  Resources:
     * (b) Make a cloud chamber. Show how it can be used to see the tracks caused by radiation. Explain what is happening.  Resources:
     * (c) Perform an experiment demonstrating half-life. Discuss decay chains.  Resources:
@@ -38,7 +38,7 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
 
 * (5) Do ONE of the following; then discuss with your counselor the principles of radiation safety:
     * (a) Using a radiation survey meter and a radioactive source, show how the counts per minute change as the source gets closer to or farther from the radiation detector. Place three different materials between the source and the detector, then explain any differences in the measurements per minute. Explain how time, distance, and shielding can reduce an individual's radiation dose.  Resources:
-    * (b) Describe how radon is detected in homes. Discuss the steps taken for the long-term and short-term test methods, tell how to interpret the results, and explain when each type of test should be used. Explain the health concern related to radon gas and tell what steps can be taken to reduce radon in buildings.  Resources:
+    * (b) Describe how radon is detected in homes. Discuss the steps taken for the long-term and short-term test methods, tell how to interpret the results, and explain when each type of test should be used. Explain the health concerns related to radon gas and tell what steps can be taken to reduce radon in buildings.  Resources:
     * (c) Visit a place where X-rays are used. Draw a floor plan of this room. Show where the unit, the unit operator, and the patient would be when the X-ray unit is operated. Explain the precautions taken and the importance of those precautions.  Resources:
 
 

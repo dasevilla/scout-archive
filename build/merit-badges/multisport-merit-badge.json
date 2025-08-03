@@ -60,7 +60,7 @@
     },
     {
       "id": "3",
-      "text": "Do the Following:",
+      "text": "Do the following:",
       "internal_parent_id": null,
       "internal_id": "13853",
       "requirements": [
@@ -90,7 +90,36 @@
           "text": "Based on your interests, experience, and discussion with your counselor, select ONE of the following multisport formats to concentrate on for the remaining requirements:",
           "internal_parent_id": "13853",
           "internal_id": "13858",
-          "requirements": []
+          "requirements": [
+            {
+              "id": null,
+              "text": "Triathlon: swimming, biking, and running",
+              "internal_parent_id": "13858",
+              "internal_id": null,
+              "requirements": []
+            },
+            {
+              "id": null,
+              "text": "Duathlon: biking and running",
+              "internal_parent_id": "13858",
+              "internal_id": null,
+              "requirements": []
+            },
+            {
+              "id": null,
+              "text": "Aquathlon: swimming and running",
+              "internal_parent_id": "13858",
+              "internal_id": null,
+              "requirements": []
+            },
+            {
+              "id": null,
+              "text": "Aquabike: swimming and biking",
+              "internal_parent_id": "13858",
+              "internal_id": null,
+              "requirements": []
+            }
+          ]
         }
       ]
     },
@@ -183,7 +212,7 @@
     },
     {
       "id": "4",
-      "text": "Complete ALL of the activities that apply to the multisport format that you selected in requirement 3(d) (Triathlon, Duathlon, Aquathlon, or Aquabike):",
+      "text": "Complete ALL of the activities that apply to the multisport format you selected in requirement 3(d) (Triathlon, Duathlon, Aquathlon, or Aquabike):",
       "internal_parent_id": null,
       "internal_id": "13897",
       "requirements": []

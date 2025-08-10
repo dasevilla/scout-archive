@@ -13,7 +13,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Cooking](cooking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cooking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cooking_2023.pdf)
 1. [Cycling](cycling-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cycling/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cycling_2025.pdf)
 1. [Emergency Preparedness](emergency-preparedness-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/emergency-preparedness/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Emergency%20Preparedness_2025.pdf)
-1. [Environmental Science](environmental-science-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/environmental-science/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Environmental%20Science_2025.pdf)
+1. [Environmental Science](environmental-science-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/environmental-science/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Environmental_Science_2025.pdf)
 1. [Family Life](family-life-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/family-life/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Family%20Life_2025.pdf)
 1. [First Aid](first-aid-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/first-aid/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/First%20Aid_2023.pdf)
 1. [Hiking](hiking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/hiking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Hiking_2024.pdf)
@@ -70,7 +70,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Energy](energy-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/energy/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Energy_2024.pdf)
 1. [Engineering](engineering-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/engineering/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Engineering_2023.pdf)
 1. [Entrepreneurship](entrepreneurship-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/entrepreneurship/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Entrepreneurship_2025.pdf)
-1. [Environmental Science](environmental-science-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/environmental-science/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Environmental%20Science_2025.pdf) 🦅
+1. [Environmental Science](environmental-science-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/environmental-science/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Environmental_Science_2025.pdf) 🦅
 1. [Exploration](exploration-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/exploration/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Exploration_2020.pdf)
 1. [Family Life](family-life-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/family-life/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Family%20Life_2025.pdf) 🦅
 1. [Farm Mechanics](farm-mechanics-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/farm-mechanics/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Farm%20Mechanics_2024.pdf)
@@ -165,4 +165,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving_2025.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork_2024.pdf)
 
-Generated on 2025-08-03 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2025-08-10 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

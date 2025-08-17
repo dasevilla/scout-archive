@@ -56,7 +56,7 @@ Comprehend how electronic devices work and how to use them effectively with the 
 
 
 * (8) Do TWO of the following:
-    * (a) Describe why it is important to properly dispose of digital technology. List at least three dangerous chemicals that could be used to create digital devices or used inside a digital device.
+    * (a) Describe why it is important to properly dispose of digital technology. List at least three hazardous chemicals that could be used to create digital devices or used inside a digital device.
     * (b) Explain to your counselor why it is important to use a certified recycler of digital technology hardware or devices.
     * (c) Do an internet search for an organization that collects discarded digital technology hardware or devices for repurposing or recycling. Find out what happens to that waste. Share with your counselor what you found.
     * (d) Visit a recycling center that disposes of digital technology hardware or devices. Find out what happens to that waste. Share what you learned with your counselor.

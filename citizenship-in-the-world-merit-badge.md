@@ -49,8 +49,8 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
 
 
 * (7) Do TWO of the following (with your parent or guardian's permission) and share with your counselor what you have learned:
-    * (a) Visit the web site of the U.S. State Department. Learn more about an issue you find interesting that is discussed on this web site.
-    * (b) Visit the web site of an international news organization or foreign government, OR examine a foreign newspaper available at your local library, bookstore, or newsstand. Find a news story about a human right realized in the United States that is not recognized in another country.
+    * (a) Visit the web site of the U.S. State Department. Learn more about an issue you find interesting that is discussed on this website.
+    * (b) Visit the website of an international news organization or foreign government, OR examine a foreign newspaper available at your local library, bookstore, or newsstand. Find a news story about a human right realized in the United States that is not recognized in another country.
     * (c) Visit with a student or Scout from another country and discuss the typical values, holidays, ethnic foods, and traditions practiced or enjoyed there.
     * (d) Attend a world Scout jamboree.
     * (e) Participate in or attend an international event in your area, such as an ethnic festival, concert, or play.

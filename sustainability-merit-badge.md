@@ -14,7 +14,7 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 
 * (1) Describe the meaning of sustainability in your own words. Explain the importance of sustainability to society and how you can contribute to fulfilling the needs of current generations without compromising the needs of future generations.Resources:
 * (2) Do ONE of the following and discuss with your counselor:Resources:
-    * (a) Evaluate your household water usage. If available, review water bills from the past year and evaluate the seasonal changes in water use. Identify three ways to help reduce water consumption. Resources:
+    * (a) Evaluate your household water usage. If available, review water bills from the past year and evaluate the seasonal changes in water use. Identify three ways to help reduce water consumption. Resource:
     * (b) Explain why water is necessary in our lives. Create a diagram to show how your household gets its clean water from a natural source and what happens with the water after you use it. Tell two ways to preserve your community's access to clean water in the future. Resources:
     * (c) Different areas of the world are affected by either too much (flooding) or too little (drought) water. Explore whether either or both affect where you live. Identify three water conservation or flood mitigation practices (successful or unsuccessful) that have been tried where you live or in an area of the world that interests you. Resources:
 
@@ -28,10 +28,10 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 * (4) Do ONE of the following and discuss with your counselor:Resources:
     * (a) Create a sketch depicting how you would design a sustainable community and be prepared to explain how the housing, work locations, shops, schools, and transportation systems affect energy, pollution, natural resources, and the economy of the community. Resources:
     * (b) Identify one unsustainable practice in your community and develop a written plan to fix it. Resources:
-    * (c) Identify five sustainability factors in housing and rate your own home's sustainability against these factors. Resources:
+    * (c) Identify five sustainability factors in housing and rate your own home's sustainability against these factors. Resource:
 
 
-* (5) Do ONE of the following and discuss with your counselor:Resources:
+* (5) Do ONE of the following and discuss with your counselor:Resource:
     * (a) Learn about the sustainability of different energy sources, including coal, gas, geothermal, hydro power, nuclear, petroleum, solar, and wind. Identify three common energy sources in the United States and describe how the production and consumption of each of these energy sources affects sustainability. Resources:
     * (b) List eight ways your family consumes energy, such as gas appliances, electricity, heating systems or cooling systems, and transportation. For one home- and one transportation-related energy use, list three ways to help reduce consumption, reduce your carbon footprint, and be a better steward of this resource. Resources:
     * (c) List five ways you and your family could reduce energy consumption in your home, such as adjusting your thermostat, window shades, opening windows, reducing hot-water temperature, and minimizing water consumption. Identify the benefits and risks of each idea and implement if possible. Resources:

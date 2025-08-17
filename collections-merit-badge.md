@@ -12,7 +12,8 @@ Discover how collecting can be an educational and financially rewarding pastime 
 
 ## Requirements
 
-* (1) Prepare a short written report or outline for your counselor, giving a detailed description of your collection,* including a short history, why you enjoy your collection, and what you have learned from collecting. Be sure to include why you chose that particular type of collection/collecting method.
+* 
+* (1) Prepare a short written report or outline for your counselor, giving a detailed description of your collection, including a short history, why you enjoy your collection, and what you have learned from collecting. Be sure to include why you chose that particular type of collection/collecting method.
 * (2) Explain the growth and development of your collection.
 * (3) Demonstrate your knowledge of preserving and displaying your collection.
     * (a) Explain the precautions you need to take to preserve your collection, including:
@@ -38,7 +39,6 @@ Discover how collecting can be an educational and financially rewarding pastime 
 
 * (6) Discuss with your counselor the plans you have to continue with the collection in the future.
 * (7) Find out about career opportunities in collecting. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
-* \* Stamp and coin collecting are excluded from eligibility for this merit badge.
 
 
 ## Resources

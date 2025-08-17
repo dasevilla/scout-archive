@@ -60,7 +60,7 @@ In learning about astronomy, Scouts study how activities in space affect our own
     * (c) Plan and host a star party for your Scout troop or other group such as your class at school. Use binoculars or a telescope to show and explain celestial objects to the group.
     * (d) Help an astronomy club in your community hold a star party that is open to the public.
     * (e) Personally take a series of photographs or digital images of the movement of the Moon, a planet, an asteroid, meteor, or a comet. In your visual display, label each image and include the date and time it was taken. Show all positions on a star chart or map. Show your display at school or at a troop meeting. Explain the changes you observed.
-    * (f) With your parent or guardian's and counselor's approval, use online observing opportunities such as SkyNet to observe planets, comets, galaxies, and/or the sun. Describe your experience to your counslor.
+    * (f) With your parent or guardian's and counselor's approval, use online observing opportunities such as SkyNet to observe planets, comets, galaxies, and/or the sun. Describe your experience to your counselor.
 
 
 * (9) Do ONE of the following:

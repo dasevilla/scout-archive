@@ -24,7 +24,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
         * (A) Describe how to prepare a seedbed.
         * (B) Make and use a seed germination tester to test 50 seeds of four of the following plants: corn, cotton, alfalfa, soybeans, clover, wheat, rice, rye, barley. Determine the percentage of live seeds.
         * (C) Explain one important insect pest and one important disease that damage each of the following: corn, small grains, cotton. Collect and name five weeds that compete with crops in your locality. Tell how to control these weeds without harming people, wildlife, or useful insects.
-        * (D) On a map of the United States, identify the chief regions where corn, cotton, forage crops, small grain crops, and oil crops grow. Tell how climate and location of these regions make them leaders in the production of these crops.
+        * (D) On a map of the United States, identify the chief regions where corn, cotton, forage crops, small grain crops, and oil crops grow. Tell how the climate and location of these regions make them leaders in the production of these crops.
         * (E) Complete ONE of the following alternatives:
             * (1) Corn
                 * (a) Grow a plot of corn and have your plot inspected by your counselor. Record seed variety or experimental code number.

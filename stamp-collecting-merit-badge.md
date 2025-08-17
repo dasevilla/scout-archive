@@ -54,7 +54,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
 * (7) Do TWO of the following:
     * (a) Design a stamp, cancellation, or cachet.
     * (b) Visit a post office, stamp club, or stamp show with an experienced collector. Explain what you saw and learned.
-    * (c) Write a review of an interesting article from a stamp newspaper, magazine, book or Web site (with your parent or guardian's permission).
+    * (c) Write a review of an interesting article from a stamp newspaper, magazine, book or website (with your parent or guardian's permission).
     * (d) Research and report on a famous stamp-related personality or the history behind a particular stamp.
     * (e) Describe the steps taken to produce a stamp. include the methods of printing, types of paper, perforation styles, and how they are gummed.
     * (f) Prepare a two- to three-page display involving stamps. Using ingenuity, as well as clippings, drawings, etc., tell a story about the stamps , and how they relate to history, geography, or a favorite topic of yours.

@@ -150,6 +150,12 @@ jobs:
             ASSETS="$ASSETS merit-badges-markdown.tar.gz"
           fi
           
+          # Ensure change report exists
+          if [ ! -f change-report.txt ]; then
+            echo "Archive update on $(date +'%Y-%m-%d')" > change-report.txt
+            echo "Automated merit badge requirements update." >> change-report.txt
+          fi
+          
           # Create the release
           gh release create "${{ steps.release_info.outputs.tag_name }}" \
             --title "${{ steps.release_info.outputs.release_name }}" \

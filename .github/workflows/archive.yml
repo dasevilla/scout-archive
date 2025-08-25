@@ -78,20 +78,27 @@ jobs:
             cat change-report.txt >> $GITHUB_STEP_SUMMARY
           fi
 
-      - name: Commit changes
+      - name: Check for changes
+        id: check_changes
         run: |
-          # Configure git
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-
           # Add files to the commit
           git add build/merit-badges/*.json build/merit-badges/images/*
 
           # Check if there are changes
           if git diff --staged --quiet; then
             echo "No changes detected"
-            exit 0
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
+
+      - name: Commit changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          # Configure git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
 
           # Create commit with a detailed message
           git commit -F- <<EOF
@@ -103,10 +110,54 @@ jobs:
           EOF
 
       - name: Push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+      - name: Generate release info
+        if: steps.check_changes.outputs.has_changes == 'true'
+        id: release_info
+        run: |
+          CURRENT_DATE=$(date +'%Y-%m-%d')
+          TIMESTAMP=$(date +'%H%M')
+          echo "date=${CURRENT_DATE}" >> $GITHUB_OUTPUT
+          echo "tag_name=archive-${CURRENT_DATE}-${TIMESTAMP}" >> $GITHUB_OUTPUT
+          echo "release_name=Scout Archive Update - ${CURRENT_DATE}" >> $GITHUB_OUTPUT
+
+      - name: Create release
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          # Create archive files for release
+          cd build/merit-badges
+          
+          # Create JSON archive
+          tar -czf ../../merit-badges-json.tar.gz *.json
+          
+          # Create markdown archive if markdown files exist
+          if ls *.md 1> /dev/null 2>&1; then
+            tar -czf ../../merit-badges-markdown.tar.gz *.md
+          fi
+          
+          # Create images archive
+          tar -czf ../../merit-badges-images.tar.gz images/
+          cd ../..
+          
+          # Prepare release assets
+          ASSETS="merit-badges-json.tar.gz merit-badges-images.tar.gz"
+          if [ -f merit-badges-markdown.tar.gz ]; then
+            ASSETS="$ASSETS merit-badges-markdown.tar.gz"
+          fi
+          
+          # Create the release
+          gh release create "${{ steps.release_info.outputs.tag_name }}" \
+            --title "${{ steps.release_info.outputs.release_name }}" \
+            --notes-file change-report.txt \
+            --target ${{ github.sha }} \
+            $ASSETS
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check for failures
         if: failure()

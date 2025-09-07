@@ -19,14 +19,17 @@ class MeritBadgesSpider(scrapy.Spider):
         else:
             # Grab every merit badge URL
             yield from response.follow_all(
-                css="h2.mb-card-title a", callback=self.parse_merit_badge
+                css="h2 a[href*='/merit-badges/']", callback=self.parse_merit_badge
             )
 
     def parse_merit_badge(self, response):
         item = MeritBadgeItem()
 
         # Get badge name
-        item["badge_name"] = response.css("h1.elementor-heading-title::text").get()
+        badge_name_raw = response.css("h1.elementor-heading-title::text").get()
+        item["badge_name"] = (
+            badge_name_raw.replace("Merit Badge", "").strip() if badge_name_raw else ""
+        )
 
         # Get badge overview
         # Extract the text content of the badge overview section

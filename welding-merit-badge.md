@@ -19,11 +19,11 @@ Welding is the process of joining with a weld – joining or combining similar p
 
 * (2) Do the following:
     * (a) With your counselor, discuss general safety precautions and Safety Data Sheets related to welding. Explain the importance of the SDS.
-    * (b) Describe the appropriate safety gear and clothing that must be worn when welding. Then, present yourself properly dressed for welding-in protective equipment, clothing, and footwear.
+    * (b) Describe the appropriate safety gear and clothing that must be worn when welding. Then, present yourself properly dressed for welding—in protective equipment, clothing, and footwear.
     * (c) Explain and demonstrate the proper care and storage of welding equipment, tools, and protective clothing and footwear.
 
 
-* (3) Explain the terms welding, electrode, slag, oxidation. Describe the welding process, how heat is generated, what kind of filler metal is added (if any), and what protects the molten metal from the atmosphere.
+* (3) Explain the terms welding, electrode, slag, and oxidation. Describe the welding process, how heat is generated, what kind of filler metal is added (if any), and what protects the molten metal from the atmosphere.
 * (4) Name the different mechanical and thermal cutting methods. Choose one method and describe how to use the process. Discuss one advantage and one limitation of this process.
 * (5) Do the following:
     * (a) Select two welding processes, and make a list of the different components of the equipment required for each process. Discuss one advantage and one limitation for each process.

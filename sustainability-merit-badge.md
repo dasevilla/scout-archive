@@ -33,8 +33,8 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 
 * (5) Do ONE of the following and discuss with your counselor:Resource:
     * (a) Learn about the sustainability of different energy sources, including coal, gas, geothermal, hydro power, nuclear, petroleum, solar, and wind. Identify three common energy sources in the United States and describe how the production and consumption of each of these energy sources affects sustainability. Resources:
-    * (b) List eight ways your family consumes energy, such as gas appliances, electricity, heating systems or cooling systems, and transportation. For one home- and one transportation-related energy use, list three ways to help reduce consumption, reduce your carbon footprint, and be a better steward of this resource. Resources:
-    * (c) List five ways you and your family could reduce energy consumption in your home, such as adjusting your thermostat, window shades, opening windows, reducing hot-water temperature, and minimizing water consumption. Identify the benefits and risks of each idea and implement if possible. Resources:
+    * (b) List eight ways your family consumes energy, such as gas appliances, electricity, heating systems or cooling systems, and transportation. For one home- and one transportation-related energy use, list three ways to help reduce consumption, reduce your carbon footprint, and be a better steward of this resource. Resource:
+    * (c) List five ways you and your family could reduce energy consumption in your home, such as adjusting your thermostat, window shades, opening windows, reducing hot-water temperature, and minimizing water consumption. Identify the benefits and risks of each idea and implement if possible. Resource:
 
 
 * (6) Do ONE of the following and discuss with your counselor:Resources:
@@ -49,7 +49,7 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
     * (c) Identify how product life cycles (the cycle of design, sourcing, production, use, and disposal or reuse) influence current and future sustainability. Choose one common product to demonstrate how the full product life cycle would apply. Resources:
     * (d) Learn how the world's population affects the sustainability of Earth. Discuss three human activities that may contribute to putting Earth at risk, now and in the future. Resources:
     * (e) Explain the term species (plant or animal) decline. Share the human activities that contribute to species decline, what can be done to help reverse the decline, and its impact on a sustainable environment. Resources:
-    * (f) Find a world map that shows the pattern of temperature change for a period of at least 100 years. Identify three factors that scientists believe affect the global weather and temperature. Discuss how climate change impacts sustainability of food, water, or other resources.
+    * (f) Find a world map that shows the pattern of temperature change for a period of at least 100 years. Identify three factors that scientists believe affect the global weather and temperature. Discuss how climate change impacts sustainability of food, water, or other resources. Resources:
 
 
 * (8) Do the following:
@@ -65,6 +65,6 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 
 - [Sustainability merit badge page](https://www.scouting.org/merit-badges/sustainability/)
 - [Sustainability merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sustainability_2024.pdf) ([local copy](files/sustainability-merit-badge.pdf))
-- [Sustainability merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-sustainability-merit-badge-pamphlet-662441.html)
+- [Sustainability merit badge pamphlet](https://www.scoutshop.org/sustainability-merit-badge-pamphlet-662441.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -18,7 +18,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
 
 
 * (2) Working under the supervision of an experienced adult, do ONE of the following options.
-    * Option A — Ice Skating
+    * Option A—Ice Skating
         * (a) Do the following:
             * (1) Give general safety and courtesy rules for ice skating. Discuss preparations that must be taken when skating outdoors on natural ice. Explain how to make an ice rescue.
             * (2) Discuss the parts and functions of the different types of ice skates.
@@ -46,7 +46,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
 
 
 
-    * Option B — Roller Skating
+    * Option B—Roller Skating
         * (a) Do the following:
             * (1) Give general safety and etiquette rules for roller skating.
             * (2) Discuss the parts and functions of the roller skate.
@@ -79,7 +79,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
 
 
 
-    * Option C — In-Line Skating
+    * Option C—In-Line Skating
         * (a) Do the following:
             * (1) Give general and in-line skating safety rules and etiquette.
             * (2) Describe the parts and functions of the in-line skate.
@@ -110,7 +110,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
 
 
 
-    * Option D — Skateboarding
+    * Option D—Skateboarding
         * (a) Explain the following to your counselor:
             * (1) History and evolution of skateboarding
             * (2) Benefits of skateboarding (physical fitness, balance, coordination, perseverance, and creativity)

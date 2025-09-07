@@ -28,7 +28,7 @@ No Boy Scout will ignore a plea for help. However, the desire to help is of litt
 
 * (4) Demonstrate "reaching" rescues using various items such as arm, leg, towels, shirts, paddles, poles.
 * (5) Demonstrate "throwing" rescues using various items such as a line, ring buoy, rescue bag, and free-floating support. Successfully place at least one such aid within reach of a practice victim 25 feet from shore.
-* (6) With your counselor's approval, view in-person or on video a rowing rescue performed using a rowboat, canoe, kayak, or stand up paddleboard. Discuss with your counselor how effectively and efficiently the rescue was performed.
+* (6) With your counselor's approval, view in-person or on video a rowing rescue performed using a rowboat, canoe, kayak, or stand up paddleboard. Discuss with your counselor how effectively and efficiently the rescue  was performed.
 * (7) List various items that can be used as aids in a "go" rescue. Explain why buoyant aids are preferred.
 * (8) Correctly demonstrate rescues of apractice subject 30 feet from shore in deep water using two types of buoyant aids provided by your counselor. Use a proper entry and a strong approach stroke. Speak to the subject to determine his or her condition and to provide instructions and encouragement.
     * (a) Present one aid to a subject, release it, and swim at a safe distance as the subject moves to safety.
@@ -37,7 +37,7 @@ No Boy Scout will ignore a plea for help. However, the desire to help is of litt
 
 * (9) Discuss with your counselor when it is appropriate to remove heavy clothing before attempting a swimming rescue. Remove street clothes in 20 seconds or less, enter the water, and approach apractice subject 30 feet from shore in deep water. Speak to the subject and use a nonbuoyant aid, such as a shirt or towel, to tow the subject to safety.
 * (10) Discuss with your counselor the importance of avoiding contact with an active subject and demonstrate lead-and-wait techniques.
-* (11) Perform the followingrescues for apractice subject 30 feet from shore. Begin in the water from a position near the subject. Speak to the subject to determine his or her condition and to provide instructions and encouragement..
+* (11) Perform the followingrescues for apractice subject  30 feet from shore. Begin in the water from a position near the subject.  Speak to the subject to determine his or her condition and to provide  instructions and encouragement.
     * (a) Perform an armpit tow for a calm, responsive, tired swimmer resting with a back float.
     * (b) Perform a cross-chest carry for an exhausted, responsive subject treading water.
 
@@ -54,7 +54,7 @@ No Boy Scout will ignore a plea for help. However, the desire to help is of litt
     * (b) Repeat using a headfirst surface dive.
 
 
-* (15) Demonstrate management of a spinal injury to your counselor:
+* (15) Demonstrate management of a spinal injury to your  counselor:
     * (a) Discuss the causes, signs, and symptoms of a spinal injury.
     * (b) Support a faceup subject in calm water of standing depth.
     * (c) Turn a subject from a facedown to a faceup position in water of standing depth while maintaining support.

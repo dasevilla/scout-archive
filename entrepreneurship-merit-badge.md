@@ -13,7 +13,7 @@ By earning the Entrepreneurship merit badge, Scouts will learn about identifying
 ## Requirements
 
 * (1) In your own words, define. Explain to your counselor how entrepreneurs impact the U.S. economy.
-* (2) Explain to your counselor why having good skills in the following areas is important for an entrepreneur: communication, planning, organization, problem solving, decision making, basic math, adaptability, technical and social skills, teamwork, and leadership.
+* (2) Explain to your counselor why having good skills in the following areas are important for an entrepreneur: communication, planning, organization, problem solving, decision making, basic math, adaptability, technical and social skills, teamwork, and leadership.
 * (3) Identify and interview an individual who has started a business. Learn about this person's educational background, early work experiences, where the idea for the business came from, and what was involved in starting the business. Find out how the entrepreneur raised the capital (money) to start the business, examples of successes and challenges faced, and how the business is currently doing (if applicable). Discuss with your counselor what you have learned.
 * (4) Think of as many ideas for a business as you can, and write them down. From your list, select three ideas you believe represent the best opportunities. Choose one of these and explain to your counselor why you selected it and why you feel it can be successful.
 * (5) Create a written business plan for your idea that includes all of the following:
@@ -45,7 +45,7 @@ By earning the Entrepreneurship merit badge, Scouts will learn about identifying
     * (e) 
         * (1) Describe the methods you will use to promote your business to potential customers.
         * (2) Explain how you will utilize the internet and social media to increase awareness of your product or service.
-        * (3) Design a promotional flier or poster for your product or service.
+        * (3) Design a promotional flyer or poster for your product or service.
 
 
 

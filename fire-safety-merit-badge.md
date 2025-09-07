@@ -41,7 +41,7 @@ The ability to use fire safely is essential to human survival. By earning this m
     * (a) Describe how to prevent the frequent causes of home fires, including unattended cooking, electricity, smoking, clothes dryers, and rechargeable batteries.
     * (b) Describe how to prevent frequent causes of seasonal and holiday-related home fires, including fires related to home heating, holiday trees, candles, and fireworks.
     * (c) Demonstrate how to safely light and extinguish a candle. Discuss with your counselor, then with your family, how to safely use candles.
-    * (d) Using the Home Fire Safety Checklist in this pamphlet or one approved by your counselor, and with the help of an adult, inspect a home (or a similar building near where you live or at a camp) for fire safety hazards. Present your completed checklist to your counselor and discuss your findings.
+    * (d) Using the Home Fire Safety Checklist in the Fire Safety merit badge pamphlet or one approved by your counselor, and with the help of an adult, inspect a home (or a similar building near where you live or at a camp) for fire safety hazards. Present your completed checklist to your counselor and discuss your findings.
     * (e) Determine if, and what types of, smoke and CO alarms are required in homes in your community. List what types of smoke and CO alarms your home has, their locations, and their expiration dates.
     * (f) Demonstrate maintenance of smoke and CO alarms to your counselor and review plans to replace expired alarms.
     * (g) Develop a home fire-escape plan and a fire-drill schedule with your family, draw a floor plan of your home with exits marked and a map showing your family meeting point, and conduct a home fire drill.
@@ -88,6 +88,6 @@ The ability to use fire safely is essential to human survival. By earning this m
 
 - [Fire Safety merit badge page](https://www.scouting.org/merit-badges/fire-safety/)
 - [Fire Safety merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/FireSafety_2024.pdf) ([local copy](files/fire-safety-merit-badge.pdf))
-- [Fire Safety merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-fire-safety-merit-badge-pamphlet-662386.html)
+- [Fire Safety merit badge pamphlet](https://www.scoutshop.org/fire-safety-merit-badge-pamphlet-662386.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

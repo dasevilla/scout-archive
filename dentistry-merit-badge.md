@@ -39,7 +39,7 @@ Teeth do a lot more than just peek out from under that winning smile. They have 
 
 
 * (6) Do TWO of the following:
-    * (a) Make a model tooth out of soap, clay, papier-mÃ¢chÃ©, or wax. Using a string and a large hand brush, show your troop or a school class proper tooth-brushing and flossing procedures.
+    * (a) Make a model tooth out of soap, clay, papier-m?ch?, or wax. Using a string and a large hand brush, show your troop or a school class proper tooth-brushing and flossing procedures.
     * (b) Make a poster on the prevention of dental disease. Show the importance of good oral health.
     * (c) Collect at least five advertisements for different toothpastes. List the claims that each one makes. Tell about the accuracy of the advertisements.
     * (d) Write a feature story for your school newspaper on the proper care of teeth and gums.Include in your story how the use of tobacco products can negatively affect a person's oral health.

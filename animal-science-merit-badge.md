@@ -27,7 +27,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
         * (a) Visit a farm or ranch where beef cattle are produced under any of these systems:   Talk with the operator to learn how the cattle were handled, fed, weighed, and shipped. Describe what you saw and explain what you learned. If you cannot visit a cattle ranch or farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on beef cattle production. Tell about your findings.
         * (b) Sketch a plan of a feedlot to include its forage and grain storage facilities, and loading chute for 30 or more fattening steers; or sketch a corral plan with cutting and loading chutes for handling 50 or more beef cows and their calves at one time.
         * (c) Make a sketch showing the principal wholesale and retail cuts of beef. Tell about the U.S. Department of Agriculture (USDA) dual grading system of beef. Tell the basis of each grade in each system.
-        * (d) Define the following terms: bull, steer, bullock, cow, heifer, freemartin, heiferette, calf.
+        * (d) Define the following terms: bull, steer, bullock, cow, heifer, freemartin, heiferette, and calf.
 
 
     * Dairy Option
@@ -35,14 +35,14 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
         * (b) Make a chart showing the components in cow's milk or goat's milk. Chart the amount of each component.
         * (c) Explain the requirements for producing grade A milk. Tell how and why milk is pasteurized.
         * (d) Tell about the kinds of equipment used for milking and the sanitation standards that must be met on dairy farms.
-        * (e) Define the following terms: bull, cow, steer, heifer, springer, buck, doe, kid.
+        * (e) Define the following terms: bull, cow, steer, heifer, springer, buck, doe, and kid.
         * (f) Visit a dairy farm or a milk processing plant. Describe what you saw and explain what you learned. If you cannot visit a dairy farm or processing plant, view a video from a breed or dairy association, or research the internet (with your parent or guardian's permission) for information on dairying. Tell about your findings.
 
 
     * Horse Option
         * (a) Make a sketch of a useful saddle horse barn and exercise yard.
         * (b) Tell about the history of the horse and the benefits it has brought to people. Using the four breeds of horses you chose in requirement 1, discuss the different special uses of each breed.
-        * (c) Define the following terms: mare, stallion, gelding, foal, colt, filly; mustang, quarter horse, draft horse, pacer, trotter; pinto, calico, palomino, roan, overo, tobiano.
+        * (c) Define the following terms: mare, stallion, gelding, foal, colt, filly; mustang, quarter horse, draft horse, pacer, trotter; pinto, calico, palomino, roan, overo, and tobiano.
         * (d) Visit a horse farm. Describe what you saw and explain what you learned. If you cannot visit a horse farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on horses. Tell about your findings.
         * (e) Outline the proper feeding of a horse doing light work. Explain why the amount and kind of feed will change according to the kind of horse and the work it does. Describe what colic is, what can cause it, and its symptoms.
 
@@ -56,7 +56,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
             * (2) Visit a farm or ranch where sheep or goats are raised. Describe what you saw and explain what you learned. If you cannot visit a sheep or goat farm or ranch, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on sheep or goats. Tell about your findings.
 
 
-        * (e) Define the following terms for a sheep (wether, ewe, ram, lamb) OR a goat (doe, nanny, kid, buck, billy).
+        * (e) Define the following terms for a sheep (wether, ewe, ram, and lamb) OR a goat (doe, nanny, kid, buck, and billy).
 
 
     * Hog Option
@@ -67,7 +67,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
             * (2) Visit a farm where hogs are produced, or visit a packing plant handling hogs. Describe what you saw and explain what you learned. If you cannot visit a hog production unit or packing plant, view a video  from a packer or processor, or research the internet (with your parent or guardian's permission) for information on hogs. Tell about your findings.
 
 
-        * (d) Define the following terms: gilt, sow, barrow, boar.
+        * (d) Define the following terms: gilt, sow, barrow, and boar.
 
 
     * Avian Option
@@ -80,7 +80,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
             * (3) Visit a commercial avian production facility. Describe what you saw and explain what you learned. If you cannot visit a commercial facility, view a video from a poultry association, or research the internet (with your parent or guardian's permission) for information on poultry production. Tell about your findings.
 
 
-        * (e) Define the following terms: chick, pullet, hen, cockerel, cock, capon.
+        * (e) Define the following terms: chick, pullet, hen, cockerel, cock, and capon.
 
 
 

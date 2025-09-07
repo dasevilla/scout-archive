@@ -30,7 +30,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
 
 
 * (2) Working under the supervision of a certified National Rifle Association (NRA) Rifle instructor and a certified range safety officer, at a nationally authorized camp property or at a commercial firearm range (as defined in the Scouting America National Range and Target Activities Manual), do ONE of the following options:
-    * (A) Option A — Rifle Shooting (Modern Cartridge Type).  Do the following:
+    * (A) Option A—Rifle Shooting (Modern Cartridge Type).  Do the following:
         * (a) Identify the three main parts of a rifle, and tell how they function.
         * (b) Identify and demonstrate the rules for safely storing and handling a rifle.
         * (c) Identify the two types of cartridges, their parts, and how they function.
@@ -44,7 +44,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
         * (k) Adjust sights to center the group on the target and fire five groups (five shots per group). In the event that your instructor determines it is not practical to adjust the sights—for instance, on a borrowed rifle—you may explain (rather than doing) how to adjust the sights, and then fire five groups (five shots per group) in which all shots can be touched by a quarter. According to the target used, each shot in the group must meet the following minimum score: A-32 targets: 9; A-17 or TQ-1 targets: 7; A-36 targets: 5.
 
 
-    * (B) Option B — Air Rifle Shooting (BB or Pellet). Do the following:
+    * (B) Option B—Air Rifle Shooting (BB or Pellet). Do the following:
         * (a) Identify the three main parts of an air rifle, and explain how they function.
         * (b) Identify and demonstrate the rules for safely storing and handling an air rifle.
         * (c) Identify the two most common types of air rifle ammunition.
@@ -57,7 +57,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
         * (j) Adjust sights to center the group on the target and fire five groups (five shots per group). In the event that your instructor determines it is not practical to adjust the sights—for instance, on a borrowed air rifle—you may explain (rather than doing) how to adjust the sights, and then fire five groups (five shots per group) in which all shots can be touched by a quarter. According to the target used, each shot in the group must meet the following minimum score: BB rifle at 15 feet (or 5 meters) using TQ-5 targets: 8; Pellet rifle at 25 feet using TQ-5 targets: 8; Pellet rifle at 33 feet (or 10 meters) using AR-1 targets: 6.
 
 
-    * (C) Option C — Muzzleloading Rifle Shooting. Do the following:
+    * (C) Option C—Muzzleloading Rifle Shooting. Do the following:
         * (a) Discuss with your counselor a brief history of the development of muzzleloading rifles.
         * (b) Identify principal parts of muzzleloading rifles and discuss how they function.
         * (c) Identify and demonstrate the rules for safely storing and handling a muzzleloading rifle.

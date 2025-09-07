@@ -18,7 +18,7 @@ Basketry is a handy skill for a Scout. A basket can be a sturdy companion on cam
 
 
 * (2) Do the following:
-    * (a) Show your counselor that you are able to identify the following types of baskets: plaited, coiled, ribbed, wicker.
+    * (a) Show your counselor that you are able to identify the following types of baskets: plaited, coiled, ribbed, and wicker.
     * (b) Describe three different types of weaves to your counselor.
 
 

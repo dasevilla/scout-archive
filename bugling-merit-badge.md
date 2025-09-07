@@ -13,15 +13,15 @@ What would summer camp be without the bugle sounding “Reveille” in the morni
 ## Requirements
 
 * 
-* (1) Give a brief history of the bugle.
+* (1) Give a brief history of the bugle.Resources:
 * (2) Do the following:
-    * (a) Explain and demonstrate how the bugle makes sound, and explain how the bugle is related to other brass wind instruments.
+    * (a) Explain and demonstrate how the bugle makes sound, and explain how the bugle is related to other brass wind instruments. Resource:
     * (b) Compose a bugle call for your troop or patrol to signal a common group activity, such as assembling for mealtime or striking a campsite. Play the call that you have composed before your unit or patrol.
 
 
-* (3) Sound 10 of the following bugle calls: "First Call," "Reveille," "Assembly," "Mess," "Drill," "Fatigue," "Officers," "Recall," "Church," "Swimming," "Fire," "Retreat," "To the Colors," "Call to Quarters," "Taps."
-* (4) Explain when each of the calls in requirement 3 is used.
-* (5) Explain how to care for, clean, and maintain a bugle.
+* (3) Sound 10 of the following bugle calls: "First Call," "Reveille," "Assembly," "Mess," "Drill," "Fatigue," "Officers," "Recall," "Church," "Swimming," "Fire," "Retreat," "To the Colors," "Call to Quarters," and "Taps."Resources:
+* (4) Explain when each of the calls in requirement 3 is used.Resource:
+* (5) Explain how to care for, clean, and maintain a bugle.Resource:
 * (6) Serve as bugler in your troop for three months.
 
 

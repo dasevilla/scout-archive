@@ -22,7 +22,7 @@ Learn why electricity plays a significant role in the economy and how energy con
     * (g) Explain what to do if caught out in the open during an electrical storm.
 
 
-* (2) Complete an electrical home safety inspection of your  home, using the checklist found in this pamphlet or one approved by your counselor. Discuss what you find with your counselor.
+* (2) Complete an electrical home safety inspection of your  home, using the checklist found in themerit badge pamphlet or one approved by your counselor. Discuss what you find with your counselor.
 * (3) Make a simple electromagnet and use it to show magnetic attraction and repulsion.
 * (4) Do the following:
     * (a) Explain the difference between direct current and alternating current, the advantages and disadvantages of each, and give a practical example of the use of each type.
@@ -41,14 +41,14 @@ Learn why electricity plays a significant role in the economy and how energy con
 * (8) Do the following:
     * (a) Read a meter associated with an electric bill. Determine the total power used since the bill, and the cost of that power.
     * (b) Explain other charges on the bill that were taxes or fees.
-    * (c) Discuss with your counselor five ways in which your family can conserve energy.
+    * (c) Discuss with your counselor five ways your family can conserve energy.
 
 
 * (9) Explain the following:
-    * (a) Electrical terms - Current, energy, power, resistance, voltage
-    * (b) Units of measure - Ampere (amps), ohms, volts, watts, watt-hours
-    * (c) Electrical conditions - Generating source with example, ground, open circuit, overvoltage, potential difference, short circuit
-    * (d) Equipment and their use - circuit, conductor, Ground Fault Circuit Interrupter (GFCI), insulator, inverter, rectifier, rheostat, substation, surge protection, solar panel, transformer, transmission and distribution systems, wind turbine.
+    * (a) Electrical terms - Current, energy, power, resistance, and voltage
+    * (b) Units of measure - Ampere (amps), ohms, volts, watts, and watt-hours
+    * (c) Electrical conditions - Generating source with example, ground, open circuit, overvoltage, potential difference, and short circuit
+    * (d) Equipment and their use - circuit, conductor, Ground Fault Circuit Interrupter (GFCI), insulator, inverter, rectifier, rheostat, substation, surge protection, solar panel, transformer, transmission and distribution systems, and wind turbine.
 
 
 * (10) Do TWO of the following:

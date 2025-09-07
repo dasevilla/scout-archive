@@ -17,7 +17,7 @@ Architecture is not just the special buildings like cathedrals, museums, or spor
     * (b) Select a historical architectural achievement that has had a major impact on society. Using resources such as the internet (with your parent or guardian's permission), books, and magazines, find out how this achievement has influenced the world today. Tell your counselor what you learned.
 
 
-* (2) In following the Leave No Trace Seven Principles and the Outdoor Code, Scouts pledge to "Travel and Camp on Durable Surfaces" and to "Leave What You Find" and to "be conservation-minded." Discuss the following with your counselor:
+* (2) In following the Leave No Trace Seven Principles and the Outdoor Code, Scouts pledge to "Travel and camp on durable surfaces" and to "Leave what you find" and to "Be conservation-minded." Discuss the following with your counselor:
     * (a) The term sustainable architecture . Identify three features typical of green buildings.
     * (b) The difference between renewable building materials and recycled building materials, and how each can be used in construction.
     * (c) The relationship of architecture with its surrounding environment and the community.

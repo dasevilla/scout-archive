@@ -36,7 +36,7 @@ Explore the different types of the healthcare fields and professions with the He
 * (6) Discuss with your counselor your  understanding of the meaning of the  Physician's Oath.
 * (7) Describe the role of confidentiality  between a patient and the health care  provider. What is HIPAA?
 * (8) Identify a medical advancement or discovery  that has been in the news recently. Discuss  with your counselor how this can affect  patient care.
-* (9) With your parent or guardian's and counselor's approval, serve as a volunteer at a health related event or facility in your community  (e.g. blood drive, health fair, blood pressure  screening event). Report to your counselor what  you did and learned from the experience.
+* (9) With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community  (e.g. blood drive, health fair, blood pressure  screening event). Report to your counselor what  you did and learned from the experience.
 
 
 ## Resources

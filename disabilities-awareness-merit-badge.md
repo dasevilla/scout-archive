@@ -13,14 +13,14 @@ Understand various disabilities and how they affect your friends, family, and co
 ## Requirements
 
 * (1) Do the following:
-    * (a) Explain and discuss with your counselor the following disabilities awareness terms: disability, accessibility, adaptation, accommodation, invisible disability, person-first language.
+    * (a) Explain and discuss with your counselor the following disabilities awareness terms: disability, accessibility, adaptation, accommodation, invisible disability, and person-first language.
     * (b) Explain why proper disability etiquette is important, and how it may differ depending on the specific disability. Give three examples.
 
 
 * (2) Visit an agency that works with people with physical, mental, emotional, or educational disabilities. Collect and read information about the agency's activities. Learn about opportunities its members have for training, employment, and education. Discuss what you have learned with your counselor.
 * (3) Do TWO of the following:
     * (a) Talk with a Scout who has a disability and learn about the Scout's experiences taking part in Scouting activities and earning different merit badges. Discuss what you have learned with your counselor.
-    * (b) Talk to an individual who has a disability and learn about this person's experiences and the activities in which this person likes to participate. Discuss what you have learned with your counselor.
+    * (b) Talk with an individual who has a disability and learn about this person's experiences and the activities in which this person likes to participate. Discuss what you have learned with your counselor.
     * (c) Learn how people with disabilities take part in a particular adaptive sport or recreational activity. Discuss what you have learned with your counselor.
     * (d) Learn about independent living aids such as service animals, canes, and augmentative communication devices such as captioned telephones and videophones. Discuss with your counselor how people use such aids.
     * (e) Plan or participate in an activity that helps others understand what a person with a visible or invisible disability experiences. Discuss what you have learned with your counselor.

@@ -13,7 +13,7 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
 ## Requirements
 
 * (1) Format TWO sheets of drawing paper with proper borders and title blocks - one for your manual project (see requirement 2) and one for your lettering project (see requirement 5).
-    * (a) Make a rough sketch each of your project drawings to determine the correct size of paper to format.
+    * (a) Make a rough sketch for each of your project drawings to determine the correct size of paper to format.
     * (b) Using either single-stroke vertical or slant Gothic lettering, fill in all important information in the title block sections of the formatted paper.
 
 
@@ -25,8 +25,8 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
 
 * (3) Produce a computer-aided design (CAD) drawing as it would be used in manufacturing. Fill in all title block information. The CAD drawing may be any one of the following drawing types:
     * (a) Architectural: Make a scale drawing of an architectural project. The architectural drawing may be a floor plan; electrical, plumbing, or mechanical service plan; elevation plan; or landscaping plan. Use an architect's scale and show dimensions to communicate the actual size of features. Include any important sectional drawings, notes, and considerations necessary for construction.
-    * (b) Mechanical: Make a scale drawing of some mechanical device or interesting object. The mechanical drawing may be of the orthographic or isometric style. Use an engineer's scale and show dimensions to communicate the actual size of features. Include any important sectional drawings, notes, and manufacturing considerations.
-    * (c) Electrical: Draw a simple schematic of a radio or electronic circuit. Properly print a bill of materials including all of the major electrical components used in the circuit. Use standard drawing symbols for the electronic components.
+    * (b) Mechanical: Make a scale drawing of some mechanical device or interesting object. The mechanical drawing may be of the orthographic (third-angle) or isometric style. Use an engineer's scale and show dimensions to communicate the actual size of features. Include any important sectional drawings, notes, and manufacturing considerations.
+    * (c) Electrical: Draw a simple schematic of a radio or electronic circuit. Properly print a bill of materials including all of the major electrical components used in the circuit. Use standard drawing symbols to represent the electronic components.
 
 
 * (4) Do the following:

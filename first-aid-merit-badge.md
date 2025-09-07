@@ -24,7 +24,7 @@ First aid—caring for injured or ill persons until they can receive professiona
 
 * (2) Do the following:
     * (a) Obtain a copy of the Scout Annual Health and Medical Record and discuss the importance of the form including information on immunizations, allergies, medications, health history, and medical examinations to providing first aid at Scouting events.
-    * (b) Using checklists provided in the First Aid Merit Badge pamphlet or ones approved by your counselor, do the following:
+    * (b) Using checklists provided in the First Aid merit badge pamphlet or ones approved by your counselor, do the following:
         * (1) Assemble a personal first-aid kit for hiking and backpacking. Demonstrate the proper use of each item in your first-aid kit to your counselor.
         * (2) With your counselor, inspect a unit, home, vehicle, or camp first-aid kit and discuss your findings.
 

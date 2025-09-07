@@ -13,7 +13,7 @@ For most of history, people have dreamed of flying, imagining how it would feel 
 ## Requirements
 
 * (1) Do the following:
-    * (a) Define "aircraft". Describe three kinds of aircraft today, and their typical uses.
+    * (a) Define "aircraft." Describe three kinds of aircraft today, and their typical uses.
     * (b) Provide a brief overview of the evolution of flight, and discuss three notable times in history important to aviation.
     * (c) Explain the difference between a fixed wing and a rotary wing aircraft, and the benefits of each.
     * (d) Explain the operation of piston, turbine, and jet engines.
@@ -48,7 +48,7 @@ For most of history, people have dreamed of flying, imagining how it would feel 
     * (a) Explain the following: the student pilot, the recreational pilot, the remote pilot, and the private pilot certificates.
     * (b) Describe the benefits of the instrument rating.
     * (c) Explain the following: the commercial pilot certificate, the airline transport pilot certificate, and certified flight instructor (CFI).
-    * (d) Identify an Exploring Post and/or Civil Air Patrol facility in your area. Learn about their activities and membership requirements.
+    * (d) Identify an Aviation Exploring Post and/or Civil Air Patrol facility in your area. Learn about their activities and membership requirements.
     * (e) Identify three career opportunities that would use skills and knowledge in aviation. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
 

@@ -12,7 +12,7 @@ The labor movement in America seeks to ensure that the civil rights of laborers 
 
 ## Requirements
 
-* (1) Using resources available to you, learn about working people and work-related concerns. List and briefly describe or give examples of at least EIGHT concerns of American workers. These may include, but are not limited to, working conditions, workplace safety, hours, wages, seniority, job security, equal-opportunity employment and discrimination, guest workers, automation and technologies that replace workers, unemployment, layoffs, outsourcing, and employee benefits such as health care, child care, profit sharing, continuing education, retirement benefits.
+* (1) Using resources available to you, learn about working people and work-related concerns. List and briefly describe or give examples of at least EIGHT concerns of American workers. These may include, but are not limited to, working conditions, workplace safety, hours, wages, seniority, job security, equal-opportunity employment and discrimination, guest workers, automation and technologies that replace workers, unemployment, layoffs, outsourcing, and employee benefits such as health care, child care, profit sharing, continuing education, and retirement benefits.
 * (2) With your counselor's and parent or guardian's approval and permission, visit the office or attend a meeting of a local union, a central labor council, or an employee organization, or contact one of these organizations via the internet. Then do the following:
     * (a) Find out what the organization does.
     * (b) Share the list of issues and concerns you made for requirement 1. Ask the people you communicate with which issues are of greatest interest or concern to them and why.
@@ -38,6 +38,6 @@ The labor movement in America seeks to ensure that the civil rights of laborers 
 
 - [American Labor merit badge page](https://www.scouting.org/merit-badges/american-labor/)
 - [American Labor merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Labor_2024.pdf) ([local copy](files/american-labor-merit-badge.pdf))
-- [American Labor merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-american-labor-merit-badge-pamphlet-660206.html)
+- [American Labor merit badge pamphlet](https://www.scoutshop.org/american-labor-merit-badge-pamphlet-660206.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -12,7 +12,7 @@ The field of public health deals with maintaining and monitoring the health of c
 
 ## Requirements
 
-* (1) Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted. Then, pick any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, lead poisoning. For all 10 diseases, explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread of infection, and available treatments.
+* (1) Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted. Then,  pick any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, lead poisoning. For all  10 diseases, explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread  of infection, and available treatments.
 * (2) Do the following:
     * (a) Explain the meaning of immunization.
     * (b) Name eight diseases against which a young child should be immunized, two diseases against which everyone should be reimmunized periodically, and one immunization everyone should receive annually.
@@ -49,7 +49,7 @@ The field of public health deals with maintaining and monitoring the health of c
         * (b) Familiarize yourself with your city, county, state, or a federal health agency's website.
 
 
-    * After completing either 7a or 7b, do the following:
+    * After completing either 7(a) or 7(b), do the following:
         * (i) Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death.
         * (ii) Explain the role of your health agency as it relates to the outbreak of diseases.
         * (iii) Discuss the kinds of public assistance the agency is able to provide in case of disasters such as floods, storms, tornadoes, earthquakes, and other acts of destruction. Your discussion can include the cleanup necessary after the disaster.

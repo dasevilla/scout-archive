@@ -13,9 +13,9 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
 ## Requirements
 
 * (1) Do the following:
-    * (a) Explain to your counselor the most likely hazards you may encounter while participating in small-boat activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
+    * (a) Explain to your counselor the most likely hazards you may encounter while participating in small-boat sailing activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while sailing: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, and strains.
-    * (c) Discuss the Scouting America Safety Afloat policy. Tell how it applies to small-boat activities.
+    * (c) Discuss the Scouting America Safety Afloat policy. Tell how it applies to small-boat sailing activities.
 
 
 * (2) Before doing the following requirements, successfully complete the Scouting America swimmer test.

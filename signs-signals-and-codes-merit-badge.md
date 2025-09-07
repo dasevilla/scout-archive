@@ -13,7 +13,7 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
 ## Requirements
 
 * (1) Discuss with your counselor the importance of signs, signals, and codes, and why people need these different methods of communication. Briefly discuss the history and development of signs, signals, and codes.
-* (2) Explain the importance of signaling in emergency communications. Discuss with your counselor the types of emergency or distress signals one might use to attract airborne search-and-rescue personnel if lost in the outdoors or trying to summon assistance during a disaster. Illustrate these signalling examples by the use of photos or drawings.
+* (2) Explain the importance of signaling in emergency communications. Discuss with your counselor the types of emergency or distress signals one might use to attract airborne search-and-rescue personnel if lost in the outdoors or trying to summon assistance during a disaster. Illustrate these signaling examples by the use of photos or drawings.
 * (3) Do the following:
     * (a) Describe what Morse code is and the various means by which it can be sent. Spell your first name using Morse code. Send or receive a message of six to 10 words using Morse code.
     * (b) Describe what American Sign Language (ASL) is and how it is used today. Spell your first name using American Sign Language. Send or receive a message of six to 10 words using ASL.

@@ -40,7 +40,7 @@ As Scouts fulfill the requirements for this merit badge, they will learn how to 
 * (7) Do TWO of the following:
     * (a) Visit a place that is listed as a National Historic Landmark or that is on the National Register of Historic Places. Tell your counselor what you learned about the landmark or site and what you found interesting about it.
     * (b) Tour your state capitol building or the U.S. Capitol. Tell your counselor what you learned about the capitol, its function, and the history.
-    * (c) Tour a federal facility. Explain to your counselor what you saw there and what you learned about its function in the local community and how it serves this nation.
+    * (c) Tour a federal facility. Explain to your counselor what you saw and what you learned about its function in the local community and how it serves this nation.
     * (d) Choose a United States national monument that interests you. Using books, brochures, the internet (with your parent or guardian's permission), and other resources, find out more about the monument. Tell your counselor what you learned, and explain why the monument is important to this country's citizens.
 
 

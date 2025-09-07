@@ -35,13 +35,13 @@ Pioneering—the knowledge of ropes, knots, and splices along with the ability t
 * (6) Using a rope-making device or machine, make a rope at least 6 feet long consisting of three strands, each having three yarns. Whip the ends.
 * (7) Explain the importance of effectively anchoring a pioneering project. Describe to your counselor the 3-2-1 anchoring system and the log-and-stake  anchoring system.
 * (8) Describe the lashings that are used when building a trestle, how the poles are positioned, and how X braces contribute to the overall structural integrity of a pioneering project.
-* (9) Working in a group, (or individually with the help of your counselor) build a full size pioneering structure, using one of the following designs in this merit badge pamphlet:Carefully plan the project, assembling and organizing all the materials, referring to the points under Safe Pioneering, and complying with the height  restrictions in the Guide to Safe Scouting.
+* (9) Working in a group, (or individually with the help of your counselor) build a full size pioneering structure, using one of the following designs in themerit badge pamphlet:Carefully plan the project, assembling and organizing all the materials, referring to the points under Safe Pioneering, and complying with the height  restrictions in the Guide to Safe Scouting.
 
 
 ## Resources
 
 - [Pioneering merit badge page](https://www.scouting.org/merit-badges/pioneering/)
 - [Pioneering merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pioneering_2024.pdf) ([local copy](files/pioneering-merit-badge.pdf))
-- [Pioneering merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-pioneering-merit-badge-pamphlet-662419.html)
+- [Pioneering merit badge pamphlet](https://www.scoutshop.org/pioneering-merit-badge-pamphlet-662419.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

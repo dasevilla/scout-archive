@@ -19,7 +19,7 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
 
 
 * (2) Do the following:
-    * (a) Demonstrate understanding of the following river features by drawing lines to show the flow of water: upstream V, downstream V, riffle, eddy with an eddy line, ledge, river bend, shallows, current at different depths, drop, horizon line, hydraulic.
+    * (a) Demonstrate understanding of the following river features by drawing lines to show the flow of water: upstream V, downstream V, riffle, eddy with an eddy line, ledge, river bend, shallows, current at different depths, drop, horizon line, and hydraulic.
     * (b) Describe how waves form including standing waves and wave trains.
     * (c) Explain how to tilt or edge the boat without leaning your body
     * (d) Explain when, why, and how you should scout a river while ashore, while on the river, and when you should portage your boat.
@@ -55,7 +55,7 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
     * (c) Discuss how the level of flow changes a river from one class to another and what effects different flow rates have on the features of a river and its hazards.
 
 
-* (6) Explain the importance of communication during every whitewater outing. Demonstrate knowledge and ability to use the following American Whitewater Universal River Signals, both visual and auditory: "Stop," "Are you OK?," "Help/emergency," "Run river right," "Run river left," "All clear-come ahead."
+* (6) Explain the importance of communication during every whitewater outing. Demonstrate knowledge and ability to use the following American Whitewater Universal River Signals, both visual and auditory: "Stop," "Are you OK?," "Help/emergency," "Run river right," "Run river left," and "All clear—come ahead."
 * (7) Do ONE of the following:
     * (a) If completing this merit badge in a canoe, describe the various types of canoes used on moving water and how they differ in design, materials, and purpose.
     * (b) If completing this merit badge in a kayak, describe the various types of kayaks used on moving water and explain how they differ in design, materials, and purpose.

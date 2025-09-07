@@ -35,7 +35,7 @@ Composites can be found just about everywhere: in airplanes and sports cars, gol
 
 
 * (5) Do the following:
-    * (a) Use composite materials to complete two projects, at least one of which must come from this merit badge pamphlet. The second project may come from the pamphlet OR may be one you select on your own that has been approved by your counselor in advance.
+    * (a) Use composite materials to complete two projects, at least one of which must come from the Composite Materials merit badge pamphlet. The second project may come from the pamphlet OR may be one you select on your own that has been approved by your counselor in advance.
     * (b) With your counselor's assistance, find an appropriate site where the projects can be safely completed under your counselor's supervision and/or the supervision of an adult approved by your counselor who is knowledgeable about composites.
     * (c) With your counselor, determine how the finished projects will be evaluated. Using those guidelines, evaluate the completed projects with your counselor.
 

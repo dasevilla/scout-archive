@@ -21,7 +21,7 @@ This merit badge provides an opportunity for Scouts to learn more about painting
 
 
 * (3) Prepare and paint two different surfaces using patching materials or caulking and the proper primers and topcoats. Suggested projects  include an interior or exterior wall, a door, a piece of furniture, a concrete wall or floor, a porch rail, or a fence. Your counselor must preapprove the projects.Resource:
-* (4) Prepare and paint an item using harmonizing colors that you have selected using the color wheel in this pamphlet.Resource:
+* (4) Prepare and paint an item using harmonizing colors that you have selected using the color wheel in themerit badge pamphlet.Resources:
 * (5) Show the right way to use, clean, maintain, and store painting equipment.Resources:
 * (6) Explain the importance of ladder safety, personal hygiene, and the use of personal protective equipment when painting.Resources:
 * (7) Explain some of the environmental and health issues concerning removing paint, applying paint, and discarding old paint.Resources:

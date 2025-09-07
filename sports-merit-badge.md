@@ -12,7 +12,7 @@ Millions of people participate in sports every year. For some the appeal is the 
 
 ## Requirements
 
-* The activities used to fulfill the requirements for the Sports merit badge may not be used to help fulfill requirements for other merit badges.
+* The activities used to fulfill the requirements for the Sports  merit badge may not be used to help fulfill requirements for other  merit badges.
 * (1) Do the following:
     * (a) Explain to your counselor the most likely risks you may encounter while participating in sports and what you should do to anticipate, help prevent, mitigate, and respond to these risks.
     * (b) Show that you know first aid or understand the treatment for injuries that could occur while participating in sports, including sprains; strains; muscle cramps; contusions; abrasions; blisters; dehydration; heat reactions; fractures; injured teeth; head, neck, and back injuries; and concussions.
@@ -31,7 +31,7 @@ Millions of people participate in sports every year. For some the appeal is the 
     * (d) The attributes (qualities) of a good sport, the importance of sportsmanship, and the traits of a good team leader and player who exhibits Scout spirit on and off the playing field.
 
 
-* (4) Select TWO of the following sports and discuss with your counselor how you will complete the requirements in 5a through 5h for each sport: badminton, baseball, basketball, bowling, cross-country, diving, field hockey, flag football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle football, table tennis, tennis, track and field, volleyball, water polo, and/or wrestling. Your counselor may approve in advance other recognized sports, but not any sport that is prohibited by Scouting America.  The sports you choose must include regular practice sessions and at least four structured, officiated, scored games, meets, or contests against other competitive individuals or organized teams during the period of participation.
+* (4) Select TWO of the following sports and discuss with your counselor how you will complete the requirements in 5(a) through 5(h) for each sport: badminton, baseball, basketball, bowling, cross-country, diving, field hockey, flag football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle football, table tennis, tennis, track and field, volleyball, water polo, and/or wrestling. Your counselor may approve in advance other recognized sports, but not any sport that is prohibited by Scouting America.  The sports you choose must include regular practice sessions and at least four structured, officiated, scored games, meets, or contests against other competitive individuals or organized teams during the period of participation.
 * (5) Do the following:
     * (a) With guidance from your counselor, establish a suitable personal training program that you will follow throughout your competition season (or for three months).
     * (b) Create a chart or other tracking system, and document your training, practice, and development during this time.

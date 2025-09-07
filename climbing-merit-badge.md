@@ -53,7 +53,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
 * (8) Explain the purpose of each of the following and demonstrate how to put them on correctly.
     * (a) Commercially made climbing harness
     * (b) Climbing helmet
-    * (c) Climbing or rappeling gloves.
+    * (c) Climbing or rappelling gloves.
 
 
 * (9) Identify the elements of the CHECK system and describe the meaning of each one to your counselor.
@@ -61,7 +61,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
     * (a) Explain the importance of belaying climbers and rappellers and when it is necessary.
     * (b) Belay three different climbers on three different routes.
     * (c) Serve as a backup belayer on three different climbs.
-    * (d) Belay three different rappelers on three different routes.
+    * (d) Belay three different rappellers on three different routes.
     * (e) Serve as a backup belayer on three different rappels.
 
 

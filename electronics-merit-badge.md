@@ -26,7 +26,7 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
 
 * (4) Do the following:
     * (a) Discuss each of the following with your counselor:
-        * (1) How to use electronics for a control purpose
+        * (1) How to use electronics for a control purpose.
         * (2) Explain the basic principles of digital logic.
         * (3) How to use electronics for three different analog applications.
 
@@ -35,7 +35,7 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
     * (c) Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.
         * (1) A control device
         * (2) A digital circuit
-        * (3) Analog circuit.
+        * (3) An analog circuit.
 
 
 

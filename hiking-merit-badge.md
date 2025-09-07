@@ -14,18 +14,18 @@ Hiking is a terrific way to keep your body and mind in top shape, both now and f
 
 * 
 * (1) Do the following:
-    * (a) Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate and respond to these hazards.
-    * (b) Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, snakebite.
+    * (a) Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate and respond to these hazards. Resource:
+    * (b) Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, snakebite. Resource:
 
 
 * (2) Do the following:
     * (a) Explain and, where possible, show the points of good hiking practices including proper outdoor ethics, hiking safety in the daytime and at night, courtesy to others, choice of footwear, and proper care of feet and footwear.
-    * (b) Read aloud or recite the Leave No Trace Seven Principles, and discuss why each is important while hiking.
-    * (c) Read aloud or recite the Outdoor Code, and give examples of how to follow it on a hike.
+    * (b) Read aloud or recite the Leave No Trace Seven Principles, and discuss why each is important while hiking. Resources:
+    * (c) Read aloud or recite the Outdoor Code, and give examples of how to follow it on a hike. Resources:
 
 
-* (3) Explain how hiking is an aerobic activity. Develop a plan for conditioning yourself for 10-mile hikes, and describe how you will increase your fitness for longer hikes.
-* (4) Take four 10-mile hikes and one 20-mile hike, each on a different day, and each of continuous miles. Prepare a written hike plan before each hike and share it with your counselor or a designee for approval before starting the hike. Include map routes, a clothing and equipment list, and a list of items for a trail lunch. You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period such as overnight.*
+* (3) Explain how hiking is an aerobic activity. Develop a plan for conditioning yourself for 10-mile hikes, and describe how you will increase your fitness for longer hikes.Resources:
+* (4) Take four 10-mile hikes and one 20-mile hike, each on a different day, and each of continuous miles. Prepare a written hike plan before each hike and share it with your counselor or a designee for approval before starting the hike. Include map routes, a clothing and equipment list, and a list of items for a trail lunch. You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period such as overnight.Resource:
     * (a) 10-mile hike #1
     * (b) 10-mile hike #2
     * (c) 10-mile hike #3

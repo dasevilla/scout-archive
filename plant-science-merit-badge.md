@@ -20,10 +20,10 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 * (6) List by common name at least 10 native plants and 10 cultivated plants that grow near your home. List five invasive non-native plants in your area and tell how they may be harmful. Tell how the spread of invasive plants may be avoided or controlled in ways that are not damaging to humans, wildlife, and the environment.
 * (7) Name and tell about careers in agronomy, horticulture, and botany. Write a paragraph about a career in one of these fields that interests you.
 * (8) Choose ONE of the following options and complete each requirement:
-    * Option 1 — Agronomy
+    * Option 1—Agronomy
         * (A) Describe how to prepare a seedbed.
         * (B) Make and use a seed germination tester to test 50 seeds of four of the following plants: corn, cotton, alfalfa, soybeans, clover, wheat, rice, rye, barley. Determine the percentage of live seeds.
-        * (C) Explain one important insect pest and one important disease that damage each of the following: corn, small grains, cotton. Collect and name five weeds that compete with crops in your locality. Tell how to control these weeds without harming people, wildlife, or useful insects.
+        * (C) Explain one important insect pest and one important disease that damage each of the following: corn, small grains, and cotton. Collect and name five weeds that compete with crops in your locality. Tell how to control these weeds without harming people, wildlife, or useful insects.
         * (D) On a map of the United States, identify the chief regions where corn, cotton, forage crops, small grain crops, and oil crops grow. Tell how the climate and location of these regions make them leaders in the production of these crops.
         * (E) Complete ONE of the following alternatives:
             * (1) Corn
@@ -60,9 +60,9 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 
 
 
-    * Option 2 — Horticulture
+    * Option 2—Horticulture
         * (A) Visit one of the following places and tell what you learned about horticulture there: public garden, arboretum, retail nursery, wholesale nursery, production greenhouse, or conservatory greenhouse.
-        * (B) Explain the following terms: hardiness zone, shade tolerance, pH, moisture requirement, native habitat, texture, cultivar, ultimate size, disease resistance, habit, evergreen, deciduous, annual, perennial. Find out what hardiness zone you live in and list 10 landscape plants you like that are suitable for your climate, giving the common name and scientific name for each.
+        * (B) Explain the following terms: hardiness zone, shade tolerance, pH, moisture requirement, native habitat, texture, cultivar, ultimate size, disease resistance, habit, evergreen, deciduous, annual, and perennial. Find out what hardiness zone you live in and list 10 landscape plants you like that are suitable for your climate, giving the common name and scientific name for each.
         * (C) Do ONE of the following:
             * (1) Explain the difference between vegetative and sexual propagation methods, and tell some horticultural advantages of each. Grow a plant from a stem or root cutting or graft.
             * (2) Transplant 12 seedlings or rooted cuttings to larger containers and grow them for at least one month.
@@ -110,10 +110,10 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 
 
 
-    * Option 3 — Field Botany
+    * Option 3—Field Botany
         * (A) Visit a park, forest, Scout camp, or other natural area near your home. While you are there:
             * (1) Determine which species of plants are the largest and which are the most abundant. Note whether they cast shade on other plants.
-            * (2) Using informations from maps, textbooks, or the internet, describe the environmental factors that may influence the presence of plants on your site, including latitude, climate, air and soil temperature, soil type and pH, geology, hydrology, and topography.
+            * (2) Using information from maps, textbooks, or the internet, describe the environmental factors that may influence the presence of plants on your site, including latitude, climate, air and soil temperature, soil type and pH, geology, hydrology, and topography.
             * (3) Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad.
 
 

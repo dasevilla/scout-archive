@@ -13,7 +13,7 @@ Meteorology is the study of Earth’s atmosphere and its weather and the ways in
 ## Requirements
 
 * (1) Define meteorology. Explain what weather is and what climate is. Discuss how the weather affects farmers, sailors, aviators, and the  outdoor construction industry. Tell why weather forecasts are important to each of these groups.
-* (2) Name five dangerous weather-related conditions. Give The safety rules for each when outdoors and explain the difference between a severe weather watch and a warning. Discuss the safety rules with your family.
+* (2) Name five dangerous weather-related conditions. Give the safety rules for each when outdoors and explain the difference between a severe weather watch and a warning. Discuss the safety rules with your family.
 * (3) Explain the difference between high and low pressure systems in the atmosphere. Tell which is related to good and to poor weather. Draw cross sections of a cold front and a warm front , showing the location and movements of the cold and warm air, the frontal slope, the location and types of clouds associated with  each type of front, and the location of  precipitation.
 * (4) Tell what causes wind, why it rains, and how lightning and hail are formed.
 * (5) Identify and describe clouds in the low, middle, and upper levels of the atmosphere. Relate these to specific types of weather.

@@ -22,7 +22,7 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
 * (4) Do the following:
     * (a) Explain how a topographic map shows terrain features. Point out and name five terrain features on a map and in the field.
     * (b) Point out and name 10 symbols on a topographic map.
-    * (c) Explain the meaning of declination. Tell why you must consider declination . Tell why you must consider declination when using map and compass together.
+    * (c) Explain the meaning of declination .  Tell why you must consider declination when using map and compass together.
     * (d) Show a topographic map with magnetic north-south lines.
     * (e) Show how to measure distances on a map using an orienteering compass.
     * (f) Show how to orient a map using a compass.
@@ -32,7 +32,7 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
 * (6) Do the following:
     * (a) Identify 20 international control description symbols. Tell the meaning of each symbol.
     * (b) Show a control description sheet and explain the information provided.
-    * (c) Explain the following terms and tell when you would use them: attack point, collecting feature, catching feature, aiming off, contouring, reading ahead, handrail, relocation, rough versus fine orienteering.
+    * (c) Explain the following terms and tell when you would use them: attack point, collecting feature, catching feature, aiming off, contouring, reading ahead, handrail, relocation, and rough versus fine orienteering.
 
 
 * (7) Do the following:
@@ -53,6 +53,6 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
 
 - [Orienteering merit badge page](https://www.scouting.org/merit-badges/orienteering/)
 - [Orienteering merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Orienteering_2024.pdf) ([local copy](files/orienteering-merit-badge.pdf))
-- [Orienteering merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-orienteering-merit-badge-pamphlet-662414.html)
+- [Orienteering merit badge pamphlet](https://www.scoutshop.org/orienteering-merit-badge-pamphlet-662414.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

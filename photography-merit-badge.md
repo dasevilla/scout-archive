@@ -18,10 +18,10 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
 
 
 * (2) Explain how the following elements and terms can affect the quality of a picture:
-    * (a) Light - natural light (ambient/existing), low light (such as at night), and artificial light (such as from a flash)
-    * (b) Exposure -- aperture (f-stops), shutter speed, ISO
+    * (a) Light—natural light (ambient/existing), low light (such as at night), and artificial light (such as from a flash)
+    * (b) Exposure—aperture (f-stops), shutter speed, ISO
     * (c) Depth of field
-    * (d) Composition - rule of thirds, leading lines, framing, depth
+    * (d) Composition—rule of thirds, leading lines, framing, depth
     * (e) Angle of view
     * (f) Stop action and blur motion
     * (g) Decisive moment (action or expression captured by the photographer).
@@ -50,7 +50,7 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
     * (c) Show another way you could improve your picture for impact.
 
 
-* (7) Using images other than those created for requirements 4, 5, and 6, produce a visual story to document an event to photograph OR choose a topic that interests you to photograph. Do the following:
+* (7) Using images other than those created for requirements 4, 5, or 6, produce a visual story to document an event to photograph OR choose a topic that interests you to photograph. Do the following:
     * (a) Plan the images you need to photograph for your photo story.
     * (b) Share your plan with your counselor, and get your counselor's input and approval before you proceed.
     * (c) Select eight to 12 images that best tell your story. Arrange your images in order and mount the prints on a poster board, OR create an electronic presentation. Share your visual story with your counselor.

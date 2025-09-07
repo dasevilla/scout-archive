@@ -49,7 +49,7 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
 
 
 * (7) Do TWO of the following (with your parent or guardian's permission) and share with your counselor what you have learned:
-    * (a) Visit the web site of the U.S. State Department. Learn more about an issue you find interesting that is discussed on this website.
+    * (a) Visit the website of the U.S. State Department. Learn more about an issue you find interesting that is discussed on this website.
     * (b) Visit the website of an international news organization or foreign government, OR examine a foreign newspaper available at your local library, bookstore, or newsstand. Find a news story about a human right realized in the United States that is not recognized in another country.
     * (c) Visit with a student or Scout from another country and discuss the typical values, holidays, ethnic foods, and traditions practiced or enjoyed there.
     * (d) Attend a world Scout jamboree.
@@ -62,6 +62,6 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
 
 - [Citizenship in the World merit badge page](https://www.scouting.org/merit-badges/citizenship-in-the-world/)
 - [Citizenship in the World merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World_2023.pdf) ([local copy](files/citizenship-in-the-world-merit-badge.pdf))
-- [Citizenship in the World merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-citizenship-in-the-world-merit-badge-pamphlet-es-660395.html)
+- [Citizenship in the World merit badge pamphlet](https://www.scoutshop.org/citizenship-in-the-world-merit-badge-pamphlet-es-660395.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

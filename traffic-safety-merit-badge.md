@@ -32,7 +32,7 @@ Staying safe in traffic wherever you live is getting more difficult all the time
 
 
 * (4) Do the following:
-    * (a) In a location away from traffic hazards, measure with a tape measure - not in a car - and mark off with stakes the distance that a car will travel during the time needed for decision and reaction, and the braking distances necessary to stop a car traveling 30, 50, and 70 miles per hour on dry, level pavement. Discuss how environmental factors such as bad weather and road conditions will affect the distance.
+    * (a) In a location away from traffic hazards, measure with a tape measure—not in a car—and mark off with stakes the distance that a car will travel during the time needed for decision and reaction, and the braking distances necessary to stop a car traveling 30, 50, and 70 miles per hour on dry, level pavement. Discuss how environmental factors such as bad weather and road conditions will affect the distance.
     * (b) As a driver, describe the difference in nighttime visibility between a properly lit bicycle and rider (or a pedestrian) wearing reflective material and a bicycle and rider with no lights (or a pedestrian) dressed in dark clothing, without reflective material.
     * (c) Explain how color and shape are used to help road users recognize and understand the information presented on traffic and roadway signs. Explain the purpose of different types of signs, signals, and pavement markings.
     * (d) Describe at least three examples of traffic laws that apply to drivers of motor vehicles and that bicyclists must also obey.

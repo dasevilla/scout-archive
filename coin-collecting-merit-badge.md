@@ -13,7 +13,7 @@ Coin collecting is one of the oldest of all hobbies. Hoards of ancient coins fou
 ## Requirements
 
 * (1) Understand how coins are made and where the active U.S. Mint facilities  are located.
-* (2) Explain the following terms: obverse, reverse, reeding, clad, type set, date set.
+* (2) Explain the following terms: obverse, reverse, reeding, clad, type set, and date set.
 * (3) Describe three different ways to store a collection, and the benefits, drawbacks, and cost of each method.
 * (4) Do the following and explain to your counselor the design features, designer name, designer initials, and where to find them for each item:
     * (a) Collect a one-cent coin from the year group: 1959-2008 (that is, dated between 1959 and 2008) and a one-cent coin from the year group 2010-present. Explain how and why the one-cent coins issued in 2009 were different from either of the other two year groups.
@@ -45,6 +45,6 @@ Coin collecting is one of the oldest of all hobbies. Hoards of ancient coins fou
 
 - [Coin Collecting merit badge page](https://www.scouting.org/merit-badges/coin-collecting/)
 - [Coin Collecting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Coin%20Collecting_2024.pdf) ([local copy](files/coin-collecting-merit-badge.pdf))
-- [Coin Collecting merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-coin-collecting-merit-badge-pamphlet-661779.html)
+- [Coin Collecting merit badge pamphlet](https://www.scoutshop.org/coin-collecting-merit-badge-pamphlet-661779.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

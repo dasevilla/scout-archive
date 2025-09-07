@@ -12,20 +12,20 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 
 ## Requirements
 
-* (1) Explain the need for bird study and why birds are useful indicators of the quality of the environment. Describe how birds are part of the ecosystem.
+* (1) Explain the need for bird study and why birds are useful indicators of the quality of the environment. Describe how birds are part of the ecosystem.Resources:
 * (2) Show that you are familiar with the terms used to describe birds by doing the following:
-    * (a) Sketch or trace a perched bird and then label 15 different parts of the bird.
-    * (b) Sketch or trace an extended wing and label six types of wing feathers.
+    * (a) Sketch or trace a perched bird and then label 15 different parts of the bird. Resource:
+    * (b) Sketch or trace an extended wing and label six types of wing feathers. Resources:
 
 
 * (3) Demonstrate that you know how to properly use and care for binoculars, a spotting scope, or a monocular.
-    * (a) Explain what the specification numbers mean on binoculars, a spotting scope, or a monocular.
-    * (b) Show how to adjust the eyepiece and how to focus for proper viewing.
-    * (c) Show how to properly care for and clean the lenses.
-    * (d) Describe when and where each type of viewing device would be most effective.
+    * (a) Explain what the specification numbers mean on binoculars, a spotting scope, or a monocular. Resource:
+    * (b) Show how to adjust the eyepiece and how to focus for proper viewing. Resources:
+    * (c) Show how to properly care for and clean the lenses. Resource:
+    * (d) Describe when and where each type of viewing device would be most effective. Resource:
 
 
-* (4) Demonstrate that you know how to use a bird field guide. Show your counselor that you are able to understand a range map by locating in the book and pointing out:
+* (4) Demonstrate that you know how to use a bird field guide. Show your counselor that you are able to understand a range map by locating in the book and pointing out:Resources:
     * (a) Seabird
     * (b) Plover
     * (c) Falcon or hawk
@@ -34,7 +34,7 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
     * (f) Sparrow.
 
 
-* (5) Observe and be able to identify 20 species of wild birds. Prepare a field notebook, making a separate entry for each species, and record the following information from your field observations and other references.
+* (5) Observe and be able to identify 20 species of wild birds. Prepare a field notebook, making a separate entry for each species, and record the following information from your field observations and other references.Resource:
     * (a) Note the date and time.
     * (b) Note the location and habitat.
     * (c) Describe the bird's main feeding habitat and list two types of food that the bird is likely to eat.
@@ -42,13 +42,13 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 
 
 * (6) Describe to your counselor how certain orders of birds are uniquely adapted to a specific habitat. In your description, include characteristics such as the size and shape of the following:
-    * (a) Beak
-    * (b) Body
-    * (c) Leg and foot
-    * (d) Feathers/plumage.
+    * (a) Beak Resources:
+    * (b) Body Resources:
+    * (c) Leg and foot Resource:
+    * (d) Feathers/plumage. Resources:
 
 
-* (7) Explain the function of a bird's song. Be able to identify five of the 20 species in your field notebook by song or call alone. Explain the difference between songs and calls. For each of these five species, enter a description of the song or call, and note the behavior of the bird making the sound. Note why you think the bird was making the call or song that you heard.
+* (7) Explain the function of a bird's song. Be able to identify five of the 20 species in your field notebook by song or call alone. Explain the difference between songs and calls. For each of these five species, enter a description of the song or call, and note the behavior of the bird making the sound. Note why you think the bird was making the call or song that you heard.Resources:
 * (8) Do ONE of the following:
     * (a) Go on a field trip with a local club or with others who are knowledgeable about birds in your area.
         * (1) Keep a list or fill out a checklist of all the birds your group observed during the field trip.
@@ -56,13 +56,13 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
         * (3) Tell your counselor what makes the area you visited good for finding birds.
 
 
-    * (b) By using a public library, the internet, or contacting the National Audubon Society, find the name and location of the Christmas Bird Count nearest your home and obtain the results of a recent count.
+    * (b) By using a public library, the internet, or contacting the National Audubon Society, find the name and location of the Christmas Bird Count nearest your home and obtain the results of a recent count. Resources:
         * (1) Explain what kinds of information are collected during the annual event.
         * (2) Tell your counselor which species are most common, and explain why these birds are abundant.
         * (3) Tell your counselor which species are uncommon, and explain why these were present in small numbers. If the number of birds of these species is decreasing, explain why, and what, if anything, could be done to reverse their decline.
 
 
-    * (c) Participate in a bird banding program with an approved federal or state agency, university researcher, bird observatory, or certified private individual.
+    * (c) Participate in a bird banding program with an approved federal or state agency, university researcher, bird observatory, or certified private individual. Resource:
         * (1) Explain who is able to band birds and why.
         * (2) Explain why birds get banded.
         * (3) Explain what kinds of birds get banded.
@@ -72,19 +72,19 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 
 
 * (9) Do ONE of the following. For the option you choose, describe what birds you hope to attract, and why.
-    * (a) Build a bird feeder and put it in an appropriate place in your yard or another location.
-    * (b) Build a birdbath and put it in an appropriate place.
-    * (c) Build a backyard sanctuary for birds by planting trees and shrubs for food and cover.
-    * (d) Build a nest box for a species of your choice using plans approved by your counselor.
+    * (a) Build a bird feeder and put it in an appropriate place in your yard or another location. Resources:
+    * (b) Build a birdbath and put it in an appropriate place. Resources:
+    * (c) Build a backyard sanctuary for birds by planting trees and shrubs for food and cover. Resources:
+    * (d) Build a nest box for a species of your choice using plans approved by your counselor. Resources:
 
 
 * (10) Do the following:
-    * (a) Explain the differences between extinct, endangered, and threatened.
-    * (b) Identify a bird species that is on the endangered or threatened list. Explain what caused their decline. Discuss with your counselor what can be done to reverse this trend and what can be done to help remove the species from the endangered or threatened list.
+    * (a) Explain the differences between extinct, endangered, and threatened. Resource:
+    * (b) Identify a bird species that is on the endangered or threatened list. Explain what caused their decline. Discuss with your counselor what can be done to reverse this trend and what can be done to help remove the species from the endangered or threatened list. Resource:
 
 
-* (11) Identify a non-native bird (introduced to North America from a foreign country since 1800). Describe how non-native birds may become damaging to the ecosystem.
-* (12) Identify three career opportunities connected to the study of birds. Pick one and find out the education, training, and experience required for this profession. Discuss with your counselor if this profession might interest you.
+* (11) Identify a non-native bird (introduced to North America from a foreign country since 1800). Describe how non-native birds may become damaging to the ecosystem.Resources:
+* (12) Identify three career opportunities connected to the study of birds. Pick one and find out the education, training, and experience required for this profession. Discuss with your counselor if this profession might interest you.Resources:
 
 
 ## Resources

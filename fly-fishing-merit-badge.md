@@ -31,14 +31,14 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
 * (5) Demonstrate the ability to cast a fly 30 feet consistently and accurately using both overhead and roll cast techniques.
 * (6) Go to a suitable fishing location and observe what fish may be eating both above and beneath the water's surface. Explain the importance of matching the hatch.
 * (7) Do the following:
-    * (a) Explain the importance of practicing Leave No Trace Seven Principles and the Outdoor Code. Discuss the positive effects of the Leave No Trace Seven Principles and the Outdoor Code on fishing resources.
+    * (a) Explain the importance of practicing Leave No Trace Seven Principles and the Outdoor Code. Discuss the positive effects of the Leave No Trace Seven Principles and the Outdoor Code on fly-fishing resources.
     * (b) Discuss the meaning and importance of catch and release. Describe how to properly release a fish safely to the water.
 
 
 * (8) Obtain and review a copy of the regulations affecting game fishing where you live or where you plan to fish. Explain why they were adopted and what is accomplished by following them.
 * (9) Explain what good outdoor sportsmanlike behavior is and how it relates to anglers. Tell how the Leave No Trace Seven Principles and the Outdoor Code relate to a fishing sports enthusiast, including the aspects of littering, trespassing, courteous behavior, and obeying fishing regulations.
 * (10) Catch one fish and identify it.
-* (11) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. (It is not required that you eat the fish.)
+* (11) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired.It is not required that you eat the fish.
 
 
 ## Resources

@@ -35,7 +35,7 @@ Engineers use both science and technology to turn ideas into reality, devising a
 
 
 * (7) Explain what it means to be a registered Professional Engineer (P.E.). Name the types of engineering work for which registration is most important.
-* (8) Study the Engineer's Code of Ethics. Explain how it is like the Scout Oath and Scout Law
+* (8) Study the Engineer's Code of Ethics. Explain how it is like the Scout Oath and Law.
 * (9) Find out about three career opportunities in engineering. Pick one and research the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
 
 

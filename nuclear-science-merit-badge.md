@@ -16,13 +16,13 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
     * (a) Explain radiation and the difference between ionizing and nonionizing radiation.  Resources:
     * (b) Explain the ALARA principle and the measures required by law to minimize these risks. Describe what safety requirements you will need to consider while performing the requirements in this merit badge.  Resource:
     * (c) Describe the radiation hazard symbol and explain where it should be used.  Resources:
-    * (d) Explain how we are exposed to ionizing radiation from outside the earth as well as on earth every day. List four examples of Naturally Occurring Radioactive Materials, NORM, that are in your house or grocery store and explain why they are radioactive.  Resources:
+    * (d) Explain how we are exposed to ionizing radiation from outside the earth as well as on earth every day. List four examples of Naturally Occurring Radioactive Materials (NORM) that are in your house or grocery store and explain why they are radioactive.  Resources:
     * (e) Explain the difference between radiation exposure and contamination. Describe the hazards of radiation to humans, the environment, and wildlife. Calculate your approximate annual radiation dose and compare it to a typical expected dose of someone who works in a nuclear power plant.  Resources:
 
 
 * (2) Do the following:
-    * (a) Explain the following terms: atom, nucleus, proton, neutron, electron, quark, isotope; alpha particle, beta particle, gamma ray, X-ray; ionization, radioactivity, radioisotope, stability.  Resources:
-    * (b) Choose an element from the periodic table. Construct 3-D models for the atoms of three isotopes of this element, showing neutrons, protons, and electrons. Write down the isotope notation for each model including the atomic and mass numbers. In a separate model or diagram, explain or show how quarks make up protons and neutrons. Resources:
+    * (a) Explain the following terms: atom, nucleus, proton, neutron, electron, quark, isotope; alpha particle, beta particle, gamma ray, X-ray; ionization, radioactivity, radioisotope, and stability.  Resources:
+    * (b) Choose an element from the periodic table. Construct 3-D models for the atoms of three isotopes of this element, showing neutrons, protons, and electrons. Write down the isotope notation for each model including the atomic and mass numbers. In a separate model or diagram, explain or show how quarks make up protons and neutrons.  Resources:
 
 
 * (3) Do ONE of the following; then discuss modern particle physics with  your counselor:

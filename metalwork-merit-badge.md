@@ -13,7 +13,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
 ## Requirements
 
 * (1) Read the safety rules for metalwork.  Discuss how to be safe while working with metal. Discuss with your counselor the additional safety rules that apply to the metalwork option you choose for requirement 5.
-* (2) Explain the following terms: native metal, malleable, metallurgy, alloy, nonferrous, ferrous. Then do the following:
+* (2) Explain the following terms: native metal, malleable, metallurgy, alloy, nonferrous, and ferrous. Then do the following:
     * (a) Name two nonferrous alloys used by pre-Iron Age metalworkers. Name the metals that are combined to form these alloys.
     * (b) Name three ferrous alloys used by modern metalworkers.
     * (c) Describe how to work-harden a metal.
@@ -32,7 +32,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
 
 
 * (5) After completing the first four requirements, complete ONE of the following options:
-    * (a) Option 1 — Sheet Metal Mechanic/Tinsmith
+    * (a) Option 1—Sheet Metal Mechanic/Tinsmith
         * (1) Name and describe the use of the basic sheet metalworking tools.
         * (2) Create a sketch of two objects to make from sheet metal. Include each component's dimensions on your sketch, which need not be to scale.
         * (3) Make two objects out of 24- or 26-gauge sheet metal. Use patterns either provided by your counselor or made by you and approved by your counselor. Construct these objects using a metal that is appropriate to the object's ultimate purpose, and using cutting, bending, edging, and either soldering or brazing.
@@ -42,7 +42,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
 
 
 
-    * (b) Option 2 — Silversmith
+    * (b) Option 2—Silversmith
         * (1) Name and describe the use of a silversmith's basic tools.
         * (2) Create a sketch of two objects to make from sheet silver. Include each component's dimensions on your sketch, which need not be to scale.
         * (3) Make two objects out of 18- or 20-gauge sheet copper. Use patterns either provided by your counselor or made by you and approved by your counselor. Both objects must include a soldered joint. If you have prior silversmithing experience, you may substitute sterling silver, nickel silver, or lead-free pewter.
@@ -53,7 +53,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
 
 
 
-    * (c) Option 3 — Founder
+    * (c) Option 3—Founder
         * (1) Name and describe the use of the basic parts of a two-piece mold. Name at least three different types of molds.
         * (2) Create a sketch of two objects to cast in metal. Include each component's dimensions on your sketch, which need not be to scale.
         * (3) Make two molds, one using a pattern provided by your counselor and another one you have made yourself that has been approved by your counselor. Position the pouring gate and vents yourself. Do not use copyrighted materials as patterns .
@@ -63,7 +63,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
 
 
 
-    * (d) Option 4 — Blacksmith
+    * (d) Option 4—Blacksmith
         * (1) Name and describe the use of a blacksmith's basic tools.
         * (2) Make a sketch of two objects to hot-forge. Include each component's dimensions on your sketch, which need not be to scale.
         * (3) Using low-carbon steel at least 1/4 inch thick, perform the following exercises:

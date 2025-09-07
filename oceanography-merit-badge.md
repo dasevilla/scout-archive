@@ -13,7 +13,7 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
 ## Requirements
 
 * (1) Name four branches of oceanography. Describe at least five reasons why it is important for people to learn about the oceans.
-* (2) Explain the following terms: salinity, temperature,  density, and describe how these important properties of seawater are measured by oceanographer. Discuss the circulation and currents of the ocean. Describe the effects of the oceans on weather and climate.
+* (2) Explain the following terms: salinity, temperature,  and density. Describe how these important properties of seawater are measured by oceanographer. Discuss the circulation and currents of the ocean. Describe the effects of the oceans on weather and climate.
 * (3) Describe the characteristics of ocean waves. Point out the differences among the storm surge, tsunami, tidal wave, and tidal bore. Explain the difference between sea, swell, and surf. Explain how breakers are formed.
 * (4) Draw a cross-section of underwater topography. Show what is meant by:
     * (a) Continental shelf
@@ -21,7 +21,7 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
     * (c) Abyssal plain.
 
 
-* (5) List the main salts, gases, and nutrients in sea water. Describe some important properties of water. Tell how the animals and plants of the ocean affect the chemical composition of seawater. Explain how differences in evaporation and precipitation affect the salt content of the oceans.
+* (5) List the main salts, gases, and nutrients in seawater. Describe some important properties of water. Tell how the animals and plants of the ocean affect the chemical composition of seawater. Explain how differences in evaporation and precipitation affect the salt content of the oceans.
 * (6) Describe some of the biologically important properties of seawater. Define benthos, nekton, and plankton. Name some of the plants and animals that make up each of these groups. Describe the place and importance of phytoplankton in the oceanic food chain.
 * (7) Do ONE of the following:
     * (a) Make a plankton net. Tow the net by a dock, wade with it, hold it in a current, or tow it from a rowboat. Do this for about 20 minutes. Save the sample. Examine it under a microscope or high-power glass. Identify the three most common types of plankton in the sample. May be done in lakes or streams.

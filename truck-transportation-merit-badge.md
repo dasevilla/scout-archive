@@ -42,7 +42,7 @@ Trucking is a large and important industry. No matter where you live, a day is u
     * (d) How to insure the shipment for damages.
 
 
-* (9) Explain the following terms: bill of lading, ETA, logbook, intermodal, containers, tariff, shippers, carrier, consignee, drayage, cartage.
+* (9) Explain the following terms: bill of lading, ETA, logbook, intermodal, containers, tariff, shippers, carrier, consignee, drayage, and cartage.
 * (10) Learn about opportunities in the field of truck transportation. Choose one career in which you are interested and discuss with your counselor the major responsibilities of that position and the qualifications, education, and training such a position requires.
 
 

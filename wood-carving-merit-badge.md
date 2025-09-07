@@ -35,7 +35,7 @@ As with any art, wood carving involves learning the basics of design, along with
 
 
 * (5) Tell why different woods are used for different projects. Explain why you chose the type of wood you did for your projects in requirements 6 and 7.
-* (6) Plan your own or select a project from this merit badge pamphlet and complete a simple carving in the round.
+* (6) Plan your own or select a project from themerit badge pamphlet and complete a simple carving in the round.
 * (7) Complete a simple low-relief OR a chip carving project.
 
 

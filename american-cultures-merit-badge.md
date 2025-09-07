@@ -22,7 +22,7 @@ The United States is a nation of immigrants. Every person came to America from s
 
 
 * (2) Imagine that one of the groups had always lived alone in a city or country to which no other groups ever came. Tell what you think the city or country might be like today. Now tell what you think it might be like if the three groups you chose lived there at the same time.
-* (3) Tell about some differences between the religions and social customs of the three groups. Tell about some ideas or ways of doing things that are similar in the three groups.
+* (3) Tell about some differences between the religious and social customs of the three groups. Tell about some ideas or ways of doing things that are similar in the three groups.
 * (4) Tell about a contribution made to our country by three different people, each from a different racial, ethnic, or religious background.
 * (5) Give a talk to your Scout unit or class at school on how people from different groups have gotten along together. Lead a discussion on what can be done to help various groups understand one another better.
 

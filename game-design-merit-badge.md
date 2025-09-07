@@ -17,8 +17,8 @@ Games come in almost every shape, size, format, and flavor imaginable. Games can
     * (b) Describe four types of play value and provide an example of a game built around each concept. Discuss with your counselor other reasons people play games.
 
 
-* (2) Discuss with your counselor FIVE of the following 17 game design terms. For each term that you pick, describe how it relates to a specific game: story, setting, characters, play sequence, level design, interface design, difficulty, balance, depth, pace, replay value, age appropriateness, single-player vs. multiplayer, cooperative vs. competitive, turn-based vs. real-time, strategy vs. reflex vs. chance, abstract vs. thematic.
-* (3) Define the term intellectual property. Describe the types ofassociated with the game design industry. Describe how intellectual property is protected and why protection is necessary. Define and give an example of a licensed property.
+* (2) Discuss with your counselor FIVE of the following 17 game design terms. For each term that you pick, describe how it relates to a specific game: story, setting, characters, play sequence, level design, interface design, difficulty, balance, depth, pace, replay value, age appropriateness, single-player vs. multiplayer, cooperative vs. competitive, turn-based vs. real-time, strategy vs. reflex vs. chance, or abstract vs. thematic.
+* (3) Define the term. Describe the types of intellectual property associated with the game design industry. Describe how intellectual property is protected and why protection is necessary. Define and give an example of a licensed property.
 * (4) Do the following:
     * (a) Pick a game where the players can change the rules or objectives (examples: basketball, hearts, chess, kickball). Briefly summarize the standard rules and objectives and play through the game normally.
     * (b) Propose changes to several rules or objectives. Predict how each change will affect gameplay.

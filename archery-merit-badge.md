@@ -16,7 +16,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
     * (a) Explain what a projectile is, and why any device that shoots a projectile at high speed must be handled with care and respect, and used only in approved locations.
     * (b) Explain the five range safety rules.
     * (c) Explain the four whistle commands used on the range.
-    * (d) Explain how to safely remove arrows from the target and return them to your quiver
+    * (d) Explain how to safely remove arrows from the target and return them to your quiver.
     * (e) Tell your counselor about your local and state laws for owning and using archery equipment.
 
 
@@ -33,7 +33,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
 
 
 * (3) Do the following:
-    * (a) Explain the proper use, care, and storage of, as well as the reasons for using tabs, arm guards, shooting gloves, quivers.
+    * (a) Explain the proper use, care, and storage of, as well as the reasons for using tabs, arm guards, shooting gloves, and quivers.
     * (b) Explain the following terms: draw length, draw weight, mechanical release, barebow.
 
 
@@ -45,26 +45,26 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
 
 
 * (5) Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following Options:
-    * Option A — Recurve Bow or Longbow. Do the following:
+    * Option A—Recurve Bow or Longbow. Do the following:
         * (a) Name and point to the parts of the recurve or longbow you are shooting.
         * (b) Explain how to properly care for and store recurve bows and longbows.
         * (c) Demonstrate and explain USA Archery's eleven "Steps of Shooting" for the bow you are shooting.
         * (d) Demonstrate the proper way to string a recurve bow or longbow.
         * (e) Using a bow square, locate and mark with dental floss, crimp-on, or other method, the nocking point on the bowstring of the bow you are using.
         * (f) Do ONE of the following:
-            * (1) Using a recurve bow or longbow and arrows with a finger release, shoot a single round of one of the following:
+            * (1) Using a recurve bow or longbow and arrows with a finger release, shoot a single round of ONE of the following:
                 * (a) An NFAA field round of 14 targets and make a score of 60 points
                 * (b) A Scouting America field round of 14 targets and make a score of 80 points
                 * (c) A World Archery/USA Archery indoor round and make a score of 80 points (indoor rounds may be shot outdoors if this is more convenient)
                 * (d) An NFAA indoor round and make a score of 50 points (indoor rounds may be shot outdoors if this is more convenient).
 
 
-            * (2) Shooting 30 arrows in five-arrow ends at an 80-centimeter (32-inch) five-color target at 10 yards and using the 10 scoring regions, make a score of 150.
+            * (2) Shooting 30 arrows in five-arrow ends at an 80-centimeter (32-inch) five-color target at 10 yards and using the 10 scoring regions, make a score of 150 points.
 
 
 
 
-    * Option B — Compound Bow. Do the following:
+    * Option B—Compound Bow. Do the following:
         * (a) Name and point to the parts of the compound bow you are shooting.
         * (b) Explain how to properly care for and store compound bows.
         * (c) Demonstrate and explain USA Archery's eleven "Steps of Shooting" for the bow you are shooting.
@@ -78,7 +78,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
                 * (d) An NFAA indoor round and make a score of 60 points (indoor rounds may be shot outdoors if this is more convenient)
 
 
-            * (2) Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160. Accomplish this in the following manner:  Shoot 15 arrows in five-arrow ends, at a distance of 10 yards  AND  Shoot 15 arrows in five-arrow ends, at a distance of 15 yards.
+            * (2) Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160 points. Accomplish this in the following manner:  Shoot 15 arrows in five-arrow ends, at a distance of 10 yards  AND  Shoot 15 arrows in five-arrow ends, at a distance of 15 yards.
 
 
 

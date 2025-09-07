@@ -24,7 +24,7 @@ Plumbing, including pipe fitting, is an important and well-paid occupation. The 
 
 
 * (3) Show how to use five important plumber's tools.
-* (4) Identify and explain the following terms: washer, retaining nut, plunger (rubber force cup), solder, flux, elbow, tee, nipple, coupling, plug, union, trap, drainpipe, water meter.
+* (4) Identify and explain the following terms: washer, retaining nut, plunger (rubber force cup), solder, flux, elbow, tee, nipple, coupling, plug, union, trap, drainpipe, and water meter.
 * (5) Name the kinds of pipe that are used most often in a plumbing system. Explain why these pipes are used.
 * (6) Do FOUR of the following, each under the supervision of a knowledgeable adult:
     * (a) Visit the plumbing section of a hardware store or home center and identify:

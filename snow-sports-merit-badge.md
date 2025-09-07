@@ -23,8 +23,8 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
 
 
 * (3) Explain the international trail-marking system.
-* (4) Discuss the importance of strength, endurance, and flexibility in snow sports. Demonstrate exercises and activities you can do to get fit for the option you choose in requirement 7.
-* (5) Present yourself properly clothed and equipped for the option you choose in requirement 7. Discuss how the clothing you have chosen will help keep you warm and protected.
+* (4) Discuss the importance of strength, endurance, and flexibility in snow sports. Demonstrate exercises and activities you can do to get fit for the Option you choose in requirement 7.
+* (5) Present yourself properly clothed and equipped for the Option you choose in requirement 7. Discuss how the clothing you have chosen will help keep you warm and protected.
 * (6) Do the following:
     * (a) Tell the meaning of the Your Responsibility Code for skiers, snowboarders, and snowshoers. Explain why each rider must follow this code.
     * (b) Explain the Smart Style safety program. Tell why it is important and how it applies to participants at snow sport venues like terrain parks and pipes.
@@ -32,7 +32,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
 
 
 * (7) Do ONE of the following options:
-    * Option A — Downhill (Alpine) Skiing
+    * Option A—Downhill (Alpine) Skiing
         * (a) Show how to wax and maintain your skis and use/maintain your release bindings. Explain the international DIN standard and what it means to skiers.
         * (b) Explain the American Teaching System and a basic snowskiing progression.
         * (c) Discuss the five types of Alpine skis. Demonstrate two ways to carry skis and poles safely and easily.
@@ -45,7 +45,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
         * (j) Name the major ski organizations in the United States and explain their functions.
 
 
-    * Option B — Cross-Country (Nordic) Skiing
+    * Option B—Cross-Country (Nordic) Skiing
         * (a) Show your ability to select, use, and maintain equipment for cross-country skiing in safety and comfort.
         * (b) Discuss classic, skating, touring, and telemark skis.
         * (c) Discuss the basic principles of waxing for cross-country ski touring.
@@ -58,7 +58,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
         * (j) Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, pole drag, and ski-pole "glissade."
 
 
-    * Option C — Snowboarding
+    * Option C—Snowboarding
         * (a) Discuss forward-fall injuries.
         * (b) Show your ability to select the correct equipment for snowboarding and to use it for safety and comfort.
         * (c) Show how to use and maintain your own bindings, and explain the use of the different binding methods. Explain the need for leashes.
@@ -76,7 +76,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
         * (k) Name the major snowboarding organizations in the United States and explain their functions.
 
 
-    * Option D — Snowshoeing
+    * Option D—Snowshoeing
         * (a) Name the parts of a snowshoe.
         * (b) Explain how to choose the correct size of snowshoe.
         * (c) Describe the different types of snowshoes and their specialized uses. Discuss factors to consider when choosing a snowshoe.

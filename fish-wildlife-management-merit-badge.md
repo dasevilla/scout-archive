@@ -33,7 +33,7 @@ Learn how animal diversity impacts the planet and the longevity of communities a
     * (a) Determine the age of five species of fish from scale samples or identify various age classes of one species in a lake and report the results.
     * (b) Conduct a creel census on a small lake to estimate catch per unit effort and report the results to your counselor.
     * (c) Examine the stomach contents of three fish and record the findings. It is not necessary to catch any fish for this option.
-    * (d) Make a freshwater aquarium. Include at least four species of native plants and four species of animal life, such as whirligig beetles, freshwater shrimp, tadpoles, water snails, and golden shiners. After 60 days of observation, discuss with your counselor the life cycles, food chains, and management needs you have recognized. Before completing this requirement, check local laws on releasing these organisms back into the wild, and follow your counselor's direction in disposing of these organisms humanly and safely.
+    * (d) Make a freshwater aquarium. Include at least four species of native plants and four species of animal life, such as whirligig beetles, freshwater shrimp, tadpoles, water snails, and golden shiners. After 60 days of observation, discuss with your counselor the life cycles, food chains, and management needs you have recognized. Before completing this requirement, check local laws on releasing these organisms back into the wild, and follow your counselor's direction in disposing of these organisms humanely and safely.
 
 
 * (8) Identify three career opportunities that would use skills and knowledge by fish and wildlife professionals. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
@@ -43,6 +43,6 @@ Learn how animal diversity impacts the planet and the longevity of communities a
 
 - [Fish & Wildlife Management merit badge page](https://www.scouting.org/merit-badges/fish-wildlife-management/)
 - [Fish & Wildlife Management merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fish%20and%20Wildlife_2024.pdf) ([local copy](files/fish-wildlife-management-merit-badge.pdf))
-- [Fish & Wildlife Management merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-fish-wildlife-merit-badge-pamphlet-661989.html)
+- [Fish & Wildlife Management merit badge pamphlet](https://www.scoutshop.org/fish-wildlife-merit-badge-pamphlet-661989.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

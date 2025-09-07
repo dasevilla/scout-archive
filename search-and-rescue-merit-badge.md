@@ -55,7 +55,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
     * (d) Determine a hypothetical place last seen, and point out an area on your map that could be used for containment using natural or human-made boundaries.
 
 
-* (8) Choose a hypothetical scenario, either one presented in this merit badge pamphlet or one created by your counselor.  Then do the following:
+* (8) Choose a hypothetical scenario, either one presented in themerit badge pamphlet or one created by your counselor.  Then do the following:
     * (a) Complete an incident objectives form for this scenario.
     * (b) Complete an Incident Action Plan (IAP) to address this scenario.
     * (c) Discuss with your counselor the behavior of a lost person and how that would impact your incident action plan (for example, the differences between searching for a young child versus a teen).
@@ -63,7 +63,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 
 * (9) Discuss with your counselor the termsand. Then do the following:
-    * (a) Plan and carry out a practice hasty search-either urban or wilderness-for your patrol or troop. Include the following elements in the search: clue awareness, evidence preservation, tracking the subject, and locating the subject using attraction or trail sweep.
+    * (a) Plan and carry out a practice hasty search—either urban or wilderness—for your patrol or troop. Include the following elements in the search: clue awareness, evidence preservation, tracking the subject, and locating the subject using attraction or trail sweep.
     * (b) When it's over, hold a team debriefing to discuss the hasty search. Discuss problems encountered, successful and unsuccessful tactics, and ideas for improvement.
 
 

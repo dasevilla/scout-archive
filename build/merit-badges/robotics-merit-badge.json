@@ -9,20 +9,20 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Do the following:",
+      "text": "Safety. Do the following:",
       "internal_parent_id": null,
       "internal_id": "2441",
       "requirements": [
         {
           "id": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics. Resource:",
+          "text": "Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics. Resource: [Hazards and Robot Safety (video)](https://youtu.be/7v3cylLL9hw?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)",
           "internal_parent_id": "2441",
           "internal_id": "2442",
           "requirements": []
         },
         {
           "id": "b",
-          "text": "Discuss first aid and prevention for the types of injuries that could occur while participating in robotics activities and competitions, including cuts, eye injuries, and burns (chemical or heat). Resource:",
+          "text": "Discuss first aid and prevention for the types of injuries that could occur while participating in robotics activities and competitions, including cuts, eye injuries, and burns (chemical or heat). Resource: [How to Treat Cuts and Scrapes (video)](https://www.youtube.com/watch?v=0jp5FgLmKtk&list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce&index=1)",
           "internal_parent_id": "2441",
           "internal_id": "2443",
           "requirements": []
@@ -31,27 +31,27 @@
     },
     {
       "id": "2",
-      "text": "Discuss the following with your counselor:",
+      "text": "Robotics Industry. Discuss the following with your counselor:",
       "internal_parent_id": null,
       "internal_id": "2444",
       "requirements": [
         {
           "id": "a",
-          "text": "The kinds of things robots can do and how robots are best used today. Resource:",
+          "text": "The kinds of things robots can do and how robots are best used today. Resource: [TYPES OF ROBOTS | Robots Classification (video)](https://youtu.be/fc_Cynqr6jM)",
           "internal_parent_id": "2444",
           "internal_id": "2445",
           "requirements": []
         },
         {
           "id": "b",
-          "text": "The similarities and differences between remote-control vehicles, telerobots, and autonomous robots. Resources:",
+          "text": "The similarities and differences between remote-control vehicles, telerobots, and autonomous robots. Resources: [What's The Difference Between Autonomous Robots and Controlled Robots? (video)](https://youtu.be/kdYJyGQwtL4) [What Is the Difference Between Autonomous and Teleoperated Robots? (video)](https://milvus.io/ai-quick-reference/what-is-the-difference-between-autonomous-and-teleoperated-robots)",
           "internal_parent_id": "2444",
           "internal_id": "2446",
           "requirements": []
         },
         {
           "id": "c",
-          "text": "Three different methods robots can use to move themselves other than wheels or tracks. Describe when it would be appropriate to use each method. Resource:",
+          "text": "Three different methods robots can use to move themselves other than wheels or tracks. Describe when it would be appropriate to use each method. Resource: [The No Wheel, Circular Gear, or Sprocket Robot Race (video)](https://youtu.be/aVuNcVW-gzE?si=xoginEhjVnWEPiMd)",
           "internal_parent_id": "2444",
           "internal_id": "2447",
           "requirements": []
@@ -60,14 +60,14 @@
     },
     {
       "id": "3",
-      "text": "Discuss with your counselor three of the five major fields of robotics (human-robot interface, mobility, manipulation, programming, sensors) and their importance to robotics development. Discuss either the three fields as they relate to a single robot system OR talk about each field in general. Find pictures or at least one video to aid your discussion.Resource:",
+      "text": "General Knowledge. Discuss with your counselor three of the five major fields of robotics (human-robot interface, mobility, manipulation, programming, sensors) and their importance to robotics development. Discuss either the three fields as they relate to a single robot system OR talk about each field in general. Find pictures or at least one video to aid your discussion. Resource:  [5 Sub-Disciplines of Robotics (video)](https://youtu.be/exEBkd1Gn0I)",
       "internal_parent_id": null,
       "internal_id": "2448",
       "requirements": []
     },
     {
       "id": "4",
-      "text": "Do the following:Resources:",
+      "text": "Design, Build, Program, Test. Do the following: Resources:  [Hints On How to Get the Robotics Merit Badge (video)](https://youtu.be/weBH_PL3_Bk)  [What Qualifies as a Robot for Robotics Merit Badge? (video)](https://youtu.be/6dYq9bBSaWc?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)  [Methods Robots Use to Move (video)](https://youtu.be/T0JeYyU7R-c?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)  [Robotics: Degrees of Freedom (video)](https://youtu.be/55O-DGeoFic?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)",
       "internal_parent_id": null,
       "internal_id": "2449",
       "requirements": [
@@ -100,14 +100,14 @@
           "requirements": [
             {
               "id": "1",
-              "text": "Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook. Resource:",
+              "text": "Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook. Resource: [VEXcode VR (website)](https://www.vexrobotics.com/vexcode/vr?srsltid=AfmBOopvcCE5uFUVB__bxV0UiLP20ZZQwq0WrNHHJWuIQUDXmLAwl8UL%5C)",
               "internal_parent_id": "2453",
               "internal_id": "2455",
               "requirements": []
             },
             {
               "id": "2",
-              "text": "Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook. Resources:",
+              "text": "Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook. Resources: [General Guide to Creating Flowcharts (video)](https://youtu.be/SWRDqTx8d4k) [Flowchart Tutorial for Beginners (video)](https://youtu.be/c8asK8iCaRk)",
               "internal_parent_id": "2453",
               "internal_id": "2456",
               "requirements": []
@@ -125,7 +125,7 @@
     },
     {
       "id": "5",
-      "text": "Do the following:",
+      "text": "Demonstrate. Do the following:",
       "internal_parent_id": null,
       "internal_id": "2457",
       "requirements": [
@@ -147,7 +147,7 @@
     },
     {
       "id": "6",
-      "text": "Do ONE of the following.Resources:",
+      "text": "Competitions. Do ONE of the following. Resources:  [About FIRST Robotics Competition (2021) (video)](https://youtu.be/Jd29kzjclV0)  [About VEX Robotics (video)](https://youtu.be/Mi6E37oU8yc)",
       "internal_parent_id": null,
       "internal_id": "2460",
       "requirements": [
@@ -169,7 +169,7 @@
     },
     {
       "id": "7",
-      "text": "Name three career opportunities in robotics. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.Resources:",
+      "text": "Careers. Name three career opportunities in robotics. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you. Resources:  [Learn about the careers of robotics technicians (video)](https://youtu.be/0dwkGhRPQW4)  [Careers in Robotics (video)](https://youtu.be/5YTYFrrSdV4?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)",
       "internal_parent_id": null,
       "internal_id": "2463",
       "requirements": []

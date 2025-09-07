@@ -12,11 +12,11 @@ Discover how collecting can be an educational and financially rewarding pastime 
 
 ## Requirements
 
-* 
+* Note: Stamp and coin collecting are excluded from eligibility for this merit badge.
 * (1) Prepare a short written report or outline for your counselor, giving a detailed description of your collection, including a short history, why you enjoy your collection, and what you have learned from collecting. Be sure to include why you chose that particular type of collection/collecting method.
 * (2) Explain the growth and development of your collection.
 * (3) Demonstrate your knowledge of preserving and displaying your collection.
-    * (a) Explain the precautions you need to take to preserve your collection, including:
+    * (a) Explain the precautions you need to take to preserve your collection, including:  - Handling - Cleaning - Storage.
     * (b) Explain how best to display your collection, keeping in mind preserving as discussed above.
     * (c) Explain to your counselor the events available for a hobbyist of this collection, including shows, seminars, conventions, contests, and museum programs and exhibits.
     * (d) Explain to your counselor how you keep track of your collection. Describe your cataloging method.

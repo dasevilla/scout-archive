@@ -28,7 +28,7 @@ The labor movement in America seeks to ensure that the civil rights of laborers 
     * (d) Read a biography (with your counselor's approval) of someone who has made a contribution to the American labor movement. Explain what contribution this person has made to the American labor movement.
 
 
-* (6) Explain the term. Discuss with your counselor some effects of globalization on the workforce in the United States. Explain how this global workforce fits into the economic system of this country.
+* (6) Explain the term globalization. Discuss with your counselor some effects of globalization on the workforce in the United States. Explain how this global workforce fits into the economic system of this country.
 * (7) Choose a labor issue of widespread interest to American workers - an issue in the news currently or known to you from your work on this merit badge. Before your counselor, or in writing, argue both sides of the issue, first taking management's side, then presenting labor's or the employee's point of view. In your presentation, summarize the basic rights and responsibilities of employers and employees, including union members and nonunion members.
 * (8) Discuss with your counselor the different goals that may motivate the owners of a business, its stockholders, its customers, its employees, the employees' representatives, the community, and public officials. Explain why agreements and compromises are made and how they affect each group in achieving its goals.
 * (9) Learn about opportunities in the field of labor relations. Choose one career in which you are interested and discuss with your counselor the major responsibilities of that position and the qualifications, education, and training such a position requires.

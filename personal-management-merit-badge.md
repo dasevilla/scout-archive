@@ -12,7 +12,7 @@ Personal management is about mapping a plan for your life that will involve sett
 
 ## Requirements
 
-* 
+* Note: Always be sure to have proper permission before using the internet. It is strongly advised that Scouts view the Personal Safety Awareness videos before starting work. Find details at [www.scouting.org/training/youth-protection/scouts-bsa](http://www.scouting.org/training/youth-protection/scouts-bsa)
 * (1) Do the following:
     * (a) Choose an item that your family might want to purchase that is considered a major expense.
     * (b) Write a plan that tells how your family would save money for the purchase identified in requirement 1(a).

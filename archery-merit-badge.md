@@ -78,7 +78,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
                 * (d) An NFAA indoor round and make a score of 60 points (indoor rounds may be shot outdoors if this is more convenient)
 
 
-            * (2) Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160 points. Accomplish this in the following manner:  Shoot 15 arrows in five-arrow ends, at a distance of 10 yards  AND  Shoot 15 arrows in five-arrow ends, at a distance of 15 yards.
+            * (2) Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160 points. Accomplish this in the following manner: Shoot 15 arrows in five-arrow ends, at a distance of 10 yards AND Shoot 15 arrows in five-arrow ends, at a distance of 15 yards.
 
 
 

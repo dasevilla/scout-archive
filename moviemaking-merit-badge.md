@@ -15,7 +15,7 @@ Moviemaking is a way to tell stories visually through the art and science of mot
 * (1) Discuss and demonstrate the proper elements of a good motion picture. In your discussion, include visual storytelling, rhythm, the 180-axis rule, camera movement, framing and composition of camera shots, and lens selection.
 * (2) Do the following:
     * (a) In a three- or four-paragraph treatment, tell the story you plan to produce, making sure that the treatment conveys a visual picture.
-    * (b) Prepare a storyboard for your motion picture. This can be done with rough sketches and stick figures.
+    * (b) Prepare a storyboard for your motion picture. Note: This can be done with rough sketches and stick figures.
     * (c) Demonstrate the following motion picture shooting techniques:
         * (1) Using a tripod
         * (2) Panning a camera

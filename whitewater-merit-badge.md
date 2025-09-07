@@ -21,7 +21,7 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
 * (2) Do the following:
     * (a) Demonstrate understanding of the following river features by drawing lines to show the flow of water: upstream V, downstream V, riffle, eddy with an eddy line, ledge, river bend, shallows, current at different depths, drop, horizon line, and hydraulic.
     * (b) Describe how waves form including standing waves and wave trains.
-    * (c) Explain how to tilt or edge the boat without leaning your body
+    * (c) Explain how to tilt or edge the boat without leaning your body - When entering and exiting an eddy. - When ferrying in downstream and upstream directions.
     * (d) Explain when, why, and how you should scout a river while ashore, while on the river, and when you should portage your boat.
 
 
@@ -31,18 +31,18 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
 
 
 * (4) Do ONE of the following:
-    * (a) (perform the following on calm water):
+    * (a) Option A—Tandem Canoest. (perform the following on calm water):
         * (1) Demonstrate the following strokes in the bow: cross forward, bow draw, cross bow draw, bow pry, and sculling draw.
         * (2) Demonstrate the following strokes in the stern: stern draw, stern pry, sculling draw, and forward with stern pry.
         * (3) Demonstrate a high brace, low brace, and righting pry.
 
 
-    * (b) (perform the following on calm water):
+    * (b) Option B—Solo Canoest. (perform the following on calm water):
         * (1) Demonstrate the following strokes: cross forward, bow draw, cross bow draw, stern draw, pry, stern pry, sculling draw, and forward with stern pry.
         * (2) Demonstrate a high brace, low brace, and righting pry.
 
 
-    * (c) (perform the following on calm water):
+    * (c) Option C—Solo Kayaker. (perform the following on calm water):
         * (1) Demonstrate the following strokes: bow draw, rudder, and sculling draw.
         * (2) Demonstrate a high brace and low brace.
 

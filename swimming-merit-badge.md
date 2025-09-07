@@ -45,7 +45,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
     * (c) Do a headfirst surface dive to a depth of at least 5 feet and swim underwater for three strokes. Come to the surface, take a breath, and repeat the sequence twice.
 
 
-* (8) Following the guidelines set in the Scouting America Safe Swim Defense, in water at least  7 feet deep, show a standing headfirst dive from a dock or pool deck. Show  a long shallow dive, also from the dock or pool deck.If your state, city, or local community requires a water depth greater than 7 feet, it is important to  abide by that mandate.
+* (8) Following the guidelines set in the Scouting America Safe Swim Defense, in water at least  7 feet deep, show a standing headfirst dive from a dock or pool deck. Show  a long shallow dive, also from the dock or pool deck.  Note: If your state, city, or local community requires a water depth greater than 7 feet, it is important to  abide by that mandate.
 * (9) Explain the health benefits of regular aerobic exercise, and discuss why  swimming is favored as both fitness and therapeutic exercise.
 
 

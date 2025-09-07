@@ -12,7 +12,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 ## Requirements
 
-* The Scouting America'sstates under "Unauthorized and Restricted Activities" that flying in aircraft as part of a search and rescue mission is an unauthorized activity for youth members. For complete information, seeweb page.
+* A Note About Unauthorized and Restricted Activities    The Scouting America's Guide to Safe Scouting states under "Unauthorized and Restricted Activities" that flying in aircraft as part of a search and rescue mission is an unauthorized activity for youth members. For complete information, see [Scouting America's Scouting Safely](https://www.scouting.org/health-and-safety/) web page.
 * (1) Do the following:
     * (a) Explain to your counselor the hazards you are most likely to encounter while participating in search and rescue (SAR) activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in SAR activities, including: snakebites, dehydration, shock, environmental emergencies such as hypothermia or heatstroke, blisters, and ankle and knee sprains.
@@ -55,14 +55,14 @@ A search is an emergency situation requiring a team of trained searchers to loca
     * (d) Determine a hypothetical place last seen, and point out an area on your map that could be used for containment using natural or human-made boundaries.
 
 
-* (8) Choose a hypothetical scenario, either one presented in themerit badge pamphlet or one created by your counselor.  Then do the following:
+* (8) Choose a hypothetical scenario, either one presented in the Search and Rescue merit badge pamphlet or one created by your counselor.  Then do the following:
     * (a) Complete an incident objectives form for this scenario.
     * (b) Complete an Incident Action Plan (IAP) to address this scenario.
     * (c) Discuss with your counselor the behavior of a lost person and how that would impact your incident action plan (for example, the differences between searching for a young child versus a teen).
     * (d) After completing 8(a)-8(c), discuss the hypothetical scenario with your counselor.
 
 
-* (9) Discuss with your counselor the termsand. Then do the following:
+* (9) Discuss with your counselor the terms hasty team and hasty search. Then do the following:
     * (a) Plan and carry out a practice hasty search—either urban or wilderness—for your patrol or troop. Include the following elements in the search: clue awareness, evidence preservation, tracking the subject, and locating the subject using attraction or trail sweep.
     * (b) When it's over, hold a team debriefing to discuss the hasty search. Discuss problems encountered, successful and unsuccessful tactics, and ideas for improvement.
 

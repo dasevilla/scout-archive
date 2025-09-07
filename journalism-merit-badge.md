@@ -12,7 +12,7 @@ One thing is for sure about journalism: It is never boring. For a reporter, almo
 
 ## Requirements
 
-* (1) Explain what freedom of the press is and how the First Amendment  guarantees that you can voice your opinion. In your discussion, tell how  to distinguish between fact and opinion, and explain the termsand. Discuss how these matters relate to ethics in journalism.
+* (1) Explain what freedom of the press is and how the First Amendment  guarantees that you can voice your opinion. In your discussion, tell how  to distinguish between fact and opinion, and explain the terms libel,  slander, defamation, fair comment and criticism, public figure, privacy,  and malice. Discuss how these matters relate to ethics in journalism.
 * (2) Do ONE of the following:
     * (a) Newspaper, magazine, and online journalism (with your parent or guardian's permission).
         * (1) On the same day, read a local news source or newspaper, a national news source or newspaper, a news magazine (online or printed) and a social media news feed. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story.

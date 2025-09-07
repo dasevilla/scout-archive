@@ -34,7 +34,7 @@ Earning the American Business Merit Badge can help Scouts learn practical busine
     * (d) Discuss the differences between operating a brick-and-mortar business versus an online business.
 
 
-* (4) Describe the role of the U.S. Department of Labor. Discuss TWO of the  following topics with your counselor:
+* (4) Describe the role of the U.S. Department of Labor. Discuss TWO of the  following topics with your counselor: - Fair Labor Standards Act (FLSA) - Occupational Safety and Health Act (OSHA) - Family and Medical Leave Act (FMLA) - Employee Retirement Income Security Act (ERISA)
 * (5) Choose a business and research how it applies to each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor.
 * (6) Do ONE of the following:
     * (a) Choose one of the primary areas of business and identify three career opportunities. Select one and research the education, training, and experience required for this career. Discuss this with your counselor and explain why this interests you.

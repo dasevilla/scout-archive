@@ -12,7 +12,7 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
 
 ## Requirements
 
-* 
+* Note: "Discussion" requirements will be either with a counselor and another individual (in accordance with Youth Protection Guidelines [https://www.scouting.org/health-and-safety/gss/gss01/](https://www.scouting.org/health-and-safety/gss/gss01/)), or with your counselor and a small group (of Scouts), depending upon your preference.
 * (1) Before beginning work on other requirements for this merit badge, research the following terms and explain to your counselor how you feel they relate to the Scout Oath and Scout Law: identities, diversity, equality, equity, inclusion, discrimination, ethical leadership, and upstander.
 * (2) Document and discuss with your counselor what leadership means to you. Share what it means to make ethical decisions.
     * (a) Research and share with your counselor an individual you feel has demonstrated positive leadership while having to make an ethical decision. (It could be someone in history, a family member, a teacher, a coach, a counselor, a clergy member, a Scoutmaster, etc.)
@@ -47,7 +47,7 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
 * (6) With your parent or guardian's approval, connect with another Scout or youth your own age who has an identity that's different from yours. (This means a trait, belief, or characteristic different from you.)
     * (a) Share with each other what makes the different aspect of your identity meaningful/special to you
     * (b) Share with each other ONE of the following Options:
-        * (i) A time you felt excluded from a group.
+        * (i) Option 1: A time you felt excluded from a group.
             * What was the situation?
             * How did it make you feel?
             * What did you do?
@@ -56,7 +56,7 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
             * Would you do anything differently today?
 
 
-        * (ii)  This imaginary situation: You're attending a new school and don't know anyone there yet. You notice they dress very differently than you do. At lunchtime, you decide you'll try to sit with a group to get to know other students. People at two tables tell you there is someone sitting at the currently empty seat at their table, so you end up eating by yourself.
+        * (ii) Option 2: This imaginary situation: You're attending a new school and don't know anyone there yet. You notice they dress very differently than you do. At lunchtime, you decide you'll try to sit with a group to get to know other students. People at two tables tell you there is someone sitting at the currently empty seat at their table, so you end up eating by yourself.
             * How would that make you feel?
             * What could the students have done?
             * If that happened at your school, what would you do?

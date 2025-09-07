@@ -18,7 +18,7 @@ Games come in almost every shape, size, format, and flavor imaginable. Games can
 
 
 * (2) Discuss with your counselor FIVE of the following 17 game design terms. For each term that you pick, describe how it relates to a specific game: story, setting, characters, play sequence, level design, interface design, difficulty, balance, depth, pace, replay value, age appropriateness, single-player vs. multiplayer, cooperative vs. competitive, turn-based vs. real-time, strategy vs. reflex vs. chance, or abstract vs. thematic.
-* (3) Define the term. Describe the types of intellectual property associated with the game design industry. Describe how intellectual property is protected and why protection is necessary. Define and give an example of a licensed property.
+* (3) Define the term  intellectual property. Describe the types of intellectual property associated with the game design industry. Describe how intellectual property is protected and why protection is necessary. Define and give an example of a licensed property.
 * (4) Do the following:
     * (a) Pick a game where the players can change the rules or objectives (examples: basketball, hearts, chess, kickball). Briefly summarize the standard rules and objectives and play through the game normally.
     * (b) Propose changes to several rules or objectives. Predict how each change will affect gameplay.
@@ -33,7 +33,7 @@ Games come in almost every shape, size, format, and flavor imaginable. Games can
     * (d) Draw the game elements.
 
 
-* (6) Do the following:You must have your counselor's approval of your concept before you begin creating the prototype.
+* (6) Do the following: Note: You must have your counselor's approval of your concept before you begin creating the prototype.
     * (a) Prototype your game from requirement 5. If applicable, demonstrate to your counselor that you have addressed player safety through the rules and equipment. Record your work in your game design notebook.
     * (b) Test your prototype with as many other people as you need to meet the player format. Compare the play experience to your descriptions from requirement 5(b). Correct unclear rules, holes in the rules, dead ends, and obvious rule exploits. Change at least one rule, mechanic, or objective from your first version of the game, and describe why you are making the change. Play the game again. Record in your game design notebook whether or not your change had the expected effect.
     * (c) Repeat 6(b) at least two more times and record the results in your game design notebook.

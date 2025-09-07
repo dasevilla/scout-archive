@@ -30,7 +30,7 @@ Learning to shoot is like mastering any other skill — it takes study and pract
 
 
 * (2) Working under the supervision of a certified National Rifle Association (NRA) Shotgun instructor and a certified range safety officer, at a nationally authorized camp property or at a commercial firearm range (as defined in the Scouting America National Range and Target Activities Manual), do ONE of the following options:
-    * Option A—Shotgun Shooting (Modern Shotshell Type).   Do the following:
+    * Option A—Shotgun Shooting (Modern Shotshell Type).  Do the following:
         * (a) Identify and explain the principal parts of a shotgun, action types, and how they function.
         * (b) Identify and demonstrate the rules for safely storing and handling a shotgun.
         * (c) Identify the parts of a shotgun shell and their functions.

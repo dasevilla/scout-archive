@@ -56,7 +56,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
     * (c) Option 3—Founder
         * (1) Name and describe the use of the basic parts of a two-piece mold. Name at least three different types of molds.
         * (2) Create a sketch of two objects to cast in metal. Include each component's dimensions on your sketch, which need not be to scale.
-        * (3) Make two molds, one using a pattern provided by your counselor and another one you have made yourself that has been approved by your counselor. Position the pouring gate and vents yourself. Do not use copyrighted materials as patterns .
+        * (3) Make two molds, one using a pattern provided by your counselor and another one you have made yourself that has been approved by your counselor. Position the pouring gate and vents yourself. Do not use copyrighted materials as patterns.
             * (a) Using lead-free pewter, make a casting using a mold provided by your counselor.
             * (b) Using lead-free pewter, make a casting using the mold that you have made.
 
@@ -68,9 +68,9 @@ Scouts will begin their work on this merit badge by learning about the propertie
         * (2) Make a sketch of two objects to hot-forge. Include each component's dimensions on your sketch, which need not be to scale.
         * (3) Using low-carbon steel at least 1/4 inch thick, perform the following exercises:
             * (a) Draw out by forging a taper.
-            * (b) Use the horn of the anvil by forging a U -shaped bend.
+            * (b) Use the horn of the anvil by forging a U-shaped bend.
             * (c) Form a decorative twist in a piece of square steel.
-            * (d) Use the edge of the anvil to bend metal by forging an L -shaped bend.
+            * (d) Use the edge of the anvil to bend metal by forging an L-shaped bend.
 
 
         * (4) Using low-carbon steel at least 1/4 inch thick, make the two objects you sketched that require hot-forging. Be sure you have your counselor's approval before you begin.

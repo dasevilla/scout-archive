@@ -30,20 +30,20 @@ No Boy Scout will ignore a plea for help. However, the desire to help is of litt
 * (5) Demonstrate "throwing" rescues using various items such as a line, ring buoy, rescue bag, and free-floating support. Successfully place at least one such aid within reach of a practice victim 25 feet from shore.
 * (6) With your counselor's approval, view in-person or on video a rowing rescue performed using a rowboat, canoe, kayak, or stand up paddleboard. Discuss with your counselor how effectively and efficiently the rescue  was performed.
 * (7) List various items that can be used as aids in a "go" rescue. Explain why buoyant aids are preferred.
-* (8) Correctly demonstrate rescues of apractice subject 30 feet from shore in deep water using two types of buoyant aids provided by your counselor. Use a proper entry and a strong approach stroke. Speak to the subject to determine his or her condition and to provide instructions and encouragement.
+* (8) Correctly demonstrate rescues of a conscious practice subject 30 feet from shore in deep water using two types of buoyant aids provided by your counselor. Use a proper entry and a strong approach stroke. Speak to the subject to determine his or her condition and to provide instructions and encouragement.
     * (a) Present one aid to a subject, release it, and swim at a safe distance as the subject moves to safety.
     * (b) In a separate rescue, present the other aid to a subject and use it to tow the subject to safety.
 
 
-* (9) Discuss with your counselor when it is appropriate to remove heavy clothing before attempting a swimming rescue. Remove street clothes in 20 seconds or less, enter the water, and approach apractice subject 30 feet from shore in deep water. Speak to the subject and use a nonbuoyant aid, such as a shirt or towel, to tow the subject to safety.
+* (9) Discuss with your counselor when it is appropriate to remove heavy clothing before attempting a swimming rescue. Remove street clothes in 20 seconds or less, enter the water, and approach a conscious practice subject 30 feet from shore in deep water. Speak to the subject and use a nonbuoyant aid, such as a shirt or towel, to tow the subject to safety.
 * (10) Discuss with your counselor the importance of avoiding contact with an active subject and demonstrate lead-and-wait techniques.
-* (11) Perform the followingrescues for apractice subject  30 feet from shore. Begin in the water from a position near the subject.  Speak to the subject to determine his or her condition and to provide  instructions and encouragement.
+* (11) Perform the following nonequipment rescues for a conscious practice subject  30 feet from shore. Begin in the water from a position near the subject.  Speak to the subject to determine his or her condition and to provide  instructions and encouragement.
     * (a) Perform an armpit tow for a calm, responsive, tired swimmer resting with a back float.
     * (b) Perform a cross-chest carry for an exhausted, responsive subject treading water.
 
 
 * (12) In deep water, show how to escape from a victim's grasp on your wrist. Repeat for front and rear holds about the head and shoulders.
-* (13) Perform the following rescues for anpractice subject at or near the surface 30 feet from shore. Use a proper entry and strong approach stroke. Speak to the subject and splash water on the subject to determine his or her condition before making contact. Quickly remove the victim from the water, with assistance if needed, and position for CPR.
+* (13) Perform the following rescues for an unconscious practice subject at or near the surface 30 feet from shore. Use a proper entry and strong approach stroke. Speak to the subject and splash water on the subject to determine his or her condition before making contact. Quickly remove the victim from the water, with assistance if needed, and position for CPR.
     * (a) Perform an equipment assist using a buoyant aid.
     * (b) Perform a front approach and wrist tow.
     * (c) Perform a rear approach and armpit tow.

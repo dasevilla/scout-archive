@@ -22,7 +22,7 @@ Learn why electricity plays a significant role in the economy and how energy con
     * (g) Explain what to do if caught out in the open during an electrical storm.
 
 
-* (2) Complete an electrical home safety inspection of your  home, using the checklist found in themerit badge pamphlet or one approved by your counselor. Discuss what you find with your counselor.
+* (2) Complete an electrical home safety inspection of your  home, using the checklist found in the Electricity merit badge pamphlet or one approved by your counselor. Discuss what you find with your counselor.
 * (3) Make a simple electromagnet and use it to show magnetic attraction and repulsion.
 * (4) Do the following:
     * (a) Explain the difference between direct current and alternating current, the advantages and disadvantages of each, and give a practical example of the use of each type.

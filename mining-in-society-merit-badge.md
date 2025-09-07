@@ -12,7 +12,7 @@ The Mining in Society merit badge covers the history of mining, explores the sta
 
 ## Requirements
 
-* 
+* Note: Visiting a mine site, a mining equipment manufacturer, or an equipment supplier requires advance planning. These sites can be potentially dangerous. You will need permission from your parent or guardian and counselor, and the manager of the mine site, or equipment manufacturer or supplier. While there, you will be required to follow closely the site manager's instructions and comply with all safety rules and procedures, including wearing appropriate clothing, footwear, and personal safety equipment.
 * (1) Do the following:
     * (a) Select 10 different minerals. For each one, name a product for which the mineral is used.
     * (b) Explain the role mining has in producing and processing things that are grown.

@@ -12,8 +12,8 @@ Modern automobiles are important to many aspects of American life. Those who ser
 
 ## Requirements
 
-* 
-* (1) Do the following:
+* Note: You will need access to a car or truck and its owner's manual to meet some requirements for this merit badge. If you do not have your own vehicle, you should work with your counselor or other trusted adult to obtain access to a vehicle and the owner's manual for that vehicle.
+* (1) Safety and Registration. Do the following:
     * (a) Explain to your counselor the hazards you are most likely to encounter during automotive maintenance activities, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.
     * (b) Discuss with your counselor the safety equipment, tools, and clothing used while checking or repairing a motor vehicle. Use this equipment, tools, and/or clothing (when needed or called for) in meeting the requirements for this merit badge.
     * (c) Explain the different types of motors you may encounter.
@@ -24,21 +24,21 @@ Modern automobiles are important to many aspects of American life. Those who ser
     * (h) Explain the importance of registering a vehicle and find out the annual registration fee for renewing your family car's registration.
 
 
-* (2) Do the following:
-    * (a) Demonstrate how to check the following:
+* (2) General Maintenance. Do the following:
+    * (a) Demonstrate how to check the following:      - (1) Brake fluid - (2) Engine oil - (3) Coolant - (4) Power steering fluid - (5) Windshield washer fluid - (6) Transmission fluid - (7) Battery fluid (if possible) and condition of the battery terminals
     * (b) Locate the fuse boxes; determine the type and size of fuses. Demonstrate the proper replacement of burned-out fuses.
     * (c) Demonstrate how to check the condition and tension of belts and hoses.
     * (d) Check the vehicle for proper operation of its lights, including the interior overhead lights, instrument lights, warning lights, and exterior bulbs.
     * (e) Locate and check the air filter(s).
 
 
-* (3) Do the following:
+* (3) Dashboard/Driver Information Center. Do the following:
     * (a) Explain the function of the fuel gauge, speedometer, tachometer, oil pressure, and engine temperature gauge. Point each one out on the instrument cluster.
     * (b) Explain the symbols that light up on the dashboard and the difference between the yellow and red symbols. Explain each of the indicators on the dashboard, using the owner's manual if necessary.
     * (c) Explain the messages and alerts that may be displayed on the dashboard/ driver information center including maintenance-related reminders.
 
 
-* (4) Do the following:
+* (4) Tires. Do the following:
     * (a) Explain the difference between tire manufacturer's and vehicle manufacturer's specifications and show where to find them.
     * (b) Demonstrate how to check tire pressure and properly inflate a tire. Check the spare tire and make sure it is ready for use.
     * (c) Explain why wheel alignment is important to the life of a tire. Explain caster, camber, and toe-in adjustments on wheel alignment.
@@ -46,23 +46,23 @@ Modern automobiles are important to many aspects of American life. Those who ser
     * (e) Explain how to dispose of old tires in accordance with local laws and regulations.
 
 
-* (5) Do the following:
+* (5) Engine. Do the following:
     * (a) Explain how an internal combustion engine operates. Tell the differences between gasoline and diesel engines. Explain how a gasoline-electric hybrid vehicle is powered.
     * (b) Discuss the purpose of engine oil. Explain the API service code, the SAE number, and the viscosity rating.
     * (c) Explain where to find the recommended oil type and the amount of oil to be used in the vehicle engine.
 
 
-* (6) Do the following:
+* (6) Cooling System. Do the following:
     * (a) Explain the need for coolant in the cooling system, and the importance of selecting the correct coolant type for a given vehicle.
     * (b) Explain how to flush and change the engine coolant in the vehicle, and how to properly dispose of the used coolant.
 
 
-* (7) Do the following:
+* (7) Fuel System. Do the following:
     * (a) Explain how the air and fuel systems work together and why it is necessary to have an air filter and fuel filter.
     * (b) Explain how a how a fuel injection system works and how an onboard computer works with the fuel injection system.
 
 
-* (8) Do the following:
+* (8) Ignition and Electrical Systems. Do the following:
     * (a) Diagram and explain the parts of one of the following electrical systems:
         * (1) Starting/charging system
         * (2) Hybrid or electric vehicle inverter
@@ -76,7 +76,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
     * (f) Explain what other vehicle systems are dependent on a reliable electrical system.
 
 
-* (9) Do the following:
+* (9) Drive Train. Do the following:
     * (a) Diagram the drive train and explain the different parts.
     * (b) Explain the difference between automatic and standard transmissions.
     * (c) Explain the types of automatic transmission fluid.
@@ -84,7 +84,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
     * (e) Explain the difference between front-wheel, rear- wheel, and four-wheel drive.
 
 
-* (10) Do the following:
+* (10) Brake System. Do the following:
     * (a) Explain the brake system (including antilock systems) and how it operates.
     * (b) Explain the differences between disc and drum systems.
     * (c) Demonstrate how to check the condition of a vehicle's brake system. After checking, make recommendations for repairs (if necessary).

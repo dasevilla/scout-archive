@@ -12,7 +12,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
 
 ## Requirements
 
-* 
+* Note: If meeting any of the requirements for this merit badge is against the Scout's religious convictions, the requirement does not have to be done if the Scout's parent or guardian and the proper religious advisors state in writing that to do so would be against religious convictions. The Scout's parent or guardian must also accept full responsibility for anything that might happen because of this exemption.
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter during athletics activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Show that you know first aid for injuries or illnesses that could occur while participating in athletics events, including sprains, strains, contusions, abrasions, blisters, dehydration, heat reactions, and concussions.
@@ -72,7 +72,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
 
     * Option 7: Basketball Shooting
         * (a) Basketball shot for accuracy, 10 free-throw shots
-        * (b) Basketball throw for skill and agility, the following shots as shown on the diagram:
+        * (b) Basketball throw for skill and agility, the following shots as shown on the diagram:  - Left-side layup - Right-side layup - Left side of hoop, along the key line - Right side of hoop, along the key line - Where key line and free-throw line meet, left side - Where key line and free-throw line meet, right side - Top of the key - Anywhere along the three-point line
 
 
     * Option 8: Football Kick OR Soccer Kick

@@ -12,20 +12,20 @@ Hiking is a terrific way to keep your body and mind in top shape, both now and f
 
 ## Requirements
 
-* 
+* Note: The required hikes for this badge may be used in fulfilling hiking requirements for rank advancement. However, these  hikes cannot be used to fulfill requirements of other merit badges.
 * (1) Do the following:
-    * (a) Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate and respond to these hazards. Resource:
-    * (b) Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, snakebite. Resource:
+    * (a) Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate and respond to these hazards. Resource: [Surviving the Wild - Essential Hiking Safety Tips (video)](https://youtu.be/YGQG0C0HBGw?si=aOL6J4mdZXt51LDC)
+    * (b) Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, snakebite. Resource: [Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc.) (video)](https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb)
 
 
 * (2) Do the following:
     * (a) Explain and, where possible, show the points of good hiking practices including proper outdoor ethics, hiking safety in the daytime and at night, courtesy to others, choice of footwear, and proper care of feet and footwear.
-    * (b) Read aloud or recite the Leave No Trace Seven Principles, and discuss why each is important while hiking. Resources:
-    * (c) Read aloud or recite the Outdoor Code, and give examples of how to follow it on a hike. Resources:
+    * (b) Read aloud or recite the Leave No Trace Seven Principles, and discuss why each is important while hiking. Resources: [Principles of LNT (video)](https://youtu.be/Rpq01rO9ZR0?si=hjjnThExBUjG0aIW) [Principles of LNT (website)](https://lnt.org/why/7-principles/)
+    * (c) Read aloud or recite the Outdoor Code, and give examples of how to follow it on a hike. Resources: [Meaning of the Outdoor Code (video)](https://youtu.be/65XLNt19C0k?si=sIBLlWQ55dJKTM9x) [The Outdoor Code (website)](https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/)
 
 
-* (3) Explain how hiking is an aerobic activity. Develop a plan for conditioning yourself for 10-mile hikes, and describe how you will increase your fitness for longer hikes.Resources:
-* (4) Take four 10-mile hikes and one 20-mile hike, each on a different day, and each of continuous miles. Prepare a written hike plan before each hike and share it with your counselor or a designee for approval before starting the hike. Include map routes, a clothing and equipment list, and a list of items for a trail lunch. You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period such as overnight.Resource:
+* (3) Explain how hiking is an aerobic activity. Develop a plan for conditioning yourself for 10-mile hikes, and describe how you will increase your fitness for longer hikes. Resources:  [Planning and Training for a Hike (video)](https://youtu.be/XRaT-02V6_Q?si=KWpuleheaJYZVlBd)  [Training for Elevation Gain (video)](https://youtu.be/wrAzopMgriU?si=POvk4jZLbzeTos5t)
+* (4) Take four 10-mile hikes and one 20-mile hike, each on a different day, and each of continuous miles. Prepare a written hike plan before each hike and share it with your counselor or a designee for approval before starting the hike. Include map routes, a clothing and equipment list, and a list of items for a trail lunch. You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period such as overnight. Resource:  [Maps and Ideas for Hikes (website)](https://www.hikingproject.com/)
     * (a) 10-mile hike #1
     * (b) 10-mile hike #2
     * (c) 10-mile hike #3

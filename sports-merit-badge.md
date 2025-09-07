@@ -12,7 +12,7 @@ Millions of people participate in sports every year. For some the appeal is the 
 
 ## Requirements
 
-* The activities used to fulfill the requirements for the Sports  merit badge may not be used to help fulfill requirements for other  merit badges.
+* Note: The activities used to fulfill the requirements for the Sports  merit badge may not be used to help fulfill requirements for other  merit badges.
 * (1) Do the following:
     * (a) Explain to your counselor the most likely risks you may encounter while participating in sports and what you should do to anticipate, help prevent, mitigate, and respond to these risks.
     * (b) Show that you know first aid or understand the treatment for injuries that could occur while participating in sports, including sprains; strains; muscle cramps; contusions; abrasions; blisters; dehydration; heat reactions; fractures; injured teeth; head, neck, and back injuries; and concussions.

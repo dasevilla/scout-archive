@@ -32,7 +32,7 @@ The word geocache is a combination of “geo,” which means “earth,” and �
 
 
 * (6) Describe to your counselor the four steps to finding your first cache. Then mark and edit a waypoint.
-* (7) With your parent or guardian's permission, go to www.geocaching.com. Type in your city  and state to locate public geocaches in your area. Share with your counselor the  posted information about three of those geocaches. Then, pick one of the three  and find the cache.To fulfill this requirement, you will need to set up a free user account with www.Geocaching.com. Before doing so, ask your parent for permission and help.
+* (7) With your parent or guardian's permission, go to www.geocaching.com. Type in your city  and state to locate public geocaches in your area. Share with your counselor the  posted information about three of those geocaches. Then, pick one of the three  and find the cache.Note: To fulfill this requirement, you will need to set up a free user account with www.Geocaching.com. Before doing so, ask your parent for permission and help.
 * (8) Do ONE of the following:
     * (a) If a Cache to Eagle® series exists in your council, visit at least three of the locations in the series. Describe the projects that each cache you visit highlights, and explain how the Cache to Eagle® program helps share our Scouting service with the public.
     * (b) Create a Scouting-related Travel Bug® that promotes one of the values of Scouting. "Release" your Travel Bug into a public geocache and, with your parent or guardian's permission, monitor its progress at www.geocaching.com for 30 days. Keep a log, and share this with your counselor at the end of the 30-day period.

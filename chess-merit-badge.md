@@ -36,7 +36,7 @@ Chess is among the oldest board games in the world, and it ranks among the most 
 * (5) Do the following:
     * (a) Explain four of the following elements of chess strategy: exploiting weaknesses, force, king safety, pawn structure, space, tempo, time.
     * (b) Explain any five of these chess tactics: clearance sacrifice, decoy, discovered attack, double attack, fork, interposing, overloading, overprotecting, pin, remove the defender, skewer, zwischenzug.
-    * (c) Set up a chessboard with the white king on e1 , the white rooks on a1 and h1 , and the black king on e5 . With White to move first, demonstrate how to force checkmate on the black king.
+    * (c) Set up a chessboard with the white king on e1, the white rooks on a1 and h1, and the black king on e5. With White to move first, demonstrate how to force checkmate on the black king.
     * (d) Set up and solve five direct-mate problems provided by your counselor.
 
 

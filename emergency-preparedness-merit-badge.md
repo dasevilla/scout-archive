@@ -12,9 +12,9 @@ Scouts are often called upon to help because they know first aid and they know a
 
 ## Requirements
 
-* (1) Earn the First Aid merit badge.
-* (2) Do the following:
-    * (a) Discuss with your counselor the aspects of emergency preparedness and include in your discussion the kinds of questions that are important to ask yourself as you consider each of these:
+* (1) First Aid Merit Badge. Earn the First Aid merit badge.
+* (2) Emergency Situations. Do the following:
+    * (a) Discuss with your counselor the aspects of emergency preparedness and include in your discussion the kinds of questions that are important to ask yourself as you consider each of these:  - Prevention - Protection - Mitigation - Response - Recovery
     * (b) Using a chart, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2(a) (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. Discuss your findings with your counselor.
         * (1) Home stovetop or oven fire
         * (2) Home flammable liquid fire
@@ -41,38 +41,38 @@ Scouts are often called upon to help because they know first aid and they know a
 
 
 
-* (3) Do the following:
+* (3) Planning for Family Emergencies. Do the following:
     * (a) At a family meeting, discuss the situations on the chart you created for requirement 2(b) and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor.
     * (b) Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor.
     * (c) Using a checklist in the Emergency Preparedness merit badge pamphlet or one approved by your counselor, prepare or inspect a family disaster kit for sheltering-in-place and for evacuation of your home. Review the needs and uses of the items in a kit with your counselor.
 
 
-* (4) Do ONE of the following:
+* (4) Preventing Accidents and Emergencies. Do ONE of the following:
     * (a) Using a home safety checklist included in the Emergency Preparedness merit badge pamphlet or one approved by your counselor, inspect a home (or a similar building near where you live or at a camp) for safety hazards with the help of an adult. Present your completed checklist to and discuss your findings with your counselor.
     * (b) Develop emergency prevention plans for five family activities outside the home, as approved by your counselor. (Examples are taking a picnic to a park, seeing a movie, attending a worship service, an outing at a beach, traveling to visit a relative, or attending a ball game or concert.) Each plan should include an analysis of possible hazards, proposals to prevent, protect from, mitigate, respond to, and recover from emergencies, and the reasons for the actions that you propose.
 
 
-* (5) Show how you could save a person from the following dangerous situations without putting yourself in danger:
+* (5) Dangerous Situations. Show how you could save a person from the following dangerous situations without putting yourself in danger:
     * (a) Live household electric wire
     * (b) A structure filled with carbon monoxide
     * (c) Clothes on fire
     * (d) Drowning, using nonswimming rescues (including accidents on ice).
 
 
-* (6) Do the following:
+* (6) Signaling for Help. Do the following:
     * (a) Show three ways of attracting and communicating with rescue aircraft or drones.
     * (b) Show ways to attract attention of searchers on the ground if you are lost in the wilderness.
     * (c) Show ways to attract attention of searchers on the water if you are stranded with a capsized or disabled motorboat or sailboat.
 
 
-* (7) With another person, show two good ways to transport an injured person out of a remote area using improvised stretchers to conserve the energy of rescuers while ensuring the well-being and protection of the injured person.
-* (8) Do the following:
+* (7) Moving an Injured Person. With another person, show two good ways to transport an injured person out of a remote area using improvised stretchers to conserve the energy of rescuers while ensuring the well-being and protection of the injured person.
+* (8) National Incident Management System (NIMS) and Incident Command System (ICS). Do the following:
     * (a) Describe the National Incident Management System (NIMS) and the local Incident Command System (ICS).
     * (b) Find out how your community and its leaders work to manage and to train for disasters. Discuss this information with your counselor.
     * (c) Discuss how a Scout troop can help in an emergency situation using ICS.
 
 
-* (9) Do the following:
+* (9) Emergency Service. Do the following:
     * (a) Discuss with your counselor the duties that a Scout troop should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:
         * (1) Crowd and traffic control
         * (2) Messenger service during an incident

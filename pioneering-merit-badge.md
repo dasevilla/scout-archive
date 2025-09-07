@@ -12,7 +12,7 @@ Pioneering—the knowledge of ropes, knots, and splices along with the ability t
 
 ## Requirements
 
-* 
+* Note: All pioneering projects constructed for this merit badge must comply with height standards as outlined in the Guide to Safe Scouting.  Counselors should also ensure that Scouts follow the Leave No Trace Seven Principles and the Outdoor Code in their pioneering projects. Just as hiking and camping without a trace are signs of expert outdoorsmanship, protecting the environment is a mark of responsible pioneering. Minimize impacts to the land.
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you might encounter while participating in pioneering activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Discuss the prevention of, and first-aid treatment for, injuries and conditions that could occur while working on pioneering projects, including rope splinters, rope burns, cuts, scratches, insect bites and stings, hypothermia, dehydration, heat exhaustion, heatstroke, sunburn, and falls.
@@ -35,7 +35,7 @@ Pioneering—the knowledge of ropes, knots, and splices along with the ability t
 * (6) Using a rope-making device or machine, make a rope at least 6 feet long consisting of three strands, each having three yarns. Whip the ends.
 * (7) Explain the importance of effectively anchoring a pioneering project. Describe to your counselor the 3-2-1 anchoring system and the log-and-stake  anchoring system.
 * (8) Describe the lashings that are used when building a trestle, how the poles are positioned, and how X braces contribute to the overall structural integrity of a pioneering project.
-* (9) Working in a group, (or individually with the help of your counselor) build a full size pioneering structure, using one of the following designs in themerit badge pamphlet:Carefully plan the project, assembling and organizing all the materials, referring to the points under Safe Pioneering, and complying with the height  restrictions in the Guide to Safe Scouting.
+* (9) Working in a group, (or individually with the help of your counselor) build a full size pioneering structure, using one of the following designs in the Pioneering merit badge pamphlet: - Double A-Frame Monkey Bridge - Single A-Frame Bridge - Single Trestle Bridge - Single Lock Bridge - 4x4 Square Climbing Tower - Four Flag Gateway Tower - Double Tripod Chippewa Kitchen - Another type of structure approved in advance by your counselorCarefully plan the project, assembling and organizing all the materials, referring to the points under Safe Pioneering, and complying with the height  restrictions in the Guide to Safe Scouting.
 
 
 ## Resources

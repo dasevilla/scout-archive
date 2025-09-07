@@ -22,7 +22,7 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
 * (4) Do the following:
     * (a) Explain how a topographic map shows terrain features. Point out and name five terrain features on a map and in the field.
     * (b) Point out and name 10 symbols on a topographic map.
-    * (c) Explain the meaning of declination .  Tell why you must consider declination when using map and compass together.
+    * (c) Explain the meaning of declination.  Tell why you must consider declination when using map and compass together.
     * (d) Show a topographic map with magnetic north-south lines.
     * (e) Show how to measure distances on a map using an orienteering compass.
     * (f) Show how to orient a map using a compass.
@@ -36,7 +36,7 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
 
 
 * (7) Do the following:
-    * (a) Take part in three orienteering events. One of these must be a cross-country course.   While orienteering is primarily an individual sport, Scouting America Youth Protection procedures call for using the buddy system. Requirement 7(a) can be completed by pairs or groups of Scouts.
+    * (a) Take part in three orienteering events. One of these must be a cross-country course.  Note: While orienteering is primarily an individual sport, Scouting America Youth Protection procedures call for using the buddy system. Requirement 7(a) can be completed by pairs or groups of Scouts.
     * (b) After each event, write a report with (1) a copy of the master map and control description sheet, (2) a copy of the route you took on the course, (3) a discussion of how you could improve your time between control points, and (4) a list of your major weaknesses on this course . Describe what you could do to improve.
 
 

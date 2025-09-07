@@ -12,7 +12,7 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 
 ## Requirements
 
-* 
+* Note: Scouts should obey all local fishing regulations and property laws.
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while participating in fishing activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Discuss the prevention of and treatment for the following health concerns that could occur while fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, sunburn.
@@ -32,7 +32,7 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 * (7) Obtain and review the regulations affecting gamefishing where you live. Explain why they were adopted and what  is accomplished by following them.
 * (8) Explain what good outdoor sportsmanlike behavior is and how it relates to anglers. Tell how the Leave No Trace Seven Principles and the Outdoor Code relate to a fishing sports enthusiast, including the aspects of littering, trespassing, courteous behavior, and obeying fishing regulations.
 * (9) Catch one fish and identify it.
-* (10) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired.It is not required that you eat the fish.
+* (10) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. Note: It is not required that you eat the fish.
 
 
 ## Resources

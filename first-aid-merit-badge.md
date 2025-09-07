@@ -12,7 +12,7 @@ First aid—caring for injured or ill persons until they can receive professiona
 
 ## Requirements
 
-* (1) Do the following:
+* (1) Handling a First Aid Emergency. Do the following:
     * (a) Explain the steps necessary to assess and handle a first aid emergency, including a safety evaluation of the scene.
     * (b) Tell how you would obtain emergency medical assistance from your home and from a remote location on a wilderness camping trip.
     * (c) Demonstrate the precautions you must take to reduce the risk of transmitting an infection between you and the victim while administering first aid, including the safe disposal of used first aid supplies.
@@ -22,7 +22,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     * (g) Define the term triage and describe examples of triage situations that you may encounter.
 
 
-* (2) Do the following:
+* (2) Preparing for First Aid Emergencies. Do the following:
     * (a) Obtain a copy of the Scout Annual Health and Medical Record and discuss the importance of the form including information on immunizations, allergies, medications, health history, and medical examinations to providing first aid at Scouting events.
     * (b) Using checklists provided in the First Aid merit badge pamphlet or ones approved by your counselor, do the following:
         * (1) Assemble a personal first-aid kit for hiking and backpacking. Demonstrate the proper use of each item in your first-aid kit to your counselor.
@@ -31,7 +31,7 @@ First aid—caring for injured or ill persons until they can receive professiona
 
 
 
-* (3) Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:
+* (3) Wounds with No External Bleeding. Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:
     * (a) Closed wounds, such as a bruise (contusion) or a hematoma
     * (b) Superficial, partial thickness, and full thickness thermal (heat) burns or scalds
     * (c) Chemical burns
@@ -51,14 +51,14 @@ First aid—caring for injured or ill persons until they can receive professiona
     * (q) Bite of a venomous snake.
 
 
-* (4) Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:
+* (4) Bleeding Wounds. Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:
     * (a) A nosebleed.
     * (b) An open wound with mild or moderate bleeding, such as a scratch or a scrape (abrasions), or a shallow cut (laceration).
     * (c) An open wound with severe bleeding such as a deep cut on an arm or leg.
     * (d) Explain when it is appropriate and is not appropriate to use one or more tourniquets. List some of the benefits and dangers of using a tourniquet. Demonstrate the application of a tourniquet without tightening it.
 
 
-* (5) Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions affecting breathing:
+* (5) Breathing Emergencies. Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions affecting breathing:
     * (a) Choking
     * (b) Asthmatic attack
     * (c) Anaphylaxis from an insect bite or sting or from food or product allergy
@@ -66,7 +66,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     * (e) Altitude sickness.
 
 
-* (6) Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions causing loss of consciousness:
+* (6) Loss of Consciousness. Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions causing loss of consciousness:
     * (a) Fainting
     * (b) Hypoglycemia
     * (c) Seizure
@@ -76,7 +76,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     * (g) Lightning strike and electric shock.
 
 
-* (7) Do the following:
+* (7) Heart Attack. Do the following:
     * (a) Explain what a heart attack is.
     * (b) Describe the symptoms and signs of a heart attack and first aid for this condition.
     * (c) Describe the conditions that must exist before performing CPR on a person.
@@ -86,7 +86,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     * (g) Identify the typical location(s) of one or more AED(s) at public facilities in your community, such as, your school, place of worship, unit meeting place, sports facilities, and/or camp or by using a smart phone app. Discuss the reasons for choosing locations like these.
 
 
-* (8) Do the following:
+* (8) Muscle and Bone Injuries. Do the following:
     * (a) Explain the similarities and differences in a strain, a muscle tear, a tendon rupture, a sprain, a dislocation, a simple fracture, and a compound fracture.
     * (b) Describe the symptoms and signs of and first aid for a muscle strain, a muscle tear, and a tendon rupture.
     * (c) Describe the symptoms and signs of, and potential complications of, a sprain, a fracture, and a dislocation.
@@ -105,14 +105,14 @@ First aid—caring for injured or ill persons until they can receive professiona
 
 
 
-* (9) Do the following:
+* (9) Head and Spine Injuries. Do the following:
     * (a) Describe the symptoms and signs of, relationships between, possible complications of, and prevention of head, neck, and back injuries.
     * (b) Describe the symptoms and signs of and first aid for a concussion.
     * (c) Demonstrate first aid for an open head wound with a triangular or other bandage.
     * (d) Demonstrate first aid for someone with a suspected neck or back injury.
 
 
-* (10) Do the following:
+* (10) Moving a Patient. Do the following:
     * (a) Describe the conditions under which an injured person should and should not be moved.
     * (b) If a sick or an injured person must be moved, tell how you would decide the best method. Demonstrate these methods.
     * (c) By yourself and with a partner, demonstrate how to transport a person from a smoke-filled room.
@@ -120,7 +120,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     * (e) With helpers under your supervision, improvise a stretcher and move a presumably unconscious person for at least 25 yards.
 
 
-* (11) Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions associated with exertion and/or heat or cold exposure:
+* (11) Heat- and Cold-Related Conditions. Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions associated with exertion and/or heat or cold exposure:
     * (a) Dehydration and over-hydration
     * (b) Heat cramps and muscle pain after exertion
     * (c) Heat exhaustion
@@ -129,14 +129,14 @@ First aid—caring for injured or ill persons until they can receive professiona
     * (f) Hypothermia.
 
 
-* (12) Describe the following:
+* (12) Mental Health Conditions. Describe the following:
     * (a) Reactions associated with at least three stressful situations, such as mountain backpacking, rappelling, a ropes course, speaking before an audience, making a phone call to an adult, taking a swim test, missing home, lighting a match, trying out for a sports team, meeting someone for the first time, or other stressful circumstances.
     * (b) The actions that you and others should take to prepare for and manage these situations.
     * (c) The indications that someone might be a danger to themselves or others.
     * (d) The actions that you should take if you suspect that someone might be a danger to themselves or others.
 
 
-* (13) Describe the symptoms and signs of, show first aid for, and explain prevention of the following conditions:
+* (13) Miscellaneous Conditions. Describe the symptoms and signs of, show first aid for, and explain prevention of the following conditions:
     * (a) Object in the eye
     * (b) Broken, chipped, loosened, or knocked out tooth
     * (c) Vomiting and diarrhea associated with food poisoning

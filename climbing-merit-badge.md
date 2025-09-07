@@ -20,21 +20,21 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
 
 * (2) Learn the Leave No Trace Seven Principles and the Outdoor Code and explain what they mean.
 * (3) Present yourself properly dressed for belaying, climbing, and rappelling. Explain why you are wearing each piece of gear and discuss qualities of easy movement, entanglement free and good weather protection and comfort.
-* (4) Do the following:
+* (4) Location. Do the following:
     * (a) Explain how the difficulty of climbs is classified, and apply classifications to the rock faces or walls where you will demonstrate your climbing skills.
     * (b) Explain the following: top-rope climbing, lead climbing, and bouldering.
     * (c) Evaluate the safety of a particular climbing area. Consider weather, visibility, the condition of the climbing surface, and any other environmental hazards.
     * (d) Determine how to summon aid to the climbing area in case of an emergency. Discuss what medical training is needed for your group when climbing and rappelling in remote areas.
 
 
-* (5) Explain the importance of using verbal signals during every climb and rappel, and while bouldering. With the help of the counselor or another Scout, demonstrate the verbal signals used by each of the following:
+* (5) Verbal signals. Explain the importance of using verbal signals during every climb and rappel, and while bouldering. With the help of the counselor or another Scout, demonstrate the verbal signals used by each of the following:
     * (a) Climbers
     * (b) Rappellers
     * (c) Belayers
     * (d) Boulderers and their spotters.
 
 
-* (6) Do the following:
+* (6) Rope. Do the following:
     * (a) Describe the kinds of rope acceptable for use in climbing and rappelling.
     * (b) Show how to examine a rope for signs of wear or damage.
     * (c) Discuss ways to prevent a rope from being damaged.
@@ -42,7 +42,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
     * (e) Properly coil a rope.
 
 
-* (7) Demonstrate the ability to tie each of the following knots. Give at least one example of how each knot is used in belaying, climbing, or rappelling.
+* (7) Knots. Demonstrate the ability to tie each of the following knots. Give at least one example of how each knot is used in belaying, climbing, or rappelling.
     * (a) Figure eight on a bight
     * (b) Figure eight follow-through
     * (c) Water knot
@@ -50,14 +50,14 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
     * (e) Prusik hitch applied to rope.
 
 
-* (8) Explain the purpose of each of the following and demonstrate how to put them on correctly.
+* (8) Harness, Helmet & Gloves. Explain the purpose of each of the following and demonstrate how to put them on correctly.
     * (a) Commercially made climbing harness
     * (b) Climbing helmet
     * (c) Climbing or rappelling gloves.
 
 
 * (9) Identify the elements of the CHECK system and describe the meaning of each one to your counselor.
-* (10) Do the following:
+* (10) Belaying. Do the following:
     * (a) Explain the importance of belaying climbers and rappellers and when it is necessary.
     * (b) Belay three different climbers on three different routes.
     * (c) Serve as a backup belayer on three different climbs.
@@ -65,12 +65,12 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
     * (e) Serve as a backup belayer on three different rappels.
 
 
-* (11) Do the following:
+* (11) Climbing. Do the following:
     * (a) Show the correct way to directly tie a belay rope to your harness.
     * (b) Climb at least three different routes on a rock face or climbing wall, demonstrating good technique and using verbal signals with a belayer.
 
 
-* (12) Do the following:
+* (12) Rappelling. Do the following:
     * (a) Show the correct way to directly tie a belay rope to your harness.
     * (b) Using a carabiner and a rappel device, attach a rappel rope to your harness.
     * (c) Rappel down three different rock faces or three rappel routes on a climbing wall. Use verbal signals to communicate with a belayer, and demonstrate good rappelling technique.

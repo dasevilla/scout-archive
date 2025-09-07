@@ -49,7 +49,7 @@ In working through the Forestry merit badge requirements, Scouts will explore th
 
 * (5) With your parent or guardian's and counselor's approval, do ONE of the following:
     * (a) Visit a managed public or private forest area with the manager or a forester who is familiar with it. Write a brief report describing the type of forest, the management objectives, and the forestry techniques used to achieve the objectives.
-    * (b) With a knowledgeable individual, visit a logging operation or wood-using manufacturing plant. Write a brief report describing the following:
+    * (b) With a knowledgeable individual, visit a logging operation or wood-using manufacturing plant. Write a brief report describing the following:  - The species and size of trees being harvested or used and the location of the harvest area or manufacturer - The origin of the forest or stands of trees being utilized (e.g., planted or natural) - The forest's successional stage. What is its future? - Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant) - The products that are made from the trees - How the products are made and used - How waste materials from the logging operation or manufacturing plant are disposed of or utilized.
     * (c) Take part in a forest-fire prevention campaign in cooperation with your local fire warden, state wildfire agency, forester, or counselor. Write a brief report describing the campaign, how it will help prevent wildfires, and your part in it.
 
 

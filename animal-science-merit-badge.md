@@ -24,7 +24,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
 
 * (6) Complete ONE of the following options:
     * Beef Cattle Option
-        * (a) Visit a farm or ranch where beef cattle are produced under any of these systems:   Talk with the operator to learn how the cattle were handled, fed, weighed, and shipped. Describe what you saw and explain what you learned. If you cannot visit a cattle ranch or farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on beef cattle production. Tell about your findings.
+        * (a) Visit a farm or ranch where beef cattle are produced under any of these systems:  - Feeding market cattle for harvest - Cow/calf operation, producing cattle for sale to commercial feeders - Producing purebred cattle for sale as breeding stock to others  Talk with the operator to learn how the cattle were handled, fed, weighed, and shipped. Describe what you saw and explain what you learned. If you cannot visit a cattle ranch or farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on beef cattle production. Tell about your findings.
         * (b) Sketch a plan of a feedlot to include its forage and grain storage facilities, and loading chute for 30 or more fattening steers; or sketch a corral plan with cutting and loading chutes for handling 50 or more beef cows and their calves at one time.
         * (c) Make a sketch showing the principal wholesale and retail cuts of beef. Tell about the U.S. Department of Agriculture (USDA) dual grading system of beef. Tell the basis of each grade in each system.
         * (d) Define the following terms: bull, steer, bullock, cow, heifer, freemartin, heiferette, and calf.
@@ -47,7 +47,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
         * (e) Outline the proper feeding of a horse doing light work. Explain why the amount and kind of feed will change according to the kind of horse and the work it does. Describe what colic is, what can cause it, and its symptoms.
 
 
-    * (choose one and complete the following based upon the choice)
+    * Sheep or Goat Option (choose one and complete the following based upon the choice)
         * (a) Make a sketch of a live lamb or goat. Show the location of the various wholesale and retail cuts.
         * (b) Discuss how wools are sorted and graded.
         * (c) List products that can be made from the milk.

@@ -67,6 +67,7 @@ DOWNLOAD_DELAY = 3
 ITEM_PIPELINES = {
     "scout_archive.pipelines.MeritBadgeFilesPipeline": 200,
     "scout_archive.pipelines.MeritBadgeImagesPipeline": 201,
+    "scout_archive.pipelines.CubScoutAdventureImagesPipeline": 202,
     "scout_archive.pipelines.ScoutArchivePipeline": 300,
 }
 
@@ -108,3 +109,33 @@ FEED = {
 
 MERIT_BADGE_OUTPUT_DIR = pathlib.Path("merit-badges")
 CUB_ADVENTURE_OUTPUT_DIR = pathlib.Path("cub-adventures")
+
+# Cub Scout Adventures Configuration
+CUB_SCOUT_RANKS = ["lion", "tiger", "wolf", "bear", "webelos", "arrow-of-light"]
+MIN_REQUIREMENT_WORDS = 5
+
+# Validation Constants
+CUB_SCOUT_RANK_NAMES = ["Lion", "Tiger", "Wolf", "Bear", "Webelos", "Arrow of Light"]
+VALID_ADVENTURE_TYPES = ["Required", "Elective", "Special"]
+EXPECTED_REQUIRED_COUNTS = {
+    "Lion": 6,
+    "Tiger": 6,
+    "Wolf": 6,
+    "Bear": 6,
+    "Webelos": 6,
+    "Arrow of Light": 6,
+}
+VALID_ACTIVITY_LOCATIONS = ["Indoor", "Outdoor", "Travel"]
+VALID_NUMERIC_RANGE = ["1", "2", "3", "4", "5"]
+MIN_ADVENTURE_COUNT = 100
+MIN_REQUIREMENTS = 0
+MIN_FILE_SIZE_BYTES = 300
+MIN_IMAGE_SIZE_BYTES = 1000
+MIN_OVERVIEW_WORDS = 5
+MAX_EMPTY_FIELDS = 10
+
+# Merit Badge Validation Constants
+MIN_BADGE_COUNT = 135
+MIN_BADGE_REQUIREMENTS = 2
+MIN_BADGE_FILE_SIZE_BYTES = 500
+MAX_BADGE_EMPTY_FIELDS = 3

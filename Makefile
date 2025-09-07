@@ -1,13 +1,16 @@
-.PHONY: all archive archive-url index validate report clean test-site format lint pre-commit check
+.PHONY: all all-with-cub-adventures archive archive-url archive-cub-adventures archive-cub-adventures-url index index-cub-adventures validate report report-cub-adventures clean clean-cub-adventures build-website format lint pre-commit check
 
 RUN_CMD=uv run
 
 # Default target - runs a complete archiving process
 all: archive index validate report
 
+# Run cub scout adventure archive process
+all-cub-adventures: archive-cub-adventures index-cub-adventures validate-cub-adventures report-cub-adventures
+
 # Create required directories
 dirs:
-	mkdir -p build/merit-badges/files build/merit-badges/images
+	mkdir -p build/merit-badges/files build/merit-badges/images build/cub-scout-adventures
 
 # Run the merit badge archiver
 archive: dirs
@@ -17,6 +20,14 @@ archive: dirs
 		--set IMAGES_STORE=../build/merit-badges/images \
 		--output ../build/merit-badges.jsonl \
 		--logfile ../run.log
+
+# Run the cub adventures archiver
+archive-cub-adventures: dirs
+	cd src && $(RUN_CMD) python -m scrapy crawl cub_scout_adventures \
+		--set CUB_ADVENTURE_OUTPUT_DIR=../build/cub-scout-adventures \
+		--set IMAGES_STORE=../build/cub-scout-adventures \
+		--output ../build/cub-scout-adventures.jsonl \
+		--logfile ../run-cub-adventures.log
 
 # Archive a specific URL for testing
 archive-url: dirs
@@ -28,30 +39,55 @@ archive-url: dirs
 		--output ../build/merit-badges-test.jsonl \
 		--logfile ../run-test.log
 
+# Archive a specific cub adventure URL for testing
+archive-cub-adventures-url: dirs
+	cd src && $(RUN_CMD) python -m scrapy parse --spider cub_scout_adventures --callback parse_adventure --pipelines "$(URL)" \
+		-a url=$(URL) \
+		--set CUB_ADVENTURE_OUTPUT_DIR=../build/cub-scout-adventures \
+		--set IMAGES_STORE=../build/cub-scout-adventures \
+		--output ../build/cub-scout-adventures-test.jsonl \
+		--logfile ../run-cub-adventures-test.log
+
 # Generate the index file
 index:
 	$(RUN_CMD) python src/scripts/make-index-file.py build/merit-badges
 
+# Generate the cub adventures index file
+index-cub-adventures:
+	$(RUN_CMD) python src/scripts/make-cub-adventures-index-file.py build/cub-scout-adventures
+
 # Validate the archive results
 validate:
 	$(RUN_CMD) python src/scripts/validate_archive.py build/merit-badges
+
+# Validate the cub adventures archive results
+validate-cub-adventures:
+	$(RUN_CMD) python src/scripts/validate-cub-adventures-archive.py build/cub-scout-adventures
 
 # Generate a change report
 report:
 	$(RUN_CMD) python src/scripts/generate-change-report.py > change-report.txt
 	cat change-report.txt
 
-# Generate test site
-test-site:
-	mkdir -p _site/merit-badges
-	cp -R build/merit-badges/* _site/merit-badges/
+# Generate a cub adventures change report
+report-cub-adventures:
+	$(RUN_CMD) python src/scripts/generate-cub-adventures-change-report.py > cub-adventures-change-report.txt
+	cat cub-adventures-change-report.txt
+
+# Build website with proper structure
+build-website:
+	$(RUN_CMD) python src/scripts/build-website.py
 
 # Clean output directories
 clean:
-	rm -rf build/* _site/* run.log change-report.txt
+	rm -rf build/* _site/* run.log run-cub-adventures.log change-report.txt cub-adventures-change-report.txt
+
+# Clean only cub adventures output
+clean-cub-adventures:
+	rm -rf build/cub-scout-adventures/* build/cub-scout-adventures.jsonl run-cub-adventures.log cub-adventures-change-report.txt
 
 # Run all steps as GitHub Actions would
-github-actions-test: clean all check test-site
+github-actions-test: clean all check build-website
 
 format:
 	$(RUN_CMD) ruff format .

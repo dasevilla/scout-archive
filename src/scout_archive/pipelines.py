@@ -41,6 +41,13 @@ class MeritBadgeImagesPipeline(ImagesPipeline):
         return f"{image_guid}.jpg"
 
 
+class CubScoutAdventureImagesPipeline(ImagesPipeline):
+    def file_path(self, request, response=None, info=None, *, item=None):
+        rank_name = sanitize_filename(item["rank_name"])
+        adventure_name = sanitize_filename(item["adventure_name"])
+        return f"{rank_name}/images/{adventure_name}.jpg"
+
+
 class ScoutArchivePipeline:
     def __init__(self, merit_badge_output_dir, cub_adventure_output_dir):
         self.merit_badge_output_dir = merit_badge_output_dir
@@ -103,15 +110,37 @@ class ScoutArchivePipeline:
         )
         os.makedirs(output_dir, exist_ok=True)
 
-        # Save HTML file
-        html_filename = os.path.join(output_dir, f"{filename_base}.html")
-        with open(html_filename, "w", encoding="utf-8") as f:
-            f.write(item["page_html"])
+        # Save adventure as JSON
+        json_filename = os.path.join(output_dir, f"{filename_base}.json")
+        with open(json_filename, "w", encoding="utf-8") as f:
+            payload = {
+                "rank_name": item.get("rank_name"),
+                "adventure_name": item.get("adventure_name"),
+                "adventure_type": item.get("adventure_type"),
+                "adventure_category": item.get("adventure_category"),
+                "adventure_overview": item.get("adventure_overview"),
+                "url": item.get("adventure_url"),
+                "image_url": item.get("adventure_image_url"),
+                "requirements": item.get("requirements_data"),
+            }
+            json.dump(payload, f, ensure_ascii=False, indent=2)
 
-        # Save Markdown file
+        # Render and save Markdown file using Jinja2
         md_filename = os.path.join(output_dir, f"{filename_base}.md")
+        template = self.env.get_template("cub_scout_adventure_template.md")
+        payload = {
+            "rank_name": item.get("rank_name"),
+            "adventure_name": item.get("adventure_name"),
+            "adventure_type": item.get("adventure_type"),
+            "adventure_category": item.get("adventure_category"),
+            "adventure_overview": item.get("adventure_overview"),
+            "adventure_url": item.get("adventure_url"),
+            "adventure_image_url": item.get("adventure_image_url"),
+            "requirements_data": item.get("requirements_data", []),
+        }
+        markdown_content = template.render(**payload)
         with open(md_filename, "w", encoding="utf-8") as f:
-            f.write(item["requirements_md"])
+            f.write(markdown_content)
 
 
 def sanitize_filename(name):

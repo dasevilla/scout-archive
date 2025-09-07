@@ -39,10 +39,21 @@ class CubScoutAdventureItem(scrapy.Item):
     rank_name = scrapy.Field()
     # Name of the adventure
     adventure_name = scrapy.Field()
+    # URL slug for the adventure
+    adventure_url_slug = scrapy.Field()
+    # URL to the adventure page
+    adventure_url = scrapy.Field()
+    # Adventure type (required/elective/special)
+    adventure_type = scrapy.Field()
+    # Adventure category (e.g., Personal Fitness, Character & Leadership)
+    adventure_category = scrapy.Field()
+    # Adventure overview/description
+    adventure_overview = scrapy.Field()
+    # An image of the adventure
+    adventure_image_url = scrapy.Field()
 
-    # Requirements in HTML format
-    requirements_html = scrapy.Field()
-    # Full HTML of the page
-    requirements_md = scrapy.Field()
     # Requirements in a structured data format
-    page_html = scrapy.Field()
+    requirements_data = scrapy.Field()
+
+    image_urls = scrapy.Field()
+    images = scrapy.Field()

@@ -51,6 +51,8 @@ _site/
 # Project specific
 *.log
 change-report.txt
-build/merit-badges.jsonl
+cub-adventures-change-report.txt
+build/*.jsonl
 build/merit-badges/*.md
 build/merit-badges/files/
+build/cub-scout-adventures/*/*.md

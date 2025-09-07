@@ -9,6 +9,14 @@ import json
 import glob
 import sys
 
+# Import settings from Scrapy project
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+from scout_archive.settings import (
+    MIN_BADGE_COUNT,
+    MIN_BADGE_REQUIREMENTS,
+    MIN_BADGE_FILE_SIZE_BYTES,
+    MAX_BADGE_EMPTY_FIELDS,
+)
 
 # Known Eagle-required badges that should always be present
 EAGLE_REQUIRED_BADGES = [
@@ -27,12 +35,6 @@ EAGLE_REQUIRED_BADGES = [
     "Personal Management",
     "Swimming",
 ]
-
-# Minimum acceptable values
-MIN_BADGE_COUNT = 135  # There should be at least this many merit badges
-MIN_REQUIREMENTS = 2  # Each badge should have at least this many requirements
-MIN_FILE_SIZE = 500  # Each JSON file should be at least this many bytes
-MAX_EMPTY_FIELDS = 3  # Maximum number of badges with empty fields allowed
 
 
 def validate_badges_directory(directory):
@@ -67,7 +69,7 @@ def validate_badge_content(file_path):
     warnings = []
     file_size = os.path.getsize(file_path)
 
-    if file_size < MIN_FILE_SIZE:
+    if file_size < MIN_BADGE_FILE_SIZE_BYTES:
         errors.append(f"File size too small: {file_size} bytes")
 
     try:
@@ -88,9 +90,9 @@ def validate_badge_content(file_path):
         requirements = data["requirements"]
         if not isinstance(requirements, list):
             errors.append("Requirements data is not a list")
-        elif len(requirements) < MIN_REQUIREMENTS:
+        elif len(requirements) < MIN_BADGE_REQUIREMENTS:
             errors.append(
-                f"Only {len(requirements)} requirements found, expected at least {MIN_REQUIREMENTS}"
+                f"Only {len(requirements)} requirements found, expected at least {MIN_BADGE_REQUIREMENTS}"
             )
 
     # Check optional URLs (warn but don't fail)
@@ -188,7 +190,7 @@ def main():
                 badges_with_missing_urls += 1
 
     # Check if too many badges have empty fields
-    if empty_field_count > MAX_EMPTY_FIELDS:
+    if empty_field_count > MAX_BADGE_EMPTY_FIELDS:
         all_errors.append(
             f"{empty_field_count} badges have suspiciously small file sizes"
         )

@@ -90,9 +90,19 @@ class MeritBadgesSpider(scrapy.Spider):
                 )
             )
 
-            # Get the text of the requirement without the span.mb-requirement-listnumber
-            parts = req.css(".mb-requirement-parent").xpath("text()").getall()
-            req_text = clean_requirement_text("".join(p.strip() for p in parts))
+            # Get the text content with links converted to Markdown
+            req_text_element = req.css(".mb-requirement-parent")
+            if req_text_element:
+                req_text = extract_text_with_markdown_links(req_text_element)
+                # Remove the requirement number from the beginning
+                req_number_text = (
+                    req.css("span.mb-requirement-listnumber::text").get() or ""
+                )
+                if req_number_text.strip():
+                    req_text = req_text.replace(req_number_text.strip(), "", 1)
+                req_text = clean_requirement_text(req_text)
+            else:
+                req_text = ""
 
             # Get the sub-requirements
             sub_reqs = self.extract_sub_requirements(
@@ -143,11 +153,15 @@ class MeritBadgesSpider(scrapy.Spider):
             if not req_internal_parent_id:
                 req_internal_parent_id = incoming_parent_id
 
-            # Get the text within the li element without grabbing any <ul> elements that may be children
-            # req_li_text = req_li.xpath("string(.)").get()
-            req_li_text = " ".join(
-                req_li.xpath("text() | .//strong/text() | .//em/text()").getall()
-            ).strip()
+            # Get text with Markdown links
+            req_li_text = extract_text_with_markdown_links(req_li)
+
+            # Remove any nested ul content (sub-requirements) from the text
+            nested_ul = req_li.css("ul")
+            if nested_ul:
+                nested_text = extract_text_with_markdown_links(nested_ul)
+                if nested_text:
+                    req_li_text = req_li_text.replace(nested_text, "").strip()
 
             req_id, req_text = extract_requirement_identifier(req_li_text)
 
@@ -166,6 +180,48 @@ class MeritBadgesSpider(scrapy.Spider):
                 sub_reqs = self.extract_sub_requirements(req_internal_id, sub_lis)
                 reqs.extend(sub_reqs)
         return reqs
+
+
+def extract_text_with_markdown_links(selector):
+    """Extract text content and convert links to Markdown format and lists to Markdown lists"""
+    # Get all text content first
+    text_content = selector.xpath("string(.)").get() or ""
+
+    # Replace links with Markdown format
+    links = selector.css("a")
+    for link in links:
+        link_text = link.xpath("string(.)").get() or ""
+        link_url = link.xpath("@href").get() or ""
+        if link_text and link_url:
+            text_content = text_content.replace(link_text, f"[{link_text}]({link_url})")
+
+    # Convert HTML lists to Markdown lists
+    lists = selector.css("ul, ol")
+    for list_elem in lists:
+        list_text = list_elem.xpath("string(.)").get() or ""
+        if list_text:
+            # Get list items
+            items = list_elem.css("li")
+            markdown_items = []
+            for item in items:
+                item_text = item.xpath("string(.)").get() or ""
+                if item_text:
+                    # Convert links in list items
+                    item_links = item.css("a")
+                    for link in item_links:
+                        link_text = link.xpath("string(.)").get() or ""
+                        link_url = link.xpath("@href").get() or ""
+                        if link_text and link_url:
+                            item_text = item_text.replace(
+                                link_text, f"[{link_text}]({link_url})"
+                            )
+                    markdown_items.append(f"- {item_text.strip()}")
+
+            if markdown_items:
+                markdown_list = "\n" + "\n".join(markdown_items)
+                text_content = text_content.replace(list_text, markdown_list)
+
+    return text_content.strip()
 
 
 def extract_parent_and_req_ids(selector):

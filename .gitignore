@@ -49,7 +49,7 @@ _site/
 .DS_Store
 
 # Project specific
-run.log
+*.log
 change-report.txt
 build/merit-badges.jsonl
 build/merit-badges/*.md

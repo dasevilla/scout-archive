@@ -30,10 +30,6 @@ jobs:
         uses: astral-sh/setup-uv@v5
         with:
           version: "0.6.11"
-
-      - name: Enable caching
-        uses: astral-sh/setup-uv@v5
-        with:
           enable-cache: true
 
       - name: Set up Python
@@ -41,21 +37,39 @@ jobs:
         with:
           python-version-file: ".python-version"
 
-      - name: Run archiving process
-        run: make archive
+      - name: Run archive process
+        run: make archive archive-cub-adventures -j2
 
       - name: Build the index
-        run: make index
+        run: make index index-cub-adventures
 
-      - name: Upload the archive log as an artifact
+      - name: Validate archives
+        run: make validate validate-cub-adventures
+
+      - name: Generate change reports
+        run: make report report-cub-adventures
+
+      - name: Upload change reports
         uses: actions/upload-artifact@v4
         with:
-          name: archive-log
-          path: run.log
+          name: change-reports
+          path: |
+            change-report.txt
+            cub-adventures-change-report.txt
           retention-days: 7
           if-no-files-found: warn
 
-      - name: Upload markdown files as artifacts
+      - name: Upload logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs
+          path: |
+            run.log
+            run-cub-adventures.log
+          retention-days: 7
+          if-no-files-found: warn
+
+      - name: Upload merit badge markdown files as artifacts
         uses: actions/upload-artifact@v4
         with:
           name: merit-badge-markdown
@@ -65,7 +79,18 @@ jobs:
           retention-days: 7
           if-no-files-found: warn
 
-      - name: Upload JSON files as artifacts
+      - name: Upload cub adventures markdown files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: cub-adventure-markdown
+          path: |
+            build/cub-scout-adventures/*/*.md
+            build/cub-scout-adventures/index.md
+            build/cub-scout-adventures/*/images
+          retention-days: 7
+          if-no-files-found: warn
+
+      - name: Upload merit badge JSON files as artifacts
         uses: actions/upload-artifact@v4
         with:
           name: merit-badge-json
@@ -75,41 +100,28 @@ jobs:
           retention-days: 7
           if-no-files-found: warn
 
-      - name: Validate the archive
-        run: make validate
-
-      - name: Generate change report
-        run: make report
-
-      - name: Get release info
-        id: release-info
-        run: |
-          DATE=$(date +%Y-%m-%d)
-          RELEASE_TAG="archive-$DATE-$GITHUB_RUN_NUMBER-$GITHUB_RUN_ATTEMPT"
-          echo "release-tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
-
-          GENERATED_DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          echo "generated-date=$GENERATED_DATE" >> $GITHUB_OUTPUT
-
-          if [ "$GITHUB_RUN_ATTEMPT" = "1" ]; then
-            RELEASE_NAME="Merit Badge Archive - $DATE (Build $GITHUB_RUN_NUMBER)"
-          else
-            RELEASE_NAME="Merit Badge Archive - $DATE (Build $GITHUB_RUN_NUMBER, Attempt $GITHUB_RUN_ATTEMPT)"
-          fi
-          echo "release-name=$RELEASE_NAME" >> $GITHUB_OUTPUT
-
-          # Count files for release notes
-          JSON_COUNT=$(ls build/merit-badges/*.json 2>/dev/null | wc -l)
-          MD_COUNT=$(ls build/merit-badges/*.md 2>/dev/null | wc -l)
-          echo "json-count=$JSON_COUNT" >> $GITHUB_OUTPUT
-          echo "md-count=$MD_COUNT" >> $GITHUB_OUTPUT
+      - name: Upload cub adventure JSON files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: cub-adventure-json
+          path: |
+            build/cub-scout-adventures/*/*.json
+            build/cub-scout-adventures/*/images
+          retention-days: 7
+          if-no-files-found: warn
 
       - name: Create job summary
         run: |
           if [ -f change-report.txt ]; then
-            echo "### Change Report" >> $GITHUB_STEP_SUMMARY
+            echo "### Merit Badge Change Report" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
             cat change-report.txt >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ -f cub-adventures-change-report.txt ]; then
+            echo "### Cub Adventures Change Report" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            cat cub-adventures-change-report.txt >> $GITHUB_STEP_SUMMARY
           fi
 
       - name: Check for changes and commit
@@ -120,7 +132,7 @@ jobs:
           git config --local user.name "GitHub Action"
 
           # Add files to the commit
-          git add build/merit-badges/*.json build/merit-badges/images/*
+          git add build/merit-badges/*.json build/merit-badges/images/* build/cub-scout-adventures/*/*.json build/cub-scout-adventures/*/images/* build/cub-scout-adventures/index.md
 
           # Check if there are changes
           if git diff --staged --quiet; then
@@ -135,7 +147,11 @@ jobs:
           git commit -F- <<EOF
           Update archive ($(date +"%Y-%m-%d"))
 
+          Merit Badge Changes:
           $(cat change-report.txt)
+
+          Cub Adventures Changes:
+          $(cat cub-adventures-change-report.txt)
 
           Automated archive via GitHub Actions
           EOF
@@ -151,16 +167,6 @@ jobs:
         if: failure()
         run: |
           echo "::error::Archiving job failed! This could indicate a change in the source website structure or validation failed."
-
-      # - name: Create issue on failure
-      #   if: failure()
-      #   uses: JasonEtco/create-an-issue@v2
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   with:
-      #     filename: .github/ISSUE_TEMPLATE/archiver-failure.md
-      #     update_existing: true
-      #     search_existing: open
 
   create-release:
     runs-on: ubuntu-latest
@@ -180,35 +186,41 @@ jobs:
         run: |
           # Validate required artifacts exist
           if [ ! -d "release-assets/merit-badge-json" ] || [ ! -d "release-assets/merit-badge-markdown" ]; then
-            echo "::error::Required artifacts not found"
+            echo "::error::Required merit badge artifacts not found"
             exit 1
           fi
 
-          # Count files for validation
-          JSON_COUNT=$(find release-assets/merit-badge-json -name "*.json" | wc -l)
-          MD_COUNT=$(find release-assets/merit-badge-markdown -name "*.md" | wc -l)
-
-          if [ "$JSON_COUNT" -eq 0 ] || [ "$MD_COUNT" -eq 0 ]; then
-            echo "::error::No files found in artifacts"
-            exit 1
-          fi
-
-          echo "Creating archives with $JSON_COUNT JSON files and $MD_COUNT markdown files"
-
-          # Create tar.gz files from artifacts
           cd release-assets
-          tar -czf ../merit-badges-json.tar.gz -C merit-badge-json .
-          tar -czf ../merit-badges-markdown.tar.gz -C merit-badge-markdown .
 
-          # Handle images - check both artifact locations
-          if [ -d "merit-badge-json/images" ]; then
-            tar -czf ../merit-badges-images.tar.gz -C merit-badge-json images
-          elif [ -d "merit-badge-markdown/images" ]; then
-            tar -czf ../merit-badges-images.tar.gz -C merit-badge-markdown images
+          # Create merit badge archives
+          tar -czf ../merit-badge-json.tar.gz -C merit-badge-json .
+          tar -czf ../merit-badge-markdown.tar.gz -C merit-badge-markdown .
+
+          # Handle merit badge images
+          if [ -d "merit-badge-markdown/images" ]; then
+            tar -czf ../merit-badge-images.tar.gz -C merit-badge-markdown images
           else
-            echo "::warning::No images directory found, creating empty archive"
-            tar -czf ../merit-badges-images.tar.gz --files-from /dev/null
+            tar -czf ../merit-badge-images.tar.gz --files-from /dev/null
           fi
+
+          # Create cub adventure archives if they exist
+          tar -czf ../cub-adventure-json.tar.gz -C cub-adventure-json .
+          tar -czf ../cub-adventure-markdown.tar.gz -C cub-adventure-markdown .
+
+          # Create combined archives
+          mkdir -p combined-json combined-markdown combined-images
+
+          # Combine all JSON files with subdirs
+          mkdir -p combined-json/merit-badge combined-json/cub-adventure
+          cp -r merit-badge-json/* combined-json/merit-badge/ 2>/dev/null || true
+          cp -r cub-adventure-json/* combined-json/cub-adventure/ 2>/dev/null || true
+          tar -czf ../scout-archive-json.tar.gz -C combined-json .
+
+          # Combine all markdown files with subdirs
+          mkdir -p combined-markdown/merit-badge combined-markdown/cub-adventure
+          cp -r merit-badge-markdown/* combined-markdown/merit-badge/ 2>/dev/null || true
+          cp -r cub-adventure-markdown/* combined-markdown/cub-adventure/ 2>/dev/null || true
+          tar -czf ../scout-archive-markdown.tar.gz -C combined-markdown .
 
       - name: Get release info
         id: release-info
@@ -227,15 +239,23 @@ jobs:
           fi
           echo "release-name=$RELEASE_NAME" >> $GITHUB_OUTPUT
 
-          # Read change report if it exists
-          if [ -f "change-report.txt" ]; then
-            CHANGE_REPORT=$(cat change-report.txt)
-          else
-            CHANGE_REPORT="No change report available"
-          fi
-          # Use multiline output format for GitHub Actions
+          # Read both change reports if they exist
           echo "change-report<<EOF" >> $GITHUB_OUTPUT
-          echo "$CHANGE_REPORT" >> $GITHUB_OUTPUT
+          if [ -f "release-assets/change-reports/change-report.txt" ]; then
+            echo "## Merit Badge Changes" >> $GITHUB_OUTPUT
+            echo "" >> $GITHUB_OUTPUT
+            cat release-assets/change-reports/change-report.txt >> $GITHUB_OUTPUT
+            echo "" >> $GITHUB_OUTPUT
+          fi
+          if [ -f "release-assets/change-reports/cub-adventures-change-report.txt" ]; then
+            echo "## Cub Adventures Changes" >> $GITHUB_OUTPUT
+            echo "" >> $GITHUB_OUTPUT
+            cat release-assets/change-reports/cub-adventures-change-report.txt >> $GITHUB_OUTPUT
+            echo "" >> $GITHUB_OUTPUT
+          fi
+          if [ ! -f "release-assets/change-reports/change-report.txt" ] && [ ! -f "release-assets/change-reports/cub-adventures-change-report.txt" ]; then
+            echo "No change reports available" >> $GITHUB_OUTPUT
+          fi
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Create Release
@@ -246,9 +266,13 @@ jobs:
           body: |
             ${{ steps.release-info.outputs.change-report }}
           files: |
-            merit-badges-json.tar.gz
-            merit-badges-markdown.tar.gz
-            merit-badges-images.tar.gz
+            merit-badge-json.tar.gz
+            merit-badge-markdown.tar.gz
+            merit-badge-images.tar.gz
+            cub-adventure-json.tar.gz
+            cub-adventure-markdown.tar.gz
+            scout-archive-json.tar.gz
+            scout-archive-markdown.tar.gz
           draft: false
           prerelease: false
 
@@ -260,34 +284,43 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Download Markdown artifacts
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "0.6.11"
+          enable-cache: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+
+      - name: Download merit badge artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: merit-badge-json
+          path: build/merit-badges
+
+      - name: Download merit badge markdown artifacts
         uses: actions/download-artifact@v4
         with:
           name: merit-badge-markdown
-          path: build/merit-badges/
+          path: build/merit-badges
+
+      - name: Download cub adventure artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: cub-adventure-json
+          path: build/cub-scout-adventures
+
+      - name: Download cub adventure markdown artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: cub-adventure-markdown
+          path: build/cub-scout-adventures
 
       - name: Build website
-        run: |
-          # Create website directory
-          mkdir -p _site
-          # Copy Markdown files
-          cp -R build/merit-badges/*.md _site/ 2>/dev/null || true
-          # If no markdown files were found, generate a default index
-          if [ ! -f _site/index.md ]; then
-            echo "# Scout requirements archive" > _site/index.md
-            echo "" >> _site/index.md
-            echo "An unofficial automated archive of Scouting America requirements." >> _site/index.md
-            echo "" >> _site/index.md
-            echo "**Last updated:** $(date +"%Y-%m-%d")" >> _site/index.md
-          fi
-          # Copy images and PDF files
-          mkdir -p _site/images _site/files
-          cp -R build/merit-badges/images/* _site/images/ 2>/dev/null || true
-          cp -R build/merit-badges/files/* _site/files/ 2>/dev/null || true
-          # Create Jekyll config file
-          echo "theme: jekyll-theme-cayman" > _site/_config.yml
-          echo "title: Scout requirements archive" >> _site/_config.yml
-          echo "description: Unofficial archive of Scouting America requirements" >> _site/_config.yml
+        run: make build-website
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4

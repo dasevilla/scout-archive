@@ -58,8 +58,17 @@ make validate
 # Generate change report
 make report
 
+# Generate change report for cub adventures
+make report-cub-adventures
+
 # Run complete pipeline
 make all
+
+# Clean all output
+make clean
+
+# Clean only cub adventures output
+make clean-cub-adventures
 ```
 
 ### Browser-Based Spider Development
@@ -222,5 +231,16 @@ make validate
 - Navigate to live pages with `browser_navigate` to validate structure
 - Update both JSON and Markdown output
 - Validate against multiple badge types (Eagle-required vs regular)
+
+**For Cub Scout adventure debugging:**
+- **ALWAYS use makefile commands for testing**: `make archive-cub-adventures-url URL="https://www.scouting.org/cub-scout-adventures/adventure-name/"`
+- **Never use bare scrapy commands** - use `make` targets which handle proper directory setup and parameters
+- Use correct URL format: `https://www.scouting.org/cub-scout-adventures/adventure-name/`
+- Test with: `make archive-cub-adventures-url URL="https://www.scouting.org/cub-scout-adventures/running-with-the-pack/"`
+- Key selectors: rank from `a[href*="/adventures/wolf/"]`, category/type from span elements
+- Adventure overview: Use XPath `//h2[contains(text(), 'Snapshot of adventure')]/following::p[1]//text()` to extract text from first paragraph after "Snapshot of adventure" heading
+- Bobcat adventures: Special handling required - found on rank pages with links like "View Lion Bobcat" going to `/cub-scout-adventures/bobcat-{rank}/`.
+- Debug approach: Add `self.logger.info()` statements to trace selector results, try multiple XPath/CSS approaches (direct siblings, descendants, following elements), check log files in project root
+- Avoid capturing entire HTML page content in category field
 
 **Trust these instructions** - they are validated and current. Only search for additional information if these instructions are incomplete or incorrect.

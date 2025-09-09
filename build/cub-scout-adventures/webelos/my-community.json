@@ -1,0 +1,98 @@
+{
+  "rank_name": "Webelos",
+  "adventure_name": "My Community",
+  "adventure_type": "Required",
+  "adventure_category": "Citizenship",
+  "adventure_overview": "This Adventure is all about being a good citizen. You’ll learn about the different types of voting and how our national government maintains the balance of power. You’ll meet with a local politician and discuss how they were elected and their role in government. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "url": "https://www.scouting.org/cub-scout-adventures/my-community/",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_My_Community.jpg",
+  "requirements": [
+    {
+      "id": "1",
+      "text": "Learn about majority and plurality types of voting.",
+      "activities": [
+        {
+          "name": "Denner Election",
+          "url": "https://www.scouting.org/cub-scout-activities/denner-election/",
+          "description": "Demonstrate plurality voting  and majority  voting to  determine  your next  denner .",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Snack-lections",
+          "url": "https://www.scouting.org/cub-scout-activities/snack-lections/",
+          "description": "Using a variety of voting, select the snack for your next den meeting.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "text": "Speak with someone who is elected to their position.  Discover the type of voting that was used for to elect them and why.",
+      "activities": [
+        {
+          "name": "Our Elected Official",
+          "url": "https://www.scouting.org/cub-scout-activities/our-elected-official/",
+          "description": "Invite a community-elected official to learn about the type of voting used in their election.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "1",
+          "prep_time": "4"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Choose a federal law and create a timeline of the history of the law.  Include the involvement of the 3 branches of government.",
+      "activities": [
+        {
+          "name": "History of the Americans with Disabilities Act",
+          "url": "https://www.scouting.org/cub-scout-activities/history-of-the-americans-with-disabilities-act/",
+          "description": "Cub Scouts learn about the history of the Americans with Disabilities Act.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "3"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "text": "Participate in a service project.",
+      "activities": [
+        {
+          "name": "Diaper and Formula Drive",
+          "url": "https://www.scouting.org/cub-scout-activities/diaper-and-formula-drive/",
+          "description": "With your den, host a diaper and formula drive to donate to an organization that gives them to those in need.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "5"
+        },
+        {
+          "name": "Happy Birthday Bag Project",
+          "url": "https://www.scouting.org/cub-scout-activities/happy-birthday-bag-project/",
+          "description": "Cub Scouts help those less fortunate have a happy birthday by making birthday bags for a local food pantry.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "5"
+        },
+        {
+          "name": "Webelos Scouting for Food",
+          "url": "https://www.scouting.org/cub-scout-activities/webelos-scouting-for-food/",
+          "description": "Participate in your Council-sponsored Scouting for Food event.",
+          "location": "Travel",
+          "energy_level": "3",
+          "supply_list": "1",
+          "prep_time": "5"
+        }
+      ]
+    }
+  ]
+}

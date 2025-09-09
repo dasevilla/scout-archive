@@ -1,0 +1,98 @@
+{
+  "rank_name": "Arrow of Light",
+  "adventure_name": "Personal Fitness",
+  "adventure_type": "Required",
+  "adventure_category": "Personal Fitness",
+  "adventure_overview": "In the Scout Oath we promise to keep ourselves physically strong. Proper nutrition, staying active with group activities, and personal exercises are key to being physically strong. You are now old enough to also know about your personal Scouting America Health and Medical Record. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "url": "https://www.scouting.org/cub-scout-adventures/personal-fitness/",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2024/04/2023_2024_loops_pins_Personal_Fitness.jpg",
+  "requirements": [
+    {
+      "id": "1",
+      "text": "Plan a balanced meal that you would eat when camping.  Prepare that meal using the gear you would use on a campout.",
+      "activities": [
+        {
+          "name": "Prepare A Meal on Campout",
+          "url": "https://www.scouting.org/cub-scout-activities/prepare-a-meal-on-campout/",
+          "description": "Cub Scouts prepare a pizza  on a campout.",
+          "location": "Travel",
+          "energy_level": "3",
+          "supply_list": "5",
+          "prep_time": "5"
+        },
+        {
+          "name": "Prepare Meal for a Picnic",
+          "url": "https://www.scouting.org/cub-scout-activities/prepare-meal-for-a-picnic/",
+          "description": "Cub Scouts prepare a meal for a picnic.",
+          "location": "Outdoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "3"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "text": "Examine what it is to be  physically fit and how you incorporate this in your life.  Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong.",
+      "activities": [
+        {
+          "name": "Tracking Your Fitness",
+          "url": "https://www.scouting.org/cub-scout-activities/tracking-your-fitness/",
+          "description": "Cub Scouts  track their physical fitness for 14 days.",
+          "location": "Indoor",
+          "energy_level": "5",
+          "supply_list": "2",
+          "prep_time": "1"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Be active for 30 minutes with your patrol, a younger den, or at least one other person in a way that includes both stretching and moving.",
+      "activities": [
+        {
+          "name": "Cycling Fun",
+          "url": "https://www.scouting.org/cub-scout-activities/cycling-fun/",
+          "description": "Cub Scouts go on a bike ride.",
+          "location": "Outdoor",
+          "energy_level": "5",
+          "supply_list": "3",
+          "prep_time": "5"
+        },
+        {
+          "name": "Exploring Sports",
+          "url": "https://www.scouting.org/cub-scout-activities/exploring-sports/",
+          "description": "Cub Scouts participate in a school or extracurricular sport.",
+          "location": "Indoor",
+          "energy_level": "1",
+          "supply_list": "1",
+          "prep_time": "1"
+        },
+        {
+          "name": "Kickball Madness",
+          "url": "https://www.scouting.org/cub-scout-activities/kickball-madness/",
+          "description": "Cub Scouts play kickball.",
+          "location": "Outdoor",
+          "energy_level": "5",
+          "supply_list": "3",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "text": "Review your Scouting America Annual Health and Medical Record with your parent or legal guardian. Discuss your ability to participate in Arrow of Light patrol and pack activities.",
+      "activities": [
+        {
+          "name": "Scouting America Annual Health and Medical Record AOL",
+          "url": "https://www.scouting.org/cub-scout-activities/scouting-america-annual-health-and-medical-record-aol/",
+          "description": "Cub Scouts review their Scouting America Annual Health and Medical Records with their parent or legal guardian.",
+          "location": "Indoor",
+          "energy_level": "1",
+          "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    }
+  ]
+}

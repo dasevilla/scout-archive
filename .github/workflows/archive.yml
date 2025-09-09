@@ -111,18 +111,7 @@ jobs:
           if-no-files-found: warn
 
       - name: Create job summary
-        run: |
-          if [ -f change-report.txt ]; then
-            echo "### Merit Badge Change Report" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            cat change-report.txt >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-          fi
-          if [ -f cub-adventures-change-report.txt ]; then
-            echo "### Cub Adventures Change Report" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            cat cub-adventures-change-report.txt >> $GITHUB_STEP_SUMMARY
-          fi
+        run: uv run src/scripts/create-job-summary.py $GITHUB_STEP_SUMMARY
 
       - name: Check for changes and commit
         id: commit-changes

@@ -146,7 +146,7 @@ def check_eagle_required_badges(directory):
 def main():
     """Main validation function"""
     if len(sys.argv) < 2:
-        print("Usage: python validate_archive.py <badges_directory>")
+        print("Usage: python validate-merit-badges-archive.py <badges_directory>")
         sys.exit(1)
 
     directory = sys.argv[1]

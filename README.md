@@ -15,25 +15,25 @@ Goals:
 Create the merit badge archive:
 
 ```shell
-make archive
+make archive-merit-badges
 ```
 
 Validate the merit badge archive:
 
 ```shell
-make validate
+make validate-merit-badges
 ```
 
 Generate the merit badge index file:
 
 ```shell
-make index
+make index-merit-badges
 ```
 
 Generate merit badge change report:
 
 ```shell
-make report
+make report-merit-badges
 ```
 
 ### Cub Scout Adventures
@@ -145,11 +145,11 @@ In case of failures:
 2. Check the GitHub Actions logs for detailed error information
 3. Run the validation steps to identify specific issues:
      ```shell
-     make validate
+     make validate-merit-badges
      make validate-cub-adventures
      ```
 4. Run the archivers locally to debug issues:
      ```shell
-     make archive
+     make archive-merit-badges
      make archive-cub-adventures
      ```

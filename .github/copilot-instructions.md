@@ -44,19 +44,19 @@ make pre-commit # Run all pre-commit hooks
 make dirs
 
 # Run full archive process (takes 10-15 minutes)
-make archive
+make archive-merit-badges
 
 # Test single merit badge (for development)
-make archive-url URL="https://www.scouting.org/merit-badges/camping/"
+make archive-merit-badges-url URL="https://www.scouting.org/merit-badges/camping/"
 
 # Generate index file
-make index
+make index-merit-badges
 
 # Validate archive results
-make validate
+make validate-merit-badges
 
 # Generate change report
-make report
+make report-merit-badges
 
 # Generate change report for cub adventures
 make report-cub-adventures
@@ -140,9 +140,9 @@ browser_evaluate(() => {
 │   │   ├── pipelines.py              # Data processing
 │   │   └── settings.py               # Scrapy configuration
 │   ├── scripts/                      # Utility scripts
-│   │   ├── validate_archive.py       # Archive validation
-│   │   ├── make-index-file.py        # Index generation
-│   │   └── generate-change-report.py # Change detection
+│   │   ├── validate-merit-badges-archive.py       # Archive validation
+│   │   ├── make-merit-badges-index-file.py        # Index generation
+│   │   └── generate-merit-badges-change-report.py # Change detection
 │   └── scrapy.cfg                    # Scrapy project config
 ├── build/                            # Generated output (gitignored)
 │   └── merit-badges/                 # JSON/MD files + assets
@@ -204,8 +204,8 @@ browser_evaluate(() => {
 
 1. **Scraping**: `merit_badges.py` spider crawls scouting.org
 2. **Processing**: Pipelines generate JSON + Markdown files
-3. **Validation**: `validate_archive.py` checks data integrity
-4. **Change Detection**: `generate-change-report.py` compares versions
+3. **Validation**: `validate-merit-badges-archive.py` checks data integrity
+4. **Change Detection**: `generate-merit-badges-change-report.py` compares versions
 5. **Deployment**: GitHub Pages serves static site
 
 ### Development Guidelines
@@ -217,12 +217,12 @@ make clean && make check
 
 **Test changes with single badge:**
 ```bash
-make archive-url URL="https://www.scouting.org/merit-badges/camping/"
+make archive-merit-badges-url URL="https://www.scouting.org/merit-badges/camping/"
 ```
 
 **Validate changes:**
 ```bash
-make validate
+make validate-merit-badges
 ```
 
 **For scraper modifications:**

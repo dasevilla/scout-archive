@@ -22,7 +22,7 @@ from pathlib import Path
 @click.argument("output_file", type=click.Path())
 @click.option(
     "--merit-badge-report",
-    default="change-report.txt",
+    default="merit-badges-change-report.txt",
     help="Merit badge change report file path",
 )
 @click.option(

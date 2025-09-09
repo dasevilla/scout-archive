@@ -41,23 +41,23 @@ jobs:
           python-version-file: ".python-version"
 
       - name: Run archive process
-        run: make archive archive-cub-adventures -j2
+        run: make archive-merit-badges archive-cub-adventures -j2
 
       - name: Build the index
-        run: make index index-cub-adventures
+        run: make index-merit-badges index-cub-adventures
 
       - name: Validate archives
-        run: make validate validate-cub-adventures
+        run: make validate-merit-badges validate-cub-adventures
 
       - name: Generate change reports
-        run: make report report-cub-adventures
+        run: make report-merit-badges report-cub-adventures
 
       - name: Upload change reports
         uses: actions/upload-artifact@v4
         with:
           name: change-reports
           path: |
-            change-report.txt
+            merit-badges-change-report.txt
             cub-adventures-change-report.txt
           retention-days: 7
           if-no-files-found: warn
@@ -118,7 +118,7 @@ jobs:
 
       - name: Get release info
         id: release-info
-        run: uv run src/scripts/generate-release-metadata.py $GITHUB_OUTPUT --merit-badge-report change-report.txt --cub-report cub-adventures-change-report.txt --run-number $GITHUB_RUN_NUMBER --run-attempt $GITHUB_RUN_ATTEMPT
+        run: uv run src/scripts/generate-release-metadata.py $GITHUB_OUTPUT --merit-badge-report merit-badges-change-report.txt --cub-report cub-adventures-change-report.txt --run-number $GITHUB_RUN_NUMBER --run-attempt $GITHUB_RUN_ATTEMPT
 
       - name: Check for changes and commit
         id: commit-changes

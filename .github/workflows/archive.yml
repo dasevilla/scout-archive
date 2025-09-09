@@ -20,6 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       has-changes: ${{ steps.commit-changes.outputs.has-changes }}
+      release-tag: ${{ steps.release-info.outputs.release-tag }}
+      release-name: ${{ steps.release-info.outputs.release-name }}
+      change-report: ${{ steps.release-info.outputs.change-report }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -111,50 +114,15 @@ jobs:
           if-no-files-found: warn
 
       - name: Create job summary
-        run: |
-          if [ -f change-report.txt ]; then
-            echo "### Merit Badge Change Report" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            cat change-report.txt >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-          fi
-          if [ -f cub-adventures-change-report.txt ]; then
-            echo "### Cub Adventures Change Report" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            cat cub-adventures-change-report.txt >> $GITHUB_STEP_SUMMARY
-          fi
+        run: uv run src/scripts/format-change-summary.py $GITHUB_STEP_SUMMARY
+
+      - name: Get release info
+        id: release-info
+        run: uv run src/scripts/generate-release-metadata.py $GITHUB_OUTPUT --merit-badge-report change-report.txt --cub-report cub-adventures-change-report.txt --run-number $GITHUB_RUN_NUMBER --run-attempt $GITHUB_RUN_ATTEMPT
 
       - name: Check for changes and commit
         id: commit-changes
-        run: |
-          # Configure git
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-
-          # Add files to the commit
-          git add build/merit-badges/*.json build/merit-badges/images/* build/cub-scout-adventures/*/*.json build/cub-scout-adventures/*/images/* build/cub-scout-adventures/index.md
-
-          # Check if there are changes
-          if git diff --staged --quiet; then
-            echo "No changes detected"
-            echo "has-changes=false" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-
-          echo "has-changes=true" >> $GITHUB_OUTPUT
-
-          # Create commit with a detailed message
-          git commit -F- <<EOF
-          Update archive ($(date +"%Y-%m-%d"))
-
-          Merit Badge Changes:
-          $(cat change-report.txt)
-
-          Cub Adventures Changes:
-          $(cat cub-adventures-change-report.txt)
-
-          Automated archive via GitHub Actions
-          EOF
+        run: src/scripts/commit-changes.sh $GITHUB_OUTPUT "${{ steps.release-info.outputs.release-tag }}" "${{ steps.release-info.outputs.change-report }}"
 
       - name: Push changes
         if: steps.commit-changes.outputs.has-changes == 'true'
@@ -183,88 +151,15 @@ jobs:
           path: release-assets
 
       - name: Validate artifacts and create archives
-        run: |
-          # Validate required artifacts exist
-          if [ ! -d "release-assets/merit-badge-json" ] || [ ! -d "release-assets/merit-badge-markdown" ]; then
-            echo "::error::Required merit badge artifacts not found"
-            exit 1
-          fi
-
-          cd release-assets
-
-          # Create merit badge archives
-          tar -czf ../merit-badge-json.tar.gz -C merit-badge-json .
-          tar -czf ../merit-badge-markdown.tar.gz -C merit-badge-markdown .
-
-          # Handle merit badge images
-          if [ -d "merit-badge-markdown/images" ]; then
-            tar -czf ../merit-badge-images.tar.gz -C merit-badge-markdown images
-          else
-            tar -czf ../merit-badge-images.tar.gz --files-from /dev/null
-          fi
-
-          # Create cub adventure archives if they exist
-          tar -czf ../cub-adventure-json.tar.gz -C cub-adventure-json .
-          tar -czf ../cub-adventure-markdown.tar.gz -C cub-adventure-markdown .
-
-          # Create combined archives
-          mkdir -p combined-json combined-markdown combined-images
-
-          # Combine all JSON files with subdirs
-          mkdir -p combined-json/merit-badge combined-json/cub-adventure
-          cp -r merit-badge-json/* combined-json/merit-badge/ 2>/dev/null || true
-          cp -r cub-adventure-json/* combined-json/cub-adventure/ 2>/dev/null || true
-          tar -czf ../scout-archive-json.tar.gz -C combined-json .
-
-          # Combine all markdown files with subdirs
-          mkdir -p combined-markdown/merit-badge combined-markdown/cub-adventure
-          cp -r merit-badge-markdown/* combined-markdown/merit-badge/ 2>/dev/null || true
-          cp -r cub-adventure-markdown/* combined-markdown/cub-adventure/ 2>/dev/null || true
-          tar -czf ../scout-archive-markdown.tar.gz -C combined-markdown .
-
-      - name: Get release info
-        id: release-info
-        run: |
-          DATE=$(date +%Y-%m-%d)
-          RELEASE_TAG="archive-$DATE-$GITHUB_RUN_NUMBER-$GITHUB_RUN_ATTEMPT"
-          echo "release-tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
-
-          GENERATED_DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          echo "generated-date=$GENERATED_DATE" >> $GITHUB_OUTPUT
-
-          if [ "$GITHUB_RUN_ATTEMPT" = "1" ]; then
-            RELEASE_NAME="Scout Archive Update - $DATE"
-          else
-            RELEASE_NAME="Scout Archive Update - $DATE (Attempt $GITHUB_RUN_ATTEMPT)"
-          fi
-          echo "release-name=$RELEASE_NAME" >> $GITHUB_OUTPUT
-
-          # Read both change reports if they exist
-          echo "change-report<<EOF" >> $GITHUB_OUTPUT
-          if [ -f "release-assets/change-reports/change-report.txt" ]; then
-            echo "## Merit Badge Changes" >> $GITHUB_OUTPUT
-            echo "" >> $GITHUB_OUTPUT
-            cat release-assets/change-reports/change-report.txt >> $GITHUB_OUTPUT
-            echo "" >> $GITHUB_OUTPUT
-          fi
-          if [ -f "release-assets/change-reports/cub-adventures-change-report.txt" ]; then
-            echo "## Cub Adventures Changes" >> $GITHUB_OUTPUT
-            echo "" >> $GITHUB_OUTPUT
-            cat release-assets/change-reports/cub-adventures-change-report.txt >> $GITHUB_OUTPUT
-            echo "" >> $GITHUB_OUTPUT
-          fi
-          if [ ! -f "release-assets/change-reports/change-report.txt" ] && [ ! -f "release-assets/change-reports/cub-adventures-change-report.txt" ]; then
-            echo "No change reports available" >> $GITHUB_OUTPUT
-          fi
-          echo "EOF" >> $GITHUB_OUTPUT
+        run: src/scripts/create-release-archives.sh release-assets
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ steps.release-info.outputs.release-tag }}
-          name: ${{ steps.release-info.outputs.release-name }}
+          tag_name: ${{ needs.archive.outputs.release-tag }}
+          name: ${{ needs.archive.outputs.release-name }}
           body: |
-            ${{ steps.release-info.outputs.change-report }}
+            ${{ needs.archive.outputs.change-report }}
           files: |
             merit-badge-json.tar.gz
             merit-badge-markdown.tar.gz

@@ -44,19 +44,19 @@ make pre-commit # Run all pre-commit hooks
 make dirs
 
 # Run full archive process (takes 10-15 minutes)
-make archive
+make archive-merit-badges
 
 # Test single merit badge (for development)
-make archive-url URL="https://www.scouting.org/merit-badges/camping/"
+make archive-merit-badges-url URL="https://www.scouting.org/merit-badges/camping/"
 
 # Generate index file
-make index
+make index-merit-badges
 
 # Validate archive results
-make validate
+make validate-merit-badges
 
 # Generate change report
-make report
+make report-merit-badges
 
 # Generate change report for cub adventures
 make report-cub-adventures
@@ -217,12 +217,12 @@ make clean && make check
 
 **Test changes with single badge:**
 ```bash
-make archive-url URL="https://www.scouting.org/merit-badges/camping/"
+make archive-merit-badges-url URL="https://www.scouting.org/merit-badges/camping/"
 ```
 
 **Validate changes:**
 ```bash
-make validate
+make validate-merit-badges
 ```
 
 **For scraper modifications:**

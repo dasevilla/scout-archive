@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+#
+# Create compressed archives for GitHub release assets.
+# Validates artifacts and creates tar.gz files for merit badges, cub adventures,
+# and combined archives for distribution.
+#
+# Usage: create-release-archives.sh [artifacts_dir]
+#   artifacts_dir - Directory containing release artifacts (default: release-assets)
 
 set -euo pipefail
 

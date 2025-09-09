@@ -1,4 +1,12 @@
 #!/usr/bin/env bash
+#
+# Commit changes to the archive with a formatted commit message.
+# Used by GitHub Actions to commit updated merit badge and cub adventure data.
+#
+# Usage: commit-changes.sh <output_file> [release_tag] [change_report]
+#   output_file  - GitHub Actions output file to write has-changes status
+#   release_tag  - Optional release tag for commit title
+#   change_report - Optional formatted change report for commit body
 
 set -euo pipefail
 

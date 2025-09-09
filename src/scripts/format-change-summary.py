@@ -6,6 +6,14 @@
 # ]
 # ///
 
+"""
+Create GitHub Actions job summary from change reports.
+Reads merit badge and cub adventure change reports and formats them for display
+in the GitHub Actions job summary.
+
+Usage: create-job-summary.py <output_file> [--merit-badge-report FILE] [--cub-report FILE]
+"""
+
 import click
 from pathlib import Path
 

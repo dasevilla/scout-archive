@@ -6,6 +6,13 @@
 # ]
 # ///
 
+"""
+Generate release information for GitHub Actions.
+Creates release tags, names, and combines change reports for GitHub release creation.
+
+Usage: get-release-info.py <output_file> [--merit-badge-report FILE] [--cub-report FILE] [--run-number NUM] [--run-attempt NUM]
+"""
+
 import click
 from datetime import datetime
 from pathlib import Path

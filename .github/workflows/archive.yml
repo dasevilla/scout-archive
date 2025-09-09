@@ -224,39 +224,7 @@ jobs:
 
       - name: Get release info
         id: release-info
-        run: |
-          DATE=$(date +%Y-%m-%d)
-          RELEASE_TAG="archive-$DATE-$GITHUB_RUN_NUMBER-$GITHUB_RUN_ATTEMPT"
-          echo "release-tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
-
-          GENERATED_DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          echo "generated-date=$GENERATED_DATE" >> $GITHUB_OUTPUT
-
-          if [ "$GITHUB_RUN_ATTEMPT" = "1" ]; then
-            RELEASE_NAME="Scout Archive Update - $DATE"
-          else
-            RELEASE_NAME="Scout Archive Update - $DATE (Attempt $GITHUB_RUN_ATTEMPT)"
-          fi
-          echo "release-name=$RELEASE_NAME" >> $GITHUB_OUTPUT
-
-          # Read both change reports if they exist
-          echo "change-report<<EOF" >> $GITHUB_OUTPUT
-          if [ -f "release-assets/change-reports/change-report.txt" ]; then
-            echo "## Merit Badge Changes" >> $GITHUB_OUTPUT
-            echo "" >> $GITHUB_OUTPUT
-            cat release-assets/change-reports/change-report.txt >> $GITHUB_OUTPUT
-            echo "" >> $GITHUB_OUTPUT
-          fi
-          if [ -f "release-assets/change-reports/cub-adventures-change-report.txt" ]; then
-            echo "## Cub Adventures Changes" >> $GITHUB_OUTPUT
-            echo "" >> $GITHUB_OUTPUT
-            cat release-assets/change-reports/cub-adventures-change-report.txt >> $GITHUB_OUTPUT
-            echo "" >> $GITHUB_OUTPUT
-          fi
-          if [ ! -f "release-assets/change-reports/change-report.txt" ] && [ ! -f "release-assets/change-reports/cub-adventures-change-report.txt" ]; then
-            echo "No change reports available" >> $GITHUB_OUTPUT
-          fi
-          echo "EOF" >> $GITHUB_OUTPUT
+        run: uv run src/scripts/get-release-info.py $GITHUB_OUTPUT --run-number $GITHUB_RUN_NUMBER --run-attempt $GITHUB_RUN_ATTEMPT
 
       - name: Create Release
         uses: softprops/action-gh-release@v2

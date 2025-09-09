@@ -4,6 +4,7 @@ This is an unofficial archive of [Cub Scout Adventures](https://www.scouting.org
 
 ## Lion Adventures
 
+1. [Bobcat Lion](lion/bobcat-lion.md) - [Original](https://www.scouting.org/cub-scout-adventures/bobcat-lion/) (Required)
 1. [Fun on the Run](lion/fun-on-the-run.md) - [Original](https://www.scouting.org/cub-scout-adventures/fun-on-the-run/) (Required)
 1. [King of the Jungle](lion/king-of-the-jungle.md) - [Original](https://www.scouting.org/cub-scout-adventures/king-of-the-jungle/) (Required)
 1. [Lion’s Pride](lion/lion’s-pride.md) - [Original](https://www.scouting.org/cub-scout-adventures/lions-pride/) (Required)
@@ -26,6 +27,7 @@ This is an unofficial archive of [Cub Scout Adventures](https://www.scouting.org
 
 ## Tiger Adventures
 
+1. [Bobcat Tiger](tiger/bobcat-tiger.md) - [Original](https://www.scouting.org/cub-scout-adventures/bobcat-tiger/) (Required)
 1. [Team Tiger](tiger/team-tiger.md) - [Original](https://www.scouting.org/cub-scout-adventures/team-tiger/) (Required)
 1. [Tiger Bites](tiger/tiger-bites.md) - [Original](https://www.scouting.org/cub-scout-adventures/tiger-bites/) (Required)
 1. [Tiger Circles](tiger/tiger-circles.md) - [Original](https://www.scouting.org/cub-scout-adventures/tiger-circles/) (Required)
@@ -51,6 +53,7 @@ This is an unofficial archive of [Cub Scout Adventures](https://www.scouting.org
 
 ## Wolf Adventures
 
+1. [Bobcat Wolf](wolf/bobcat-wolf.md) - [Original](https://www.scouting.org/cub-scout-adventures/bobcat-wolf/) (Required)
 1. [Council Fire](wolf/council-fire.md) - [Original](https://www.scouting.org/cub-scout-adventures/council-fire/) (Required)
 1. [Footsteps](wolf/footsteps.md) - [Original](https://www.scouting.org/cub-scout-adventures/footsteps/) (Required)
 1. [Paws on the Path](wolf/paws-on-the-path.md) - [Original](https://www.scouting.org/cub-scout-adventures/paws-on-the-path/) (Required)
@@ -78,6 +81,7 @@ This is an unofficial archive of [Cub Scout Adventures](https://www.scouting.org
 
 1. [Bear Habitat](bear/bear-habitat.md) - [Original](https://www.scouting.org/cub-scout-adventures/bear-habitat/) (Required)
 1. [Bear Strong](bear/bear-strong.md) - [Original](https://www.scouting.org/cub-scout-adventures/bear-strong/) (Required)
+1. [Bobcat Bear](bear/bobcat-bear.md) - [Original](https://www.scouting.org/cub-scout-adventures/bobcat-bear/) (Required)
 1. [Fellowship](bear/fellowship.md) - [Original](https://www.scouting.org/cub-scout-adventures/fellowship/) (Required)
 1. [Paws for Action](bear/paws-for-action.md) - [Original](https://www.scouting.org/cub-scout-adventures/paws-for-action/) (Required)
 1. [Standing Tall](bear/standing-tall.md) - [Original](https://www.scouting.org/cub-scout-adventures/standing-tall/) (Required)
@@ -101,6 +105,7 @@ This is an unofficial archive of [Cub Scout Adventures](https://www.scouting.org
 
 ## Webelos Adventures
 
+1. [Bobcat Webelos](webelos/bobcat-webelos.md) - [Original](https://www.scouting.org/cub-scout-adventures/bobcat-webelos/) (Required)
 1. [My Community](webelos/my-community.md) - [Original](https://www.scouting.org/cub-scout-adventures/my-community/) (Required)
 1. [My Family](webelos/my-family.md) - [Original](https://www.scouting.org/cub-scout-adventures/my-family/) (Required)
 1. [My Safety](webelos/my-safety.md) - [Original](https://www.scouting.org/cub-scout-adventures/my-safety/) (Required)
@@ -126,6 +131,7 @@ This is an unofficial archive of [Cub Scout Adventures](https://www.scouting.org
 
 ## Arrow of Light Adventures
 
+1. [Bobcat Arrow of Light](arrow-of-light/bobcat-arrow-of-light.md) - [Original](https://www.scouting.org/cub-scout-adventures/bobcat-aol/) (Required)
 1. [Citizenship](arrow-of-light/citizenship.md) - [Original](https://www.scouting.org/cub-scout-adventures/citizenship/) (Required)
 1. [Duty to God](arrow-of-light/duty-to-god.md) - [Original](https://www.scouting.org/cub-scout-adventures/duty-to-god/) (Required)
 1. [First Aid](arrow-of-light/first-aid.md) - [Original](https://www.scouting.org/cub-scout-adventures/first-aid/) (Required)
@@ -145,4 +151,4 @@ This is an unofficial archive of [Cub Scout Adventures](https://www.scouting.org
 1. [Summertime Fun AOL](arrow-of-light/summertime-fun-aol.md) - [Original](https://www.scouting.org/cub-scout-adventures/summertime-fun-aol/)
 1. [Swimming](arrow-of-light/swimming.md) - [Original](https://www.scouting.org/cub-scout-adventures/swimming/)
 
-Generated on 2025-09-08 by [Scout Archive](https://github.com/dasevilla/scout-archive)
+Generated on 2025-09-09 by [Scout Archive](https://github.com/dasevilla/scout-archive)

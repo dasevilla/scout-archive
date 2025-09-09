@@ -26,7 +26,7 @@ The Mining in Society merit badge covers the history of mining, explores the sta
 
 
 * (4) Discuss with your counselor the dangers someone might encounter at an abandoned mine or quarry.
-* (5) Do the following:
+* (5) Do ONE of the following:
     * (a) With your parent or guardian's approval and your counselor's assistance, use the internet to find and take a virtual tour of two types of mines. Determine the similarities and differences between them regarding resource exploration, mine planning and permitting, types of equipment used, and the minerals produced. Discuss with your counselor what you learned from your internet-based mine tours.
     * (b) With your parent or guardian's permission and counselor's approval, visit a mining or minerals exhibit at a museum. Find out about the history of the museum's exhibit and the type of mining it represents. Give three examples of how mineral resources have influenced history.
     * (c) With your parent or guardian's permission and counselor's approval, visit an active mine. Find out about the tasks required to explore, plan, permit, mine, and process the resource mined at that site. Take photographs, if allowed, and request brochures from your visit. Share photos, brochures, and what you have learned with your counselor.

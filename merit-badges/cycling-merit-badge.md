@@ -39,10 +39,10 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
             * (5) Cross railroad tracks properly. Resource: [How to Cross Railroad Tracks (video)](https://www.youtube.com/watch?v=62jc3-6Jgdw%20)
 
 
-        * (b) Avoiding main highways, take two rides of 10 miles each, two rides of 15 miles each, and two rides of 25 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen on the ride. Resources: [Bikeability Checklist (PDF)](https://www.nhtsa.gov/sites/nhtsa.gov/files/bikabilitychecklist1.pdf%20) [MapMyRide (website)](https://www.mapmyride.com/%20)
+        * (b) Avoiding main highways, take two rides of 10 miles each, two rides of 15 miles each, and two rides of 25 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen on the ride. Resources: [Bikeability Checklist (PDF)](https://www.nhtsa.gov/sites/nhtsa.gov/files/bikabilitychecklist1.pdf) [MapMyRide (website)](https://www.mapmyride.com/)
         * (c) After completing requirement b for the road biking option, do ONE of the following:
             * (1) Lay out on a road map a 50-mile trip. Stay away from main highways. Using your map, make this ride in eight hours or less. Resource: [MapMyRide (website)](https://www.mapmyride.com/)
-            * (2) Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours or less. Afterward, use the tour's cue sheet to make a map of the ride. Resource: [Cue Sheets (website)](https://lifeisabeautifuldetail.com/blog/cue-sheets%20)
+            * (2) Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours or less. Afterward, use the tour's cue sheet to make a map of the ride. Resource: [Cue Sheets (website)](https://lifeisabeautifuldetail.com/blog/cue-sheets)
 
 
 
@@ -55,12 +55,12 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 
 
         * (b) Take a trail safety test with your counselor and demonstrate the following:
-            * (1) Show proper trail etiquette to hikers and other cyclists, including when to yield the right-of-way. Resource: [Who Yields to Who? (PDF)](https://drive.google.com/file/d/1hyUVEwAkWqHMvAR3Y3yj0xrdxiscgbks/view?usp=drive_link%20)
+            * (1) Show proper trail etiquette to hikers and other cyclists, including when to yield the right-of-way.
             * (2) Demonstrate how to correctly cross an obstacle by either going over the obstacle on your bike or dismounting your bike and crossing over or around the obstacle Resource: [How to Jump a Log on a Mountain Bike (video)](https://www.youtube.com/watch?v=Hp_jDNN6XfQ)
             * (3) Cross rocks, gravel, and roots properly Resource: [How to Jump a Log on a Mountain Bike (video)](https://www.youtube.com/watch?v=Hp_jDNN6XfQ)
 
 
-        * (c) Describe the rules of trail riding, including how to know when a trail is unsuitable for riding.Resources: [Sharing Our Trails (website)](https://trailetiquette.org/) [Trail Manners (website)](https://www.tfnu.org/trail-etiquette/%20) [Tread Lightly (website)](https://treadlightly.org/learn/recreation-tips/sharing-our-trails/%20)
+        * (c) Describe the rules of trail riding, including how to know when a trail is unsuitable for riding.Resources: [Sharing Our Trails (website)](https://trailetiquette.org/) [Trail Manners (website)](https://www.tfnu.org/trail-etiquette/) [Tread Lightly (website)](https://treadlightly.org/learn/recreation-tips/sharing-our-trails/%20)
         * (d) On mountain biking or multi-use trails approved by your counselor, take two rides of 2 miles each, two rides of 5 miles each, and two rides of 8 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen. Resource: [MapMyRide (website)](https://www.mapmyride.com/)
         * (e) After fulfilling the previous requirement, lay out on a trail map a 22-mile trip. You may include multiple trail systems, if needed. Stay away from main highways. Using your map, complete this ride in one day. Resource: [MapMyRide (website)](https://www.mapmyride.com/)
 

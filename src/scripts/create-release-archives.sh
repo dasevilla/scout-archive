@@ -13,7 +13,7 @@ cd "$ARTIFACTS_DIR"
 
 # Validate required artifacts exist
 if [[ ! -d "merit-badge-json" ]] || [[ ! -d "merit-badge-markdown" ]]; then
-    echo "::error::Required merit badge artifacts not found"
+    echo "Error: Required merit badge artifacts not found" >&2
     exit 1
 fi
 

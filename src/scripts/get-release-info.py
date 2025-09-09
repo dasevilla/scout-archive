@@ -14,13 +14,18 @@ from pathlib import Path
 @click.command()
 @click.argument("output_file", type=click.Path())
 @click.option(
-    "--artifacts-dir",
-    default="release-assets",
-    help="Directory containing release artifacts",
+    "--merit-badge-report",
+    default="change-report.txt",
+    help="Merit badge change report file path",
+)
+@click.option(
+    "--cub-report",
+    default="cub-adventures-change-report.txt",
+    help="Cub adventures change report file path",
 )
 @click.option("--run-number", default="1", help="GitHub run number")
 @click.option("--run-attempt", default="1", help="GitHub run attempt")
-def main(output_file, artifacts_dir, run_number, run_attempt):
+def main(output_file, merit_badge_report, cub_report, run_number, run_attempt):
     """Generate release information for GitHub Actions."""
     # Generate release info
     date = datetime.now().strftime("%Y-%m-%d")
@@ -36,18 +41,16 @@ def main(output_file, artifacts_dir, run_number, run_attempt):
     # Read change reports
     change_report_parts = []
 
-    merit_badge_report = Path(artifacts_dir) / "change-reports" / "change-report.txt"
-    if merit_badge_report.exists():
+    merit_badge_path = Path(merit_badge_report)
+    if merit_badge_path.exists():
         change_report_parts.append("## Merit Badge Changes\n")
-        change_report_parts.append(merit_badge_report.read_text())
+        change_report_parts.append(merit_badge_path.read_text())
         change_report_parts.append("\n")
 
-    cub_report = (
-        Path(artifacts_dir) / "change-reports" / "cub-adventures-change-report.txt"
-    )
-    if cub_report.exists():
+    cub_path = Path(cub_report)
+    if cub_path.exists():
         change_report_parts.append("## Cub Adventures Changes\n")
-        change_report_parts.append(cub_report.read_text())
+        change_report_parts.append(cub_path.read_text())
         change_report_parts.append("\n")
 
     if not change_report_parts:

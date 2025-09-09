@@ -20,6 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       has-changes: ${{ steps.commit-changes.outputs.has-changes }}
+      release-tag: ${{ steps.release-info.outputs.release-tag }}
+      release-name: ${{ steps.release-info.outputs.release-name }}
+      change-report: ${{ steps.release-info.outputs.change-report }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -113,37 +116,13 @@ jobs:
       - name: Create job summary
         run: uv run src/scripts/create-job-summary.py $GITHUB_STEP_SUMMARY
 
+      - name: Get release info
+        id: release-info
+        run: uv run src/scripts/get-release-info.py $GITHUB_OUTPUT --merit-badge-report change-report.txt --cub-report cub-adventures-change-report.txt --run-number $GITHUB_RUN_NUMBER --run-attempt $GITHUB_RUN_ATTEMPT
+
       - name: Check for changes and commit
         id: commit-changes
-        run: |
-          # Configure git
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-
-          # Add files to the commit
-          git add build/merit-badges/*.json build/merit-badges/images/* build/cub-scout-adventures/*/*.json build/cub-scout-adventures/*/images/* build/cub-scout-adventures/index.md
-
-          # Check if there are changes
-          if git diff --staged --quiet; then
-            echo "No changes detected"
-            echo "has-changes=false" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-
-          echo "has-changes=true" >> $GITHUB_OUTPUT
-
-          # Create commit with a detailed message
-          git commit -F- <<EOF
-          Update archive ($(date +"%Y-%m-%d"))
-
-          Merit Badge Changes:
-          $(cat change-report.txt)
-
-          Cub Adventures Changes:
-          $(cat cub-adventures-change-report.txt)
-
-          Automated archive via GitHub Actions
-          EOF
+        run: src/scripts/commit-changes.sh $GITHUB_OUTPUT "${{ steps.release-info.outputs.release-tag }}" "${{ steps.release-info.outputs.change-report }}"
 
       - name: Push changes
         if: steps.commit-changes.outputs.has-changes == 'true'
@@ -211,17 +190,13 @@ jobs:
           cp -r cub-adventure-markdown/* combined-markdown/cub-adventure/ 2>/dev/null || true
           tar -czf ../scout-archive-markdown.tar.gz -C combined-markdown .
 
-      - name: Get release info
-        id: release-info
-        run: uv run src/scripts/get-release-info.py $GITHUB_OUTPUT --run-number $GITHUB_RUN_NUMBER --run-attempt $GITHUB_RUN_ATTEMPT
-
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ steps.release-info.outputs.release-tag }}
-          name: ${{ steps.release-info.outputs.release-name }}
+          tag_name: ${{ needs.archive.outputs.release-tag }}
+          name: ${{ needs.archive.outputs.release-name }}
           body: |
-            ${{ steps.release-info.outputs.change-report }}
+            ${{ needs.archive.outputs.change-report }}
           files: |
             merit-badge-json.tar.gz
             merit-badge-markdown.tar.gz

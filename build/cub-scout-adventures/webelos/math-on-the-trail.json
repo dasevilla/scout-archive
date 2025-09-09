@@ -1,0 +1,92 @@
+{
+  "rank_name": "Webelos",
+  "adventure_name": "Math on the Trail",
+  "adventure_type": "Elective",
+  "adventure_category": "",
+  "adventure_overview": "In this Adventure, you will learn how to estimate the time it takes you to take a walk. If you know your pace, you can estimate how long it will take you and others to walk any given distance. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "url": "https://www.scouting.org/cub-scout-adventures/math-on-the-trail/",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Math_on_the_Trail.jpg",
+  "requirements": [
+    {
+      "id": "1",
+      "text": "Determine your walking pace by walking ¼ mile.  Make a projection on how long it would take you to walk 2 miles.",
+      "activities": [
+        {
+          "name": "Timing a Quarter Mile Indoor",
+          "url": "https://www.scouting.org/cub-scout-activities/timing-a-quarter-mile-indoor/",
+          "description": "Cub Scouts project how long it will take to walk 2 miles in an indoor setting",
+          "location": "Indoor",
+          "energy_level": "4",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Timing a Quarter Mile On the Trail",
+          "url": "https://www.scouting.org/cub-scout-activities/timing-a-quarter-mile-on-the-trail/",
+          "description": "Cub Scouts project how long it will take to walk 2 miles on a trail.",
+          "location": "Travel",
+          "energy_level": "4",
+          "supply_list": "2",
+          "prep_time": "5"
+        },
+        {
+          "name": "Timing a Quarter Mile Outdoor Track",
+          "url": "https://www.scouting.org/cub-scout-activities/timing-a-quarter-mile-outdoor-track/",
+          "description": "Cub Scouts project how long it will take to walk 2 miles on a track.",
+          "location": "Travel",
+          "energy_level": "4",
+          "supply_list": "2",
+          "prep_time": "4"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "text": "Walk 2 miles and record the time it took you to complete the two miles.",
+      "activities": [
+        {
+          "name": "Timing 2 Miles Indoor",
+          "url": "https://www.scouting.org/cub-scout-activities/timing-2-miles-indoor/",
+          "description": "Cub Scouts validate how long it will take to walk 2 miles in an indoor setting.",
+          "location": "Indoor",
+          "energy_level": "4",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Timing 2 Miles On the Trail",
+          "url": "https://www.scouting.org/cub-scout-activities/timing-2-miles-on-the-trail/",
+          "description": "Cub Scouts validate how long it will take to walk 2 miles on a trail.",
+          "location": "Travel",
+          "energy_level": "4",
+          "supply_list": "2",
+          "prep_time": "5"
+        },
+        {
+          "name": "Timing 2 Miles Outdoor Track",
+          "url": "https://www.scouting.org/cub-scout-activities/timing-2-miles-outdoor-track/",
+          "description": "Cub Scouts validate how long it will take to walk 2 miles on an outdoor track.",
+          "location": "Travel",
+          "energy_level": "4",
+          "supply_list": "2",
+          "prep_time": "4"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Make a projection on how long it would take you to hike a 20-mile trail over two days. List all the factors to consider for your projection.",
+      "activities": [
+        {
+          "name": "If I could walk 20 miles",
+          "url": "https://www.scouting.org/cub-scout-activities/if-i-could-walk-20-miles/",
+          "description": "Using the times recorded in requirements 1 and 2, determine how long it will take to walk 20 miles.",
+          "location": "Indoor",
+          "energy_level": "1",
+          "supply_list": "2",
+          "prep_time": "1"
+        }
+      ]
+    }
+  ]
+}

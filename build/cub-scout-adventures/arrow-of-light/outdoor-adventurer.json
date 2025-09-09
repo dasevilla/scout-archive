@@ -1,0 +1,176 @@
+{
+  "rank_name": "Arrow of Light",
+  "adventure_name": "Outdoor Adventurer",
+  "adventure_type": "Required",
+  "adventure_category": "Outdoors",
+  "adventure_overview": "There’s nothing like the great outdoors. In this Adventure, you will plan and participate in a campout with your Arrow of Light patrol or a Scouting America troop. You’ll learn how to pack, help plan using Scouting America’s SAFE Checklist, set up camp, and discover how Scouts camp. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "url": "https://www.scouting.org/cub-scout-adventures/outdoor-adventurer/",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2024/04/2023_2024_loops_pins_AOL_Outdoor_Adventurer.jpg",
+  "requirements": [
+    {
+      "id": "1",
+      "text": "Learn about the Scout Basic Essentials.",
+      "activities": [
+        {
+          "name": "Scout Basic Essentials",
+          "url": "https://www.scouting.org/cub-scout-activities/scout-basic-essentials/",
+          "description": "Cub Scouts learn the Scout Basic Essentials.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "1",
+          "prep_time": "1"
+        },
+        {
+          "name": "Scout Basic Essentials Backpack",
+          "url": "https://www.scouting.org/cub-scout-activities/scout-basic-essentials-backpack/",
+          "description": "Cub Scouts play a relay game to learn about the Scout Basic Essentials.",
+          "location": "Indoor",
+          "energy_level": "5",
+          "supply_list": "3",
+          "prep_time": "3"
+        },
+        {
+          "name": "Scout Troop Visitor",
+          "url": "https://www.scouting.org/cub-scout-activities/scouts-bsa-visitor/",
+          "description": "Cub Scouts learn the Scout Basic Essentials from a member of a Scout Troop.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "1",
+          "prep_time": "3"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "text": "Determine what you will bring on an overnight campout — including a tent and sleeping bag/gear — and how you will carry your gear.",
+      "activities": [
+        {
+          "name": "IOLS Shakedown",
+          "url": "https://www.scouting.org/cub-scout-activities/iols-shake-down/",
+          "description": "Cub Scouts have a camping gear shakedown with an IOLS (Introduction to Outdoor Leader Skills) trained leader.",
+          "location": "Indoor",
+          "energy_level": "4",
+          "supply_list": "4",
+          "prep_time": "3"
+        },
+        {
+          "name": "Troop Shakedown",
+          "url": "https://www.scouting.org/cub-scout-activities/troop-shake-down/",
+          "description": "Cub Scouts attend a Scouting America troop meeting for a camping gear shakedown",
+          "location": "Travel",
+          "energy_level": "4",
+          "supply_list": "4",
+          "prep_time": "5"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Review the four points of Scouting America’s SAFE Checklist and how you will apply them. on the campout.",
+      "activities": [
+        {
+          "name": "Scouting America’s SAFE Checklist",
+          "url": "https://www.scouting.org/cub-scout-activities/scouting-america-safe-checklist/",
+          "description": "Cub Scouts apply the points of  Scouting America ‘s SAFE checklist to their campout.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "1",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "text": "Locate the campsite where you will be camping on a map.",
+      "activities": [
+        {
+          "name": "Digital Map",
+          "url": "https://www.scouting.org/cub-scout-activities/digital-map-arrow-of-light/",
+          "description": "Cub Scouts locate their campground using a digital device.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "3"
+        },
+        {
+          "name": "Paper Map",
+          "url": "https://www.scouting.org/cub-scout-activities/paper-map/",
+          "description": "Cub Scouts locate their campsite on a paper map.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "3"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "text": "With your patrol or a Scouting America troop, participate in a campout.",
+      "activities": [
+        {
+          "name": "Den Campout",
+          "url": "https://www.scouting.org/cub-scout-activities/den-campout/",
+          "description": "Cub Scouts camp with their den.",
+          "location": "Travel",
+          "energy_level": "5",
+          "supply_list": "5",
+          "prep_time": "5"
+        },
+        {
+          "name": "Troop Campout",
+          "url": "https://www.scouting.org/cub-scout-activities/troop-campout/",
+          "description": "Cub Scouts camp with a Scouts BSA troop.",
+          "location": "Travel",
+          "energy_level": "5",
+          "supply_list": "5",
+          "prep_time": "5"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "text": "Upon arrival at the campout determine where to set up your campsite: kitchen, eating area, tents, and firepit.  Help the patrol set up the patrol gear before setting up your own tent.",
+      "activities": [
+        {
+          "name": "Campsite Setup",
+          "url": "https://www.scouting.org/cub-scout-activities/campsite-setup/",
+          "description": "Cub Scouts set up their campsite.",
+          "location": "Travel",
+          "energy_level": "5",
+          "supply_list": "5",
+          "prep_time": "5"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "text": "Explain how to keep food safe and the kitchen area sanitary at the campsite.  Demonstrate your knowledge during the campout.",
+      "activities": [
+        {
+          "name": "Safe Food Handling and Clean Up",
+          "url": "https://www.scouting.org/cub-scout-activities/safe-food-handling-and-clean-up/",
+          "description": "Cub Scouts learn about safe food handling and use the three-pot method for meal clean up method for cleaning",
+          "location": "Travel",
+          "energy_level": "5",
+          "supply_list": "5",
+          "prep_time": "5"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "text": "After your campout, discuss with your patrol what went well and what you would do differently next time.   Include how you followed the Outdoor Code and Leave No Trace Principles for Kids.",
+      "activities": [
+        {
+          "name": "Start, Stop, Continue",
+          "url": "https://www.scouting.org/cub-scout-activities/start-stop-continue/",
+          "description": "Cub Scouts assess their campout using Start, Stop, Continue.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "1",
+          "prep_time": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "rank_name": "Arrow of Light",
+  "adventure_name": "Citizenship",
+  "adventure_type": "Required",
+  "adventure_category": "Citizenship",
+  "adventure_overview": "Volunteering to make your community and country better is part of being both a Scout and a good citizen. This Adventure may only have two requirements, but the goal is for you to take an active part in identifying and planning a service project, not just participating in one. This will help you in the future as you learn how to plan and conduct service projects in Scouts BSA. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "url": "https://www.scouting.org/cub-scout-adventures/citizenship/",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2024/04/2023_2024_loops_pins_Citizenship.jpg",
+  "requirements": [
+    {
+      "id": "1",
+      "text": "Identify a community service project that your patrol or pack could accomplish.  Use Scouting America’s SAFE Checklist and develop a plan to conduct the service project safely.",
+      "activities": [
+        {
+          "name": "Service Project Planning",
+          "url": "https://www.scouting.org/cub-scout-activities/service-project-planning/",
+          "description": "Cub Scouts learn how to safely plan a service project.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "text": "Participate in a service project for a minimum of two hours or multiple service projects for a total of two hours.",
+      "activities": [
+        {
+          "name": "AOL Scouting for Food",
+          "url": "https://www.scouting.org/cub-scout-activities/aol-scouting-for-food/",
+          "description": "Participate in your Council-sponsored Scouting for Food event.",
+          "location": "Travel",
+          "energy_level": "3",
+          "supply_list": "1",
+          "prep_time": "5"
+        },
+        {
+          "name": "Helping Neighbors",
+          "url": "https://www.scouting.org/cub-scout-activities/helping-neighbors/",
+          "description": "Cub Scouts do a Good Turn by raking leaves or shoveling snow for a neighbor in need.",
+          "location": "Travel",
+          "energy_level": "5",
+          "supply_list": "2",
+          "prep_time": "5"
+        },
+        {
+          "name": "Little Free Library",
+          "url": "https://www.scouting.org/cub-scout-activities/little-free-library/",
+          "description": "Cub Scouts build a little free library from recycled materials and fill it with books to support their community.",
+          "location": "Outdoor",
+          "energy_level": "4",
+          "supply_list": "5",
+          "prep_time": "5"
+        },
+        {
+          "name": "Scouts BSA Troop Service Project",
+          "url": "https://www.scouting.org/cub-scout-activities/scouts-bsa-troop-service-project/",
+          "description": "Cub Scouts participate in a service project with a Scouts BSA troop.",
+          "location": "Travel",
+          "energy_level": "5",
+          "supply_list": "2",
+          "prep_time": "5"
+        }
+      ]
+    }
+  ]
+}

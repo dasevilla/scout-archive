@@ -1,0 +1,74 @@
+{
+  "rank_name": "Arrow of Light",
+  "adventure_name": "Estimations",
+  "adventure_type": "Elective",
+  "adventure_category": "",
+  "adventure_overview": "There are times when we need to be exact, like when building a model or baking from a recipe. When we do not need to be exact, or we only need a general idea of something or its cost, we can estimate. There are some simple ways to estimate things like the time of day or even the height of an object. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "url": "https://www.scouting.org/cub-scout-adventures/estimations/",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2024/05/2023_2024_loops_pins_Estimations.jpg",
+  "requirements": [
+    {
+      "id": "2",
+      "text": "Estimate the time of day.",
+      "activities": [
+        {
+          "name": "Hands of Time",
+          "url": "https://www.scouting.org/cub-scout-activities/hands-of-time/",
+          "description": "Estimate time using your hands and the position of the sun in the sky.",
+          "location": "Outdoor",
+          "energy_level": "1",
+          "supply_list": "1",
+          "prep_time": "1"
+        },
+        {
+          "name": "Sunny Sundials",
+          "url": "https://www.scouting.org/cub-scout-activities/sunny-sundials/",
+          "description": "Create a sundial to estimate the time of day.",
+          "location": "Outdoor",
+          "energy_level": "2",
+          "supply_list": "4",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Estimate the height of a distant object.",
+      "activities": [
+        {
+          "name": "Stick Method",
+          "url": "https://www.scouting.org/cub-scout-activities/stick-method/",
+          "description": "Use a stick to estimate the height of a tall object.",
+          "location": "Outdoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "1"
+        },
+        {
+          "name": "What is a Theodolite?",
+          "url": "https://www.scouting.org/cub-scout-activities/what-is-a-theodolite/",
+          "description": "Create a theodolite to estimate the height of an object.",
+          "location": "Outdoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "3"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "text": "Estimate the distance between two points.",
+      "activities": [
+        {
+          "name": "Going the Distance",
+          "url": "https://www.scouting.org/cub-scout-activities/going-the-distance/",
+          "description": "Find the distance between two points on a known map.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
+        }
+      ]
+    }
+  ]
+}

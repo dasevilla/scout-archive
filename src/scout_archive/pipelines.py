@@ -38,14 +38,20 @@ class MeritBadgeFilesPipeline(FilesPipeline):
 class MeritBadgeImagesPipeline(ImagesPipeline):
     def file_path(self, request, response=None, info=None, *, item=None):
         image_guid = sanitize_filename(item["badge_url_slug"]) + "-merit-badge"
-        return f"{image_guid}.jpg"
+        filename = f"{image_guid}.jpg"
+        # Store the local filename in the item
+        item["badge_image_filename"] = filename
+        return filename
 
 
 class CubScoutAdventureImagesPipeline(ImagesPipeline):
     def file_path(self, request, response=None, info=None, *, item=None):
         rank_name = sanitize_filename(item["rank_name"])
         adventure_name = sanitize_filename(item["adventure_name"])
-        return f"{rank_name}/images/{adventure_name}.jpg"
+        filename = f"{rank_name}/images/{adventure_name}.jpg"
+        # Store just the filename for the template (since MD file is in rank dir)
+        item["adventure_image_filename"] = f"{adventure_name}.jpg"
+        return filename
 
 
 class ScoutArchivePipeline:
@@ -90,6 +96,7 @@ class ScoutArchivePipeline:
                 "pdf_url": item.get("badge_pdf_url"),
                 "shop_url": item.get("badge_shop_url"),
                 "image_url": item.get("badge_image_url"),
+                "image_filename": item.get("badge_image_filename"),
                 "requirements": item.get("requirements_data"),
             }
             json.dump(payload, f, ensure_ascii=False, indent=2)
@@ -121,6 +128,7 @@ class ScoutArchivePipeline:
                 "adventure_overview": item.get("adventure_overview"),
                 "url": item.get("adventure_url"),
                 "image_url": item.get("adventure_image_url"),
+                "image_filename": item.get("adventure_image_filename"),
                 "requirements": item.get("requirements_data"),
             }
             json.dump(payload, f, ensure_ascii=False, indent=2)
@@ -136,6 +144,7 @@ class ScoutArchivePipeline:
             "adventure_overview": item.get("adventure_overview"),
             "adventure_url": item.get("adventure_url"),
             "adventure_image_url": item.get("adventure_image_url"),
+            "adventure_image_filename": item.get("adventure_image_filename"),
             "requirements_data": item.get("requirements_data", []),
         }
         markdown_content = template.render(**payload)

@@ -18,8 +18,8 @@
 
 # {{ badge_name }} Merit Badge
 
-{% if images and images|length > 0 %}
-![{{ badge_name }} Merit Badge](images/{{ images[0].path }})
+{% if badge_image_filename %}
+![{{ badge_name }} Merit Badge](images/{{ badge_image_filename }})
 {% endif %}
 
 ## Overview

@@ -1,6 +1,6 @@
 # {{ adventure_name }} {{ rank_name }} Adventure
 
-{% if adventure_image_url %}![{{ adventure_name }} {{ rank_name }} adventure belt loop](images/{{ adventure_name|lower|replace(' ', '-') }}.jpg)
+{% if adventure_image_filename %}![{{ adventure_name }} {{ rank_name }} adventure belt loop](images/{{ adventure_image_filename }})
 {% endif %}
 
 - **Adventure name:** {{ adventure_name }}

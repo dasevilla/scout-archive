@@ -21,6 +21,8 @@ class MeritBadgeItem(scrapy.Item):
     badge_shop_url = scrapy.Field()
     # An image of the badge
     badge_image_url = scrapy.Field()
+    # Local filename of the downloaded badge image
+    badge_image_filename = scrapy.Field()
     # True if the badge is Eagle-required
     is_eagle_required = scrapy.Field()
 
@@ -51,6 +53,8 @@ class CubScoutAdventureItem(scrapy.Item):
     adventure_overview = scrapy.Field()
     # An image of the adventure
     adventure_image_url = scrapy.Field()
+    # Local filename of the downloaded adventure image
+    adventure_image_filename = scrapy.Field()
 
     # Requirements in a structured data format
     requirements_data = scrapy.Field()

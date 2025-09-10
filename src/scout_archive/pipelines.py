@@ -144,6 +144,7 @@ class ScoutArchivePipeline:
             "adventure_overview": item.get("adventure_overview"),
             "adventure_url": item.get("adventure_url"),
             "adventure_image_url": item.get("adventure_image_url"),
+            "adventure_image_filename": item.get("adventure_image_filename"),
             "requirements_data": item.get("requirements_data", []),
         }
         markdown_content = template.render(**payload)

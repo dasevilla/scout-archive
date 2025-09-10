@@ -1,6 +1,6 @@
 # {{ adventure_name }} {{ rank_name }} Adventure
 
-{% if adventure_image_filename %}![{{ adventure_name }} {{ rank_name }} adventure belt loop]({{ adventure_image_filename }})
+{% if adventure_image_filename %}![{{ adventure_name }} {{ rank_name }} adventure belt loop](images/{{ adventure_image_filename }})
 {% endif %}
 
 - **Adventure name:** {{ adventure_name }}

@@ -49,8 +49,8 @@ class CubScoutAdventureImagesPipeline(ImagesPipeline):
         rank_name = sanitize_filename(item["rank_name"])
         adventure_name = sanitize_filename(item["adventure_name"])
         filename = f"{rank_name}/images/{adventure_name}.jpg"
-        # Store the local filename in the item
-        item["adventure_image_filename"] = filename
+        # Store just the filename for the template (since MD file is in rank dir)
+        item["adventure_image_filename"] = f"{adventure_name}.jpg"
         return filename
 
 

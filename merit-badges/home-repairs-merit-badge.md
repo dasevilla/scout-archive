@@ -2,6 +2,7 @@
 
 # Home Repairs Merit Badge
 
+![Home Repairs Merit Badge](images/home-repairs-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Traffic Safety Merit Badge
 
+![Traffic Safety Merit Badge](images/traffic-safety-merit-badge.jpg)
 
 ## Overview
 

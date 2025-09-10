@@ -2,6 +2,7 @@
 
 # Pottery Merit Badge
 
+![Pottery Merit Badge](images/pottery-merit-badge.jpg)
 
 ## Overview
 

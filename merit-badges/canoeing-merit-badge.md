@@ -2,6 +2,7 @@
 
 # Canoeing Merit Badge
 
+![Canoeing Merit Badge](images/canoeing-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Oceanography Merit Badge
 
+![Oceanography Merit Badge](images/oceanography-merit-badge.jpg)
 
 ## Overview
 

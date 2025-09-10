@@ -2,6 +2,7 @@
 
 # Whitewater Merit Badge
 
+![Whitewater Merit Badge](images/whitewater-merit-badge.jpg)
 
 ## Overview
 

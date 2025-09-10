@@ -2,6 +2,7 @@
 
 # Truck Transportation Merit Badge
 
+![Truck Transportation Merit Badge](images/truck-transportation-merit-badge.jpg)
 
 ## Overview
 

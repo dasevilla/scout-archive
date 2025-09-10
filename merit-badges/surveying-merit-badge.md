@@ -2,6 +2,7 @@
 
 # Surveying Merit Badge
 
+![Surveying Merit Badge](images/surveying-merit-badge.jpg)
 
 ## Overview
 

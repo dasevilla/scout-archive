@@ -2,6 +2,7 @@
 
 # Dog Care Merit Badge
 
+![Dog Care Merit Badge](images/dog-care-merit-badge.jpg)
 
 ## Overview
 

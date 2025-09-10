@@ -2,6 +2,7 @@
 
 # Pioneering Merit Badge
 
+![Pioneering Merit Badge](images/pioneering-merit-badge.jpg)
 
 ## Overview
 

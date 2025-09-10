@@ -2,6 +2,7 @@
 
 # Veterinary Medicine Merit Badge
 
+![Veterinary Medicine Merit Badge](images/veterinary-medicine-merit-badge.jpg)
 
 ## Overview
 

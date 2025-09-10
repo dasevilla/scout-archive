@@ -2,6 +2,7 @@
 
 # Moviemaking Merit Badge
 
+![Moviemaking Merit Badge](images/moviemaking-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Astronomy Merit Badge
 
+![Astronomy Merit Badge](images/astronomy-merit-badge.jpg)
 
 ## Overview
 

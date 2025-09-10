@@ -2,6 +2,7 @@
 
 # Radio Merit Badge
 
+![Radio Merit Badge](images/radio-merit-badge.jpg)
 
 ## Overview
 

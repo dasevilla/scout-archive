@@ -2,6 +2,7 @@
 
 # Signs, Signals, and Codes Merit Badge
 
+![Signs, Signals, and Codes Merit Badge](images/signs-signals-and-codes-merit-badge.jpg)
 
 ## Overview
 

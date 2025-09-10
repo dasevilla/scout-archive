@@ -2,6 +2,7 @@
 
 # Sustainability Merit Badge
 
+![Sustainability Merit Badge](images/sustainability-merit-badge.jpg)
 
 ## Overview
 

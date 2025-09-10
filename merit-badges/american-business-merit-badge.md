@@ -2,6 +2,7 @@
 
 # American Business Merit Badge
 
+![American Business Merit Badge](images/american-business-merit-badge.jpg)
 
 ## Overview
 

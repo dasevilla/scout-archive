@@ -2,6 +2,7 @@
 
 # Plant Science Merit Badge
 
+![Plant Science Merit Badge](images/plant-science-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Cycling Merit Badge
 
+![Cycling Merit Badge](images/cycling-merit-badge.jpg)
 
 ## Overview
 

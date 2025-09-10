@@ -2,6 +2,7 @@
 
 # Coin Collecting Merit Badge
 
+![Coin Collecting Merit Badge](images/coin-collecting-merit-badge.jpg)
 
 ## Overview
 

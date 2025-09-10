@@ -2,6 +2,7 @@
 
 # American Heritage Merit Badge
 
+![American Heritage Merit Badge](images/american-heritage-merit-badge.jpg)
 
 ## Overview
 

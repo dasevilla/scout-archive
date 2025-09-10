@@ -2,6 +2,7 @@
 
 # Railroading Merit Badge
 
+![Railroading Merit Badge](images/railroading-2-merit-badge.jpg)
 
 ## Overview
 

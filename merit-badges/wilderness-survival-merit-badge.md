@@ -2,6 +2,7 @@
 
 # Wilderness Survival Merit Badge
 
+![Wilderness Survival Merit Badge](images/wilderness-survival-merit-badge.jpg)
 
 ## Overview
 

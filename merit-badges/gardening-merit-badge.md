@@ -2,6 +2,7 @@
 
 # Gardening Merit Badge
 
+![Gardening Merit Badge](images/gardening-merit-badge.jpg)
 
 ## Overview
 

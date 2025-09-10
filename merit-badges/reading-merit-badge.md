@@ -2,6 +2,7 @@
 
 # Reading Merit Badge
 
+![Reading Merit Badge](images/reading-merit-badge.jpg)
 
 ## Overview
 

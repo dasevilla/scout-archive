@@ -2,6 +2,7 @@
 
 # Weather Merit Badge
 
+![Weather Merit Badge](images/weather-merit-badge.jpg)
 
 ## Overview
 

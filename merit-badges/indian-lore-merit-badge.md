@@ -2,6 +2,7 @@
 
 # Indian Lore Merit Badge
 
+![Indian Lore Merit Badge](images/indian-lore-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Crime Prevention Merit Badge
 
+![Crime Prevention Merit Badge](images/crime-prevention-merit-badge.jpg)
 
 ## Overview
 

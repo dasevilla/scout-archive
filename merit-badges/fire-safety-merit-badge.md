@@ -2,6 +2,7 @@
 
 # Fire Safety Merit Badge
 
+![Fire Safety Merit Badge](images/fire-safety-merit-badge.jpg)
 
 ## Overview
 

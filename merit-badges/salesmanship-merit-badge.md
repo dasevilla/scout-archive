@@ -2,6 +2,7 @@
 
 # Salesmanship Merit Badge
 
+![Salesmanship Merit Badge](images/salesmanship-merit-badge.jpg)
 
 ## Overview
 

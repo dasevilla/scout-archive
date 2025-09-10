@@ -2,6 +2,7 @@
 
 # Robotics Merit Badge
 
+![Robotics Merit Badge](images/robotics-merit-badge.jpg)
 
 ## Overview
 

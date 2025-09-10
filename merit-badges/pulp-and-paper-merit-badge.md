@@ -2,6 +2,7 @@
 
 # Pulp and Paper Merit Badge
 
+![Pulp and Paper Merit Badge](images/pulp-and-paper-merit-badge.jpg)
 
 ## Overview
 

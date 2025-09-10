@@ -2,6 +2,7 @@
 
 # Rifle Shooting Merit Badge
 
+![Rifle Shooting Merit Badge](images/rifle-shooting-merit-badge.jpg)
 
 ## Overview
 

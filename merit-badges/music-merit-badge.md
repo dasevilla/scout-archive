@@ -2,6 +2,7 @@
 
 # Music Merit Badge
 
+![Music Merit Badge](images/music-merit-badge.jpg)
 
 ## Overview
 

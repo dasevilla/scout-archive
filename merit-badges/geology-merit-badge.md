@@ -2,6 +2,7 @@
 
 # Geology Merit Badge
 
+![Geology Merit Badge](images/geology-merit-badge.jpg)
 
 ## Overview
 

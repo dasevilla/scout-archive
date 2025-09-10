@@ -2,6 +2,7 @@
 
 # Emergency Preparedness Merit Badge
 
+![Emergency Preparedness Merit Badge](images/emergency-preparedness-merit-badge.jpg)
 
 ## Overview
 

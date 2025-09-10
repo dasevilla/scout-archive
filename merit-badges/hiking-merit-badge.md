@@ -2,6 +2,7 @@
 
 # Hiking Merit Badge
 
+![Hiking Merit Badge](images/hiking-merit-badge.jpg)
 
 ## Overview
 

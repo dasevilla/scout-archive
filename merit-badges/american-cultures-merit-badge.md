@@ -2,6 +2,7 @@
 
 # American Cultures Merit Badge
 
+![American Cultures Merit Badge](images/american-cultures-merit-badge.jpg)
 
 ## Overview
 

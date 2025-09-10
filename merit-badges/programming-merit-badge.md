@@ -2,6 +2,7 @@
 
 # Programming Merit Badge
 
+![Programming Merit Badge](images/programming-merit-badge.jpg)
 
 ## Overview
 

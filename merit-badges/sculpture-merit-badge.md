@@ -2,6 +2,7 @@
 
 # Sculpture Merit Badge
 
+![Sculpture Merit Badge](images/sculpture-merit-badge.jpg)
 
 ## Overview
 

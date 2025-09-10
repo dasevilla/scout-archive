@@ -2,6 +2,7 @@
 
 # Golf Merit Badge
 
+![Golf Merit Badge](images/golf-merit-badge.jpg)
 
 ## Overview
 

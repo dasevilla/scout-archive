@@ -2,6 +2,7 @@
 
 # Motorboating Merit Badge
 
+![Motorboating Merit Badge](images/motorboating-merit-badge.jpg)
 
 ## Overview
 

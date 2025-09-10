@@ -2,6 +2,7 @@
 
 # Journalism Merit Badge
 
+![Journalism Merit Badge](images/journalism-merit-badge.jpg)
 
 ## Overview
 

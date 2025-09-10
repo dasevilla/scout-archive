@@ -2,6 +2,7 @@
 
 # Personal Management Merit Badge
 
+![Personal Management Merit Badge](images/personal-management-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Aviation Merit Badge
 
+![Aviation Merit Badge](images/aviation-merit-badge.jpg)
 
 ## Overview
 

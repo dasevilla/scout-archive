@@ -2,6 +2,7 @@
 
 # Bugling Merit Badge
 
+![Bugling Merit Badge](images/bugling-merit-badge.jpg)
 
 ## Overview
 

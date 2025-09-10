@@ -2,6 +2,7 @@
 
 # Citizenship in Society Merit Badge
 
+![Citizenship in Society Merit Badge](images/citizenship-in-society-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Space Exploration Merit Badge
 
+![Space Exploration Merit Badge](images/space-exploration-merit-badge.jpg)
 
 ## Overview
 

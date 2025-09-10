@@ -2,6 +2,7 @@
 
 # Engineering Merit Badge
 
+![Engineering Merit Badge](images/engineering-merit-badge.jpg)
 
 ## Overview
 

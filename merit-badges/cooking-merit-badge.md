@@ -2,6 +2,7 @@
 
 # Cooking Merit Badge
 
+![Cooking Merit Badge](images/cooking-merit-badge.jpg)
 
 ## Overview
 

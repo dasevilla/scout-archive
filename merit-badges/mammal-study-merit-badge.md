@@ -2,6 +2,7 @@
 
 # Mammal Study Merit Badge
 
+![Mammal Study Merit Badge](images/mammal-study-merit-badge.jpg)
 
 ## Overview
 

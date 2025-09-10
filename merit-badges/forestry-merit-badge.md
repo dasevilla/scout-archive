@@ -2,6 +2,7 @@
 
 # Forestry Merit Badge
 
+![Forestry Merit Badge](images/forestry-merit-badge.jpg)
 
 ## Overview
 

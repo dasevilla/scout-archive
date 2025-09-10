@@ -2,6 +2,7 @@
 
 # Painting Merit Badge
 
+![Painting Merit Badge](images/painting-merit-badge.jpg)
 
 ## Overview
 

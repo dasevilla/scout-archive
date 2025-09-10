@@ -2,6 +2,7 @@
 
 # Snow Sports Merit Badge
 
+![Snow Sports Merit Badge](images/snow-sports-merit-badge.jpg)
 
 ## Overview
 

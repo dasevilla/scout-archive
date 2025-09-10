@@ -2,6 +2,7 @@
 
 # Reptile and Amphibian Study Merit Badge
 
+![Reptile and Amphibian Study Merit Badge](images/reptile-and-amphibian-study-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Citizenship in the World Merit Badge
 
+![Citizenship in the World Merit Badge](images/citizenship-in-the-world-merit-badge.jpg)
 
 ## Overview
 

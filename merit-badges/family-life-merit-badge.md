@@ -2,6 +2,7 @@
 
 # Family Life Merit Badge
 
+![Family Life Merit Badge](images/family-life-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Farm Mechanics Merit Badge
 
+![Farm Mechanics Merit Badge](images/farm-mechanics-merit-badge.jpg)
 
 ## Overview
 

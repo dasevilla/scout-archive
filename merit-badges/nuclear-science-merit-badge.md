@@ -2,6 +2,7 @@
 
 # Nuclear Science Merit Badge
 
+![Nuclear Science Merit Badge](images/nuclear-science-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Environmental Science Merit Badge
 
+![Environmental Science Merit Badge](images/environmental-science-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Textile Merit Badge
 
+![Textile Merit Badge](images/textile-merit-badge.jpg)
 
 ## Overview
 

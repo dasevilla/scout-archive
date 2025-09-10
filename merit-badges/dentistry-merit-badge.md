@@ -2,6 +2,7 @@
 
 # Dentistry Merit Badge
 
+![Dentistry Merit Badge](images/dentistry-merit-badge.jpg)
 
 ## Overview
 

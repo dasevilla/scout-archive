@@ -2,6 +2,7 @@
 
 # Small-Boat Sailing Merit Badge
 
+![Small-Boat Sailing Merit Badge](images/small-boat-sailing-merit-badge.jpg)
 
 ## Overview
 

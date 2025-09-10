@@ -2,6 +2,7 @@
 
 # Soil and Water Conservation Merit Badge
 
+![Soil and Water Conservation Merit Badge](images/soil-and-water-conservation-merit-badge.jpg)
 
 ## Overview
 

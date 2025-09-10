@@ -2,6 +2,7 @@
 
 # Citizenship in the Community Merit Badge
 
+![Citizenship in the Community Merit Badge](images/citizenship-in-the-community-merit-badge.jpg)
 
 ## Overview
 

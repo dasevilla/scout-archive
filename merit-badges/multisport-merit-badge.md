@@ -2,6 +2,7 @@
 
 # Multisport Merit Badge
 
+![Multisport Merit Badge](images/multisport-merit-badge.jpg)
 
 ## Overview
 

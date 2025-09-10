@@ -2,6 +2,7 @@
 
 # Wood Carving Merit Badge
 
+![Wood Carving Merit Badge](images/wood-carving-merit-badge.jpg)
 
 ## Overview
 

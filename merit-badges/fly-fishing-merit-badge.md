@@ -2,6 +2,7 @@
 
 # Fly Fishing Merit Badge
 
+![Fly Fishing Merit Badge](images/fly-fishing-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Disabilities Awareness Merit Badge
 
+![Disabilities Awareness Merit Badge](images/disabilities-awareness-merit-badge.jpg)
 
 ## Overview
 

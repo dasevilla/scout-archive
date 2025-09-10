@@ -2,6 +2,7 @@
 
 # Fingerprinting Merit Badge
 
+![Fingerprinting Merit Badge](images/fingerprinting-merit-badge.jpg)
 
 ## Overview
 

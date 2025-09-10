@@ -2,6 +2,7 @@
 
 # Citizenship in the Nation Merit Badge
 
+![Citizenship in the Nation Merit Badge](images/citizenship-in-the-nation-merit-badge.jpg)
 
 ## Overview
 

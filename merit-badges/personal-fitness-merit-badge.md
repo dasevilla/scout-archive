@@ -2,6 +2,7 @@
 
 # Personal Fitness Merit Badge
 
+![Personal Fitness Merit Badge](images/personal-fitness-merit-badge.jpg)
 
 ## Overview
 

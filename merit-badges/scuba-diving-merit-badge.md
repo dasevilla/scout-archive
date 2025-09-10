@@ -2,6 +2,7 @@
 
 # Scuba Diving Merit Badge
 
+![Scuba Diving Merit Badge](images/scuba-diving-merit-badge.jpg)
 
 ## Overview
 

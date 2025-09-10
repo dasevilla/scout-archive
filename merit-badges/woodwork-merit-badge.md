@@ -2,6 +2,7 @@
 
 # Woodwork Merit Badge
 
+![Woodwork Merit Badge](images/woodwork-merit-badge.jpg)
 
 ## Overview
 

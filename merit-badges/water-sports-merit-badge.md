@@ -2,6 +2,7 @@
 
 # Water Sports Merit Badge
 
+![Water Sports Merit Badge](images/water-sports-merit-badge.jpg)
 
 ## Overview
 

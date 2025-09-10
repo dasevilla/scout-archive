@@ -2,6 +2,7 @@
 
 # Drafting Merit Badge
 
+![Drafting Merit Badge](images/drafting-merit-badge.jpg)
 
 ## Overview
 

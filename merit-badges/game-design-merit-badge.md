@@ -2,6 +2,7 @@
 
 # Game Design Merit Badge
 
+![Game Design Merit Badge](images/game-design-merit-badge.jpg)
 
 ## Overview
 

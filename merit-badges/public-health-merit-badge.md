@@ -2,6 +2,7 @@
 
 # Public Health Merit Badge
 
+![Public Health Merit Badge](images/public-health-merit-badge.jpg)
 
 ## Overview
 

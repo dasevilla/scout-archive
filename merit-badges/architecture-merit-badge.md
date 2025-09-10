@@ -2,6 +2,7 @@
 
 # Architecture Merit Badge
 
+![Architecture Merit Badge](images/architecture-merit-badge.jpg)
 
 ## Overview
 

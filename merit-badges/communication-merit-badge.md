@@ -2,6 +2,7 @@
 
 # Communication Merit Badge
 
+![Communication Merit Badge](images/communication-merit-badge.jpg)
 
 ## Overview
 

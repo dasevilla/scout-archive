@@ -2,6 +2,7 @@
 
 # Basketry Merit Badge
 
+![Basketry Merit Badge](images/basketry-merit-badge.jpg)
 
 ## Overview
 

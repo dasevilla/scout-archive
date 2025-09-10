@@ -2,6 +2,7 @@
 
 # Nature Merit Badge
 
+![Nature Merit Badge](images/nature-merit-badge.jpg)
 
 ## Overview
 

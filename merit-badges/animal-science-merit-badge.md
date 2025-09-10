@@ -2,6 +2,7 @@
 
 # Animal Science Merit Badge
 
+![Animal Science Merit Badge](images/animal-science-merit-badge.jpg)
 
 ## Overview
 

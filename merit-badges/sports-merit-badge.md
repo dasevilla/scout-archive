@@ -2,6 +2,7 @@
 
 # Sports Merit Badge
 
+![Sports Merit Badge](images/sports-merit-badge.jpg)
 
 ## Overview
 

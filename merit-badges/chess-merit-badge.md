@@ -2,6 +2,7 @@
 
 # Chess Merit Badge
 
+![Chess Merit Badge](images/chess-merit-badge.jpg)
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Build It Up, Knock It Down Lion Adventure
 
-![Build It Up, Knock It Down Lion adventure belt loop](images/build-it-up,-knock-it-down.jpg)
+![Build It Up, Knock It Down Lion adventure belt loop](images/build-it-up-knock-it-down.jpg)
 
 - **Adventure name:** Build It Up, Knock It Down
 - **Rank:** Lion

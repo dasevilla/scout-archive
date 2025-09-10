@@ -2,6 +2,7 @@
 
 # Scouting Heritage Merit Badge
 
+![Scouting Heritage Merit Badge](images/scouting-heritage-merit-badge.jpg)
 
 ## Overview
 

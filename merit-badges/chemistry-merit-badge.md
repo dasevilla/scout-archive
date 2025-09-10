@@ -2,6 +2,7 @@
 
 # Chemistry Merit Badge
 
+![Chemistry Merit Badge](images/chemistry-merit-badge.jpg)
 
 ## Overview
 

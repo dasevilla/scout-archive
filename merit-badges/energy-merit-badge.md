@@ -2,6 +2,7 @@
 
 # Energy Merit Badge
 
+![Energy Merit Badge](images/energy-merit-badge.jpg)
 
 ## Overview
 

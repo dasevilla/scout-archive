@@ -2,6 +2,7 @@
 
 # Inventing Merit Badge
 
+![Inventing Merit Badge](images/inventing-merit-badge.jpg)
 
 ## Overview
 

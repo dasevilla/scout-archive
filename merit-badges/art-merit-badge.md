@@ -2,6 +2,7 @@
 
 # Art Merit Badge
 
+![Art Merit Badge](images/art-merit-badge.jpg)
 
 ## Overview
 

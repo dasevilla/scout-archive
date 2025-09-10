@@ -2,6 +2,7 @@
 
 # Plumbing Merit Badge
 
+![Plumbing Merit Badge](images/plumbing-merit-badge.jpg)
 
 ## Overview
 

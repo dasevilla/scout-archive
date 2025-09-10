@@ -2,6 +2,7 @@
 
 # Orienteering Merit Badge
 
+![Orienteering Merit Badge](images/orienteering-merit-badge.jpg)
 
 ## Overview
 

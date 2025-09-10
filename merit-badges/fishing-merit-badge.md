@@ -2,6 +2,7 @@
 
 # Fishing Merit Badge
 
+![Fishing Merit Badge](images/fishing-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Rowing Merit Badge
 
+![Rowing Merit Badge](images/rowing-merit-badge.jpg)
 
 ## Overview
 

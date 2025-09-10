@@ -2,6 +2,7 @@
 
 # Theater Merit Badge
 
+![Theater Merit Badge](images/theater-merit-badge.jpg)
 
 ## Overview
 

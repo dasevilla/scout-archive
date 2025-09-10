@@ -2,6 +2,7 @@
 
 # First Aid Merit Badge
 
+![First Aid Merit Badge](images/first-aid-merit-badge.jpg)
 
 ## Overview
 

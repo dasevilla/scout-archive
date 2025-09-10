@@ -2,6 +2,7 @@
 
 # Safety Merit Badge
 
+![Safety Merit Badge](images/safety-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Exploration Merit Badge
 
+![Exploration Merit Badge](images/exploration-merit-badge.jpg)
 
 ## Overview
 

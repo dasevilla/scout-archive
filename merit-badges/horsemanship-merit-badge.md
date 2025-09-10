@@ -2,6 +2,7 @@
 
 # Horsemanship Merit Badge
 
+![Horsemanship Merit Badge](images/horsemanship-merit-badge.jpg)
 
 ## Overview
 

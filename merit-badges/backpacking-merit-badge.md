@@ -2,6 +2,7 @@
 
 # Backpacking Merit Badge
 
+![Backpacking Merit Badge](images/backpacking-merit-badge.jpg)
 
 ## Overview
 

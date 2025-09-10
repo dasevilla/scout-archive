@@ -2,6 +2,7 @@
 
 # Shotgun Shooting Merit Badge
 
+![Shotgun Shooting Merit Badge](images/shotgun-shooting-merit-badge.jpg)
 
 ## Overview
 

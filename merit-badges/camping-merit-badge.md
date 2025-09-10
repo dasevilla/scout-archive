@@ -2,6 +2,7 @@
 
 # Camping Merit Badge
 
+![Camping Merit Badge](images/camping-merit-badge.jpg)
 
 ## Overview
 

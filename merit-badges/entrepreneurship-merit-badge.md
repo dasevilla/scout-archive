@@ -2,6 +2,7 @@
 
 # Entrepreneurship Merit Badge
 
+![Entrepreneurship Merit Badge](images/entrepreneurship-merit-badge.jpg)
 
 ## Overview
 

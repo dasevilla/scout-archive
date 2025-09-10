@@ -2,6 +2,7 @@
 
 # Automotive Maintenance Merit Badge
 
+![Automotive Maintenance Merit Badge](images/automotive-maintenance-merit-badge.jpg)
 
 ## Overview
 

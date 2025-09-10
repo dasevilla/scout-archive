@@ -2,6 +2,7 @@
 
 # Archaeology Merit Badge
 
+![Archaeology Merit Badge](images/archaeology-merit-badge.jpg)
 
 ## Overview
 

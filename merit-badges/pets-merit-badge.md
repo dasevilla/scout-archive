@@ -2,6 +2,7 @@
 
 # Pets Merit Badge
 
+![Pets Merit Badge](images/pets-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Composite Materials Merit Badge
 
+![Composite Materials Merit Badge](images/composite-materials-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Electricity Merit Badge
 
+![Electricity Merit Badge](images/electricity-merit-badge.jpg)
 
 ## Overview
 

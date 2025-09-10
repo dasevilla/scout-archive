@@ -2,6 +2,7 @@
 
 # Kayaking Merit Badge
 
+![Kayaking Merit Badge](images/kayaking-merit-badge.jpg)
 
 ## Overview
 

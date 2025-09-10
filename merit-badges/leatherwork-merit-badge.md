@@ -2,6 +2,7 @@
 
 # Leatherwork Merit Badge
 
+![Leatherwork Merit Badge](images/leatherwork-merit-badge.jpg)
 
 ## Overview
 

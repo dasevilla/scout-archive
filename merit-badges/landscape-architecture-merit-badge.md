@@ -2,6 +2,7 @@
 
 # Landscape Architecture Merit Badge
 
+![Landscape Architecture Merit Badge](images/landscape-architecture-merit-badge.jpg)
 
 ## Overview
 

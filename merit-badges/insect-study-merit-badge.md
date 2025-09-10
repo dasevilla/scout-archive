@@ -2,6 +2,7 @@
 
 # Insect Study Merit Badge
 
+![Insect Study Merit Badge](images/insect-study-merit-badge.jpg)
 
 ## Overview
 

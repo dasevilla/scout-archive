@@ -2,6 +2,7 @@
 
 # American Labor Merit Badge
 
+![American Labor Merit Badge](images/american-labor-merit-badge.jpg)
 
 ## Overview
 

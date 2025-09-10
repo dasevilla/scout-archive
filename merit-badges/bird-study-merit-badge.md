@@ -2,6 +2,7 @@
 
 # Bird Study Merit Badge
 
+![Bird Study Merit Badge](images/bird-study-merit-badge.jpg)
 
 ## Overview
 

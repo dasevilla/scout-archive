@@ -2,6 +2,7 @@
 
 # Law Merit Badge
 
+![Law Merit Badge](images/law-merit-badge.jpg)
 
 ## Overview
 

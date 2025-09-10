@@ -2,6 +2,7 @@
 
 # Public Speaking Merit Badge
 
+![Public Speaking Merit Badge](images/public-speaking-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Metalwork Merit Badge
 
+![Metalwork Merit Badge](images/metalwork-merit-badge.jpg)
 
 ## Overview
 

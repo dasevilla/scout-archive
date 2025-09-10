@@ -2,6 +2,7 @@
 
 # Lifesaving Merit Badge
 
+![Lifesaving Merit Badge](images/lifesaving-merit-badge.jpg)
 
 ## Overview
 

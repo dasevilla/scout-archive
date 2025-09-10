@@ -2,6 +2,7 @@
 
 # Geocaching Merit Badge
 
+![Geocaching Merit Badge](images/geocaching-merit-badge.jpg)
 
 ## Overview
 

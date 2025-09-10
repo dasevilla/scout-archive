@@ -2,6 +2,7 @@
 
 # Photography Merit Badge
 
+![Photography Merit Badge](images/photography-merit-badge.jpg)
 
 ## Overview
 

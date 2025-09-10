@@ -2,6 +2,7 @@
 
 # Search and Rescue Merit Badge
 
+![Search and Rescue Merit Badge](images/search-and-rescue-merit-badge.jpg)
 
 ## Overview
 

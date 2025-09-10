@@ -2,6 +2,7 @@
 
 # Mining in Society Merit Badge
 
+![Mining in Society Merit Badge](images/mining-in-society-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Health Care Professions Merit Badge
 
+![Health Care Professions Merit Badge](images/health-care-professions-merit-badge.jpg)
 
 ## Overview
 

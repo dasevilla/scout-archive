@@ -2,6 +2,7 @@
 
 # Electronics Merit Badge
 
+![Electronics Merit Badge](images/electronics-merit-badge.jpg)
 
 ## Overview
 

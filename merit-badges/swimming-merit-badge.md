@@ -2,6 +2,7 @@
 
 # Swimming Merit Badge
 
+![Swimming Merit Badge](images/swimming-merit-badge.jpg)
 
 ## Overview
 

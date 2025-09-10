@@ -2,6 +2,7 @@
 
 # Genealogy Merit Badge
 
+![Genealogy Merit Badge](images/genealogy-merit-badge.jpg)
 
 ## Overview
 

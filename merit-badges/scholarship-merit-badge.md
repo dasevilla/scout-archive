@@ -2,6 +2,7 @@
 
 # Scholarship Merit Badge
 
+![Scholarship Merit Badge](images/scholarship-merit-badge.jpg)
 
 ## Overview
 

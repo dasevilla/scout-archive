@@ -2,6 +2,7 @@
 
 # Welding Merit Badge
 
+![Welding Merit Badge](images/welding-merit-badge.jpg)
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Ready, Set, Grow Lion Adventure
 
-![Ready, Set, Grow Lion adventure belt loop](images/ready,-set,-grow.jpg)
+![Ready, Set, Grow Lion adventure belt loop](images/ready-set-grow.jpg)
 
 - **Adventure name:** Ready, Set, Grow
 - **Rank:** Lion

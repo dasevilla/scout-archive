@@ -2,6 +2,7 @@
 
 # Archery Merit Badge
 
+![Archery Merit Badge](images/archery-merit-badge.jpg)
 
 ## Overview
 

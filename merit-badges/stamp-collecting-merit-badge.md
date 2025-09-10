@@ -2,6 +2,7 @@
 
 # Stamp Collecting Merit Badge
 
+![Stamp Collecting Merit Badge](images/stamp-collecting-merit-badge.jpg)
 
 ## Overview
 

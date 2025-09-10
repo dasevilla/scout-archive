@@ -2,6 +2,7 @@
 
 # Graphic Arts Merit Badge
 
+![Graphic Arts Merit Badge](images/graphic-arts-merit-badge.jpg)
 
 ## Overview
 

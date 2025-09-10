@@ -2,6 +2,7 @@
 
 # Climbing Merit Badge
 
+![Climbing Merit Badge](images/climbing-merit-badge.jpg)
 
 ## Overview
 

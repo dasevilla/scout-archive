@@ -2,6 +2,7 @@
 
 # Animation Merit Badge
 
+![Animation Merit Badge](images/animation-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Athletics Merit Badge
 
+![Athletics Merit Badge](images/athletics-merit-badge.jpg)
 
 ## Overview
 

@@ -2,6 +2,7 @@
 
 # Model Design and Building Merit Badge
 
+![Model Design and Building Merit Badge](images/model-design-and-building-merit-badge.jpg)
 
 ## Overview
 

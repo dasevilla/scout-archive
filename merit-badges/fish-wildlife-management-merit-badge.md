@@ -2,6 +2,7 @@
 
 # Fish & Wildlife Management Merit Badge
 
+![Fish & Wildlife Management Merit Badge](images/fish-wildlife-management-merit-badge.jpg)
 
 ## Overview
 

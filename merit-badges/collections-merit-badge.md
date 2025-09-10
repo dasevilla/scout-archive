@@ -2,6 +2,7 @@
 
 # Collections Merit Badge
 
+![Collections Merit Badge](images/collections-merit-badge.jpg)
 
 ## Overview
 

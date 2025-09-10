@@ -2,6 +2,7 @@
 
 # Digital Technology Merit Badge
 
+![Digital Technology Merit Badge](images/digital-technology-merit-badge.jpg)
 
 ## Overview
 

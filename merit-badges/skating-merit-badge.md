@@ -2,6 +2,7 @@
 
 # Skating Merit Badge
 
+![Skating Merit Badge](images/skating-merit-badge.jpg)
 
 ## Overview
 

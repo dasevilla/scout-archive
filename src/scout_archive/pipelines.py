@@ -8,6 +8,7 @@
 import os
 from pathlib import Path
 import re
+import unicodedata
 import json
 import logging
 import mimetypes
@@ -153,7 +154,9 @@ class ScoutArchivePipeline:
 
 
 def sanitize_filename(name):
-    # Replace spaces with dashes
+    # Normalize Unicode and convert to ASCII, removing accents/special chars
+    name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
+    # Replace spaces with dashes and lowercase
     name = name.replace(" ", "-").lower()
-    # Remove invalid characters
-    return re.sub(r'[\\/*?:"<>|,]', "", name)
+    # Remove invalid characters including apostrophes
+    return re.sub(r'[\\/*?:"<>|,\']', "", name)

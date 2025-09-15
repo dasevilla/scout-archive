@@ -243,4 +243,47 @@ make validate-merit-badges
 - Debug approach: Add `self.logger.info()` statements to trace selector results, try multiple XPath/CSS approaches (direct siblings, descendants, following elements), check log files in project root
 - Avoid capturing entire HTML page content in category field
 
+### Diagnosing Validation Warnings
+
+**When you see warnings like:**
+```
+Warnings in wood-carving-merit-badge: Missing image URL, Missing PDF URL, Missing shop URL
+```
+
+**Diagnosis steps:**
+
+1. **Test individual badge scraping:**
+   ```bash
+   make archive-merit-badges-url URL="https://www.scouting.org/merit-badges/wood-carving/"
+   ```
+
+2. **Check the generated JSON:**
+   ```bash
+   cat build/merit-badges/wood-carving-merit-badge.json | jq '.pdf_url, .shop_url, .image_url'
+   ```
+
+3. **Use browser tools to verify page structure:**
+   ```bash
+   # Navigate to the page and check for elements
+   browser_navigate("https://www.scouting.org/merit-badges/wood-carving/")
+   browser_evaluate(() => {
+     return {
+       pdfLinks: Array.from(document.querySelectorAll('a[href*=".pdf"]')).map(a => a.href),
+       shopLinks: Array.from(document.querySelectorAll('a[href*="scoutshop.org"]')).map(a => a.href),
+       badgeImage: document.querySelector('img[alt*="WoodCarving"], img[src*="WoodCarving"]')?.src
+     };
+   })
+   ```
+
+**Common causes:**
+- **Transient issues**: Network timeouts, rate limiting, temporary site issues
+- **Site structure changes**: Scouting.org updated their HTML structure
+- **Special badges**: Some newer badges (like Citizenship in Society) legitimately lack standard sections
+- **Parsing issues**: CSS selectors need updating for changed page layouts
+
+**Resolution:**
+- For transient issues: Re-run the scraper
+- For legitimate missing content: Add badge-specific exceptions in `validate-merit-badges-archive.py`
+- For parsing issues: Update selectors in `merit_badges.py` spider after browser verification
+
 **Trust these instructions** - they are validated and current. Only search for additional information if these instructions are incomplete or incorrect.

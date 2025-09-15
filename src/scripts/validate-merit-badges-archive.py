@@ -96,14 +96,31 @@ def validate_badge_content(file_path):
             )
 
     # Check optional URLs (warn but don't fail)
-    if not data.get("image_url"):
-        warnings.append("Missing image URL")
+    badge_name = data.get("name", "")
 
-    if not data.get("pdf_url"):
-        warnings.append("Missing PDF URL")
+    # Special handling for Citizenship in Society - warn if URLs are found instead of missing
+    if badge_name == "Citizenship in Society":
+        if data.get("pdf_url"):
+            warnings.append(
+                "Unexpected PDF URL found (this badge typically doesn't have a pamphlet)"
+            )
+        if (
+            data.get("shop_url")
+            and data.get("shop_url") != "https://www.scoutshop.org/"
+        ):
+            warnings.append(
+                "Unexpected specific shop URL found (this badge typically uses generic shop link)"
+            )
+    else:
+        # Standard validation for other badges
+        if not data.get("image_url"):
+            warnings.append("Missing image URL")
 
-    if not data.get("shop_url"):
-        warnings.append("Missing shop URL")
+        if not data.get("pdf_url"):
+            warnings.append("Missing PDF URL")
+
+        if not data.get("shop_url"):
+            warnings.append("Missing shop URL")
 
     return errors, warnings
 

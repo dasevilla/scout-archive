@@ -1,6 +1,6 @@
 # Let’s Camp Wolf Wolf Adventure
 
-![Let’s Camp Wolf Wolf adventure belt loop](images/let’s-camp-wolf.jpg)
+![Let’s Camp Wolf Wolf adventure belt loop](images/lets-camp-wolf.jpg)
 
 - **Adventure name:** Let’s Camp Wolf
 - **Rank:** Wolf

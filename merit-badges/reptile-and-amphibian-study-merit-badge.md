@@ -43,7 +43,7 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
 ## Resources
 
 - [Reptile and Amphibian Study merit badge page](https://www.scouting.org/merit-badges/reptile-and-amphibian-study/)
-- [Reptile and Amphibian Study merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Reptile%20Amphibian_2023.pdf) ([local copy](files/reptile-and-amphibian-study-merit-badge.pdf))
+- [Reptile and Amphibian Study merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Reptile%20Amphibian.pdf) ([local copy](files/reptile-and-amphibian-study-merit-badge.pdf))
 - [Reptile and Amphibian Study merit badge pamphlet](https://www.scoutshop.org/reptile-amphibian-merit-badge-pamphlet-660198.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

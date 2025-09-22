@@ -57,7 +57,7 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
 ## Resources
 
 - [Drafting merit badge page](https://www.scouting.org/merit-badges/drafting/)
-- [Drafting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Drafting_2024.pdf) ([local copy](files/drafting-merit-badge.pdf))
+- [Drafting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Drafting.pdf) ([local copy](files/drafting-merit-badge.pdf))
 - [Drafting merit badge pamphlet](https://www.scoutshop.org/drafting-35885.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -12,7 +12,7 @@ The United States is a nation of immigrants. Every person came to America from s
 
 ## Requirements
 
-* Choose THREE groups that have different racial, cultural, national, or ethnic backgrounds, one of which comes from your own background. Use these groups to meet requirements 1, 2, and 3.
+* NOTE: Choose THREE groups that have different racial, cultural, national, or ethnic backgrounds, one of which comes from your own background. Use these groups to meet requirements 1, 2, and 3.
 * (1) Do TWO of the following, choosing a different group for each:
     * (a) Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn.
     * (b) Go to a place of worship, school, or other institution identified with one of the groups. Report on what you see and learn.
@@ -30,7 +30,7 @@ The United States is a nation of immigrants. Every person came to America from s
 ## Resources
 
 - [American Cultures merit badge page](https://www.scouting.org/merit-badges/american-cultures/)
-- [American Cultures merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Cultures_2025.pdf) ([local copy](files/american-cultures-merit-badge.pdf))
+- [American Cultures merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Cultures.pdf) ([local copy](files/american-cultures-merit-badge.pdf))
 - [American Cultures merit badge pamphlet](https://www.scoutshop.org/american-cultures-merit-badge-pamphlet-655136.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -73,7 +73,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
 ## Resources
 
 - [Stamp Collecting merit badge page](https://www.scouting.org/merit-badges/stamp-collecting/)
-- [Stamp Collecting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Stamp%20Collecting_2024.pdf) ([local copy](files/stamp-collecting-merit-badge.pdf))
+- [Stamp Collecting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Stamp%20Collecting.pdf) ([local copy](files/stamp-collecting-merit-badge.pdf))
 - [Stamp Collecting merit badge pamphlet](https://www.scoutshop.org/stamp-collecting-merit-badge-pamphlet-662439.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

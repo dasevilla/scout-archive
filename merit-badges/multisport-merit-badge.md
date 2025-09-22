@@ -77,7 +77,7 @@ Multisport is a racing competition that includes any combination of running, bik
 ## Resources
 
 - [Multisport merit badge page](https://www.scouting.org/merit-badges/multisport/)
-- [Multisport merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Multisport_2025.pdf) ([local copy](files/multisport-merit-badge.pdf))
+- [Multisport merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Multisport.pdf) ([local copy](files/multisport-merit-badge.pdf))
 - [Multisport merit badge pamphlet](https://www.scoutshop.org/multisport-merit-badge-pamphlet-664475.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

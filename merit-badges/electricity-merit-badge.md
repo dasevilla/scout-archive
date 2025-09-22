@@ -66,7 +66,7 @@ Learn why electricity plays a significant role in the economy and how energy con
 ## Resources
 
 - [Electricity merit badge page](https://www.scouting.org/merit-badges/electricity/)
-- [Electricity merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electricity_2021.pdf) ([local copy](files/electricity-merit-badge.pdf))
+- [Electricity merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electricity.pdf) ([local copy](files/electricity-merit-badge.pdf))
 - [Electricity merit badge pamphlet](https://www.scoutshop.org/electricity-merit-badge-pamphlet-656202.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

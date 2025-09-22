@@ -52,7 +52,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
 ## Resources
 
 - [Swimming merit badge page](https://www.scouting.org/merit-badges/swimming/)
-- [Swimming merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming_2024.pdf) ([local copy](files/swimming-merit-badge.pdf))
+- [Swimming merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf) ([local copy](files/swimming-merit-badge.pdf))
 - [Swimming merit badge pamphlet](https://www.scoutshop.org/swimming-merit-badge-pamphlet-662442.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

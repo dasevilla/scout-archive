@@ -56,7 +56,7 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
 ## Resources
 
 - [Small-Boat Sailing merit badge page](https://www.scouting.org/merit-badges/small-boat-sailing/)
-- [Small-Boat Sailing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Small%20Boat%20Sailing_2025.pdf) ([local copy](files/small-boat-sailing-merit-badge.pdf))
+- [Small-Boat Sailing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Small%20Boat%20Sailing.pdf) ([local copy](files/small-boat-sailing-merit-badge.pdf))
 - [Small-Boat Sailing merit badge pamphlet](https://www.scoutshop.org/bsa-small-boat-sailing-merit-badge-pamphlet-661049.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -25,7 +25,7 @@ Chemistry explores how substances react with each other, how they change, how ce
     * (c) Perform an experiment to demonstrate how rubbing alcohol affects microbial growth using baker's yeast. Discuss the results with your counselor. Resource: [Watching How Alcohol Kills Viruses and Bacteria Under a Microscope (video)](https://www.youtube.com/shorts/Jx5BgbIkXEs)
 
 
-* (3) Chemistry and Cooking. After successfully completing requirement 1, do of the following:
+* (3) Chemistry and Cooking. After successfully completing requirement 1, do EACH of the following:
     * (a) Perform a Maillard, or browning, reaction. Discuss with your counselor whether a physical or chemical change has occurred, and what happened to molecules in the food during the cooking process. Resources: [The Maillard Reaction (video)](https://youtu.be/rs1JLYXROVU) [Why Pizza Tastes So Good (video)](https://youtu.be/tOkCgAwhh9U) [Understanding the Maillard Reaction (video)](https://www.youtube.com/watch?v=5lKzZc_OO7U)
     * (b) Prepare and use red cabbage indicator to measure the pH of five common household liquids, including water. Discuss your observations with your counselor. Resources: [Why Is Red Cabbage a pH Indicator (video)](https://youtu.be/4AElaDIhMyA?si=Xy70e7RL3auxEy8F) [pH Indicator Made From Red Cabbage (video)](https://youtu.be/hPcRylO4lQM?si=tMGhB4e9QtPvN3Xx) [Red Cabbage Indicator Infographic (website)](https://www.compoundchem.com/2017/05/18/red-cabbage/)
 
@@ -51,7 +51,7 @@ Chemistry explores how substances react with each other, how they change, how ce
 ## Resources
 
 - [Chemistry merit badge page](https://www.scouting.org/merit-badges/chemistry/)
-- [Chemistry merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry_2023.pdf) ([local copy](files/chemistry-merit-badge.pdf))
+- [Chemistry merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf) ([local copy](files/chemistry-merit-badge.pdf))
 - [Chemistry merit badge pamphlet](https://www.scoutshop.org/bsa-chemistry-merit-badge-pamphlet-boy-scouts-of-america-660394.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

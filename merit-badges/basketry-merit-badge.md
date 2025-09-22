@@ -33,7 +33,7 @@ Basketry is a handy skill for a Scout. A basket can be a sturdy companion on cam
 ## Resources
 
 - [Basketry merit badge page](https://www.scouting.org/merit-badges/basketry/)
-- [Basketry merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Basketry_2023.pdf) ([local copy](files/basketry-merit-badge.pdf))
+- [Basketry merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Basketry.pdf) ([local copy](files/basketry-merit-badge.pdf))
 - [Basketry merit badge pamphlet](https://www.scoutshop.org/basketry-merit-badge-pamphlet-659873.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

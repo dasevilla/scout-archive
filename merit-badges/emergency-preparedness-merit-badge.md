@@ -96,7 +96,7 @@ Scouts are often called upon to help because they know first aid and they know a
 ## Resources
 
 - [Emergency Preparedness merit badge page](https://www.scouting.org/merit-badges/emergency-preparedness/)
-- [Emergency Preparedness merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Emergency%20Preparedness_2025.pdf) ([local copy](files/emergency-preparedness-merit-badge.pdf))
+- [Emergency Preparedness merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Emergency%20Preparedness.pdf) ([local copy](files/emergency-preparedness-merit-badge.pdf))
 - [Emergency Preparedness merit badge pamphlet](https://www.scoutshop.org/emergency-preparedness-merit-badge-pamphlet-657337.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

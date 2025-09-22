@@ -43,7 +43,7 @@ A nation is a patchwork of communities that differ from each other and may be go
 ## Resources
 
 - [Citizenship in the Community merit badge page](https://www.scouting.org/merit-badges/citizenship-in-the-community/)
-- [Citizenship in the Community merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community_2024.pdf) ([local copy](files/citizenship-in-the-community-merit-badge.pdf))
+- [Citizenship in the Community merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community.pdf) ([local copy](files/citizenship-in-the-community-merit-badge.pdf))
 - [Citizenship in the Community merit badge pamphlet](https://www.scoutshop.org/citizenship-in-the-community-merit-badge-pamphlet-662368.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

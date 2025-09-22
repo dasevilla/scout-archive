@@ -90,7 +90,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
 ## Resources
 
 - [Archery merit badge page](https://www.scouting.org/merit-badges/archery/)
-- [Archery merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archery_2025.pdf) ([local copy](files/archery-merit-badge.pdf))
+- [Archery merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archery.pdf) ([local copy](files/archery-merit-badge.pdf))
 - [Archery merit badge pamphlet](https://www.scoutshop.org/search/?q=Archery+Merit+Badge+Pamphlet)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

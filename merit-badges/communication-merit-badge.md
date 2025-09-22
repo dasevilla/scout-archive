@@ -41,7 +41,7 @@ This clear and concise definition comes from the U.S. Department of Education: â
 ## Resources
 
 - [Communication merit badge page](https://www.scouting.org/merit-badges/communication/)
-- [Communication merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Communication_2025.pdf) ([local copy](files/communication-merit-badge.pdf))
+- [Communication merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Communication.pdf) ([local copy](files/communication-merit-badge.pdf))
 - [Communication merit badge pamphlet](https://www.scoutshop.org/sbsa-communication-merit-badge-pamphlet-es-scouting-america-662532.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -87,7 +87,7 @@ The ability to use fire safely is essential to human survival. By earning this m
 ## Resources
 
 - [Fire Safety merit badge page](https://www.scouting.org/merit-badges/fire-safety/)
-- [Fire Safety merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/FireSafety_2024.pdf) ([local copy](files/fire-safety-merit-badge.pdf))
+- [Fire Safety merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/FireSafety.pdf) ([local copy](files/fire-safety-merit-badge.pdf))
 - [Fire Safety merit badge pamphlet](https://www.scoutshop.org/fire-safety-merit-badge-pamphlet-662386.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

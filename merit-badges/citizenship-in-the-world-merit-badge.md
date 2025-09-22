@@ -61,7 +61,7 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
 ## Resources
 
 - [Citizenship in the World merit badge page](https://www.scouting.org/merit-badges/citizenship-in-the-world/)
-- [Citizenship in the World merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World_2023.pdf) ([local copy](files/citizenship-in-the-world-merit-badge.pdf))
+- [Citizenship in the World merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World.pdf) ([local copy](files/citizenship-in-the-world-merit-badge.pdf))
 - [Citizenship in the World merit badge pamphlet](https://www.scoutshop.org/citizenship-in-the-world-merit-badge-pamphlet-es-660395.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

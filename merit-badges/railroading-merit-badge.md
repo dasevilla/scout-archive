@@ -2,7 +2,7 @@
 
 # Railroading Merit Badge
 
-![Railroading Merit Badge](images/railroading-2-merit-badge.jpg)
+![Railroading Merit Badge](images/railroading-merit-badge.jpg)
 
 ## Overview
 
@@ -80,8 +80,8 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
 
 ## Resources
 
-- [Railroading merit badge page](https://www.scouting.org/merit-badges/railroading-2/)
-- [Railroading merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Railroading_2023.pdf) ([local copy](files/railroading-2-merit-badge.pdf))
+- [Railroading merit badge page](https://www.scouting.org/merit-badges/railroading/)
+- [Railroading merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Railroading.pdf) ([local copy](files/railroading-merit-badge.pdf))
 - [Railroading merit badge pamphlet](https://www.scoutshop.org/railroading-merit-badge-pamphlet-660205.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

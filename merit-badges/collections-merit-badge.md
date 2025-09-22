@@ -44,7 +44,7 @@ Discover how collecting can be an educational and financially rewarding pastime 
 ## Resources
 
 - [Collections merit badge page](https://www.scouting.org/merit-badges/collections/)
-- [Collections merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Collections_2025.pdf) ([local copy](files/collections-merit-badge.pdf))
+- [Collections merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Collections.pdf) ([local copy](files/collections-merit-badge.pdf))
 - [Collections merit badge pamphlet](https://www.scoutshop.org/collections-merit-badge-pamphlet-655186.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

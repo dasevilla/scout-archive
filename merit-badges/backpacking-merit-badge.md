@@ -70,7 +70,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
 ## Resources
 
 - [Backpacking merit badge page](https://www.scouting.org/merit-badges/backpacking/)
-- [Backpacking merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Backpacking_2025.pdf) ([local copy](files/backpacking-merit-badge.pdf))
+- [Backpacking merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Backpacking.pdf) ([local copy](files/backpacking-merit-badge.pdf))
 - [Backpacking merit badge pamphlet](https://www.scoutshop.org/bsa-backpacking-merit-badge-pamphlet-661588.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

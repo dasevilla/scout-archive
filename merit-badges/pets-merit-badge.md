@@ -26,7 +26,7 @@ Pet ownership is a mixture of fun, excitement, responsibility, commitment, expen
 ## Resources
 
 - [Pets merit badge page](https://www.scouting.org/merit-badges/pets/)
-- [Pets merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pets_2024.pdf) ([local copy](files/pets-merit-badge.pdf))
+- [Pets merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pets.pdf) ([local copy](files/pets-merit-badge.pdf))
 - [Pets merit badge pamphlet](https://www.scoutshop.org/pets-merit-badge-pamphlet-662417.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

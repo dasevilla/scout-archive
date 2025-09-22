@@ -52,7 +52,7 @@ Teeth do a lot more than just peek out from under that winning smile. They have 
 ## Resources
 
 - [Dentistry merit badge page](https://www.scouting.org/merit-badges/dentistry/)
-- [Dentistry merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dentistry_2021.pdf) ([local copy](files/dentistry-merit-badge.pdf))
+- [Dentistry merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dentistry.pdf) ([local copy](files/dentistry-merit-badge.pdf))
 - [Dentistry merit badge pamphlet](https://www.scoutshop.org/dentistry-merit-badge-pamphlet-655631.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

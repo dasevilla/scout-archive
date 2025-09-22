@@ -70,7 +70,7 @@ In earning the Insect Study merit badge, Scouts will glance into the strange and
 ## Resources
 
 - [Insect Study merit badge page](https://www.scouting.org/merit-badges/insect-study/)
-- [Insect Study merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Insect%20Study_2025.pdf) ([local copy](files/insect-study-merit-badge.pdf))
+- [Insect Study merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Insect%20Study.pdf) ([local copy](files/insect-study-merit-badge.pdf))
 - [Insect Study merit badge pamphlet](https://www.scoutshop.org/bsa-insect-study-merit-badge-pamphlet-boy-scouts-of-america-660197.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

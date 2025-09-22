@@ -73,7 +73,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
 ## Resources
 
 - [Search and Rescue merit badge page](https://www.scouting.org/merit-badges/search-and-rescue/)
-- [Search and Rescue merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Search%20and%20Rescue_2023.pdf) ([local copy](files/search-and-rescue-merit-badge.pdf))
+- [Search and Rescue merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Search%20and%20Rescue.pdf) ([local copy](files/search-and-rescue-merit-badge.pdf))
 - [Search and Rescue merit badge pamphlet](https://www.scoutshop.org/search-rescue-merit-badge-pamphlet-660209.html)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

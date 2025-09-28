@@ -58,6 +58,8 @@ Participate in a service project.
 
 **Activities:**
 
+- **[10,000 for the Troops – Tiger](https://www.scouting.org/cub-scout-activities/10000-for-the-troops-tiger/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.  Please have letters mailed to the Scouting America National Service Center by November 7, 2025 .
 - **[Board Game Collection](https://www.scouting.org/cub-scout-activities/board-game-collection/)** (Indoor, energy 3, supplies 2, prep 4)
   Collect game boards for a community center.
 - **[Sock Drive](https://www.scouting.org/cub-scout-activities/sock-drive/)** (Indoor, energy 3, supplies 2, prep 4)

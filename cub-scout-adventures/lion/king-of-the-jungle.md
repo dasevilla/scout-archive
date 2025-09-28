@@ -50,6 +50,8 @@ Participate in a service project.
 
 **Activities:**
 
+- **[10,000 for the Troops – Lion](https://www.scouting.org/cub-scout-activities/10000-for-the-troops-lion/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.   Please have letters mailed to the Scouting America National Service Center by November 7, 2025 .
 - **[Lion Art Supply Drive](https://www.scouting.org/cub-scout-activities/lion-art-supply-drive/)** (Indoor, energy 3, supplies 2, prep 4)
   Conduct an art supply drive for children in a homeless shelter or transitional housing.
 - **[Lion Book Drive](https://www.scouting.org/cub-scout-activities/lion-book-drive/)** (Indoor, energy 3, supplies 2, prep 4)

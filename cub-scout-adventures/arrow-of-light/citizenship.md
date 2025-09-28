@@ -28,6 +28,8 @@ Participate in a service project for a minimum of two hours or multiple service 
 
 **Activities:**
 
+- **[10,000 for the Troops – Arrow of Light](https://www.scouting.org/cub-scout-activities/10000-for-the-troops-arrow-of-light/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.  Please have letters mailed to the Scouting America National Service Center by November 7, 2025 .
 - **[AOL Scouting for Food](https://www.scouting.org/cub-scout-activities/aol-scouting-for-food/)** (Travel, energy 3, supplies 1, prep 5)
   Participate in your Council-sponsored Scouting for Food event.
 - **[Helping Neighbors](https://www.scouting.org/cub-scout-activities/helping-neighbors/)** (Travel, energy 5, supplies 2, prep 5)

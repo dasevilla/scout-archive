@@ -58,6 +58,8 @@ Participate in a service project.
 
 **Activities:**
 
+- **[10,000 for the Troops – Bear](https://www.scouting.org/cub-scout-activities/10000-for-the-troops-bear/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.  Please have letters mailed to the Scouting America National Service Center by November 7, 2025 .
 - **[Eyeglasses Donation Drive](https://www.scouting.org/cub-scout-activities/eyeglasses-donation-drive/)** (Indoor, energy 3, supplies 3, prep 5)
   With your den, host a used eyeglasses drive to donate to an organization that recycles them for those in need.
 - **[Plant Trees](https://www.scouting.org/cub-scout-activities/plant-trees/)** (Travel, energy 4, supplies 5, prep 4)

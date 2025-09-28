@@ -48,6 +48,8 @@ Participate in a service project.
 
 **Activities:**
 
+- **[10,000 for the Troops – Webelos](https://www.scouting.org/cub-scout-activities/10000-for-the-troops-webelos/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.  Please have letters mailed to the Scouting America National Service Center by November 7, 2025 .
 - **[Diaper and Formula Drive](https://www.scouting.org/cub-scout-activities/diaper-and-formula-drive/)** (Indoor, energy 3, supplies 3, prep 5)
   With your den, host a diaper and formula drive to donate to an organization that gives them to those in need.
 - **[Happy Birthday Bag Project](https://www.scouting.org/cub-scout-activities/happy-birthday-bag-project/)** (Indoor, energy 3, supplies 3, prep 5)

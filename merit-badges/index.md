@@ -35,6 +35,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Archery](archery-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/archery/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archery.pdf)
 1. [Architecture](architecture-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/architecture/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Architecture_Landscape.pdf)
 1. [Art](art-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/art/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Art.pdf)
+1. [Artificial Intelligence](artificial-intelligence-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/artificial-intelligence/) - [PDF]()
 1. [Astronomy](astronomy-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/astronomy/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Astronomy.pdf)
 1. [Athletics](athletics-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/athletics/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Athletics.pdf)
 1. [Automotive Maintenance](automotive-maintenance-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/automotive-maintenance/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Automotive%20Maintenance.pdf)
@@ -58,6 +59,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Composite Materials](composite-materials-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/composite-materials/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Composite%20Materials.pdf)
 1. [Cooking](cooking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cooking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cooking.pdf) 🦅
 1. [Crime Prevention](crime-prevention-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/crime-prevention/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Crime%20Prevention.pdf)
+1. [Cybersecurity](cybersecurity-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cybersecurity/) - [PDF]()
 1. [Cycling](cycling-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cycling/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cycling.pdf) 🦅
 1. [Dentistry](dentistry-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/dentistry/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dentistry.pdf)
 1. [Digital Technology](digital-technology-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/digital-technology/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Digital%20Technology.pdf)
@@ -165,4 +167,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork.pdf)
 
-Generated on 2025-09-28 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2025-10-02 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

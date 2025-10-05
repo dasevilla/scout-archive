@@ -48,7 +48,6 @@ The Artificial Intelligence (AI) Merit Badge introduces Scouts to the fundamenta
     * (c) Explain the importance of prompt engineering when using AI to create better output.
     * (d) Demonstrate 3 examples of writing clear instructions for a school-related task.
     * (e) Complete the "Clear Communication Challenge" activity.
-    * (f) Teach the AI a skill or something that you know well.
 
 
 * (7) Practical Application.  Do ONE of the following:

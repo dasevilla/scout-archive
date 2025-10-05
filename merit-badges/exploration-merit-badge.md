@@ -12,7 +12,7 @@ Discover the history and importance of various kinds of exploration by earning t
 
 ## Requirements
 
-* Note: As you work on the Exploration merit badge, remember to always use the buddy system. Whether you are out in the field or meeting with your merit badge counselor, having a buddy will help ensure everyone's safety. You and your buddy can watch out for each other wherever you may be or whatever you may be doing.
+* Note: As you work on the Exploration merit badge, remember to always use the buddy system. Whether you are out in the field or meeting with your counselor, having a buddy will help ensure everyone's safety. You and your buddy can watch out for each other wherever you may be or whatever you may be doing.
 * (1) General Knowledge. Do the following:
     * (a) Define exploration and explain how it differs from adventure travel, trekking or hiking, tour-group trips, or recreational outdoor adventure trips. Resource: [What's the Difference Between Adventure and Exploration? (website)](https://medium.com/@idee-explores/whats-the-difference-between-adventure-and-exploration-eb1a4628f925)
     * (b) Explain how approaches to exploration may differ if it occurs in the ocean, in space, in a jungle, or in a science lab in a city. Resource: [What Is Exploration (video)](https://www.youtube.com/watch?v=7u2QqMSjroQ)
@@ -59,7 +59,7 @@ Discover the history and importance of various kinds of exploration by earning t
     * (c) After you return, compile a report on the results of your expedition and how you accomplished your objective(s). Include a statement of the objectives, note your findings and observations, include photos, note any discoveries, report any problems or adverse events, and have a conclusion (whether you reached your objective or not). The post-expedition report must be at least one page and no more than three; one page can be photos, graphs, or figures.
 
 
-* (9) Career Opportunities. Identify three career opportunities in exploration. Pick one and explain to your counselor how to prepare for such a career. Discuss what education and training are required, and why this profession  might interest you. Resources:  [Ocean Exploration Careers (website)](https://oceanexplorer.noaa.gov/edu/oceanage/)  [Unlocking Space Careers: Beyond Astronauts and Rocket (video)](https://youtu.be/ljlpqd1Mjjs?si=V3Yaz18BvlIVnDpQ)  [How I Became a Researcher (video)](https://youtu.be/vOhyZ8FYCmw?si=9XLnEqu1IJIin0CH)
+* (9) Career Opportunities. Identify three career opportunities in exploration. Pick one and explain to your counselor how to prepare for such a career. Discuss what education and training are required, and why this profession  might interest you. Resources:  [Ocean Exploration Careers (website)](https://oceanexplorer.noaa.gov/careers/opportunities/)  [Unlocking Space Careers: Beyond Astronauts and Rocket (video)](https://youtu.be/ljlpqd1Mjjs?si=V3Yaz18BvlIVnDpQ)  [How I Became a Researcher (video)](https://youtu.be/vOhyZ8FYCmw?si=9XLnEqu1IJIin0CH)
 
 
 ## Resources

@@ -12,7 +12,7 @@ For most of history, people have dreamed of flying, imagining how it would feel 
 
 ## Requirements
 
-* NOTE: Check out the Digital Resource Guide for the Aviation merit badge [[HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation_2024.pdf)](https://www.scouting.org/skills/merit-badges/digital-resource-guides/aviation/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey! The official merit badge pamphlets are now free and downloadable [[HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation_2024.pdf)](https://www.scouting.org/skills/merit-badges/digital-resource-guides/aviation/) or can be purchased at the [Scout Shop!](https://www.scoutshop.org/bsa-aviation-merit-badge-pamphlet-661044.html)
+* NOTE: Check out the Digital Resource Guide for the Aviation merit badge [[HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation.pdf)](https://www.scouting.org/skills/merit-badges/digital-resource-guides/aviation/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey! The official merit badge pamphlets are now free and downloadable [[HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation.pdf)](https://www.scouting.org/skills/merit-badges/digital-resource-guides/aviation/) or can be purchased at the
 * (1) Aviation Basics and Mechanics of Flight. Do the following:
     * (a) Define "aircraft." Describe three kinds of aircraft today, and their typical uses.
     * (b) Provide a brief overview of the evolution of flight, and discuss three notable times in history important to aviation.

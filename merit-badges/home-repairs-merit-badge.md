@@ -12,7 +12,7 @@ Successfully completing this badge’s requirements can lead to a lifetime of pe
 
 ## Requirements
 
-* Note: A parent, guardian or the counselor may supervise the Scout's work on any Home Repairs requirements.
+* Note: A parent, guardian, or the counselor may supervise the Scout's work on any Home Repairs requirements.
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while working on home repairs and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working on home repairs. Resources: [Avoid These 9 Worst DIY Injuries/Accidents From Common Tools! (video)](https://youtu.be/AjlWEb-xbhk?si=771ghgOjwxKPkH4K) [DIY Home Maintenance | Ladder Safety (video)](https://youtu.be/JL0hj-VAeBg?si=k6vPGJ6xmjspfCrr)
     * (b) Discuss general precautions related to home repairs. Name at least 10 safe practices that every home repairer should exercise. Resource: [10 Rules for Safety (video)](https://www.youtube.com/shorts/BVCmz9KnwWk)

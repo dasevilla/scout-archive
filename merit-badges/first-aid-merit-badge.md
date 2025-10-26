@@ -12,6 +12,7 @@ First aid—caring for injured or ill persons until they can receive professiona
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/First%20Aid.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Handling a First Aid Emergency. Do the following:
     * (a) Explain the steps necessary to assess and handle a first aid emergency, including a safety evaluation of the scene.
     * (b) Tell how you would obtain emergency medical assistance from your home and from a remote location on a wilderness camping trip.

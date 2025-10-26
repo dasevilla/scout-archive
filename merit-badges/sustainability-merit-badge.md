@@ -12,6 +12,7 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sustainability.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Describe the meaning of sustainability in your own words. Explain the importance of sustainability to society and how you can contribute to fulfilling the needs of current generations without compromising the needs of future generations. Resources:[What is Sustainability (video)](https://www.youtube.com/watch?v=zx04Kl8y4dE)  [Introduction to Sustainability (video)](https://youtu.be/k6jUaaQNY28?si=lLm_GCjG4LjRhh6Z)
 * (2) Water. Do ONE of the following and discuss with your counselor:Resources:[The Water Cycle - Weather and Climate (video)](https://youtu.be/r2dnUvP1JgM?si=59-npTckyjYd3wmJ)[The Water Cycle (video)](https://www.youtube.com/watch?v=ZzY5-NZSzVw)
     * (a) Evaluate your household water usage. If available, review water bills from the past year and evaluate the seasonal changes in water use. Identify three ways to help reduce water consumption. Resource: [How We Use Water (video)](https://www.youtube.com/watch?v=dEmYud2wGlc)
@@ -54,11 +55,11 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 
 * (8) Do the following:
     * (a) On a campout or other outdoor Scouting activity that you attend, make notes on the sustainability practices you and your fellow Scouts practice. Observe transportation, forestry, soil conservation, water resources, habitat, buildings, campsites, and sanitation. Share what you observed and learned with your counselor.Resources:[Sustainable Camping Tips (Packing & Hiking) (video)](https://www.youtube.com/watch?v=plsDrKpN5dM) [ What Does LNT Means to Scouts (video) ](https://www.youtube.com/watch?v=oTs29BZzf8U)
-    * (b) Discuss with your counselor how living by the Scout Oath, Scout Law, Leave No Trace Seven Principles and the Outdoor Code in your daily life helps promote sustainability.Resources:[Outdoor Code (video)](https://www.youtube.com/watch?v=m6ENx2yMynE) [Camping Tricks: The Scout Turn Around Rule LNT (video) ](https://www.youtube.com/watch?v=kc59VSGN-dg) [Leave No Trace - and There's a Song! (video)](https://www.youtube.com/watch?v=6_jz421duVg)
+    * (b) Discuss with your counselor how living by the Scout Oath, Scout Law, Leave No Trace Seven Principles and the Outdoor Code in your daily life helps promote sustainability.Resources:  [Camping Tricks: The Scout Turn Around Rule LNT (video)](https://www.youtube.com/watch?v=kc59VSGN-dg)  [Leave No Trace - and There's a Song! (video)](https://www.youtube.com/watch?v=6_jz421duVg%20)
     * (c) Identify 5 behavioral changes that you and your family can make to improve the sustainability of your household. Share and discuss each with your counselor. Resources:[Sustainability in Your Life (video)](https://www.youtube.com/watch?v=kZIrIQDf1nQ) [10 Ways to Take Care of the Environment (video) ](https://www.youtube.com/watch?v=X2YgM1Zw4_E)
 
 
-* (9) Learn about career opportunities in the sustainability field. Pick one and find out the education, training, and experience required. Discuss what you have learned with your counselor and explain why this career might interest you.Resources: [Career Paths in Sustainability (video)](https://www.youtube.com/watch?v=u1uQk7UVuvA)  [Green Jobs- Building for the Future (video) ](https://www.youtube.com/watch?v=EDA_oLZKITo)  [Sustainability Careers (video) ](https://www.youtube.com/watch?v=mdVG6glfYi8)
+* (9) Learn about career opportunities in the sustainability field. Pick one and find out the education, training, and experience required. Discuss what you have learned with your counselor and explain why this career might interest you.Resources:[Career Paths in Sustainability (video)](https://www.youtube.com/watch?v=u1uQk7UVuvA)  [Green Jobs- Building for the Future (video) ](https://www.youtube.com/watch?v=EDA_oLZKITo)  [Sustainability Careers (video) ](https://www.youtube.com/watch?v=mdVG6glfYi8)
 
 
 ## Resources

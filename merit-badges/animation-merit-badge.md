@@ -12,6 +12,7 @@ In Animation merit badge you’ll learn how to create animations, the ways in wh
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Animation.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) General Knowledge. Do the following:
     * (a) In your own words, describe to your counselor what animation is. Resource: [What Is Animation? (video)](https://youtu.be/frP_5YQ0GfY?si=W1Bd6rnb4ksWo5p7)
     * (b) Discuss with your counselor a brief history of animation. Resources: [A Brief History of Animation (video)](https://youtu.be/5Y6eInX7H-s?si=elo9NM-TCqmqnQpb) [Discover Japan's First Anime: Hidden History! (video)](https://youtu.be/mQlAHrQ2-h8?si=9YNDKARTlRJ5omrg)

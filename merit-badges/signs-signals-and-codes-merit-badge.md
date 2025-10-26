@@ -12,6 +12,7 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Signs%20Signals%20Codes.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Discuss with your counselor the importance of signs, signals, and codes, and why people need these different methods of communication. Briefly discuss the history and development of signs, signals, and codes.
 * (2) Explain the importance of signaling in emergency communications. Discuss with your counselor the types of emergency or distress signals one might use to attract airborne search-and-rescue personnel if lost in the outdoors or trying to summon assistance during a disaster. Illustrate these signaling examples by the use of photos or drawings.
 * (3) Do the following:

@@ -13,6 +13,7 @@ Discover the history and importance of various kinds of exploration by earning t
 ## Requirements
 
 * Note: As you work on the Exploration merit badge, remember to always use the buddy system. Whether you are out in the field or meeting with your counselor, having a buddy will help ensure everyone's safety. You and your buddy can watch out for each other wherever you may be or whatever you may be doing.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Exploration.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) General Knowledge. Do the following:
     * (a) Define exploration and explain how it differs from adventure travel, trekking or hiking, tour-group trips, or recreational outdoor adventure trips. Resource: [What's the Difference Between Adventure and Exploration? (website)](https://medium.com/@idee-explores/whats-the-difference-between-adventure-and-exploration-eb1a4628f925)
     * (b) Explain how approaches to exploration may differ if it occurs in the ocean, in space, in a jungle, or in a science lab in a city. Resource: [What Is Exploration (video)](https://www.youtube.com/watch?v=7u2QqMSjroQ)
@@ -55,7 +56,7 @@ Discover the history and importance of various kinds of exploration by earning t
 
 * (8) Go on an Expedition. Complete the following:
     * (a) With your parent or guardian's permission and under the supervision of your counselor or a counselor-approved qualified person, use the planning steps you learned in requirement 6 and the preparations you completed in requirement 7 to personally undertake an actual expedition to an area you have not previously explored.
-    * (b) Discuss with your counselor what is outdoor ethics and its role in exploration and enjoying the outdoors responsibly. Resources: [Leave No Trace Basics (video)](https://www.youtube.com/watch?v=p_Hy1I7AG4c) [Leave No Trace Outdoor Ethics (video)](https://www.youtube.com/watch?v=jXO1uY0MvmQ)
+    * (b) Discuss with your counselor what is outdoor ethics and its role in exploration and enjoying the outdoors responsibly. Resources: [Leave No Trace Basics (video)](https://vimeo.com/1115216743/63b20c0b33?share=copy) [Leave No Trace Outdoor Ethics (video)](https://www.youtube.com/watch?v=jXO1uY0MvmQ)
     * (c) After you return, compile a report on the results of your expedition and how you accomplished your objective(s). Include a statement of the objectives, note your findings and observations, include photos, note any discoveries, report any problems or adverse events, and have a conclusion (whether you reached your objective or not). The post-expedition report must be at least one page and no more than three; one page can be photos, graphs, or figures.
 
 

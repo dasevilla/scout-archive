@@ -12,6 +12,7 @@ One thing is for sure about journalism: It is never boring. For a reporter, almo
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Journalism.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain what freedom of the press is and how the First Amendment  guarantees that you can voice your opinion. In your discussion, tell how  to distinguish between fact and opinion, and explain the terms libel,  slander, defamation, fair comment and criticism, public figure, privacy,  and malice. Discuss how these matters relate to ethics in journalism.
 * (2) Do ONE of the following:
     * (a) Newspaper, magazine, and online journalism (with your parent or guardian's permission).

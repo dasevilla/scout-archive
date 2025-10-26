@@ -12,6 +12,7 @@ This merit badge introduces Scouts to sculpture, an art form that allows an arti
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sculpture.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain to your counselor the precautions that must be followed for the safe use and operation of a sculptor's tools, equipment, and other materials. Resources:  [Working Safely With Clay & DIY Modeling Tools (video)](https://youtu.be/-fX0YeZnEME?si=suWmdxmEVZaWz3L2)  [The Essential Rules of Clay Safety: What You Need to Know (website)](https://artabys.com/the-essential-rules-of-clay-safety-what-you-need-to-know/)
 * (2) Do TWO of the following:
     * (a) Model in clay a life-size human head. Then sculpt in modeling clay, carve in wood or plaster, or use 3D modeling software to make a small-scale model of an animal or person. Explain to your counselor the method and tools you used to sculpt the figure. Resources: [Sculpting a Head in Clay (video)](https://youtu.be/6dnyYu4Ff7U?si=j9qg_lNcXGVH7HnQ) [Portrait Sculpting in Clay (video)](https://youtu.be/G-Drvb5WTM0?si=PbFCpiwrwnoTyGOl) [Clay Sculpting Tools (video)](https://youtu.be/IyBRSsVQOTY?si=w4VRR1chFY0pE7ns)

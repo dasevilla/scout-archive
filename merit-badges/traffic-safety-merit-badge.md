@@ -12,6 +12,7 @@ Staying safe in traffic wherever you live is getting more difficult all the time
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Traffic%20Safety.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Describe the top 10 mistakes new drivers frequently make. Name the two items you are required by law to carry with you whenever you operate a motor vehicle.
     * (b) Describe how alcohol and other drugs affect the human body and why a person should never drink and drive, or drive while under the influence of any mind-altering substances, including prescription drugs, cold medications, and illicit drugs. For the state where you live, find out what is. the legal blood alcohol concentration and the consequences for driving while intoxicated or driving under the influence. Find out what the open-container law is in your state.
@@ -33,7 +34,7 @@ Staying safe in traffic wherever you live is getting more difficult all the time
 
 * (4) Do the following:
     * (a) In a location away from traffic hazards, measure with a tape measure—not in a car—and mark off with stakes the distance that a car will travel during the time needed for decision and reaction, and the braking distances necessary to stop a car traveling 30, 50, and 70 miles per hour on dry, level pavement. Discuss how environmental factors such as bad weather and road conditions will affect the distance.
-    * (b) As a driver, describe the difference in nighttime visibility between a properly lit bicycle and rider (or a pedestrian) wearing reflective material and a bicycle and rider with no lights (or a pedestrian) dressed in dark clothing, without reflective material.
+    * (b) As a driver, describe the difference in nighttime visibility between a properly lit bicycle and rider (or a pedestrian) wearing reflective material and a bicycle and rider with no lights (or a pedestrian) dressed in dark clothing, without reflective material. Resource: [Bicycle Rules of the Road (video)](https://youtu.be/TAwv_BPBAnc)
     * (c) Explain how color and shape are used to help road users recognize and understand the information presented on traffic and roadway signs. Explain the purpose of different types of signs, signals, and pavement markings.
     * (d) Describe at least three examples of traffic laws that apply to drivers of motor vehicles and that bicyclists must also obey.
 

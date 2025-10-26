@@ -12,6 +12,7 @@ By earning the Entrepreneurship merit badge, Scouts will learn about identifying
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Entrepreneurship.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) In your own words, define entrepreneurship. Explain to your counselor how entrepreneurs impact the U.S. economy.
 * (2) Explain to your counselor why having good skills in the following areas are important for an entrepreneur: communication, planning, organization, problem solving, decision making, basic math, adaptability, technical and social skills, teamwork, and leadership.
 * (3) Identify and interview an individual who has started a business. Learn about this person's educational background, early work experiences, where the idea for the business came from, and what was involved in starting the business. Find out how the entrepreneur raised the capital (money) to start the business, examples of successes and challenges faced, and how the business is currently doing (if applicable). Discuss with your counselor what you have learned.

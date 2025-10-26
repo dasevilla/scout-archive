@@ -12,6 +12,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archery.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain what a projectile is, and why any device that shoots a projectile at high speed must be handled with care and respect, and used only in approved locations.
     * (b) Explain the five range safety rules.

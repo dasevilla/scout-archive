@@ -12,6 +12,7 @@ Knowing about safety helps Scouts to make the right choices and to take the best
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Safety.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain what safety is and what it means to be safe. Then prepare a notebook to include:
     * (a) Newspaper, internet (with parent or guardian's permission), or other articles, facts, and statistics showing common types and causes of injuries in the home and in the workplace, and how these injuries could be prevented
     * (b) Newspaper, internet (with parent or guardian's permission), or other articles, facts, and statistics showing common types of crime and ways to avoid being a crime victim

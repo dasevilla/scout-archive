@@ -12,7 +12,8 @@ Discover how collecting can be an educational and financially rewarding pastime 
 
 ## Requirements
 
-* Note: Stamp and coin collecting are excluded from eligibility for this merit badge.
+* NOTE Stamp and coin collecting are excluded from eligibility for this merit badge.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Collections.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Prepare a short written report or outline for your counselor, giving a detailed description of your collection, including a short history, why you enjoy your collection, and what you have learned from collecting. Be sure to include why you chose that particular type of collection/collecting method.
 * (2) Explain the growth and development of your collection.
 * (3) Demonstrate your knowledge of preserving and displaying your collection.

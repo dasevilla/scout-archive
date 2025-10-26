@@ -12,13 +12,14 @@ Saving, producing, and using energy wisely will be critical to America’s futur
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Energy.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) With your parent or guardian's permission, use the internet to find a blog, podcast, website, or an article on the use or conservation of energy. Discuss with your counselor what details in the article were interesting to you, the questions it raises, and what ideas it addresses that you do not understand.
     * (b) After you have completed requirements 2 through 8, revisit your source for requirement 1(a). Explain to your counselor what you have learned in completing the requirements that helps you better understand the article.
 
 
 * (2) Show you understand energy forms and conversions by doing the following:
-    * (a) Explain how THREE of the following devices use energy, and explain their energy conversions: toaster, greenhouse, lightbulb, bow drill, cell phone, nuclear reactor, sauna, electric vehicles.
+    * (a) Explain how THREE of the following devices use energy, and explain their energy conversions: toaster, greenhouse, lightbulb, bow drill, cell phone, nuclear reactor, sauna, or electric vehicles.
     * (b) Construct a system that makes at least two energy conversions and explain this to your counselor.
 
 

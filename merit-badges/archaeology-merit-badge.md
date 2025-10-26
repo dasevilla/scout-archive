@@ -12,6 +12,7 @@ Understand how cultures evolve and investigate the past using clues our ancestor
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archaeology.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Tell what archaeology is and explain to your counselor how it differs or relates to other fields of study such as anthropology, geology, paleontology, and history. Explain how archaeology is different than artifact collecting or treasure hunting.
 * (2) Describe the following steps of the archaeological process: site location, development of background research and a research design, site survey and fieldwork, artifact identification and examination, interpretation, preservation, and information sharing.
 * (3) Describe at least two ways in which archaeologists determine the age of sites, structures, or artifacts. Explain what absolute dating and relative dating are.

@@ -12,6 +12,7 @@ Learn how animal diversity impacts the planet and the longevity of communities a
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fish%20and%20Wildlife.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Describe the meaning and purposes of fish and wildlife conservation and management.
 * (2) List and discuss at least three major problems that continue to threaten your state's fish and wildlife resources.
 * (3) Describe some ways in which everyone can help with fish and wildlife conservation.

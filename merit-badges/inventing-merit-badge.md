@@ -12,6 +12,7 @@ Inventing involves finding technological solutions to real-world problems. Inven
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Inventing.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) In your own words, define inventing. Then do the following:
     * (a) Explain to your counselor the role of inventors and their inventions in the economic development of the United States.
     * (b) List three inventions and state how they have helped humankind.

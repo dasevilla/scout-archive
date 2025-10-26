@@ -12,6 +12,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Stamp%20Collecting.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following: Resource:  [Stamp Collecting (video)](https://youtu.be/Bu6vw5qlO3M?si=2ly00w2ou8AHx4LO)
     * (a) Discuss how you can better understand people, places, institutions, history, and geography as a result of collecting stamps. Resources: [Stamp Collecting Is for Old People (Just Kidding) (video)](https://youtu.be/mp07V-_-lc0?si=qw61WgakvzvCy7sz) [Stamps: A World of Fun (video)](https://youtu.be/FRMsUTbLK4U?si=vFyVadEM1Zd9Ww75)
     * (b) Briefly describe some aspects of the history, growth, and development of the United States postal system. Tell how it is different from postal systems in other countries. Resources: [A Chaotic History of the US Postal Service | Illustrated U.S. History (video)](https://youtu.be/aZ9j5t25CaU?si=b2xn0FgNumDoiiNU) [History of US Mail - From the Beginning (video)](https://youtu.be/U8ioOqupzmo?si=UlX_1ztm7NDn3yyL)

@@ -13,6 +13,7 @@ The United States is a nation of immigrants. Every person came to America from s
 ## Requirements
 
 * NOTE: Choose THREE groups that have different racial, cultural, national, or ethnic backgrounds, one of which comes from your own background. Use these groups to meet requirements 1, 2, and 3.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Cultures.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do TWO of the following, choosing a different group for each:
     * (a) Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn.
     * (b) Go to a place of worship, school, or other institution identified with one of the groups. Report on what you see and learn.

@@ -12,6 +12,7 @@ The history of music is rich and exciting. Through the ages, new music has been 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Sing or play a simple song or hymn chosen by your counselor, using good technique, phrasing, tone, rhythm, and dynamics. Read all the signs and terms of the score. Resources:  [How to Read Music (video)](https://youtu.be/ZN41d7Txcq0?si=G50I4GaI0d62XHew)  [Violin Demonstration  (video)](https://youtu.be/XbppMuZF3_8?si=c9BYdNXj6_VO4WEY)  [Instrument Demonstration for Beginning Band (video)](https://youtu.be/CCTeSjpDsIs?si=NZkosauuFJR21A14)
 * (2) Name the five general groups of musical instruments. Create an illustration that shows how tones are generated and how instruments produce sound.Resources:  [Classification of Musical Instruments (video)](https://youtu.be/WencyslK76o)  [Orchestral Instruments and How They Sound (video)](https://youtu.be/Sr-l2m8twX0?si=6Fj8mHWGIRqhrhwi)
 * (3) Do TWO of the following:

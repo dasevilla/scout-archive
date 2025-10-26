@@ -12,6 +12,7 @@ In working through the Forestry merit badge requirements, Scouts will explore th
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Forestry.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Prepare a field notebook, make a collection, and identify 15 species of trees, wild shrubs, or vines in a local forested area. Write a description in which you identify and discuss the following:
     * (a) The characteristics of leaf, twig, cone, or fruiting bodies
     * (b) The habitat in which these trees, shrubs, or vines are found.

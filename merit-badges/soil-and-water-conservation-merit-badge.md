@@ -12,6 +12,7 @@ Conservation isn’t just the responsibility of soil and plant scientists, hydro
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Soil%20and%20Water%20Conservation.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Tell what soil is. Tell how it is formed.
     * (b) Describe three kinds of soil. Tell how they are different.

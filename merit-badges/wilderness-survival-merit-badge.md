@@ -12,6 +12,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wilderness%20Survival.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain to your counselor the hazards you are most likely to encounter while participating in wilderness survival activities, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.
     * (b) Show that you know first aid for and how to prevent injuries or illnesses likely to occur in backcountry settings, including hypothermia, heat reactions, frostbite, dehydration, blisters, insect stings, tick bites, and snakebites.

@@ -12,6 +12,7 @@ The field of public health deals with maintaining and monitoring the health of c
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Health.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted. Then,  pick any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, lead poisoning. For all  10 diseases, explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread  of infection, and available treatments.
 * (2) Do the following:
     * (a) Explain the meaning of immunization.

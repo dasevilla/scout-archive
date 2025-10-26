@@ -9,6 +9,13 @@
   "image_filename": "space-exploration-merit-badge.jpg",
   "requirements": [
     {
+      "id": null,
+      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Space%20Exploration.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
+      "internal_parent_id": null,
+      "internal_id": "14169",
+      "requirements": []
+    },
+    {
       "id": "1",
       "text": "Tell the purpose of space exploration and include the following:",
       "internal_parent_id": null,
@@ -16,7 +23,7 @@
       "requirements": [
         {
           "id": "a",
-          "text": "Historical reasons",
+          "text": "Historical reasons Resources: [The History of Space Exploration (video)](https://youtu.be/TL__l9gC1Ss?si=BXoLcRCoNZXPEALe) [The History of Space Exploration: A Timeline (video)](https://youtu.be/3JuKR7jf46o) [The History of the Space Race (website)](https://education.nationalgeographic.org/resource/history-space-exploration/)",
           "internal_parent_id": "9097",
           "internal_id": "9098",
           "requirements": []
@@ -30,14 +37,14 @@
         },
         {
           "id": "c",
-          "text": "Benefits related to Earth resources, technology, and new products",
+          "text": "Benefits related to Earth resources, technology, and new products Resources: [How Space Benefits Earth (video)](https://youtube.com/shorts/i3D4pCq_lyg?si=S_3HJWJ9TrvcHvry) [Space Exploration, Is It Really Worth It? Yes. (video)](https://youtube.com/shorts/jPuqA136SfA?si=EgcAXSXcMBJmVLw4) [10 Surprising Ways Space Exploration Benefits Life on Earth (video)](https://youtube.com/shorts/_2uSv1C-FDw?si=JCFVs8xAXqeJvozN)",
           "internal_parent_id": "9097",
           "internal_id": "9100",
           "requirements": []
         },
         {
           "id": "d",
-          "text": "International relations and cooperation.",
+          "text": "International relations and cooperation. Resource: [What Role Does International Cooperation Play in Space Exploration? (video)](https://youtu.be/TS27Br2-XgY?si=W1CeXgcrzOZ-Trgm)",
           "internal_parent_id": "9097",
           "internal_id": "9101",
           "requirements": []
@@ -46,14 +53,14 @@
     },
     {
       "id": "2",
-      "text": "Design a collector's card, with a picture on the front and information on the back, about your favorite space pioneer. Share your card and discuss four other space pioneers with your counselor.",
+      "text": "Design a collector's card, with a picture on the front and information on the back, about your favorite space pioneer. Share your card and discuss four other space pioneers with your counselor. Resources: [Here's How I Make Custom Trading Cards (video)](https://youtu.be/PkCCLH_f1us?si=fw5ZdX03GwDyn_eo)  [How to Make Trading Cards By Hand (video)](https://youtu.be/vYbeo4iS1Pc)",
       "internal_parent_id": null,
       "internal_id": "9102",
       "requirements": []
     },
     {
       "id": "3",
-      "text": "Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: Safety Note: Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" chapter of the Space Exploration merit badge pamphlet.   Alternative requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.Identify and explain the following rocket parts:",
+      "text": "Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: Safety Note: Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" chapter of the Space Exploration merit badge pamphlet.   Alternative requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.Identify and explain the following rocket parts: Resources: [NASA \"Rocket Parts\" - Beginner's Guide (website)](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bgmr.html)  [National Association of Rocketry Educational Video Series on Model Rocketry (website)](https://www.nar.org/content.aspx?page_id=22&club_id=114127&module_id=669619)",
       "internal_parent_id": null,
       "internal_id": "9070",
       "requirements": [
@@ -124,27 +131,27 @@
     },
     {
       "id": "4",
-      "text": "Discuss and demonstrate each of the following:",
+      "text": "Discuss and demonstrate each of the following: Resource: [NASA \"Basics of Space Flight\" (website)](https://science.nasa.gov/learn/basics-of-space-flight/)",
       "internal_parent_id": null,
       "internal_id": "9080",
       "requirements": [
         {
           "id": "a",
-          "text": "The law of action-reaction",
+          "text": "The law of action-reaction Resource: [Newton's Law of Motion (website)](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/)",
           "internal_parent_id": "9080",
           "internal_id": "9081",
           "requirements": []
         },
         {
           "id": "b",
-          "text": "How rocket engines work",
+          "text": "How rocket engines work Resources: [How Rocket Engines Work (website)](https://science.howstuffworks.com/rocket.htm) [Rocket Engines Explained (website)](https://youtu.be/gz8L1i0ODeA) [How Do We Launch Things Into Space (website)](https://plus.nasa.gov/video/how-do-we-launch-things-into-space/)",
           "internal_parent_id": "9080",
           "internal_id": "9082",
           "requirements": []
         },
         {
           "id": "c",
-          "text": "How satellites stay in orbit",
+          "text": "How satellites stay in orbit Resources: [How Do Satellites Get & Stay in Orbit? (video)](https://youtu.be/IC1JQu9xGHQ?si=qcvDJm44-la-3nsI) [How Satellites Orbit (video)](https://youtu.be/5PCY0rTllPg?si=gNhEm9nAfygodC3Q)",
           "internal_parent_id": "9080",
           "internal_id": "9083",
           "requirements": []
@@ -166,7 +173,7 @@
       "requirements": [
         {
           "id": "a",
-          "text": "Discuss with your counselor a robotic space exploration mission and a historic crewed mission. Tell about each mission's major discoveries, its importance, and what was learned from it about the planets, moons, or regions of space explored.",
+          "text": "Discuss with your counselor a robotic space exploration mission and a historic crewed mission. Tell about each mission's major discoveries, its importance, and what was learned from it about the planets, moons, or regions of space explored. Resources: [Voyager (video)](https://youtu.be/uJpJ79AxrzI?list=PLTiv_XWHnOZq5bv1w9Db2uNJVFiVCkWW5) [Putting Man on The Moon in 11 Years | The Apollo Program (video)](https://youtu.be/jUW_1XlrWmg) [NASA SpaceX Crew Dragon Launch (video)](https://youtu.be/1gmvUPTdoP4) [Mars Perseverance Rover (video)](https://www.youtube.com/watch?v=0-oQRSViZQE&pp=ygUUcGVyc2VydmVyYW5jZSByb3ZlciA%3D)",
           "internal_parent_id": "9085",
           "internal_id": "9086",
           "requirements": []
@@ -195,14 +202,14 @@
       "requirements": [
         {
           "id": "a",
-          "text": "Space shuttle or any other crewed orbital vehicle, whether government-owned (U.S. or foreign) or commercial",
+          "text": "Space shuttle or any other crewed orbital vehicle, whether government-owned (U.S. or foreign) or commercial Resources: [First Space Shuttle (video)](https://youtu.be/9zu6gReRV98) [How the Space Shuttle Worked (video)](https://www.youtube.com/watch?v=w4FCkbPykdQ) [NASA SpaceX Crew Dragon Launch (video)](https://youtu.be/1gmvUPTdoP4) [Soyuz (video)](https://youtu.be/_v7YgDum2Sg)",
           "internal_parent_id": "9089",
           "internal_id": "9090",
           "requirements": []
         },
         {
           "id": "b",
-          "text": "International Space Station.",
+          "text": "International Space Station. Resources: [What is the International Space Station? (website)](https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-international-space-station-grades-5-8/) [How to Spot the International Space Station (ISS) (website)](https://www.nasa.gov/spot-the-station/)",
           "internal_parent_id": "9089",
           "internal_id": "9091",
           "requirements": []
@@ -211,34 +218,34 @@
     },
     {
       "id": "7",
-      "text": "Design an inhabited base located within our solar system, such as Titan, asteroids, or other locations that humans might want to explore in person. Make drawings or a model of your base. In your design, consider and plan for the following:",
+      "text": "Design an inhabited base located within our solar system, such as Titan, asteroids, or other locations that humans might want to explore in person. Make drawings or a model of your base. In your design, consider and plan for the following: Resource: [How NASA Will Build a City on the Moon (video)](https://youtu.be/ATgwz_hS3Qg)",
       "internal_parent_id": null,
       "internal_id": "9092",
       "requirements": [
         {
           "id": "a",
-          "text": "Source of energy",
+          "text": "Source of energy Resource: [You Can't Take It All With You (PDF)](https://www.nasa.gov/wp-content/uploads/2023/05/you-cant-take-it-all-with-you-grades-6-12-students-tagged.pdf)",
           "internal_parent_id": "9092",
           "internal_id": "9093",
           "requirements": []
         },
         {
           "id": "b",
-          "text": "How it will be constructed",
+          "text": "How it will be constructed Resource: [How NASA Plans to Build the First Moon Base (video)](https://youtu.be/ajP0AlYxhug?si=lKaqYRoM8V4LiXSg)",
           "internal_parent_id": "9092",
           "internal_id": "9094",
           "requirements": []
         },
         {
           "id": "c",
-          "text": "Life-support system",
+          "text": "Life-support system Resource: [Robots Building a Mars Base (video)](https://youtu.be/2tr6rJrv8hs?si=dm1LYgNqLCH7smpr)",
           "internal_parent_id": "9092",
           "internal_id": "9095",
           "requirements": []
         },
         {
           "id": "d",
-          "text": "Purpose and function.",
+          "text": "Purpose and function. Resource: [How Robots Will Build on Mars (video)](https://youtu.be/ZbOg_cC1_Eo)",
           "internal_parent_id": "9092",
           "internal_id": "9096",
           "requirements": []
@@ -247,7 +254,7 @@
     },
     {
       "id": "8",
-      "text": "Discuss with your counselor two possible careers in space exploration that interest you. Find out the qualifications, education, and preparation required and discuss the major responsibilities of those positions.",
+      "text": "Discuss with your counselor two possible careers in space exploration that interest you. Find out the qualifications, education, and preparation required and discuss the major responsibilities of those positions. Resources: [Astronaut Requirements (website)](https://www.nasa.gov/humans-in-space/astronauts/astronaut-requirements/)  [So You Want to Be an Aerospace Engineer (video)](https://www.youtube.com/watch?v=uTreDAUe7w4)  [Should I become an Aerospace Engineer? (video)](https://www.youtube.com/watch?app=desktop&v=2Y2fNtYnsFQ)  [Becoming an Astrobiologist (website)](https://astrobiology.nasa.gov/resources/graphic-histories/)",
       "internal_parent_id": null,
       "internal_id": "9103",
       "requirements": []

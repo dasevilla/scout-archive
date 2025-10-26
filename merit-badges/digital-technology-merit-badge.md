@@ -12,6 +12,7 @@ Comprehend how electronic devices work and how to use them effectively with the 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Digital%20Technology.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) View the [Personal Safety Awareness "Digital Safety" video ](https://www.scouting.org/training/youth-protection/scouts-bsa/)(with your parent or guardian's permission).
 * (2) Do the following:
     * (a) Give a brief history of the changes in digital technology over time. Discuss with your counselor how digital technology in your lifetime compares with that of your parent's, grandparent's, or other adult's lifetime. Resources: [Technology Evolution - 100,000 BCE to 2020 (video)](https://youtu.be/IJM3yuIDDPQ?si=7uQQJs6mbXI7sRHF) [Past & Present Technology, Then & Now (video)](https://youtu.be/IKLVSxhkZeg?si=jzzto-HMQ-Xzl-MT) [Past and Present | Technology Then and Now (video)](https://youtu.be/DENG7Q7VRgo?si=giprDI8VZC04gldJ)

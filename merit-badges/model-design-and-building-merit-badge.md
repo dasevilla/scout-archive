@@ -12,6 +12,7 @@ Model making, the art of creating copies of objects that are either smaller or l
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Model%20Design.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Study and understand the requirements for personal safety when using modelmaker hand tools such as knives, handsaws, vices, files, hammers, screwdrivers, hand drills and drill bits, pliers, portable power tools, and when to use proper protective equipment such as goggles when grinding or drilling. Know what precautions to take when using flammable or hazardous products such as glue, epoxy, paint, and thinners. Discuss these with your counselor before you begin your modelmaking project and tell why they are important.
 * (2) Explain the uses for each of the following types of models: architectural, structural, process, mechanical, and industrial. Do research into the different types of materials that could be used in making these models.
 * (3) With your counselor's advice, select a subject from requirement 4 for your model project. Kits may not be used. Prepare the necessary plans to the  proper scale. This model should be your own original work. Tell your counselor why you selected this project.

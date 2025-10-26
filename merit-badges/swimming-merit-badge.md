@@ -12,6 +12,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain to your counselor how Scouting's Safe Swim Defense plan anticipates, helps prevent and mitigate, and provides responses to likely hazards you may encounter during swimming activities.
     * (b) Discuss the prevention and treatment of health concerns that could occur while swimming, including hypothermia, dehydration, sunburn, heat exhaustion, heatstroke, muscle cramps, hyperventilation, spinal injury, stings and bites, and cuts and scrapes.

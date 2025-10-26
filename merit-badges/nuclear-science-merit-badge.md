@@ -12,6 +12,7 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Nuclear%20Science.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain radiation and the difference between ionizing and nonionizing radiation. Resources: [Radiation & You (video)](https://youtu.be/FrVUJ2c_Rwc?si=3e61M3Jbgg9w3ToV) [IDTIMWYTIM: Radiation (video)](https://youtu.be/uJ3ea9fa6CA?si=lpSg7dn3koa5wAOV)
     * (b) Explain the ALARA principle and the measures required by law to minimize these risks. Describe what safety requirements you will need to consider while performing the requirements in this merit badge. Resource: [ The ALARA Principle (website)](https://www.cdc.gov/radiation-health/safety/alara.html)

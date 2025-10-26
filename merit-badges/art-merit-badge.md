@@ -12,6 +12,7 @@ This merit badge concentrates on two-dimensional art, specifically drawing and p
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Art.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Discuss the following with your counselor:
     * (a) What art is and what some of the different forms of art are
     * (b) The importance of art to humankind

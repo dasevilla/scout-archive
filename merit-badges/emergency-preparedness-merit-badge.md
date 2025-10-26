@@ -12,6 +12,7 @@ Scouts are often called upon to help because they know first aid and they know a
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Emergency%20Preparedness.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) First Aid Merit Badge. Earn the First Aid merit badge.
 * (2) Emergency Situations. Do the following:
     * (a) Discuss with your counselor the aspects of emergency preparedness and include in your discussion the kinds of questions that are important to ask yourself as you consider each of these:  - Prevention - Protection - Mitigation - Response - Recovery

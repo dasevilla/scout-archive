@@ -7,4 +7,4 @@ An unofficial automated archive of Scouting America requirements.
 - [Merit Badges](merit-badges/)
 - [Cub Scout Adventures](cub-scout-adventures/)
 
-**Last updated:** 2025-10-19
+**Last updated:** 2025-10-26

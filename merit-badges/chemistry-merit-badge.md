@@ -12,6 +12,7 @@ Chemistry explores how substances react with each other, how they change, how ce
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following and discuss with your counselor:
     * (a) Obtain safety data sheets (SDS) for sucrose (sugar), isopropyl alcohol (rubbing alcohol), and a waterproofing spray. Compare their properties and potential hazard(s), including handling and disposal guidelines and toxicity information. Resource: [Safety Data Sheets Training (video)](https://www.youtube.com/watch?v=_yWF-w3CwmU)
     * (b) What types of personal protective equipment (PPE) are recommended for each, and why? How does the recommended PPE change with toxicity and route of exposure? Resource: [How to Dress in the Lab and the Use of PPE (video)](https://youtu.be/i1D6zpSw_6Q?si=ktvcHSrfviHvAK2z)
@@ -31,7 +32,7 @@ Chemistry explores how substances react with each other, how they change, how ce
 
 
 * (4) Chemistry and Camping. After successfully completing requirement 1, do TWO of the following:
-    * (a) Design and conduct an experiment to compare at least two different types of waterproofing. Discuss with your counselor which one you would prefer to use on your tent and which one you would prefer to use on your boots, and why. Resource: [Transforming Paper into a Waterproof Marvel (video)](https://www.youtube.com/shorts/s3fDbnfolCM)
+    * (a) Design and conduct an experiment to compare at least two different types of waterproofing. Discuss with your counselor which one you would prefer to use on your tent and which one you would prefer to use on your boots, and why. Resources: [Transforming Paper into a Waterproof Marvel (video)](https://www.youtube.com/shorts/s3fDbnfolCM) [Waterproofing Fabrics (video)](https://youtu.be/y83uXupu5tY) [Waterproofing Tent Seams (video)](https://youtu.be/UlHfbltn6hI)
     * (b) Describe the four classes of fires, and the four classes of fire extinguishers. Discuss with your counselor how sand, baking soda, and the four classes of extinguishers work to put out fires. Resources: [Four Classes of Fires (video)](https://www.youtube.com/watch?v=B8PrA_AOa6w) [Four Types of Fires (video)](https://www.youtube.com/watch?v=Epa_2mCi4lw)
     * (c) Under your counselor's supervision and/or the supervision of a knowledgeable adult approved in advance by your counselor, conduct flame tests of at least five elements using a kitchen or propane torch. Resource: [Metal Flame Test (video)](https://www.youtube.com/watch?v=7hC-KyFraCQ)
     * (d) Under your counselor's supervision and/or the supervision of a knowledgeable adult approved in advance by your counselor, synthesize nylon (may be from a kit). Resource: [Making Nylon (video)](https://www.youtube.com/watch?v=NQpTQFGKRN8)

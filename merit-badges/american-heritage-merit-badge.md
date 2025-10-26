@@ -12,6 +12,7 @@ Every Scout swears to an oath that includes duty to his country. A better unders
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Heritage.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Read the Declaration of Independence.  Pay close attention to the section that begins with "We hold these truths to be self-evident" and ends with "to provide new Guards for their future security." Rewrite that section in your own words, making it as easy to understand as possible.  Then, share your writing with your counselor and discuss the importance of the Declaration to all Americans.
 * (2) Do TWO of the following:
     * (a) Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage.

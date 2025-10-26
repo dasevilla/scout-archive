@@ -12,7 +12,8 @@ Golf is unique because the players police themselves. Other sports depend upon r
 
 ## Requirements
 
-* (1) Discuss safety on the golf course. Show that you know first aid for injuries or illnesses that could occur while golfing, including lightning, heat reactions, sunburn, dehydration, blisters, animal or bug bites, poison ivy exposure, sprains, strains.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Golf.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
+* (1) Discuss safety on the golf course. Show that you know first aid for injuries or illnesses that could occur while golfing, including lightning, heat reactions, sunburn, dehydration, blisters, animal or bug bites, poison ivy exposure, sprains, and strains.
 * (2) Complete ONE of the following options:
     * Option 1—Traditional Golf
         * (A) Study the USGA "Rules of Golf" now in use.

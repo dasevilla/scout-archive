@@ -13,9 +13,10 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 ## Requirements
 
 * Note: Scouts should obey all local fishing regulations and property laws.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fishing.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while participating in fishing activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
-    * (b) Discuss the prevention of and treatment for the following health concerns that could occur while fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, sunburn.
+    * (b) Discuss the prevention of and treatment for the following health concerns that could occur while fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, and sunburn.
     * (c) Explain how to remove a barbed hook that is lodged in someone's arm.
     * (d) Name and explain five safety practices you should always follow while fishing.
 

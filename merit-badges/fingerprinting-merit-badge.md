@@ -12,6 +12,7 @@ In earning the Fingerprinting merit badge, Scouts will learn about and use an im
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fingerprinting.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Give a short history of fingerprinting. Tell the difference between civil and criminal identification. Resources:  [The Origins of Fingerprinting and How They Became a Staple in Modern Forensic Science (video)](https://www.youtube.com/watch?v=fMLGROOcvWQ)  [How Did Detectives Solve the Case of the Bloody Fingerprints? (video)](https://youtu.be/__nlupHISg0?si=YZ6NXUgVMs4VwfFJ)  [History of Fingerprinting (video)](https://www.youtube.com/watch?v=wg-lgiPV4rw)
 * (2) Do the following:
     * (a) Explain the difference between the automated fingerprint identification systems (AFIS) now used by law enforcement agencies and the biometric fingerprint systems used to control access to computers and places like buildings and airports. Resource: [AFIS - Automated Fingerprint Identification System (video)](https://www.youtube.com/watch?v=VRdGtGYQ7WE)

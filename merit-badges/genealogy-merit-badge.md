@@ -12,6 +12,7 @@ Exploring your roots—where your family name came from, why your family lives w
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Genealogy.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain to your counselor what the words genealogy, ancestor, and descendant mean. Resource: [What Is Genealogy? Terminology (video)](https://www.youtube.com/watch?v=7V-nmASSPRk)
     * (b) Explain what a family tree is and what information would be kept there. Resource: [The Family Tree (video)](https://www.youtube.com/watch?v=PM79Epw_cp8)

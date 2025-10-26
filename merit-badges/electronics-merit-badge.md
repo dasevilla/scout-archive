@@ -12,6 +12,7 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electronics.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Describe the safety precautions you must exercise when using, building, altering, or repairing electronic devices.
 * (2) Do the following:
     * (a) Draw a simple schematic diagram. It must show resistors, capacitors, and transistors or integrated circuits. Use the correct symbols. Label all parts.

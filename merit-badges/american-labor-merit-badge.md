@@ -12,6 +12,7 @@ The labor movement in America seeks to ensure that the civil rights of laborers 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Labor.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Using resources available to you, learn about working people and work-related concerns. List and briefly describe or give examples of at least EIGHT concerns of American workers. These may include, but are not limited to, working conditions, workplace safety, hours, wages, seniority, job security, equal-opportunity employment and discrimination, guest workers, automation and technologies that replace workers, unemployment, layoffs, outsourcing, and employee benefits such as health care, child care, profit sharing, continuing education, and retirement benefits.
 * (2) With your counselor's and parent or guardian's approval and permission, visit the office or attend a meeting of a local union, a central labor council, or an employee organization, or contact one of these organizations via the internet. Then do the following:
     * (a) Find out what the organization does.

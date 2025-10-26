@@ -12,6 +12,7 @@ Trucking is a large and important industry. No matter where you live, a day is u
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Truck%20Transportation.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) List the major truck lines serving your town.
 * (2) Do the following:
     * (a) Describe the role of truck transportation within commerce (the movement of goods, funds, and information).

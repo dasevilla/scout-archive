@@ -12,6 +12,7 @@ Build your own working robot with the Robotics Merit Badge. Learn about the robo
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Robotics.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Safety. Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics. Resource: [Hazards and Robot Safety (video)](https://youtu.be/7v3cylLL9hw?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)
     * (b) Discuss first aid and prevention for the types of injuries that could occur while participating in robotics activities and competitions, including cuts, eye injuries, and burns (chemical or heat). Resource: [How to Treat Cuts and Scrapes (video)](https://www.youtube.com/watch?v=0jp5FgLmKtk&list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce&index=1)
@@ -24,7 +25,7 @@ Build your own working robot with the Robotics Merit Badge. Learn about the robo
 
 
 * (3) General Knowledge. Discuss with your counselor three of the five major fields of robotics (human-robot interface, mobility, manipulation, programming, sensors) and their importance to robotics development. Discuss either the three fields as they relate to a single robot system OR talk about each field in general. Find pictures or at least one video to aid your discussion. Resource:  [5 Sub-Disciplines of Robotics (video)](https://youtu.be/exEBkd1Gn0I)
-* (4) Design, Build, Program, Test. Do the following: Resources:  [Hints On How to Get the Robotics Merit Badge (video)](https://youtu.be/weBH_PL3_Bk)  [What Qualifies as a Robot for Robotics Merit Badge? (video)](https://youtu.be/6dYq9bBSaWc?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)  [Methods Robots Use to Move (video)](https://youtu.be/T0JeYyU7R-c?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)  [Robotics: Degrees of Freedom (video)](https://youtu.be/55O-DGeoFic?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)
+* (4) Design, Build, Program, Test. Do the following: Resources: [What Qualifies as a Robot for Robotics Merit Badge? (video)](https://youtu.be/6dYq9bBSaWc?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)  [Methods Robots Use to Move (video)](https://youtu.be/T0JeYyU7R-c?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)  [Robotics: Degrees of Freedom (video)](https://youtu.be/55O-DGeoFic?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)
     * (a) With your counselor's approval, choose a task for the robot or robotic subsystem that you plan to build. Include sensor feedback and programming in the task. Document this information in your robot engineering notebook.
     * (b) Design your robot. The robot design should use sensors and programming and have at least 2 degrees of freedom. Document the design in your robot engineering notebook using drawings and a written description.
     * (c) Build a robot or robotic subsystem of your original design to accomplish the task you chose for requirement 4(a).

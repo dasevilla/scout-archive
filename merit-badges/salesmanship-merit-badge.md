@@ -12,6 +12,7 @@ By studying salesmanship, Scouts can learn self-confidence, motivation, friendli
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Salesmanship.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain the responsibilities of a salesperson and how a salesperson serves customers and helps stimulate the economy.
     * (b) Explain the differences between a business-to-business salesperson and a consumer salesperson.

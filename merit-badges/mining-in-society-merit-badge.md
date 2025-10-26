@@ -13,10 +13,11 @@ The Mining in Society merit badge covers the history of mining, explores the sta
 ## Requirements
 
 * Note: Visiting a mine site, a mining equipment manufacturer, or an equipment supplier requires advance planning. These sites can be potentially dangerous. You will need permission from your parent or guardian and counselor, and the manager of the mine site, or equipment manufacturer or supplier. While there, you will be required to follow closely the site manager's instructions and comply with all safety rules and procedures, including wearing appropriate clothing, footwear, and personal safety equipment.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mining%20in%20Society.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Select 10 different minerals. For each one, name a product for which the mineral is used.
     * (b) Explain the role mining has in producing and processing things that are grown.
-    * (c) From the list of minerals you chose for requirement 1(a), determine the countries where those minerals can be found, and discuss what you learned from your counselor.
+    * (c) From the list of minerals you chose for requirement 1(a), determine the countries where those minerals can be found, and discuss what you learned with your counselor.
 
 
 * (2) Obtain a map of your state or region showing major cities, highways, rivers, and railroads. Mark the locations of five mining enterprises. Find out what resource is processed at each location, and identify the mine as a surface or underground operation. Discuss with your counselor how the resources mined at these locations are used.

@@ -12,6 +12,7 @@ The field of veterinary medicine in the 21st century is one of the most exciting
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Veterinary%20Medicine.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Discuss with your counselor the roles a veterinarian plays in the following:
     * (a) Companion or small animal medicine, and equine medicine
     * (b) Food animal or large animal medicine

@@ -12,6 +12,7 @@ Radio is a way to send information, or communications, from one place to another
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Radio.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain what radio is. Then discuss the following:
     * (a) The differences between broadcast radio and hobby radio
     * (b) The differences between broadcasting and two-way communications

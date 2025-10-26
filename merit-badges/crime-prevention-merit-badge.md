@@ -12,6 +12,7 @@ Preventing crime, which can be as simple as reducing the opportuntities for crim
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Crime%20Prevention.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Laws and Society. Discuss the following with your counselor:
     * (a) Why we have criminal laws.
     * (b) What are types of crimes, including property crimes, crimes against people, white collar crime, and environmental crime.

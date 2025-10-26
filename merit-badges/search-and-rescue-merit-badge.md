@@ -12,7 +12,8 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 ## Requirements
 
-* A Note About Unauthorized and Restricted Activities    The Scouting America's Guide to Safe Scouting states under "Unauthorized and Restricted Activities" that flying in aircraft as part of a search and rescue mission is an unauthorized activity for youth members. For complete information, see [Scouting America's Scouting Safely](https://www.scouting.org/health-and-safety/) web page.
+* A Note About Unauthorized and Restricted Activities   The Scouting America's Guide to Safe Scouting states under "Unauthorized and Restricted Activities" that flying in aircraft as part of a search and rescue mission is an unauthorized activity for youth members. For complete information, see [Scouting America's Scouting Safely](https://www.scouting.org/health-and-safety/) web page.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Search%20and%20Rescue.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain to your counselor the hazards you are most likely to encounter while participating in search and rescue (SAR) activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     * (b) Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in SAR activities, including: snakebites, dehydration, shock, environmental emergencies such as hypothermia or heatstroke, blisters, and ankle and knee sprains.

@@ -12,6 +12,7 @@ A nation is a patchwork of communities that differ from each other and may be go
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Discuss with your counselor what citizenship in the community means and what it takes to be a good citizen in your community. Discuss the rights, duties, and obligations of citizenship, and explain how you can demonstrate good citizenship in your community, Scouting unit, place of worship, or school.
 * (2) Do the following:
     * (a) Using an electronic mapping tool or paper map, locate and pinpoint the following services and landmarks in your community. Determine and record the distances from your home including driving time AND either walking or biking time.   - Chief government buildings such as your city hall, county courthouse, and public works/services facilities - Fire station, police station, and hospital nearest your home - Parks, playgrounds, recreation areas, and trails - Historical or other interesting points of interest.

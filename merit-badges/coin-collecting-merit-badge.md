@@ -12,6 +12,7 @@ Coin collecting is one of the oldest of all hobbies. Hoards of ancient coins fou
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Coin%20Collecting.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Understand how coins are made and where the active U.S. Mint facilities  are located.
 * (2) Explain the following terms: obverse, reverse, reeding, clad, type set, and date set.
 * (3) Describe three different ways to store a collection, and the benefits, drawbacks, and cost of each method.

@@ -12,6 +12,7 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain what citizenship in the world means to you and what you think it takes to be a good world citizen.
 * (2) Explain how one becomes a citizen in the United States, and explain the rights, duties, and obligations of U.S. citizenship. Discuss the similarities and differences between the rights, duties, and obligations of U.S. citizens and the citizens of two other countries.
 * (3) Do the following:

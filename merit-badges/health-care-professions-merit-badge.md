@@ -12,6 +12,7 @@ Explore the different types of the healthcare fields and professions with the He
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Health%20Care%20Professions.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Select three of the professions from Group 1 listed below  which interest you, then complete the following:
     * a Briefly describe to your counselor the roles these professionals play in the delivery of health care.
     * b Describe to your counselor the educational and licensing requirements for the professionals you selected.

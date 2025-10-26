@@ -12,13 +12,14 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while participating in camping activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Resources: [ Camping Safety Tips (video)](https://youtu.be/JQEcfZ-jBv8?si=Vuvtm0nJmZIdfe2c) [What to Do in a Bear Encounter (and How to Avoid One) (video)](https://youtu.be/SHZ-prhA7E0?si=UqjZF_MLMMOLPlRo)
     * (b) Discuss with your counselor why it is important to be aware of weather conditions before and during your camping activities. Tell how you can prepare should the weather turn bad during your campouts. Resources: [5 Mistakes EVERY New Camper Makes in WET WEATHER (video)](https://youtu.be/HzktQBzrSQw?si=AZLAxj0KuDmWjhLl) [Cold Weather Camping Tips (video)](https://youtu.be/Ftc3t93thDw?si=I9UE43d5wRYCQi6k)
     * (c) Show that you know first aid for and how to prevent injuries or illnesses that could occur while camping, including hypothermia, frostbite, heat reactions, dehydration, altitude sickness, insect stings, tick bites, snakebite, blisters, hyperventilation. Resources: [Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)](https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb) [First Aid for Snakebites (video)](https://youtu.be/DFFzJIy-ak8?si=SnD_WCthjEE-Bi0W) [Types of Heat Reactions (website)](https://www.weather.gov/safety/heat-illness) [Bad Bugs and Their Bites (website)](https://www.webmd.com/allergies/ss/slideshow-bad-bugs)
 
 
-* (2) Learn the Leave No Trace Seven Principles and the Outdoor Code, and explain what they mean. Write a personal and group plan for implementing these principles on your next outing. Resources:  [Principles of LNT (video)](https://youtu.be/Rpq01rO9ZR0?si=hjjnThExBUjG0aIW)  [The Outdoor Code (website)](https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/)  [Meaning of the Outdoor Code (video)](https://youtu.be/65XLNt19C0k?si=sIBLlWQ55dJKTM9x)
+* (2) Learn the Leave No Trace Seven Principles and the Outdoor Code, and explain what they mean. Write a personal and group plan for implementing these principles on your next outing. Resources: [Principles of LNT (video)](https://youtu.be/Rpq01rO9ZR0?si=hjjnThExBUjG0aIW)  [The Outdoor Code (website)](https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/)  [LNT/Outdoor Code Planning (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Camping/Leave_No_Trace_Outdoor_Code_Handout_Spaced.pdf)
 * (3) Make a written plan for an overnight trek and show how to get to your  camping spot by using a topographical map and one of the following: Resources:  [How to Read a Topographic Map (video)](https://www.youtube.com/watch?v=CoVcRxza8nI&t=45s)  [Scouting America Planning Worksheet (PDF)](https://filestore.scouting.org/filestore/boyscouts/pdf/512-505-2016-Scout-Planning-Worksheet.pdf?_gl=1*1jwbf2y*_gcl_au*MjA1Nzc0ODA2My4xNzUxOTczMjY5*_ga*NjM2Nzg0MDM0LjE3NTM2NDM4MDI.*_ga_20G0JHESG4*czE3NTQ0MjQyNzckbzI5JGcxJHQxNzU0NDI4Njk0JGoxNSRsMCRoMA..&_ga=2.84744985.1230580687.1754312921-636784034.1753643802)
     * (a) Compass Resource: [How to Use a Compass (video)](https://youtu.be/0cF0ovA3FtY?si=a1zPKFxoiE68S-0a)
     * (b) GPS receiver Resource: [Using a GPS with a Map and Compass (video)](https://youtu.be/mK3pOU_x4jQ?si=PftrLmk-58ruiEZj)
@@ -26,15 +27,15 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 
 
 * (4) Do the following:
-    * (a) Make a duty roster showing how your patrol is organized for an actual overnight campout. List assignments for each member. Resource: [Patrol Duty Roster (website)](https://troopleader.scouting.org/wp-content/uploads/sites/5/2018/03/Fillable-Duty-Roster.pdf)
-    * (b) Help a Scout patrol or a Webelos Scout unit in your area prepare for an actual campout, including creating the duty roster, menu planning, equipment needs, general planning, and setting up camp. Resource: [Camping Trip Planning (website)](https://troopleader.scouting.org/general-troop-information/camping-equipment/)
+    * (a) Make a duty roster showing how your patrol is organized for an actual overnight campout. List assignments for each member.
+    * (b) Help a Scout patrol or a Webelos Scout unit in your area prepare for an actual campout, including creating the duty roster, menu planning, equipment needs, general planning, and setting up camp.
 
 
 * (5) Do the following:
-    * (a) Prepare a list of clothing you would need for overnight campouts in both warm and cold weather. Explain the term "layering." Resources: [Cold Weather Gear (website)](https://scoutlife.org/outdoors/outdoorarticles/6981/checklist-for-a-basic-cold-weather-outing/) [Warm Weather Gear (website)](https://scoutlife.org/outdoors/outdoorarticles/6992/checklist-for-a-basic-warm-weather-outing/) [Basics of Layering (video)](https://youtu.be/W8AjrLz_I4o?si=JV6_9s9rVNrnx6md)
-    * (b) Discuss footwear for different kinds of weather and how the right footwear is important for protecting your feet. Resource: [Types of Footwear (website)](https://scoutsmarts.com/scouting-footwear/)
+    * (a) Prepare a list of clothing you would need for overnight campouts in both warm and cold weather. Explain the term "layering." Resources: [Cold Weather Gear (website)](https://scoutlife.org/outdoors/outdoorarticles/6981/checklist-for-a-basic-cold-weather-outing/) [Warm Weather Gear (website)](https://scoutlife.org/outdoors/outdoorarticles/6992/checklist-for-a-basic-warm-weather-outing/)
+    * (b) Discuss footwear for different kinds of weather and how the right footwear is important for protecting your feet. Resource: [The ONE Tip You Need to Choose Between Hiking Boots, Shoes, and Trail Runners (video)](https://youtu.be/liJtac-GvZw?si=ToQQv90HyVEIqwe_)
     * (c) Explain the proper care and storage of camping equipment (clothing, footwear, bedding). Resource: [How to Clean and Store Camping Gear (website)](https://www.rei.com/learn/expert-advice/end-of-summer-gear-care.html)
-    * (d) List the outdoor essentials necessary for any campout, and explain why each item is needed.Resources: [10 Essentials: ScoutsBSA (video)](https://youtu.be/t_N1hZkB3HI?si=awmSoSMRxWwACjmt) [10 Essentials for Scout Camping (website)](https://scoutingmagazine.org/2013/02/the-10-essentials/) [The 10 Scout Basic Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/) [The Camping Packing List: A Scout's Trek Gear Checklist (website)](https://scoutsmarts.com/scout-camping-packing-list/)
+    * (d) List the outdoor essentials necessary for any campout, and explain why each item is needed.Resources: [10 Essentials for Scout Camping (website)](https://scoutingmagazine.org/2013/02/the-10-essentials/) [The 10 Scout Basic Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/)
     * (e) Present yourself to your Scoutmaster with your pack for inspection. Be correctly clothed and equipped for an overnight campout.
 
 
@@ -59,8 +60,8 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 
 
     * (b) Discuss the advantages and disadvantages of different types of lightweight cooking stoves. Resource: [Canister vs Liquid Fuel Stoves (video)](https://youtu.be/FCDURxu2L3Y?si=MB1dADsvm80GqDW9)
-    * (c) Prepare a camp menu. Explain how the menu would differ from a menu for a backpacking or float trip. Give recipes and make a food list for your patrol. Plan two breakfasts, three lunches, and two suppers. Discuss how to protect your food against bad weather, animals, and contamination. Resources: [Food Storage & Protection: Techniques for Bears & Mini-Bears (video)](https://youtu.be/7YAiuAuo49Y?si=y87nPJnLJsVPZtJ9) [Patrol Menu Planner (PDF)](https://troop516.org/resources/3/PatrolMenuPlanner.pdf)
-    * (d) While camping in the outdoors, cook at least one breakfast, one lunch, and one dinner for your patrol from the meals you have planned for requirement 8(c). At least one of those meals must be a trail meal requiring the use of a lightweight stove. Resource: [Camp Menu Ideas (website)](https://www.boyscouttrail.com/boy-scouts/boy-scout-recipes.asp)
+    * (c) Prepare a camp menu. Explain how the menu would differ from a menu for a backpacking or float trip. Give recipes and make a food list for your patrol. Plan two breakfasts, three lunches, and two suppers. Discuss how to protect your food against bad weather, animals, and contamination. Resource: [Food Storage & Protection: Techniques for Bears & Mini-Bears (video)](https://youtu.be/7YAiuAuo49Y?si=y87nPJnLJsVPZtJ9)
+    * (d) While camping in the outdoors, cook at least one breakfast, one lunch, and one dinner for your patrol from the meals you have planned for requirement 8(c). At least one of those meals must be a trail meal requiring the use of a lightweight stove.
 
 
 * (9) Show experience in camping by doing the following:

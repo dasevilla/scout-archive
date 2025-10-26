@@ -12,6 +12,7 @@ Moviemaking is a way to tell stories visually through the art and science of mot
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Moviemaking.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Discuss and demonstrate the proper elements of a good motion picture. In your discussion, include visual storytelling, rhythm, the 180-axis rule, camera movement, framing and composition of camera shots, and lens selection.
 * (2) Do the following:
     * (a) In a three- or four-paragraph treatment, tell the story you plan to produce, making sure that the treatment conveys a visual picture.

@@ -12,6 +12,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Metalwork.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Read the safety rules for metalwork.  Discuss how to be safe while working with metal. Discuss with your counselor the additional safety rules that apply to the metalwork option you choose for requirement 5.
 * (2) Explain the following terms: native metal, malleable, metallurgy, alloy, nonferrous, and ferrous. Then do the following:
     * (a) Name two nonferrous alloys used by pre-Iron Age metalworkers. Name the metals that are combined to form these alloys.
@@ -22,7 +23,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
 
 * (3) Do the following:
     * (a) Work-harden a piece of 26- or 28-gauge sheet brass or sheet copper. Put a 45-degree bend in the metal, then heavily peen the area along the bend line to work-harden it. Note the amount of effort that is required to overcome the yield point in this unworked piece of metal.
-    * (b) Soften the work-hardened piece from requirement 3a by annealing it, and then try to remove the 45-degree bend. Note the amount of effort that is required to overcome the yield point.
+    * (b) Soften the work-hardened piece from requirement 3(a) by annealing it, and then try to remove the 45-degree bend. Note the amount of effort that is required to overcome the yield point.
     * (c) Make a temper color index from a flat piece of steel. Using hand tools, make and temper a center punch of medium-carbon or high-carbon steel.
 
 

@@ -12,6 +12,7 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Drafting.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Format TWO sheets of drawing paper with proper borders and title blocks - one for your manual project (see requirement 2) and one for your lettering project (see requirement 5).
     * (a) Make a rough sketch for each of your project drawings to determine the correct size of paper to format.
     * (b) Using either single-stroke vertical or slant Gothic lettering, fill in all important information in the title block sections of the formatted paper.

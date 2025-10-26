@@ -12,6 +12,7 @@ While earning the Theater merit badge, Scouts will learn to appreciate live perf
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Theater.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) See or read three full-length plays. Write a review of each. Discuss with your counselor the plot or story. If you chose to watch the plays, comment on the acting and the staging. Note: Watching plays on television, video, or as a movie is not permitted.
 * (2) Write a one-act play that will take at least 10 minutes to perform. The play must have a main character, conflict, and a climax.
 * (3) Discuss with your counselor the safety precautions that should be practiced when working in a theater to protect the cast and crew. Then do THREE of the following:

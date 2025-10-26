@@ -12,6 +12,7 @@ A mammal may weigh as little as 1/12 ounce, as do some shrews, or as much as 150
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mammal%20Study.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain the following terms: animal, invertebrate, vertebrate, and mammal. Name three characteristics that distinguish mammals from all other animals. Resources:  [Characteristics and Categories of Mammals (Video)](https://www.youtube.com/watch?v=jscSDZG1nFo)  [10 Traits of Mammals (Video)](https://www.youtube.com/watch?v=JOqVQ3m-bDQ)  [Mammals - Traits and Groups of Warm-Blooded Animals (Video)](https://www.youtube.com/watch?v=n9ud5ZPu2Po)  [Vertebrate Diversity in Mammals (General Characteristics) (video)](https://www.youtube.com/watch?v=mXs71vqrvqI)
 * (2) Explain how the animal kingdom is classified. Explain where mammals fit in the classification of animals. Classify three mammals from phylum through species. Resources:  [The 5 Kingdoms in Classification (video)](https://youtu.be/oID1h-zL-uw?si=jHkAIYYgKaxKTZwG)  [Animal Classification (video)](https://youtu.be/L6anmd7DnYw?si=tVuoSQOwEYpKbYO7)  [The Three Types of Mammals, Differences, and How to Tell (video)](https://youtu.be/YAgjPwiSbvA?si=gwU-5Y3dVcmjt8Z7)  [Mammal Species of the World Database (website)](https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp)
 * (3) Do ONE of the following:

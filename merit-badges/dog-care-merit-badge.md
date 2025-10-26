@@ -13,6 +13,7 @@ The love and interdependence between humans and dogs has endured for thousands o
 ## Requirements
 
 * Note: The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill the requirements for other merit badges.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dog%20Care.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Briefly discuss the historical origin and domestication of the dog. Resources: [A Brief History of Dogs (video)](https://www.youtube.com/watch?v=8_KWmzLObQ4) [The Origin of Dogs (video)](https://www.youtube.com/watch?v=4doKA0VpKgc)
     * (b) Describe some common characteristics of the dogs that make up each of the seven major dog groups. Resources: [Dog Breed Groups (video)](https://www.youtube.com/watch?v=CITzpWbTSE8) [7 Different Groups of Basic Dog Breeds (website)](https://petcontrolhq.com/en-us/pages/different-dog-breed-types?srsltid=AfmBOoriR8nmRFZgjdYVNRzqBBq5JrrEedlNFCFNmHuWf31yizOyEUx_)

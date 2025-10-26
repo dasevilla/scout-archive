@@ -12,6 +12,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Animal%20Science.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Name two breeds of livestock in each of the following classifications: horses, dairy cattle, beef cattle, sheep, hogs, poultry, and goats. Tell their principal uses and merits. Tell where the breeds originated.
 * (2) List two diseases that afflict the animals in each of the classifications in requirement 1. Describe the symptoms of each disease and explain how each is contracted and how it could be prevented.
 * (3) Draw models of the digestive tracts of ruminants, horses, pigs, and poultry. Explain how the differences in structure and function among these types of digestive tracts affect the nutritional management of these species.

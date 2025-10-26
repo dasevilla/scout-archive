@@ -12,6 +12,7 @@ The ability to use fire safely is essential to human survival. By earning this m
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/FireSafety.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Science of and Hazards of Fire. Do the following:
     * (a) Explain the concept of fire.
     * (b) Name the parts of the fire tetrahedron and the products of combustion.

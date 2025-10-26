@@ -12,6 +12,7 @@ Earning this merit badge enables a Scout to learn about the history and kinds of
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Law.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Define "law." Tell some of its sources. Describe the functions it serves.
 * (2) Discuss TWO of the following:
     * (a) Justinian's Code, the Code of Hammurabi, and the Magna Carta

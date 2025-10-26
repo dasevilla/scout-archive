@@ -12,6 +12,7 @@ Pet ownership is a mixture of fun, excitement, responsibility, commitment, expen
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pets.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Present evidence that you have cared for a pet for four months. Get approval before you start.Note: Work done for other merit badges cannot be used for this requirement. Resource:  [Create an Activity Log (video)](https://www.youtube.com/watch?v=uh8tDZj9I_A)
 * (2) Write in 200 words or more about the care, feeding, and housing of your pet. Tell some interesting facts about it. Tell why you have this kind of pet. Give local laws, if any, relating to the pet you keep. Resource:  [Understanding Hamsters: Care, Feeding, Housing, and More (video)](https://www.youtube.com/watch?v=Pi_slxuGJUg)
 * (3) Show that you have read a book or pamphlet, approved by your counselor, about your kind of pet. Discuss with your counselor what you have learned from what you read.

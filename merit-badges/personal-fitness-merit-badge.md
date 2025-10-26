@@ -13,6 +13,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
 ## Requirements
 
 * Note: If meeting any of the requirements for this merit badge is against the Scout's religious convictions, the requirement does not have to be done if the Scout's parent or guardian and the proper religious advisors state in writing that to do so would be against religious convictions. The Scout's parent or guardian must also accept full responsibility for anything that might happen because of this exemption.
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Personal%20Fitness.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Before completing requirements 2 through 9, have your health-care practitioner give you a physical examination, using the Scout Health and Medical Record. Explain the following:
         * (1) Why physical exams are important

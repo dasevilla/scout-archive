@@ -12,6 +12,7 @@ Teeth do a lot more than just peek out from under that winning smile. They have 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dentistry.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Using X-ray (radiographic) films or images and with your counselor's guidance, do the following:
     * (a) Study the tooth structure and look for decay.
     * (b) Draw a lower molar, using the radiographs as a guide. Label its parts and surfaces. Show surrounding structures such as bone and gum tissues.

@@ -12,6 +12,7 @@ Geology is the study of Earth. It includes the study of materials that make up E
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Geology.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Define geology. Discuss how geologists learn about rock formations. In geology, explain why the study of the present is important to understanding the past.
 * (2) Pick three resources that can be extracted or mined from Earth for commercial use. Discuss with your counselor how each product is discovered and processed.
 * (3) Review a geologic map of your area or an area selected by your counselor, and discuss the different rock types and estimated ages of rocks represented. Determine whether the rocks are horizontal, folded, or faulted, and explain how you arrived at your conclusion.

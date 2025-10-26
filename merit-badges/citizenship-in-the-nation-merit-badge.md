@@ -12,6 +12,7 @@ As Scouts fulfill the requirements for this merit badge, they will learn how to 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Nation.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) What is the Constitution of the United States? What does the Constitution do? What principles does it reflect? Why is it important to have a Constitution?
 * (2) List the six purposes for creating the United States Constitution set forth in the Preamble to the Constitution. How do these purposes affect your family and community?
 * (3) List the three branches of the United States government. Explain:

@@ -12,6 +12,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Railroading.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do THREE of the following:
     * (a) Name three types of modern freight trains. Explain why unit trains are more efficient than mixed freight trains.
     * (b) Name one Class I or regional railroad. Explain what major cities it serves, the locations of major terminals, service facilities, and crew change points, and the major commodities it carries.

@@ -12,6 +12,7 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Bird%20Study.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain the need for bird study and why birds are useful indicators of the quality of the environment. Describe how birds are part of the ecosystem. Resources:  [Why Are Birds Important (video)](https://www.youtube.com/watch?v=-QUbQCn-ViA)  [Why Birds Matter (video)](https://www.youtube.com/watch?v=_FooquV6Cbs)
 * (2) Show that you are familiar with the terms used to describe birds by doing the following:
     * (a) Sketch or trace a perched bird and then label 15 different parts of the bird. Resource: [How to Draw and Label a Bird (video)](https://www.youtube.com/watch?v=gD9TAt1F17A)

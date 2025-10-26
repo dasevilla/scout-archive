@@ -12,6 +12,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Backpacking.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Discuss the prevention of and treatment for the health concerns that could occur while backpacking, including hypothermia, heat reactions, frostbite, dehydration, insect stings, tick bites, snakebite, blisters. Resources:  [Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc.) (video)](https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb)  [Preventing and Treating Blisters (video)](https://youtu.be/lIvLRG31MZI?si=Y7vTYYNYNzcl_MV2)  [Preventing and Treating Frostbite (video)](https://youtu.be/GHN8008brQw?si=MVUMbLRpSWLSkOZP)
 * (2) Do the following:
     * (a) List 10 items that are essential to be carried on any backpacking trek and explain why each item is necessary. Resource: [What Are the 10 Essentials? (video)](https://youtu.be/J-Ae6OKjb6I?si=Ee6rn5JtoCrwtTFo)

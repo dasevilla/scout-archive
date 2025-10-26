@@ -12,6 +12,7 @@ Far different from the stereotypes or common images that are portrayed on film, 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Indian_Lore.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Identify the different American Indian cultural areas. Explain what makes them each unique.
 * (2) Research an American Indian tribe, group, or nation. Tell your counselor about traditional dwellings, way of life, tribal government, religious beliefs, family and clan relationships, language, clothing styles, arts and crafts, food cultivation, foraging and preparation, means of getting around, games, customs in warfare, and where and how they live today.
 * (3) Do the following:

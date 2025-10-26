@@ -12,6 +12,7 @@ Working on the Scholarship merit badge provides Scouts with a great opportunity 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Scholarship.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do ONE of the following:
     * (a) Show that you have had an average grade of B or higher (80 percent or higher) for one term or semester. Resource: [How to Do Better in School (video)](https://www.youtube.com/shorts/pZMXqaY-bYc)
     * (b) Show that for one term or semester you have improved your school grades over the previous period.  Resource: [How to Study (video)](https://www.youtube.com/watch?v=TjPFZaMe2yw)

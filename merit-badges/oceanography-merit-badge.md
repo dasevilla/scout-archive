@@ -12,6 +12,7 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Oceanography.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Name four branches of oceanography. Describe at least five reasons why it is important for people to learn about the oceans.
 * (2) Explain the following terms: salinity, temperature,  and density. Describe how these important properties of seawater are measured by oceanographer. Discuss the circulation and currents of the ocean. Describe the effects of the oceans on weather and climate.
 * (3) Describe the characteristics of ocean waves. Point out the differences among the storm surge, tsunami, tidal wave, and tidal bore. Explain the difference between sea, swell, and surf. Explain how breakers are formed.

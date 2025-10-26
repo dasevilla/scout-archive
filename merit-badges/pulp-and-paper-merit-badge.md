@@ -12,6 +12,7 @@ Here’s an astonishing number to digest. Each person in the United States uses 
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp-Paper.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Tell the history of papermaking. Describe the part paper products play in our society and economy.
 * (2) Learn about the pulp and paper industry.
     * (a) Describe the ways the industry plants, grows, and harvests trees.

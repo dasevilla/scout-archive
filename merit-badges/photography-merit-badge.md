@@ -12,6 +12,7 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Photography.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Safety. Do the following:
     * (a) Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water.
     * (b) View the [Personal Safety Awareness "Digital Safety" video](https://www.scouting.org/training/youth-protection/scouts-bsa/) (with your parent or guardian's permission).

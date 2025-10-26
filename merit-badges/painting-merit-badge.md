@@ -12,6 +12,7 @@ This merit badge provides an opportunity for Scouts to learn more about painting
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Painting.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Explain the proper safety procedures to follow when preparing surfaces and applying coatings. Resource:  [Interior Painting Safety (video)](https://www.youtube.com/watch?v=4vpr3e_erug)
 * (2) Do the following:
     * (a) Explain three ways that coatings can improve a surface. Resource: [Epoxy Resin Coatings (video)](https://www.youtube.com/watch?v=A-ERekKoohI)

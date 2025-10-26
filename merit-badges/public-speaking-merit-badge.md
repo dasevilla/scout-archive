@@ -12,6 +12,7 @@ A lot happens during the course of every person’s life and your ability to com
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Speaking.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Give a three- to five-minute introduction of yourself to an audience such as your troop, class at school, or some other group.
 * (2) Prepare a three- to five-minute talk on a topic of your choice that incorporates body language and visual aids.
 * (3) Give an impromptu talk of at least two minutes, either as part of a group discussion or before your counselor. Use a subject selected by your counselor that is interesting to you but that is not known to you in advance and for which you do not have time to prepare.

@@ -12,6 +12,7 @@ Learn why electricity plays a significant role in the economy and how energy con
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electricity.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Demonstrate that you know how to respond to electrical emergencies by doing the following:
     * (a) Explain how to turn off power for a particular circuit and the whole house in the event of an emergency.
     * (b) Demonstrate how to rescue a person touching a live wire in the home.

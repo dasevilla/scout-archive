@@ -12,6 +12,7 @@ No Boy Scout will ignore a plea for help. However, the desire to help is of litt
 
 ## Requirements
 
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Lifesaving.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Before doing requirements 3 through 15, review with your counselor the principles of Safe Swim Defense.
 * (2) Before doing requirements 3 through 15:
     * (a) Earn the Swimming merit badge.

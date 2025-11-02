@@ -12,13 +12,13 @@ The Artificial Intelligence (AI) Merit Badge introduces Scouts to the fundamenta
 
 ## Requirements
 
-* NOTE TO SCOUTS:  The Artificial Intelligence (AI) merit badge has no merit badge pamphlet. Instead, it has been designed for you to interact with the [Scoutly](https://blog.scoutingmagazine.org/2025/08/21/everything-you-need-to-know-about-scoutly-scouting-americas-new-ai-tool/) chatbot on your learning journey as you work through the requirements.  [Scoutly](https://blog.scoutingmagazine.org/2025/08/21/everything-you-need-to-know-about-scoutly-scouting-americas-new-ai-tool/) can be found on the bottom right of your browser at [https://scouting.org.](https://scouting.org)  If you have a question about a requirement, ask [Scoutly](https://blog.scoutingmagazine.org/2025/08/21/everything-you-need-to-know-about-scoutly-scouting-americas-new-ai-tool/)!  Hint: try asking [Scoutly](https://blog.scoutingmagazine.org/2025/08/21/everything-you-need-to-know-about-scoutly-scouting-americas-new-ai-tool/) to Explain the  "xxx" activity for requirement "yy" of the AI merit badge.  This does not replace the requirement to identify and work with a counselor to complete the badge. Additional educational resources will be available on our [Counselor Information Page.](https://www.scouting.org/skills/merit-badges/counselor-information/)
+* NOTE TO SCOUTS:  The Artificial Intelligence (AI) merit badge has no merit badge pamphlet. Instead, it has been designed for you to interact with the [Scoutly](https://blog.scoutingmagazine.org/2025/08/21/everything-you-need-to-know-about-scoutly-scouting-americas-new-ai-tool/) chatbot on your learning journey as you work through the requirements.  [Scoutly](https://blog.scoutingmagazine.org/2025/08/21/everything-you-need-to-know-about-scoutly-scouting-americas-new-ai-tool/) can be found on the bottom right of your browser at [https://scouting.org.](https://scouting.org)  If you have a question about a requirement, ask [Scoutly](https://blog.scoutingmagazine.org/2025/08/21/everything-you-need-to-know-about-scoutly-scouting-americas-new-ai-tool/)!  Hint: try asking [Scoutly](https://blog.scoutingmagazine.org/2025/08/21/everything-you-need-to-know-about-scoutly-scouting-americas-new-ai-tool/) to Explain the  "xxx" activity for requirement "yy" of the AI merit badge.  This does not replace the requirement to identify and work with a counselor to complete the badge. Additional educational resources are available on our [Counselor Information Page.](https://www.scouting.org/skills/merit-badges/counselor-information/)
 * (1) Key Concepts.  Define the following terms and share the meaning of each with your counselor: artificial intelligence (AI), artificial intelligence agents, automation, basic programming, bots, data, databases, digital workers, general AI, machine learning (ML), narrow AI, superintelligent AI, tasks, triggers, workflows, and variables.
 * (2) Artificial Intelligence (AI) Basics.  Do the following and share what you learned with your counselor:
     * (a) Identify 10 examples of how AI is currently used in everyday life.
     * (b) Identify 5 examples of how AI is currently used in the workplace.
     * (c) Identify 5 examples of how AI can be used at school or in support of your education.
-    * (d) Play 10 rounds of the "AI or Not?" game to determine if the presented scenario utilizes AI.
+    * (d) Meet with your counselor and play 10 rounds of the "AI or Not?" game to determine if the presented scenario utilizes AI. Discuss your answers.
     * (e) Create a timeline with five key milestones in the development of artificial intelligence.
 
 
@@ -32,7 +32,7 @@ The Artificial Intelligence (AI) Merit Badge introduces Scouts to the fundamenta
 
 * (4) Ethics in AI.  Do the following and share what you learned with your counselor:
     * (a) Research ethical concerns and responsible use in AI, including bias, privacy, and AI decision-making.
-    * (b) Work through 5 rounds of the "What Would You Do?" ethical decision-making scenarios.
+    * (b) Meet with your counselor, play, and discuss 5 rounds of the "What Would You Do?" ethical decision-making scenarios.
     * (c) Develop your own ethical guidelines for the use of AI.
     * (d) What is the Turing test?
 
@@ -47,7 +47,6 @@ The Artificial Intelligence (AI) Merit Badge introduces Scouts to the fundamenta
     * (b) Identify 5 methods of how to effectively communicate with AI.
     * (c) Explain the importance of prompt engineering when using AI to create better output.
     * (d) Demonstrate 3 examples of writing clear instructions for a school-related task.
-    * (e) Complete the "Clear Communication Challenge" activity.
 
 
 * (7) Practical Application.  Do ONE of the following:

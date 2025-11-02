@@ -12,7 +12,7 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
 
 ## Requirements
 
-* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Environmental_Science.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
+* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Environmental_Science.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)  Additional educational resources are available on our [Counselor Information Page.](https://www.scouting.org/skills/merit-badges/counselor-information/)
 * (1) Describe the meaning of environmental science in your own words. Explain how you think we can use science to understand, conserve, and improve our environment. Resource:  [What Is Environmental Science? (video)](https://www.youtube.com/watch?v=kB0JA7jsqMw)
 * (2) Ecology. Do the following and discuss with your counselor:   Resources:  [Merlin Bird App Description (video)](https://www.youtube.com/watch?v=xmSUOLxyatY)  [INaturalist App Description (video)](https://www.youtube.com/watch?v=Mb_i-WoUKt0)  [Observing Nature Through SMELL (video)](https://www.youtube.com/watch?v=4drgulU4kb8)
     * (a) Choose an area approved by your counselor and observe (sight, sound, and smell) its ecosystem over a two-day period. Resources: [Observe Nature Like a Scientist! (video)](https://www.youtube.com/watch?v=7NVce3RK-Lo) [Observing Nature (video)](https://www.youtube.com/watch?v=3udPykdfCCU) [Backyard Nature (video)](https://www.youtube.com/watch?v=7gyYfKphqsM)

@@ -12,7 +12,7 @@ Earning the American Business Merit Badge can help Scouts learn practical busine
 
 ## Requirements
 
-* NOTE: Choose THREE groups that have different racial, cultural, national, or ethnic backgrounds, one of which comes from your own background. Use these groups to meet requirements 1, 2, and 3.   NOTE: The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Business.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
+* NOTE: The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Business.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
 * (1) Do the following:
     * (a) Explain four features of the free enterprise system in the United States. Describe the difference between freedom and license. Tell how the Scout Oath and Scout Law apply to business and free enterprise.
     * (b) Describe the Industrial Revolution and tell about the major developments that marked the start of the modern industrial era in the United States. Discuss three people who had a great influence on business or industry in the United States and describe what each did.

@@ -13,7 +13,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 ## Requirements
 
 * NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cycling.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
-* (1) Do the following: Resource: [Hazards, Prevention, and First Aid | Produced by Scouting America (video)](vimeo.com/1125028263)
+* (1) Do the following: Resource: [Hazards, Prevention, and First Aid | Produced by Scouting America (video)](https://vimeo.com/1125028263)
     * (a) Explain to your counselor the most likely hazards you may encounter while participating in cycling activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready. Resource: [Avoiding Road Hazards (video)](https://www.youtube.com/watch?v=dcRpBP9WvKg%20)
     * (b) Show that you know first aid for injuries or illnesses that could occur while cycling, including cuts, scratches, concussions, blisters, sunburn, heat exhaustion, heatstroke, hypothermia, frostbite, dehydration, insect stings, tick bites, and snakebite. Explain to your counselor why you should be able to identify the poisonous plants and poisonous animals that are found in your area. Resource: [First Aid Guide for Mountain Bikers (video)](https://www.youtube.com/watch?v=oPCWzECMD_4%20)
     * (c) Explain the importance of wearing the right clothing and gear while cycling, including a properly sized and fitted helmet. Know the Scouting America Bike Safety Guidelines. Resources: [Bike Tips: Gear to Make Your Ride More Comfortable (video)](https://www.youtube.com/watch?v=2TYe3APtKtc&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=5%20) [How to Wear a Helmet (video)](https://www.youtube.com/watch?v=T3u51W0LN2U%20)
@@ -26,7 +26,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
     * (b) Show how to adjust the saddle and handlebars for a proper fit. Resources: [Bike Tips: Finding and Fitting the Right Bike (video)](https://www.youtube.com/watch?v=dsM9brngVmc&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=6%20) [How to Set Your Bicycle Seat Height (video)](https://www.youtube.com/watch?v=jh5Zv6Dcn6k%20)
     * (c) Show how to adjust brakes and gear shifting (derailleurs). Resource: [Bike Tips: Proper Shifting Technique (video)](https://www.youtube.com/watch?v=7kc-CHtlQyM&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=7%20)
     * (d) Show all points that need regular lubrication.
-    * (e) Show how to repair a flat by removing the tire, replacing or patching the tube, and remounting the tire. Resources: [Changing a Tire with Disc Brakes | Produced by Scouting America (video)](vimeo.com/1125028160) [Changing a Tire with Caliper Brakes | Produced by Scouting America (video)](vimeo.com/1125028134)
+    * (e) Show how to repair a flat by removing the tire, replacing or patching the tube, and remounting the tire. Resources: [Changing a Tire with Disc Brakes | Produced by Scouting America (video)](https://vimeo.com/1125028160) [Changing a Tire with Caliper Brakes | Produced by Scouting America (video)](https://vimeo.com/1125028134)
     * (f) Show that the bicycle meets local laws. Resource: [Rules of the Road (video)](https://www.youtube.com/watch?v=-Jp0SSAeCiY%20)
 
 

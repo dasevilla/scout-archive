@@ -1,6 +1,7 @@
 import scrapy
 from scout_archive.items import CubScoutAdventureItem
 import re
+import json
 
 
 class CubScoutAdventuresSpider(scrapy.Spider):
@@ -126,15 +127,50 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         item["adventure_overview"] = overview_text
 
         # Get adventure image URL
-        image_url = response.xpath(
-            '//*[@id="page"]/div/section[2]/div/div/div/section/div/div/div/div/div/div/div/section/div/div[2]/div/div/div/img/@src'
+        image_url = ""
+
+        # Strategy 1: Look for the featured image in the Elementor config (Most reliable)
+        script_content = response.xpath(
+            "//script[contains(text(), 'elementorFrontendConfig')]/text()"
         ).get()
-        # if image_url is an svg or None, use the data-src attribute instead
-        if not image_url or image_url.startswith("data:"):
-            image_url = response.xpath(
-                '//*[@id="page"]/div/section[2]/div/div/div/section/div/div/div/div/div/div/div/section/div/div[2]/div/div/div/img/@data-src'
-            ).get()
-        item["adventure_image_url"] = image_url or ""
+        if script_content:
+            try:
+                # Extract the JSON object from the script content
+                # Format is: var elementorFrontendConfig = {...};
+                json_str = (
+                    script_content.split("var elementorFrontendConfig = ", 1)[1]
+                    .strip()
+                    .rstrip(";")
+                )
+                config = json.loads(json_str)
+                image_url = config.get("post", {}).get("featuredImage")
+            except (IndexError, json.JSONDecodeError, AttributeError):
+                self.logger.warning(
+                    f"Failed to parse elementorFrontendConfig for {response.url}"
+                )
+
+        # Strategy 2: Look for the main image in the elementor widget (Fallback)
+        if not image_url:
+            # The structure usually has a div with class elementor-widget-image
+            # We try to avoid the logo by checking for specific classes or position if possible,
+            # but for now we just take the first one that isn't the logo if we can distinguish.
+            # Since the logo is also an elementor-widget-image, we might need to be careful.
+            # However, usually the featured image is unique in some way.
+            # Let's try to find an image that is NOT the logo.
+            images = response.css("div.elementor-widget-image img")
+            for img in images:
+                src = img.attrib.get("data-src") or img.attrib.get("src")
+                if src and "scouting-america-logo" not in src:
+                    image_url = src
+                    break
+
+            # If we still haven't found one, just take the first one as a last resort
+            if not image_url and images:
+                image_url = images[0].attrib.get("data-src") or images[0].attrib.get(
+                    "src"
+                )
+
+        item["adventure_image_url"] = image_url
         item["image_urls"] = [image_url] if image_url else []
 
         requirements_list = []

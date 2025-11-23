@@ -1,6 +1,5 @@
 # Into the Woods Arrow of Light Adventure
 
-![Into the Woods Arrow of Light adventure belt loop](images/into-the-woods.jpg)
 
 - **Adventure name:** Into the Woods
 - **Rank:** Arrow of Light

@@ -1,6 +1,5 @@
 # Engineer Arrow of Light Adventure
 
-![Engineer Arrow of Light adventure belt loop](images/engineer.jpg)
 
 - **Adventure name:** Engineer
 - **Rank:** Arrow of Light

@@ -1,6 +1,5 @@
 # Let’s Camp Tiger Tiger Adventure
 
-![Let’s Camp Tiger Tiger adventure belt loop](images/lets-camp-tiger.jpg)
 
 - **Adventure name:** Let’s Camp Tiger
 - **Rank:** Tiger

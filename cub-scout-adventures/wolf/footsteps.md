@@ -1,6 +1,5 @@
 # Footsteps Wolf Adventure
 
-![Footsteps Wolf adventure belt loop](images/footsteps.jpg)
 
 - **Adventure name:** Footsteps
 - **Rank:** Wolf

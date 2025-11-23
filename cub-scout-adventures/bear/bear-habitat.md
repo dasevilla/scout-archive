@@ -1,6 +1,5 @@
 # Bear Habitat Bear Adventure
 
-![Bear Habitat Bear adventure belt loop](images/bear-habitat.jpg)
 
 - **Adventure name:** Bear Habitat
 - **Rank:** Bear

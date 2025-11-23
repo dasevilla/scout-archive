@@ -1,6 +1,5 @@
 # Good Knights Tiger Adventure
 
-![Good Knights Tiger adventure belt loop](images/good-knights.jpg)
 
 - **Adventure name:** Good Knights
 - **Rank:** Tiger

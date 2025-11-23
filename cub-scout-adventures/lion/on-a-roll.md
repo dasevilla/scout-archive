@@ -1,6 +1,5 @@
 # On a Roll Lion Adventure
 
-![On a Roll Lion adventure belt loop](images/on-a-roll.jpg)
 
 - **Adventure name:** On a Roll
 - **Rank:** Lion

@@ -1,6 +1,5 @@
 # Bobcat Arrow of Light Arrow of Light Adventure
 
-![Bobcat Arrow of Light Arrow of Light adventure belt loop](images/bobcat-arrow-of-light.jpg)
 
 - **Adventure name:** Bobcat Arrow of Light
 - **Rank:** Arrow of Light

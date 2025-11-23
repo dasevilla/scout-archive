@@ -1,6 +1,5 @@
 # Cubs Who Care Wolf Adventure
 
-![Cubs Who Care Wolf adventure belt loop](images/cubs-who-care.jpg)
 
 - **Adventure name:** Cubs Who Care
 - **Rank:** Wolf

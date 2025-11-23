@@ -1,6 +1,5 @@
 # Summertime Fun Webelos Webelos Adventure
 
-![Summertime Fun Webelos Webelos adventure belt loop](images/summertime-fun-webelos.jpg)
 
 - **Adventure name:** Summertime Fun Webelos
 - **Rank:** Webelos

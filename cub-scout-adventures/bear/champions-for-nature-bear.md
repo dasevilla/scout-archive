@@ -1,6 +1,5 @@
 # Champions for Nature Bear Bear Adventure
 
-![Champions for Nature Bear Bear adventure belt loop](images/champions-for-nature-bear.jpg)
 
 - **Adventure name:** Champions for Nature Bear
 - **Rank:** Bear

@@ -1,6 +1,5 @@
 # Race Time Bear Bear Adventure
 
-![Race Time Bear Bear adventure belt loop](images/race-time-bear.jpg)
 
 - **Adventure name:** Race Time Bear
 - **Rank:** Bear

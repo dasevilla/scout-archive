@@ -1,6 +1,5 @@
 # Fishing Arrow of Light Adventure
 
-![Fishing Arrow of Light adventure belt loop](images/fishing.jpg)
 
 - **Adventure name:** Fishing
 - **Rank:** Arrow of Light

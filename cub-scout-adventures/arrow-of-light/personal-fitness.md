@@ -1,6 +1,5 @@
 # Personal Fitness Arrow of Light Adventure
 
-![Personal Fitness Arrow of Light adventure belt loop](images/personal-fitness.jpg)
 
 - **Adventure name:** Personal Fitness
 - **Rank:** Arrow of Light

@@ -1,6 +1,5 @@
 # Build It Webelos Adventure
 
-![Build It Webelos adventure belt loop](images/build-it.jpg)
 
 - **Adventure name:** Build It
 - **Rank:** Webelos

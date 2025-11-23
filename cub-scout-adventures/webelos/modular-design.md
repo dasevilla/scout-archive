@@ -1,6 +1,5 @@
 # Modular Design Webelos Adventure
 
-![Modular Design Webelos adventure belt loop](images/modular-design.jpg)
 
 - **Adventure name:** Modular Design
 - **Rank:** Webelos

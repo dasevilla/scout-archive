@@ -1,6 +1,5 @@
 # Code of the Wolf Wolf Adventure
 
-![Code of the Wolf Wolf adventure belt loop](images/code-of-the-wolf.jpg)
 
 - **Adventure name:** Code of the Wolf
 - **Rank:** Wolf

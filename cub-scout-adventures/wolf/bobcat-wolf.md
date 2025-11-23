@@ -1,6 +1,5 @@
 # Bobcat Wolf Wolf Adventure
 
-![Bobcat Wolf Wolf adventure belt loop](images/bobcat-wolf.jpg)
 
 - **Adventure name:** Bobcat Wolf
 - **Rank:** Wolf

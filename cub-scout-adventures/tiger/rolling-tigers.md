@@ -1,6 +1,5 @@
 # Rolling Tigers Tiger Adventure
 
-![Rolling Tigers Tiger adventure belt loop](images/rolling-tigers.jpg)
 
 - **Adventure name:** Rolling Tigers
 - **Rank:** Tiger

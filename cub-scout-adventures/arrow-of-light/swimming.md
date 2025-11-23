@@ -1,6 +1,5 @@
 # Swimming Arrow of Light Adventure
 
-![Swimming Arrow of Light adventure belt loop](images/swimming.jpg)
 
 - **Adventure name:** Swimming
 - **Rank:** Arrow of Light

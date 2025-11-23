@@ -1,6 +1,5 @@
 # Let’s Camp Lion Lion Adventure
 
-![Let’s Camp Lion Lion adventure belt loop](images/lets-camp-lion.jpg)
 
 - **Adventure name:** Let’s Camp Lion
 - **Rank:** Lion

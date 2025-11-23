@@ -1,6 +1,5 @@
 # Germs Alive! Wolf Adventure
 
-![Germs Alive! Wolf adventure belt loop](images/germs-alive!.jpg)
 
 - **Adventure name:** Germs Alive!
 - **Rank:** Wolf

@@ -1,6 +1,5 @@
 # Lion’s Roar Lion Adventure
 
-![Lion’s Roar Lion adventure belt loop](images/lions-roar.jpg)
 
 - **Adventure name:** Lion’s Roar
 - **Rank:** Lion

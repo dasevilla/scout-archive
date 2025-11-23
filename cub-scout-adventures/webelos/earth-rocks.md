@@ -1,6 +1,5 @@
 # Earth Rocks Webelos Adventure
 
-![Earth Rocks Webelos adventure belt loop](images/earth-rocks.jpg)
 
 - **Adventure name:** Earth Rocks
 - **Rank:** Webelos

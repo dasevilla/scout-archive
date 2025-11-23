@@ -1,6 +1,5 @@
 # Salmon Run Bear Adventure
 
-![Salmon Run Bear adventure belt loop](images/salmon-run.jpg)
 
 - **Adventure name:** Salmon Run
 - **Rank:** Bear

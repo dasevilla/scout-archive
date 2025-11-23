@@ -1,6 +1,5 @@
 # Race Time AOL Arrow of Light Adventure
 
-![Race Time AOL Arrow of Light adventure belt loop](images/race-time-aol.jpg)
 
 - **Adventure name:** Race Time AOL
 - **Rank:** Arrow of Light

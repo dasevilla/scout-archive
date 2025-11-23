@@ -1,6 +1,5 @@
 # Knife Safety Arrow of Light Adventure
 
-![Knife Safety Arrow of Light adventure belt loop](images/knife-safety.jpg)
 
 - **Adventure name:** Knife Safety
 - **Rank:** Arrow of Light

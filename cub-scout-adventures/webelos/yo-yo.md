@@ -1,6 +1,5 @@
 # Yo-yo Webelos Adventure
 
-![Yo-yo Webelos adventure belt loop](images/yo-yo.jpg)
 
 - **Adventure name:** Yo-yo
 - **Rank:** Webelos

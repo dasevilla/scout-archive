@@ -1,5 +1,6 @@
 # Paddle Onward Webelos Adventure
 
+![Paddle Onward Webelos adventure belt loop](images/paddle-onward.jpg)
 
 - **Adventure name:** Paddle Onward
 - **Rank:** Webelos

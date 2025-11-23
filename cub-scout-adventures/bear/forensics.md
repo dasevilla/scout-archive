@@ -1,5 +1,6 @@
 # Forensics Bear Adventure
 
+![Forensics Bear adventure belt loop](images/forensics.jpg)
 
 - **Adventure name:** Forensics
 - **Rank:** Bear

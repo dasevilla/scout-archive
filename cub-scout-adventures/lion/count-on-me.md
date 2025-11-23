@@ -1,5 +1,6 @@
 # Count On Me Lion Adventure
 
+![Count On Me Lion adventure belt loop](images/count-on-me.jpg)
 
 - **Adventure name:** Count On Me
 - **Rank:** Lion

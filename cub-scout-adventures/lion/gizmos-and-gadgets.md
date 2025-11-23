@@ -1,5 +1,6 @@
 # Gizmos and Gadgets Lion Adventure
 
+![Gizmos and Gadgets Lion adventure belt loop](images/gizmos-and-gadgets.jpg)
 
 - **Adventure name:** Gizmos and Gadgets
 - **Rank:** Lion

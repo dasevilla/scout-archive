@@ -1,5 +1,6 @@
 # Bears Afloat Bear Adventure
 
+![Bears Afloat Bear adventure belt loop](images/bears-afloat.jpg)
 
 - **Adventure name:** Bears Afloat
 - **Rank:** Bear

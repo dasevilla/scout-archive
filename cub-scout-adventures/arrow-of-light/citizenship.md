@@ -1,5 +1,6 @@
 # Citizenship Arrow of Light Adventure
 
+![Citizenship Arrow of Light adventure belt loop](images/citizenship.jpg)
 
 - **Adventure name:** Citizenship
 - **Rank:** Arrow of Light

@@ -1,5 +1,6 @@
 # Balancing Bears Bear Adventure
 
+![Balancing Bears Bear adventure belt loop](images/balancing-bears.jpg)
 
 - **Adventure name:** Balancing Bears
 - **Rank:** Bear

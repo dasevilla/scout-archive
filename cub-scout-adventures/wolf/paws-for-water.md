@@ -1,5 +1,6 @@
 # Paws for Water Wolf Adventure
 
+![Paws for Water Wolf adventure belt loop](images/paws-for-water.jpg)
 
 - **Adventure name:** Paws for Water
 - **Rank:** Wolf

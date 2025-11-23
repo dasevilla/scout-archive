@@ -1,5 +1,6 @@
 # Go Fish Lion Adventure
 
+![Go Fish Lion adventure belt loop](images/go-fish.jpg)
 
 - **Adventure name:** Go Fish
 - **Rank:** Lion

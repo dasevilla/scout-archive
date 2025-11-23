@@ -1,5 +1,6 @@
 # Champions for Nature Lion Lion Adventure
 
+![Champions for Nature Lion Lion adventure belt loop](images/champions-for-nature-lion.jpg)
 
 - **Adventure name:** Champions for Nature Lion
 - **Rank:** Lion

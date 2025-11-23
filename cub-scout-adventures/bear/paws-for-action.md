@@ -1,5 +1,6 @@
 # Paws for Action Bear Adventure
 
+![Paws for Action Bear adventure belt loop](images/paws-for-action.jpg)
 
 - **Adventure name:** Paws for Action
 - **Rank:** Bear

@@ -1,5 +1,6 @@
 # Fish On Tiger Adventure
 
+![Fish On Tiger adventure belt loop](images/fish-on.jpg)
 
 - **Adventure name:** Fish On
 - **Rank:** Tiger

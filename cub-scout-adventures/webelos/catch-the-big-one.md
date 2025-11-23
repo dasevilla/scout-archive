@@ -1,5 +1,6 @@
 # Catch the Big One Webelos Adventure
 
+![Catch the Big One Webelos adventure belt loop](images/catch-the-big-one.jpg)
 
 - **Adventure name:** Catch the Big One
 - **Rank:** Webelos

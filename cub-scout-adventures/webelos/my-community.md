@@ -1,5 +1,6 @@
 # My Community Webelos Adventure
 
+![My Community Webelos adventure belt loop](images/my-community.jpg)
 
 - **Adventure name:** My Community
 - **Rank:** Webelos

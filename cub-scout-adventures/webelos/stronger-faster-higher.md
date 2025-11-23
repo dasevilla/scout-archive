@@ -1,5 +1,6 @@
 # Stronger, Faster, Higher Webelos Adventure
 
+![Stronger, Faster, Higher Webelos adventure belt loop](images/stronger-faster-higher.jpg)
 
 - **Adventure name:** Stronger, Faster, Higher
 - **Rank:** Webelos

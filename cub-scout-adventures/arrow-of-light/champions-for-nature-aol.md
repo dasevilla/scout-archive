@@ -1,5 +1,6 @@
 # Champions for Nature AOL Arrow of Light Adventure
 
+![Champions for Nature AOL Arrow of Light adventure belt loop](images/champions-for-nature-aol.jpg)
 
 - **Adventure name:** Champions for Nature AOL
 - **Rank:** Arrow of Light

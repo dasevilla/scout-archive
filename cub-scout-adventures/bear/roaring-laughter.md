@@ -1,5 +1,6 @@
 # Roaring Laughter Bear Adventure
 
+![Roaring Laughter Bear adventure belt loop](images/roaring-laughter.jpg)
 
 - **Adventure name:** Roaring Laughter
 - **Rank:** Bear

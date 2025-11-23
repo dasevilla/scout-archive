@@ -1,5 +1,6 @@
 # Cycling Arrow of Light Adventure
 
+![Cycling Arrow of Light adventure belt loop](images/cycling.jpg)
 
 - **Adventure name:** Cycling
 - **Rank:** Arrow of Light

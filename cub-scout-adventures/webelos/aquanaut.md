@@ -1,5 +1,6 @@
 # Aquanaut Webelos Adventure
 
+![Aquanaut Webelos adventure belt loop](images/aquanaut.jpg)
 
 - **Adventure name:** Aquanaut
 - **Rank:** Webelos

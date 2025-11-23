@@ -1,5 +1,6 @@
 # Webelos Walkabout Webelos Adventure
 
+![Webelos Walkabout Webelos adventure belt loop](images/webelos-walkabout.jpg)
 
 - **Adventure name:** Webelos Walkabout
 - **Rank:** Webelos

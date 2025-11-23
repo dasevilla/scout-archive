@@ -1,5 +1,6 @@
 # Tiger-iffic! Tiger Adventure
 
+![Tiger-iffic! Tiger adventure belt loop](images/tiger-iffic!.jpg)
 
 - **Adventure name:** Tiger-iffic!
 - **Rank:** Tiger

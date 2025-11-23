@@ -1,5 +1,6 @@
 # Computing Wolves Wolf Adventure
 
+![Computing Wolves Wolf adventure belt loop](images/computing-wolves.jpg)
 
 - **Adventure name:** Computing Wolves
 - **Rank:** Wolf

@@ -1,5 +1,6 @@
 # Paws on the Path Wolf Adventure
 
+![Paws on the Path Wolf adventure belt loop](images/paws-on-the-path.jpg)
 
 - **Adventure name:** Paws on the Path
 - **Rank:** Wolf

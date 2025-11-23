@@ -1,5 +1,6 @@
 # Spirit of the Water Wolf Adventure
 
+![Spirit of the Water Wolf adventure belt loop](images/spirit-of-the-water.jpg)
 
 - **Adventure name:** Spirit of the Water
 - **Rank:** Wolf

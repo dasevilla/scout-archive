@@ -1,5 +1,6 @@
 # Paddle Craft Arrow of Light Adventure
 
+![Paddle Craft Arrow of Light adventure belt loop](images/paddle-craft.jpg)
 
 - **Adventure name:** Paddle Craft
 - **Rank:** Arrow of Light

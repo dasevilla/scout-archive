@@ -1,5 +1,6 @@
 # Critter Care Bear Adventure
 
+![Critter Care Bear adventure belt loop](images/critter-care.jpg)
 
 - **Adventure name:** Critter Care
 - **Rank:** Bear

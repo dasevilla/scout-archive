@@ -1,5 +1,6 @@
 # Safety in Numbers Wolf Adventure
 
+![Safety in Numbers Wolf adventure belt loop](images/safety-in-numbers.jpg)
 
 - **Adventure name:** Safety in Numbers
 - **Rank:** Wolf

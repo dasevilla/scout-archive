@@ -1,5 +1,6 @@
 # Pedal Away Webelos Adventure
 
+![Pedal Away Webelos adventure belt loop](images/pedal-away.jpg)
 
 - **Adventure name:** Pedal Away
 - **Rank:** Webelos

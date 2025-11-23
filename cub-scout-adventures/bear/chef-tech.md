@@ -1,5 +1,6 @@
 # Chef Tech Bear Adventure
 
+![Chef Tech Bear adventure belt loop](images/chef-tech.jpg)
 
 - **Adventure name:** Chef Tech
 - **Rank:** Bear

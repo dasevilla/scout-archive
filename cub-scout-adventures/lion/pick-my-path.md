@@ -1,5 +1,6 @@
 # Pick My Path Lion Adventure
 
+![Pick My Path Lion adventure belt loop](images/pick-my-path.jpg)
 
 - **Adventure name:** Pick My Path
 - **Rank:** Lion

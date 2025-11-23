@@ -1,5 +1,6 @@
 # My Family Webelos Adventure
 
+![My Family Webelos adventure belt loop](images/my-family.jpg)
 
 - **Adventure name:** My Family
 - **Rank:** Webelos

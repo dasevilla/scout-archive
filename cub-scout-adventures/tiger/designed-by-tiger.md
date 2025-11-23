@@ -1,5 +1,6 @@
 # Designed by Tiger Tiger Adventure
 
+![Designed by Tiger Tiger adventure belt loop](images/designed-by-tiger.jpg)
 
 - **Adventure name:** Designed by Tiger
 - **Rank:** Tiger

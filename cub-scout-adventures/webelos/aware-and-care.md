@@ -1,5 +1,6 @@
 # Aware and Care Webelos Adventure
 
+![Aware and Care Webelos adventure belt loop](images/aware-and-care.jpg)
 
 - **Adventure name:** Aware and Care
 - **Rank:** Webelos

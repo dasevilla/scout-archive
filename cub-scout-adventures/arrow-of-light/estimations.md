@@ -1,5 +1,6 @@
 # Estimations Arrow of Light Adventure
 
+![Estimations Arrow of Light adventure belt loop](images/estimations.jpg)
 
 - **Adventure name:** Estimations
 - **Rank:** Arrow of Light

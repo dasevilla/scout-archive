@@ -1,5 +1,6 @@
 # Floats and Boats Tiger Adventure
 
+![Floats and Boats Tiger adventure belt loop](images/floats-and-boats.jpg)
 
 - **Adventure name:** Floats and Boats
 - **Rank:** Tiger

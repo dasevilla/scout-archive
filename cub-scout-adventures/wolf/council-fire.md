@@ -71,7 +71,7 @@ Participate in a service project.  Explain how your volunteering is helpful to 
 **Activities:**
 
 - **[10,000 for the Troops – Wolf](https://www.scouting.org/cub-scout-activities/10000-for-the-troops-wolf/)** (Indoor, energy 2, supplies 2, prep 2)
-  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.  Please have letters mailed to the Scouting America National Service Center by November 7, 2025 .
+  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.  Thank you for a great 2025, Cub Scout submitted over 35,000 letters .  We look forward to doing this again in 2026.
 - **[Helping our Four-Legged Friends](https://www.scouting.org/cub-scout-activities/helping-our-four-legged-friends/)** (Travel, energy 3, supplies 3, prep 5)
   With your den, host a pet food drive to support a local pet shelter.
 - **[Scouting for Food Wolf](https://www.scouting.org/cub-scout-activities/scouting-for-food-wolf/)** (Travel, energy 3, supplies 1, prep 5)

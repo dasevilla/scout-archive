@@ -90,5 +90,7 @@ Preventing crime, which can be as simple as reducing the opportuntities for crim
 - [Crime Prevention merit badge page](https://www.scouting.org/merit-badges/crime-prevention/)
 - [Crime Prevention merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Crime%20Prevention.pdf) ([local copy](files/crime-prevention-merit-badge.pdf))
 - [Crime Prevention merit badge pamphlet](https://www.scoutshop.org/mbp-4c-crime-prevention-641575.html)
+- [Crime Prevention merit badge workbook PDF](http://usscouts.org/mb/worksheets/Crime-Prevention.pdf)
+- [Crime Prevention merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Crime-Prevention.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

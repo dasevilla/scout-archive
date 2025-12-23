@@ -93,5 +93,7 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 - [Bird Study merit badge page](https://www.scouting.org/merit-badges/bird-study/)
 - [Bird Study merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Bird%20Study.pdf) ([local copy](files/bird-study-merit-badge.pdf))
 - [Bird Study merit badge pamphlet](https://www.scoutshop.org/bsa-bird-study-merit-badge-pamphlet-661586.html)
+- [Bird Study merit badge workbook PDF](http://usscouts.org/mb/worksheets/Bird-Study.pdf)
+- [Bird Study merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Bird-Study.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

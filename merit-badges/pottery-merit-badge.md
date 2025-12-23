@@ -47,5 +47,7 @@ The Pottery merit badge provides an introduction to pottery making, enabling Sco
 - [Pottery merit badge page](https://www.scouting.org/merit-badges/pottery/)
 - [Pottery merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pottery.pdf) ([local copy](files/pottery-merit-badge.pdf))
 - [Pottery merit badge pamphlet](https://www.scoutshop.org/mbp-4c-pottery-638107.html)
+- [Pottery merit badge workbook PDF](http://usscouts.org/mb/worksheets/Pottery.pdf)
+- [Pottery merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Pottery.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

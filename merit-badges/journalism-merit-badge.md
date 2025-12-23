@@ -48,5 +48,7 @@ One thing is for sure about journalism: It is never boring. For a reporter, almo
 - [Journalism merit badge page](https://www.scouting.org/merit-badges/journalism/)
 - [Journalism merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Journalism.pdf) ([local copy](files/journalism-merit-badge.pdf))
 - [Journalism merit badge pamphlet](https://www.scoutshop.org/mbp-4c-journalism-629415.html)
+- [Journalism merit badge workbook PDF](http://usscouts.org/mb/worksheets/Journalism.pdf)
+- [Journalism merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Journalism.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -43,5 +43,7 @@ The field of graphic arts includes many kinds of work in the printing and publis
 - [Graphic Arts merit badge page](https://www.scouting.org/merit-badges/graphic-arts/)
 - [Graphic Arts merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Graphic%20Arts.pdf) ([local copy](files/graphic-arts-merit-badge.pdf))
 - [Graphic Arts merit badge pamphlet](https://www.scoutshop.org/graphic-arts-merit-badge-pamphlet-648314.html)
+- [Graphic Arts merit badge workbook PDF](http://usscouts.org/mb/worksheets/Graphic-Arts.pdf)
+- [Graphic Arts merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Graphic-Arts.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

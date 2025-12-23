@@ -94,5 +94,7 @@ Learning to shoot is like mastering any other skill — it takes study and pract
 - [Shotgun Shooting merit badge page](https://www.scouting.org/merit-badges/shotgun-shooting/)
 - [Shotgun Shooting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Shotgun%20Shooting.pdf) ([local copy](files/shotgun-shooting-merit-badge.pdf))
 - [Shotgun Shooting merit badge pamphlet](https://www.scoutshop.org/shotgun-shooting-merit-badge-pamphlet-650743.html)
+- [Shotgun Shooting merit badge workbook PDF](http://usscouts.org/mb/worksheets/Shotgun-Shooting.pdf)
+- [Shotgun Shooting merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Shotgun-Shooting.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

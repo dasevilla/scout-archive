@@ -54,5 +54,7 @@ Humans have been growing plants for thousands of years. Farmers and horticulturi
 - [Gardening merit badge page](https://www.scouting.org/merit-badges/gardening/)
 - [Gardening merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Gardening.pdf) ([local copy](files/gardening-merit-badge.pdf))
 - [Gardening merit badge pamphlet](https://www.scoutshop.org/gardening-merit-badge-pamphlet-654566.html)
+- [Gardening merit badge workbook PDF](http://usscouts.org/mb/worksheets/Gardening.pdf)
+- [Gardening merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Gardening.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

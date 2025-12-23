@@ -45,5 +45,7 @@ Explore the different types of the healthcare fields and professions with the He
 - [Health Care Professions merit badge page](https://www.scouting.org/merit-badges/health-care-professions/)
 - [Health Care Professions merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Health%20Care%20Professions.pdf) ([local copy](files/health-care-professions-merit-badge.pdf))
 - [Health Care Professions merit badge pamphlet](https://www.scoutshop.org/healthcare-professions-merit-badge-pamphlet-656838.html)
+- [Health Care Professions merit badge workbook PDF](http://usscouts.org/mb/worksheets/Health-Care-Professions.pdf)
+- [Health Care Professions merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Health-Care-Professions.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

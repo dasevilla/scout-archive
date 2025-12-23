@@ -57,5 +57,7 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
 - [Nuclear Science merit badge page](https://www.scouting.org/merit-badges/nuclear-science/)
 - [Nuclear Science merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Nuclear%20Science.pdf) ([local copy](files/nuclear-science-merit-badge.pdf))
 - [Nuclear Science merit badge pamphlet](https://www.scoutshop.org/nuclear-science-merit-badge-pamphlet-660061.html)
+- [Nuclear Science merit badge workbook PDF](http://usscouts.org/mb/worksheets/Nuclear-Science.pdf)
+- [Nuclear Science merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Nuclear-Science.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

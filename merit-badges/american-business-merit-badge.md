@@ -49,5 +49,7 @@ Earning the American Business Merit Badge can help Scouts learn practical busine
 - [American Business merit badge page](https://www.scouting.org/merit-badges/american-business/)
 - [American Business merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Business.pdf) ([local copy](files/american-business-merit-badge.pdf))
 - [American Business merit badge pamphlet](https://www.scoutshop.org/american-business-merit-badge-pamphlet-660202.html)
+- [American Business merit badge workbook PDF](http://usscouts.org/mb/worksheets/American-Business.pdf)
+- [American Business merit badge workbook DOCX](http://usscouts.org/mb/worksheets/American-Business.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

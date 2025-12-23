@@ -68,5 +68,7 @@ Discover the history and importance of various kinds of exploration by earning t
 - [Exploration merit badge page](https://www.scouting.org/merit-badges/exploration/)
 - [Exploration merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Exploration.pdf) ([local copy](files/exploration-merit-badge.pdf))
 - [Exploration merit badge pamphlet](https://www.scoutshop.org/exploration-merit-badge-pamphlet-622522.html)
+- [Exploration merit badge workbook PDF](http://usscouts.org/mb/worksheets/Exploration.pdf)
+- [Exploration merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Exploration.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -56,5 +56,7 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
 - [Electronics merit badge page](https://www.scouting.org/merit-badges/electronics/)
 - [Electronics merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electronics.pdf) ([local copy](files/electronics-merit-badge.pdf))
 - [Electronics merit badge pamphlet](https://www.scoutshop.org/electronics-merit-badge-pamphlet-654565.html)
+- [Electronics merit badge workbook PDF](http://usscouts.org/mb/worksheets/Electronics.pdf)
+- [Electronics merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Electronics.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

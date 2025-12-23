@@ -76,5 +76,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 - [Cycling merit badge page](https://www.scouting.org/merit-badges/cycling/)
 - [Cycling merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cycling.pdf) ([local copy](files/cycling-merit-badge.pdf))
 - [Cycling merit badge pamphlet](https://www.scoutshop.org/cycling-merit-badge-pamphlet-655187.html)
+- [Cycling merit badge workbook PDF](http://usscouts.org/mb/worksheets/Cycling.pdf)
+- [Cycling merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Cycling.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

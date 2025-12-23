@@ -47,5 +47,7 @@ In Animation merit badge you’ll learn how to create animations, the ways in wh
 - [Animation merit badge page](https://www.scouting.org/merit-badges/animation/)
 - [Animation merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Animation.pdf) ([local copy](files/animation-merit-badge.pdf))
 - [Animation merit badge pamphlet](https://www.scoutshop.org/animation-merit-badge-pamphlet-656895.html)
+- [Animation merit badge workbook PDF](http://usscouts.org/mb/worksheets/Animation.pdf)
+- [Animation merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Animation.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

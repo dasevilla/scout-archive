@@ -30,5 +30,7 @@ Explore a whole new environment under the sea with the Scuba Diving Merit Badge.
 - [Scuba Diving merit badge page](https://www.scouting.org/merit-badges/scuba-diving/)
 - [Scuba Diving merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Scuba%20Diving.pdf) ([local copy](files/scuba-diving-merit-badge.pdf))
 - [Scuba Diving merit badge pamphlet](https://www.scoutshop.org/scuba-diving-35969.html)
+- [Scuba Diving merit badge workbook PDF](http://usscouts.org/mb/worksheets/Scuba-Diving.pdf)
+- [Scuba Diving merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Scuba-Diving.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

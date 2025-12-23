@@ -76,5 +76,7 @@ Comprehend how electronic devices work and how to use them effectively with the 
 - [Digital Technology merit badge page](https://www.scouting.org/merit-badges/digital-technology/)
 - [Digital Technology merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Digital%20Technology.pdf) ([local copy](files/digital-technology-merit-badge.pdf))
 - [Digital Technology merit badge pamphlet](https://www.scoutshop.org/bsa-digital-technology-merit-badge-pamphlet-661587.html)
+- [Digital Technology merit badge workbook PDF](http://usscouts.org/mb/worksheets/Digital-Technology.pdf)
+- [Digital Technology merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Digital-Technology.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

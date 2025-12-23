@@ -83,5 +83,7 @@ Geology is the study of Earth. It includes the study of materials that make up E
 - [Geology merit badge page](https://www.scouting.org/merit-badges/geology/)
 - [Geology merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Geology.pdf) ([local copy](files/geology-merit-badge.pdf))
 - [Geology merit badge pamphlet](https://www.scoutshop.org/bsa-geology-merit-badge-pamphlet-boy-scouts-of-america-660059.html)
+- [Geology merit badge workbook PDF](http://usscouts.org/mb/worksheets/Geology.pdf)
+- [Geology merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Geology.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

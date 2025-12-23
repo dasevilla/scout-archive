@@ -54,5 +54,7 @@ Chemistry explores how substances react with each other, how they change, how ce
 - [Chemistry merit badge page](https://www.scouting.org/merit-badges/chemistry/)
 - [Chemistry merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf) ([local copy](files/chemistry-merit-badge.pdf))
 - [Chemistry merit badge pamphlet](https://www.scoutshop.org/bsa-chemistry-merit-badge-pamphlet-boy-scouts-of-america-660394.html)
+- [Chemistry merit badge workbook PDF](http://usscouts.org/mb/worksheets/Chemistry.pdf)
+- [Chemistry merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Chemistry.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

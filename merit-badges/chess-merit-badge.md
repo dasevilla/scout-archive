@@ -54,5 +54,7 @@ Chess is among the oldest board games in the world, and it ranks among the most 
 - [Chess merit badge page](https://www.scouting.org/merit-badges/chess/)
 - [Chess merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chess.pdf) ([local copy](files/chess-merit-badge.pdf))
 - [Chess merit badge pamphlet](https://www.scoutshop.org/chess-merit-badge-pamphlet-660204.html)
+- [Chess merit badge workbook PDF](http://usscouts.org/mb/worksheets/Chess.pdf)
+- [Chess merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Chess.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

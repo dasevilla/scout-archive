@@ -34,5 +34,7 @@ This merit badge provides an opportunity for Scouts to learn more about painting
 - [Painting merit badge page](https://www.scouting.org/merit-badges/painting/)
 - [Painting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Painting.pdf) ([local copy](files/painting-merit-badge.pdf))
 - [Painting merit badge pamphlet](https://www.scoutshop.org/painting-merit-badge-pamphlet-650872.html)
+- [Painting merit badge workbook PDF](http://usscouts.org/mb/worksheets/Painting.pdf)
+- [Painting merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Painting.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

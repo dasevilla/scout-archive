@@ -65,5 +65,7 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
 - [Environmental Science merit badge page](https://www.scouting.org/merit-badges/environmental-science/)
 - [Environmental Science merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Environmental_Science.pdf) ([local copy](files/environmental-science-merit-badge.pdf))
 - [Environmental Science merit badge pamphlet](https://www.scoutshop.org/bsa-enviromental-science-merit-badge-pamphlet-es-boy-scouts-of-america-660375.html)
+- [Environmental Science merit badge workbook PDF](http://usscouts.org/mb/worksheets/Environmental-Science.pdf)
+- [Environmental Science merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Environmental-Science.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -63,5 +63,7 @@ The love and interdependence between humans and dogs has endured for thousands o
 - [Dog Care merit badge page](https://www.scouting.org/merit-badges/dog-care/)
 - [Dog Care merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dog%20Care.pdf) ([local copy](files/dog-care-merit-badge.pdf))
 - [Dog Care merit badge pamphlet](https://www.scoutshop.org/bsa-dog-care-merit-badge-pamphlet-661048.html)
+- [Dog Care merit badge workbook PDF](http://usscouts.org/mb/worksheets/Dog-Care.pdf)
+- [Dog Care merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Dog-Care.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

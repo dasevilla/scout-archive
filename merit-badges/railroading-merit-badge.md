@@ -84,5 +84,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
 - [Railroading merit badge page](https://www.scouting.org/merit-badges/railroading/)
 - [Railroading merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Railroading.pdf) ([local copy](files/railroading-merit-badge.pdf))
 - [Railroading merit badge pamphlet](https://www.scoutshop.org/railroading-merit-badge-pamphlet-660205.html)
+- [Railroading merit badge workbook PDF](http://usscouts.org/mb/worksheets/Railroading.pdf)
+- [Railroading merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Railroading.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

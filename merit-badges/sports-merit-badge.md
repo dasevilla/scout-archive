@@ -56,5 +56,7 @@ Millions of people participate in sports every year. For some the appeal is the 
 - [Sports merit badge page](https://www.scouting.org/merit-badges/sports/)
 - [Sports merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sports.pdf) ([local copy](files/sports-merit-badge.pdf))
 - [Sports merit badge pamphlet](https://www.scoutshop.org/bsa-sports-merit-badge-pamphlet-boy-scouts-of-america-659869.html)
+- [Sports merit badge workbook PDF](http://usscouts.org/mb/worksheets/Sports.pdf)
+- [Sports merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Sports.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

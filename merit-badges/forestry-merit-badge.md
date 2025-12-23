@@ -69,5 +69,7 @@ In working through the Forestry merit badge requirements, Scouts will explore th
 - [Forestry merit badge page](https://www.scouting.org/merit-badges/forestry/)
 - [Forestry merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Forestry.pdf) ([local copy](files/forestry-merit-badge.pdf))
 - [Forestry merit badge pamphlet](https://www.scoutshop.org/forestry-merit-badge-pamphlet-662389.html)
+- [Forestry merit badge workbook PDF](http://usscouts.org/mb/worksheets/Forestry.pdf)
+- [Forestry merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Forestry.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

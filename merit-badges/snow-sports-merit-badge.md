@@ -99,5 +99,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
 - [Snow Sports merit badge page](https://www.scouting.org/merit-badges/snow-sports/)
 - [Snow Sports merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Snow%20Sports.pdf) ([local copy](files/snow-sports-merit-badge.pdf))
 - [Snow Sports merit badge pamphlet](https://www.scoutshop.org/mbp-snow-sports-656882.html)
+- [Snow Sports merit badge workbook PDF](http://usscouts.org/mb/worksheets/Snow-Sports.pdf)
+- [Snow Sports merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Snow-Sports.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

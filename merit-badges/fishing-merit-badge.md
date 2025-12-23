@@ -41,5 +41,7 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 - [Fishing merit badge page](https://www.scouting.org/merit-badges/fishing/)
 - [Fishing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fishing.pdf) ([local copy](files/fishing-merit-badge.pdf))
 - [Fishing merit badge pamphlet](https://www.scoutshop.org/bsa-fishing-merit-badge-pamphletboy-scouts-of-america-660533.html)
+- [Fishing merit badge workbook PDF](http://usscouts.org/mb/worksheets/Fishing.pdf)
+- [Fishing merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Fishing.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

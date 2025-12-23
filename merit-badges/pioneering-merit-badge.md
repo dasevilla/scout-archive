@@ -44,5 +44,7 @@ Pioneering—the knowledge of ropes, knots, and splices along with the ability t
 - [Pioneering merit badge page](https://www.scouting.org/merit-badges/pioneering/)
 - [Pioneering merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pioneering.pdf) ([local copy](files/pioneering-merit-badge.pdf))
 - [Pioneering merit badge pamphlet](https://www.scoutshop.org/pioneering-merit-badge-pamphlet-662419.html)
+- [Pioneering merit badge workbook PDF](http://usscouts.org/mb/worksheets/Pioneering.pdf)
+- [Pioneering merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Pioneering.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

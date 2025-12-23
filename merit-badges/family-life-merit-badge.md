@@ -45,5 +45,7 @@ The family is the basic unit of society and is important to both individuals and
 - [Family Life merit badge page](https://www.scouting.org/merit-badges/family-life/)
 - [Family Life merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Family%20Life.pdf) ([local copy](files/family-life-merit-badge.pdf))
 - [Family Life merit badge pamphlet](https://www.scoutshop.org/bsa-family-life-merit-badge-pamphlet-esboy-scouts-ofamerica-660410.html)
+- [Family Life merit badge workbook PDF](http://usscouts.org/mb/worksheets/Family-Life.pdf)
+- [Family Life merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Family-Life.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -45,5 +45,7 @@ The field of veterinary medicine in the 21st century is one of the most exciting
 - [Veterinary Medicine merit badge page](https://www.scouting.org/merit-badges/veterinary-medicine/)
 - [Veterinary Medicine merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Veterinary%20Medicine.pdf) ([local copy](files/veterinary-medicine-merit-badge.pdf))
 - [Veterinary Medicine merit badge pamphlet](https://www.scoutshop.org/veterinarian-medicine-merit-badge-pamphlet-655683.html)
+- [Veterinary Medicine merit badge workbook PDF](http://usscouts.org/mb/worksheets/Veterinary-Medicine.pdf)
+- [Veterinary Medicine merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Veterinary-Medicine.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

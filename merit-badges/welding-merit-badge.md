@@ -52,5 +52,7 @@ Welding is the process of joining with a weld – joining or combining similar p
 - [Welding merit badge page](https://www.scouting.org/merit-badges/welding/)
 - [Welding merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Welding.pdf) ([local copy](files/welding-merit-badge.pdf))
 - [Welding merit badge pamphlet](https://www.scoutshop.org/bsa-welding-merit-badge-pamphlet-661051.html)
+- [Welding merit badge workbook PDF](http://usscouts.org/mb/worksheets/Welding.pdf)
+- [Welding merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Welding.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -105,5 +105,7 @@ Golf is unique because the players police themselves. Other sports depend upon r
 - [Golf merit badge page](https://www.scouting.org/merit-badges/golf/)
 - [Golf merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Golf.pdf) ([local copy](files/golf-merit-badge.pdf))
 - [Golf merit badge pamphlet](https://www.scoutshop.org/golf-merit-badge-pamphlet-662394.html)
+- [Golf merit badge workbook PDF](http://usscouts.org/mb/worksheets/Golf.pdf)
+- [Golf merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Golf.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -177,5 +177,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 - [Plant Science merit badge page](https://www.scouting.org/merit-badges/plant-science/)
 - [Plant Science merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Plant%20Science.pdf) ([local copy](files/plant-science-merit-badge.pdf))
 - [Plant Science merit badge pamphlet](https://www.scoutshop.org/bsa-plant-science-merit-badge-pamphlet-boy-scouts-of-america-660055.html)
+- [Plant Science merit badge workbook PDF](http://usscouts.org/mb/worksheets/Plant-Science.pdf)
+- [Plant Science merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Plant-Science.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

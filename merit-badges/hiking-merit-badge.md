@@ -42,5 +42,7 @@ Hiking is a terrific way to keep your body and mind in top shape, both now and f
 - [Hiking merit badge page](https://www.scouting.org/merit-badges/hiking/)
 - [Hiking merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Hiking.pdf) ([local copy](files/hiking-merit-badge.pdf))
 - [Hiking merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-hiking-merit-badge-pamphlet-es-662397.html)
+- [Hiking merit badge workbook PDF](http://usscouts.org/mb/worksheets/Hiking.pdf)
+- [Hiking merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Hiking.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

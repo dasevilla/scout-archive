@@ -159,5 +159,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
 - [Skating merit badge page](https://www.scouting.org/merit-badges/skating/)
 - [Skating merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Skating.pdf) ([local copy](files/skating-merit-badge.pdf))
 - [Skating merit badge pamphlet](https://www.scoutshop.org/skating-merit-badge-pamphlet-650744.html)
+- [Skating merit badge workbook PDF](http://usscouts.org/mb/worksheets/Skating.pdf)
+- [Skating merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Skating.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

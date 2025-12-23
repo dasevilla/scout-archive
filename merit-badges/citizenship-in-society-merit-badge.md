@@ -100,5 +100,7 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
 
 - [Citizenship in Society merit badge page](https://www.scouting.org/merit-badges/citizenship-in-society/)
 - [Citizenship in Society merit badge pamphlet](None)
+- [Citizenship in Society merit badge workbook PDF](http://usscouts.org/mb/worksheets/Citizenship-in-Society-Checklist.pdf)
+- [Citizenship in Society merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Citizenship-in-Society-Checklist.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

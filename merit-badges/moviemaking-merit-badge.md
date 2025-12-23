@@ -47,5 +47,7 @@ Moviemaking is a way to tell stories visually through the art and science of mot
 - [Moviemaking merit badge page](https://www.scouting.org/merit-badges/moviemaking/)
 - [Moviemaking merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Moviemaking.pdf) ([local copy](files/moviemaking-merit-badge.pdf))
 - [Moviemaking merit badge pamphlet](https://www.scoutshop.org/moviemaking-merit-badge-pamphlet-650735.html)
+- [Moviemaking merit badge workbook PDF](http://usscouts.org/mb/worksheets/Moviemaking.pdf)
+- [Moviemaking merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Moviemaking.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

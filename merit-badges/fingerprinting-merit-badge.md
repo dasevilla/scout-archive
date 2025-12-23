@@ -39,5 +39,7 @@ In earning the Fingerprinting merit badge, Scouts will learn about and use an im
 - [Fingerprinting merit badge page](https://www.scouting.org/merit-badges/fingerprinting/)
 - [Fingerprinting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fingerprinting.pdf) ([local copy](files/fingerprinting-merit-badge.pdf))
 - [Fingerprinting merit badge pamphlet](https://www.scoutshop.org/fingerprinting-merit-badge-pamphlet-650716.html)
+- [Fingerprinting merit badge workbook PDF](http://usscouts.org/mb/worksheets/Fingerprinting.pdf)
+- [Fingerprinting merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Fingerprinting.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

@@ -25,5 +25,7 @@ A lot happens during the course of every person’s life and your ability to com
 - [Public Speaking merit badge page](https://www.scouting.org/merit-badges/public-speaking/)
 - [Public Speaking merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Speaking.pdf) ([local copy](files/public-speaking-merit-badge.pdf))
 - [Public Speaking merit badge pamphlet](https://www.scoutshop.org/public-speaking-merit-badge-pamphlet-655689.html)
+- [Public Speaking merit badge workbook PDF](http://usscouts.org/mb/worksheets/Public-Speaking.pdf)
+- [Public Speaking merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Public-Speaking.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

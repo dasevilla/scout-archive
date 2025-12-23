@@ -86,5 +86,7 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 - [Camping merit badge page](https://www.scouting.org/merit-badges/camping/)
 - [Camping merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf) ([local copy](files/camping-merit-badge.pdf))
 - [Camping merit badge pamphlet](https://www.scoutshop.org/scouts-bsa-camping-merit-badge-pamphlet-662366.html)
+- [Camping merit badge workbook PDF](http://usscouts.org/mb/worksheets/Camping.pdf)
+- [Camping merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Camping.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

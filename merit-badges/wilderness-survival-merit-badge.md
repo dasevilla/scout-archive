@@ -48,5 +48,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 - [Wilderness Survival merit badge page](https://www.scouting.org/merit-badges/wilderness-survival/)
 - [Wilderness Survival merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wilderness%20Survival.pdf) ([local copy](files/wilderness-survival-merit-badge.pdf))
 - [Wilderness Survival merit badge pamphlet](https://www.scoutshop.org/wilderness-survival-merit-badge-pamphlet-655688.html)
+- [Wilderness Survival merit badge workbook PDF](http://usscouts.org/mb/worksheets/Wilderness-Survival.pdf)
+- [Wilderness Survival merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Wilderness-Survival.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

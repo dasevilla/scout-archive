@@ -47,5 +47,7 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
 - [Fly Fishing merit badge page](https://www.scouting.org/merit-badges/fly-fishing/)
 - [Fly Fishing merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fly-Fishing.pdf) ([local copy](files/fly-fishing-merit-badge.pdf))
 - [Fly Fishing merit badge pamphlet](https://www.scoutshop.org/fly-fishing-merit-badge-pamphlet-650715.html)
+- [Fly Fishing merit badge workbook PDF](http://usscouts.org/mb/worksheets/Fly-Fishing.pdf)
+- [Fly Fishing merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Fly-Fishing.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

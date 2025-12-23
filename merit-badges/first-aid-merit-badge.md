@@ -160,5 +160,7 @@ First aid—caring for injured or ill persons until they can receive professiona
 - [First Aid merit badge page](https://www.scouting.org/merit-badges/first-aid/)
 - [First Aid merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/First%20Aid.pdf) ([local copy](files/first-aid-merit-badge.pdf))
 - [First Aid merit badge pamphlet](https://www.scoutshop.org/first-aid-merit-badge-pamphlet-660207.html)
+- [First Aid merit badge workbook PDF](http://usscouts.org/mb/worksheets/First-Aid.pdf)
+- [First Aid merit badge workbook DOCX](http://usscouts.org/mb/worksheets/First-Aid.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

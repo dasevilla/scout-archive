@@ -85,5 +85,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
 - [Rifle Shooting merit badge page](https://www.scouting.org/merit-badges/rifle-shooting/)
 - [Rifle Shooting merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Rifle%20Shooting.pdf) ([local copy](files/rifle-shooting-merit-badge.pdf))
 - [Rifle Shooting merit badge pamphlet](https://www.scoutshop.org/bsa-rifle-shooting-merit-badge-pamphlet-661776.html)
+- [Rifle Shooting merit badge workbook PDF](http://usscouts.org/mb/worksheets/Rifle-Shooting.pdf)
+- [Rifle Shooting merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Rifle-Shooting.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

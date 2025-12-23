@@ -33,5 +33,7 @@ The United States is a nation of immigrants. Every person came to America from s
 - [American Cultures merit badge page](https://www.scouting.org/merit-badges/american-cultures/)
 - [American Cultures merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Cultures.pdf) ([local copy](files/american-cultures-merit-badge.pdf))
 - [American Cultures merit badge pamphlet](https://www.scoutshop.org/american-cultures-merit-badge-pamphlet-655136.html)
+- [American Cultures merit badge workbook PDF](http://usscouts.org/mb/worksheets/American-Cultures.pdf)
+- [American Cultures merit badge workbook DOCX](http://usscouts.org/mb/worksheets/American-Cultures.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

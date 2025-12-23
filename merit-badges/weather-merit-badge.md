@@ -35,5 +35,7 @@ Meteorology is the study of Earth’s atmosphere and its weather and the ways in
 - [Weather merit badge page](https://www.scouting.org/merit-badges/weather/)
 - [Weather merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Weather.pdf) ([local copy](files/weather-merit-badge.pdf))
 - [Weather merit badge pamphlet](https://www.scoutshop.org/weather-merit-badge-pamphlet-650748.html)
+- [Weather merit badge workbook PDF](http://usscouts.org/mb/worksheets/Weather.pdf)
+- [Weather merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Weather.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

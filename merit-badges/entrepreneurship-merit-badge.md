@@ -59,5 +59,7 @@ By earning the Entrepreneurship merit badge, Scouts will learn about identifying
 - [Entrepreneurship merit badge page](https://www.scouting.org/merit-badges/entrepreneurship/)
 - [Entrepreneurship merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Entrepreneurship.pdf) ([local copy](files/entrepreneurship-merit-badge.pdf))
 - [Entrepreneurship merit badge pamphlet](https://www.scoutshop.org/entrepreneurship-merit-badge-pamphlet-657341.html)
+- [Entrepreneurship merit badge workbook PDF](http://usscouts.org/mb/worksheets/Entrepreneurship.pdf)
+- [Entrepreneurship merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Entrepreneurship.docx)
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

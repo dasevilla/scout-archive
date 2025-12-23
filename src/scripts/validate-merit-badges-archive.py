@@ -122,6 +122,12 @@ def validate_badge_content(file_path):
         if not data.get("shop_url"):
             warnings.append("Missing shop URL")
 
+        if not data.get("workbook_pdf_url"):
+            warnings.append("Missing workbook PDF URL")
+
+        if not data.get("workbook_docx_url"):
+            warnings.append("Missing workbook DOCX URL")
+
     return errors, warnings
 
 
@@ -228,6 +234,8 @@ def main():
         missing_pdf_urls = []
         missing_image_urls = []
         missing_shop_urls = []
+        missing_workbook_pdf_urls = []
+        missing_workbook_docx_urls = []
 
         for warning in all_warnings:
             print(f"- {warning}")
@@ -239,6 +247,10 @@ def main():
                 missing_image_urls.append(badge_name)
             if "Missing shop URL" in warning:
                 missing_shop_urls.append(badge_name)
+            if "Missing workbook PDF URL" in warning:
+                missing_workbook_pdf_urls.append(badge_name)
+            if "Missing workbook DOCX URL" in warning:
+                missing_workbook_docx_urls.append(badge_name)
 
         print(
             f"\n{badges_with_missing_urls} of {badge_count} badges are missing one or more URLs"
@@ -251,6 +263,14 @@ def main():
             print(f"- {len(missing_image_urls)} badges missing image URLs")
         if missing_shop_urls:
             print(f"- {len(missing_shop_urls)} badges missing shop URLs")
+        if missing_workbook_pdf_urls:
+            print(
+                f"- {len(missing_workbook_pdf_urls)} badges missing workbook PDF URLs"
+            )
+        if missing_workbook_docx_urls:
+            print(
+                f"- {len(missing_workbook_docx_urls)} badges missing workbook DOCX URLs"
+            )
 
         print("These warnings won't fail validation, but should be investigated")
         print()

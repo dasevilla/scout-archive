@@ -42,5 +42,11 @@
 - [{{ badge_name }} merit badge PDF]({{ badge_pdf_url }})
 {% endif %}
 - [{{ badge_name }} merit badge pamphlet]({{ badge_shop_url }})
+{% if workbook_pdf_url %}
+- [{{ badge_name }} merit badge workbook PDF]({{ workbook_pdf_url }})
+{% endif %}
+{% if workbook_docx_url %}
+- [{{ badge_name }} merit badge workbook DOCX]({{ workbook_docx_url }})
+{% endif %}
 
 Note: This is an unofficial archive of Scouts BSA Merit Badges that was automatically extracted from the Scouting America website and may contain errors.

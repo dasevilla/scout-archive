@@ -23,6 +23,11 @@ logger = logging.getLogger("scout_archive.pipelines")
 
 
 class MeritBadgeFilesPipeline(FilesPipeline):
+    def get_media_requests(self, item, info):
+        if isinstance(item, MeritBadgeItem):
+            return super().get_media_requests(item, info)
+        return []
+
     def file_path(self, request, response=None, info=None, *, item=None):
         media_guid = sanitize_filename(item["badge_url_slug"]) + "-merit-badge"
         media_ext = Path(request.url).suffix
@@ -37,6 +42,11 @@ class MeritBadgeFilesPipeline(FilesPipeline):
 
 
 class MeritBadgeImagesPipeline(ImagesPipeline):
+    def get_media_requests(self, item, info):
+        if isinstance(item, MeritBadgeItem):
+            return super().get_media_requests(item, info)
+        return []
+
     def file_path(self, request, response=None, info=None, *, item=None):
         image_guid = sanitize_filename(item["badge_url_slug"]) + "-merit-badge"
         filename = f"{image_guid}.jpg"
@@ -46,6 +56,11 @@ class MeritBadgeImagesPipeline(ImagesPipeline):
 
 
 class CubScoutAdventureImagesPipeline(ImagesPipeline):
+    def get_media_requests(self, item, info):
+        if isinstance(item, CubScoutAdventureItem):
+            return super().get_media_requests(item, info)
+        return []
+
     def file_path(self, request, response=None, info=None, *, item=None):
         rank_name = sanitize_filename(item["rank_name"])
         adventure_name = sanitize_filename(item["adventure_name"])
@@ -95,6 +110,8 @@ class ScoutArchivePipeline:
                 "is_eagle_required": item.get("is_eagle_required"),
                 "url": item.get("badge_url"),
                 "pdf_url": item.get("badge_pdf_url"),
+                "workbook_pdf_url": item.get("workbook_pdf_url"),
+                "workbook_docx_url": item.get("workbook_docx_url"),
                 "shop_url": item.get("badge_shop_url"),
                 "image_url": item.get("badge_image_url"),
                 "image_filename": item.get("badge_image_filename"),

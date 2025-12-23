@@ -5,12 +5,120 @@ import re
 
 class MeritBadgesSpider(scrapy.Spider):
     name = "merit_badges"
-    allowed_domains = ["scouting.org"]
+    allowed_domains = ["scouting.org", "usscouts.org"]
     start_urls = ["https://www.scouting.org/skills/merit-badges/all/"]
 
     def __init__(self, name=None, url=None, **kwargs):
         self.single_url = url
+        self.workbook_links = {}
         super().__init__(name, **kwargs)
+
+    def start_requests(self):
+        yield scrapy.Request(
+            "http://usscouts.org/mb/worksheets/list.asp",
+            callback=self.parse_worksheets,
+            errback=self.handle_worksheets_error,
+        )
+
+    def handle_worksheets_error(self, failure):
+        self.logger.error(f"Failed to fetch worksheets: {failure}")
+        yield from self.start_main_crawl()
+
+    def start_main_crawl(self):
+        if self.single_url:
+            yield scrapy.Request(self.single_url, callback=self.parse_merit_badge)
+        else:
+            for url in self.start_urls:
+                yield scrapy.Request(url, callback=self.parse_start_url_custom)
+
+    def parse_start_url_custom(self, response):
+        yield from response.follow_all(
+            css="h2 a[href*='/merit-badges/']", callback=self.parse_merit_badge
+        )
+
+    def parse_worksheets(self, response):
+        # Extract workbook links
+        # The table has rows with columns: ID, Scoutbook ID, Name, Updated, DOCX, PDF, Pages
+        # We look for links ending in .docx or .pdf
+
+        # Iterate over all rows in the main table
+        # We can find rows that have a DOCX or PDF link
+        for row in response.css("table tr"):
+            links = row.css("a")
+            if not links:
+                continue
+
+            # Try to find the name and links
+            name = None
+            docx_url = None
+            pdf_url = None
+
+            # Usually the name is the first link, or in the first few columns
+            # But the structure is a bit loose.
+            # Let's look for a cell with a link to mbXX.asp or similar for the name,
+            # OR just use the text of the first cell?
+            # From browser inspection: Name is in column 3 (index 2), has link to ../mb001.asp
+            # DOCX is in col 5, PDF in col 6.
+
+            cells = row.css("td")
+            if len(cells) < 3:
+                continue
+
+            # Attempt to extract name from the cell that has the merit badge page link (usually col 3)
+            # The name might be just text or a link
+            # Let's heuristic: find the cell with the badge name
+            # It's usually the one with a link to "../mbXXX.asp" or similar, or just text.
+            # However, simpler approach:
+            # The Name col text is the key.
+            # DOCX link text is often "Camping.docx". PDF is "Camping.pdf".
+
+            # Let's iterate cells and find links
+            for link in links:
+                href = link.attrib.get("href", "")
+
+                lower_href = href.lower()
+                if lower_href.endswith(".docx") or lower_href.endswith(".doc"):
+                    docx_url = response.urljoin(href)
+                elif lower_href.endswith(".pdf"):
+                    pdf_url = response.urljoin(href)
+
+            # If we found at least one workbook link, we need a name
+            if docx_url or pdf_url:
+                # Consider link text as possible badge name
+                possible_names = []
+                for link in links:
+                    href = link.attrib.get("href", "")
+                    lower_href = href.lower()
+                    if not (
+                        lower_href.endswith(".docx")
+                        or lower_href.endswith(".doc")
+                        or lower_href.endswith(".pdf")
+                    ):
+                        link_text = link.css("::text").get()
+                        if link_text:
+                            possible_names.append(" ".join(link_text.split()))
+
+                if possible_names:
+                    # Taking the first non-document link as name
+                    name = possible_names[0]
+
+                    # Normalize name for storage
+                    # Remove "Merit Badge" from name if present (though usually not there on usscouts)
+                    clean_name = name.replace("Merit Badge", "").strip()
+
+                    if clean_name not in self.workbook_links:
+                        self.workbook_links[clean_name] = {}
+
+                    if docx_url:
+                        self.workbook_links[clean_name]["docx"] = docx_url
+                    if pdf_url:
+                        self.workbook_links[clean_name]["pdf"] = pdf_url
+
+        self.logger.info(
+            f"Loaded {len(self.workbook_links)} workbook entries from usscouts.org"
+        )
+
+        yield from self.start_main_crawl()
 
     def parse(self, response):
         # If a single URL was provided, use that instead of crawling
@@ -70,6 +178,31 @@ class MeritBadgesSpider(scrapy.Spider):
             ).get()
         item["badge_image_url"] = image_url or ""
         item["image_urls"] = [image_url] if image_url else []
+
+        # Helper to strict match
+        # Try exact match first
+        wb_data = self.workbook_links.get(item["badge_name"])
+
+        if not wb_data:
+            # Try caseless match and simple normalization (& -> and)
+            target_lower = (
+                item["badge_name"].lower().replace("&", "and").replace("  ", " ")
+            )
+            for name, links in self.workbook_links.items():
+                name_lower = name.lower().replace("&", "and").replace("  ", " ")
+                if name_lower == target_lower:
+                    wb_data = links
+                    break
+
+        if wb_data:
+            item["workbook_pdf_url"] = wb_data.get("pdf")
+            item["workbook_docx_url"] = wb_data.get("docx")
+        else:
+            self.logger.warning(
+                f"No workbook links found for badge: {item['badge_name']}"
+            )
+            item["workbook_pdf_url"] = None
+            item["workbook_docx_url"] = None
 
         # Check if the badge is Eagle-required by looking for "Eagle Required" in a <h2> element
         item["is_eagle_required"] = bool(

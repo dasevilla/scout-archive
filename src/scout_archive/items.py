@@ -19,6 +19,10 @@ class MeritBadgeItem(scrapy.Item):
     badge_pdf_url = scrapy.Field()
     # URL to buy the pamphlet
     badge_shop_url = scrapy.Field()
+    # URL to the workbook PDF
+    workbook_pdf_url = scrapy.Field()
+    # URL to the workbook DOCX
+    workbook_docx_url = scrapy.Field()
     # An image of the badge
     badge_image_url = scrapy.Field()
     # Local filename of the downloaded badge image

@@ -33,6 +33,15 @@ if git diff --staged --quiet; then
     exit 0
 fi
 
+# Ignore index-only updates so a date bump doesn't force a release.
+changed_files="$(git diff --staged --name-only)"
+allowed_changes="$(printf '%s\n' "$changed_files" | grep -E '^(build/.*\.json|build/.*/images/)' || true)"
+if [[ -z "$allowed_changes" ]]; then
+    echo "No JSON or image changes detected; skipping release"
+    echo "has-changes=false" >> "$OUTPUT_FILE"
+    exit 0
+fi
+
 echo "has-changes=true" >> "$OUTPUT_FILE"
 
 # Create commit message

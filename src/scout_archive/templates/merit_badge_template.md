@@ -1,21 +1,3 @@
-{% macro escape_starting_asterisk(text) %}
-{%- if text.startswith('*') %}
-\{{ text }}
-{%- else %}
-{{ text }}
-{%- endif %}
-{%- endmacro %}
-
-{% macro render_requirements(requirements, level=0) %}
-{% set indent = ' ' * (level * 4) %}
-{% for requirement in requirements %}
-{{ indent }}* {% if requirement.id %}({{ requirement.id }}) {% endif %}{{ escape_starting_asterisk(requirement.text) }}
-{% if requirement.requirements %}{{ render_requirements(requirement.requirements, level + 1) }}
-
-{% endif %}
-{% endfor %}
-{% endmacro %}
-
 # {{ badge_name }} Merit Badge
 
 {% if badge_image_filename %}
@@ -31,7 +13,7 @@
 
 ## Requirements
 
-{{ render_requirements(requirements_data) }}
+{{ requirements_markdown }}
 
 ## Resources
 

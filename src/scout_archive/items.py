@@ -32,6 +32,8 @@ class MeritBadgeItem(scrapy.Item):
 
     # Requirements in a structured data format
     requirements_data = scrapy.Field()
+    # Requirements rendered as Markdown via the extraction pipeline
+    requirements_markdown = scrapy.Field()
 
     file_urls = scrapy.Field()
     files = scrapy.Field()

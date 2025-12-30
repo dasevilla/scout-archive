@@ -1,6 +1,13 @@
-import scrapy
-from scout_archive.items import MeritBadgeItem
 import re
+
+import scrapy
+
+from scout_archive.items import MeritBadgeItem
+from scout_archive.requirements_pipeline import (
+    HtmlExtractor,
+    MarkdownGenerator,
+    SemanticProcessor,
+)
 
 
 class MeritBadgesSpider(scrapy.Spider):
@@ -11,6 +18,9 @@ class MeritBadgesSpider(scrapy.Spider):
     def __init__(self, name=None, url=None, **kwargs):
         self.single_url = url
         self.workbook_links = {}
+        self._requirements_extractor = HtmlExtractor()
+        self._requirements_processor = SemanticProcessor()
+        self._requirements_generator = MarkdownGenerator()
         super().__init__(name, **kwargs)
 
     def start_requests(self):
@@ -209,70 +219,18 @@ class MeritBadgesSpider(scrapy.Spider):
             response.xpath("//h2[contains(text(), 'Eagle Required')]")
         )
 
-        # Extract requirements into a data structure
-        requirements_list = []
-        for req in response.css("div.mb-requirement-item"):
-            # Get the internal parent and requirement IDs
-            req_internal_parent_id, req_internal_id = extract_parent_and_req_ids(
-                req.css(".mb-requirement-parent")
-            )
+        requirements_html = response.css("div.mb-requirement-container").get()
+        if not requirements_html:
+            requirements_html = response.text
 
-            req_number, _ = extract_requirement_identifier(
-                clean_requirement_number(
-                    req.css("span.mb-requirement-listnumber::text").get()
-                )
-            )
-
-            # Get the text content with links converted to Markdown
-            req_text_element = req.css(".mb-requirement-parent")
-            if req_text_element:
-                req_text = extract_text_with_markdown_links(req_text_element)
-                # Remove the requirement number from the beginning
-                req_number_text = (
-                    req.css("span.mb-requirement-listnumber::text").get() or ""
-                )
-                if req_number_text.strip():
-                    req_text = req_text.replace(req_number_text.strip(), "", 1)
-                req_text = clean_requirement_text(req_text)
-            else:
-                req_text = ""
-
-            # Get the sub-requirements
-            sub_reqs = self.extract_sub_requirements(
-                req_internal_id, req.css("ul.mb-requirement-children-list > li")
-            )
-            requirements_list.extend(sub_reqs)
-
-            requirements_list.append(
-                {
-                    "id": req_number,
-                    "text": req_text,
-                    "internal_parent_id": req_internal_parent_id,
-                    "internal_id": req_internal_id,
-                    "requirements": [],
-                }
-            )
-
-        # Build the tree using internal IDs
-        # Create a mapping from internal_id to requirement
-        req_dict = {
-            req["internal_id"]: req for req in requirements_list if req["internal_id"]
-        }
-
-        # List to hold root-level requirements
-        root_requirements = []
-
-        for req in requirements_list:
-            parent_id = req["internal_parent_id"]
-            if parent_id and parent_id in req_dict:
-                # Attach to parent
-                parent_req = req_dict[parent_id]
-                parent_req["requirements"].append(req)
-            else:
-                # No parent found; this is a root requirement
-                root_requirements.append(req)
-
-        item["requirements_data"] = root_requirements
+        raw_requirements = self._requirements_extractor.extract(requirements_html)
+        semantic_requirements = self._requirements_processor.process(raw_requirements)
+        item["requirements_data"] = [
+            requirement.model_dump() for requirement in semantic_requirements
+        ]
+        item["requirements_markdown"] = self._requirements_generator.generate(
+            semantic_requirements
+        )
 
         yield item
 

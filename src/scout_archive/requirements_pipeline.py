@@ -155,6 +155,7 @@ class HtmlExtractor:
 class SemanticProcessor:
     RESOURCE_LABEL_RE = re.compile(r"^\s*resources?:\s*$", re.IGNORECASE)
     INLINE_SPACE_TAGS = {"a", "b", "em", "i", "strong"}
+    RESOURCE_LABEL_TAGS = {"b", "em", "i", "span", "strong"}
     TEXT_LABEL_RE = re.compile(r"^\s*(\([A-Za-z0-9]+\)|[A-Za-z0-9]+[.)]+)\s*")
     EXCLUDED_NOTE_RE = re.compile(
         r"\bthe official merit badge pamphlets are now free and downloadable\b",
@@ -239,67 +240,95 @@ class SemanticProcessor:
     ) -> List[RawNode]:
         if not self._has_resource_label(nodes):
             return nodes
-
-        cleaned: List[RawNode] = []
-        skip_next_break = False
-        for node in nodes:
-            updated_node, removed = self._extract_resources_from_node(node, resources)
-            if removed:
-                if cleaned and self._is_break(cleaned[-1]):
-                    cleaned.pop()
-                skip_next_break = True
-                continue
-            if updated_node is None:
-                continue
-            if skip_next_break and self._is_break(updated_node):
-                continue
-            skip_next_break = False
-            cleaned.append(updated_node)
+        cleaned, _, label_found = self._extract_resources_nodes(
+            nodes, resources, in_resources=False
+        )
+        if label_found:
+            cleaned = self._trim_trailing_breaks(cleaned)
         return cleaned
 
     def _has_resource_label(self, nodes: List[RawNode]) -> bool:
         for node in nodes:
-            if isinstance(node, RawTextNode):
-                if self.RESOURCE_LABEL_RE.match(node.value.strip()):
-                    return True
-            elif isinstance(node, RawElementNode):
-                if node.tag in {"i", "em"} and self.RESOURCE_LABEL_RE.match(
-                    self._node_text(node).strip()
-                ):
-                    return True
-                if self._has_resource_label(node.children):
-                    return True
+            if self._is_resource_label_node(node):
+                return True
+            if isinstance(node, RawElementNode) and self._has_resource_label(
+                node.children
+            ):
+                return True
         return False
 
+    def _extract_resources_nodes(
+        self, nodes: List[RawNode], resources: List[Resource], in_resources: bool
+    ) -> tuple[List[RawNode], bool, bool]:
+        cleaned: List[RawNode] = []
+        label_found = False
+        for node in nodes:
+            updated_node, in_resources, node_label_found = (
+                self._extract_resources_from_node(node, resources, in_resources)
+            )
+            if node_label_found:
+                label_found = True
+            if updated_node is not None:
+                cleaned.append(updated_node)
+        return cleaned, in_resources, label_found
+
     def _extract_resources_from_node(
-        self, node: RawNode, resources: List[Resource]
-    ) -> tuple[Optional[RawNode], bool]:
+        self, node: RawNode, resources: List[Resource], in_resources: bool
+    ) -> tuple[Optional[RawNode], bool, bool]:
         if isinstance(node, RawTextNode):
-            if self.RESOURCE_LABEL_RE.match(node.value.strip()):
-                return None, True
-            return node, False
+            if not in_resources and self.RESOURCE_LABEL_RE.match(node.value.strip()):
+                return None, True, True
+            if in_resources:
+                return None, True, False
+            return node, False, False
 
         if isinstance(node, RawElementNode):
+            if not in_resources and self._is_resource_label_node(node):
+                return None, True, True
+
             if node.tag == "a":
-                title = self._node_text(node).strip()
-                url = node.attrs.get("href", "")
-                if title and url:
-                    resources.append(Resource(title=title, url=url))
-                return None, True
+                if in_resources:
+                    title = self._node_text(node).strip()
+                    url = node.attrs.get("href", "")
+                    if title and url:
+                        resources.append(Resource(title=title, url=url))
+                    return None, True, False
+                return node, False, False
 
-            if node.tag in {"i", "em"}:
-                if self.RESOURCE_LABEL_RE.match(self._node_text(node).strip()):
-                    return None, True
+            if in_resources:
+                _, _, label_found = self._extract_resources_nodes(
+                    node.children, resources, in_resources=True
+                )
+                return None, True, label_found
 
-            cleaned_children = self._extract_resources(node.children, resources)
+            cleaned_children, child_in_resources, label_found = (
+                self._extract_resources_nodes(
+                    node.children, resources, in_resources=False
+                )
+            )
+            if not cleaned_children:
+                return None, child_in_resources, label_found
             return (
                 RawElementNode(
                     tag=node.tag, attrs=node.attrs, children=cleaned_children
                 ),
-                False,
+                child_in_resources,
+                label_found,
             )
 
-        return None, False
+        return None, in_resources, False
+
+    def _trim_trailing_breaks(self, nodes: List[RawNode]) -> List[RawNode]:
+        while nodes and self._is_break(nodes[-1]):
+            nodes.pop()
+        return nodes
+
+    def _is_resource_label_node(self, node: RawNode) -> bool:
+        if isinstance(node, RawTextNode):
+            return bool(self.RESOURCE_LABEL_RE.match(node.value.strip()))
+        if isinstance(node, RawElementNode) and node.tag in self.RESOURCE_LABEL_TAGS:
+            return bool(self.RESOURCE_LABEL_RE.match(self._node_text(node).strip()))
+        return False
 
     def _normalize_text(self, nodes: List[RawNode]) -> List[RawNode]:
         normalized: List[RawNode] = []

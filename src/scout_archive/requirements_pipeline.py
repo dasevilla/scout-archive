@@ -148,6 +148,7 @@ class HtmlExtractor:
 class SemanticProcessor:
     RESOURCE_LABEL_RE = re.compile(r"^\s*resources?:\s*$", re.IGNORECASE)
     INLINE_SPACE_TAGS = {"a", "b", "em", "i", "strong"}
+    TEXT_LABEL_RE = re.compile(r"^\s*(\([A-Za-z0-9]+\)|[A-Za-z0-9]+[.)]+)\s*")
     EXCLUDED_NOTE_RE = re.compile(
         r"\bthe official merit badge pamphlets are now free and downloadable\b",
         re.IGNORECASE,
@@ -194,10 +195,35 @@ class SemanticProcessor:
             if isinstance(node, RawElementNode) and node.tag == "span":
                 class_attr = node.attrs.get("class", "")
                 if "mb-requirement-listnumber" in class_attr:
-                    label = self._node_text(node).strip() or None
+                    label = self._normalize_label(self._node_text(node))
                     continue
             cleaned.append(node)
+        if label:
+            return label, cleaned
+
+        if cleaned:
+            first = cleaned[0]
+            if isinstance(first, RawTextNode):
+                match = self.TEXT_LABEL_RE.match(first.value)
+                if match:
+                    label = self._normalize_label(match.group(1))
+                    remainder = first.value[match.end() :]
+                    if remainder:
+                        cleaned[0] = RawTextNode(value=remainder)
+                    else:
+                        cleaned = cleaned[1:]
         return label, cleaned
+
+    def _normalize_label(self, label: str) -> Optional[str]:
+        cleaned = label.strip()
+        if not cleaned:
+            return None
+        if cleaned.startswith("(") and cleaned.endswith(")"):
+            cleaned = cleaned[1:-1]
+        cleaned = cleaned.lstrip("(").rstrip(")")
+        cleaned = cleaned.rstrip(".")
+        cleaned = cleaned.strip()
+        return cleaned or None
 
     def _extract_resources(
         self, nodes: List[RawNode], resources: List[Resource]
@@ -410,11 +436,6 @@ class MarkdownGenerator:
 
     def _format_label(self, label: str) -> str:
         cleaned = label.strip()
-        if cleaned.startswith("(") and cleaned.endswith(")"):
-            cleaned = cleaned[1:-1]
-        cleaned = cleaned.rstrip(".)")
-        cleaned = cleaned.lstrip("(")
-        cleaned = cleaned.strip()
         if not cleaned:
             return ""
         return f"({cleaned})"

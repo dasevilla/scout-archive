@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-This is a **Python web scraping project** that archives Scouts BSA merit badge requirements from scouting.org. The project uses **Scrapy** for web scraping, **uv** for Python package management, and **GitHub Actions** for automated archiving. The repository generates both JSON and Markdown files for each merit badge and deploys a static website to GitHub Pages.
+This is a **Python web crawling project** that archives Scouts BSA merit badge requirements from scouting.org. The project uses **Scrapy** for crawling, **uv** for Python package management, and **GitHub Actions** for automated archiving. The repository generates both JSON and Markdown files for each merit badge and deploys a static website to GitHub Pages.
 
 **Repository Stats:**
 - Language: Python 3.12
@@ -73,7 +73,7 @@ make clean-cub-adventures
 
 ### Browser-Based Spider Development
 
-**For debugging scrapers, use Playwright MCP tools to validate selectors against live websites:**
+**For debugging crawlers, use Playwright MCP tools to validate selectors against live websites:**
 
 ```bash
 # Test CSS selectors in browser
@@ -130,6 +130,12 @@ browser_evaluate(() => {
 
 ## Project Architecture
 
+### Architecture Highlights
+- **Merit Badge pipeline:** HTML → Raw node tree → Semantic tree → Markdown (`src/scout_archive/requirements_pipeline.py`).
+- **Test Lab badges:** Different layout; parsed via the Test Lab extractor and tagged with `is_lab`. Test Lab note is rendered in the Overview section.
+- **Outputs:** JSON + Markdown under `build/merit-badges/` and `build/cub-scout-adventures/`.
+- For full details, see `docs/architecture-overview.md`.
+
 ### Directory Structure
 ```
 ├── src/                              # Source code
@@ -158,9 +164,10 @@ browser_evaluate(() => {
 
 **`src/scout_archive/spiders/merit_badges.py`** - Main spider that:
 - Discovers merit badge URLs from scouting.org/skills/merit-badges/all/
+- Discovers Test Lab badge URLs from scouting.org/skills/merit-badges/test-lab/
 - Extracts badge name, overview, requirements, PDFs, images
 - Uses CSS selectors: `h2 a[href*='/merit-badges/']` for discovery
-- Parses complex nested requirement structures
+- Parses standard merit badge requirements and Test Lab requirements via the pipeline
 
 **`Makefile`** - All build commands use `uv run` prefix. Key targets:
 - `make all` - Complete pipeline (archive → index → validate → report)

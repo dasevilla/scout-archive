@@ -61,9 +61,9 @@ class HtmlExtractor:
 
     def _parse_container(self, container: Tag) -> RawRequirementItem:
         parent = container.find("div", class_="mb-requirement-parent") or container
-        requirement_id = self._extract_requirement_id(parent) or self._extract_requirement_id(
-            container
-        )
+        requirement_id = self._extract_requirement_id(
+            parent
+        ) or self._extract_requirement_id(container)
         content_nodes = self._convert_children(parent)
         sub_list = container.find("ul", class_="mb-requirement-children-list")
         sub_requirements = self._parse_children_list(sub_list)
@@ -77,7 +77,9 @@ class HtmlExtractor:
         if not list_tag:
             return []
         children = []
-        for child in list_tag.find_all("li", class_="mb-requirement-child", recursive=False):
+        for child in list_tag.find_all(
+            "li", class_="mb-requirement-child", recursive=False
+        ):
             children.append(self._parse_child_item(child))
         return children
 
@@ -188,7 +190,9 @@ class SemanticProcessor:
         normalized = re.sub(r"\s+", " ", text).strip()
         return bool(self.EXCLUDED_NOTE_RE.search(normalized))
 
-    def _promote_label(self, nodes: List[RawNode]) -> tuple[Optional[str], List[RawNode]]:
+    def _promote_label(
+        self, nodes: List[RawNode]
+    ) -> tuple[Optional[str], List[RawNode]]:
         label = None
         cleaned: List[RawNode] = []
         for node in nodes:
@@ -284,7 +288,9 @@ class SemanticProcessor:
 
             cleaned_children = self._extract_resources(node.children, resources)
             return (
-                RawElementNode(tag=node.tag, attrs=node.attrs, children=cleaned_children),
+                RawElementNode(
+                    tag=node.tag, attrs=node.attrs, children=cleaned_children
+                ),
                 False,
             )
 

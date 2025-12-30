@@ -134,7 +134,7 @@ browser_evaluate(() => {
 - **Merit Badge pipeline:** HTML → Raw node tree → Semantic tree → Markdown (`src/scout_archive/requirements_pipeline.py`).
 - **Test Lab badges:** Different layout; parsed via the Test Lab extractor and tagged with `is_lab`. Test Lab note is rendered in the Overview section.
 - **Outputs:** JSON + Markdown under `build/merit-badges/` and `build/cub-scout-adventures/`.
-- For full details, see `docs/architecture-overview.md`.
+- For full details, see `docs/architecture-overview.md`. For JSON schema details, see `docs/json-format.md`.
 
 ### Directory Structure
 ```

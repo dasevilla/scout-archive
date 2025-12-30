@@ -97,6 +97,7 @@ def validate_badge_content(file_path):
 
     # Check optional URLs (warn but don't fail)
     badge_name = data.get("name", "")
+    is_lab = data.get("is_lab", False)
 
     # Special handling for Citizenship in Society - warn if URLs are found instead of missing
     if badge_name == "Citizenship in Society":
@@ -111,7 +112,7 @@ def validate_badge_content(file_path):
             warnings.append(
                 "Unexpected specific shop URL found (this badge typically uses generic shop link)"
             )
-    else:
+    elif not is_lab:
         # Standard validation for other badges
         if not data.get("image_url"):
             warnings.append("Missing image URL")

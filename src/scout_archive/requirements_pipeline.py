@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import re
 from pathlib import Path
-from typing import Annotated, Dict, List, Literal, Optional, Union
+from typing import Annotated, Callable, Dict, List, Literal, Optional, Union
 
 from bs4 import BeautifulSoup, NavigableString, Tag
 from pydantic import BaseModel, Field, TypeAdapter
@@ -213,6 +213,14 @@ class SemanticProcessor:
 
         if cleaned:
             first = cleaned[0]
+            if isinstance(first, RawElementNode) and first.tag in {"b", "strong"}:
+                label, updated = self._extract_label_from_element(first)
+                if label:
+                    if updated is None:
+                        cleaned = cleaned[1:]
+                    else:
+                        cleaned[0] = updated
+                    return label, cleaned
             if isinstance(first, RawTextNode):
                 match = self.TEXT_LABEL_RE.match(first.value)
                 if match:
@@ -223,6 +231,28 @@ class SemanticProcessor:
                     else:
                         cleaned = cleaned[1:]
         return label, cleaned
+
+    def _extract_label_from_element(
+        self, node: RawElementNode
+    ) -> tuple[Optional[str], Optional[RawElementNode]]:
+        if not node.children:
+            return None, node
+        first = node.children[0]
+        if not isinstance(first, RawTextNode):
+            return None, node
+        match = self.TEXT_LABEL_RE.match(first.value)
+        if not match:
+            return None, node
+        label = self._normalize_label(match.group(1))
+        remainder = first.value[match.end() :]
+        new_children = list(node.children)
+        if remainder.strip():
+            new_children[0] = RawTextNode(value=remainder)
+        else:
+            new_children = new_children[1:]
+        if not new_children:
+            return label, None
+        return label, RawElementNode(tag=node.tag, attrs=node.attrs, children=new_children)
 
     def _normalize_label(self, label: str) -> Optional[str]:
         cleaned = label.strip()
@@ -401,6 +431,14 @@ class SemanticProcessor:
 
             if isinstance(node, RawElementNode):
                 children = self._clean_attributes(node.children)
+                if node.tag in {"b", "strong", "i", "em"}:
+                    inline_children: List[RawNode] = []
+                    for child in children:
+                        if isinstance(child, RawElementNode) and child.tag == "br":
+                            inline_children.append(RawTextNode(value=" "))
+                        else:
+                            inline_children.append(child)
+                    children = inline_children
                 attrs = {}
                 if "href" in node.attrs:
                     attrs["href"] = node.attrs["href"]
@@ -408,6 +446,11 @@ class SemanticProcessor:
                 if node.tag not in {"b", "strong", "i", "em", "br", "a"}:
                     cleaned.extend(children)
                     continue
+
+                if node.tag in {"b", "strong", "i", "em"}:
+                    text = "".join(self._node_text(child) for child in children)
+                    if not text.strip():
+                        continue
 
                 cleaned.append(
                     RawElementNode(tag=node.tag, attrs=attrs, children=children)
@@ -447,6 +490,311 @@ class SemanticProcessor:
 
     def _nodes_text(self, nodes: List[RawNode]) -> str:
         return "".join(self._node_text(node) for node in nodes)
+
+
+class LabRequirementsExtractor:
+    REQUIREMENT_START_RE = re.compile(r"^\s*(\d+)[.)]")
+    LIST_STYLE_RE = re.compile(r"list-style-type\s*:\s*([^;]+)", re.IGNORECASE)
+    SUPPORT_ITEMS_RE = re.compile(r"^\s*see support items\s*$", re.IGNORECASE)
+
+    def __init__(
+        self,
+        extractor: Optional[HtmlExtractor] = None,
+        processor: Optional[SemanticProcessor] = None,
+    ) -> None:
+        self._extractor = extractor or HtmlExtractor()
+        self._processor = processor or SemanticProcessor()
+
+    def extract_from_blocks(self, html_blocks: List[str]) -> List[SemanticRequirement]:
+        raw_items: List[RawRequirementItem] = []
+        for html in html_blocks:
+            raw_items.extend(self._parse_html_block(html))
+        return self._processor.process(raw_items)
+
+    def _parse_html_block(self, html: str) -> List[RawRequirementItem]:
+        soup = BeautifulSoup(html, "html.parser")
+        container = soup.body if soup.body else soup
+        if len(container.contents) == 1 and isinstance(container.contents[0], Tag):
+            container = container.contents[0]
+
+        requirements: List[RawRequirementItem] = []
+        current_id: Optional[str] = None
+        content_blocks: List[str] = []
+        resource_blocks: List[Tag] = []
+        sub_requirements: List[RawRequirementItem] = []
+        sub_current_id: Optional[str] = None
+        sub_content_blocks: List[str] = []
+        sub_resource_blocks: List[Tag] = []
+        sub_sub_requirements: List[RawRequirementItem] = []
+
+        def finalize_sub() -> None:
+            nonlocal sub_current_id, sub_content_blocks, sub_resource_blocks, sub_sub_requirements
+            if sub_current_id is None:
+                return
+            sub_html = self._build_content_html(sub_content_blocks, sub_resource_blocks)
+            sub_nodes = self._extractor.extract_nodes(sub_html)
+            sub_requirements.append(
+                RawRequirementItem(
+                    id=sub_current_id or "",
+                    content_nodes=sub_nodes,
+                    sub_requirements=sub_sub_requirements,
+                )
+            )
+            sub_current_id = None
+            sub_content_blocks = []
+            sub_resource_blocks = []
+            sub_sub_requirements = []
+
+        def finalize() -> None:
+            nonlocal current_id, content_blocks, resource_blocks, sub_requirements
+            if current_id is None:
+                return
+            finalize_sub()
+            content_html = self._build_content_html(content_blocks, resource_blocks)
+            content_nodes = self._extractor.extract_nodes(content_html)
+            requirements.append(
+                RawRequirementItem(
+                    id=current_id,
+                    content_nodes=content_nodes,
+                    sub_requirements=sub_requirements,
+                )
+            )
+            current_id = None
+            content_blocks = []
+            resource_blocks = []
+            sub_requirements = []
+
+        for child in container.contents:
+            if isinstance(child, NavigableString):
+                if not str(child).strip():
+                    continue
+                if current_id is not None:
+                    content_blocks.append(str(child))
+                continue
+            if not isinstance(child, Tag):
+                continue
+            if self._is_empty_block(child):
+                continue
+            if self._is_requirement_start(child):
+                finalize()
+                current_id = self._extract_requirement_id(child)
+                content_blocks = [child.decode_contents().strip()]
+                continue
+
+            if current_id is None:
+                continue
+
+            sub_label = self._extract_explicit_label(child.get_text(" ", strip=True))
+            if sub_label and not self._is_requirement_start(child):
+                finalize_sub()
+                sub_current_id = sub_label
+                sub_content_blocks = [child.decode_contents().strip()]
+                continue
+
+            if child.name in {"ul", "ol"}:
+                if self._is_resource_list(child):
+                    if sub_current_id is not None:
+                        sub_resource_blocks.append(child)
+                    else:
+                        resource_blocks.append(child)
+                else:
+                    if sub_current_id is not None:
+                        sub_sub_requirements.extend(self._parse_list(child))
+                    else:
+                        sub_requirements.extend(self._parse_list(child))
+                continue
+
+            if self._is_resource_block(child):
+                if sub_current_id is not None:
+                    sub_resource_blocks.append(child)
+                else:
+                    resource_blocks.append(child)
+                continue
+
+            if sub_current_id is not None:
+                sub_content_blocks.append(child.decode_contents().strip())
+            else:
+                content_blocks.append(child.decode_contents().strip())
+
+        finalize()
+        return requirements
+
+    def _parse_list(self, list_tag: Tag) -> List[RawRequirementItem]:
+        items: List[RawRequirementItem] = []
+        label_provider = self._label_provider(list_tag)
+        for index, li in enumerate(list_tag.find_all("li", recursive=False)):
+            if self._is_empty_block(li):
+                continue
+            content_parts: List[str] = []
+            resource_blocks: List[Tag] = []
+            sub_requirements: List[RawRequirementItem] = []
+
+            for child in li.contents:
+                if isinstance(child, Tag) and child.name in {"ul", "ol"}:
+                    if self._is_resource_list(child):
+                        resource_blocks.append(child)
+                    else:
+                        sub_requirements.extend(self._parse_list(child))
+                else:
+                    if isinstance(child, NavigableString) and not str(child).strip():
+                        continue
+                    content_parts.append(str(child))
+
+            content_html = "".join(content_parts).strip()
+            text = BeautifulSoup(content_html, "html.parser").get_text(" ", strip=True)
+            label = self._extract_explicit_label(text)
+            if label_provider and not label:
+                label = label_provider(index)
+                if label:
+                    content_html = f"{label}. {content_html}".strip()
+            if resource_blocks:
+                content_html = self._append_resources(content_html, resource_blocks)
+            content_nodes = self._extractor.extract_nodes(content_html)
+            items.append(
+                RawRequirementItem(
+                    id=label or "",
+                    content_nodes=content_nodes,
+                    sub_requirements=sub_requirements,
+                )
+            )
+        return items
+
+    def _build_content_html(
+        self, content_blocks: List[str], resource_blocks: List[Tag]
+    ) -> str:
+        parts: List[str] = []
+        for block in content_blocks:
+            inner = block.strip()
+            if inner:
+                parts.append(inner)
+        content_html = "<br>".join(parts)
+        if resource_blocks:
+            content_html = self._append_resources(content_html, resource_blocks)
+        return content_html
+
+    def _append_resources(self, content_html: str, resource_blocks: List[Tag]) -> str:
+        resources_html = "<em>Resources:</em>"
+        for block in resource_blocks:
+            resources_html += str(block)
+        if content_html:
+            return f"{content_html}<br>{resources_html}"
+        return resources_html
+
+    def _is_requirement_start(self, tag: Tag) -> bool:
+        text = tag.get_text(" ", strip=True)
+        return bool(self.REQUIREMENT_START_RE.match(text))
+
+    def _extract_requirement_id(self, tag: Tag) -> str:
+        text = tag.get_text(" ", strip=True)
+        match = self.REQUIREMENT_START_RE.match(text)
+        if not match:
+            return ""
+        return self._processor._normalize_label(match.group(0)) or ""
+
+    def _extract_explicit_label(self, text: str) -> Optional[str]:
+        match = self._processor.TEXT_LABEL_RE.match(text)
+        if not match:
+            return None
+        return self._processor._normalize_label(match.group(1))
+
+    def _is_resource_list(self, list_tag: Tag) -> bool:
+        li_items = list_tag.find_all("li", recursive=False)
+        if not li_items:
+            return False
+        for li in li_items:
+            if li.find(["ul", "ol"], recursive=False):
+                if self._li_is_resource_wrapper(li):
+                    continue
+                return False
+            cloned = BeautifulSoup(str(li), "html.parser")
+            for nested in cloned.find_all(["ul", "ol"]):
+                nested.decompose()
+            for anchor in cloned.find_all("a"):
+                anchor.replace_with("")
+            remaining = cloned.get_text(" ", strip=True)
+            if remaining:
+                return False
+        return True
+
+    def _is_resource_block(self, tag: Tag) -> bool:
+        if tag.name not in {"p", "div"}:
+            return False
+        text = tag.get_text(" ", strip=True)
+        if not text:
+            return False
+        if self.SUPPORT_ITEMS_RE.match(text):
+            return True
+        cloned = BeautifulSoup(str(tag), "html.parser")
+        for anchor in cloned.find_all("a"):
+            anchor.replace_with("")
+        remaining = cloned.get_text(" ", strip=True)
+        return remaining == ""
+
+    def _li_is_resource_wrapper(self, li: Tag) -> bool:
+        nested_lists = li.find_all(["ul", "ol"], recursive=False)
+        if not nested_lists:
+            return False
+        cloned = BeautifulSoup(str(li), "html.parser")
+        for nested in cloned.find_all(["ul", "ol"]):
+            nested.decompose()
+        for anchor in cloned.find_all("a"):
+            anchor.replace_with("")
+        remaining = cloned.get_text(" ", strip=True)
+        if remaining:
+            return False
+        return all(self._is_resource_list(nested) for nested in nested_lists)
+
+    def _label_provider(self, list_tag: Tag) -> Optional[Callable[[int], str]]:
+        if list_tag.name != "ol":
+            return None
+        style = list_tag.get("style", "")
+        match = self.LIST_STYLE_RE.search(style)
+        list_type = match.group(1).strip().lower() if match else "decimal"
+        if list_type == "none":
+            return None
+
+        def provider(index: int) -> str:
+            if list_type in {"upper-alpha", "upper-latin"}:
+                return chr(ord("A") + index)
+            if list_type in {"lower-alpha", "lower-latin"}:
+                return chr(ord("a") + index)
+            if list_type == "upper-roman":
+                return self._to_roman(index + 1).upper()
+            if list_type == "lower-roman":
+                return self._to_roman(index + 1).lower()
+            return str(index + 1)
+
+        return provider
+
+    def _to_roman(self, number: int) -> str:
+        if number <= 0:
+            return ""
+        numerals = [
+            (1000, "M"),
+            (900, "CM"),
+            (500, "D"),
+            (400, "CD"),
+            (100, "C"),
+            (90, "XC"),
+            (50, "L"),
+            (40, "XL"),
+            (10, "X"),
+            (9, "IX"),
+            (5, "V"),
+            (4, "IV"),
+            (1, "I"),
+        ]
+        result = []
+        remaining = number
+        for value, numeral in numerals:
+            while remaining >= value:
+                result.append(numeral)
+                remaining -= value
+        return "".join(result)
+
+    def _is_empty_block(self, tag: Tag) -> bool:
+        text = tag.get_text(" ", strip=True)
+        return not text or text == "\xa0"
 
 
 class MarkdownGenerator:
@@ -517,8 +865,10 @@ class MarkdownGenerator:
             if isinstance(node, RawElementNode):
                 inner = self._render_nodes(node.children)
                 if node.tag in {"b", "strong"}:
+                    inner = inner.strip()
                     parts.append(f"**{inner}**")
                 elif node.tag in {"i", "em"}:
+                    inner = inner.strip()
                     parts.append(f"*{inner}*")
                 elif node.tag == "a":
                     href = node.attrs.get("href", "").strip()

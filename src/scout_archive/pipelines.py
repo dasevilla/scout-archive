@@ -108,6 +108,7 @@ class ScoutArchivePipeline:
                 "name": item.get("badge_name"),
                 "overview": item.get("badge_overview"),
                 "is_eagle_required": item.get("is_eagle_required"),
+                "is_lab": item.get("is_lab"),
                 "url": item.get("badge_url"),
                 "pdf_url": item.get("badge_pdf_url"),
                 "workbook_pdf_url": item.get("workbook_pdf_url"),

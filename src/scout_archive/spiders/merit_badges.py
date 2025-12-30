@@ -5,6 +5,7 @@ import scrapy
 from scout_archive.items import MeritBadgeItem
 from scout_archive.requirements_pipeline import (
     HtmlExtractor,
+    LabRequirementsExtractor,
     MarkdownGenerator,
     SemanticProcessor,
 )
@@ -15,12 +16,17 @@ class MeritBadgesSpider(scrapy.Spider):
     allowed_domains = ["scouting.org", "usscouts.org"]
     start_urls = ["https://www.scouting.org/skills/merit-badges/all/"]
 
-    def __init__(self, name=None, url=None, **kwargs):
+    def __init__(self, name=None, url=None, labs_only=None, **kwargs):
         self.single_url = url
+        self.labs_only = str(labs_only).lower() == "true" if labs_only else False
         self.workbook_links = {}
         self._requirements_extractor = HtmlExtractor()
         self._requirements_processor = SemanticProcessor()
         self._requirements_generator = MarkdownGenerator()
+        self._lab_requirements_extractor = LabRequirementsExtractor(
+            extractor=self._requirements_extractor,
+            processor=self._requirements_processor,
+        )
         super().__init__(name, **kwargs)
 
     def start_requests(self):
@@ -36,15 +42,44 @@ class MeritBadgesSpider(scrapy.Spider):
 
     def start_main_crawl(self):
         if self.single_url:
-            yield scrapy.Request(self.single_url, callback=self.parse_merit_badge)
+            is_lab = "/test-lab/" in self.single_url
+            yield scrapy.Request(
+                self.single_url,
+                callback=self.parse_merit_badge,
+                cb_kwargs={"is_lab": is_lab},
+            )
         else:
-            for url in self.start_urls:
-                yield scrapy.Request(url, callback=self.parse_start_url_custom)
+            if not self.labs_only:
+                for url in self.start_urls:
+                    yield scrapy.Request(url, callback=self.parse_start_url_custom)
+
+            yield scrapy.Request(
+                "https://www.scouting.org/skills/merit-badges/test-lab/",
+                callback=self.parse_test_lab_list,
+            )
 
     def parse_start_url_custom(self, response):
         yield from response.follow_all(
             css="h2 a[href*='/merit-badges/']", callback=self.parse_merit_badge
         )
+
+    def parse_test_lab_list(self, response):
+        links = response.css(
+            "a[href*='/skills/merit-badges/test-lab/']::attr(href)"
+        ).getall()
+        seen = set()
+        for link in links:
+            absolute = response.urljoin(link)
+            if absolute.rstrip("/") == response.url.rstrip("/"):
+                continue
+            if not re.search(r"/skills/merit-badges/test-lab/[^/]+/?$", absolute):
+                continue
+            if absolute in seen:
+                continue
+            seen.add(absolute)
+            yield response.follow(
+                absolute, callback=self.parse_merit_badge, cb_kwargs={"is_lab": True}
+            )
 
     def parse_worksheets(self, response):
         # Extract workbook links
@@ -133,15 +168,23 @@ class MeritBadgesSpider(scrapy.Spider):
     def parse(self, response):
         # If a single URL was provided, use that instead of crawling
         if self.single_url:
-            yield scrapy.Request(self.single_url, callback=self.parse_merit_badge)
+            is_lab = "/test-lab/" in self.single_url
+            yield scrapy.Request(
+                self.single_url,
+                callback=self.parse_merit_badge,
+                cb_kwargs={"is_lab": is_lab},
+            )
         else:
             # Grab every merit badge URL
             yield from response.follow_all(
                 css="h2 a[href*='/merit-badges/']", callback=self.parse_merit_badge
             )
 
-    def parse_merit_badge(self, response):
+    def parse_merit_badge(self, response, is_lab=False):
+        if not is_lab and "/test-lab/" in response.url:
+            is_lab = True
         item = MeritBadgeItem()
+        item["is_lab"] = is_lab
 
         # Get badge name
         badge_name_raw = response.css("h1.elementor-heading-title::text").get()
@@ -178,53 +221,72 @@ class MeritBadgesSpider(scrapy.Spider):
         ).get()
 
         # Get badge image URL
-        image_url = response.xpath(
-            '//*[@id="page"]/div/section[1]/div/div/div/div[4]/div/div/div/section/div/div[2]/div/div/div/img/@src'
-        ).get()
-        # if image_url is an svg or None, use the data-src attribute instead
-        if not image_url or image_url.startswith("data:"):
+        if is_lab:
+            image_url = self._extract_lab_image_url(response)
+        else:
             image_url = response.xpath(
-                '//*[@id="page"]/div/section[1]/div/div/div/div[4]/div/div/div/section/div/div[2]/div/div/div/img/@data-src'
+                '//*[@id="page"]/div/section[1]/div/div/div/div[4]/div/div/div/section/div/div[2]/div/div/div/img/@src'
             ).get()
+            # if image_url is an svg or None, use the data-src attribute instead
+            if not image_url or image_url.startswith("data:"):
+                image_url = response.xpath(
+                    '//*[@id="page"]/div/section[1]/div/div/div/div[4]/div/div/div/section/div/div[2]/div/div/div/img/@data-src'
+                ).get()
         item["badge_image_url"] = image_url or ""
         item["image_urls"] = [image_url] if image_url else []
 
-        # Helper to strict match
-        # Try exact match first
-        wb_data = self.workbook_links.get(item["badge_name"])
-
-        if not wb_data:
-            # Try caseless match and simple normalization (& -> and)
-            target_lower = (
-                item["badge_name"].lower().replace("&", "and").replace("  ", " ")
-            )
-            for name, links in self.workbook_links.items():
-                name_lower = name.lower().replace("&", "and").replace("  ", " ")
-                if name_lower == target_lower:
-                    wb_data = links
-                    break
-
-        if wb_data:
-            item["workbook_pdf_url"] = wb_data.get("pdf")
-            item["workbook_docx_url"] = wb_data.get("docx")
-        else:
-            self.logger.warning(
-                f"No workbook links found for badge: {item['badge_name']}"
-            )
+        if is_lab:
             item["workbook_pdf_url"] = None
             item["workbook_docx_url"] = None
+        else:
+            # Helper to strict match
+            # Try exact match first
+            wb_data = self.workbook_links.get(item["badge_name"])
+
+            if not wb_data:
+                # Try caseless match and simple normalization (& -> and)
+                target_lower = (
+                    item["badge_name"].lower().replace("&", "and").replace("  ", " ")
+                )
+                for name, links in self.workbook_links.items():
+                    name_lower = name.lower().replace("&", "and").replace("  ", " ")
+                    if name_lower == target_lower:
+                        wb_data = links
+                        break
+
+            if wb_data:
+                item["workbook_pdf_url"] = wb_data.get("pdf")
+                item["workbook_docx_url"] = wb_data.get("docx")
+            else:
+                self.logger.warning(
+                    f"No workbook links found for badge: {item['badge_name']}"
+                )
+                item["workbook_pdf_url"] = None
+                item["workbook_docx_url"] = None
 
         # Check if the badge is Eagle-required by looking for "Eagle Required" in a <h2> element
         item["is_eagle_required"] = bool(
             response.xpath("//h2[contains(text(), 'Eagle Required')]")
         )
 
-        requirements_html = response.css("div.mb-requirement-container").get()
-        if not requirements_html:
-            requirements_html = response.text
+        if is_lab:
+            lab_blocks = self._extract_lab_requirements_blocks(response)
+            if not lab_blocks:
+                self.logger.warning(
+                    "No lab requirement content found for %s", response.url
+                )
+                semantic_requirements = []
+            else:
+                semantic_requirements = self._lab_requirements_extractor.extract_from_blocks(
+                    lab_blocks
+                )
+        else:
+            requirements_html = response.css("div.mb-requirement-container").get()
+            if not requirements_html:
+                requirements_html = response.text
+            raw_requirements = self._requirements_extractor.extract(requirements_html)
+            semantic_requirements = self._requirements_processor.process(raw_requirements)
 
-        raw_requirements = self._requirements_extractor.extract(requirements_html)
-        semantic_requirements = self._requirements_processor.process(raw_requirements)
         item["requirements_data"] = [
             requirement.model_dump() for requirement in semantic_requirements
         ]
@@ -233,6 +295,57 @@ class MeritBadgesSpider(scrapy.Spider):
         )
 
         yield item
+
+    def _extract_lab_image_url(self, response):
+        image_url = response.xpath(
+            "//h1[contains(@class,'elementor-heading-title')]/ancestor::div[contains(@class,'elementor-widget-heading')][1]"
+            "/preceding-sibling::div[contains(@class,'elementor-widget-image')][1]//img/@src"
+        ).get()
+        if not image_url or image_url.startswith("data:"):
+            image_url = response.xpath(
+                "//h1[contains(@class,'elementor-heading-title')]/ancestor::div[contains(@class,'elementor-widget-heading')][1]"
+                "/preceding-sibling::div[contains(@class,'elementor-widget-image')][1]//img/@data-src"
+            ).get()
+        if image_url:
+            return image_url
+        image_url = response.xpath(
+            "//h1[contains(@class,'elementor-heading-title')]/ancestor::div[contains(@class,'e-con')][1]"
+            "//div[contains(@class,'elementor-widget-image')]//img/@src"
+        ).get()
+        if not image_url or image_url.startswith("data:"):
+            image_url = response.xpath(
+                "//h1[contains(@class,'elementor-heading-title')]/ancestor::div[contains(@class,'e-con')][1]"
+                "//div[contains(@class,'elementor-widget-image')]//img/@data-src"
+            ).get()
+        return image_url
+
+    def _extract_lab_requirements_blocks(self, response):
+        heading_xpath = (
+            "//*[self::h1 or self::h2 or self::h3 or self::h4 or self::h5 or self::h6]"
+            "[contains(translate(normalize-space(string(.)), 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'), 'REQUIREMENTS')]"
+        )
+        heading = response.xpath(heading_xpath)
+        if not heading:
+            return []
+        heading = heading[0]
+        container = heading.xpath(
+            "./ancestor::div[contains(@class, 'e-con')][1]"
+        )
+        widgets = []
+        if container:
+            widgets = container.xpath(
+                ".//div[contains(@class, 'elementor-widget-text-editor')]"
+            )
+        if not widgets:
+            widgets = heading.xpath(
+                "./ancestor::div[contains(@class, 'elementor-widget')][1]/following-sibling::div[contains(@class, 'elementor-widget-text-editor')]"
+            )
+        blocks = []
+        for widget in widgets:
+            content = widget.css("div.elementor-widget-container").get()
+            if content:
+                blocks.append(content)
+        return blocks
 
     def extract_sub_requirements(self, incoming_parent_id, selector):
         if len(selector) == 0:

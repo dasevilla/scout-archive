@@ -29,6 +29,8 @@ class MeritBadgeItem(scrapy.Item):
     badge_image_filename = scrapy.Field()
     # True if the badge is Eagle-required
     is_eagle_required = scrapy.Field()
+    # True if the badge is a Merit Badge Lab badge
+    is_lab = scrapy.Field()
 
     # Requirements in a structured data format
     requirements_data = scrapy.Field()

@@ -277,15 +277,17 @@ class MeritBadgesSpider(scrapy.Spider):
                 )
                 semantic_requirements = []
             else:
-                semantic_requirements = self._lab_requirements_extractor.extract_from_blocks(
-                    lab_blocks
+                semantic_requirements = (
+                    self._lab_requirements_extractor.extract_from_blocks(lab_blocks)
                 )
         else:
             requirements_html = response.css("div.mb-requirement-container").get()
             if not requirements_html:
                 requirements_html = response.text
             raw_requirements = self._requirements_extractor.extract(requirements_html)
-            semantic_requirements = self._requirements_processor.process(raw_requirements)
+            semantic_requirements = self._requirements_processor.process(
+                raw_requirements
+            )
 
         item["requirements_data"] = [
             requirement.model_dump() for requirement in semantic_requirements
@@ -328,9 +330,7 @@ class MeritBadgesSpider(scrapy.Spider):
         if not heading:
             return []
         heading = heading[0]
-        container = heading.xpath(
-            "./ancestor::div[contains(@class, 'e-con')][1]"
-        )
+        container = heading.xpath("./ancestor::div[contains(@class, 'e-con')][1]")
         widgets = []
         if container:
             widgets = container.xpath(

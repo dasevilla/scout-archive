@@ -252,7 +252,9 @@ class SemanticProcessor:
             new_children = new_children[1:]
         if not new_children:
             return label, None
-        return label, RawElementNode(tag=node.tag, attrs=node.attrs, children=new_children)
+        return label, RawElementNode(
+            tag=node.tag, attrs=node.attrs, children=new_children
+        )
 
     def _normalize_label(self, label: str) -> Optional[str]:
         cleaned = label.strip()
@@ -528,7 +530,11 @@ class LabRequirementsExtractor:
         sub_sub_requirements: List[RawRequirementItem] = []
 
         def finalize_sub() -> None:
-            nonlocal sub_current_id, sub_content_blocks, sub_resource_blocks, sub_sub_requirements
+            nonlocal \
+                sub_current_id, \
+                sub_content_blocks, \
+                sub_resource_blocks, \
+                sub_sub_requirements
             if sub_current_id is None:
                 return
             sub_html = self._build_content_html(sub_content_blocks, sub_resource_blocks)

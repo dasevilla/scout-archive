@@ -59,6 +59,11 @@ class HtmlExtractor:
         ]
         return self._adapter.validate_python(items)
 
+    def extract_nodes(self, html: str) -> List[RawNode]:
+        soup = BeautifulSoup(html, "html.parser")
+        root = soup.body if soup.body else soup
+        return self._convert_children(root)
+
     def _parse_container(self, container: Tag) -> RawRequirementItem:
         parent = container.find("div", class_="mb-requirement-parent") or container
         requirement_id = self._extract_requirement_id(
@@ -379,10 +384,32 @@ class SemanticProcessor:
                     RawElementNode(tag=node.tag, attrs=attrs, children=children)
                 )
 
-        return cleaned
+        return self._merge_adjacent_text_nodes(cleaned)
 
     def _is_break(self, node: RawNode) -> bool:
         return isinstance(node, RawElementNode) and node.tag == "br"
+
+    def _merge_adjacent_text_nodes(self, nodes: List[RawNode]) -> List[RawNode]:
+        merged: List[RawNode] = []
+        for node in nodes:
+            if (
+                isinstance(node, RawTextNode)
+                and merged
+                and isinstance(merged[-1], RawTextNode)
+            ):
+                prev_value = merged[-1].value
+                next_value = node.value
+                if prev_value and next_value:
+                    if (
+                        not prev_value.endswith((" ", "\n", "\t"))
+                        and not next_value[0].isspace()
+                        and next_value[0] not in ".,;:?!)]"
+                    ):
+                        prev_value += " "
+                merged[-1] = RawTextNode(value=f"{prev_value}{next_value}")
+            else:
+                merged.append(node)
+        return merged
 
     def _node_text(self, node: RawNode) -> str:
         if isinstance(node, RawTextNode):
@@ -401,6 +428,11 @@ class MarkdownGenerator:
                 lines.append("")
             lines.extend(self._render_requirement(requirement, level=0))
         return "\n".join(line.rstrip() for line in lines).rstrip()
+
+    def render_content(self, nodes: List[RawNode]) -> str:
+        content = self._render_nodes(nodes).strip()
+        content = re.sub(r"\n[ \t]+", "\n", content)
+        return content
 
     def _render_requirement(
         self, requirement: SemanticRequirement, level: int

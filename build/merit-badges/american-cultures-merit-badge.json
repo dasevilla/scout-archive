@@ -2,6 +2,7 @@
   "name": "American Cultures",
   "overview": "The United States is a nation of immigrants. Every person came to America from somewhere else—or their ancestors did—and understanding these various cultural backgrounds can help Scouts to live in harmony with others in our varied and increasingly multicultural society.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/american-cultures/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Cultures.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/American-Cultures.pdf",
@@ -11,89 +12,144 @@
   "image_filename": "american-cultures-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE: Choose THREE groups that have different racial, cultural, national, or ethnic backgrounds, one of which comes from your own background. Use these groups to meet requirements 1, 2, and 3.",
-      "internal_parent_id": null,
-      "internal_id": "11313",
-      "requirements": []
+      "id": "11313",
+      "label": null,
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE: Choose THREE groups that have different racial, cultural, national, or ethnic backgrounds, one of which comes from your own background. Use these groups to meet requirements 1, 2, and 3."
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Cultures.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14050",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do TWO of the following, choosing a different group for each:",
-      "internal_parent_id": null,
-      "internal_id": "57",
-      "requirements": [
+      "id": "57",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn.",
-          "internal_parent_id": "57",
-          "internal_id": "62",
-          "requirements": []
+          "type": "text",
+          "value": "Do TWO of the following, choosing a different group for each:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "62",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Go to a place of worship, school, or other institution identified with one of the groups. Report on what you see and learn.",
-          "internal_parent_id": "57",
-          "internal_id": "63",
-          "requirements": []
+          "id": "63",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Go to a place of worship, school, or other institution identified with one of the groups. Report on what you see and learn."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Talk with a person from one of the groups about the heritage and traditions of the group. Report on what you learn.",
-          "internal_parent_id": "57",
-          "internal_id": "64",
-          "requirements": []
+          "id": "64",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Talk with a person from one of the groups about the heritage and traditions of the group. Report on what you learn."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Learn a song, dance, poem, or story that is traditional to one group, and teach it to a group of your friends.",
-          "internal_parent_id": "57",
-          "internal_id": "65",
-          "requirements": []
+          "id": "65",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Learn a song, dance, poem, or story that is traditional to one group, and teach it to a group of your friends."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Go to a library or museum to see a program or exhibit featuring one group's traditions. Report on what you see and learn.",
-          "internal_parent_id": "57",
-          "internal_id": "66",
-          "requirements": []
+          "id": "66",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Go to a library or museum to see a program or exhibit featuring one group's traditions. Report on what you see and learn."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Imagine that one of the groups had always lived alone in a city or country to which no other groups ever came. Tell what you think the city or country might be like today. Now tell what you think it might be like if the three groups you chose lived there at the same time.",
-      "internal_parent_id": null,
-      "internal_id": "58",
-      "requirements": []
+      "id": "58",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Imagine that one of the groups had always lived alone in a city or country to which no other groups ever came. Tell what you think the city or country might be like today. Now tell what you think it might be like if the three groups you chose lived there at the same time."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "3",
-      "text": "Tell about some differences between the religious and social customs of the three groups. Tell about some ideas or ways of doing things that are similar in the three groups.",
-      "internal_parent_id": null,
-      "internal_id": "59",
-      "requirements": []
+      "id": "59",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tell about some differences between the religious and social customs of the three groups. Tell about some ideas or ways of doing things that are similar in the three groups."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Tell about a contribution made to our country by three different people, each from a different racial, ethnic, or religious background.",
-      "internal_parent_id": null,
-      "internal_id": "60",
-      "requirements": []
+      "id": "60",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tell about a contribution made to our country by three different people, each from a different racial, ethnic, or religious background."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "Give a talk to your Scout unit or class at school on how people from different groups have gotten along together. Lead a discussion on what can be done to help various groups understand one another better.",
-      "internal_parent_id": null,
-      "internal_id": "61",
-      "requirements": []
+      "id": "61",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Give a talk to your Scout unit or class at school on how people from different groups have gotten along together. Lead a discussion on what can be done to help various groups understand one another better."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

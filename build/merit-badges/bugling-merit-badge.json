@@ -2,6 +2,7 @@
   "name": "Bugling",
   "overview": "What would summer camp be without the bugle sounding “Reveille” in the morning and “Taps” in the evening? Camp and the bugle go together. The bugle is an ideal instrument for the beginning musician because most of the music uses only four notes. The ability to read music is not necessary, because the tunes are familiar and can be played ear.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/bugling/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Bugling.pdf",
@@ -11,75 +12,205 @@
   "image_filename": "bugling-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE: A bugle, trumpet, or cornet may be used to meet these requirements.",
-      "internal_parent_id": null,
-      "internal_id": "13828",
-      "requirements": []
-    },
-    {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14065",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Give a brief history of the bugle. Resources:  [Bugles in American History (video)](https://youtu.be/gOxuoJHPCJA?si=ir832tqvUZd-37SE)  [The Bugler's Cry - A History of Taps (video)](https://youtu.be/Z13dtuMMFps?si=GemQ1_rjJY3duaRw)",
-      "internal_parent_id": null,
-      "internal_id": "8831",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "8828",
-      "requirements": [
+      "id": "13828",
+      "label": null,
+      "content": [
         {
-          "id": "a",
-          "text": "Explain and demonstrate how the bugle makes sound, and explain how the bugle is related to other brass wind instruments. Resource: [The Physics of Music: Playing Fire, Ice and Jelly Trumpets (video)](https://youtu.be/o0Gl4tfh3KA?si=wMNk9m2HLUeNTt06)",
-          "internal_parent_id": "8828",
-          "internal_id": "8829",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE: A bugle, trumpet, or cornet may be used to meet these requirements."
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "8831",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Give a brief history of the bugle."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bugles in American History (video)",
+          "url": "https://youtu.be/gOxuoJHPCJA?si=ir832tqvUZd-37SE"
         },
         {
-          "id": "b",
-          "text": "Compose a bugle call for your troop or patrol to signal a common group activity, such as assembling for mealtime or striking a campsite. Play the call that you have composed before your unit or patrol.",
-          "internal_parent_id": "8828",
-          "internal_id": "8830",
-          "requirements": []
+          "title": "The Bugler's Cry - A History of Taps (video)",
+          "url": "https://youtu.be/Z13dtuMMFps?si=GemQ1_rjJY3duaRw"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "8828",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "8829",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain and demonstrate how the bugle makes sound, and explain how the bugle is related to other brass wind instruments."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The Physics of Music: Playing Fire, Ice and Jelly Trumpets (video)",
+              "url": "https://youtu.be/o0Gl4tfh3KA?si=wMNk9m2HLUeNTt06"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "8830",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Compose a bugle call for your troop or patrol to signal a common group activity, such as assembling for mealtime or striking a campsite. Play the call that you have composed before your unit or patrol."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Sound 10 of the following bugle calls: \"First Call,\" \"Reveille,\" \"Assembly,\" \"Mess,\" \"Drill,\" \"Fatigue,\" \"Officers,\" \"Recall,\" \"Church,\" \"Swimming,\" \"Fire,\" \"Retreat,\" \"To the Colors,\" \"Call to Quarters,\" and \"Taps.\"  Resources: [First Call (video)](https://youtu.be/cIuRLWqkAJQ?si=gI0l8xZB6Ova8Zye)  [Reveille (Awake for Morning Call) (video)](https://youtu.be/It7MrzMzMQ8?si=0JrOFefl5hjgPglV)  [Assembly (video)](https://youtu.be/i6fg7Rt8ilM?si=EbN39mbH3P3tDKpb)  [Mess (video)](https://youtu.be/av0KwEhfbEE?si=Lq-FbJq3apuN6Eaz)  [Drill  (video)](https://youtu.be/MnAkgjY66g8?si=pBnP-Qyw7N_zQAAp)  [Fatigue (video)](https://youtu.be/1u6Rtk_KO-c?si=ml0AbgEnJri21MCX)  [Officers (video)](https://youtu.be/X8GlrD1x6Gc?si=FW3sXxTIXli7FKaW) [Recall (video)](https://youtu.be/69HW8f1t0nw?si=drPQd26mJx2FBSfs) [Church (video)](https://youtu.be/GVhVfat9t5M?si=COwTTD_UdQCsjou6) [Swimming (video)](https://youtu.be/NgOxHV3lgPA?si=qQZDt4tm_GPbbm16) [Fire (video)](https://youtu.be/VjFEvxQAQiA?si=z_jNUIY8fFIVJjjE) [Retreat (video)](https://youtu.be/rbWroGllq3k?si=4aeGYW8vMAHtFyXV) [To The Color (video)](https://youtu.be/y-rtnNTFMfY?si=Kmo-ATbHXtVbJIHF) [Call to Quarters (video)](https://youtu.be/VMww5IIDHUU?si=zO_HdfiWIVCfZcB4) [Taps (video)](https://youtu.be/vml52_HARwU?si=ST5bjdx7Gfk2T_8c)",
-      "internal_parent_id": null,
-      "internal_id": "8832",
-      "requirements": []
+      "id": "8832",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Sound 10 of the following bugle calls: \"First Call,\" \"Reveille,\" \"Assembly,\" \"Mess,\" \"Drill,\" \"Fatigue,\" \"Officers,\" \"Recall,\" \"Church,\" \"Swimming,\" \"Fire,\" \"Retreat,\" \"To the Colors,\" \"Call to Quarters,\" and \"Taps.\""
+        }
+      ],
+      "resources": [
+        {
+          "title": "First Call (video)",
+          "url": "https://youtu.be/cIuRLWqkAJQ?si=gI0l8xZB6Ova8Zye"
+        },
+        {
+          "title": "Reveille (Awake for Morning Call) (video)",
+          "url": "https://youtu.be/It7MrzMzMQ8?si=0JrOFefl5hjgPglV"
+        },
+        {
+          "title": "Assembly (video)",
+          "url": "https://youtu.be/i6fg7Rt8ilM?si=EbN39mbH3P3tDKpb"
+        },
+        {
+          "title": "Mess (video)",
+          "url": "https://youtu.be/av0KwEhfbEE?si=Lq-FbJq3apuN6Eaz"
+        },
+        {
+          "title": "Drill  (video)",
+          "url": "https://youtu.be/MnAkgjY66g8?si=pBnP-Qyw7N_zQAAp"
+        },
+        {
+          "title": "Fatigue (video)",
+          "url": "https://youtu.be/1u6Rtk_KO-c?si=ml0AbgEnJri21MCX"
+        },
+        {
+          "title": "Officers (video)",
+          "url": "https://youtu.be/X8GlrD1x6Gc?si=FW3sXxTIXli7FKaW"
+        },
+        {
+          "title": "Recall (video)",
+          "url": "https://youtu.be/69HW8f1t0nw?si=drPQd26mJx2FBSfs"
+        },
+        {
+          "title": "Church (video)",
+          "url": "https://youtu.be/GVhVfat9t5M?si=COwTTD_UdQCsjou6"
+        },
+        {
+          "title": "Swimming (video)",
+          "url": "https://youtu.be/NgOxHV3lgPA?si=qQZDt4tm_GPbbm16"
+        },
+        {
+          "title": "Fire (video)",
+          "url": "https://youtu.be/VjFEvxQAQiA?si=z_jNUIY8fFIVJjjE"
+        },
+        {
+          "title": "Retreat (video)",
+          "url": "https://youtu.be/rbWroGllq3k?si=4aeGYW8vMAHtFyXV"
+        },
+        {
+          "title": "To The Color (video)",
+          "url": "https://youtu.be/y-rtnNTFMfY?si=Kmo-ATbHXtVbJIHF"
+        },
+        {
+          "title": "Call to Quarters (video)",
+          "url": "https://youtu.be/VMww5IIDHUU?si=zO_HdfiWIVCfZcB4"
+        },
+        {
+          "title": "Taps (video)",
+          "url": "https://youtu.be/vml52_HARwU?si=ST5bjdx7Gfk2T_8c"
+        }
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Explain when each of the calls in requirement 3 is used. Resource:  [US Army Bugle Calls Daily Sequence: An Honorable Tradition (video)](https://youtu.be/M1TeQKsEJNI?si=crt_NPME98EGVZYK)",
-      "internal_parent_id": null,
-      "internal_id": "8833",
-      "requirements": []
+      "id": "8833",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain when each of the calls in requirement 3 is used."
+        }
+      ],
+      "resources": [
+        {
+          "title": "US Army Bugle Calls Daily Sequence: An Honorable Tradition (video)",
+          "url": "https://youtu.be/M1TeQKsEJNI?si=crt_NPME98EGVZYK"
+        }
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "Explain how to care for, clean, and maintain a bugle. Resource:  [How to Clean a Bugle...and Dealing With Spit (video)](https://youtu.be/KT3UB7BUCNg?si=ry4HAquO1a6uxHiA)",
-      "internal_parent_id": null,
-      "internal_id": "8834",
-      "requirements": []
+      "id": "8834",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain how to care for, clean, and maintain a bugle."
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Clean a Bugle...and Dealing With Spit (video)",
+          "url": "https://youtu.be/KT3UB7BUCNg?si=ry4HAquO1a6uxHiA"
+        }
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "6",
-      "text": "Serve as bugler in your troop for three months.",
-      "internal_parent_id": null,
-      "internal_id": "8835",
-      "requirements": []
+      "id": "8835",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Serve as bugler in your troop for three months."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

@@ -10,6 +10,15 @@
   "requirements": [
     {
       "id": "1",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a plan to go fishing. Determine where you will go and what type of fish you plan to catch. All of the following requirements are to be completed based on your choice."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Make a plan to go fishing. Determine where you will go and what type of fish you plan to catch. All of the following requirements are to be completed based on your choice.",
       "activities": [
         {
@@ -25,6 +34,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Use Scouting America’s SAFE Checklist to plan what you need for your fishing experience."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Use Scouting America’s SAFE Checklist to plan what you need for your fishing experience.",
       "activities": [
         {
@@ -40,6 +58,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe the environment where the fish might be found."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Describe the environment where the fish might be found.",
       "activities": [
         {
@@ -73,6 +100,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a list of the equipment and materials you will need to fish."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Make a list of the equipment and materials you will need to fish.",
       "activities": [
         {
@@ -88,6 +124,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Determine the best type of knot to tie your hook to your line and tie it."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Determine the best type of knot to tie your hook to your line and tie it.",
       "activities": [
         {
@@ -103,7 +148,16 @@
     },
     {
       "id": "6",
-      "text": "On your own, choose the appropriate type of fishing rod and tackle you will be using.  Have an adult review your gear.",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "On your own, choose the appropriate type of fishing rod and tackle you will be using. Have an adult review your gear."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "On your own, choose the appropriate type of fishing rod and tackle you will be using. Have an adult review your gear.",
       "activities": [
         {
           "name": "Hook, Line and Sinker",
@@ -118,6 +172,15 @@
     },
     {
       "id": "7",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Using what you have learned about fish and fishing equipment, spend at least one hour fishing following local guidelines and regulations."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Using what you have learned about fish and fishing equipment, spend at least one hour fishing following local guidelines and regulations.",
       "activities": [
         {

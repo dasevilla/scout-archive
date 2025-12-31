@@ -2,6 +2,7 @@
   "name": "Signs, Signals, and Codes",
   "overview": "The Signs, Signals and Codes merit badge covers a number of the nonverbal ways we communicate: emergency signaling, Morse code, American Sign Language, braille, trail signs, sports officiating hand signals, traffic signs, secret codes and more.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/signs-signals-and-codes/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Signs%20Signals%20Codes.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Signs-Signals-and-Codes.pdf",
@@ -11,199 +12,358 @@
   "image_filename": "signs-signals-and-codes-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Signs%20Signals%20Codes.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14164",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Discuss with your counselor the importance of signs, signals, and codes, and why people need these different methods of communication. Briefly discuss the history and development of signs, signals, and codes.",
-      "internal_parent_id": null,
-      "internal_id": "5673",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Explain the importance of signaling in emergency communications. Discuss with your counselor the types of emergency or distress signals one might use to attract airborne search-and-rescue personnel if lost in the outdoors or trying to summon assistance during a disaster. Illustrate these signaling examples by the use of photos or drawings.",
-      "internal_parent_id": null,
-      "internal_id": "5674",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5675",
-      "requirements": [
+      "id": "15775",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Describe what Morse code is and the various means by which it can be sent. Spell your first name using Morse code. Send or receive a message of six to 10 words using Morse code.",
-          "internal_parent_id": "5675",
-          "internal_id": "5676",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss with your counselor the importance of signs, signals, and codes, and why people need these different methods of communication. Briefly discuss the history and development of signs, signals, and codes."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "15777",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the importance of signaling in emergency communications. Discuss with your counselor the types of emergency or distress signals one might use to attract airborne search-and-rescue personnel if lost in the outdoors or trying to summon assistance during a disaster. Illustrate these signaling examples by the use of photos or drawings."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "15753",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15754",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe what Morse code is and the various means by which it can be sent. Spell your first name using Morse code. Send or receive a message of six to 10 words using Morse code."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe what American Sign Language (ASL) is and how it is used today. Spell your first name using American Sign Language. Send or receive a message of six to 10 words using ASL.",
-          "internal_parent_id": "5675",
-          "internal_id": "5677",
-          "requirements": []
+          "id": "15755",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe what American Sign Language (ASL) is and how it is used today. Spell your first name using American Sign Language. Send or receive a message of six to 10 words using ASL."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Give your counselor a brief explanation about semaphore, why it is used, how it is used, and where it is used. Explain the difference between semaphore flags and nautical flags. Then do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5678",
-      "requirements": [
+      "id": "15756",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Spell your first name using semaphore. Send or receive a message of six to 10 words using semaphore.",
-          "internal_parent_id": "5678",
-          "internal_id": "5679",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15757",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Give your counselor a brief explanation about semaphore, why it is used, how it is used, and where it is used."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Using illustrations or photographs, identify 10 examples of nautical flags and discuss their importance.",
-          "internal_parent_id": "5678",
-          "internal_id": "5680",
-          "requirements": []
+          "id": "15758",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the difference between semaphore flags and nautical flags."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15779",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "After 4(a) and 4(b) have been completed, then do the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15780",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Spell your first name using semaphore. Send or receive a message of six to 10 words using semaphore."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15781",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using illustrations or photographs, identify 10 examples of nautical flags and discuss their importance."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Explain the braille reading technique and how it helps individuals with sight impairment to communicate. Then do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5681",
-      "requirements": [
+      "id": "15759",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Either by sight or by touch, identify the letters of the braille alphabet that spell your name. By sight or touch, decode a braille message at least six words long.",
-          "internal_parent_id": "5681",
-          "internal_id": "5682",
-          "requirements": []
+          "type": "text",
+          "value": "Explain the braille reading technique and how it helps individuals with sight impairment to communicate. Then do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15760",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Either by sight or by touch, identify the letters of the braille alphabet that spell your name. By sight or touch, decode a braille message at least six words long."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Create a message in braille at least six words long, and share this with your counselor.",
-          "internal_parent_id": "5681",
-          "internal_id": "5683",
-          "requirements": []
+          "id": "15761",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a message in braille at least six words long, and share this with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5684",
-      "requirements": [
+      "id": "15762",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Describe to your counselor six sound-only signals that are in use today. Discuss the pros and cons of using sound signals versus other types of signals.",
-          "internal_parent_id": "5684",
-          "internal_id": "5685",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15763",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe to your counselor six sound-only signals that are in use today. Discuss the pros and cons of using sound signals versus other types of signals."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Demonstrate to your counselor six different silent Scout signals. Use these Scout signals to direct the movements and actions to direct the movements and actions of your patrol or troop.",
-          "internal_parent_id": "5684",
-          "internal_id": "5686",
-          "requirements": []
+          "id": "15764",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate to your counselor six different silent Scout signals. Use these Scout signals to direct the movements and actions of your patrol or troop."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "On a Scout outing, lay out a trail for your patrol or troop to follow. Cover at least one mile in distance and use at least six different trail signs and markers. After the Scouts have completed the trail, follow the Leave No Trace Seven Principles and the Outdoor Code by replacing or returning trail markers to their original locations.",
-      "internal_parent_id": null,
-      "internal_id": "5687",
-      "requirements": []
+      "id": "15778",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "On a Scout outing, lay out a trail for your patrol or troop to follow. Cover at least one mile in distance and use at least six different trail signs and markers. After the Scouts have completed the trail, follow the Leave No Trace Seven Principles and the Outdoor Code by replacing or returning trail markers to their original locations."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "8",
-      "text": "For THREE of the following activities, demonstrate five signals each. Tell what the signals mean and why they are used:",
-      "internal_parent_id": null,
-      "internal_id": "5688",
-      "requirements": [
+      "id": "15765",
+      "label": "8",
+      "content": [
         {
-          "id": "a",
-          "text": "Sports official's hand signs/signals",
-          "internal_parent_id": "5688",
-          "internal_id": "5689",
-          "requirements": []
+          "type": "text",
+          "value": "For THREE of the following activities, demonstrate five signals each. Tell what the signals mean and why they are used:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15766",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Sports official's hand signs/signals"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Heavy-equipment operator's hand signals",
-          "internal_parent_id": "5688",
-          "internal_id": "5690",
-          "requirements": []
+          "id": "15767",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Heavy-equipment operator's hand signals"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Aircraft carrier catapult crew signals",
-          "internal_parent_id": "5688",
-          "internal_id": "5691",
-          "requirements": []
+          "id": "15768",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Aircraft carrier catapult crew signals"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Cyclist's hand signals",
-          "internal_parent_id": "5688",
-          "internal_id": "5692",
-          "requirements": []
+          "id": "15769",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Cyclist's hand signals"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "An activity selected by you and your counselor.",
-          "internal_parent_id": "5688",
-          "internal_id": "5693",
-          "requirements": []
+          "id": "15770",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "An activity selected by you and your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Share with your counselor 10 examples of symbols used in everyday life. Design your own symbol. Share it with your counselor and explain what it means. Then do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5694",
-      "requirements": [
+      "id": "15771",
+      "label": "9",
+      "content": [
         {
-          "id": "a",
-          "text": "Show examples of 10 traffic signs and explain their meaning.",
-          "internal_parent_id": "5694",
-          "internal_id": "5695",
-          "requirements": []
+          "type": "text",
+          "value": "Share with your counselor 10 examples of symbols used in everyday life. Design your own symbol. Share it with your counselor and explain what it means. Then do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15772",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show examples of 10 traffic signs and explain their meaning."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Using a topographical map, explain what a map legend is and discuss its importance. Point out 10 map symbols and explain the meaning of each.",
-          "internal_parent_id": "5694",
-          "internal_id": "5696",
-          "requirements": []
+          "id": "15773",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a topographical map, explain what a map legend is and discuss its importance. Point out 10 map symbols and explain the meaning of each."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Discuss text-message symbols and why they are commonly used. Give examples of your favorite 10 text symbols or emoticons. Then see if your parent, guardian, or counselor can identify the meaning or usage of each symbol.",
-          "internal_parent_id": "5694",
-          "internal_id": "5697",
-          "requirements": []
+          "id": "15774",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss text-message symbols and why they are commonly used. Give examples of your favorite 10 text symbols or emoticons. Then see if your parent, guardian, or counselor can identify the meaning or usage of each symbol."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "10",
-      "text": "Briefly discuss the history of secret code writing (cryptography). Make up your own secret code and write a message of up to 25 words using this code. Share the message with a friend or fellow Scout. Then share the message and code key with your counselor and discuss the effectiveness of your code.",
-      "internal_parent_id": null,
-      "internal_id": "5698",
-      "requirements": []
+      "id": "15776",
+      "label": "10",
+      "content": [
+        {
+          "type": "text",
+          "value": "Briefly discuss the history of secret code writing (cryptography). Make up your own secret code and write a message of up to 25 words using this code. Share the message with a friend or fellow Scout. Then share the message and code key with your counselor and discuss the effectiveness of your code."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

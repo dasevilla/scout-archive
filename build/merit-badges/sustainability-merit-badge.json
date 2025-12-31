@@ -2,6 +2,7 @@
   "name": "Sustainability",
   "overview": "Learn to reduce waste and teach sustainable practices to others so you can help conserve Earth’s resources with the Sustainability Merit Badge. Scouts will develop and implement a plan to reduce their water usage, household food waste, and learn about the sustainability of different energy sources, including fossil fuels, solar, wind, nuclear, hydropower, and geothermal.",
   "is_eagle_required": true,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/sustainability/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sustainability.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Sustainability.pdf",
@@ -11,249 +12,743 @@
   "image_filename": "sustainability-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sustainability.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14173",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Describe the meaning of sustainability in your own words. Explain the importance of sustainability to society and how you can contribute to fulfilling the needs of current generations without compromising the needs of future generations. Resources:[What is Sustainability (video)](https://www.youtube.com/watch?v=zx04Kl8y4dE)  [Introduction to Sustainability (video)](https://youtu.be/k6jUaaQNY28?si=lLm_GCjG4LjRhh6Z)",
-      "internal_parent_id": null,
-      "internal_id": "12015",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Water. Do ONE of the following and discuss with your counselor:Resources:[The Water Cycle - Weather and Climate (video)](https://youtu.be/r2dnUvP1JgM?si=59-npTckyjYd3wmJ)[The Water Cycle (video)](https://www.youtube.com/watch?v=ZzY5-NZSzVw)",
-      "internal_parent_id": null,
-      "internal_id": "12082",
-      "requirements": [
+      "id": "12015",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Evaluate your household water usage. If available, review water bills from the past year and evaluate the seasonal changes in water use. Identify three ways to help reduce water consumption. Resource: [How We Use Water (video)](https://www.youtube.com/watch?v=dEmYud2wGlc)",
-          "internal_parent_id": "12082",
-          "internal_id": "12084",
-          "requirements": []
+          "type": "text",
+          "value": "Describe the meaning of sustainability in your own words. Explain the importance of sustainability to society and how you can contribute to fulfilling the needs of current generations without compromising the needs of future generations."
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Sustainability (video)",
+          "url": "https://www.youtube.com/watch?v=zx04Kl8y4dE"
         },
         {
-          "id": "b",
-          "text": "Explain why water is necessary in our lives. Create a diagram to show how your household gets its clean water from a natural source and what happens with the water after you use it. Tell two ways to preserve your community's access to clean water in the future.Resources:[How Do We Get Clean Drinking Water? (video)](https://youtu.be/PEKXB3N6g3I?si=bSEBW551c3IzPidg)[Facts About Water (video)](https://www.youtube.com/watch?v=paUYby1kbMs)",
-          "internal_parent_id": "12082",
-          "internal_id": "12085",
-          "requirements": []
+          "title": "Introduction to Sustainability (video)",
+          "url": "https://youtu.be/k6jUaaQNY28?si=lLm_GCjG4LjRhh6Z"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "12082",
+      "label": "2",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Water."
+            }
+          ]
         },
         {
-          "id": "c",
-          "text": "Different areas of the world are affected by either too much (flooding) or too little (drought) water. Explore whether either or both affect where you live. Identify three water conservation or flood mitigation practices (successful or unsuccessful) that have been tried where you live or in an area of the world that interests you.Resources:[Science Behind Drought (video)](https://youtu.be/Do6cC05LuDs?si=oRn79Edqb-E9F_J1) [Assessing Drought in the United States (video)](https://youtu.be/i7F6QwRqyVI?si=_jFf3kUQjQp_hDrO) [Understanding Floods (video)](https://youtu.be/ivUKLr8q4sE?si=rPVt3EUFGBO_niMp)",
-          "internal_parent_id": "12082",
-          "internal_id": "12086",
-          "requirements": []
+          "type": "text",
+          "value": " Do ONE of the following and discuss with your counselor:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Water Cycle - Weather and Climate (video)",
+          "url": "https://youtu.be/r2dnUvP1JgM?si=59-npTckyjYd3wmJ"
+        },
+        {
+          "title": "The Water Cycle (video)",
+          "url": "https://www.youtube.com/watch?v=ZzY5-NZSzVw"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "12084",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Evaluate your household water usage. If available, review water bills from the past year and evaluate the seasonal changes in water use. Identify three ways to help reduce water consumption."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How We Use Water (video)",
+              "url": "https://www.youtube.com/watch?v=dEmYud2wGlc"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12085",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain why water is necessary in our lives. Create a diagram to show how your household gets its clean water from a natural source and what happens with the water after you use it. Tell two ways to preserve your community's access to clean water in the future."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How Do We Get Clean Drinking Water? (video)",
+              "url": "https://youtu.be/PEKXB3N6g3I?si=bSEBW551c3IzPidg"
+            },
+            {
+              "title": "Facts About Water (video)",
+              "url": "https://www.youtube.com/watch?v=paUYby1kbMs"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12086",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Different areas of the world are affected by either too much (flooding) or too little (drought) water. Explore whether either or both affect where you live. Identify three water conservation or flood mitigation practices (successful or unsuccessful) that have been tried where you live or in an area of the world that interests you."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Science Behind Drought (video)",
+              "url": "https://youtu.be/Do6cC05LuDs?si=oRn79Edqb-E9F_J1"
+            },
+            {
+              "title": "Assessing Drought in the United States (video)",
+              "url": "https://youtu.be/i7F6QwRqyVI?si=_jFf3kUQjQp_hDrO"
+            },
+            {
+              "title": "Understanding Floods (video)",
+              "url": "https://youtu.be/ivUKLr8q4sE?si=rPVt3EUFGBO_niMp"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Food. Do ONE of the following and discuss with your counselor:   Resources: [Matter and Energy in Food Webs (video)](https://youtu.be/qIgL05zOx5U?si=T5n5awJMxxmXV0Hw)[Food and Energy in Organisms (video)](https://youtu.be/wPhjCn9kq5M?si=Bo_JNmkBG0G63dyi)",
-      "internal_parent_id": null,
-      "internal_id": "12083",
-      "requirements": [
+      "id": "12083",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Explore the sustainability of different types of plant-based, animal-based and aquaculture food. Identify where four different foods (such as milk, eggs, tuna fish, avocados, or ketchup) come from and how they are processed and transported from the source to you. Resources:[Exploring Food Sustainability (video)](https://youtu.be/PyiVf26C5pc?si=SIH9gYgrBwPT_JsX) [Food Sustainability Basics (video)](https://youtu.be/luIQGJIo_Wc?si=3uN9tXUqJ9QyNYoZ) [Food Systems Innovation (video)](https://youtu.be/VzE1wDkXNIw)",
-          "internal_parent_id": "12083",
-          "internal_id": "12152",
-          "requirements": []
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Food."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Identify four factors that limit the availability of food in different regions of the world. Discuss how each factor influences the sustainability of worldwide food supplies. Share three ways individuals, families, or your community can create their own food sources. Resources: [Food Security (video)](https://www.youtube.com/watch?v=YF18lUXUIk4) [The 23 Food Regions of the World (video)](https://www.youtube.com/watch?v=vGOtOkrBcMA)",
-          "internal_parent_id": "12083",
-          "internal_id": "12153",
-          "requirements": []
+          "type": "text",
+          "value": " Do ONE of the following and discuss with your counselor:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Matter and Energy in Food Webs (video)",
+          "url": "https://youtu.be/qIgL05zOx5U?si=T5n5awJMxxmXV0Hw"
         },
         {
-          "id": "c",
-          "text": "Develop a plan to reduce your household food waste in a sustainable manner. Establish a baseline and then track and record your results for two weeks.Resources:[5 Food Waste Reduction Tips for Your Home (video)](https://www.youtube.com/watch?v=waMsKjl8HkM) [Food Waste Reduction at Home (video)](https://www.youtube.com/watch?v=DxdhK0R-fuA)",
-          "internal_parent_id": "12083",
-          "internal_id": "12154",
-          "requirements": []
+          "title": "Food and Energy in Organisms (video)",
+          "url": "https://youtu.be/wPhjCn9kq5M?si=Bo_JNmkBG0G63dyi"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "12152",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore the sustainability of different types of plant-based, animal-based and aquaculture food. Identify where four different foods (such as milk, eggs, tuna fish, avocados, or ketchup) come from and how they are processed and transported from the source to you."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Exploring Food Sustainability (video)",
+              "url": "https://youtu.be/PyiVf26C5pc?si=SIH9gYgrBwPT_JsX"
+            },
+            {
+              "title": "Food Sustainability Basics (video)",
+              "url": "https://youtu.be/luIQGJIo_Wc?si=3uN9tXUqJ9QyNYoZ"
+            },
+            {
+              "title": "Food Systems Innovation (video)",
+              "url": "https://youtu.be/VzE1wDkXNIw"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12153",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify four factors that limit the availability of food in different regions of the world. Discuss how each factor influences the sustainability of worldwide food supplies. Share three ways individuals, families, or your community can create their own food sources."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Food Security (video)",
+              "url": "https://www.youtube.com/watch?v=YF18lUXUIk4"
+            },
+            {
+              "title": "The 23 Food Regions of the World (video)",
+              "url": "https://www.youtube.com/watch?v=vGOtOkrBcMA"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12154",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Develop a plan to reduce your household food waste in a sustainable manner. Establish a baseline and then track and record your results for two weeks."
+            }
+          ],
+          "resources": [
+            {
+              "title": "5 Food Waste Reduction Tips for Your Home (video)",
+              "url": "https://www.youtube.com/watch?v=waMsKjl8HkM"
+            },
+            {
+              "title": "Food Waste Reduction at Home (video)",
+              "url": "https://www.youtube.com/watch?v=DxdhK0R-fuA"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Community. Do ONE of the following and discuss with your counselor: Resources: [Impacts of Urbanization (video)](https://www.youtube.com/watch?v=2C7F_2OpRT8) [What Happens When We Band Together? (video)](https://www.youtube.com/watch?v=nJO2C2Hk7J8)",
-      "internal_parent_id": null,
-      "internal_id": "12155",
-      "requirements": [
+      "id": "12155",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Create a sketch depicting how you would design a sustainable community and be prepared to explain how the housing, work locations, shops, schools, and transportation systems affect energy, pollution, natural resources, and the economy of the community. Resources:[Designing a Sustainable Community (video)](https://www.youtube.com/watch?v=RBQiRx6VP7o) [Creating a Sustainable Community (video)](https://www.youtube.com/watch?v=fWdUuvpBtLc)",
-          "internal_parent_id": "12155",
-          "internal_id": "12156",
-          "requirements": []
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Community."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Identify one unsustainable practice in your community and develop a written plan to fix it. Resources:[Sustainable Communities (video)](https://www.youtube.com/watch?v=VrBrpSTwPK8) [Community Sustainability (video) ](https://www.youtube.com/watch?v=lgEsYPxqdkA)",
-          "internal_parent_id": "12155",
-          "internal_id": "12157",
-          "requirements": []
+          "type": "text",
+          "value": " Do ONE of the following and discuss with your counselor:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Impacts of Urbanization (video)",
+          "url": "https://www.youtube.com/watch?v=2C7F_2OpRT8"
         },
         {
-          "id": "c",
-          "text": "Identify five sustainability factors in housing and rate your own home's sustainability against these factors. Resource:[Environmental Footprint Calculator (website)](https://carbon-calculator.climatehero.org/)",
-          "internal_parent_id": "12155",
-          "internal_id": "12158",
-          "requirements": []
+          "title": "What Happens When We Band Together? (video)",
+          "url": "https://www.youtube.com/watch?v=nJO2C2Hk7J8"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "12156",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a sketch depicting how you would design a sustainable community and be prepared to explain how the housing, work locations, shops, schools, and transportation systems affect energy, pollution, natural resources, and the economy of the community."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Designing a Sustainable Community (video)",
+              "url": "https://www.youtube.com/watch?v=RBQiRx6VP7o"
+            },
+            {
+              "title": "Creating a Sustainable Community (video)",
+              "url": "https://www.youtube.com/watch?v=fWdUuvpBtLc"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12157",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify one unsustainable practice in your community and develop a written plan to fix it."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Sustainable Communities (video)",
+              "url": "https://www.youtube.com/watch?v=VrBrpSTwPK8"
+            },
+            {
+              "title": "Community Sustainability (video)",
+              "url": "https://www.youtube.com/watch?v=lgEsYPxqdkA"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12158",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify five sustainability factors in housing and rate your own home's sustainability against these factors."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Environmental Footprint Calculator (website)",
+              "url": "https://carbon-calculator.climatehero.org/"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Energy. Do ONE of the following and discuss with your counselor:Resource:[Energy Resources (video)](https://www.youtube.com/watch?v=G2lQFo69_hc)",
-      "internal_parent_id": null,
-      "internal_id": "12159",
-      "requirements": [
+      "id": "12159",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Learn about the sustainability of different energy sources, including coal, gas, geothermal, hydro power, nuclear, petroleum, solar, and wind. Identify three common energy sources in the United States and describe how the production and consumption of each of these energy sources affects sustainability. Resources:[Renewable Energy (video)](https://youtu.be/1kUE0BZtTRc?si=Wfjrw3hn4Qnh1VNO) [Carbon Footprint (video)](https://www.youtube.com/watch?v=a9yO-K8mwL0)",
-          "internal_parent_id": "12159",
-          "internal_id": "12160",
-          "requirements": []
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Energy."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "List eight ways your family consumes energy, such as gas appliances, electricity, heating systems or cooling systems, and transportation. For one home- and one transportation-related energy use, list three ways to help reduce consumption, reduce your carbon footprint, and be a better steward of this resource. Resource: [Your Carbon Footprint (video)](https://www.youtube.com/watch?v=J_iDcKDAwbA)",
-          "internal_parent_id": "12159",
-          "internal_id": "12161",
-          "requirements": []
+          "type": "text",
+          "value": " Do ONE of the following and discuss with your counselor:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Energy Resources (video)",
+          "url": "https://www.youtube.com/watch?v=G2lQFo69_hc"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "12160",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Learn about the sustainability of different energy sources, including coal, gas, geothermal, hydro power, nuclear, petroleum, solar, and wind. Identify three common energy sources in the United States and describe how the production and consumption of each of these energy sources affects sustainability."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Renewable Energy (video)",
+              "url": "https://youtu.be/1kUE0BZtTRc?si=Wfjrw3hn4Qnh1VNO"
+            },
+            {
+              "title": "Carbon Footprint (video)",
+              "url": "https://www.youtube.com/watch?v=a9yO-K8mwL0"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "List five ways you and your family could reduce energy consumption in your home, such as adjusting your thermostat, window shades, opening windows, reducing hot-water temperature, and minimizing water consumption. Identify the benefits and risks of each idea and implement if possible. Resource: [Save Energy (video) ](https://www.youtube.com/watch?v=AKcfc2WXIWY)",
-          "internal_parent_id": "12159",
-          "internal_id": "12162",
-          "requirements": []
+          "id": "12161",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "List eight ways your family consumes energy, such as gas appliances, electricity, heating systems or cooling systems, and transportation. For one home- and one transportation-related energy use, list three ways to help reduce consumption, reduce your carbon footprint, and be a better steward of this resource."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Your Carbon Footprint (video)",
+              "url": "https://www.youtube.com/watch?v=J_iDcKDAwbA"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12162",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "List five ways you and your family could reduce energy consumption in your home, such as adjusting your thermostat, window shades, opening windows, reducing hot-water temperature, and minimizing water consumption. Identify the benefits and risks of each idea and implement if possible."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Save Energy (video)",
+              "url": "https://www.youtube.com/watch?v=AKcfc2WXIWY"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Stuff. Do ONE of the following and discuss with your counselor: Resources:[Decluttering (video)](https://youtu.be/DecAW0FfpLc?si=NNUXSvXGSp6mza6j)[Why Do We Have So Much Stuff? (video)](https://www.youtube.com/watch?v=KtWlmbDsx-U)",
-      "internal_parent_id": null,
-      "internal_id": "12163",
-      "requirements": [
+      "id": "12163",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Create a list of 15 items of your personal \"stuff.\" Classify each item as an essential need (such as soap) or a desirable want (such as a video game). Identify any excess \"stuff\" you no longer need, working with your family, if possible. Donate, repurpose, or recycle those items you can.",
-          "internal_parent_id": "12163",
-          "internal_id": "12164",
-          "requirements": []
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Stuff."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "List five ways having too much \"stuff\" affects you, your family, your community, AND the world. For each of the five ways, consider the following aspects: the financial impact, time spent, maintenance, health, storage, and waste generation. Identify practices that can be used to avoid accumulating too much \"stuff.\"",
-          "internal_parent_id": "12163",
-          "internal_id": "12165",
-          "requirements": []
+          "type": "text",
+          "value": " Do ONE of the following and discuss with your counselor:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Decluttering (video)",
+          "url": "https://youtu.be/DecAW0FfpLc?si=NNUXSvXGSp6mza6j"
         },
         {
-          "id": "c",
-          "text": "Research the impact waste has on the environment (land, water, air). Find out what the trash vortex is and how it was formed. Explain the number system for plastic recyclables and which plastics are more commonly recycled. Identify the average lifespan of one electronic device in your household, and whether it can be recycled in whole or part. Resources: [Pacific Garbage Patch (video)](https://www.youtube.com/watch?v=dtaNqGyHkNE) [Know Your Plastics (video)](https://www.youtube.com/watch?v=_qTelxi3MjU) [Recycling E-Waste (video)](https://www.youtube.com/watch?v=HmEhTIMfZiI)",
-          "internal_parent_id": "12163",
-          "internal_id": "12166",
-          "requirements": []
+          "title": "Why Do We Have So Much Stuff? (video)",
+          "url": "https://www.youtube.com/watch?v=KtWlmbDsx-U"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "12164",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a list of 15 items of your personal \"stuff.\" Classify each item as an essential need (such as soap) or a desirable want (such as a video game). Identify any excess \"stuff\" you no longer need, working with your family, if possible. Donate, repurpose, or recycle those items you can."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12165",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "List five ways having too much \"stuff\" affects you, your family, your community, AND the world. For each of the five ways, consider the following aspects: the financial impact, time spent, maintenance, health, storage, and waste generation. Identify practices that can be used to avoid accumulating too much \"stuff.\""
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12166",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Research the impact waste has on the environment (land, water, air). Find out what the trash vortex is and how it was formed. Explain the number system for plastic recyclables and which plastics are more commonly recycled. Identify the average lifespan of one electronic device in your household, and whether it can be recycled in whole or part."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Pacific Garbage Patch (video)",
+              "url": "https://www.youtube.com/watch?v=dtaNqGyHkNE"
+            },
+            {
+              "title": "Know Your Plastics (video)",
+              "url": "https://www.youtube.com/watch?v=_qTelxi3MjU"
+            },
+            {
+              "title": "Recycling E-Waste (video)",
+              "url": "https://www.youtube.com/watch?v=HmEhTIMfZiI"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Do TWO of the following and discuss with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12167",
-      "requirements": [
+      "id": "12167",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "The United Nations lists 17 Sustainable Development Goals. These include Zero Hunger, Clean Water and Sanitation, Affordable and Clean Energy, Sustainable Cities and Community, Responsible Consumption and Production, Climate Action, Life Below Water, and Life on Land. Pick one of these eight and summarize the goal and its current and future impact on you, your family, community, and the world. Resources: [Sustainable Development Goals (video)](https://www.youtube.com/watch?v=M-iJM02m_Hg) [Sustainable Goals (video)](https://www.youtube.com/watch?v=RpqVmvMCmp0) [Clean Water Goal (video)](https://www.youtube.com/watch?v=LCKsU4bPFOQ)",
-          "internal_parent_id": "12167",
-          "internal_id": "12168",
-          "requirements": []
+          "type": "text",
+          "value": "Do TWO of the following and discuss with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12168",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The United Nations lists 17 Sustainable Development Goals. These include Zero Hunger, Clean Water and Sanitation, Affordable and Clean Energy, Sustainable Cities and Community, Responsible Consumption and Production, Climate Action, Life Below Water, and Life on Land. Pick one of these eight and summarize the goal and its current and future impact on you, your family, community, and the world."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Sustainable Development Goals (video)",
+              "url": "https://www.youtube.com/watch?v=M-iJM02m_Hg"
+            },
+            {
+              "title": "Sustainable Goals (video)",
+              "url": "https://www.youtube.com/watch?v=RpqVmvMCmp0"
+            },
+            {
+              "title": "Clean Water Goal (video)",
+              "url": "https://www.youtube.com/watch?v=LCKsU4bPFOQ"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Identify how the planetary life-support systems (soil, climate, freshwater, atmospheric, nutrient, oceanic, ecosystems, and species) support life on Earth and interact with one another. Share what happens to the planet's sustainability when these systems are disrupted by natural events or human activity. Resources:[Planetary Cycles (video)](https://www.youtube.com/watch?v=6j5iHvYBIcg) [Earth's Systems (video)](https://www.youtube.com/watch?v=BnpF0ndXk-8) [4 Spheres of Earth (video) ](https://www.youtube.com/watch?v=gWHE4ug1xpc)",
-          "internal_parent_id": "12167",
-          "internal_id": "12169",
-          "requirements": []
+          "id": "12169",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify how the planetary life-support systems (soil, climate, freshwater, atmospheric, nutrient, oceanic, ecosystems, and species) support life on Earth and interact with one another. Share what happens to the planet's sustainability when these systems are disrupted by natural events or human activity."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Planetary Cycles (video)",
+              "url": "https://www.youtube.com/watch?v=6j5iHvYBIcg"
+            },
+            {
+              "title": "Earth's Systems (video)",
+              "url": "https://www.youtube.com/watch?v=BnpF0ndXk-8"
+            },
+            {
+              "title": "4 Spheres of Earth (video)",
+              "url": "https://www.youtube.com/watch?v=gWHE4ug1xpc"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Identify how product life cycles (the cycle of design, sourcing, production, use, and disposal or reuse) influence current and future sustainability. Choose one common product to demonstrate how the full product life cycle would apply. Resources:[Product Life Cycle Assessment (video)](https://www.youtube.com/watch?v=-9JRowyICbo) [Life Cycle Assessment Principles (video)](https://www.youtube.com/watch?v=r0ucT1KRiO4) [Product Life Cycles (video)](https://www.youtube.com/watch?v=u4_evHxlUr4)",
-          "internal_parent_id": "12167",
-          "internal_id": "12170",
-          "requirements": []
+          "id": "12170",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify how product life cycles (the cycle of design, sourcing, production, use, and disposal or reuse) influence current and future sustainability. Choose one common product to demonstrate how the full product life cycle would apply."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Product Life Cycle Assessment (video)",
+              "url": "https://www.youtube.com/watch?v=-9JRowyICbo"
+            },
+            {
+              "title": "Life Cycle Assessment Principles (video)",
+              "url": "https://www.youtube.com/watch?v=r0ucT1KRiO4"
+            },
+            {
+              "title": "Product Life Cycles (video)",
+              "url": "https://www.youtube.com/watch?v=u4_evHxlUr4"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Learn how the world's population affects the sustainability of Earth. Discuss three human activities that may contribute to putting Earth at risk, now and in the future. Resources:[Population Affects Resources (video)](https://www.youtube.com/watch?v=V2_LxCLwO2E&t=18s) [How Population Growth Impacts the Planet (video)](https://www.youtube.com/watch?v=mRcxGJcBDVo)  [Population affects Sustainability (video)](https://www.youtube.com/watch?v=evp4qGJIqEs)",
-          "internal_parent_id": "12167",
-          "internal_id": "12171",
-          "requirements": []
+          "id": "12171",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Learn how the world's population affects the sustainability of Earth. Discuss three human activities that may contribute to putting Earth at risk, now and in the future."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Population Affects Resources (video)",
+              "url": "https://www.youtube.com/watch?v=V2_LxCLwO2E&t=18s"
+            },
+            {
+              "title": "How Population Growth Impacts the Planet (video)",
+              "url": "https://www.youtube.com/watch?v=mRcxGJcBDVo"
+            },
+            {
+              "title": "Population affects Sustainability (video)",
+              "url": "https://www.youtube.com/watch?v=evp4qGJIqEs"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Explain the term species (plant or animal) decline. Share the human activities that contribute to species decline, what can be done to help reverse the decline, and its impact on a sustainable environment. Resources:[Should We Let Pandas Go Extinct? (video)](https://www.youtube.com/watch?v=VEMtc1w4z6c)[Extinction Explained (video)](https://www.youtube.com/watch?v=2N8VkDcIhIk)[Stop Extinction! (video)](https://www.youtube.com/watch?v=dbCR0KSU52g)",
-          "internal_parent_id": "12167",
-          "internal_id": "12172",
-          "requirements": []
+          "id": "12172",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the term species (plant or animal) decline. Share the human activities that contribute to species decline, what can be done to help reverse the decline, and its impact on a sustainable environment."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Should We Let Pandas Go Extinct? (video)",
+              "url": "https://www.youtube.com/watch?v=VEMtc1w4z6c"
+            },
+            {
+              "title": "Extinction Explained (video)",
+              "url": "https://www.youtube.com/watch?v=2N8VkDcIhIk"
+            },
+            {
+              "title": "Stop Extinction! (video)",
+              "url": "https://www.youtube.com/watch?v=dbCR0KSU52g"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Find a world map that shows the pattern of temperature change for a period of at least 100 years. Identify three factors that scientists believe affect the global weather and temperature. Discuss how climate change impacts sustainability of food, water, or other resources.Resources:[Global Warming From 1880 to 2022 (video)](https://www.youtube.com/watch?v=LwRTw_7NNJs) [Global Temps Since 1850 (video)](https://www.youtube.com/watch?v=DqHKQZGwtw4) [Timelapse of Planet Changes (video) ](https://www.youtube.com/watch?v=uFlLDcppwpI)",
-          "internal_parent_id": "12167",
-          "internal_id": "12173",
-          "requirements": []
+          "id": "12173",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Find a world map that shows the pattern of temperature change for a period of at least 100 years. Identify three factors that scientists believe affect the global weather and temperature. Discuss how climate change impacts sustainability of food, water, or other resources."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Global Warming From 1880 to 2022 (video)",
+              "url": "https://www.youtube.com/watch?v=LwRTw_7NNJs"
+            },
+            {
+              "title": "Global Temps Since 1850 (video)",
+              "url": "https://www.youtube.com/watch?v=DqHKQZGwtw4"
+            },
+            {
+              "title": "Timelapse of Planet Changes (video)",
+              "url": "https://www.youtube.com/watch?v=uFlLDcppwpI"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12174",
-      "requirements": [
+      "id": "12174",
+      "label": "8",
+      "content": [
         {
-          "id": "a",
-          "text": "On a campout or other outdoor Scouting activity that you attend, make notes on the sustainability practices you and your fellow Scouts practice. Observe transportation, forestry, soil conservation, water resources, habitat, buildings, campsites, and sanitation. Share what you observed and learned with your counselor.Resources:[Sustainable Camping Tips (Packing & Hiking) (video)](https://www.youtube.com/watch?v=plsDrKpN5dM) [ What Does LNT Means to Scouts (video) ](https://www.youtube.com/watch?v=oTs29BZzf8U)",
-          "internal_parent_id": "12174",
-          "internal_id": "12175",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12175",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a campout or other outdoor Scouting activity that you attend, make notes on the sustainability practices you and your fellow Scouts practice. Observe transportation, forestry, soil conservation, water resources, habitat, buildings, campsites, and sanitation. Share what you observed and learned with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Sustainable Camping Tips (Packing & Hiking) (video)",
+              "url": "https://www.youtube.com/watch?v=plsDrKpN5dM"
+            },
+            {
+              "title": "What Does LNT Means to Scouts (video)",
+              "url": "https://www.youtube.com/watch?v=oTs29BZzf8U"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Discuss with your counselor how living by the Scout Oath, Scout Law, Leave No Trace Seven Principles and the Outdoor Code in your daily life helps promote sustainability.Resources:  [Camping Tricks: The Scout Turn Around Rule LNT (video)](https://www.youtube.com/watch?v=kc59VSGN-dg)  [Leave No Trace - and There's a Song! (video)](https://www.youtube.com/watch?v=6_jz421duVg%20)",
-          "internal_parent_id": "12174",
-          "internal_id": "12176",
-          "requirements": []
+          "id": "12176",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor how living by the Scout Oath, Scout Law, Leave No Trace Seven Principles and the Outdoor Code in your daily life helps promote sustainability."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Camping Tricks: The Scout Turn Around Rule LNT (video)",
+              "url": "https://www.youtube.com/watch?v=kc59VSGN-dg"
+            },
+            {
+              "title": "Leave No Trace - and There's a Song! (video)",
+              "url": "https://www.youtube.com/watch?v=6_jz421duVg%20"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Identify 5 behavioral changes that you and your family can make to improve the sustainability of your household. Share and discuss each with your counselor. Resources:[Sustainability in Your Life (video)](https://www.youtube.com/watch?v=kZIrIQDf1nQ) [10 Ways to Take Care of the Environment (video) ](https://www.youtube.com/watch?v=X2YgM1Zw4_E)",
-          "internal_parent_id": "12174",
-          "internal_id": "12177",
-          "requirements": []
+          "id": "12177",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify 5 behavioral changes that you and your family can make to improve the sustainability of your household. Share and discuss each with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Sustainability in Your Life (video)",
+              "url": "https://www.youtube.com/watch?v=kZIrIQDf1nQ"
+            },
+            {
+              "title": "10 Ways to Take Care of the Environment (video)",
+              "url": "https://www.youtube.com/watch?v=X2YgM1Zw4_E"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Learn about career opportunities in the sustainability field. Pick one and find out the education, training, and experience required. Discuss what you have learned with your counselor and explain why this career might interest you.Resources:[Career Paths in Sustainability (video)](https://www.youtube.com/watch?v=u1uQk7UVuvA)  [Green Jobs- Building for the Future (video) ](https://www.youtube.com/watch?v=EDA_oLZKITo)  [Sustainability Careers (video) ](https://www.youtube.com/watch?v=mdVG6glfYi8)",
-      "internal_parent_id": null,
-      "internal_id": "12178",
-      "requirements": []
+      "id": "12178",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn about career opportunities in the sustainability field. Pick one and find out the education, training, and experience required. Discuss what you have learned with your counselor and explain why this career might interest you."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Career Paths in Sustainability (video)",
+          "url": "https://www.youtube.com/watch?v=u1uQk7UVuvA"
+        },
+        {
+          "title": "Green Jobs- Building for the Future (video)",
+          "url": "https://www.youtube.com/watch?v=EDA_oLZKITo"
+        },
+        {
+          "title": "Sustainability Careers (video)",
+          "url": "https://www.youtube.com/watch?v=mdVG6glfYi8"
+        }
+      ],
+      "sub_requirements": []
     }
   ]
 }

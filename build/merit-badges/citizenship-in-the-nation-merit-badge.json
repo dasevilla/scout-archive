@@ -2,6 +2,7 @@
   "name": "Citizenship in the Nation",
   "overview": "As Scouts fulfill the requirements for this merit badge, they will learn how to become active citizens are aware of and grateful for their liberties and rights, to participate in their governments and protect their freedom, helping to defend their country and standing up for individual rights on behalf of all its citizens.",
   "is_eagle_required": true,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/citizenship-in-the-nation/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Nation.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Citizenship-in-the-Nation.pdf",
@@ -11,190 +12,326 @@
   "image_filename": "citizenship-in-the-nation-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Nation.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14072",
-      "requirements": []
+      "id": "10141",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "What is the Constitution of the United States? What does the Constitution do? What principles does it reflect? Why is it important to have a Constitution?"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "1",
-      "text": "What is the Constitution of the United States? What does the Constitution do? What principles does it reflect? Why is it important to have a Constitution?",
-      "internal_parent_id": null,
-      "internal_id": "10141",
-      "requirements": []
+      "id": "10130",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "List the six purposes for creating the United States Constitution set forth in the Preamble to the Constitution. How do these purposes affect your family and community?"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "2",
-      "text": "List the six purposes for creating the United States Constitution set forth in the Preamble to the Constitution. How do these purposes affect your family and community?",
-      "internal_parent_id": null,
-      "internal_id": "10130",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "List the three branches of the United States government. Explain:",
-      "internal_parent_id": null,
-      "internal_id": "10145",
-      "requirements": [
+      "id": "10145",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "The function of each branch of government",
-          "internal_parent_id": "10145",
-          "internal_id": "10147",
-          "requirements": []
+          "type": "text",
+          "value": "List the three branches of the United States government. Explain:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "10147",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The function of each branch of government"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Why it is important to divide powers among different branches",
-          "internal_parent_id": "10145",
-          "internal_id": "10148",
-          "requirements": []
+          "id": "10148",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Why it is important to divide powers among different branches"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "How each branch \"checks\" and \"balances\" the others",
-          "internal_parent_id": "10145",
-          "internal_id": "10149",
-          "requirements": []
+          "id": "10149",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "How each branch checks and balances the others"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "How citizens can be involved in each branch of government.",
-          "internal_parent_id": "10145",
-          "internal_id": "10150",
-          "requirements": []
+          "id": "10150",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "How citizens can be involved in each branch of government."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Discuss the importance of:",
-      "internal_parent_id": null,
-      "internal_id": "10143",
-      "requirements": [
+      "id": "10143",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Declaration of Independence",
-          "internal_parent_id": "10143",
-          "internal_id": "10151",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss the importance of:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "10151",
+          "label": "a",
+          "content": [
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Declaration of Independence"
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Bill of Rights (the first 10 Amendments to the Constitution) and the 14th Amendment",
-          "internal_parent_id": "10143",
-          "internal_id": "10152",
-          "requirements": []
+          "id": "10152",
+          "label": "b",
+          "content": [
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Bill of Rights"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " (the first 10 Amendments to the Constitution) and the 14th Amendment"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "\"E Pluribus Unum,\" the traditional United States motto.",
-          "internal_parent_id": "10143",
-          "internal_id": "10153",
-          "requirements": []
+          "id": "10153",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "\"E Pluribus Unum,\" the traditional United States motto."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Watch the national evening news for five days in a row or read the main stories in a national media organization (e.g., a newspaper or news website)  for five days in a row. Discuss the national issues that you learned about with your counselor. Choose one issue and explain how it affects you, your family, and community.",
-      "internal_parent_id": null,
-      "internal_id": "10142",
-      "requirements": []
+      "id": "10142",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Watch the national evening news for five days in a row or read the main stories in a national media organization (e.g., a newspaper or news website) for five days in a row. Discuss the national issues that you learned about with your counselor. Choose one issue and explain how it affects you, your family, and community."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "6",
-      "text": "With your counselor's approval, choose a speech of national historical importance. Explain:",
-      "internal_parent_id": null,
-      "internal_id": "10144",
-      "requirements": [
+      "id": "10144",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Who the author was",
-          "internal_parent_id": "10144",
-          "internal_id": "10154",
-          "requirements": []
+          "type": "text",
+          "value": "With your counselor's approval, choose a speech of national historical importance. Explain:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "10154",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Who the author was"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "What the historical context was",
-          "internal_parent_id": "10144",
-          "internal_id": "10155",
-          "requirements": []
+          "id": "10155",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "What the historical context was"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "What difficulties the nation faced that the author wished to discuss",
-          "internal_parent_id": "10144",
-          "internal_id": "10156",
-          "requirements": []
+          "id": "10156",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "What difficulties the nation faced that the author wished to discuss"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "What the author said",
-          "internal_parent_id": "10144",
-          "internal_id": "10157",
-          "requirements": []
+          "id": "10157",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "What the author said"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Why the speech is important to the nation's history",
-          "internal_parent_id": "10144",
-          "internal_id": "10158",
-          "requirements": []
+          "id": "10158",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Why the speech is important to the nation's history"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Choose a sentence or two from the speech that has significant meaning to you, and tell your counselor why.",
-          "internal_parent_id": "10144",
-          "internal_id": "10159",
-          "requirements": []
+          "id": "10159",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Choose a sentence or two from the speech that has significant meaning to you, and tell your counselor why."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Do TWO of the following:",
-      "internal_parent_id": null,
-      "internal_id": "10136",
-      "requirements": [
+      "id": "10136",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Visit a place that is listed as a National Historic Landmark or that is on the National Register of Historic Places. Tell your counselor what you learned about the landmark or site and what you found interesting about it.",
-          "internal_parent_id": "10136",
-          "internal_id": "10137",
-          "requirements": []
+          "type": "text",
+          "value": "Do TWO of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "10137",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a place that is listed as a National Historic Landmark or that is on the National Register of Historic Places. Tell your counselor what you learned about the landmark or site and what you found interesting about it."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Tour your state capitol building or the U.S. Capitol. Tell your counselor what you learned about the capitol, its function, and the history.",
-          "internal_parent_id": "10136",
-          "internal_id": "10138",
-          "requirements": []
+          "id": "10138",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tour your state capitol building or the U.S. Capitol. Tell your counselor what you learned about the capitol, its function, and the history."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Tour a federal facility. Explain to your counselor what you saw and what you learned about its function in the local community and how it serves this nation.",
-          "internal_parent_id": "10136",
-          "internal_id": "10139",
-          "requirements": []
+          "id": "10139",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tour a federal facility. Explain to your counselor what you saw and what you learned about its function in the local community and how it serves this nation."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Choose a United States national monument that interests you. Using books, brochures, the internet (with your parent or guardian's permission), and other resources, find out more about the monument. Tell your counselor what you learned, and explain why the monument is important to this country's citizens.",
-          "internal_parent_id": "10136",
-          "internal_id": "10140",
-          "requirements": []
+          "id": "10140",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Choose a United States national monument that interests you. Using books, brochures, the internet (with your parent or guardian's permission), and other resources, find out more about the monument. Tell your counselor what you learned, and explain why the monument is important to this country's citizens."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Name your representatives in the United States Congress. Write a letter to your representative in Congress explaining your views on a national issue.  Show your letter, along with any response you receive, to your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "10146",
-      "requirements": []
+      "id": "10146",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Name your representatives in the United States Congress. Write to your representative in Congress explaining your views on a national issue. Show your correspondence, along with any response you receive, to your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "With an adult, build either a Pinewood Derby® and car or a Raingutter Regatta™  boat.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "With an adult, build either a Pinewood Derby® and car or a Raingutter Regatta™ boat."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "With an adult, build either a Pinewood Derby® and car or a Raingutter Regatta™ boat.",
       "activities": [
         {
           "name": "Pinewood Derby® Car Build Day Webelos",
@@ -34,6 +43,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn the rules of the race for the vehicle chosen in requirement 1."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Learn the rules of the race for the vehicle chosen in requirement 1.",
       "activities": [
         {
@@ -58,6 +76,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explore the properties of friction and how it impacts your chosen vehicle."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Explore the properties of friction and how it impacts your chosen vehicle.",
       "activities": [
         {
@@ -82,6 +109,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Before the race, discuss with your den how you will demonstrate good sportsmanship during the race."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Before the race, discuss with your den how you will demonstrate good sportsmanship during the race.",
       "activities": [
         {
@@ -97,6 +133,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Participate in a Pinewood Derby® or a Raingutter Regatta™."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Participate in a Pinewood Derby® or a Raingutter Regatta™.",
       "activities": [
         {

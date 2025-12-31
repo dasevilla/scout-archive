@@ -2,6 +2,7 @@
   "name": "Electronics",
   "overview": "The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire Scouts to pursue a possible career in Electronics. Scouts will learn about capacitors, transistors, and resistors while grasping the basic principles of digital techniques and demonstrating how to build a control device circuit. Understand the behaviors of electrons and learn safety precautions when using, building, altering, or repairing electronic devices with the Electronics Merit Badge.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/electronics/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electronics.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Electronics.pdf",
@@ -11,185 +12,296 @@
   "image_filename": "electronics-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electronics.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14088",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Describe the safety precautions you must exercise when using, building, altering, or repairing electronic devices.",
-      "internal_parent_id": null,
-      "internal_id": "13163",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13142",
-      "requirements": [
+      "id": "13163",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Draw a simple schematic diagram. It must show resistors, capacitors, and transistors or integrated circuits. Use the correct symbols. Label all parts.",
-          "internal_parent_id": "13142",
-          "internal_id": "13143",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Tell the purpose of each part.",
-          "internal_parent_id": "13142",
-          "internal_id": "13144",
-          "requirements": []
+          "type": "text",
+          "value": "Describe the safety precautions you must exercise when using, building, altering, or repairing electronic devices."
         }
-      ]
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "3",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13145",
-      "requirements": [
+      "id": "13142",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Show the right way to solder and desolder.",
-          "internal_parent_id": "13145",
-          "internal_id": "13146",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Show how to avoid heat damage to electronic components.",
-          "internal_parent_id": "13145",
-          "internal_id": "13147",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Tell about the function of a printed circuit board. Tell what precautions should be observed when soldering printed circuit boards.",
-          "internal_parent_id": "13145",
-          "internal_id": "13148",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
         }
-      ]
-    },
-    {
-      "id": "4",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13149",
-      "requirements": [
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "a",
-          "text": "Discuss each of the following with your counselor:",
-          "internal_parent_id": "13149",
-          "internal_id": "13150",
-          "requirements": [
+          "id": "13143",
+          "label": "a",
+          "content": [
             {
-              "id": "1",
-              "text": "How to use electronics for a control purpose.",
-              "internal_parent_id": "13150",
-              "internal_id": "13151",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Explain the basic principles of digital logic.",
-              "internal_parent_id": "13150",
-              "internal_id": "13152",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "How to use electronics for three different analog applications.",
-              "internal_parent_id": "13150",
-              "internal_id": "13153",
-              "requirements": []
+              "type": "text",
+              "value": "Draw a simple schematic diagram. It must show resistors, capacitors, and transistors or integrated circuits. Use the correct symbols. Label all parts."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Show how to change three decimal numbers into binary numbers and three binary numbers into decimal numbers.",
-          "internal_parent_id": "13149",
-          "internal_id": "13158",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.",
-          "internal_parent_id": "13149",
-          "internal_id": "13154",
-          "requirements": [
+          "id": "13144",
+          "label": "b",
+          "content": [
             {
-              "id": "1",
-              "text": "A control device",
-              "internal_parent_id": "13154",
-              "internal_id": "13155",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "A digital circuit",
-              "internal_parent_id": "13154",
-              "internal_id": "13156",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "An analog circuit.",
-              "internal_parent_id": "13154",
-              "internal_id": "13157",
-              "requirements": []
+              "type": "text",
+              "value": "Tell the purpose of each part."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13159",
-      "requirements": [
+      "id": "13145",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law.",
-          "internal_parent_id": "13159",
-          "internal_id": "13160",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13146",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show the right way to solder and desolder."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate.",
-          "internal_parent_id": "13159",
-          "internal_id": "13161",
-          "requirements": []
+          "id": "13147",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to avoid heat damage to electronic components."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.",
-          "internal_parent_id": "13159",
-          "internal_id": "13162",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each.",
-          "internal_parent_id": "13159",
-          "internal_id": "13165",
-          "requirements": []
+          "id": "13148",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell about the function of a printed circuit board. Tell what precautions should be observed when soldering printed circuit boards."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Identify three career opportunities that would use skills and knowledge in Electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
-      "internal_parent_id": null,
-      "internal_id": "13164",
-      "requirements": []
+      "id": "13149",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13150",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss each of the following with your counselor:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13151",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to use electronics for a control purpose."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13152",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the basic principles of digital logic."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13153",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to use electronics for three different analog applications."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13158",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to change three decimal numbers into binary numbers and three binary numbers into decimal numbers."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13154",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13155",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "A control device"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13156",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "A digital circuit"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13157",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "An analog circuit."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "13159",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13160",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13161",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13162",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13165",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "13164",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify three career opportunities that would use skills and knowledge in Electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

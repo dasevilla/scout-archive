@@ -10,6 +10,15 @@
   "requirements": [
     {
       "id": "1",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify different parts of a coin."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Identify different parts of a coin.",
       "activities": [
         {
@@ -43,6 +52,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find the mint mark on a coin and identify the mint facility where it was made and the year it was made."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Find the mint mark on a coin and identify the mint facility where it was made and the year it was made.",
       "activities": [
         {
@@ -67,7 +85,16 @@
     },
     {
       "id": "4",
-      "text": "Choose a coin that interests you and make a coin rubbing.  List information next to the coin detailing the pictures on it, the year it was made, and the mint where it was made.",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Choose a coin that interests you and make a coin rubbing. List information next to the coin detailing the pictures on it, the year it was made, and the mint where it was made."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Choose a coin that interests you and make a coin rubbing. List information next to the coin detailing the pictures on it, the year it was made, and the mint where it was made.",
       "activities": [
         {
           "name": "Coin Rubbings",

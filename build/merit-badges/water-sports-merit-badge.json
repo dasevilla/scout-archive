@@ -2,6 +2,7 @@
   "name": "Water Sports",
   "overview": "Water sports are a fun and exhilarating way to enjoy being outdoors while developing strength, coordination, and fitness. By developing experience with water sports and practicing good judgment, Scouts will gain skills that will serve them well for a lifetime and have extreme fun while they do.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/water-sports/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Water%20Sports.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Water-Sports.pdf",
@@ -11,112 +12,217 @@
   "image_filename": "water-sports-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Water%20Sports.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14180",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "7414",
-      "requirements": [
+      "id": "7414",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter while participating in water sports activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
-          "internal_parent_id": "7414",
-          "internal_id": "7418",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "7418",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the most likely hazards you may encounter while participating in water sports activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that could occur while participating in water sports: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, strains, minor cuts and bruises, spinal injury, and concussions and head trauma.",
-          "internal_parent_id": "7414",
-          "internal_id": "7419",
-          "requirements": []
+          "id": "7419",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that could occur while participating in water sports: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, strains, minor cuts and bruises, spinal injury, and concussions and head trauma."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Review the Scouting America Safety Afloat policy. Tell how it applies to water sports.",
-          "internal_parent_id": "7414",
-          "internal_id": "7420",
-          "requirements": []
+          "id": "7420",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Review the Scouting America Safety Afloat policy. Tell how it applies to water sports."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "7403",
-      "requirements": [
+      "id": "7403",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Discuss with your counselor the characteristics of life jackets most appropriate for water sports, and tell why one must always be worn while waterskiing or wakeboarding. Then demonstrate how to select and fit a life jacket for water sports activities.",
-          "internal_parent_id": "7403",
-          "internal_id": "7404",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "7404",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor the characteristics of life jackets most appropriate for water sports, and tell why one must always be worn while waterskiing or wakeboarding. Then demonstrate how to select and fit a life jacket for water sports activities."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Review and discuss the Water Sports Safety Code with your counselor. Promise that you will live up to it and follow it in all water work for this merit badge. Review the safety precautions that must be used by the boat operator in pulling waterskiers and wakeboarders.",
-          "internal_parent_id": "7403",
-          "internal_id": "7405",
-          "requirements": []
+          "id": "7405",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Review and discuss the Water Sports Safety Code with your counselor. Promise that you will live up to it and follow it in all water work for this merit badge. Review the safety precautions that must be used by the boat operator in pulling waterskiers and wakeboarders."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.",
-      "internal_parent_id": null,
-      "internal_id": "7415",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Show the following skier signals to the safety observer in the boat: skier safe, faster, slower, turns, back to dock, cut motor, skier in water.",
-      "internal_parent_id": null,
-      "internal_id": "7406",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "Showing reasonable control while using two skis, one ski, or a wakeboard, do the following:",
-      "internal_parent_id": null,
-      "internal_id": "7416",
-      "requirements": [
+      "id": "7415",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Show how to enter the water from a boat and make a deepwater start without help.",
-          "internal_parent_id": "7416",
-          "internal_id": "7421",
-          "requirements": []
+          "type": "text",
+          "value": "Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test. "
         },
         {
-          "id": "b",
-          "text": "Starting from outside the wakes, show you can cross both wakes four times and return to the center of the wake each time, without falling.",
-          "internal_parent_id": "7416",
-          "internal_id": "7422",
-          "requirements": []
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
         },
         {
-          "id": "c",
-          "text": "Show you can fall properly to avoid an obstacle. Also show that you can drop handle and coast to a stop without losing your balance.",
-          "internal_parent_id": "7416",
-          "internal_id": "7423",
-          "requirements": []
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Note:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " See the "
+        },
+        {
+          "type": "element",
+          "tag": "i",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Swimming"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " merit badge pamphlet for details about the Scouting America swimmer test."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "7406",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Show the following skier signals to the safety observer in the boat: skier safe, faster, slower, turns, back to dock, cut motor, skier in water."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "7416",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Showing reasonable control while using two skis, one ski, or a wakeboard, do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "7421",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to enter the water from a boat and make a deepwater start without help."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "7422",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Starting from outside the wakes, show you can cross both wakes four times and return to the center of the wake each time, without falling."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "7423",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show you can fall properly to avoid an obstacle. Also show that you can drop handle and coast to a stop without losing your balance."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "While on shore, show that you know how to properly adjust the bindings of your ski(s) or wakeboard to fit yourself. Then, in deep water, show you can  adjust bindings to fit. Recover and put on your ski(s) or wakeboard that has come off during a fall.",
-      "internal_parent_id": null,
-      "internal_id": "7410",
-      "requirements": []
+      "id": "7410",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "While on shore, show that you know how to properly adjust the bindings of your ski(s) or wakeboard to fit yourself. Then, in deep water, show you can adjust bindings to fit. Recover and put on your ski(s) or wakeboard that has come off during a fall."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

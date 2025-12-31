@@ -10,6 +10,15 @@
   "requirements": [
     {
       "id": "1",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a Lion using only squares, triangles, and circles."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Make a Lion using only squares, triangles, and circles.",
       "activities": [
         {
@@ -43,6 +52,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Play a game with your Lion adult partner or den that is based on counting or numbers."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Play a game with your Lion adult partner or den that is based on counting or numbers.",
       "activities": [
         {
@@ -76,7 +94,16 @@
     },
     {
       "id": "3",
-      "text": "Organize a group of items based on shape, then based on color, and one other category.  Count how many different shapes are in each category.  After organizing them build anything using only one category.",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Organize a group of items based on shape, then based on color, and one other category. Count how many different shapes are in each category. After organizing them build anything using only one category."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Organize a group of items based on shape, then based on color, and one other category. Count how many different shapes are in each category. After organizing them build anything using only one category.",
       "activities": [
         {
           "name": "Count the Shapes in My Face",

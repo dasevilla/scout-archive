@@ -2,6 +2,7 @@
   "name": "Law",
   "overview": "Earning this merit badge enables a Scout to learn about the history and kinds of laws, the purpose and methods of law enforcement, consumer protection agencies, emerging law, and careers in the legal profession.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/law/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Law.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Law.pdf",
@@ -11,201 +12,329 @@
   "image_filename": "law-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Law.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14121",
-      "requirements": []
+      "id": "13494",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Define law. Tell some of its sources. Describe the functions it serves."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "1",
-      "text": "Define \"law.\" Tell some of its sources. Describe the functions it serves.",
-      "internal_parent_id": null,
-      "internal_id": "13494",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Discuss TWO of the following:",
-      "internal_parent_id": null,
-      "internal_id": "13477",
-      "requirements": [
+      "id": "13477",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Justinian's Code, the Code of Hammurabi, and the Magna Carta",
-          "internal_parent_id": "13477",
-          "internal_id": "13478",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss TWO of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13478",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Justinian's Code, the Code of Hammurabi, and the Magna Carta"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "The development of the jury system",
-          "internal_parent_id": "13477",
-          "internal_id": "13479",
-          "requirements": []
+          "id": "13479",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The development of the jury system"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Two famous trials in history.",
-          "internal_parent_id": "13477",
-          "internal_id": "13480",
-          "requirements": []
+          "id": "13480",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Two famous trials in history."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Tell what civil law is; tell what criminal law is. Tell the main  differences between them. Give examples of each.",
-      "internal_parent_id": null,
-      "internal_id": "13496",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Ask five people (not more than one from your immediate  family) about the role of law enforcement officers in our society. Discuss their answers with them. Go to a law enforcement  officer in your neighborhood and ask about his or her responsibilities and duties. Report your findings to your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "13497",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "Discuss with your counselor several laws that were passed to protect the consumer and the seller. Describe several organizations that provide help to consumers and sellers.",
-      "internal_parent_id": null,
-      "internal_id": "13498",
-      "requirements": []
-    },
-    {
-      "id": "6",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "13481",
-      "requirements": [
+      "id": "13496",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Attend a session of a civil or criminal court. Write 250 words or more on what you saw.",
-          "internal_parent_id": "13481",
-          "internal_id": "13482",
-          "requirements": []
+          "type": "text",
+          "value": "Tell what civil law is; tell what criminal law is. Tell the main differences between them. Give examples of each."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "13497",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Ask five people (not more than one from your immediate family) about the role of law enforcement officers in our society. Discuss their answers with them. Report your findings to your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "13498",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss with your counselor several laws that were passed to protect the consumer and the seller. Describe several organizations that provide help to consumers and sellers."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "13481",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13482",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Attend a session of a civil or criminal court. Write 250 words or more on what you saw."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Plan and conduct a mock trial with your troop or school class. After the trial is over, discuss it with the group.",
-          "internal_parent_id": "13481",
-          "internal_id": "13483",
-          "requirements": []
+          "id": "13483",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Plan and conduct a mock trial with your troop or school class or other group. After the trial is over, discuss it with the group."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Arrange a visit with a lawyer who works for a business, bank, title company, or government agency. Find out his or her duties and responsibilities. Report what you have learned.",
-      "internal_parent_id": null,
-      "internal_id": "13499",
-      "requirements": []
+      "id": "13499",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Arrange a visit with a lawyer who works for a business, bank, title company, or government agency. Find out his or her duties and responsibilities. Report what you have learned."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "8",
-      "text": "Explain the requirements for becoming a lawyer in your state. Describe how judges are selected in your state.",
-      "internal_parent_id": null,
-      "internal_id": "13500",
-      "requirements": []
+      "id": "13500",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the requirements for becoming a lawyer in your state. Describe how judges are selected in your state."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "9",
-      "text": "Make a list of 15 jobs that deal with some aspects of law or legal processes. Tell which you prefer. Why?",
-      "internal_parent_id": null,
-      "internal_id": "13501",
-      "requirements": []
+      "id": "13501",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a list of 15 jobs that deal with some aspects of law or legal processes. Tell which you prefer. Why?"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "10",
-      "text": "Tell where people can go to obtain the help of a lawyer if they are unable to pay for one. Tell what you can do if you can afford a lawyer but do not know of any in your area.",
-      "internal_parent_id": null,
-      "internal_id": "13495",
-      "requirements": []
+      "id": "13495",
+      "label": "10",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tell where people can go to obtain the help of a lawyer if they are unable to pay for one. Tell what you can do if you can afford a lawyer but do not know of any in your area."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "11",
-      "text": "Discuss with your counselor the importance in our society of TWO of the following areas of the law or process:",
-      "internal_parent_id": null,
-      "internal_id": "13484",
-      "requirements": [
+      "id": "13484",
+      "label": "11",
+      "content": [
         {
-          "id": "a",
-          "text": "Administrative",
-          "internal_parent_id": "13484",
-          "internal_id": "13485",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss with your counselor the importance in our society of TWO of the following areas of the law or process:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13485",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Administrative"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Alternative Dispute Resolution",
-          "internal_parent_id": "13484",
-          "internal_id": "13502",
-          "requirements": []
+          "id": "13502",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Alternative Dispute Resolution"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Bankruptcy",
-          "internal_parent_id": "13484",
-          "internal_id": "13486",
-          "requirements": []
+          "id": "13486",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Bankruptcy"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Biotechnology",
-          "internal_parent_id": "13484",
-          "internal_id": "13503",
-          "requirements": []
+          "id": "13503",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Biotechnology"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Environmental",
-          "internal_parent_id": "13484",
-          "internal_id": "13487",
-          "requirements": []
+          "id": "13487",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Environmental"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Family",
-          "internal_parent_id": "13484",
-          "internal_id": "13488",
-          "requirements": []
+          "id": "13488",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Family"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Immigration",
-          "internal_parent_id": "13484",
-          "internal_id": "13489",
-          "requirements": []
+          "id": "13489",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Immigration"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "h",
-          "text": "Information Technology",
-          "internal_parent_id": "13484",
-          "internal_id": "13490",
-          "requirements": []
+          "id": "13490",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "Information Technology"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "i",
-          "text": "Intellectual Property, (Copyright, Patents and Trademarks)",
-          "internal_parent_id": "13484",
-          "internal_id": "13491",
-          "requirements": []
+          "id": "13491",
+          "label": "i",
+          "content": [
+            {
+              "type": "text",
+              "value": "Intellectual Property, (Copyright, Patents and Trademarks)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "j",
-          "text": "International",
-          "internal_parent_id": "13484",
-          "internal_id": "13492",
-          "requirements": []
+          "id": "13492",
+          "label": "j",
+          "content": [
+            {
+              "type": "text",
+              "value": "International"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "k",
-          "text": "Privacy.",
-          "internal_parent_id": "13484",
-          "internal_id": "13493",
-          "requirements": []
+          "id": "13493",
+          "label": "k",
+          "content": [
+            {
+              "type": "text",
+              "value": "Privacy."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

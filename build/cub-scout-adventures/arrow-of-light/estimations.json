@@ -10,6 +10,15 @@
   "requirements": [
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Estimate the time of day."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Estimate the time of day.",
       "activities": [
         {
@@ -34,6 +43,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Estimate the height of a distant object."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Estimate the height of a distant object.",
       "activities": [
         {
@@ -58,6 +76,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Estimate the distance between two points."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Estimate the distance between two points.",
       "activities": [
         {

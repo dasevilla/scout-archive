@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Identify a community service project that your patrol or pack could accomplish.  Use Scouting America’s SAFE Checklist and develop a plan to conduct the service project safely.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify a community service project that your patrol or pack could accomplish. Use Scouting America’s SAFE Checklist and develop a plan to conduct the service project safely."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Identify a community service project that your patrol or pack could accomplish. Use Scouting America’s SAFE Checklist and develop a plan to conduct the service project safely.",
       "activities": [
         {
           "name": "Service Project Planning",
@@ -25,6 +34,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Participate in a service project for a minimum of two hours or multiple service projects for a total of two hours."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Participate in a service project for a minimum of two hours or multiple service projects for a total of two hours.",
       "activities": [
         {

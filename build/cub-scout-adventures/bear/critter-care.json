@@ -10,6 +10,15 @@
   "requirements": [
     {
       "id": "1",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify an animal that would be good pet for your family."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Identify an animal that would be good pet for your family.",
       "activities": [
         {
@@ -43,7 +52,16 @@
     },
     {
       "id": "2",
-      "text": "Choose two animals that are allowed as pets in your community.  Compare and contrast why these pets may be a good choice for you.",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Choose two animals that are allowed as pets in your community. Compare and contrast why these pets may be a good choice for you."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Choose two animals that are allowed as pets in your community. Compare and contrast why these pets may be a good choice for you.",
       "activities": [
         {
           "name": "Help Me Choose",
@@ -76,6 +94,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Based on your choice in requirement 1, investigate how to properly care for your chosen animal."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Based on your choice in requirement 1, investigate how to properly care for your chosen animal.",
       "activities": [
         {
@@ -118,6 +145,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discover three ways a pet can help people."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Discover three ways a pet can help people.",
       "activities": [
         {

@@ -2,6 +2,7 @@
   "name": "Sports",
   "overview": "Millions of people participate in sports every year. For some the appeal is the close friendships that come with being part of a team. Some revel in the joy of victory and lessons of defeat. For some, the personal fitness is so important that exercise becomes a daily need. And still others desire the feeling of achievement, that feeling of measurable improvement that comes with dedication to a sport.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/sports/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sports.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Sports.pdf",
@@ -11,196 +12,326 @@
   "image_filename": "sports-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE: The activities used to fulfill the requirements for the Sports  merit badge may not be used to help fulfill requirements for other  merit badges.",
-      "internal_parent_id": null,
-      "internal_id": "13795",
-      "requirements": []
-    },
-    {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sports.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14170",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13796",
-      "requirements": [
+      "id": "13795",
+      "label": null,
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely risks you may encounter while participating in sports and what you should do to anticipate, help prevent, mitigate, and respond to these risks.",
-          "internal_parent_id": "13796",
-          "internal_id": "13797",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE: The activities used to fulfill the requirements for the Sports merit badge may not be used to help fulfill requirements for other merit badges."
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "13796",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13797",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the most likely risks you may encounter while participating in sports and what you should do to anticipate, help prevent, mitigate, and respond to these risks."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Show that you know first aid or understand the treatment for injuries that could occur while participating in sports, including sprains; strains; muscle cramps; contusions; abrasions; blisters; dehydration; heat reactions; fractures; injured teeth; head, neck, and back injuries; and concussions.",
-          "internal_parent_id": "13796",
-          "internal_id": "13798",
-          "requirements": []
+          "id": "13798",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show that you know first aid or understand the treatment for injuries that could occur while participating in sports, including sprains; strains; muscle cramps; contusions; abrasions; blisters; dehydration; heat reactions; fractures; injured teeth; head, neck, and back injuries; and concussions."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Explain the following:",
-      "internal_parent_id": null,
-      "internal_id": "13799",
-      "requirements": [
+      "id": "13799",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "The importance of the physical exam",
-          "internal_parent_id": "13799",
-          "internal_id": "13800",
-          "requirements": []
+          "type": "text",
+          "value": "Explain the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13800",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The importance of the physical exam"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "The importance of maintaining good health habits for life (such as exercising regularly), and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in sports activities",
-          "internal_parent_id": "13799",
-          "internal_id": "13801",
-          "requirements": []
+          "id": "13801",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The importance of maintaining good health habits for life (such as exercising regularly), and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in sports activities"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "The importance of maintaining a healthy diet.",
-          "internal_parent_id": "13799",
-          "internal_id": "13802",
-          "requirements": []
+          "id": "13802",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "The importance of maintaining a healthy diet."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Discuss the following:",
-      "internal_parent_id": null,
-      "internal_id": "13803",
-      "requirements": [
+      "id": "13803",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "The importance of warming up and cooling down",
-          "internal_parent_id": "13803",
-          "internal_id": "13804",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13804",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The importance of warming up and cooling down"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "The importance of weight training",
-          "internal_parent_id": "13803",
-          "internal_id": "13805",
-          "requirements": []
+          "id": "13805",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The importance of weight training"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "What an amateur athlete is and the differences between an amateur and a professional athlete",
-          "internal_parent_id": "13803",
-          "internal_id": "13806",
-          "requirements": []
+          "id": "13806",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "What an amateur athlete is and the differences between an amateur and a professional athlete"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "The attributes (qualities) of a good sport, the importance of sportsmanship, and the traits of a good team leader and player who exhibits Scout spirit on and off the playing field.",
-          "internal_parent_id": "13803",
-          "internal_id": "13807",
-          "requirements": []
+          "id": "13807",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "The attributes (qualities) of a good sport, the importance of sportsmanship, and the traits of a good team leader and player who exhibits Scout spirit on and off the playing field."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Select TWO of the following sports and discuss with your counselor how you will complete the requirements in 5(a) through 5(h) for each sport: badminton, baseball, basketball, bowling, cross-country, diving, field hockey, flag football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle football, table tennis, tennis, track and field, volleyball, water polo, and/or wrestling. Your counselor may approve in advance other recognized sports, but not any sport that is prohibited by Scouting America.  The sports you choose must include regular practice sessions and at least four structured, officiated, scored games, meets, or contests against other competitive individuals or organized teams during the period of participation.",
-      "internal_parent_id": null,
-      "internal_id": "13808",
-      "requirements": []
+      "id": "13808",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Select TWO of the following sports and discuss with your counselor how you will complete the requirements in 5(a) through 5(h) for each sport: badminton, baseball, basketball, bowling, cross-country, diving, field hockey, flag football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle football, table tennis, tennis, track and field, volleyball, water polo, and/or wrestling. Your counselor may approve in advance other recognized sports, but not any sport that is prohibited by Scouting America. The sports you choose must include regular practice sessions and at least four structured, officiated, scored games, meets, or contests against other competitive individuals or organized teams during the period of participation."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13812",
-      "requirements": [
+      "id": "13812",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "With guidance from your counselor, establish a suitable personal training program that you will follow throughout your competition season (or for three months).",
-          "internal_parent_id": "13812",
-          "internal_id": "13813",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13813",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With guidance from your counselor, establish a suitable personal training program that you will follow throughout your competition season (or for three months)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Create a chart or other tracking system, and document your training, practice, and development during this time.",
-          "internal_parent_id": "13812",
-          "internal_id": "13814",
-          "requirements": []
+          "id": "13814",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a chart or other tracking system, and document your training, practice, and development during this time."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Demonstrate proper technique to play each sport effectively and avoid injury.",
-          "internal_parent_id": "13812",
-          "internal_id": "13815",
-          "requirements": []
+          "id": "13815",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate proper technique to play each sport effectively and avoid injury."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "List and describe the equipment needed for each sport, including protective equipment and any specialized clothing.",
-          "internal_parent_id": "13812",
-          "internal_id": "13816",
-          "requirements": []
+          "id": "13816",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "List and describe the equipment needed for each sport, including protective equipment and any specialized clothing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "List and explain the rules and proper etiquette of each sport.",
-          "internal_parent_id": "13812",
-          "internal_id": "13817",
-          "requirements": []
+          "id": "13817",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "List and explain the rules and proper etiquette of each sport."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Draw and explain a diagram of the playing area for each sport.",
-          "internal_parent_id": "13812",
-          "internal_id": "13818",
-          "requirements": []
+          "id": "13818",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Draw and explain a diagram of the playing area for each sport."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Participate in each sport as a competitive individual or as a member of an organized team for one season (or for three months).",
-          "internal_parent_id": "13812",
-          "internal_id": "13819",
-          "requirements": []
+          "id": "13819",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Participate in each sport as a competitive individual or as a member of an organized team for one season (or for three months)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "h",
-          "text": "At the end of the season, share your completed chart with your counselor and discuss how your participation in the sports you chose has affected you mentally and physically.",
-          "internal_parent_id": "13812",
-          "internal_id": "13820",
-          "requirements": []
+          "id": "13820",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "At the end of the season, share your completed chart with your counselor and discuss how your participation in the sports you chose has affected you mentally and physically."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "13821",
-      "requirements": [
+      "id": "13821",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Identify three career opportunities that would use skills and knowledge related to a sport. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
-          "internal_parent_id": "13821",
-          "internal_id": "13822",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13822",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge related to a sport. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Identify how you might use skills and knowledge related to a sport to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
-          "internal_parent_id": "13821",
-          "internal_id": "13823",
-          "requirements": []
+          "id": "13823",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify how you might use skills and knowledge related to a sport to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

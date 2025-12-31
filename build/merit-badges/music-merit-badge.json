@@ -2,6 +2,7 @@
   "name": "Music",
   "overview": "The history of music is rich and exciting. Through the ages, new music has been created by people who learned from tradition, then explored and innovated. All the great music has not yet been written. Today, the possibilities for creating new music are limitless.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/music/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Music.pdf",
@@ -11,97 +12,239 @@
   "image_filename": "music-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14131",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Sing or play a simple song or hymn chosen by your counselor, using good technique, phrasing, tone, rhythm, and dynamics. Read all the signs and terms of the score. Resources:  [How to Read Music (video)](https://youtu.be/ZN41d7Txcq0?si=G50I4GaI0d62XHew)  [Violin Demonstration  (video)](https://youtu.be/XbppMuZF3_8?si=c9BYdNXj6_VO4WEY)  [Instrument Demonstration for Beginning Band (video)](https://youtu.be/CCTeSjpDsIs?si=NZkosauuFJR21A14)",
-      "internal_parent_id": null,
-      "internal_id": "7243",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Name the five general groups of musical instruments. Create an illustration that shows how tones are generated and how instruments produce sound.Resources:  [Classification of Musical Instruments (video)](https://youtu.be/WencyslK76o)  [Orchestral Instruments and How They Sound (video)](https://youtu.be/Sr-l2m8twX0?si=6Fj8mHWGIRqhrhwi)",
-      "internal_parent_id": null,
-      "internal_id": "7244",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "Do TWO of the following:",
-      "internal_parent_id": null,
-      "internal_id": "7233",
-      "requirements": [
+      "id": "15040",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Attend a live performance, or listen to three hours of recordings from any two of the following musical styles: blues, jazz, classical, country, bluegrass, ethnic, gospel, musical theater, opera. Describe the sound of the music and the instruments used. Identify the composers or songwriters, the performers, and the titles of the pieces you heard. If it was a live performance, describe the setting and the reaction of the audience. Discuss your thoughts about the music.",
-          "internal_parent_id": "7233",
-          "internal_id": "7234",
-          "requirements": []
+          "type": "text",
+          "value": "Sing or play a simple song or hymn chosen by your counselor, using good technique, phrasing, tone, rhythm, and dynamics. Read all the signs and terms of the score."
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Read Music (video)",
+          "url": "https://youtu.be/ZN41d7Txcq0?si=G50I4GaI0d62XHew"
         },
         {
-          "id": "b",
-          "text": "Interview an adult member of your family about music. Find out what the most popular music was when he or she was your age. Find out what his or her favorite music is now, and listen to three of your relative's favorite tunes with him or her. How do those favorites sound to you? Had you ever heard any of them? Play three of your favorite songs for your relative, and explain why you like these songs. Ask what he or she thinks of your favorite music.",
-          "internal_parent_id": "7233",
-          "internal_id": "7235",
-          "requirements": []
+          "title": "Violin Demonstration  (video)",
+          "url": "https://youtu.be/XbppMuZF3_8?si=c9BYdNXj6_VO4WEY"
         },
         {
-          "id": "c",
-          "text": "Serve for six months as a member of a school band, choir, or other organized musical group, or perform as a soloist in public six times.",
-          "internal_parent_id": "7233",
-          "internal_id": "7236",
-          "requirements": []
+          "title": "Instrument Demonstration for Beginning Band (video)",
+          "url": "https://youtu.be/CCTeSjpDsIs?si=NZkosauuFJR21A14"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "15041",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Name the five general groups of musical instruments. Create an illustration that shows how tones are generated and how instruments produce sound."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Classification of Musical Instruments (video)",
+          "url": "https://youtu.be/WencyslK76o"
         },
         {
-          "id": "d",
-          "text": "List five people who are important in the history of American music and explain to your counselor why they continue to be influential. Include at least one composer, one performer, one innovator, and one person born more than 100 years ago.",
-          "internal_parent_id": "7233",
-          "internal_id": "7237",
-          "requirements": []
+          "title": "Orchestral Instruments and How They Sound (video)",
+          "url": "https://youtu.be/Sr-l2m8twX0?si=6Fj8mHWGIRqhrhwi"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "15031",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do TWO of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15032",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Attend a live performance, or listen to three hours of recordings from any two of the following musical styles: blues, jazz, classical, country, bluegrass, ethnic, gospel, musical theater, opera. Describe the sound of the music and the instruments used. Identify the composers or songwriters, the performers, and the titles of the pieces you heard. If it was a live performance, describe the setting and the reaction of the audience. Discuss your thoughts about the music."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15033",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Interview an adult member of your family about music. Find out what the most popular music was when he or she was your age. Find out what his or her favorite music is now, and listen to three of your relative's favorite tunes with him or her. How do those favorites sound to you? Had you ever heard any of them? Play three of your favorite songs for your relative, and explain why you like these songs. Ask what he or she thinks of your favorite music."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15034",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Serve for six months as a member of a school band, choir, or other organized musical group, or perform as a soloist in public six times."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15035",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "List five people who are important in the history of American music and explain to your counselor why they continue to be influential. Include at least one composer, one performer, one innovator, and one person born more than 100 years ago."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "7238",
-      "requirements": [
+      "id": "15036",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Teach three songs to a group of people. Lead them in singing the songs, using proper hand motions.",
-          "internal_parent_id": "7238",
-          "internal_id": "7239",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15037",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Teach three songs to a group of people. Lead them in singing the songs, using proper hand motions."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Compose and write the score for a piece of music of 12 measures or more, and play this music on an instrument.",
-          "internal_parent_id": "7238",
-          "internal_id": "7240",
-          "requirements": []
+          "id": "15038",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Compose and write the score for a piece of music of 12 measures or more, and play this music on an instrument."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Make a traditional instrument and learn to play it.",
-          "internal_parent_id": "7238",
-          "internal_id": "7241",
-          "requirements": []
+          "id": "15039",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a traditional instrument and learn to play it."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Define for your counselor intellectual property (IP). Explain how to properly obtain and share recorded music. Resource:  [What Are Intellectual Property Rights? (video)](https://youtu.be/UqZJPuyK9VY)",
-      "internal_parent_id": null,
-      "internal_id": "7245",
-      "requirements": []
+      "id": "15042",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Define for your counselor "
+        },
+        {
+          "type": "element",
+          "tag": "i",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "intellectual property"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " (IP). Explain how to properly obtain and share recorded music."
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Are Intellectual Property Rights? (video)",
+          "url": "https://youtu.be/UqZJPuyK9VY"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "15043",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15044",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission— an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Careers in the Music Industry (video)",
+              "url": "https://youtu.be/X9baGNtXjv4?si=thzzvSy24o1fR6gn"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15045",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Music Hobbies (video)",
+              "url": "https://youtu.be/2XdqwW4zDtE?si=DBqxq3JLiPrE1mG9"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
     }
   ]
 }

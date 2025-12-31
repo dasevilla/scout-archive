@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Plan a balanced meal that you would eat when camping.  Prepare that meal using the gear you would use on a campout.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Plan a balanced meal that you would eat when camping. Prepare that meal using the gear you would use on a campout."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Plan a balanced meal that you would eat when camping. Prepare that meal using the gear you would use on a campout.",
       "activities": [
         {
           "name": "Prepare A Meal on Campout",
@@ -34,7 +43,16 @@
     },
     {
       "id": "2",
-      "text": "Examine what it is to be  physically fit and how you incorporate this in your life.  Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong.",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Examine what it is to be physically fit and how you incorporate this in your life. Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Examine what it is to be physically fit and how you incorporate this in your life. Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong.",
       "activities": [
         {
           "name": "Tracking Your Fitness",
@@ -49,6 +67,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Be active for 30 minutes with your patrol, a younger den, or at least one other person in a way that includes both stretching and moving."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Be active for 30 minutes with your patrol, a younger den, or at least one other person in a way that includes both stretching and moving.",
       "activities": [
         {
@@ -82,6 +109,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Review your Scouting America Annual Health and Medical Record with your parent or legal guardian. Discuss your ability to participate in Arrow of Light patrol and pack activities."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Review your Scouting America Annual Health and Medical Record with your parent or legal guardian. Discuss your ability to participate in Arrow of Light patrol and pack activities.",
       "activities": [
         {

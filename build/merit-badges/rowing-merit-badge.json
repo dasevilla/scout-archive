@@ -2,6 +2,7 @@
   "name": "Rowing",
   "overview": "Rowing is the use of oars as a means of propelling boats, has grown from a basic method of transportation to a competitive sport and an enjoyable method of exercising.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/rowing/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Rowing.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Rowing.pdf",
@@ -11,232 +12,432 @@
   "image_filename": "rowing-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Rowing.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14155",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "9737",
-      "requirements": [
+      "id": "9737",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter while participating in rowing activities, including weather- and water-related hazards, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
-          "internal_parent_id": "9737",
-          "internal_id": "9738",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9738",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the most likely hazards you may encounter while participating in rowing activities, including weather- and water-related hazards, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while rowing: blisters, hypothermia, heat-related illnesses, dehydration, sunburn, sprains, and strains.",
-          "internal_parent_id": "9737",
-          "internal_id": "9739",
-          "requirements": []
+          "id": "9739",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while rowing: blisters, hypothermia, heat-related illnesses, dehydration, sunburn, sprains, and strains."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Review the Scouting America Safety Afloat policy. Explain to your counselor how this applies to rowing activities.",
-          "internal_parent_id": "9737",
-          "internal_id": "9740",
-          "requirements": []
+          "id": "9740",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Review the Scouting America Safety Afloat policy. Explain to your counselor how this applies to rowing activities."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Before completing requirements 4, 5, 6, and 7, successfully complete the Scouting America swimmer test.",
-      "internal_parent_id": null,
-      "internal_id": "9753",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "Review the characteristics of life jackets most appropriate for rowing and why one must always be worn while rowing. Then demonstrate how to select and fit a life jacket.",
-      "internal_parent_id": null,
-      "internal_id": "9754",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "9741",
-      "requirements": [
+      "id": "9753",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Alone or with a passenger, do the following in either a fixed-seat or sliding-seat rowboat:",
-          "internal_parent_id": "9741",
-          "internal_id": "9742",
-          "requirements": [
+          "type": "text",
+          "value": "Before completing requirements 4, 5, 6, and 7, successfully complete the Scouting America swimmer test. "
+        },
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
             {
-              "id": "1",
-              "text": "Launch.",
-              "internal_parent_id": "9742",
-              "internal_id": "9743",
-              "requirements": []
+              "type": "text",
+              "value": " "
             },
             {
-              "id": "2",
-              "text": "Row in a straight line for 100 yards. Stop, pivot, and return to the starting point.",
-              "internal_parent_id": "9742",
-              "internal_id": "9744",
-              "requirements": []
+              "type": "text",
+              "value": " "
             },
             {
-              "id": "3",
-              "text": "Backwater in a straight line for 25 yards. Make a turn underway and return to the starting point.",
-              "internal_parent_id": "9742",
-              "internal_id": "9745",
-              "requirements": []
-            },
-            {
-              "id": "4",
-              "text": "Land and moor or rack your craft.",
-              "internal_parent_id": "9742",
-              "internal_id": "9746",
-              "requirements": []
-            },
-            {
-              "id": "5",
-              "text": "Tie the following mooring knots—clove hitch, roundturn with two half-hitches, bowline, Wellman's knot, and mooring hitch.",
-              "internal_parent_id": "9742",
-              "internal_id": "9747",
-              "requirements": []
+              "type": "text",
+              "value": "Note:"
             }
           ]
         },
         {
-          "id": "b",
-          "text": "Participate as a rowing team member in a competitive rowing meet. The team may be sponsored by a school, club, or Scout unit. The meet must include competition between two or more teams with different sponsors. Complete at least 10 hours of team practice prior to the meet.",
-          "internal_parent_id": "9741",
-          "internal_id": "9748",
-          "requirements": []
+          "type": "text",
+          "value": " See the "
+        },
+        {
+          "type": "element",
+          "tag": "i",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Swimming"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " merit badge pamphlet for details about the Scouting America swimmer test."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "9754",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Review the characteristics of life jackets most appropriate for rowing and why one must always be worn while rowing. Then demonstrate how to select and fit a life jacket."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "9741",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9742",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Alone or with a passenger, do the following in either a fixed-seat or sliding-seat rowboat:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "9743",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Launch."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "9744",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Row in a straight line for 100 yards. Stop, pivot, and return to the starting point."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "9745",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Backwater in a straight line for 25 yards. Make a turn underway and return to the starting point."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "9746",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Land and moor or rack your craft."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "9747",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tie the following mooring knots—clove hitch, roundturn with two half-hitches, bowline, Wellman's knot, and mooring hitch."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "9748",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Participate as a rowing team member in a competitive rowing meet. The team may be sponsored by a school, club, or Scout unit. The meet must include competition between two or more teams with different sponsors. Complete at least 10 hours of team practice prior to the meet."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "9726",
-      "requirements": [
+      "id": "9726",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "In a fixed-seat rowboat, come alongside a pier and help a passenger into the boat. Pull away from the pier, change positions with your passenger, and demonstrate sculling over the stern or side. Resume your rowing position, return alongside the pier, and help your passenger out of the boat.",
-          "internal_parent_id": "9726",
-          "internal_id": "9727",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9727",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "In a fixed-seat rowboat, come alongside a pier and help a passenger into the boat. Pull away from the pier, change positions with your passenger, and demonstrate sculling over the stern or side. Resume your rowing position, return alongside the pier, and help your passenger out of the boat."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "In a sliding-seat rowboat, come alongside a pier and, with your buddy assisting you, get out onto the pier. Help your buddy into the boat. Reverse roles with your buddy and repeat the procedure.",
-          "internal_parent_id": "9726",
-          "internal_id": "9728",
-          "requirements": []
+          "id": "9728",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "In a sliding-seat rowboat, come alongside a pier and, with your buddy assisting you, get out onto the pier. Help your buddy into the boat. Reverse roles with your buddy and repeat the procedure."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Participate in a swamped boat drill including righting and stabilizing the craft, reboarding in deep water, and making headway. Tell why you should stay with a swamped boat.",
-      "internal_parent_id": null,
-      "internal_id": "9755",
-      "requirements": []
+      "id": "9755",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Participate in a swamped boat drill including righting and stabilizing the craft, reboarding in deep water, and making headway. Tell why you should stay with a swamped boat."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "7",
-      "text": "Alone in a rowboat, push off from the shore or a pier. Row 20 yards to a swimmer. While giving instructions to the swimmer, pivot the boat so that the swimmer can hold on to the stern. Tow the swimmer to shore.",
-      "internal_parent_id": null,
-      "internal_id": "9756",
-      "requirements": []
+      "id": "9756",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Alone in a rowboat, push off from the shore or a pier. Row 20 yards to a swimmer. While giving instructions to the swimmer, pivot the boat so that the swimmer can hold on to the stern. Tow the swimmer to shore."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "8",
-      "text": "Describe the following:",
-      "internal_parent_id": null,
-      "internal_id": "9749",
-      "requirements": [
+      "id": "9749",
+      "label": "8",
+      "content": [
         {
-          "id": "a",
-          "text": "Types of craft used in commercial, competitive, and recreational rowing",
-          "internal_parent_id": "9749",
-          "internal_id": "9750",
-          "requirements": []
+          "type": "text",
+          "value": "Describe the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9750",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Types of craft used in commercial, competitive, and recreational rowing"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Four common boatbuilding materials. Give some positive and negative points of each",
-          "internal_parent_id": "9749",
-          "internal_id": "9751",
-          "requirements": []
+          "id": "9751",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Four common boatbuilding materials. Give some positive and negative points of each"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Types of oarlocks used in competitive and recreational rowing.",
-          "internal_parent_id": "9749",
-          "internal_id": "9752",
-          "requirements": []
+          "id": "9752",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Types of oarlocks used in competitive and recreational rowing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Discuss the following:",
-      "internal_parent_id": null,
-      "internal_id": "9729",
-      "requirements": [
+      "id": "9729",
+      "label": "9",
+      "content": [
         {
-          "id": "a",
-          "text": "The advantage of feathering oars while rowing",
-          "internal_parent_id": "9729",
-          "internal_id": "9730",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9730",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The advantage of feathering oars while rowing"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Precautions regarding strong winds and heavy waves, and boat-handling procedures in rough water and windstorms",
-          "internal_parent_id": "9729",
-          "internal_id": "9731",
-          "requirements": []
+          "id": "9731",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Precautions regarding strong winds and heavy waves, and boat-handling procedures in rough water and windstorms"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "How to properly fit out and maintain a boat in season, and how to prepare and store a boat for winter",
-          "internal_parent_id": "9729",
-          "internal_id": "9732",
-          "requirements": []
+          "id": "9732",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to properly fit out and maintain a boat in season, and how to prepare and store a boat for winter"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "How to determine the proper length of oars",
-          "internal_parent_id": "9729",
-          "internal_id": "9733",
-          "requirements": []
+          "id": "9733",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to determine the proper length of oars"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "The differences between fixed-seat and sliding-seat rowing",
-          "internal_parent_id": "9729",
-          "internal_id": "9734",
-          "requirements": []
+          "id": "9734",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "The differences between fixed-seat and sliding-seat rowing"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "The different meanings of the term sculling in fixed- and sliding-seat rowing",
-          "internal_parent_id": "9729",
-          "internal_id": "9735",
-          "requirements": []
+          "id": "9735",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "The different meanings of the term "
+            },
+            {
+              "type": "element",
+              "tag": "em",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "sculling"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " in fixed- and sliding-seat rowing"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "The health benefits from rowing for exercise",
-          "internal_parent_id": "9729",
-          "internal_id": "9736",
-          "requirements": []
+          "id": "9736",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "The health benefits from rowing for exercise"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

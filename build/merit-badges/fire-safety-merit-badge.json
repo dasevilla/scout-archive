@@ -2,6 +2,7 @@
   "name": "Fire Safety",
   "overview": "The ability to use fire safely is essential to human survival. By earning this merit badge, Scouts will learn to uses fire safely and responsibly, how to prevent home fires, and how to handle fire safely, as well as burn prevention, and camping safety.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/fire-safety/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/FireSafety.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Fire-Safety.pdf",
@@ -11,369 +12,737 @@
   "image_filename": "fire-safety-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/FireSafety.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14098",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Science of and Hazards of Fire. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13213",
-      "requirements": [
+      "id": "13213",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the concept of fire.",
-          "internal_parent_id": "13213",
-          "internal_id": "13214",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Science of and Hazards of Fire."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Name the parts of the fire tetrahedron and the products of combustion.",
-          "internal_parent_id": "13213",
-          "internal_id": "13215",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13214",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the concept of fire."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Describe the life cycle of a fire.",
-          "internal_parent_id": "13213",
-          "internal_id": "13216",
-          "requirements": []
+          "id": "13215",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name the parts of the fire tetrahedron and the products of combustion."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain the three methods of heat transfer.",
-          "internal_parent_id": "13213",
-          "internal_id": "13249",
-          "requirements": []
+          "id": "13216",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the life cycle of a fire."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13249",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the three methods of heat transfer."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Fire Extinguishers. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13245",
-      "requirements": [
+      "id": "13245",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the different classes of fires.",
-          "internal_parent_id": "13245",
-          "internal_id": "13250",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Fire Extinguishers."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Identify the different classes of fire extinguishers and which should be used for each class of fire.",
-          "internal_parent_id": "13245",
-          "internal_id": "13251",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13250",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the different classes of fires."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Demonstrate how to use a fire extinguisher and a fire blanket.",
-          "internal_parent_id": "13245",
-          "internal_id": "13393",
-          "requirements": []
+          "id": "13251",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify the different classes of fire extinguishers and which should be used for each class of fire."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13393",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate how to use a fire extinguisher and a fire blanket."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Fire-related Injuries. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13246",
-      "requirements": [
+      "id": "13246",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain and demonstrate the technique of stop, drop, roll, cool, and call.",
-          "internal_parent_id": "13246",
-          "internal_id": "13252",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Fire-related Injuries."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe how clothing fires occur, how to prevent them, and how clothing can prevent or contribute to burn injuries.",
-          "internal_parent_id": "13246",
-          "internal_id": "13253",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13252",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain and demonstrate the technique of stop, drop, roll, cool, and call."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Identify the most frequent causes of burn injuries and how to prevent them.",
-          "internal_parent_id": "13246",
-          "internal_id": "13254",
-          "requirements": []
+          "id": "13253",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how clothing fires occur, how to prevent them, and how clothing can prevent or contribute to burn injuries."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Review the prevention of, symptoms and signs of, and treatment of airway burns and carbon monoxide (CO) poisoning.",
-          "internal_parent_id": "13246",
-          "internal_id": "13255",
-          "requirements": []
+          "id": "13254",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify the most frequent causes of burn injuries and how to prevent them."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13255",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Review the prevention of, symptoms and signs of, and treatment of airway burns and carbon monoxide (CO) poisoning."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Origins of Fires. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13217",
-      "requirements": [
+      "id": "13217",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the four classifications of fire origin (natural, accidental, incendiary, or undetermined) and give an example of each.",
-          "internal_parent_id": "13217",
-          "internal_id": "13218",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Origins of Fires."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe how a fire classified as incendiary might lead to criminal prosecution of a person charged with arson.",
-          "internal_parent_id": "13217",
-          "internal_id": "13219",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13218",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the four classifications of fire origin (natural, accidental, incendiary, or undetermined) and give an example of each."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13219",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how a fire classified as incendiary might lead to criminal prosecution of a person charged with arson."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Fire Safety at Home. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13247",
-      "requirements": [
+      "id": "13247",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Describe how to prevent the frequent causes of home fires, including unattended cooking, electricity, smoking, clothes dryers, and rechargeable batteries.",
-          "internal_parent_id": "13247",
-          "internal_id": "13256",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Fire Safety at Home."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe how to prevent frequent causes of seasonal and holiday-related home fires, including fires related to home heating, holiday trees, candles, and fireworks.",
-          "internal_parent_id": "13247",
-          "internal_id": "13257",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13256",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how to prevent the frequent causes of home fires, including unattended cooking, electricity, smoking, clothes dryers, and rechargeable batteries."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Demonstrate how to safely light and extinguish a candle. Discuss with your counselor, then with your family, how to safely use candles.",
-          "internal_parent_id": "13247",
-          "internal_id": "13258",
-          "requirements": []
+          "id": "13257",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how to prevent frequent causes of seasonal and holiday-related home fires, including fires related to home heating, holiday trees, candles, and fireworks."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Using the Home Fire Safety Checklist in the Fire Safety merit badge pamphlet or one approved by your counselor, and with the help of an adult, inspect a home (or a similar building near where you live or at a camp) for fire safety hazards. Present your completed checklist to your counselor and discuss your findings.",
-          "internal_parent_id": "13247",
-          "internal_id": "13259",
-          "requirements": []
+          "id": "13258",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate how to safely light and extinguish a candle. Discuss with your counselor, then with your family, how to safely use candles."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Determine if, and what types of, smoke and CO alarms are required in homes in your community. List what types of smoke and CO alarms your home has, their locations, and their expiration dates.",
-          "internal_parent_id": "13247",
-          "internal_id": "13260",
-          "requirements": []
+          "id": "13259",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using the Home Fire Safety Checklist in the "
+            },
+            {
+              "type": "element",
+              "tag": "em",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Fire Safety"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " merit badge pamphlet or one approved by your counselor, and with the help of an adult, inspect a home (or a similar building near where you live or at a camp) for fire safety hazards. Present your completed checklist to your counselor and discuss your findings."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Demonstrate maintenance of smoke and CO alarms to your counselor and review plans to replace expired alarms.",
-          "internal_parent_id": "13247",
-          "internal_id": "13261",
-          "requirements": []
+          "id": "13260",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Determine if, and what types of, smoke and CO alarms are required in homes in your community. List what types of smoke and CO alarms your home has, their locations, and their expiration dates."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Develop a home fire-escape plan and a fire-drill schedule with your family, draw a floor plan of your home with exits marked and a map showing your family meeting point, and conduct a home fire drill.",
-          "internal_parent_id": "13247",
-          "internal_id": "13262",
-          "requirements": []
+          "id": "13261",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate maintenance of smoke and CO alarms to your counselor and review plans to replace expired alarms."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "h",
-          "text": "Explain what to do and what not to do if you smell natural gas and if you smell smoke.",
-          "internal_parent_id": "13247",
-          "internal_id": "13263",
-          "requirements": []
+          "id": "13262",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Develop a home fire-escape plan and a fire-drill schedule with your family, draw a floor plan of your home with exits marked and a map showing your family meeting point, and conduct a home fire drill."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "i",
-          "text": "Explain how you would report a fire to have the fire department respond.",
-          "internal_parent_id": "13247",
-          "internal_id": "13264",
-          "requirements": []
+          "id": "13263",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what to do and what not to do if you smell natural gas and if you smell smoke."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13264",
+          "label": "i",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how you would report a fire to have the fire department respond."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Safety with Flammable and Combustible Liquids. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13221",
-      "requirements": [
+      "id": "13221",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain what flammable and combustible liquids are commonly used in homes and how to safely store them.",
-          "internal_parent_id": "13221",
-          "internal_id": "13222",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Safety with Flammable and Combustible Liquids."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe the safe way to refuel a liquid-fueled engine, such as a lawn mower, outboard motor, farm machine, or automobile with fuel from an approved container.",
-          "internal_parent_id": "13221",
-          "internal_id": "13223",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13222",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what flammable and combustible liquids are commonly used in homes and how to safely store them."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Describe the options available for safely disposing of unwanted flammable, combustible, and hazardous substances in your community.",
-          "internal_parent_id": "13221",
-          "internal_id": "13224",
-          "requirements": []
+          "id": "13223",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the safe way to refuel a liquid-fueled engine, such as a lawn mower, outboard motor, farm machine, or automobile with fuel from an approved container."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13224",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the options available for safely disposing of unwanted flammable, combustible, and hazardous substances in your community."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Fire Safety in Public Buildings. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13230",
-      "requirements": [
+      "id": "13230",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain how public buildings are designed for fire safety.",
-          "internal_parent_id": "13230",
-          "internal_id": "13231",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Fire Safety in Public Buildings."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Explain what fire safety systems and equipment can be found in public buildings.",
-          "internal_parent_id": "13230",
-          "internal_id": "13232",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13231",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how public buildings are designed for fire safety."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain what fire safety precautions you should take when you are in a public building.",
-          "internal_parent_id": "13230",
-          "internal_id": "13233",
-          "requirements": []
+          "id": "13232",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what fire safety systems and equipment can be found in public buildings."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13233",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what fire safety precautions you should take when you are in a public building."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Fire Safety at Camp. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13248",
-      "requirements": [
+      "id": "13248",
+      "label": "8",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain how the Leave No Trace Seven Principles apply to camping fires.",
-          "internal_parent_id": "13248",
-          "internal_id": "13265",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Fire Safety at Camp."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Demonstrate lighting a match safely, the proper way to extinguish it, and to dispose of it. Explain the similarities and differences between safety matches and strike-anywhere matches.",
-          "internal_parent_id": "13248",
-          "internal_id": "13266",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13265",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how the Leave No Trace Seven Principles apply to camping fires."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain and demonstrate making sparks with flint and steel or with a ferro rod and catching a spark to create a flame. Extinguish the flame safely using one of principles of the fire tetrahedron.",
-          "internal_parent_id": "13248",
-          "internal_id": "13267",
-          "requirements": []
+          "id": "13266",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate lighting a match safely, the proper way to extinguish it, and to dispose of it. Explain the similarities and differences between safety matches and strike-anywhere matches."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Demonstrate the safe way to start a charcoal fire.",
-          "internal_parent_id": "13248",
-          "internal_id": "13268",
-          "requirements": []
+          "id": "13267",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain and demonstrate making sparks with flint and steel or with a ferro rod and catching a spark to create a flame. Extinguish the flame safely using one of principles of the fire tetrahedron."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Describe three common campsite fire lays. Collect, prepare, and set up tinder, kindling, and fuel for a campfire following the Leave No Trace Seven Principles. Ignite your fire lay and safely extinguish your fire.",
-          "internal_parent_id": "13248",
-          "internal_id": "13269",
-          "requirements": []
+          "id": "13268",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate the safe way to start a charcoal fire."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Demonstrate using a camp stove.",
-          "internal_parent_id": "13248",
-          "internal_id": "13270",
-          "requirements": []
+          "id": "13269",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe three common campsite fire lays. Collect, prepare, and set up tinder, kindling, and fuel for a campfire following the Leave No Trace Seven Principles. Ignite your fire lay and safely extinguish your fire."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Explain how to set up and keep a campsite safe from fire.",
-          "internal_parent_id": "13248",
-          "internal_id": "13271",
-          "requirements": []
+          "id": "13270",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate using a camp stove."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "h",
-          "text": "Develop a lesson plan to teach a fire safety skill or topic, such as lighting a candle or a match or a charcoal fire or a lantern or a camp stove or using flint and steel or setting up a fire lay. Review your lesson plan with your counselor. Teach your skill or topic to one or more Scouts using the EDGE method.",
-          "internal_parent_id": "13248",
-          "internal_id": "13272",
-          "requirements": []
+          "id": "13271",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how to set up and keep a campsite safe from fire."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13272",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "Develop a lesson plan to teach a fire safety skill or topic, such as lighting a candle or a match or a charcoal fire or a lantern or a camp stove or using flint and steel or setting up a fire lay. Review your lesson plan with your counselor. Teach your skill or topic to one or more Scouts using the EDGE method."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Wildland Fires. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13234",
-      "requirements": [
+      "id": "13234",
+      "label": "9",
+      "content": [
         {
-          "id": "a",
-          "text": "List causes of wildland fires and ways to prevent them.",
-          "internal_parent_id": "13234",
-          "internal_id": "13235",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Wildland Fires."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Explain the social, economic, and environmental consequences of wildland fires.",
-          "internal_parent_id": "13234",
-          "internal_id": "13236",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13235",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "List causes of wildland fires and ways to prevent them."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13236",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the social, economic, and environmental consequences of wildland fires."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "10",
-      "text": "Careers. Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "13237",
-      "requirements": [
+      "id": "13237",
+      "label": "10",
+      "content": [
         {
-          "id": "a",
-          "text": "Visit a fire station in-person. Identify the various types of fire service vehicles. From the firefighters you meet during your visit, learn about the fire prevention activities in your community and about their careers. Discuss with your counselor what you learned during your tour and interviews.",
-          "internal_parent_id": "13237",
-          "internal_id": "13238",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Careers."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Identify three career opportunities that would use skills and knowledge in the field of fire safety. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
-          "internal_parent_id": "13237",
-          "internal_id": "13239",
-          "requirements": []
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13238",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a fire station in-person. Identify the various types of fire service vehicles. From the firefighters you meet during your visit, learn about the fire prevention activities in your community and about their careers. Discuss with your counselor what you learned during your tour and interviews."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13239",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge in the field of fire safety. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

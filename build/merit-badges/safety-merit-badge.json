@@ -2,6 +2,7 @@
   "name": "Safety",
   "overview": "Knowing about safety helps Scouts to make the right choices and to take the best actions to avoid accidents by making informed choices in their everyday activities and to respond appropriately during an emergency situation.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/safety/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Safety.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Safety.pdf",
@@ -11,161 +12,668 @@
   "image_filename": "safety-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Safety.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14156",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Explain what safety is and what it means to be safe. Then prepare a notebook to include:",
-      "internal_parent_id": null,
-      "internal_id": "11440",
-      "requirements": [
+      "id": "15588",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Newspaper, internet (with parent or guardian's permission), or other articles, facts, and statistics showing common types and causes of injuries in the home and in the workplace, and how these injuries could be prevented",
-          "internal_parent_id": "11440",
-          "internal_id": "11441",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Safety and Hazards."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Newspaper, internet (with parent or guardian's permission), or other articles, facts, and statistics showing common types of crime and ways to avoid being a crime victim",
-          "internal_parent_id": "11440",
-          "internal_id": "11442",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15589",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what safety is and what it means to be safe."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "A paragraph or more, written by you, explaining how a serious fire, accident, crime, or a natural disaster could change your family life",
-          "internal_parent_id": "11440",
-          "internal_id": "11443",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "A list of safe practices and safety devices currently used by your family, such as safety practices used at home, while working, and while driving.",
-          "internal_parent_id": "11440",
-          "internal_id": "11444",
-          "requirements": []
+          "id": "15590",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what hazards are and how people manage hazards to reduce risks of harm and to improve safety."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11445",
-      "requirements": [
+      "id": "15593",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Using a safety checklist approved by your counselor, make an inspection of your home. Identify any hazards found and explain how these can be corrected.",
-          "internal_parent_id": "11445",
-          "internal_id": "11446",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Family and Home Safety."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Review and develop your family's fire prevention plan. Review your family's emergency action plan for fire in your home. As you develop these plans with family members, share with them facts about the common causes of fire in the home, such as smoking, cooking, electrical appliances, and candles.",
-          "internal_parent_id": "11445",
-          "internal_id": "11447",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15594",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain common causes of and prevention of home injuries."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Develop a family emergency action plan for a natural disaster.",
-          "internal_parent_id": "11445",
-          "internal_id": "11458",
-          "requirements": []
+          "id": "15595",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the dangers involved with the use of fireworks."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain what risk assessment is and its purpose.",
-          "internal_parent_id": "11445",
-          "internal_id": "11459",
-          "requirements": []
+          "id": "15596",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain common causes of and prevention of home fires."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Explain the Scouting America's Commitment to Safety.",
-          "internal_parent_id": "11445",
-          "internal_id": "11460",
-          "requirements": []
+          "id": "15597",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using the Home Safety Checklist in the "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Safety"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " merit badge pamphlet, or one approved by your counselor, inspect your home or a similar building for hazards with an adult. Review your checklist and findings with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Home Safety Checklist (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklists%20Home%20Safety%20%231%20%23%202.docx.pdf"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15598",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Develop a fire-escape plan for your home or for a similar building. Include in your drawings exit routes from each room and a meeting place outside. Conduct a fire-escape drill. Review your plan and your drill with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15609",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Develop a family emergency action plan for evacuation because of weather or other natural disasters that occur in your area. Using a checklist in the Safety merit badge pamphlet or one approved by your counselor, assemble or inspect an emergency supplies kit. Explain to your counselor how a family would use the plan and the kit supplies in an emergency."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11448",
-      "requirements": [
+      "id": "15599",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Discuss with your counselor how you contribute to the safety of yourself, your family, and your community.",
-          "internal_parent_id": "11448",
-          "internal_id": "11449",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Safety from Crime."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Show your family members how to protect themselves and your home from accidents, fire, burglary, robbery, and assault.",
-          "internal_parent_id": "11448",
-          "internal_id": "11450",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15600",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain common types of crimes that can affect teens."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Discuss with your counselor the tips for online safety. Explain the steps individuals can take to help prevent identity theft.",
-          "internal_parent_id": "11448",
-          "internal_id": "11451",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Discuss with your counselor the three R's of Youth Protection and how to recognize child abuse.",
-          "internal_parent_id": "11448",
-          "internal_id": "11452",
-          "requirements": []
+          "id": "15601",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a Home Security Checklist in the "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Safety"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " merit badge pamphlet or one approved by your counselor, inspect your home or a similar building for crime security measures with an adult. Review your checklist and findings with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Home Security Checklist (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Show your family the exits you would use from different public buildings (such as a theater, municipal building, library, supermarket, shopping center, or your place of worship) in the event of an emergency. Teach your family what to do in the event that they need to take shelter in or evacuate a public place.",
-      "internal_parent_id": null,
-      "internal_id": "11453",
-      "requirements": []
+      "id": "15604",
+      "label": "4",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Safety in Public Places."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Explain each of the following to your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15610",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "How a person would safely exit from public buildings, a hotel, and a stadium in an emergency."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15611",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "How and why Scouts would take shelter at camp."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15612",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "How should Scouts respond to an active shooter."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15613",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "The meaning of this saying: \"If You See Something, Say Something.®\""
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     },
     {
-      "id": "5",
-      "text": "Make an emergency action plan for five family activities outside the home (at your place of worship, at a theater, on a picnic, at the beach, and while traveling, for example). Each plan should include an analysis of possible hazards, proposed action to correct hazards, and reasons for the correction you propose in each plan.",
-      "internal_parent_id": null,
-      "internal_id": "11454",
-      "requirements": []
+      "id": "15605",
+      "label": "5",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Safeguarding Youth."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15614",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss Scouting America's Safeguarding Youth guidelines that adults and Scouts must follow so that everyone is safe at Scouting activities."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15615",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor what situations and behaviors would prompt you to Recognize, Resist, and Report a possible abuse situation."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15616",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss how you, other Scouts, leaders, and anyone can report situations suspicious for abuse through the Scouts First Helpline and other means."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     },
     {
-      "id": "6",
-      "text": "Plan and complete a safety project approved by your counselor for your home, school, place of worship, place of employment, or community.",
-      "internal_parent_id": null,
-      "internal_id": "11455",
-      "requirements": []
+      "id": "15606",
+      "label": "6",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Safety from Assault."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Explain how to avoid or prevent:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15617",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Assault on a street"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15618",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Assault at a restaurant event"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15619",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Sexual assault at a party or on a date."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     },
     {
-      "id": "7",
-      "text": "Explain what the National Terrorism Advisory System is and how you would respond to each type of alert.",
-      "internal_parent_id": null,
-      "internal_id": "11456",
-      "requirements": []
+      "id": "15607",
+      "label": "7",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Online Safety."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15620",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to avoid being the victim of online crimes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15621",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Common online financial scams."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15622",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Effective online security."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15623",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identity theft and how to prevent it."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15624",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "How criminals use social media to target victims."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15625",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "How bullying, texting, and sharing photos can become crimes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     },
     {
-      "id": "8",
-      "text": "Learn about three career opportunities in the field of safety. Pick one career and find out the education, training, and experience required for this profession. Discuss this choice with your counselor, and explain why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "11457",
-      "requirements": []
+      "id": "15608",
+      "label": "8",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Travel Safety."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Explain guidelines for traveling safely:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15626",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "As a pedestrian in a city"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15627",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "In a friend's car or truck"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15628",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "In a rideshare vehicle"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15629",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a bus"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15631",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a subway or train"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15630",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a commercial airplane."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15632",
+      "label": "9",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Careers."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15633",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore careers related to Safety merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. With permission of your parent or guardian, your research methods may include an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15634",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore how you could use knowledge and skills related to safety to pursue a hobby, lifestyle, or service as a volunteer. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursue this."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     }
   ]
 }

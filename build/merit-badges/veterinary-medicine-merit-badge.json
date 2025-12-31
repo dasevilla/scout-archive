@@ -2,6 +2,7 @@
   "name": "Veterinary Medicine",
   "overview": "The field of veterinary medicine in the 21st century is one of the most exciting medical professions in which to work. The skills of a veterinarian are practiced with cutting-edge technology and treatment options, and the profession offers a wide range of career choices.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/veterinary-medicine/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Veterinary%20Medicine.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Veterinary-Medicine.pdf",
@@ -11,145 +12,306 @@
   "image_filename": "veterinary-medicine-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Veterinary%20Medicine.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14179",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Discuss with your counselor the roles a veterinarian plays in the following:",
-      "internal_parent_id": null,
-      "internal_id": "3376",
-      "requirements": [
+      "id": "16079",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Companion or small animal medicine, and equine medicine",
-          "internal_parent_id": "3376",
-          "internal_id": "3377",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss with your counselor the roles a veterinarian plays in the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "16080",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Companion or small animal medicine, and equine medicine"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Food animal or large animal medicine",
-          "internal_parent_id": "3376",
-          "internal_id": "3378",
-          "requirements": []
+          "id": "16081",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Food animal or large animal medicine"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Exotic animal medicine",
-          "internal_parent_id": "3376",
-          "internal_id": "3379",
-          "requirements": []
+          "id": "16082",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Exotic animal medicine"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Marine animal medicine (mammal and fish)",
-          "internal_parent_id": "3376",
-          "internal_id": "3380",
-          "requirements": []
+          "id": "16083",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Marine animal medicine (mammal and fish)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Poultry medicine",
-          "internal_parent_id": "3376",
-          "internal_id": "3381",
-          "requirements": []
+          "id": "16084",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Poultry medicine"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Wildlife medicine and aquaculture medicine.",
-          "internal_parent_id": "3376",
-          "internal_id": "3382",
-          "requirements": []
+          "id": "16085",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Wildlife medicine and aquaculture medicine."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Discuss with your counselor the roles a veterinarian plays in the following:",
-      "internal_parent_id": null,
-      "internal_id": "3383",
-      "requirements": [
+      "id": "16086",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Public health medicine and zoonotic disease surveillance and control",
-          "internal_parent_id": "3383",
-          "internal_id": "3384",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss with your counselor the roles a veterinarian plays in the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "16087",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Public health medicine and zoonotic disease surveillance and control"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "The military",
-          "internal_parent_id": "3383",
-          "internal_id": "3385",
-          "requirements": []
+          "id": "16088",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The military"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Food safety and inspection",
-          "internal_parent_id": "3383",
-          "internal_id": "3386",
-          "requirements": []
+          "id": "16089",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Food safety and inspection"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Laboratory animal medicine and research",
-          "internal_parent_id": "3383",
-          "internal_id": "3387",
-          "requirements": []
+          "id": "16090",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Laboratory animal medicine and research"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Teaching and government.",
-          "internal_parent_id": "3383",
-          "internal_id": "3388",
-          "requirements": []
+          "id": "16091",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Teaching and government."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Describe the training required to become a veterinarian. Where is the veterinary medical college nearest you? Describe the prerequisites for applying to veterinary school.",
-      "internal_parent_id": null,
-      "internal_id": "3389",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Tell your counselor what a registered veterinary technician (R.T.V.) or animal health technician (A.H.T.) is. Describe the training required to become an R.V.T. or A.H.T. Where is the school or facility for R.V.T. or A.H.T training nearest you? Describe the role an R.V.T. or A.H.T. would play in assisting a veterinarian working in three of the practice types listed in requirement 1.",
-      "internal_parent_id": null,
-      "internal_id": "3390",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "Discuss with your counselor the role a veterinarian plays in the human-animal bond.",
-      "internal_parent_id": null,
-      "internal_id": "3391",
-      "requirements": []
-    },
-    {
-      "id": "6",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "3392",
-      "requirements": [
+      "id": "16095",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Visit a veterinary clinic, hospital, or veterinary referral teaching hospital that does work in one of the practices listed in requirement 1. Spend as much time as you can observing the veterinarians and their staff. Write a report on what you observed and learned at the facility. Share your report with your counselor.",
-          "internal_parent_id": "3392",
-          "internal_id": "3393",
-          "requirements": []
+          "type": "text",
+          "value": "Describe the training required to become a veterinarian. Where is the veterinary medical college in your state or nearest to you? Describe the prerequisites for applying to veterinary school."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "16096",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tell your counselor what a registered veterinary technician (R.T.V.) or animal health technician (A.H.T.) is. Describe the training required to become an R.V.T. or A.H.T. Where is the school or facility for R.V.T. or A.H.T training in your state or nearest to you? Describe the role an R.V.T. or A.H.T. would play in assisting a veterinarian working in three of the practice types listed in requirement 1."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "16097",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss with your counselor the role a veterinarian plays in the human-animal bond."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "16092",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "16093",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a veterinary clinic, hospital, or veterinary referral teaching hospital that does work in one of the practices listed in requirement 1. Spend as much time as you can observing the veterinarians and their staff. Prepare a presentation on what you observed and learned at the facility and share with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Spend as much time as possible with a veterinarian who works in one of the fields listed in requirement 2. Learn what special training beyond veterinary medical school may have been required for that position. Learn about any special or unusual activities required of this position. Write a report on what you have learned about this field of veterinary medicine. Include in your report how this field serves the needs of the general public. Share your report with your counselor.",
-          "internal_parent_id": "3392",
-          "internal_id": "3394",
-          "requirements": []
+          "id": "16094",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Spend as much time as possible with a veterinarian who works in one of the fields listed in requirement 2. Learn what special training beyond veterinary medical school may have been required for that position. Learn about any special or unusual activities required of this position. Prepare a presentation and share what you have learned about this field of veterinary medicine with your counselor. Include how this field serves the needs of the general public."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "16098",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Select one career from any of the lists in requirements 1 or 2. Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "16099",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Why would one choose this particular career field?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16100",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "What would you like about this job?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16101",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "What would be the biggest challenges in doing this job?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16102",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "What to you has been the most surprising aspect of this job?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16103",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "What continuing education requirements are required to maintain certification for this job?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

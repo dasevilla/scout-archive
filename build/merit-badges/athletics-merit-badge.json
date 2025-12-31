@@ -2,6 +2,7 @@
   "name": "Athletics",
   "overview": "Being involved in an athletic endeavor is not only a way to have fun, but it also is one of the best ways for a person to maintain a healthy and strong body, living up to the promise each Scout makes “to keep myself physically strong.”",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/athletics/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Athletics.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Athletics.pdf",
@@ -11,374 +12,1016 @@
   "image_filename": "athletics-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE: If meeting any of the requirements for this merit badge is against the Scout's religious convictions, the requirement does not have to be done if the Scout's parent or guardian and the proper religious advisors state in writing that to do so would be against religious convictions. The Scout's parent or guardian must also accept full responsibility for anything that might happen because of this exemption.",
-      "internal_parent_id": null,
-      "internal_id": "10020",
-      "requirements": []
-    },
-    {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Athletics.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14060",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "10021",
-      "requirements": [
+      "id": "14189",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter during athletics activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Resource: [Preventing Injuries in Youth Athletes (video)](https://youtu.be/yC3blqv3kp4?si=TLnyOxBv96ZuyubP)",
-          "internal_parent_id": "10021",
-          "internal_id": "10022",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14190",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the most likely hazards you may encounter during athletics activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Preventing Injuries in Youth Athletes (video)",
+              "url": "https://youtu.be/yC3blqv3kp4?si=TLnyOxBv96ZuyubP"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Show that you know first aid for injuries or illnesses that could occur while participating in athletics events, including sprains, strains, contusions, abrasions, blisters, dehydration, heat reactions, and concussions. Resources: [Using the Rice Method for Injuries - Rest, Ice, Compress, Elevate (video)](https://youtu.be/TZqDBgiEfL8?si=RV6nOMJpa0Rc2LbT) [First Aid Treatment for Wounds (video)](https://youtu.be/oGvyiWfXB7c?si=VLL-rINKVqd871yO) [Top 10 Most Common Sports Injuries (and How to Prevent Them!) (video)](https://youtu.be/OcGeUdfL-s4?si=-4uuzL95rK4Is-T2)",
-          "internal_parent_id": "10021",
-          "internal_id": "10023",
-          "requirements": []
+          "id": "14191",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show that you know first aid for injuries or illnesses that could occur while participating in athletics events, including sprains, strains, contusions, abrasions, blisters, dehydration, heat reactions, and concussions."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Using the RICE Method for Injuries - Rest, Ice, Compress, Elevate (video)",
+              "url": "https://youtu.be/TZqDBgiEfL8?si=RV6nOMJpa0Rc2LbT"
+            },
+            {
+              "title": "First Aid Treatment for Wounds (video)",
+              "url": "https://youtu.be/oGvyiWfXB7c?si=VLL-rINKVqd871yO"
+            },
+            {
+              "title": "Top 10 Most Common Sports Injuries (and How to Prevent Them!) (video)",
+              "url": "https://youtu.be/OcGeUdfL-s4?si=-4uuzL95rK4Is-T2"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "10024",
-      "requirements": [
+      "id": "14192",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Before completing requirements 3 and 5, have your health-care practitioner give you a physical examination, using the Scout Annual Health and Medical Record form. Resource: [Annual Physical Exam (website)](https://www.scouting.org/health-and-safety/ahmr/)",
-          "internal_parent_id": "10024",
-          "internal_id": "10025",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14193",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the importance of having a physical examination each year. Discuss why overall health, immunizations, medications, allergies, and medical history are covered during an examination. Tell your counselor when you last underwent a physical examination."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Annual Physical Exam (website)",
+              "url": "https://www.scouting.org/health-and-safety/ahmr/"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain the importance of a physical exam.",
-          "internal_parent_id": "10024",
-          "internal_id": "10026",
-          "requirements": []
+          "id": "14194",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how you maintain good health habits, especially during training, and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in athletic activities."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Nutrition Tips for High School Athletes (video)",
+              "url": "https://youtu.be/dISDEsTr1Rc?si=4QkQnfQQjYs4GRuf"
+            },
+            {
+              "title": "Refusing Use of Harmful Substances (video)",
+              "url": "https://youtu.be/_NUo_52vkkg?si=cy-fCChvsa8SVNQT"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain the importance of maintaining good health habits, especially during training—and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in athletic activities. Resources: [Nutrition Tips for High School Athletes (video)](https://youtu.be/dISDEsTr1Rc?si=4QkQnfQQjYs4GRuf) [Refusing Use of Harmful Substances (video)](https://youtu.be/_NUo_52vkkg?si=cy-fCChvsa8SVNQT)",
-          "internal_parent_id": "10024",
-          "internal_id": "10027",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Explain the importance of maintaining a healthy diet. Resource: [What is MyPlate? (website)](https://www.myplate.gov/eat-healthy/what-is-myplate)",
-          "internal_parent_id": "10024",
-          "internal_id": "10028",
-          "requirements": []
+          "id": "14195",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the elements of a nutritious, balanced diet, and explain what you do to maintain a healthy diet."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What is MyPlate? (website)",
+              "url": "https://www.myplate.gov/eat-healthy/what-is-myplate"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Select an athletic activity that interests you, then do the following: Resource: [Which Sport Are You Made for? Take Our 60-Second Test (website)](https://www.bbc.com/news/uk-28062001)",
-      "internal_parent_id": null,
-      "internal_id": "10029",
-      "requirements": [
+      "id": "14197",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "With guidance from your counselor, establish a personal training program suited to the activity you have chosen. Follow this training program for three months. Resource: [Keys to Sport-Specific Training (video)](https://youtu.be/oRQEgV0wNtQ?si=5ZjJP2Lq6GboJ8E_)",
-          "internal_parent_id": "10029",
-          "internal_id": "10030",
-          "requirements": []
+          "type": "text",
+          "value": "Select an athletic activity that interests you, then do the following:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Which Sport Are You Made for? Take Our 60-Second Test (website)",
+          "url": "https://www.bbc.com/news/uk-28062001"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "14198",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With guidance from your counselor, establish a personal training program suited to the activity you have chosen. Follow this training program for three months."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Keys to Sport-Specific Training (video)",
+              "url": "https://youtu.be/oRQEgV0wNtQ?si=5ZjJP2Lq6GboJ8E_"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Create a chart to monitor your progress during this time. Resource: [7 Powerful Journaling Ideas for Youth Sports Athletes (website)](https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/%20)",
-          "internal_parent_id": "10029",
-          "internal_id": "10031",
-          "requirements": []
+          "id": "14199",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Use a chart or other tracking method to monitor your progress during this time."
+            }
+          ],
+          "resources": [
+            {
+              "title": "7 Powerful Journaling Ideas for Youth Sports Athletes (website)",
+              "url": "https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/%20"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain to your counselor the equipment necessary to participate in this activity and the appropriate clothing for the time of year. Resource: [Equipment Needed to Play Various Sports (website)](https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports%20)",
-          "internal_parent_id": "10029",
-          "internal_id": "10032",
-          "requirements": []
+          "id": "14200",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the equipment necessary to participate in this activity and the appropriate clothing for the activity and the time of year."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Equipment Needed to Play Various Sports (website)",
+              "url": "https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports%20"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "At the end of three months, review the chart you created for requirement 3(b), and discuss with your counselor what progress you have made during training. Tell how your development has affected you mentally and physically. Resource: [How Do You Measure Progress? (video)](https://youtu.be/EHZvmAaXwfk?si=rdzKWbgW6dHqMrRO)",
-          "internal_parent_id": "10029",
-          "internal_id": "10033",
-          "requirements": []
+          "id": "14201",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "At the end of three months, review your records from requirement 3(b), and discuss with your counselor what progress you have made during training. Tell how your development has affected you mentally and physically."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How Do You Measure Progress? (video)",
+              "url": "https://youtu.be/EHZvmAaXwfk?si=rdzKWbgW6dHqMrRO"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "10034",
-      "requirements": [
+      "id": "14202",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Give the rules for two athletic activities, one of which is the activity you chose for requirement 3. Resource: [Rules of Sports (website)](https://www.rulesofsport.com/%20)",
-          "internal_parent_id": "10034",
-          "internal_id": "10035",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14203",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the rules for two athletic activities, one of which is the activity you chose for requirement 3."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Rules of Sports (website)",
+              "url": "https://www.rulesofsport.com/%20"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Discuss the importance of warming up and cooling down. Resource: [Stretching and Warming Up (video)](https://youtu.be/XeEIoGMldyc?si=OXMS8XPru5l5dG7g)",
-          "internal_parent_id": "10034",
-          "internal_id": "10036",
-          "requirements": []
+          "id": "14204",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the importance of warming up and cooling down before and after each training session or event."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Stretching and Warming Up (video)",
+              "url": "https://youtu.be/XeEIoGMldyc?si=OXMS8XPru5l5dG7g"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain to your counselor what an amateur athlete is and the differences between an amateur and a professional athlete. Resource: [What Is an Amateur (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Athletics/amateur_vs_professional.pdf)",
-          "internal_parent_id": "10034",
-          "internal_id": "10037",
-          "requirements": []
+          "id": "14205",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor what an amateur athlete is and the differences between an amateur and a professional athlete."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What Is an Amateur (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Athletics/amateur_vs_professional.pdf"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Discuss the traits and importance of good sportsmanship. Tell what role sportsmanship plays in both individual and group athletic activities. Resources: [What is Good Sportsmanship? (video)](https://youtu.be/KoDu2FpU57c?si=UgLWB7uM9iY3FQBj) [Olympians' Display of Sportsmanship Fosters Positive Attitudes (video)](https://youtu.be/rNcfqOqDbsU?si=2C-x-nzDi7v94t50) [What Does Sportsmanship Mean to You (video)](https://youtu.be/BvheyBiD6Qs?si=ZzEwe2jDYlgrIBaU)",
-          "internal_parent_id": "10034",
-          "internal_id": "10038",
-          "requirements": []
+          "id": "14206",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the traits and importance of good sportsmanship. Tell what role sportsmanship plays in both individual and group athletic activities."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What is Good Sportsmanship? (video)",
+              "url": "https://youtu.be/KoDu2FpU57c?si=UgLWB7uM9iY3FQBj"
+            },
+            {
+              "title": "Olympians' Display of Sportsmanship Fosters Positive Attitudes (video)",
+              "url": "https://youtu.be/rNcfqOqDbsU?si=2C-x-nzDi7v94t50"
+            },
+            {
+              "title": "What Does Sportsmanship Mean to You (video)",
+              "url": "https://youtu.be/BvheyBiD6Qs?si=ZzEwe2jDYlgrIBaU"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Complete the activities in FOUR of the following options and show improvement over a three-month period:",
-      "internal_parent_id": null,
-      "internal_id": "10039",
-      "requirements": [
+      "id": "14207",
+      "label": "5",
+      "content": [
         {
-          "id": null,
-          "text": "Option 1: Sprinting Resource: [How to Sprint (video)](https://youtu.be/2twa8CAFPls?si=TFVD802jIvX0kmMW)",
-          "internal_parent_id": "10039",
-          "internal_id": "10040",
-          "requirements": [
+          "type": "text",
+          "value": "Complete the activities in FOUR of the following options and show improvement over a three-month period:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14208",
+          "label": null,
+          "content": [
             {
-              "id": "a",
-              "text": "100-meter dash",
-              "internal_parent_id": "10040",
-              "internal_id": "10041",
-              "requirements": []
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option A—Sprinting."
+                }
+              ]
             },
             {
-              "id": "b",
-              "text": "200-meter dash",
-              "internal_parent_id": "10040",
-              "internal_id": "10042",
-              "requirements": []
+              "type": "text",
+              "value": " Do ALL of the following:"
             }
-          ]
+          ],
+          "resources": [
+            {
+              "title": "How to Sprint (video)",
+              "url": "https://youtu.be/2twa8CAFPls?si=TFVD802jIvX0kmMW"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option 2: Long-Distance Running Resource: [Improving Your Running Form (video)](https://youtu.be/ZKCwpW-l_wU?si=3L7szs0IGkQdhTYR)",
-          "internal_parent_id": "10039",
-          "internal_id": "10043",
-          "requirements": [
+          "id": "14209",
+          "label": "1",
+          "content": [
             {
-              "id": "a",
-              "text": "3k run",
-              "internal_parent_id": "10043",
-              "internal_id": "10044",
-              "requirements": []
-            },
-            {
-              "id": "b",
-              "text": "5k run",
-              "internal_parent_id": "10043",
-              "internal_id": "10045",
-              "requirements": []
+              "type": "text",
+              "value": "100-meter dash"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option 3: Long Jump OR High Jump",
-          "internal_parent_id": "10039",
-          "internal_id": "10046",
-          "requirements": [
+          "id": "14210",
+          "label": "2",
+          "content": [
             {
-              "id": "a",
-              "text": "Running long jump OR running high jump (best of three tries)Resources: [Running Long Jump (video)](https://youtu.be/PeC29LbR94U?si=XUrZ1NjVmZetRdxl) [Running High Jump (video)](https://youtu.be/NLufVXI7HOQ?si=vC_x2Ym1yWiTh_H8)",
-              "internal_parent_id": "10046",
-              "internal_id": "10047",
-              "requirements": []
-            },
-            {
-              "id": "b",
-              "text": "Standing long jump OR standing high jump (best of three tries) Resources: [Standing Long Jump (video)](https://youtu.be/dVgtvAXeBQw?si=nHxJ6Hm9bjzLS5pF) [Standing High Jump (video)](https://youtu.be/Q6mxzUBF1_Q?si=XJFxXuwaOeVRxi9A)",
-              "internal_parent_id": "10046",
-              "internal_id": "10048",
-              "requirements": []
+              "type": "text",
+              "value": "200-meter dash"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option 4: Swimming",
-          "internal_parent_id": "10039",
-          "internal_id": "10049",
-          "requirements": [
+          "id": "14211",
+          "label": null,
+          "content": [
             {
-              "id": "a",
-              "text": "100-meter swim Resource: [How to Swim Laps (video)](https://youtu.be/G-Gy76-tGLE?si=ZApjnanynnuBlUWJ)",
-              "internal_parent_id": "10049",
-              "internal_id": "10050",
-              "requirements": []
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option B—Long-Distance Running."
+                }
+              ]
             },
             {
-              "id": "b",
-              "text": "200-meter swim Resource: [Best Way to Swim a 200m (video)](https://youtu.be/libZMpLYfEM?si=_nSxrUPF1rA317sr)",
-              "internal_parent_id": "10049",
-              "internal_id": "10051",
-              "requirements": []
+              "type": "text",
+              "value": " Do ALL of the following:"
             }
-          ]
+          ],
+          "resources": [
+            {
+              "title": "Improving Your Running Form (video)",
+              "url": "https://youtu.be/ZKCwpW-l_wU?si=3L7szs0IGkQdhTYR"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option 5: Pull-Ups AND Push-Ups",
-          "internal_parent_id": "10039",
-          "internal_id": "10052",
-          "requirements": [
+          "id": "14212",
+          "label": "1",
+          "content": [
             {
-              "id": "a",
-              "text": "Pull-ups in two minutes Resource: [How to Do a Pull-Up (video)](https://youtu.be/eSPO3E7Qoy4?si=1gK0noTZ_uAteC2P)",
-              "internal_parent_id": "10052",
-              "internal_id": "10053",
-              "requirements": []
-            },
-            {
-              "id": "b",
-              "text": "Push-ups in two minutes Resource: [How to Do a Push-Up (video)](https://youtu.be/x-bWOeFFQvk?si=uR2OS3C6KUvyjuSJ)",
-              "internal_parent_id": "10052",
-              "internal_id": "10054",
-              "requirements": []
+              "type": "text",
+              "value": "3k run"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option 6: Baseball ThrowResource: [How to Throw a Baseball (video)](https://youtu.be/UHRU973uu2c?si=eu9KwMfgqkKxrSCK)",
-          "internal_parent_id": "10039",
-          "internal_id": "10055",
-          "requirements": [
+          "id": "14213",
+          "label": "2",
+          "content": [
             {
-              "id": "a",
-              "text": "Baseball throw for accuracy, 10 throws at a target (distance to be determined by age): ages 11 to 12, 20 feet; ages 13 to 15, 30 feet; ages 16 to 17, 40 feet",
-              "internal_parent_id": "10055",
-              "internal_id": "10056",
-              "requirements": []
-            },
-            {
-              "id": "b",
-              "text": "Baseball throw for distance, five throws (total distance)",
-              "internal_parent_id": "10055",
-              "internal_id": "10057",
-              "requirements": []
+              "type": "text",
+              "value": "5k run"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option 7: Basketball ShootingResources: [How to Shoot a Free Throw (video)](https://youtu.be/iW2VFzBiaQo?si=OcW1PTb8DR3ZtR6y) [How to Shoot a Layup (video)](https://youtu.be/q4IqeXob_qg?si=or8nQWc5bXpIOEQe) [How to Shoot a Basketball (video)](https://youtu.be/UcnB9e5O5NY?si=dlC30TAj-AyuKca9)",
-          "internal_parent_id": "10039",
-          "internal_id": "10058",
-          "requirements": [
+          "id": "14214",
+          "label": null,
+          "content": [
             {
-              "id": "a",
-              "text": "Basketball shot for accuracy, 10 free-throw shots",
-              "internal_parent_id": "10058",
-              "internal_id": "10059",
-              "requirements": []
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option C—Long Jump OR High Jump."
+                }
+              ]
             },
             {
-              "id": "b",
-              "text": "Basketball throw for skill and agility, the following shots as shown on the diagram:  - Left-side layup - Right-side layup - Left side of hoop, along the key line - Right side of hoop, along the key line - Where key line and free-throw line meet, left side - Where key line and free-throw line meet, right side - Top of the key - Anywhere along the three-point line",
-              "internal_parent_id": "10058",
-              "internal_id": "10060",
-              "requirements": []
+              "type": "text",
+              "value": " Do ALL of the following:"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option 8: Football Kick OR Soccer Kick",
-          "internal_parent_id": "10039",
-          "internal_id": "10061",
-          "requirements": [
+          "id": "14215",
+          "label": "1",
+          "content": [
             {
-              "id": "a",
-              "text": "Goals from the 10-yard line, eight kicks Resource: [Shooting a Soccer Free Kick (video)](https://youtu.be/ROZXyk98Oto?si=D68RBCQ6GDI2_kP9)",
-              "internal_parent_id": "10061",
-              "internal_id": "10062",
-              "requirements": []
+              "type": "text",
+              "value": "Running long jump OR running high jump (best of three tries)"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Running Long Jump (video)",
+              "url": "https://youtu.be/PeC29LbR94U?si=XUrZ1NjVmZetRdxl"
             },
             {
-              "id": "b",
-              "text": "Football kick or soccer kick for distance, five kicks (total distance)Resource: [Kick a Football Field Goal (video)](https://youtu.be/vJ3BHM9U-S0?si=xCzYWo3YkxdOXkfu)",
-              "internal_parent_id": "10061",
-              "internal_id": "10063",
-              "requirements": []
+              "title": "Running High Jump (video)",
+              "url": "https://youtu.be/NLufVXI7HOQ?si=vC_x2Ym1yWiTh_H8"
             }
-          ]
+          ],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option 9: Weight Training",
-          "internal_parent_id": "10039",
-          "internal_id": "10064",
-          "requirements": [
+          "id": "14216",
+          "label": "2",
+          "content": [
             {
-              "id": "a",
-              "text": "Chest/bench press, two sets of 15 repetitions each Resource: [How to Bench Press (video)](https://youtu.be/bt-yRU4HEZ4?si=Jw0QKVOvUsgcIKGa)",
-              "internal_parent_id": "10064",
-              "internal_id": "10065",
-              "requirements": []
+              "type": "text",
+              "value": "Standing long jump OR standing high jump (best of three tries)"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Standing Long Jump (video)",
+              "url": "https://youtu.be/dVgtvAXeBQw?si=nHxJ6Hm9bjzLS5pF"
             },
             {
-              "id": "b",
-              "text": "Leg curls, two sets of 15 repetitions eachResource: [How to Do Leg Curls (video)](https://youtu.be/UAod62tMmhk?si=zXLVoKYT_8HPRbgp)",
-              "internal_parent_id": "10064",
-              "internal_id": "10066",
-              "requirements": []
+              "title": "Standing High Jump (video)",
+              "url": "https://youtu.be/Q6mxzUBF1_Q?si=XJFxXuwaOeVRxi9A"
             }
-          ]
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14217",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option D—Swimming."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14218",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "100-meter swim"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Swim Laps (video)",
+              "url": "https://youtu.be/G-Gy76-tGLE?si=ZApjnanynnuBlUWJ"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14219",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "200-meter swim"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Best Way to Swim a 200m (video)",
+              "url": "https://youtu.be/libZMpLYfEM?si=_nSxrUPF1rA317sr"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14220",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option E—Pull-Ups AND Push-Ups."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14221",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Pull-ups in two minutes"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Do a Pull-Up (video)",
+              "url": "https://youtu.be/eSPO3E7Qoy4?si=1gK0noTZ_uAteC2P"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14222",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Push-ups in two minutes"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Do a Push-Up (video)",
+              "url": "https://youtu.be/x-bWOeFFQvk?si=uR2OS3C6KUvyjuSJ"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14223",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option F—Baseball Throw."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Throw a Baseball (video)",
+              "url": "https://youtu.be/UHRU973uu2c?si=eu9KwMfgqkKxrSCK"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14224",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Baseball throw for accuracy, 10 throws at a target (distance to be determined by age): ages 11 to 12, 20 feet; ages 13 to 15, 30 feet; ages 16 to 17, 40 feet"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14225",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Baseball throw for distance, five throws (total distance)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14226",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option G—Basketball Shooting."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL the following:"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Shoot a Free Throw (video)",
+              "url": "https://youtu.be/iW2VFzBiaQo?si=OcW1PTb8DR3ZtR6y"
+            },
+            {
+              "title": "How to Shoot a Layup (video)",
+              "url": "https://youtu.be/q4IqeXob_qg?si=or8nQWc5bXpIOEQe"
+            },
+            {
+              "title": "How to Shoot a Basketball (video)",
+              "url": "https://youtu.be/UcnB9e5O5NY?si=dlC30TAj-AyuKca9"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14227",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Basketball shot for accuracy, 10 free-throw shots"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14228",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Basketball throw for skill and agility, the following shots:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14238",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Left-side layup"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14239",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Right-side layup"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14240",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Left side of hoop, along the key line"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14241",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Right side of hoop, along the key line"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14243",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Where key line and free-throw line meet, left side"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14242",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Where key line and free-throw line meet, left side"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14244",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Top of the key"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14245",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "Another spot along the three-point line"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14229",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option H—Football Kick OR Soccer Kick."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14230",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Goals from the 10-yard line, eight kicks"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Shooting a Soccer Free Kick (video)",
+              "url": "https://youtu.be/ROZXyk98Oto?si=D68RBCQ6GDI2_kP9"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14231",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Football kick or soccer kick for distance, five kicks (total distance)"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Kick a Football Field Goal (video)",
+              "url": "https://youtu.be/vJ3BHM9U-S0?si=xCzYWo3YkxdOXkfu"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14232",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option I—Weight Training."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14233",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Chest/bench press, two sets of 15 repetitions each"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Bench Press (video)",
+              "url": "https://youtu.be/bt-yRU4HEZ4?si=Jw0QKVOvUsgcIKGa"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14234",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Leg curls, two sets of 15 repetitions each"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Do Leg Curls (video)",
+              "url": "https://youtu.be/UAod62tMmhk?si=zXLVoKYT_8HPRbgp"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "10067",
-      "requirements": [
+      "id": "14235",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Prepare plans for conducting a sports meet or field day that includes 10 activities, at least five of which must come from the groups mentioned in requirement 5. Outline the duties of each official needed and list the equipment the meet will require. Resource: [Planning a Field Day (video)](https://youtu.be/IKYtSzrvCjA?si=rJ1j-hy0TLs4ruVQ)",
-          "internal_parent_id": "10067",
-          "internal_id": "10068",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14236",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Prepare plans for conducting a sports meet or field day that includes 10 activities, at least five of which must come from the groups mentioned in requirement 5. Outline the duties of each official needed and list the equipment the meet will require."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Planning a Field Day (video)",
+              "url": "https://youtu.be/IKYtSzrvCjA?si=rJ1j-hy0TLs4ruVQ"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "With your parent or guardian's and counselor's approval, serve as an official or volunteer at a sports meet to observe officials in action. Tell your counselor about your responsibilities at the meet and discuss what you learned. Resources: [How to Serve as a Swim Meet Timer (video)](https://youtu.be/ZVFce0ZtaSk?si=FRBbdo8aHRce49C3) [Rules of a Swim Meet (video)](https://youtu.be/BGW1IZPLuGk?si=A7H469w658jlC_y7)",
-          "internal_parent_id": "10067",
-          "internal_id": "10069",
-          "requirements": []
+          "id": "14237",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's and counselor's approval, serve as an official or volunteer at a sports meet to observe officials in action. Tell your counselor about your responsibilities at the meet and discuss what you learned."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Serve as a Swim Meet Timer (video)",
+              "url": "https://youtu.be/ZVFce0ZtaSk?si=FRBbdo8aHRce49C3"
+            },
+            {
+              "title": "Rules of a Swim Meet (video)",
+              "url": "https://youtu.be/BGW1IZPLuGk?si=A7H469w658jlC_y7"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14246",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14247",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore three careers related to athletics. Research one career area by interviewing an expert in the field, visiting a site, or using other resources. Learn about training, education, expenses, job outlook, salary, and advancement. Discuss your findings and career interest with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "A Career as an Athletic Trainer (video)",
+              "url": "https://youtu.be/ONALKNxTtwI?si=JKi4baFP93-osufW"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14248",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore how an area of athletics could contribute to a hobby or healthy lifestyle. Research education, costs, and organizations related to this activity. Discuss your findings and goals with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Making Athletics a Habit (video)",
+              "url": "https://youtu.be/QnfVwg4HWzg?si=8Sgu-6MwAh0kFjrQ"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     }

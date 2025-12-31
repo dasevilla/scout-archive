@@ -2,6 +2,7 @@
   "name": "Archaeology",
   "overview": "Understand how cultures evolve and investigate the past using clues our ancestors left behind with the Archeology Merit Badge. Scouts will learn about five archaeological sites in and outside the United States and give a short presentation about their findings to a Cub Scout pack, Scout troop, or peers in their classrooms.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/archaeology/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archaeology.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Archaeology.pdf",
@@ -11,190 +12,386 @@
   "image_filename": "archaeology-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archaeology.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14055",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Tell what archaeology is and explain to your counselor how it differs or relates to other fields of study such as anthropology, geology, paleontology, and history. Explain how archaeology is different than artifact collecting or treasure hunting.",
-      "internal_parent_id": null,
-      "internal_id": "9407",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Describe the following steps of the archaeological process: site location, development of background research and a research design, site survey and fieldwork, artifact identification and examination, interpretation, preservation, and information sharing.",
-      "internal_parent_id": null,
-      "internal_id": "9410",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "Describe at least two ways in which archaeologists determine the age of sites, structures, or artifacts. Explain what absolute dating and relative dating are.",
-      "internal_parent_id": null,
-      "internal_id": "9411",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Learn about a combined total of five archaeological sites located both within and outside the United States.",
-      "internal_parent_id": null,
-      "internal_id": "9387",
-      "requirements": [
+      "id": "9407",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "For EACH site you research, point it out on a map and explain how it became known to archaeologists. Describe some of the information about the past that has been found at each site. Explain how the information gained from the study of these sites answers questions that archaeologists are asking and how the information may be important to modern people. Compare the relative ages of the sites you research.",
-          "internal_parent_id": "9387",
-          "internal_id": "9388",
-          "requirements": []
+          "type": "text",
+          "value": "Tell what archaeology is and explain to your counselor how it differs or relates to other fields of study such as anthropology, geology, paleontology, and history. Explain how archaeology is different than artifact collecting or treasure hunting."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "9410",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe the following steps of the archaeological process: site location, development of background research and a research design, site survey and fieldwork, artifact identification and examination, interpretation, preservation, and information sharing."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "9411",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe at least two ways in which archaeologists determine the age of sites, structures, or artifacts. Explain what absolute dating and relative dating are."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "9387",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn about a combined total of five archaeological sites located both within and outside the United States."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9388",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "For EACH site you research, point it out on a map and explain how it became known to archaeologists. Describe some of the information about the past that has been found at each site. Explain how the information gained from the study of these sites answers questions that archaeologists are asking and how the information may be important to modern people. Compare the relative ages of the sites you research."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Choose ONE of the sites you picked and give a short presentation about your findings to a Cub Scout pack, your Scout troop, your school class, or another group.",
-          "internal_parent_id": "9387",
-          "internal_id": "9389",
-          "requirements": []
+          "id": "9389",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Choose ONE of the sites you picked and give a short presentation about your findings to a Cub Scout pack, your Scout troop, your school class, or another group."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "9390",
-      "requirements": [
+      "id": "9390",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Learn about the federal laws and international conventions that protect archaeological sites. Find out if your state, county, or local government has regulations that apply to archaeological or historic sites.",
-          "internal_parent_id": "9390",
-          "internal_id": "9391",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9391",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Learn about the federal laws and international conventions that protect archaeological sites. Find out if your state, county, or local government has regulations that apply to archaeological or historic sites."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Identify a national, international, or local organization that helps to protect archaeological sites.",
-          "internal_parent_id": "9390",
-          "internal_id": "9392",
-          "requirements": []
+          "id": "9392",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify a national, international, or local organization that helps to protect archaeological sites."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "9393",
-      "requirements": [
+      "id": "9393",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain why it is important to protect archaeological sites.",
-          "internal_parent_id": "9393",
-          "internal_id": "9394",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9394",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain why it is important to protect archaeological sites."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain what people should do if they think they have found an artifact.",
-          "internal_parent_id": "9393",
-          "internal_id": "9395",
-          "requirements": []
+          "id": "9395",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what people should do if they think they have found an artifact."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Describe the ways in which you can be a protector of the past.",
-          "internal_parent_id": "9393",
-          "internal_id": "9396",
-          "requirements": []
+          "id": "9396",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the ways in which you can be a protector of the past."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Do ONE of the following and discuss your findings with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "9397",
-      "requirements": [
+      "id": "9397",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Visit a museum to observe how artifacts aid in conveying history.",
-          "internal_parent_id": "9397",
-          "internal_id": "9398",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following and discuss your findings with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9398",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a museum to observe how artifacts aid in conveying history."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Present to your counselor a significant family artifact/heirloom and discuss its history.",
-          "internal_parent_id": "9397",
-          "internal_id": "9399",
-          "requirements": []
+          "id": "9399",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Present to your counselor a significant family artifact/heirloom and discuss its history."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Make a list of the trash your family throws out during one week. Discuss with your counselor what archaeologists might learn about you and your family if they found your trash a thousand years from now.",
-          "internal_parent_id": "9397",
-          "internal_id": "9400",
-          "requirements": []
+          "id": "9400",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a list of the trash your family throws out during one week. Discuss with your counselor what archaeologists might learn about you and your family if they found your trash a thousand years from now."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Research a group of people who lived in your area more than 100 years ago. Find out about their ways of life, including housing, clothing, arts and  crafts, tools, trade and markets, rituals and religions, and diets, and their relationships with other groups of people in the area. Describe what you would expect to find at an archaeological site where these people lived. Explain how these people influenced your current community.",
-      "internal_parent_id": null,
-      "internal_id": "9408",
-      "requirements": []
-    },
-    {
-      "id": "9",
-      "text": "Identify three career opportunities in archaeology. Pick one and explain how to prepare for such a career. Discuss with your counselor what education and training are required, and explain why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "9409",
-      "requirements": []
-    },
-    {
-      "id": "10",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "9401",
-      "requirements": [
+      "id": "9408",
+      "label": "8",
+      "content": [
         {
-          "id": "a",
-          "text": "With your parent or guardian's and counselor's permission, assist a qualified archaeologist for at least eight hours with a project being worked on. Projects may include surveying, site monitoring, site stabilization, excavation, laboratory analysis, use of digital archaeological technology, or public outreach. Describe your involvement in the project, what you learned about archaeology, and the steps of archaeological inquiry.  Note: Visiting an archaeological site will require advance planning. An archaeological site during study can be a dangerous place. While there, you will need to closely follow the archaeologist's directions and comply with all the safety procedures. Be aware of the changing conditions at the site.",
-          "internal_parent_id": "9401",
-          "internal_id": "9402",
-          "requirements": []
+          "type": "text",
+          "value": "Research a group of people who lived in your area more than 100 years ago. Find out about their ways of life, including housing, clothing, arts and crafts, tools, trade and markets, rituals and religions, and diets, and their relationships with other groups of people in the area. Describe what you would expect to find at an archaeological site where these people lived. Explain how these people influenced your current community."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "9409",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "9401",
+      "label": "10",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9402",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's and counselor's permission, assist a qualified archaeologist for at least eight hours with a project being worked on. Projects may include surveying, site monitoring, site stabilization, excavation, laboratory analysis, use of digital archaeological technology, or public outreach. Describe your involvement in the project, what you learned about archaeology, and the steps of archaeological inquiry. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Visiting an archaeological site will require advance planning. An archaeological site during study can be a dangerous place. While there, you will need to closely follow the archaeologist's directions and comply with all the safety procedures. Be aware of the changing conditions at the site."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "With your counselor's approval, take part in a simulated archaeological project designed by a qualified archaeologist. The project must include the use of a simulated archaeological site including artifacts and features for the site. Using the steps of archaeological inquiry, analyze the \"artifacts and features\" and document the spatial relationships of the \"artifacts and features\" at the simulated site.  Explain how the environment and time can affect the interpretation of an artifact and the overall archaeological site. Tell how you would share the results of your analysis with other researchers and the public.  Note: To find out how to make a simulated archaeological site, talk with a professional archaeologist, trained avocational archaeologist, museum school instructor, junior high or high school science teacher, advisor from a local archaeology society, or other qualified instructor.",
-          "internal_parent_id": "9401",
-          "internal_id": "9403",
-          "requirements": []
+          "id": "9403",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your counselor's approval, take part in a simulated archaeological project designed by a qualified archaeologist. The project must include the use of a simulated archaeological site including artifacts and features for the site. Using the steps of archaeological inquiry, analyze the artifacts and features and document the spatial relationships of the artifacts and features at the simulated site. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " Explain how the environment and time can affect the interpretation of an artifact and the overall archaeological site. Tell how you would share the results of your analysis with other researchers and the public. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " To find out how to make a simulated archaeological site, talk with a professional archaeologist, trained avocational archaeologist, museum school instructor, science teacher, advisor from a local archaeology society, or other qualified instructor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "11",
-      "text": "Under the supervision of a qualified archaeologist or instructor, do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "9404",
-      "requirements": [
+      "id": "9404",
+      "label": "11",
+      "content": [
         {
-          "id": "a",
-          "text": "Help prepare an archaeological exhibit for display in a museum, visitor center, school, or other public area.",
-          "internal_parent_id": "9404",
-          "internal_id": "9405",
-          "requirements": []
+          "type": "text",
+          "value": "Under the supervision of a qualified archaeologist or instructor, do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "9405",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Help prepare an archaeological exhibit for display in a museum, visitor center, school, or other public area."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Use the methods of experimental archaeology to re-create an item or to practice a skill from the past. Write a brief report explaining the experiment and its results.",
-          "internal_parent_id": "9404",
-          "internal_id": "9406",
-          "requirements": []
+          "id": "9406",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Use the methods of experimental archaeology to re-create an item or to practice a skill from the past. Write a brief report explaining the experiment and its results."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Sample 3 different foods that are naturally 3 different colors . The food must be a protein, vegetable, fruit, dairy, or a grain .",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Sample 3 different foods that are naturally 3 different colors. The food must be a protein, vegetable, fruit, dairy, or a grain."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Sample 3 different foods that are naturally 3 different colors. The food must be a protein, vegetable, fruit, dairy, or a grain.",
       "activities": [
         {
           "name": "Tasting Colors",
@@ -25,6 +34,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Demonstrate the proper way to brush your teeth."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Demonstrate the proper way to brush your teeth.",
       "activities": [
         {
@@ -58,6 +76,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Be active for 30 minutes with your den or at least 1 other person that includes both stretching and moving."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Be active for 30 minutes with your den or at least 1 other person that includes both stretching and moving.",
       "activities": [
         {
@@ -91,6 +118,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Be active for 10 minutes doing personal exercises."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Be active for 10 minutes doing personal exercises.",
       "activities": [
         {
@@ -124,6 +160,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do a relaxing activity for 10 minutes."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Do a relaxing activity for 10 minutes.",
       "activities": [
         {
@@ -148,6 +193,15 @@
     },
     {
       "id": "6",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Review your Scouting America Annual Health and Medical record with your parent or guardian. Discuss your ability to participate in den and pack activities."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Review your Scouting America Annual Health and Medical record with your parent or guardian. Discuss your ability to participate in den and pack activities.",
       "activities": [
         {

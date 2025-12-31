@@ -2,6 +2,7 @@
   "name": "Pets",
   "overview": "Pet ownership is a mixture of fun, excitement, responsibility, commitment, expense, and learning. Besides providing a window into the animal world, owning pets gives us opportunities to participate in activities that strengthen the human-animal bond. Pet ownership teaches us about the responsibility we have to the other living beings on this planet, and pets can be just plain fun.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/pets/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pets.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Pets.pdf",
@@ -11,59 +12,155 @@
   "image_filename": "pets-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pets.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14139",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Present evidence that you have cared for a pet for four months. Get approval before you start.Note: Work done for other merit badges cannot be used for this requirement. Resource:  [Create an Activity Log (video)](https://www.youtube.com/watch?v=uh8tDZj9I_A)",
-      "internal_parent_id": null,
-      "internal_id": "5014",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Write in 200 words or more about the care, feeding, and housing of your pet. Tell some interesting facts about it. Tell why you have this kind of pet. Give local laws, if any, relating to the pet you keep. Resource:  [Understanding Hamsters: Care, Feeding, Housing, and More (video)](https://www.youtube.com/watch?v=Pi_slxuGJUg)",
-      "internal_parent_id": null,
-      "internal_id": "5015",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "Show that you have read a book or pamphlet, approved by your counselor, about your kind of pet. Discuss with your counselor what you have learned from what you read.",
-      "internal_parent_id": null,
-      "internal_id": "5016",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "5010",
-      "requirements": [
+      "id": "15252",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Show your pet in a pet show. Resource: [Cat Agility Course at Cat Fanciers Cat Show (video)](https://www.youtube.com/watch?v=QABTG6FldFE)",
-          "internal_parent_id": "5010",
-          "internal_id": "5011",
-          "requirements": []
+          "type": "text",
+          "value": "Present evidence that you have cared for a pet for four months. Get approval before you start."
         },
         {
-          "id": "b",
-          "text": "Start a friend raising a pet like yours. Help your friend get a good start.",
-          "internal_parent_id": "5010",
-          "internal_id": "5012",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Note:"
+            }
+          ]
         },
         {
-          "id": "c",
-          "text": "Train a pet in three or more tricks or special abilities. Resources:  [Easiest Way to Teach Your Dog to Roll Over (video)](https://www.youtube.com/watch?v=IsJ0VdeOJcg%20)  [Train Your Cat to Do Fun Tricks (video)](https://www.youtube.com/watch?v=oX7vgQTK9fo)  [How I Trained My Cat to Fetch (video)](https://www.youtube.com/watch?v=zrDskEObBs8)",
-          "internal_parent_id": "5010",
-          "internal_id": "5013",
-          "requirements": []
+          "type": "text",
+          "value": " Work done for other merit badges cannot be used for this requirement."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Create an Activity Log (video)",
+          "url": "https://www.youtube.com/watch?v=uh8tDZj9I_A"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "15253",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Write in 200 words or more about the care, feeding, and housing of your pet. Tell some interesting facts about it. Tell why you have this kind of pet. Give local laws, if any, relating to the pet you keep."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Hamsters: Care, Feeding, Housing, and More (video)",
+          "url": "https://www.youtube.com/watch?v=Pi_slxuGJUg"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "15254",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Show that you have read a book or pamphlet, approved by your counselor, about your kind of pet. Discuss with your counselor what you have learned from what you read."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "15248",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15249",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show your pet in a pet show."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Cat Agility Course at Cat Fanciers Cat Show (video)",
+              "url": "https://www.youtube.com/watch?v=QABTG6FldFE"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15250",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Train a pet in three or more tricks or special abilities."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Easiest Way to Teach Your Dog to Roll Over (video)",
+              "url": "https://www.youtube.com/watch?v=IsJ0VdeOJcg%20"
+            },
+            {
+              "title": "Train Your Cat to Do Fun Tricks (video)",
+              "url": "https://www.youtube.com/watch?v=oX7vgQTK9fo"
+            },
+            {
+              "title": "How I Trained My Cat to Fetch (video)",
+              "url": "https://www.youtube.com/watch?v=zrDskEObBs8"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15255",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15256",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15257",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

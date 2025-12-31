@@ -2,6 +2,7 @@
   "name": "Leatherwork",
   "overview": "Scouts who complete the requirements to earn the Leatherwork merit badge will explore leather’s history and its endless uses. They will learn to make a useful leather item using the same types of raw materials that our ancestors used; be challenged to master skills like hand-stitching, lacing, and braiding.; and learn how to preserve and protect leather items so they will last a lifetime and beyond.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/leatherwork/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Leatherwork.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Leatherwork.pdf",
@@ -11,174 +12,446 @@
   "image_filename": "leatherwork-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Leatherwork.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14122",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following: Resource: [Be Prepared (video)](https://youtu.be/p5wSqJO-bIc?si=_-SM0CzDAFnIRrEm)",
-      "internal_parent_id": null,
-      "internal_id": "7229",
-      "requirements": [
+      "id": "7229",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the hazards you are most likely to encounter while using leatherwork tools and materials, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.Resource: [Safety in Leatherwork | Dangers and Health and Safety Tips (video)](https://youtu.be/eDDvWMyOPO8?si=svFeILuCoVTRbjng)",
-          "internal_parent_id": "7229",
-          "internal_id": "7230",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Be Prepared (video)",
+          "url": "https://youtu.be/p5wSqJO-bIc?si=_-SM0CzDAFnIRrEm"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "7230",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the hazards you are most likely to encounter while using leatherwork tools and materials, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Safety in Leatherwork | Dangers and Health and Safety Tips (video)",
+              "url": "https://youtu.be/eDDvWMyOPO8?si=svFeILuCoVTRbjng"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Show that you know first aid for injuries or illnesses that could occur while working with leather, including minor cuts and scratches, puncture wounds, ingested poisoning, and reactions from exposure to chemicals such as dyes, cements, and finishes used in leatherworking.Resources: [First Aid (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Leatherwork/Leatherwork_First%20Aid.pdf) [First Aid for Minor Cuts (website)](https://www.aad.org/public/everyday-care/injured-skin/burns/treat-minor-cuts) [First Aid for Puncture Wounds (website)](https://www.mayoclinic.org/first-aid/first-aid-puncture-wounds/basics/art-20056665)",
-          "internal_parent_id": "7229",
-          "internal_id": "7231",
-          "requirements": []
+          "id": "7231",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show that you know first aid for injuries or illnesses that could occur while working with leather, including minor cuts and scratches, puncture wounds, ingested poisoning, and reactions from exposure to chemicals such as dyes, cements, and finishes used in leatherworking."
+            }
+          ],
+          "resources": [
+            {
+              "title": "First Aid (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Leatherwork/Leatherwork_First%20Aid.pdf"
+            },
+            {
+              "title": "First Aid for Minor Cuts (website)",
+              "url": "https://www.aad.org/public/everyday-care/injured-skin/burns/treat-minor-cuts"
+            },
+            {
+              "title": "First Aid for Puncture Wounds (website)",
+              "url": "https://www.mayoclinic.org/first-aid/first-aid-puncture-wounds/basics/art-20056665"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Explain the following:",
-      "internal_parent_id": null,
-      "internal_id": "7210",
-      "requirements": [
+      "id": "7210",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Where leather comes from Resource: [How is Leather Made? (video)](https://youtu.be/oNTWz7bwolc?si=MTkSYtqnDxvJIgC8)",
-          "internal_parent_id": "7210",
-          "internal_id": "7211",
-          "requirements": []
+          "type": "text",
+          "value": "Explain the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "7211",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Where leather comes from"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How is Leather Made?  (video)",
+              "url": "https://youtu.be/oNTWz7bwolc?si=MTkSYtqnDxvJIgC8"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Kinds of hides that are used to make leather Resources: [Picking the Best Part of the Leather Hide (video)](https://youtu.be/UifaYowyj44?si=mz4_Fm3dsS2IdwDf) [Useful Leather Crafting Charts (website)](https://leatherado.com/pages/useful-leather-craft-charts)",
-          "internal_parent_id": "7210",
-          "internal_id": "7212",
-          "requirements": []
+          "id": "7212",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Kinds of hides that are used to make leather"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Picking the Best Part of the Leather Hide (video)",
+              "url": "https://youtu.be/UifaYowyj44?si=mz4_Fm3dsS2IdwDf"
+            },
+            {
+              "title": "Useful Leather Crafting Charts (website)",
+              "url": "https://leatherado.com/pages/useful-leather-craft-charts"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Five types of leather Resource: [Leather Is Made From Which Animal (video)](https://youtu.be/fCrCwKpBXe4?si=ZosX3COH795k644n)",
-          "internal_parent_id": "7210",
-          "internal_id": "7213",
-          "requirements": []
+          "id": "7213",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Five types of leather"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Leather Is Made From Which Animal (video)",
+              "url": "https://youtu.be/fCrCwKpBXe4?si=ZosX3COH795k644n"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Best uses for each type of leather. Resources: [What Leather Should I Use for Tooling? (video)](https://youtu.be/NNppGlzskQU?si=a3Kf5tP4MR28dcjf) [Choosing the Correct Leather for your Project (video)](https://youtu.be/i9chSW724QI?si=m5PgNOUbjl-obxra)",
-          "internal_parent_id": "7210",
-          "internal_id": "7214",
-          "requirements": []
+          "id": "7214",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Best uses for each type of leather."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What Leather Should I Use for Tooling?  (video)",
+              "url": "https://youtu.be/NNppGlzskQU?si=a3Kf5tP4MR28dcjf"
+            },
+            {
+              "title": "Choosing the Correct Leather for your Project (video)",
+              "url": "https://youtu.be/i9chSW724QI?si=m5PgNOUbjl-obxra"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Make one or more articles of leather that use at least five of the following steps:",
-      "internal_parent_id": null,
-      "internal_id": "7215",
-      "requirements": [
+      "id": "7215",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Pattern layout and transfer Resources: [Transferring Patterns (video)](https://youtu.be/zkA_TImwL7k?si=uy8jlrqb-_nJdl3v) [\"Tap offs\" or Mirrored Image Transfers (video)](https://youtu.be/dIZWhRV43WE?si=hEtWo21YxszT8uoa)",
-          "internal_parent_id": "7215",
-          "internal_id": "7216",
-          "requirements": []
+          "type": "text",
+          "value": "Make one or more articles of leather that use at least five of the following steps:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "7216",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Pattern layout and transfer"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Transferring Patterns (video)",
+              "url": "https://youtu.be/zkA_TImwL7k?si=uy8jlrqb-_nJdl3v"
+            },
+            {
+              "title": "\"Tap offs\" or Mirrored Image Transfers (video)",
+              "url": "https://youtu.be/dIZWhRV43WE?si=hEtWo21YxszT8uoa"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Cutting leather Resource: [Best Practices for Cutting Leather (video)](https://youtu.be/KwamMpHW9Ls?si=8jzWvnYf8rteJcQd)",
-          "internal_parent_id": "7215",
-          "internal_id": "7217",
-          "requirements": []
+          "id": "7217",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Cutting leather"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Best Practices for Cutting Leather (video)",
+              "url": "https://youtu.be/KwamMpHW9Ls?si=8jzWvnYf8rteJcQd"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Punching holes Resources: [How to Use a Rotary Hole Punch (video)](https://youtu.be/lu14WIqvxHw?si=Sf-GEE-qn9xG9Bea) [How to Punch Holes (video)](https://youtu.be/ei1wqcTX3BQ?si=02881vW0BGWC9EzL)",
-          "internal_parent_id": "7215",
-          "internal_id": "7218",
-          "requirements": []
+          "id": "7218",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Punching holes"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Use a Rotary Hole Punch (video)",
+              "url": "https://youtu.be/lu14WIqvxHw?si=Sf-GEE-qn9xG9Bea"
+            },
+            {
+              "title": "How to Punch Holes (video)",
+              "url": "https://youtu.be/ei1wqcTX3BQ?si=02881vW0BGWC9EzL"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Carving or stamping surface designs Resources: [Basic Leather Carving (video)](https://youtu.be/mhYUU3soIac?si=a_KUcxnL_Xz9nSAW) [How to Stamp Leather (video)](https://youtu.be/J-ngZ2h4GPA?si=fW2UlhHrbiek-0ox)",
-          "internal_parent_id": "7215",
-          "internal_id": "7219",
-          "requirements": []
+          "id": "7219",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Carving or stamping surface designs"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Basic Leather Carving (video)",
+              "url": "https://youtu.be/mhYUU3soIac?si=a_KUcxnL_Xz9nSAW"
+            },
+            {
+              "title": "How to Stamp Leather (video)",
+              "url": "https://youtu.be/J-ngZ2h4GPA?si=fW2UlhHrbiek-0ox"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Applying dye or stain and finish to the project Resource: [Basics of Hand Dyeing Leather (video)](https://youtu.be/DJ8s7wH-YCg?si=gTx6mtrkUkl3JUej)",
-          "internal_parent_id": "7215",
-          "internal_id": "7220",
-          "requirements": []
+          "id": "7220",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Applying dye or stain and finish to the project"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Basics of Hand Dyeing Leather (video)",
+              "url": "https://youtu.be/DJ8s7wH-YCg?si=gTx6mtrkUkl3JUej"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Assembly by lacing or stitching Resources: [How to Punch Holes (for Sewing) in Leather (video)](https://youtu.be/GYnXLSGakYA?si=WJoxl-Dto6gmMres) [How to Choose the Right Thread and Needle Size for Hand-Sewing in Leather (video)](https://youtu.be/CepMYy3yra8?si=bpkV8Y0zoef-tBId) [The Most Common Stitches in Hand-Stitching for Leatherwork (video)](https://youtu.be/Hd103-7adK8?si=UnFoIJJ46SNdtwf7) [How to Start and End Hand-Swing Lines in Leather (video)](https://youtu.be/Eew734WXXzs?si=Jkc2U94RGO1eTfpY)",
-          "internal_parent_id": "7215",
-          "internal_id": "7221",
-          "requirements": []
+          "id": "7221",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Assembly by lacing or stitching"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Punch Holes (for Sewing) in Leather (video)",
+              "url": "https://youtu.be/GYnXLSGakYA?si=WJoxl-Dto6gmMres"
+            },
+            {
+              "title": "How to Choose the Right Thread and Needle Size for Hand-Sewing in Leather (video)",
+              "url": "https://youtu.be/CepMYy3yra8?si=bpkV8Y0zoef-tBId"
+            },
+            {
+              "title": "The Most Common Stitches in Hand-Stitching for Leatherwork (video)",
+              "url": "https://youtu.be/Hd103-7adK8?si=UnFoIJJ46SNdtwf7"
+            },
+            {
+              "title": "How to Start and End Hand-Swing Lines in Leather (video)",
+              "url": "https://youtu.be/Eew734WXXzs?si=Jkc2U94RGO1eTfpY"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Setting snaps and rivets Resources: [How to Set Snaps (video)](https://youtu.be/egQHoUw58r4?si=3coK-uKt6ziz5AOM) [How to Remove a Snap (video)](https://youtube.com/shorts/Bb387hzctjA?si=_UNKaVRDZEq2oXed) [How to Set Rivets (video)](https://youtu.be/l0VJgjHJN1c?si=IdbPEWFEAzINzoIm)",
-          "internal_parent_id": "7215",
-          "internal_id": "7222",
-          "requirements": []
+          "id": "7222",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Setting snaps and rivets"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Set Snaps (video)",
+              "url": "https://youtu.be/egQHoUw58r4?si=3coK-uKt6ziz5AOM"
+            },
+            {
+              "title": "How to Remove a Snap (video)",
+              "url": "https://youtube.com/shorts/Bb387hzctjA?si=_UNKaVRDZEq2oXed"
+            },
+            {
+              "title": "How to Set Rivets (video)",
+              "url": "https://youtu.be/l0VJgjHJN1c?si=IdbPEWFEAzINzoIm"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "h",
-          "text": "Dressing edges. Resource: [Edge Finishing Techniques (video)](https://youtu.be/kb8yyG3TO70?si=3neDiHe3jxmRj7UJ)",
-          "internal_parent_id": "7215",
-          "internal_id": "7223",
-          "requirements": []
+          "id": "7223",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "Dressing edges."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Edge Finishing Techniques (video)",
+              "url": "https://youtu.be/kb8yyG3TO70?si=3neDiHe3jxmRj7UJ"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Braid or plait an article out of leather, vinyl lace, or paracord. Resources: [Four Strand Round Braid (video)](https://youtu.be/TtncZNCWpQE?si=Ys_SbWAv__wDYzNU)  [Plaiting: How to Braid Any Number of Cords (video)](https://youtu.be/qjqXAV9lyns?si=1VmEcBuPoFOW1wFh)",
-      "internal_parent_id": null,
-      "internal_id": "7232",
-      "requirements": []
+      "id": "7232",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Braid or plait an article out of leather, vinyl lace, or paracord."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Four Strand Round Braid (video)",
+          "url": "https://youtu.be/TtncZNCWpQE?si=Ys_SbWAv__wDYzNU"
+        },
+        {
+          "title": "Plaiting: How to Braid Any Number of Cords (video)",
+          "url": "https://youtu.be/qjqXAV9lyns?si=1VmEcBuPoFOW1wFh"
+        }
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "7224",
-      "requirements": [
+      "id": "7224",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Learn about the commercial tanning process. Report about it to your counselor. Resource: [How is Leather Made? (video)](https://youtu.be/6Cn7QqdFIxc?si=ocfbQxYR8AA7KPIb)",
-          "internal_parent_id": "7224",
-          "internal_id": "7225",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "7225",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Learn about the commercial tanning process. Report about it to your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How is Leather Made? (video)",
+              "url": "https://youtu.be/6Cn7QqdFIxc?si=ocfbQxYR8AA7KPIb"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Tan the skin of a small animal. Describe the safety precautions you will take and the tanning method that you used. Resource: [How to Tan Animal Hides (Never Destroy Animals for This Purpose) (video)](https://youtu.be/RJNyABFzWPw?si=TqYic4EWmIBT7Zzx)",
-          "internal_parent_id": "7224",
-          "internal_id": "7226",
-          "requirements": []
+          "id": "7226",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tan the skin of a small animal. Describe the safety precautions you will take and the tanning method that you used."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Tan Animal Hides (Never Destroy Animals for This Purpose) (video)",
+              "url": "https://youtu.be/RJNyABFzWPw?si=TqYic4EWmIBT7Zzx"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Recondition or show that you can take proper care of your shoes, a baseball glove, a saddle, furniture, or other articles of leather. Discuss with your counselor the advantages or disadvantages of leather vs. synthetic materials. Resources: [How to Clean & Shine Leather Shoes! (video)](https://youtu.be/MSaNoMNrZxU?si=NLIb7JASM5tkReY9) [How to Care for Your Baseball Glove (video)](https://youtu.be/sNXcHCHK-wI?si=PN2HDyT5eopuOtnZ) [How to Clean a Western Saddle (video)](https://youtu.be/g_oDJhwVKFI?si=RyU4gxTsFrK672hj) [How to Remove Mold and Mildew on Leather (video)](https://youtu.be/2NUr6y3R7Mg?si=6s2_1YHwovPiZQ_S)",
-          "internal_parent_id": "7224",
-          "internal_id": "7227",
-          "requirements": []
+          "id": "7227",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Recondition or show that you can take proper care of your shoes, a baseball glove, a saddle, furniture, or other articles of leather. Discuss with your counselor the advantages or disadvantages of leather vs. synthetic materials."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Clean & Shine Leather Shoes! (video)",
+              "url": "https://youtu.be/MSaNoMNrZxU?si=NLIb7JASM5tkReY9"
+            },
+            {
+              "title": "How to Care for Your Baseball Glove (video)",
+              "url": "https://youtu.be/sNXcHCHK-wI?si=PN2HDyT5eopuOtnZ"
+            },
+            {
+              "title": "How to Clean a Western Saddle (video)",
+              "url": "https://youtu.be/g_oDJhwVKFI?si=RyU4gxTsFrK672hj"
+            },
+            {
+              "title": "How to Remove Mold and Mildew on Leather (video)",
+              "url": "https://youtu.be/2NUr6y3R7Mg?si=6s2_1YHwovPiZQ_S"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Visit a leather-related business. This could be a leathercraft supply company, a tannery, a leather goods or shoe factory, or a saddle shop. Report on your visit to your counselor. Resource: [A Random Walk Through Horween Leather (video)](https://youtu.be/ljq0x4as32U?si=Tu4LneiFjmNgLEn1)",
-          "internal_parent_id": "7224",
-          "internal_id": "7228",
-          "requirements": []
+          "id": "7228",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a leather-related business. This could be a leathercraft supply company, a tannery, a leather goods or shoe factory, or a saddle shop. Report on your visit to your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "A Random Walk Through Horween Leather (video)",
+              "url": "https://youtu.be/ljq0x4as32U?si=Tu4LneiFjmNgLEn1"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     }

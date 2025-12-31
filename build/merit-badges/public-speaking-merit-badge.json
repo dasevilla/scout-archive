@@ -2,6 +2,7 @@
   "name": "Public Speaking",
   "overview": "A lot happens during the course of every person’s life and your ability to communicate your feelings and ideas is the best way to connect to the larger world. Even if you haven’t stood at a podium on the stage and find the whole idea scary, sooner or later, someone is going to ask you to get up and say a few words. If you are prepared, it won’t be scary. It can even be fun.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/public-speaking/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Speaking.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Public-Speaking.pdf",
@@ -11,46 +12,64 @@
   "image_filename": "public-speaking-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Speaking.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14147",
-      "requirements": []
+      "id": "2260",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Give a three- to five-minute introduction of yourself to an audience such as your troop, class at school, or some other group."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "1",
-      "text": "Give a three- to five-minute introduction of yourself to an audience such as your troop, class at school, or some other group.",
-      "internal_parent_id": null,
-      "internal_id": "2260",
-      "requirements": []
+      "id": "2261",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Prepare a three- to five-minute talk on a topic of your choice that incorporates body language and visual aids."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "2",
-      "text": "Prepare a three- to five-minute talk on a topic of your choice that incorporates body language and visual aids.",
-      "internal_parent_id": null,
-      "internal_id": "2261",
-      "requirements": []
+      "id": "2262",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Give an impromptu talk of at least two minutes, either as part of a group discussion or before your counselor. Use a subject selected by your counselor that is interesting to you but that is not known to you in advance and for which you do not have time to prepare."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "3",
-      "text": "Give an impromptu talk of at least two minutes, either as part of a group discussion or before your counselor. Use a subject selected by your counselor that is interesting to you but that is not known to you in advance and for which you do not have time to prepare.",
-      "internal_parent_id": null,
-      "internal_id": "2262",
-      "requirements": []
+      "id": "2263",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Select a topic of interest to your audience. Collect and organize information about the topic and prepare an outline. Write an eight- to 10-minute speech, practice it, then deliver it in a conversational way."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Select a topic of interest to your audience. Collect and organize information about the topic and prepare an outline. Write an eight- to 10-minute speech, practice it, then deliver it in a conversational way.",
-      "internal_parent_id": null,
-      "internal_id": "2263",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "Show you know parliamentary procedure by leading a discussion or meeting according to accepted rules of order; or by answering questions on the rules of order.",
-      "internal_parent_id": null,
-      "internal_id": "2264",
-      "requirements": []
+      "id": "2264",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Show you know parliamentary procedure by leading a discussion or meeting according to accepted rules of order; or by answering questions on the rules of order."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

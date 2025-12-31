@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Visit a place with a variety of wild animals.  Select one of the animals and observe its behavior.  Use your selected animal to complete the remaining requirements.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Visit a place with a variety of wild animals. Select one of the animals and observe its behavior. Use your selected animal to complete the remaining requirements."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Visit a place with a variety of wild animals. Select one of the animals and observe its behavior. Use your selected animal to complete the remaining requirements.",
       "activities": [
         {
           "name": "On the Trail",
@@ -43,6 +52,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Create a model of your animal’s ecosystem."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Create a model of your animal’s ecosystem.",
       "activities": [
         {
@@ -67,7 +85,16 @@
     },
     {
       "id": "3",
-      "text": "Investigate how your animal coexists with other animals  in the wild.",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Investigate how your animal coexists with other animals in the wild."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Investigate how your animal coexists with other animals in the wild.",
       "activities": [
         {
           "name": "Web of Life",
@@ -82,6 +109,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe how humans interact with your chosen animal’s ecosystem."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Describe how humans interact with your chosen animal’s ecosystem.",
       "activities": [
         {
@@ -97,6 +133,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discover how wildlife management benefits your animal."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Discover how wildlife management benefits your animal.",
       "activities": [
         {

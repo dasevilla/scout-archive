@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Examine  the three types of rocks, sedimentary, igneous, and metamorphic.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Examine the three types of rocks, sedimentary, igneous, and metamorphic."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Examine the three types of rocks, sedimentary, igneous, and metamorphic.",
       "activities": [
         {
           "name": "Crayon Rock Formation",
@@ -52,6 +61,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find a rock, safely break it apart and examine it."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Find a rock, safely break it apart and examine it.",
       "activities": [
         {
@@ -76,6 +94,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a mineral test kit and test minerals according to the Mohs scale of mineral hardness. Using the rock cycle chart or one like it, discuss how hardness determines which materials can be used in homes, in landscapes, or for recreation."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Make a mineral test kit and test minerals according to the Mohs scale of mineral hardness. Using the rock cycle chart or one like it, discuss how hardness determines which materials can be used in homes, in landscapes, or for recreation.",
       "activities": [
         {

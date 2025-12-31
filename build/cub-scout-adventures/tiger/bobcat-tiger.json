@@ -10,6 +10,15 @@
   "requirements": [
     {
       "id": "1",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Get to know the members of your den."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Get to know the members of your den.",
       "activities": [
         {
@@ -61,6 +70,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Recite the Scout Oath with your den, including your Tiger adult partner."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Recite the Scout Oath with your den, including your Tiger adult partner.",
       "activities": [
         {
@@ -85,7 +103,16 @@
     },
     {
       "id": "3",
-      "text": "Have your Tiger adult partner or den leader read the Scout Law to you.  Demonstrate your understanding of being trustworthy, helpful, or friendly.",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Have your Tiger adult partner or den leader read the Scout Law to you. Demonstrate your understanding of being trustworthy, helpful, or friendly."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Have your Tiger adult partner or den leader read the Scout Law to you. Demonstrate your understanding of being trustworthy, helpful, or friendly.",
       "activities": [
         {
           "name": "Don’t Wake the Dragon",
@@ -118,7 +145,16 @@
     },
     {
       "id": "4",
-      "text": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake.  Show how each are used.",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake. Show how each are used."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake. Show how each are used.",
       "activities": [
         {
           "name": "If You Are Happy Show the Cub Scout Sign",
@@ -151,6 +187,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Share with your Tiger adult partner, at a den meeting or at home, a time when you have demonstrated the Cub Scout motto “Do Your Best.”"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Share with your Tiger adult partner, at a den meeting or at home, a time when you have demonstrated the Cub Scout motto “Do Your Best.”",
       "activities": [
         {
@@ -175,7 +220,33 @@
     },
     {
       "id": "6",
-      "text": "At home, with your parent or legal guardian do the activities in the booklet “ How to Protect Your Children from Child Abuse: A Parent’s Guide .”",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "At home, with your parent or legal guardian do the activities in the booklet “"
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/training/youth-protection/parents-guides/"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "How to Protect Your Children from Child Abuse: A Parent’s Guide"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": ".”"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "At home, with your parent or legal guardian do the activities in the booklet “[How to Protect Your Children from Child Abuse: A Parent’s Guide](https://www.scouting.org/training/youth-protection/parents-guides/).”",
       "activities": [
         {
           "name": "Child Abuse Protection Review Tiger",

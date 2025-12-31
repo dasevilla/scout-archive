@@ -2,6 +2,7 @@
   "name": "Chemistry",
   "overview": "Chemistry explores how substances react with each other, how they change, how certain forces connect molecules, and how molecules are made are all parts of chemistry. Stretch your imagination to envision molecules that cannot be seen—but can be proven to exist—and you become a chemist.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/chemistry/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Chemistry.pdf",
@@ -11,182 +12,484 @@
   "image_filename": "chemistry-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14068",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following and discuss with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12699",
-      "requirements": [
+      "id": "12699",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Obtain safety data sheets (SDS) for sucrose (sugar), isopropyl alcohol (rubbing alcohol), and a waterproofing spray. Compare their properties and potential hazard(s), including handling and disposal guidelines and toxicity information. Resource: [Safety Data Sheets Training (video)](https://www.youtube.com/watch?v=_yWF-w3CwmU)",
-          "internal_parent_id": "12699",
-          "internal_id": "12700",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Chemistry and Safety."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "What types of personal protective equipment (PPE) are recommended for each, and why? How does the recommended PPE change with toxicity and route of exposure? Resource: [How to Dress in the Lab and the Use of PPE (video)](https://youtu.be/i1D6zpSw_6Q?si=ktvcHSrfviHvAK2z)",
-          "internal_parent_id": "12699",
-          "internal_id": "12701",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following and discuss with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12700",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Obtain safety data sheets (SDS) for sucrose (sugar), isopropyl alcohol (rubbing alcohol), and a waterproofing spray. Compare their properties and potential hazard(s), including handling and disposal guidelines and toxicity information."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Safety Data Sheets Training (video)",
+              "url": "https://www.youtube.com/watch?v=_yWF-w3CwmU"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Review the pictograms in Section 2 of each SDS. What do they mean, and how do you see them used in your community? Resource: [Safety Pictograms in SDS (video)](https://youtube.com/shorts/x_TebXJET0Y?si=Lualg-CYIcshzBxE)",
-          "internal_parent_id": "12699",
-          "internal_id": "12702",
-          "requirements": []
+          "id": "12701",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "What types of personal protective equipment (PPE) are recommended for each, and why? How does the recommended PPE change with toxicity and route of exposure?"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Dress in the Lab and the Use of PPE (video)",
+              "url": "https://youtu.be/i1D6zpSw_6Q?si=ktvcHSrfviHvAK2z"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Discuss the safe storage of chemicals. How does the safe storage of chemicals apply to your home, school, community, and the environment? Resources: [Chemical Storage Safety (video)](https://youtu.be/4GUSQj-xOBY?si=CI7Brkhm2NkXs4Wl) [Store Household Chemicals Safely (video)](https://youtube.com/shorts/9kK3sW1uu9U?si=Nc9ghap1S8ti5wgi)",
-          "internal_parent_id": "12699",
-          "internal_id": "12703",
-          "requirements": []
+          "id": "12702",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Review the pictograms in Section 2 of each SDS. What do they mean, and how do you see them used in your community?"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Safety Pictograms in SDS (video)",
+              "url": "https://youtube.com/shorts/x_TebXJET0Y?si=Lualg-CYIcshzBxE"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12703",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the safe storage of chemicals. How does the safe storage of chemicals apply to your home, school, community, and the environment?"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Chemical Storage Safety (video)",
+              "url": "https://youtu.be/4GUSQj-xOBY?si=CI7Brkhm2NkXs4Wl"
+            },
+            {
+              "title": "Store Household Chemicals Safely (video)",
+              "url": "https://youtube.com/shorts/9kK3sW1uu9U?si=Nc9ghap1S8ti5wgi"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Chemistry and First Aid. After successfully completing requirement 1, do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12704",
-      "requirements": [
+      "id": "12704",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Discuss with your counselor why you think soap and alcohol are used to clean cuts and scrapes. Discuss how you could test your hypotheses with your counselor. Resource: [Soap and Hand Sanitizers vs Viruses and Bacteria (video)](https://www.youtube.com/watch?v=x7KKkElpyKQ)",
-          "internal_parent_id": "12704",
-          "internal_id": "12705",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Chemistry and First Aid."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Coat your hands with a mixture of cooking oil and a nontoxic powder, such as sand or cocoa. Wash your hands with water and observe what happens. Coat your hands again, then wash with soap and water. Discuss the differences with your counselor. Resource: [How Does Soap Work? (video)](https://www.youtube.com/shorts/Jx5BgbIkXEs)",
-          "internal_parent_id": "12704",
-          "internal_id": "12706",
-          "requirements": []
+          "type": "text",
+          "value": " After successfully completing requirement 1, do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12705",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor why you think soap and alcohol are used to clean cuts and scrapes. Discuss how you could test your hypotheses with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Soap and Hand Sanitizers vs Viruses and Bacteria (video)",
+              "url": "https://www.youtube.com/watch?v=x7KKkElpyKQ"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Perform an experiment to demonstrate how rubbing alcohol affects microbial growth using baker's yeast. Discuss the results with your counselor. Resource: [Watching How Alcohol Kills Viruses and Bacteria Under a Microscope (video)](https://www.youtube.com/shorts/Jx5BgbIkXEs)",
-          "internal_parent_id": "12704",
-          "internal_id": "12707",
-          "requirements": []
+          "id": "12706",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Coat your hands with a mixture of cooking oil and a nontoxic powder, such as sand or cocoa. Wash your hands with water and observe what happens. Coat your hands again, then wash with soap and water. Discuss the differences with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How Does Soap Work? (video)",
+              "url": "https://www.youtube.com/shorts/Jx5BgbIkXEs"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12707",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Perform an experiment to demonstrate how rubbing alcohol affects microbial growth using baker's yeast. Discuss the results with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Watching How Alcohol Kills Viruses and Bacteria Under a Microscope (video)",
+              "url": "https://www.youtube.com/shorts/Jx5BgbIkXEs"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Chemistry and Cooking. After successfully completing requirement 1, do EACH of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12724",
-      "requirements": [
+      "id": "12724",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Perform a Maillard, or browning, reaction. Discuss with your counselor whether a physical or chemical change has occurred, and what happened to molecules in the food during the cooking process. Resources: [The Maillard Reaction (video)](https://youtu.be/rs1JLYXROVU) [Why Pizza Tastes So Good (video)](https://youtu.be/tOkCgAwhh9U) [Understanding the Maillard Reaction (video)](https://www.youtube.com/watch?v=5lKzZc_OO7U)",
-          "internal_parent_id": "12724",
-          "internal_id": "12726",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Chemistry and Cooking."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Prepare and use red cabbage indicator to measure the pH of five common household liquids, including water. Discuss your observations with your counselor. Resources: [Why Is Red Cabbage a pH Indicator (video)](https://youtu.be/4AElaDIhMyA?si=Xy70e7RL3auxEy8F) [pH Indicator Made From Red Cabbage (video)](https://youtu.be/hPcRylO4lQM?si=tMGhB4e9QtPvN3Xx) [Red Cabbage Indicator Infographic (website)](https://www.compoundchem.com/2017/05/18/red-cabbage/)",
-          "internal_parent_id": "12724",
-          "internal_id": "12727",
-          "requirements": []
+          "type": "text",
+          "value": " After successfully completing requirement 1, do EACH of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12726",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Perform a Maillard, or browning, reaction. Discuss with your counselor whether a physical or chemical change has occurred, and what happened to molecules in the food during the cooking process."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The Maillard Reaction (video)",
+              "url": "https://youtu.be/rs1JLYXROVU"
+            },
+            {
+              "title": "Why Pizza Tastes So Good (video)",
+              "url": "https://youtu.be/tOkCgAwhh9U"
+            },
+            {
+              "title": "Understanding the Maillard Reaction (video)",
+              "url": "https://www.youtube.com/watch?v=5lKzZc_OO7U"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12727",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Prepare and use red cabbage indicator to measure the pH of five common household liquids, including water. Discuss your observations with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Why Is Red Cabbage a pH Indicator (video)",
+              "url": "https://youtu.be/4AElaDIhMyA?si=Xy70e7RL3auxEy8F"
+            },
+            {
+              "title": "pH Indicator Made From Red Cabbage (video)",
+              "url": "https://youtu.be/hPcRylO4lQM?si=tMGhB4e9QtPvN3Xx"
+            },
+            {
+              "title": "Red Cabbage Indicator Infographic (website)",
+              "url": "https://www.compoundchem.com/2017/05/18/red-cabbage/"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Chemistry and Camping. After successfully completing requirement 1, do TWO of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12708",
-      "requirements": [
+      "id": "12708",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Design and conduct an experiment to compare at least two different types of waterproofing. Discuss with your counselor which one you would prefer to use on your tent and which one you would prefer to use on your boots, and why. Resources: [Transforming Paper into a Waterproof Marvel (video)](https://www.youtube.com/shorts/s3fDbnfolCM) [Waterproofing Fabrics (video)](https://youtu.be/y83uXupu5tY) [Waterproofing Tent Seams (video)](https://youtu.be/UlHfbltn6hI)",
-          "internal_parent_id": "12708",
-          "internal_id": "12709",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Chemistry and Camping."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe the four classes of fires, and the four classes of fire extinguishers. Discuss with your counselor how sand, baking soda, and the four classes of extinguishers work to put out fires. Resources: [Four Classes of Fires (video)](https://www.youtube.com/watch?v=B8PrA_AOa6w) [Four Types of Fires (video)](https://www.youtube.com/watch?v=Epa_2mCi4lw)",
-          "internal_parent_id": "12708",
-          "internal_id": "12710",
-          "requirements": []
+          "type": "text",
+          "value": " After successfully completing requirement 1, do TWO of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12709",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Design and conduct an experiment to compare at least two different types of waterproofing. Discuss with your counselor which one you would prefer to use on your tent and which one you would prefer to use on your boots, and why."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Transforming Paper into a Waterproof Marvel (video)",
+              "url": "https://www.youtube.com/shorts/s3fDbnfolCM"
+            },
+            {
+              "title": "Waterproofing Fabrics (video)",
+              "url": "https://youtu.be/y83uXupu5tY"
+            },
+            {
+              "title": "Waterproofing Tent Seams (video)",
+              "url": "https://youtu.be/UlHfbltn6hI"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Under your counselor's supervision and/or the supervision of a knowledgeable adult approved in advance by your counselor, conduct flame tests of at least five elements using a kitchen or propane torch. Resource: [Metal Flame Test (video)](https://www.youtube.com/watch?v=7hC-KyFraCQ)",
-          "internal_parent_id": "12708",
-          "internal_id": "12711",
-          "requirements": []
+          "id": "12710",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the four classes of fires, and the four classes of fire extinguishers. Discuss with your counselor how sand, baking soda, and the four classes of extinguishers work to put out fires."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Four Classes of Fires (video)",
+              "url": "https://www.youtube.com/watch?v=B8PrA_AOa6w"
+            },
+            {
+              "title": "Four Types of Fires (video)",
+              "url": "https://www.youtube.com/watch?v=Epa_2mCi4lw"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Under your counselor's supervision and/or the supervision of a knowledgeable adult approved in advance by your counselor, synthesize nylon (may be from a kit). Resource: [Making Nylon (video)](https://www.youtube.com/watch?v=NQpTQFGKRN8)",
-          "internal_parent_id": "12708",
-          "internal_id": "12728",
-          "requirements": []
+          "id": "12711",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Under your counselor's supervision and/or the supervision of a knowledgeable adult approved in advance by your counselor, conduct flame tests of at least five elements using a kitchen or propane torch."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Metal Flame Test (video)",
+              "url": "https://www.youtube.com/watch?v=7hC-KyFraCQ"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12728",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Under your counselor's supervision and/or the supervision of a knowledgeable adult approved in advance by your counselor, synthesize nylon (may be from a kit)."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Making Nylon (video)",
+              "url": "https://www.youtube.com/watch?v=NQpTQFGKRN8"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Describe how chemistry can be used to reduce the environmental impacts of single-use items, such as water bottles, bags, straws, or batteries. Resources:  [Upcycling Plastic Bags Into Battery Parts (video)](https://youtu.be/0maMpqRcmpc?si=UrAlTaUPdiVmzjfK)  [What Is Sustainable Development (video)](https://youtu.be/m-5UD9xpa6o?feature=shared)  [Edible, Biodegradable Food Packaging (video)](https://youtu.be/wt32GgQGTcI?si=kWEnOpNvegPFNKRg)",
-      "internal_parent_id": null,
-      "internal_id": "12725",
-      "requirements": []
-    },
-    {
-      "id": "6",
-      "text": "Identify five fields of chemistry. Briefly describe each, tell how each applies to your life and how they interact. Resource:  [Areas of Chemistry - American Chemical Society (website)](https://www.acs.org/careers/chemical-sciences/areas.html)",
-      "internal_parent_id": null,
-      "internal_id": "12712",
-      "requirements": []
-    },
-    {
-      "id": "7",
-      "text": "Identify three government agencies that oversee or provide guidance on the use of chemicals for personal, pharmaceutical, commercial, or industrial use, and discuss the agencies' history and responsibilities with your counselor. Resources:  [Why Does the FDA Exist? (video)](https://youtu.be/DmYX23j5rnQ?si=O16gv-2M6VzHE5N1)  [The EPA Was Formed | Today in History (video)](https://youtu.be/cvM54p1CQeA?si=Cn6qlMYp9NcalK5W)  [Preventing HAZMAT Accidents: DOT Safety Rules Explained 🧪 (video)](https://youtu.be/T0xn38nYSig?si=MCKBwz8JCPPjOdGt)  [Chemistry of a Killer: Inside a DEA Drug Lab (video)](https://youtu.be/MATaoXb924o?si=wi2SAv4bm-He7g2D)",
-      "internal_parent_id": null,
-      "internal_id": "12719",
-      "requirements": []
-    },
-    {
-      "id": "8",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12729",
-      "requirements": [
+      "id": "12725",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Visit a research laboratory, and discuss the research performed there with a chemist or chemical technician. Learn what education and training they received.",
-          "internal_parent_id": "12729",
-          "internal_id": "12730",
-          "requirements": []
+          "type": "text",
+          "value": "Describe how chemistry can be used to reduce the environmental impacts of single-use items, such as water bottles, bags, straws, or batteries."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Upcycling Plastic Bags Into Battery Parts (video)",
+          "url": "https://youtu.be/0maMpqRcmpc?si=UrAlTaUPdiVmzjfK"
         },
         {
-          "id": "b",
-          "text": "Visit a company or plant that makes chemical products or uses chemical processes. Learn about their products or processes, and talk with someone who works there. Learn what they do, and what education and training they received.",
-          "internal_parent_id": "12729",
-          "internal_id": "12731",
-          "requirements": []
+          "title": "What Is Sustainable Development (video)",
+          "url": "https://youtu.be/m-5UD9xpa6o?feature=shared"
         },
         {
-          "id": "c",
-          "text": "Identify three career opportunities that would use skills and knowledge in chemistry. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Resources: [What do Chemical Engineers Do? (video)](https://youtu.be/k-7B_YfHWXQ?si=IzIXY1zQaloFTLhM) [Interactive Site for Chemical Careers (website)](https://www.acs.org/careers/chemical-sciences.html) [Careers in Science and Engineering (video)](https://youtu.be/L7GAx9b8HAQ?si=N6v5La0u1Mp5iSER)",
-          "internal_parent_id": "12729",
-          "internal_id": "12732",
-          "requirements": []
+          "title": "Edible, Biodegradable Food Packaging (video)",
+          "url": "https://youtu.be/wt32GgQGTcI?si=kWEnOpNvegPFNKRg"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "12712",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify five fields of chemistry. Briefly describe each, tell how each applies to your life and how they interact."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Areas of Chemistry - American Chemical Society (website)",
+          "url": "https://www.acs.org/careers/chemical-sciences/areas.html"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "12719",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify three government agencies that oversee or provide guidance on the use of chemicals for personal, pharmaceutical, commercial, or industrial use, and discuss the agencies' history and responsibilities with your counselor."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Why Does the FDA Exist? (video)",
+          "url": "https://youtu.be/DmYX23j5rnQ?si=O16gv-2M6VzHE5N1"
+        },
+        {
+          "title": "The EPA Was Formed | Today in History (video)",
+          "url": "https://youtu.be/cvM54p1CQeA?si=Cn6qlMYp9NcalK5W"
+        },
+        {
+          "title": "Preventing HAZMAT Accidents: DOT Safety Rules Explained 🧪 (video)",
+          "url": "https://youtu.be/T0xn38nYSig?si=MCKBwz8JCPPjOdGt"
+        },
+        {
+          "title": "Chemistry of a Killer: Inside a DEA Drug Lab (video)",
+          "url": "https://youtu.be/MATaoXb924o?si=wi2SAv4bm-He7g2D"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "12729",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12730",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a research laboratory, and discuss the research performed there with a chemist or chemical technician. Learn what education and training they received."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12731",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a company or plant that makes chemical products or uses chemical processes. Learn about their products or processes, and talk with someone who works there. Learn what they do, and what education and training they received."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12732",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge in chemistry. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What do Chemical Engineers Do? (video)",
+              "url": "https://youtu.be/k-7B_YfHWXQ?si=IzIXY1zQaloFTLhM"
+            },
+            {
+              "title": "Interactive Site for Chemical Careers (website)",
+              "url": "https://www.acs.org/careers/chemical-sciences.html"
+            },
+            {
+              "title": "Careers in Science and Engineering (video)",
+              "url": "https://youtu.be/L7GAx9b8HAQ?si=N6v5La0u1Mp5iSER"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     }

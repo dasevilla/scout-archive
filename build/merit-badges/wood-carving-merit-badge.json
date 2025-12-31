@@ -2,6 +2,7 @@
   "name": "Wood Carving",
   "overview": "As with any art, wood carving involves learning the basics of design, along with material selection and tools and techniques, as well as wood-carving safety. The requirements of the Wood Carving merit badge introduce Scouts to an enjoyable hobby and that can become a lifetime activity.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/wood-carving/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Wood-Carving.pdf",
@@ -11,134 +12,232 @@
   "image_filename": "wood-carving-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14185",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5967",
-      "requirements": [
+      "id": "5967",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the hazards you are most likely to encounter while wood carving, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.",
-          "internal_parent_id": "5967",
-          "internal_id": "5968",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5968",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the hazards you are most likely to encounter while wood carving, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Show that you know first aid for injuries that could occur while wood carving, including minor cuts and scratches and splinters.",
-          "internal_parent_id": "5967",
-          "internal_id": "5969",
-          "requirements": []
+          "id": "5969",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show that you know first aid for injuries that could occur while wood carving, including minor cuts and scratches and splinters."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5956",
-      "requirements": [
+      "id": "5956",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Earn the Totin' Chip recognition.",
-          "internal_parent_id": "5956",
-          "internal_id": "5957",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5957",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Earn the Totin' Chip recognition."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Discuss with your counselor your understanding of the Safety Checklist for Carving.",
-          "internal_parent_id": "5956",
-          "internal_id": "5958",
-          "requirements": []
+          "id": "5958",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor your understanding of the Safety Checklist for Carving."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Safety Checklist for Carving (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wood%20Carving/WoodcarvingChecklist.pdf"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5959",
-      "requirements": [
+      "id": "5959",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor, orally or in writing, the care and use of five types of tools that you may use in a carving project.",
-          "internal_parent_id": "5959",
-          "internal_id": "5960",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5960",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor, orally or in writing, the care and use of five types of tools that you may use in a carving project."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Tell your counselor how to care for and use several types of sharpening devices, then demonstrate that you know how to use these devices.",
-          "internal_parent_id": "5959",
-          "internal_id": "5961",
-          "requirements": []
+          "id": "5961",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell your counselor how to care for and use several types of sharpening devices, then demonstrate that you know how to use these devices."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Using a piece of scrap wood or a project on which you are working, show your counselor that you know how to do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5962",
-      "requirements": [
+      "id": "5962",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Paring cut",
-          "internal_parent_id": "5962",
-          "internal_id": "5963",
-          "requirements": []
+          "type": "text",
+          "value": "Using a piece of scrap wood or a project on which you are working, show your counselor that you know how to do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5963",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Paring cut"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Basic cut and Push cut",
-          "internal_parent_id": "5962",
-          "internal_id": "5964",
-          "requirements": []
+          "id": "5964",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Basic cut and push cut"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "\"V\" cut",
-          "internal_parent_id": "5962",
-          "internal_id": "5965",
-          "requirements": []
+          "id": "5965",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "\"V\" cut"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Stop cut or score line",
-          "internal_parent_id": "5962",
-          "internal_id": "5966",
-          "requirements": []
+          "id": "5966",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Stop cut or score line"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Tell why different woods are used for different projects. Explain why you chose the type of wood you did for your projects in requirements 6 and 7.",
-      "internal_parent_id": null,
-      "internal_id": "5970",
-      "requirements": []
+      "id": "5970",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tell why different woods are used for different projects. Explain why you chose the type of wood you did for your projects in requirements 6 and 7."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "6",
-      "text": "Plan your own or select a project from the Wood Carving merit badge pamphlet and complete a simple carving in the round.",
-      "internal_parent_id": null,
-      "internal_id": "5971",
-      "requirements": []
+      "id": "5971",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Plan your own or select a project from the "
+        },
+        {
+          "type": "element",
+          "tag": "em",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Wood Carving"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " merit badge pamphlet and complete a simple carving in the round."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "7",
-      "text": "Complete a simple low-relief OR a chip carving project.",
-      "internal_parent_id": null,
-      "internal_id": "5972",
-      "requirements": []
+      "id": "5972",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Complete a simple low-relief OR a chip carving project."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

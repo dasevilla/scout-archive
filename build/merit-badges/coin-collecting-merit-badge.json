@@ -2,6 +2,7 @@
   "name": "Coin Collecting",
   "overview": "Coin collecting is one of the oldest of all hobbies. Hoards of ancient coins found in excavations indicate that coins were one of the first collectibles. From earliest times, people valued coins not only as a means of trading and storing wealth, but also as miniature works of art.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/coin-collecting/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Coin%20Collecting.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Coin-Collecting.pdf",
@@ -11,159 +12,256 @@
   "image_filename": "coin-collecting-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Coin%20Collecting.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14075",
-      "requirements": []
+      "id": "12821",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Understand how coins are made and where the active U.S. Mint facilities are located."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "1",
-      "text": "Understand how coins are made and where the active U.S. Mint facilities  are located.",
-      "internal_parent_id": null,
-      "internal_id": "12821",
-      "requirements": []
+      "id": "12822",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the following terms: obverse, reverse, reeding, clad, type set, and date set."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "2",
-      "text": "Explain the following terms: obverse, reverse, reeding, clad, type set, and date set.",
-      "internal_parent_id": null,
-      "internal_id": "12822",
-      "requirements": []
+      "id": "12829",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe three different ways to store a collection, and the benefits, drawbacks, and cost of each method."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "3",
-      "text": "Describe three different ways to store a collection, and the benefits, drawbacks, and cost of each method.",
-      "internal_parent_id": null,
-      "internal_id": "12829",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Do the following and explain to your counselor the design features, designer name, designer initials, and where to find them for each item:",
-      "internal_parent_id": null,
-      "internal_id": "12805",
-      "requirements": [
+      "id": "12805",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Collect a one-cent coin from the year group: 1959-2008 (that is, dated between 1959 and 2008) and a one-cent coin from the year group 2010-present. Explain how and why the one-cent coins issued in 2009 were different from either of the other two year groups.",
-          "internal_parent_id": "12805",
-          "internal_id": "12806",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following and explain to your counselor the design features, designer name, designer initials, and where to find them for each item:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12806",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect a one-cent coin from the year group: 1959-2008 (that is, dated between 1959 and 2008) and a one-cent coin from the year group 2010-present. Explain how and why the one-cent coins issued in 2009 were different from either of the other two year groups."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Collect two five-cent coins, one from each of these year groups: 1959-2003 and 2006-present. Explain how and why the five-cent coins issued in 2004-2005 were different from either of the other two year groups.",
-          "internal_parent_id": "12805",
-          "internal_id": "12807",
-          "requirements": []
+          "id": "12807",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect two five-cent coins, one from each of these year groups: 1959-2003 and 2006-present. Explain how and why the five-cent coins issued in 2004-2005 were different from either of the other two year groups."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Collect a ten-cent coin from 1965-present.",
-          "internal_parent_id": "12805",
-          "internal_id": "12808",
-          "requirements": []
+          "id": "12808",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect a ten-cent coin from 1965-present."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Collect a twenty-five-cent coin from 1965-1998, two examples from the 50-State Quarter® /territories Program 1999-2009, two designs from the America the Beautiful® program 2012-2021 and two designs from the American Woman Quarter® program (2022-2024). Explain the purpose of each of those programs.",
-          "internal_parent_id": "12805",
-          "internal_id": "12809",
-          "requirements": []
+          "id": "12809",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect a twenty-five-cent coin from 1965-1998, two examples from the 50-State Quarter® /territories Program 1999-2009, two designs from the America the Beautiful® program 2010-2021 and two designs from the American Woman Quarter® program (2022-2024). Explain the purpose of each of those programs."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Collect a half dollar coin from 1965-present.",
-          "internal_parent_id": "12805",
-          "internal_id": "12810",
-          "requirements": []
+          "id": "12810",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect a half dollar coin from 1965-present."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Collect a dollar coin from the following design groups: Susan B. Anthony 1979-81, Sacagawea 1990-2005, U.S. Presidents 2000-2014.",
-          "internal_parent_id": "12805",
-          "internal_id": "12811",
-          "requirements": []
+          "id": "12811",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect a dollar coin from the following design groups: Susan B. Anthony 1979-1981, 1999, Sacagawea 1990-2005, U.S. Presidents 2007-2016, 2020."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Describe and discuss with your counselor the special reverse designs of the quarters, half dollar and dollar coin struck in 1975-1976 to honor the U.S. Bicentennial.",
-      "internal_parent_id": null,
-      "internal_id": "12830",
-      "requirements": []
+      "id": "12830",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe and discuss with your counselor the special reverse designs of the quarters, half dollar and dollar coin struck in 1975-1976 to honor the U.S. Bicentennial."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "6",
-      "text": "Identify for your counselor the people depicted on current currency: $1, $2, $5, $10, $20, $50, and $100 notes. Explain where United States currency is printed.",
-      "internal_parent_id": null,
-      "internal_id": "12831",
-      "requirements": []
+      "id": "12831",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify for your counselor the people depicted on current currency: $1, $2, $5, $10, $20, $50, and $100 notes. Explain where United States currency is printed."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "7",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12812",
-      "requirements": [
+      "id": "12812",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Collect and identify for your counselor 20 different world coins from at least seven different countries. Identify the country, major design elements, and denomination of each.",
-          "internal_parent_id": "12812",
-          "internal_id": "12818",
-          "requirements": []
-        },
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "b",
-          "text": "Collect and identify for your counselor 20 different world paper money from at least 7 different countries. Identify the country, major design elements, and denomination of each.",
-          "internal_parent_id": "12812",
-          "internal_id": "12819",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Collect and identify for your counselor 20 different tokens and/or medals. Identify the issuer and use of each.",
-          "internal_parent_id": "12812",
-          "internal_id": "12820",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Complete one of the following and report to your counselor what you experienced:",
-          "internal_parent_id": "12812",
-          "internal_id": "12813",
-          "requirements": [
+          "id": "12818",
+          "label": "a",
+          "content": [
             {
-              "id": "1",
-              "text": "Attend a coin show.",
-              "internal_parent_id": "12813",
-              "internal_id": "12814",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Attend a coin club meeting.",
-              "internal_parent_id": "12813",
-              "internal_id": "12815",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Tour a U.S. Mint facility or museum.",
-              "internal_parent_id": "12813",
-              "internal_id": "12816",
-              "requirements": []
-            },
-            {
-              "id": "4",
-              "text": "Tour a virtual exhibit (with your parent or guardian's permission) approved by your counselor.",
-              "internal_parent_id": "12813",
-              "internal_id": "12817",
-              "requirements": []
+              "type": "text",
+              "value": "Collect and identify for your counselor 20 different world coins from at least seven different countries. Identify the country, major design elements, and denomination of each."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12819",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect and identify for your counselor 20 different world paper money from at least 7 different countries. Identify the country, major design elements, and denomination of each."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12820",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect and identify for your counselor 20 different tokens and/or medals. Identify the issuer and use of each."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12813",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Complete one of the following and report to your counselor what you experienced:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12814",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Attend a coin show."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12815",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Attend a coin club meeting."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12816",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tour a U.S. Mint facility or museum."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12817",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tour a virtual exhibit (with your parent or guardian's permission) approved by your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

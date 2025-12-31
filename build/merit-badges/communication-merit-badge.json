@@ -2,6 +2,7 @@
   "name": "Communication",
   "overview": "This clear and concise definition comes from the U.S. Department of Education: “Communication focuses on how people use messages to generate meanings within and across various contexts, cultures, channels, and media. The field of communication promotes the effective and ethical practice of human communication.”",
   "is_eagle_required": true,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/communication/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Communication.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Communication.pdf",
@@ -11,140 +12,244 @@
   "image_filename": "communication-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Communication.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14077",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "4799",
-      "requirements": [
+      "id": "4799",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "For one day, keep a log in which you describe your communication activities. Keep track of the time and different ways you spend communicating, such as talking person-to-person, listening to teachers, listening to the radio or podcasts, watching television, using social media, reading books and other print media, and using any electronic communication device. Discuss with your counselor what your log reveals about the importance of communication in your life. Think of ways to improve your communication skills.",
-          "internal_parent_id": "4799",
-          "internal_id": "4800",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "4800",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "For one day, keep a log in which you describe your communication activities. Keep track of the time and different ways you spend communicating, such as talking person-to-person, listening to teachers, listening to the radio or podcasts, watching television, using social media, reading books and other print media, and using any electronic communication device. Discuss with your counselor what your log reveals about the importance of communication in your life. Think of ways to improve your communication skills."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "For three days, keep a journal of your listening experiences. Identify one example of each of the following, and discuss with your counselor when you have listened to:  - Obtain information. - Be persuaded. - Appreciate or enjoy something. - Understand someone's feelings.",
-          "internal_parent_id": "4799",
-          "internal_id": "4801",
-          "requirements": []
+          "id": "4801",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "For three days, keep a journal of your listening experiences. Identify one example of each of the following, and discuss with your counselor when you have listened to each: obtain information, be persuaded, appreciate or enjoy something, and understand someone's feelings."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "In a small-group setting, meet with other Scouts or with friends. Have them share personal stories about significant events in their lives that affected them in some way. Take note of how each Scout participates in the group discussion and how effectively each Scout communicates their story. Report what you have learned to your counselor about the differences you observed in effective communication.",
-          "internal_parent_id": "4799",
-          "internal_id": "4802",
-          "requirements": []
+          "id": "4802",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "In a small-group setting, meet with other Scouts or with friends. Have them share personal stories about significant events in their lives that affected them in some way. Take note of how each Scout participates in the group discussion and how effectively each Scout communicates their story. Report what you have learned to your counselor about the differences you observed in effective communication."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "List as many ways as you can think of to communicate with others (face-to-face, by telephone, letter, email, text messages, social media, and so on). For each type of communication, discuss with your counselor an instance when that method might not be appropriate or effective.",
-          "internal_parent_id": "4799",
-          "internal_id": "4803",
-          "requirements": []
+          "id": "4803",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "List as many ways as you can think of to communicate with others (face-to-face, by telephone, letter, email, text messages, social media, and so on). For each type of communication, discuss with your counselor an instance when that method might not be appropriate or effective."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "4804",
-      "requirements": [
+      "id": "4804",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Think of a creative way to describe yourself using, for example, a collage, short story or autobiography, drawing or series of photographs, or a song or skit. Using the aid you created, make a presentation to your counselor about yourself.",
-          "internal_parent_id": "4804",
-          "internal_id": "4805",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "4805",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Think of a creative way to describe yourself using, for example, a collage, short story or autobiography, drawing or series of photographs, or a song or skit. Using the aid you created, make a presentation to your counselor about yourself."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Choose a concept, product, or service in which you have great confidence. Build a sales plan based on its good points. Try to persuade the counselor to agree with, use, or buy your concept, product or service. After your sales talk, discuss with your counselor how persuasive you were.",
-          "internal_parent_id": "4804",
-          "internal_id": "4806",
-          "requirements": []
+          "id": "4806",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Choose a concept, product, or service in which you have great confidence. Build a sales plan based on its good points. Try to persuade the counselor to agree with, use, or buy your concept, product or service. After your sales talk, discuss with your counselor how persuasive you were."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Write a five-minute speech. Give it at a meeting of a group.",
-      "internal_parent_id": null,
-      "internal_id": "4811",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Interview someone you know fairly well, like, or respect because of his or her position, talent, career, or life experiences. Listen actively to learn as much as you can about the person. Then prepare and deliver to your counselor an introduction of the person as though this person were to be a guest speaker, and include reasons why the audience would want to hear this person speak. Show how you would call to invite this person to speak.",
-      "internal_parent_id": null,
-      "internal_id": "4812",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "Attend a public meeting (city council, school board, debate) approved by your counselor where several points of view are given on a single issue. Practice active listening skills and take careful notes of each point of view. Prepare an objective report that includes all points of view that were expressed, and share this with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "4813",
-      "requirements": []
-    },
-    {
-      "id": "6",
-      "text": "With your counselor's approval, develop a plan to teach a skill or inform someone about something. Prepare teaching aids for your plan. Carry out your plan. With your counselor, determine whether the person has learned what you intended.",
-      "internal_parent_id": null,
-      "internal_id": "4814",
-      "requirements": []
-    },
-    {
-      "id": "7",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "4807",
-      "requirements": [
+      "id": "4811",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Write to the editor of a magazine or your local newspaper to express your opinion or share information on any subject you choose. Send your message by fax, email, or regular mail.",
-          "internal_parent_id": "4807",
-          "internal_id": "4808",
-          "requirements": []
+          "type": "text",
+          "value": "Write a five-minute speech. Give it at a meeting of a group."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "4812",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Interview someone you know fairly well, like, or respect because of his or her position, talent, career, or life experiences. Listen actively to learn as much as you can about the person. Then prepare and deliver to your counselor an introduction of the person as though this person were to be a guest speaker, and include reasons why the audience would want to hear this person speak. Show how you would call to invite this person to speak."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "4813",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Attend a public meeting (city council, school board, debate) approved by your counselor where several points of view are given on a single issue. Practice active listening skills and take careful notes of each point of view. Prepare an objective report that includes all points of view that were expressed, and share this with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "4814",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your counselor's approval, develop a plan to teach a skill or inform someone about something. Prepare teaching aids for your plan. Carry out your plan. With your counselor, determine whether the person has learned what you intended."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "4807",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "4808",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Write to the editor of a magazine or your local newspaper to express your opinion or share information on any subject you choose. Send your message by fax, email, or regular mail."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Create a web page or blog of special interest to you (for instance, your troop or crew, a hobby, or a sport). Include at least three articles or entries and one photograph or illustration, and one link to some other web page or blog that would be helpful to someone who visits the web page or blog you have created.Note: It is not necessary to post your web page or blog to the internet, but if you decide to do so, you must first share it with your parent or guardian and counselor and get their permission.",
-          "internal_parent_id": "4807",
-          "internal_id": "4809",
-          "requirements": []
+          "id": "4809",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a webpage or blog of special interest to you (for instance, your troop or crew, a hobby, or a sport). Include at least three articles or entries and one photograph or illustration, and one link to some other webpage or blog that would be helpful to someone who visits the webpage or blog you have created."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " It is not necessary to post your webpage or blog to the internet, but if you decide to do so, you must first share it with your parent or guardian and counselor and get their permission."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Use desktop publishing to produce a newsletter, brochure, flyer, or other printed material for your troop or crew, class at school, or other group. Include at least one article and one photograph or illustration.",
-          "internal_parent_id": "4807",
-          "internal_id": "4810",
-          "requirements": []
+          "id": "4810",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Use desktop publishing to produce a newsletter, brochure, flyer, or other printed material for your troop or crew, class at school, or other group. Include at least one article and one photograph or illustration."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Plan a troop or crew court of honor, campfire program, or an interfaith worship service. Have the patrol leaders' council approve it, then write the script and prepare the program. Serve as master of ceremonies.",
-      "internal_parent_id": null,
-      "internal_id": "4815",
-      "requirements": []
+      "id": "4815",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Plan a troop or crew court of honor, campfire program, or an interfaith worship service. Have the patrol leaders' council approve it, then write the script and prepare the program. Serve as master of ceremonies."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "9",
-      "text": "Find out about three career opportunities in communication. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "4816",
-      "requirements": []
+      "id": "4816",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find out about three career opportunities in communication. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

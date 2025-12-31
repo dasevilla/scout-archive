@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Think about something that you would like to build.  Draw a picture of what the final project should look like.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Think about something that you would like to build. Draw a picture of what the final project should look like."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Think about something that you would like to build. Draw a picture of what the final project should look like.",
       "activities": [
         {
           "name": "My Project Plan Drawing",
@@ -25,6 +34,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Using your drawing as a guide, build the project."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Using your drawing as a guide, build the project.",
       "activities": [
         {
@@ -49,7 +67,16 @@
     },
     {
       "id": "3",
-      "text": "When completed, discuss with your Tiger adult partner what could be done to improve  your project.",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "When completed, discuss with your Tiger adult partner what could be done to improve your project."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "When completed, discuss with your Tiger adult partner what could be done to improve your project.",
       "activities": [
         {
           "name": "Room For Improvement",
@@ -64,6 +91,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make the improvement to your project."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Make the improvement to your project.",
       "activities": [
         {
@@ -79,6 +115,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a drawing of your final project."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Make a drawing of your final project.",
       "activities": [
         {

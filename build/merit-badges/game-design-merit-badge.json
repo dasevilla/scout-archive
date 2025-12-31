@@ -2,6 +2,7 @@
   "name": "Game Design",
   "overview": "Games come in almost every shape, size, format, and flavor imaginable. Games can be fast-paced, slow, or anything in between. Some are competitive. Some are cooperative. They may be for individuals, small groups, or thousands of players at a time. They might take seconds to complete or last for years. However you slice it, everyone has played games, and games help make us who we are.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/game-design/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Game%20Design.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Game-Design.pdf",
@@ -11,197 +12,347 @@
   "image_filename": "game-design-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Game%20Design.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14104",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13091",
-      "requirements": [
+      "id": "13091",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Analyze four games you have played, each from a different medium. Identify the medium, player format, objectives, rules, resources, and theme (if relevant). Discuss with your counselor the play experience, what you enjoy in each game, and what you dislike. Make a chart to compare and contrast the games.",
-          "internal_parent_id": "13091",
-          "internal_id": "13092",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13092",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Analyze four games you have played, each from a different medium. Identify the medium, player format, objectives, rules, resources, and theme (if relevant). Discuss with your counselor the play experience, what you enjoy in each game, and what you dislike. Make a chart to compare and contrast the games."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe four types of play value and provide an example of a game built around each concept. Discuss with your counselor other reasons people play games.",
-          "internal_parent_id": "13091",
-          "internal_id": "13093",
-          "requirements": []
+          "id": "13093",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe four types of play value and provide an example of a game built around each concept. Discuss with your counselor other reasons people play games."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Discuss with your counselor FIVE of the following 17 game design terms. For each term that you pick, describe how it relates to a specific game: story, setting, characters, play sequence, level design, interface design, difficulty, balance, depth, pace, replay value, age appropriateness, single-player vs. multiplayer, cooperative vs. competitive, turn-based vs. real-time, strategy vs. reflex vs. chance, or abstract vs. thematic.",
-      "internal_parent_id": null,
-      "internal_id": "13116",
-      "requirements": []
+      "id": "13116",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss with your counselor FIVE of the following 17 game design terms. For each term that you pick, describe how it relates to a specific game: story, setting, characters, play sequence, level design, interface design, difficulty, balance, depth, pace, replay value, age appropriateness, single-player vs. multiplayer, cooperative vs. competitive, turn-based vs. real-time, strategy vs. reflex vs. chance, or abstract vs. thematic."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "3",
-      "text": "Define the term  intellectual property. Describe the types of intellectual property associated with the game design industry. Describe how intellectual property is protected and why protection is necessary. Define and give an example of a licensed property.",
-      "internal_parent_id": null,
-      "internal_id": "13117",
-      "requirements": []
+      "id": "13117",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Define the term intellectual property. Describe the types of intellectual property associated with the game design industry. Describe how intellectual property is protected and why protection is necessary. Define and give an example of a licensed property."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13094",
-      "requirements": [
+      "id": "13094",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Pick a game where the players can change the rules or objectives (examples: basketball, hearts, chess, kickball). Briefly summarize the standard rules and objectives and play through the game normally.",
-          "internal_parent_id": "13094",
-          "internal_id": "13095",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13095",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Pick a game where the players can change the rules or objectives (examples: basketball, hearts, chess, kickball). Briefly summarize the standard rules and objectives and play through the game normally."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Propose changes to several rules or objectives. Predict how each change will affect gameplay.",
-          "internal_parent_id": "13094",
-          "internal_id": "13096",
-          "requirements": []
+          "id": "13096",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Propose changes to several rules or objectives. Predict how each change will affect gameplay."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Play the game with one rule or objective change, observing how the players' actions and emotional experiences are affected by the rule change. Repeat this process with two other changes.",
-          "internal_parent_id": "13094",
-          "internal_id": "13097",
-          "requirements": []
+          "id": "13097",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Play the game with one rule or objective change, observing how the players' actions and emotional experiences are affected by the rule change. Repeat this process with two other changes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain to your counselor how the changes affected the actions and experience of the players. Discuss the accuracy of your predictions.",
-          "internal_parent_id": "13094",
-          "internal_id": "13098",
-          "requirements": []
+          "id": "13098",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor how the changes affected the actions and experience of the players. Discuss the accuracy of your predictions."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Design a new game. Any game medium or combination of mediums is acceptable. Record your work in a game design notebook.",
-      "internal_parent_id": null,
-      "internal_id": "13099",
-      "requirements": [
+      "id": "13099",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Write a vision statement for your game. Identify the medium, player format, objectives, and theme of the game. If suitable, describe the setting, story, and characters.",
-          "internal_parent_id": "13099",
-          "internal_id": "13100",
-          "requirements": []
+          "type": "text",
+          "value": "Design a new game. Any game medium or combination of mediums is acceptable. Record your work in a game design notebook."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13100",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Write a vision statement for your game. Identify the medium, player format, objectives, and theme of the game. If suitable, describe the setting, story, and characters."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe the reason that someone would want to play your game.",
-          "internal_parent_id": "13099",
-          "internal_id": "13101",
-          "requirements": []
+          "id": "13101",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the reason that someone would want to play your game."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Make a preliminary list of the rules of the game. Define the resources.",
-          "internal_parent_id": "13099",
-          "internal_id": "13102",
-          "requirements": []
+          "id": "13102",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a preliminary list of the rules of the game. Define the resources."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Draw the game elements.",
-          "internal_parent_id": "13099",
-          "internal_id": "13103",
-          "requirements": []
+          "id": "13103",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Draw the game elements."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Do the following: Note: You must have your counselor's approval of your concept before you begin creating the prototype.",
-      "internal_parent_id": null,
-      "internal_id": "13105",
-      "requirements": [
+      "id": "13105",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Prototype your game from requirement 5. If applicable, demonstrate to your counselor that you have addressed player safety through the rules and equipment. Record your work in your game design notebook.",
-          "internal_parent_id": "13105",
-          "internal_id": "13106",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following: "
         },
         {
-          "id": "b",
-          "text": "Test your prototype with as many other people as you need to meet the player format. Compare the play experience to your descriptions from requirement 5(b). Correct unclear rules, holes in the rules, dead ends, and obvious rule exploits. Change at least one rule, mechanic, or objective from your first version of the game, and describe why you are making the change. Play the game again. Record in your game design notebook whether or not your change had the expected effect.",
-          "internal_parent_id": "13105",
-          "internal_id": "13107",
-          "requirements": []
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
         },
         {
-          "id": "c",
-          "text": "Repeat 6(b) at least two more times and record the results in your game design notebook.",
-          "internal_parent_id": "13105",
-          "internal_id": "13108",
-          "requirements": []
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Note:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " You must have your counselor's approval of your concept before you begin creating the prototype."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13106",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Prototype your game from requirement 5. If applicable, demonstrate to your counselor that you have addressed player safety through the rules and equipment. Record your work in your game design notebook."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13107",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Test your prototype with as many other people as you need to meet the player format. Compare the play experience to your descriptions from requirement 5(b). Correct unclear rules, holes in the rules, dead ends, and obvious rule exploits. Change at least one rule, mechanic, or objective from your first version of the game, and describe why you are making the change. Play the game again. Record in your game design notebook whether or not your change had the expected effect."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13108",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Repeat 6(b) at least two more times and record the results in your game design notebook."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Blind test your game. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13109",
-      "requirements": [
+      "id": "13109",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Write an instruction sheet that includes all of the information needed to play the game. Clearly describe how to set up the game, play the game, and end the game. List the game objectives.",
-          "internal_parent_id": "13109",
-          "internal_id": "13110",
-          "requirements": []
+          "type": "text",
+          "value": "Blind test your game. Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13110",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Write an instruction sheet that includes all of the information needed to play the game. Clearly describe how to set up the game, play the game, and end the game. List the game objectives."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Share your prototype from requirement 6 with a group of players that has not played it or witnessed a previous playtest. Provide them with your instruction sheet(s) and any physical components. Watch them play the game, but do not provide them with instruction. Record their feedback in your game design notebook.",
-          "internal_parent_id": "13109",
-          "internal_id": "13111",
-          "requirements": []
+          "id": "13111",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Share your prototype from requirement 6 with a group of players that has not played it or witnessed a previous playtest. Provide them with your instruction sheet(s) and any physical components. Watch them play the game, but do not provide them with instruction. Record their feedback in your game design notebook."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Share your game design notebook with your counselor. Discuss the player reactions to your project and what you learned about the game design process. Based on your testing, determine what you like most about your game and suggest one or more changes.",
-          "internal_parent_id": "13109",
-          "internal_id": "13112",
-          "requirements": []
+          "id": "13112",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Share your game design notebook with your counselor. Discuss the player reactions to your project and what you learned about the game design process. Based on your testing, determine what you like most about your game and suggest one or more changes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "13113",
-      "requirements": [
+      "id": "13113",
+      "label": "8",
+      "content": [
         {
-          "id": "a",
-          "text": "With your parent or guardian's permission and your counselor's approval, visit with a professional in the game development industry and ask them about their job and how it fits into the overall development process.",
-          "internal_parent_id": "13113",
-          "internal_id": "13114",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13114",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's permission and your counselor's approval, visit with a professional in the game development industry and ask them about their job and how it fits into the overall development process."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Meet with a professional in game development education and discuss the skills they emphasize in the classroom.",
-          "internal_parent_id": "13113",
-          "internal_id": "13115",
-          "requirements": []
+          "id": "13115",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Meet with a professional in game development education and discuss the skills they emphasize in the classroom."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

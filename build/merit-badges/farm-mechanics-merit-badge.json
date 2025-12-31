@@ -2,6 +2,7 @@
   "name": "Farm Mechanics",
   "overview": "From the mattock and hoe to the horse and mule, the cotton gin and reaper, the tractor and air seeder—this is the story of farm equipment. Today, most farms are mechanized and farmers can do most of their own maintenance work and make the adjustments needed on their many intricate farm implements.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/farm-mechanics/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Farm%20Mechanics.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Farm-Mechanics.pdf",
@@ -11,184 +12,297 @@
   "image_filename": "farm-mechanics-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Farm%20Mechanics.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14096",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "1432",
-      "requirements": [
+      "id": "1432",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Discuss with your counselor the safety equipment, tools, and clothing used while checking or repairing farm equipment. Use this equipment, tools, and/or clothing (when needed or called for) in meeting the requirements for this merit badge.",
-          "internal_parent_id": "1432",
-          "internal_id": "1433",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "1433",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor the safety equipment, tools, and clothing used while checking or repairing farm equipment. Use this equipment, tools, and/or clothing (when needed or called for) in meeting the requirements for this merit badge."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Draw a plan showing a well-equipped farm shop. Point out the shop's mandatory safety devices and features.",
-          "internal_parent_id": "1432",
-          "internal_id": "1434",
-          "requirements": []
+          "id": "1434",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Draw a plan showing a well-equipped farm shop. Point out the shop's mandatory safety devices and features."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Find all the universal warning and safety symbols on a piece of equipment and explain what they mean.",
-          "internal_parent_id": "1432",
-          "internal_id": "1435",
-          "requirements": []
+          "id": "1435",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Find all the universal warning and safety symbols on a piece of equipment and explain what they mean."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Describe what a safety data sheet (SDS) is and tell why it is used. Obtain the SDS for any engine coolant, oil, grease, fuel, hydraulic or transmission fluid, or other flammable or hazardous materials you use in meeting the requirements for this merit badge.",
-          "internal_parent_id": "1432",
-          "internal_id": "1436",
-          "requirements": []
+          "id": "1436",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe what a safety data sheet (SDS) is and tell why it is used. Obtain the SDS for any engine coolant, oil, grease, fuel, hydraulic or transmission fluid, or other flammable or hazardous materials you use in meeting the requirements for this merit badge."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Explain how power is produced or transferred in a:",
-      "internal_parent_id": null,
-      "internal_id": "1437",
-      "requirements": [
+      "id": "1437",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Diesel engine",
-          "internal_parent_id": "1437",
-          "internal_id": "1438",
-          "requirements": []
+          "type": "text",
+          "value": "Explain how power is produced or transferred in a:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "1438",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Diesel engine"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Hydraulic system",
-          "internal_parent_id": "1437",
-          "internal_id": "1439",
-          "requirements": []
+          "id": "1439",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Hydraulic system"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Transmission or any other power system.",
-          "internal_parent_id": "1437",
-          "internal_id": "1440",
-          "requirements": []
+          "id": "1440",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Transmission or any other power system."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Do TWO of the following:",
-      "internal_parent_id": null,
-      "internal_id": "1441",
-      "requirements": [
+      "id": "1441",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Replace the handle of any tool found on the farm.",
-          "internal_parent_id": "1441",
-          "internal_id": "1442",
-          "requirements": []
+          "type": "text",
+          "value": "Do TWO of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "1442",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Replace the handle of any tool found on the farm."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Organize a tool rack or a storage system for nails, bolts, nuts, and washers.",
-          "internal_parent_id": "1441",
-          "internal_id": "1443",
-          "requirements": []
+          "id": "1443",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Organize a tool rack or a storage system for nails, bolts, nuts, and washers."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Using a hand file, properly dress the mushroomed head of a chisel or punch.",
-          "internal_parent_id": "1441",
-          "internal_id": "1444",
-          "requirements": []
+          "id": "1444",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a hand file, properly dress the mushroomed head of a chisel or punch."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Using a hand file, correctly dress a screwdriver tip.",
-          "internal_parent_id": "1441",
-          "internal_id": "1445",
-          "requirements": []
+          "id": "1445",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a hand file, correctly dress a screwdriver tip."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "1446",
-      "requirements": [
+      "id": "1446",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "On an engine-powered machine: Grease all fittings, change the oil and oil filter, clean the air filter, clean the radiator fins, and replace the fuel filters.",
-          "internal_parent_id": "1446",
-          "internal_id": "1447",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "1447",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "On an engine-powered machine: Grease all fittings, change the oil and oil filter, clean the air filter, clean the radiator fins, and replace the fuel filters."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "For any engine-powered machine, create a preoperational checklist; include checking the engine coolant, engine oil, hydraulic and/or transmission fluid, and battery voltage (using a voltmeter). Using your checklist, conduct a preoperational check of that machinery or equipment.",
-          "internal_parent_id": "1446",
-          "internal_id": "1448",
-          "requirements": []
+          "id": "1448",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "For any engine-powered machine, create a preoperational checklist; include checking the engine coolant, engine oil, hydraulic and/or transmission fluid, and battery voltage (using a voltmeter). Using your checklist, conduct a preoperational check of that machinery or equipment."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Prepare any farm machine for winter storage.",
-          "internal_parent_id": "1446",
-          "internal_id": "1449",
-          "requirements": []
+          "id": "1449",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Prepare any farm machine for winter storage."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Visit an implement dealer. Interview the dealer technician or service manager for hints on good preventive maintenance. Ask why it is important, the costs, and what causes wear or damage. Report what you learn.",
-      "internal_parent_id": null,
-      "internal_id": "1450",
-      "requirements": []
+      "id": "1450",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Visit an implement dealer. Interview the dealer technician or service manager for hints on good preventive maintenance. Ask why it is important, the costs, and what causes wear or damage. Report what you learn."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "6",
-      "text": "Explain each step in ONE of the following maintenance procedures:",
-      "internal_parent_id": null,
-      "internal_id": "1451",
-      "requirements": [
+      "id": "1451",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Tightening hydraulic fittings.",
-          "internal_parent_id": "1451",
-          "internal_id": "1452",
-          "requirements": []
+          "type": "text",
+          "value": "Explain each step in ONE of the following maintenance procedures:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "1452",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tightening hydraulic fittings."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Checking the air filter.",
-          "internal_parent_id": "1451",
-          "internal_id": "1453",
-          "requirements": []
+          "id": "1453",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Checking the air filter."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Cleaning a work piece with a wire-brush wheel.",
-          "internal_parent_id": "1451",
-          "internal_id": "1454",
-          "requirements": []
+          "id": "1454",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Cleaning a work piece with a wire-brush wheel."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Find out about three career opportunities in farm mechanics. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "1455",
-      "requirements": []
+      "id": "1455",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find out about three career opportunities in farm mechanics. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

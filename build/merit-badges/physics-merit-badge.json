@@ -1,0 +1,1464 @@
+{
+  "name": "Physics",
+  "overview": "",
+  "is_eagle_required": false,
+  "is_lab": true,
+  "url": "https://www.scouting.org/skills/merit-badges/test-lab/physics/",
+  "pdf_url": "",
+  "workbook_pdf_url": null,
+  "workbook_docx_url": null,
+  "shop_url": null,
+  "image_url": "https://www.scouting.org/wp-content/uploads/2025/08/PhysicsMB_TestLab.png",
+  "image_filename": "physics-merit-badge.jpg",
+  "requirements": [
+    {
+      "id": "1",
+      "label": "1",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Safety."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Before conducting any experiments, explain to your counselor the safety precautions and personal protective equipment necessary for working with physics-related equipment."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Video: Safely Using Materials & Equipment in Physics Experiments",
+          "url": "https://youtu.be/u7epizT6jFg?si=m_0X5hm7DzD6PN93"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "What is Physics?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Define physics in your own words and discuss with your counselor various areas of physics."
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Physics?",
+          "url": "https://youtu.be/yWMKYID5fr8?si=Uh2jwfzvFxTLu66d"
+        },
+        {
+          "title": "Why study physics?",
+          "url": "https://www.aps.org/careers/advice/why-study-physics"
+        },
+        {
+          "title": "The Map of Physics",
+          "url": "https://youtu.be/ZihywtixUYo?si=hriOTCEfDbK6sleG"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Fundamentals of Physics."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Explain these key physics concepts: force, motion, energy, and waves. Provide real-world examples demonstrating each principle."
+        }
+      ],
+      "resources": [
+        {
+          "title": "All physics explained in 15 minutes (worth remembering)",
+          "url": "https://youtu.be/TTHazQeM8v8?si=Aoz4C2lMhivngyDW"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Hands-On Experimentation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Conduct THREE  physics experiments, selecting from the following options. Each experiment must include: a hypothesis, materials used, safety precautions, observations, and conclusions based on results. Explain how each experiment demonstrates key physics principles. For each experiment, be sure to try variations/variables to test your hypothesis."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option A: Newton’s Laws in Action: Balloon-Powered Car."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Make and test a balloon-powered car to show how force and motion interact."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Science Max | How to Make a Balloon Powered Car | Science Experiments",
+              "url": "https://youtu.be/SaKkjiIVccc?si=TGtbgJ1f2aw7TlN-"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option B: Momentum: Stacked Ball Drop."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Drop different-sized stacked balls to show momentum."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Stacked Ball Drop",
+              "url": "https://youtu.be/2UHS883_P60?si=fU401fa8NRzZaxZ9"
+            },
+            {
+              "title": "Tennis ball + Basketball momentum // Homemade Science with Bruce Yeany",
+              "url": "https://youtu.be/yhTz_6NFmV0?si=BcG21aMUoFaqrzm9"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option C: Centrifugal Force."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Make spinning toys to demonstrate centrifugal force."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Centrifugal spinning toys //. Homemade science",
+              "url": "https://youtu.be/GDN38voYPNc?si=PfdgIWsJmJZcM-ni"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option D: Centripetal Force."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Swing a water bucket or tray filled with water glasses to demonstrate centripetal force."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Centripetal swinging tray,  improving an old demonstration",
+              "url": "https://youtu.be/MTKUEMI2Rgo?si=99Sd4YhG4_Tmym7B"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option E: Balance."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Explore center of gravity, inertia, and harmonic motion using a Tweety Bopper."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Balancing toy physics….Tweety Boppers,  Inertia, Center of gravity, Harmonic motion",
+              "url": "https://youtu.be/h_gGHAsG6Pg?si=pUm5qk_6ByywRZk6"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option F: Visualize Sound."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Visualize Chladni patterns using a tonoscope."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Making your own Tonoscope: Visualising Vibrations at Home",
+              "url": "https://youtu.be/P5WAlKx8QJE?si=3PoxaKgxPDzNq6fq"
+            },
+            {
+              "title": "Sound Visualizer & Chladni Patterns  Formed on a Plastic Bucket // Homemade Science with Bruce Yeany",
+              "url": "https://youtu.be/eskZ3OORfYM?si=jKTAz7sWlQvakwo2"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option G: Cartesian Diver."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Demonstrate buoyancy and the ideal gas law with Cartesian divers."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Physics of toys-Big Cartesian divers-part 2 // Homemade Science with Bruce Yeany",
+              "url": "https://youtu.be/xRhRvI5gDjQ?si=nvM7N5w1852oZDtv"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option H: Air Pressure: Bernoulli’s principle and the Coandă Effect."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Balance different objects in a stream of air."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to float a ping pong ball on air – The Coandă Effect",
+              "url": "https://youtu.be/kR2Oi3XCX18?si=AbKgR6D0VIdOgoYk"
+            },
+            {
+              "title": "Ball in a funnel experiment..Bernoulli’s principle and the Coanda effect",
+              "url": "https://youtu.be/tFjOUaB6uvE?si=aEqkrS1tnsLVn498"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option I: Electromagnet."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Make an electromagnet and explore how to increase its strength."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The Sci Guys: Science at Home – SE2 – EP8: Homemade Electromagnet",
+              "url": "https://youtu.be/xVKIiCYTsmQ?si=ac6T5eHEZ4XTXpjy"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Physics All Around You."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Discuss with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "a",
+          "label": null,
+          "content": [
+            {
+              "type": "text",
+              "value": "(a)"
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Physics in Everyday Life."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Describe FIVE ways physics is applied in daily life, such as in transportation, sports, or household appliances. "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/XHouBbIlz6I?si=FRLe3mtXj8nv_UO1"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The Role of Physics in Everyday Life: Shocking Truths Revealed!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "b",
+          "label": null,
+          "content": [
+            {
+              "type": "text",
+              "value": "(b) "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Physics in Space Exploration."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Describe how physics is used in space travel, satellite technology, or planetary exploration. "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/mMyZGv_bwTg?si=0Yub7QM5_PPvShUU"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The Rocket-Less Future of Space Travel | What the Physics?! | NOVA | PBS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/YSh_S2bHrHE?si=6lDxQmdupKqemKpa"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Why Don’t Satellites Fall Out of the Sky?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtube.com/shorts/WQyNQNhAfyg?si=YhFxkQdSkklw7knC"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Future of Space Travel by Dr Michio Kaku #spaceexploration – YouTube"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " (c) "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Physics in the Environment."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Explain how physics contributes to renewable energy, climate science, or environmental conservation. "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/MhEGS1zsApo?si=t5tp6G-F4qSM5Yq2"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Renewable Energy Resources: Part 1 | GCSE Physics | Doodle Science"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/9W6S3FA-C6U?si=93dAWglNrroCKhvu"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Renewable Energy Resources: Part 2 | GCSE Physics | Doodle Science"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/lrPS2HiYVp8?si=1pkiIfaiGIz92u-H"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How does the climate system work?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " (d)"
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Physics in Scouting."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Explain how physics is found in Scouting, such as knot tying, fire building, cooking, or pioneering. "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/WXVItJnZiWc?si=B_Mem9Rfw_gYjrv2"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Why Knots? Knot Theory in Three Minutes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/tMDKeBaLWDw?si=UeB_b-ZE8k1oInj_"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "What Is Fire?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/ji2UdtHQlzk?si=sZgu9YPqWh4Gt-Y0"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Have you ever wondered why smoke follows you around a camp fire? #camping #physics #fire"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/9RepBTXCiqQ?si=726q-e4EJBOhQAdK"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The Physics of Cooking"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://scoutsvictoria.com.au/media/6052/program-da-vinci-bridges.pdf"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "STEM Program Da Vinci Bridges (PDF)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "The Future of Physics."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Physicists try to explain the universe and apply these concepts to novel technologies. Discuss one option with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option A: Unsolved Mysteries of Physics."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Discuss the following with your counselor:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
+            {
+              "id": "a",
+              "label": "a",
+              "content": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dark Matter & Dark Energy."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Scientists know it exists—but what is it?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Dark Matter vs. Dark Energy | How the Universe Works | Science Channel",
+                  "url": "https://youtu.be/x344JiX8BCE?si=nS8xzD4lCnCE3ESq"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "b",
+              "label": "b",
+              "content": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Black Holes & Wormholes."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Can we harness their energy or travel through them?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Neil deGrasse Tyson Explains Wormholes and Black holes",
+                  "url": "https://youtu.be/PtA7O3AOCPU?si=kSqVYL3n6MBf2K3M"
+                }
+              ],
+              "sub_requirements": []
+            }
+          ]
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option B: Quantum Mechanics & Computing."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Discuss the following with your counselor:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
+            {
+              "id": "a",
+              "label": "a",
+              "content": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Quantum Computers."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " How can super fast computers be made of atoms instead of microchips?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Quantum Computers Explained: How Quantum Computing Works",
+                  "url": "https://youtu.be/B3U1NDUiwSA?si=1ccrKBUmY9fYEscC"
+                },
+                {
+                  "title": "Michio Kaku: Quantum computing is the next revolution",
+                  "url": "https://youtu.be/qQviI1d_hFA?si=A0O6YwbKEBFfk3-O"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "b",
+              "label": "b",
+              "content": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Quantum Entanglement."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Can we communicate instantly across space?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Quantum Entanglement: Explained in REALLY SIMPLE Words",
+                  "url": "https://youtu.be/fkAAbXPEAtU?si=rSEwbp-ZDgYuiWMQ"
+                }
+              ],
+              "sub_requirements": []
+            }
+          ]
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option C: Space Exploration & Astrophysics."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Discuss the following with your counselor:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
+            {
+              "id": "a",
+              "label": "a",
+              "content": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Colonizing Mars."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " How can physics help humans live on other planets?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Could we actually live on Mars? – Mari Foroutan",
+                  "url": "https://youtu.be/DMMPYkRrd4o?si=nvYJvMZ9S4iwn9Vv"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "b",
+              "label": "b",
+              "content": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Interstellar Travel."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Can we reach other stars with warp drives or solar sails?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Spaceships pushed by LIGHT – the future of space travel?",
+                  "url": "https://youtu.be/oIuvIDhcs8E?si=Jxy1I1Uv0UhO5YQL"
+                },
+                {
+                  "title": "Warp Drive Progress: NASA Moves Us Toward Faster-Than-Light Travel",
+                  "url": "https://youtu.be/wC38DvKPJtk?si=H34zH5_X-S4sMR-b"
+                }
+              ],
+              "sub_requirements": []
+            }
+          ]
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option D: Advanced Theories & Future Discoveries."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Discuss the following with your counselor:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
+            {
+              "id": "a",
+              "label": "a",
+              "content": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Time Travel."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Is it possible under extreme conditions?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Time Travel: Is It Possible? | Space’s Deepest Secrets | Science Channel",
+                  "url": "https://youtu.be/G4kWQk94TeI?si=7se4JsEN09wVlFmq"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "b",
+              "label": "b",
+              "content": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Artificial Gravity."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Can we create Earth-like gravity in space stations?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Can We Create Artificial Gravity?",
+                  "url": "https://youtu.be/im-JM0f_J7s?si=Jk3zOPJM92iiIPY0"
+                }
+              ],
+              "sub_requirements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Engineering and Physics Challenge."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Solve a simple engineering problem using physics-based reasoning. Define the problem, allowable materials, and safety constraints. You may enlist friends or family in completing your challenge. All plans must be approved in advance by your counselor. Do ONE of the following options:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Rube Goldberg: The father of inventions",
+          "url": "https://youtu.be/40AO2RdEixs?si=d1n23pkStmyjhj2k"
+        },
+        {
+          "title": "https://www.rubegoldberg.org/",
+          "url": "https://www.rubegoldberg.org/"
+        },
+        {
+          "title": "How To Make Any Rube Goldberg Machine Using These 6 Simples Machines? Zach Contraptions",
+          "url": "https://youtu.be/CBLZUGgvqiE?si=1a8sc-3SVQFv1U4M"
+        },
+        {
+          "title": "Revealing My 5 Step Formula to Build A Rube Goldberg Machine Quickly",
+          "url": "https://youtu.be/HjWEgbslJ0M?si=jfsNnY7w6NrGqqrx"
+        },
+        {
+          "title": "Egg drop activity////Homemade Science with Bruce Yeany",
+          "url": "https://youtu.be/tQssL9MbHF0?si=ZuouVAT0FCHwe9yl"
+        },
+        {
+          "title": "The Sci Guys: Science at Home – SE1 – EP18: Water Bottle Rockets",
+          "url": "https://youtu.be/ii6D1R6lXVA?si=Ls0ZaRp5aj_G9h1j"
+        },
+        {
+          "title": "Newton’s Laws of Motion | Water Bottle Rockets",
+          "url": "https://youtu.be/35lWVD5TtH0?si=Fh260-ZgNSeDcsvf"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option A: Fastest Pinewood Derby Car."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Build pinewood derby cars using physics principles to get the fastest time on the track."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Use Science to Build the Fastest Pinewood Derby Car",
+              "url": "https://scoutlife.org/hobbies-projects/projects/138909/use-science-to-make-a-fast-pinewood-derby-car/"
+            },
+            {
+              "title": "The Science of Making the Fastest Pinewood Derby",
+              "url": "https://youtu.be/a5A6SCE0eVw?si=elXC1X3pI1ImMPIC"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option B: Rube Goldberg Machine."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Build a machine using household materials to perform a simple task. You can use examples of tasks from the annual Rube Goldberg competition, or you can create your own task:"
+            }
+          ],
+          "resources": [
+            {
+              "title": "https://s3.amazonaws.com/www.rubegoldberg.org/documents/49239.jpg",
+              "url": "https://s3.amazonaws.com/www.rubegoldberg.org/documents/49239.jpg"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option C: Egg Drop Challenge."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Explore the physics of energy and momentum by building a structure using household materials to prevent an egg from breaking when dropped from a significant height. The location of the egg drop must be approved by your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option D: Water Bottle Rockets."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Explore propulsion and Newton’s Third Law. The challenge is to land an air pressured rocket, using water as a propellant, exactly at a specific distance (for example, 70 m) from launch point, three times, with extra points for flight duration."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option E: Design your Own Physics Challenge."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Create a physics challenge with your counselor’s approval."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Careers"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "a",
+          "label": null,
+          "content": [
+            {
+              "type": "text",
+              "value": "(a) Explore careers related to this badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career. "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://www.aps.org/careers/options"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Career Options for Physicists"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/G60ujS-w3Ek?si=Q15XvwiwAc6B2cXz"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "10 Best Entry Level Jobs for Physics Majors"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " (b) Explore how you could use knowledge and skills from this badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this. "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://www.iloveit.net/passion/physics-as-a-passion-and-hobby/"
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Physics as a Passion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://hobbyknowhow.com/hobbies-related-to-science/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "9 Hobbies Related to Science"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Complete the survey below to complete the test lab requirements"
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    }
+  ]
+}

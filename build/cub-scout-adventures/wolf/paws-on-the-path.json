@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Identify the Cub Scout Six Essentials.  Show what you do with each item.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify the Cub Scout Six Essentials. Show what you do with each item."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
       "activities": [
         {
           "name": "Cub Scout Six Essentials Clue",
@@ -43,6 +52,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn about the buddy system and how it works in the outdoors. Pick a buddy for your walk."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Learn about the buddy system and how it works in the outdoors. Pick a buddy for your walk.",
       "activities": [
         {
@@ -76,7 +94,16 @@
     },
     {
       "id": "3",
-      "text": "Identify appropriate clothes and shoes for your walk outside.  Do your best to wear them on your walk.",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify appropriate clothes and shoes for your walk outside. Do your best to wear them on your walk."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Identify appropriate clothes and shoes for your walk outside. Do your best to wear them on your walk.",
       "activities": [
         {
           "name": "Clothing Store Visit",
@@ -109,6 +136,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn about the Outdoor Code and Leave No Trace Principle for Kids."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Learn about the Outdoor Code and Leave No Trace Principle for Kids.",
       "activities": [
         {
@@ -142,6 +178,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your den, pack, or family, take a walk outside for at least 30 minutes to explore nature in your surroundings. Describe four different animals, domestic or wild, that you could see on your walk."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "With your den, pack, or family, take a walk outside for at least 30 minutes to explore nature in your surroundings. Describe four different animals, domestic or wild, that you could see on your walk.",
       "activities": [
         {

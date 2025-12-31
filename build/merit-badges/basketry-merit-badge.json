@@ -2,6 +2,7 @@
   "name": "Basketry",
   "overview": "Basketry is a handy skill for a Scout. A basket can be a sturdy companion on campouts, carrying clothes snugly and efficiently, holding potatoes and corn for roasting over a campfire, or carrying the day’s fishing catch back to camp for dinner. Baskets and basket-weaving projects also make great gifts for family and friends.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/basketry/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Basketry.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Basketry.pdf",
@@ -11,82 +12,125 @@
   "image_filename": "basketry-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Basketry.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14063",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5831",
-      "requirements": [
+      "id": "5831",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the hazards you are most likely to encounter while using basketry tools and materials, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
-          "internal_parent_id": "5831",
-          "internal_id": "5832",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5832",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the hazards you are most likely to encounter while using basketry tools and materials, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Discuss the prevention of and first-aid treatment for injuries, including cuts, scratches, and scrapes, that could occur while working with basketry tools and materials.",
-          "internal_parent_id": "5831",
-          "internal_id": "5833",
-          "requirements": []
+          "id": "5833",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the prevention of and first-aid treatment for injuries, including cuts, scratches, and scrapes, that could occur while working with basketry tools and materials."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5824",
-      "requirements": [
+      "id": "5824",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Show your counselor that you are able to identify the following types of baskets: plaited, coiled, ribbed, and wicker.",
-          "internal_parent_id": "5824",
-          "internal_id": "5825",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5825",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show your counselor that you are able to identify the following types of baskets: plaited, coiled, ribbed, and wicker."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe three different types of weaves to your counselor.",
-          "internal_parent_id": "5824",
-          "internal_id": "5826",
-          "requirements": []
+          "id": "5826",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe three different types of weaves to your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Plan and weave the following projects:",
-      "internal_parent_id": null,
-      "internal_id": "5827",
-      "requirements": [
+      "id": "5827",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Square basket",
-          "internal_parent_id": "5827",
-          "internal_id": "5828",
-          "requirements": []
+          "type": "text",
+          "value": "Plan and weave the following projects:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5828",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Square basket"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Round basket",
-          "internal_parent_id": "5827",
-          "internal_id": "5829",
-          "requirements": []
+          "id": "5829",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Round basket"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Campstool seat.",
-          "internal_parent_id": "5827",
-          "internal_id": "5830",
-          "requirements": []
+          "id": "5830",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Campstool seat."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Play a game with your den, or family members, that has a set of rules.  Discuss why rules are important to the game you are playing.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Play a game with your den, or family members, that has a set of rules. Discuss why rules are important to the game you are playing."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Play a game with your den, or family members, that has a set of rules. Discuss why rules are important to the game you are playing.",
       "activities": [
         {
           "name": "Card Game – Go Fish",
@@ -43,6 +52,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your Tiger Adult Partner, choose a job that will help your team. Follow through by doing that job at least once."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "With your Tiger Adult Partner, choose a job that will help your team. Follow through by doing that job at least once.",
       "activities": [
         {
@@ -76,6 +94,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Play a game that requires at least 2 teams with your den, or two other family members. Afterwards discuss what it means to be part of a team and what makes a good team member."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Play a game that requires at least 2 teams with your den, or two other family members. Afterwards discuss what it means to be part of a team and what makes a good team member.",
       "activities": [
         {
@@ -109,6 +136,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Participate in a service project."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Participate in a service project.",
       "activities": [
         {

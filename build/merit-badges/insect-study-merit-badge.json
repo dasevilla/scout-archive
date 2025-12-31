@@ -2,6 +2,7 @@
   "name": "Insect Study",
   "overview": "In earning the Insect Study merit badge, Scouts will glance into the strange and fascinating world of the insect. There, they will meet tiny creatures with tremendous strength and speed, see insects that undergo startling changes in habits and form as they grow, and learn how insects see, hear, taste, smell, and feel the world around them.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/insect-study/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Insect%20Study.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Insect-Study.pdf",
@@ -11,250 +12,684 @@
   "image_filename": "insect-study-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Insect%20Study.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14116",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Safety. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13437",
-      "requirements": [
+      "id": "13437",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely hazards associated with exposure to ants and bees and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Resources: [ Insects, Bites, and Stings (video)](https://www.youtube.com/watch?v=-_c7225EkbA) [Fire Ant Bites (website)](https://my.clevelandclinic.org/health/diseases/23362-fire-ant-bites) [Are There Risks Associated With Keeping Honey Bees? (website)](https://peskylittlecritters.com/are-there-risks-associated-with-keeping-honey-bees/)",
-          "internal_parent_id": "13437",
-          "internal_id": "13438",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Discuss the prevention of and treatment for health concerns that could occur while working with ants and bees, including insect bites and anaphylactic shock. Resources: [Anaphylactic Shock: Symptoms, Triggers, and Life-Saving First Aid Tips ( video)](https://youtu.be/tIQGcVpAFvM?si=FQuPgmqx0GSGi_L9) [First Aid for a Bee Sting ( video)](https://www.youtube.com/watch?v=Adx9mKSoBNU)",
-          "internal_parent_id": "13437",
-          "internal_id": "13439",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "text": "Anatomy. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13453",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Tell how insects are different from other animals. Resources: [Insect Anatomy ( video)](https://www.youtube.com/watch?v=B4oL9P0J8eA) [Insect Pictures and Facts (website)](https://www.nationalgeographic.com/animals/topic/insects)",
-          "internal_parent_id": "13453",
-          "internal_id": "13459",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Show how insects are different from millipedes and spiders. Resource: [Insects vs Arachnids ( video)](https://www.youtube.com/watch?v=91x0CV9CkFw)",
-          "internal_parent_id": "13453",
-          "internal_id": "13460",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Point out and name the main parts of an insect. Resource: [Basic Insect Anatomy: Head, Thorax, and Abdomen (video)](https://youtu.be/bC9a35k1uFo?si=RD2MLMXIBaX72XC_)",
-          "internal_parent_id": "13453",
-          "internal_id": "13461",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Describe the characteristics that distinguish the major orders of insects. Resource: [Top 5 Insect Orders and How to Identify Them (video)](https://www.youtube.com/watch?v=h9sKpQNd8DI)",
-          "internal_parent_id": "13453",
-          "internal_id": "13462",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "text": "Life Cycles. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13454",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Compare the life histories of a butterfly and a grasshopper. Tell how they are different. Resources: [The Life Cycle of Butterflies and Moths (video)](https://www.youtube.com/watch?v=b-ZzAuda8dU) [The Life Cycle of a Grasshopper! (video)](https://www.youtube.com/watch?v=a9awFvTafnE)",
-          "internal_parent_id": "13454",
-          "internal_id": "13463",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Raise an insect through complete metamorphosis from its larval stage to its adult stage (e.g., raise a butterfly or moth from a caterpillar). (Some insects are endangered species and are protected by federal or state law. Every species is found only in its own special type of habitat. Be sure to check natural resources authorities in advance to be sure that you will not be collecting any species that is known to be protected or endangered, or in any habitat where collecting is prohibite(d) In most cases, all specimens should be returned at the location of capture after the requirement has been met. Check with your counselor for those instances where the return of these specimens would not be appropriate.)",
-          "internal_parent_id": "13454",
-          "internal_id": "13464",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "text": "Observation and Analysis. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13455",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code as they relate to insect study. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code during field observation, specimen collection, and identification. Resources: [Leave No Trace Basics ( video)](https://vimeo.com/1115216743/63b20c0b33?share=copy) [Leave No Trace Outdoor Ethics ( video)](https://www.youtube.com/watch?v=jXO1uY0MvmQ)",
-          "internal_parent_id": "13455",
-          "internal_id": "13465",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Observe 20 different live species of insects in their habitat. In your observations, include at least four orders of insects. Resources: [Insect Orders ( video)](https://www.youtube.com/watch?v=RFMA3u-lZ3U) Crash Course in Entomology: The \"Big Four\" [Insect Orders ( video)](https://www.youtube.com/watch?v=RFMA3u-lZ3U) An Introduction to [Insect Orders ( video)](https://www.youtube.com/watch?v=RFMA3u-lZ3U)",
-          "internal_parent_id": "13455",
-          "internal_id": "13466",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Make a scrapbook of the 20 insects you observe in 5(b) Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your counselor. Resources: [How to Start a Bug Collection (video)](https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz) [How to Make an Insect Collection: Spreading ( video)](https://www.youtube.com/watch?v=KFacqZ9CM4w) [Collecting Insects: Tools and Supplies (Video)](https://www.youtube.com/watch?v=CcBOm6DQ20g) [Insect Collecting - Tools & Tips ( video)](https://www.youtube.com/watch?v=hB9lyBkWaEE)",
-          "internal_parent_id": "13455",
-          "internal_id": "13467",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "From your scrapbook collection, select eight species of insects and identify what role they play in the ecosystem. Resources: [Why Insects Are So Crucial to Life on Earth ( video)](https://www.youtube.com/watch?v=6QwiYfqX1sg) [Why Are Insects Important? (website)](https://www.youtube.com/watch?v=19iEWe-qH5o)",
-          "internal_parent_id": "13455",
-          "internal_id": "13468",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "text": "Social Insects. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13440",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Tell things that make social insects different from solitary insects. Resources: [Social Insects (website)](https://genent.cals.ncsu.edu/bug-bytes/social-insects/) [What Are Social Insects? (website)](https://www.thoughtco.com/what-are-social-insects-1968157)",
-          "internal_parent_id": "13440",
-          "internal_id": "13441",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Do ONE of the following:",
-          "internal_parent_id": "13440",
-          "internal_id": "13442",
-          "requirements": [
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
             {
-              "id": "1",
-              "text": "Observe an ant colony in a formicarium (ant farm). Find the queen and worker ants. Explain to your counselor the different chambers found within an ant colony. Resource: [Inside the Ant Colony ( video)](https://www.youtube.com/watch?v=vG-QZOTc5_Q)",
-              "internal_parent_id": "13442",
-              "internal_id": "13469",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Study a hive of bees. Remove the combs and find the queen. Estimate the amount of brood and count the number of queen cells. Explain how to determine the amount of honey in the hive. (If you are allergic to bee stings, pick option 1 above.) Resource: [Beekeeping 101 ( video)](https://youtu.be/C2h4fYL73_M?si=GSvoxnXeVd8E9MA4)",
-              "internal_parent_id": "13442",
-              "internal_id": "13470",
-              "requirements": []
+              "type": "text",
+              "value": "Safety."
             }
           ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13438",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the most likely hazards associated with exposure to ants and bees and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Insects, Bites, and Stings (video)",
+              "url": "https://www.youtube.com/watch?v=-_c7225EkbA"
+            },
+            {
+              "title": "Fire Ant Bites (website)",
+              "url": "https://my.clevelandclinic.org/health/diseases/23362-fire-ant-bites"
+            },
+            {
+              "title": "Are There Risks Associated With Keeping Honey Bees? (website)",
+              "url": "https://peskylittlecritters.com/are-there-risks-associated-with-keeping-honey-bees/"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13439",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the prevention of and treatment for health concerns that could occur while working with ants and bees, including insect bites and anaphylactic shock."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Anaphylactic Shock: Symptoms, Triggers, and Life-Saving First Aid Tips ( video)",
+              "url": "https://youtu.be/tIQGcVpAFvM?si=FQuPgmqx0GSGi_L9"
+            },
+            {
+              "title": "First Aid for a Bee Sting ( video)",
+              "url": "https://www.youtube.com/watch?v=Adx9mKSoBNU"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Ecology. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13443",
-      "requirements": [
+      "id": "13453",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Tell how insects fit in the food web of other insects, fish, birds, and mammals. Resource: [Ants and Their Role in Food Webs ( video)](https://www.youtube.com/watch?v=hRDx5HbvqvM)",
-          "internal_parent_id": "13443",
-          "internal_id": "13444",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Anatomy."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Explain the role insects serve as pollinators for plants. Resource: [The Power of Pollinators ( video)](https://www.youtube.com/watch?v=eDxZojp9yNg)",
-          "internal_parent_id": "13443",
-          "internal_id": "13445",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13459",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell how insects are different from other animals."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Insect Anatomy ( video)",
+              "url": "https://www.youtube.com/watch?v=B4oL9P0J8eA"
+            },
+            {
+              "title": "Insect Pictures and Facts (website)",
+              "url": "https://www.nationalgeographic.com/animals/topic/insects"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13460",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how insects are different from millipedes and spiders."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Insects vs Arachnids ( video)",
+              "url": "https://www.youtube.com/watch?v=91x0CV9CkFw"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13461",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Point out and name the main parts of an insect."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Basic Insect Anatomy: Head, Thorax, and Abdomen (video)",
+              "url": "https://youtu.be/bC9a35k1uFo?si=RD2MLMXIBaX72XC_"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13462",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the characteristics that distinguish the major orders of insects."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Top 5 Insect Orders and How to Identify Them (video)",
+              "url": "https://www.youtube.com/watch?v=h9sKpQNd8DI"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Insects and People. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13456",
-      "requirements": [
+      "id": "13454",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the symbiotic relationship between bees and humankin(d) Explain what colony collapse disorder (CCD) is and some of the possible causes. Discuss how CCD affects our food supply. Resources: [Hundreds of Millions of Bees Mysteriously Dying ( video)](https://youtu.be/qWsBZbnt_4A?si=cYkszuDmpwAm3ELw) [Why Are the Bees Dying? (video)](https://youtu.be/Eelf07i3ESA?si=yzK6c2on91pQjr_o) [Colony Collapse Disorder (website)](https://www.epa.gov/pollinator-protection/colony-collapse-disorder)",
-          "internal_parent_id": "13456",
-          "internal_id": "13471",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Life Cycles."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe three alternatives to insecticides as a way of preventing crop injury and subsequent yield loss. Explain the advantages and disadvantages of these alternatives. Resources: [Ultimate Pest Control Guide for Farmers (Video)](https://www.youtube.com/watch?v=AVSs-EkYTCo) [4 Ways Nuclear Techniques Help Feed the World ( video)](https://youtu.be/2ef83qy2R6I?si=_MDuPzsxkk6a0Z8v)",
-          "internal_parent_id": "13456",
-          "internal_id": "13472",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13463",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Compare the life histories of a butterfly and a grasshopper. Tell how they are different."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The Life Cycle of Butterflies and Moths (video)",
+              "url": "https://www.youtube.com/watch?v=b-ZzAuda8dU"
+            },
+            {
+              "title": "The Life Cycle of a Grasshopper! (video)",
+              "url": "https://www.youtube.com/watch?v=a9awFvTafnE"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13464",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Raise an insect through complete metamorphosis from its larval stage to its adult stage (e.g., raise a butterfly or moth from a caterpillar). (Some insects are endangered species and are protected by federal or state law. Every species is found only in its own special type of habitat. Be sure to check natural resources authorities in advance to be sure that you will not be collecting any species that is known to be protected or endangered, or in any habitat where collecting is prohibited. In most cases, all specimens should be returned at the location of capture after the requirement has been met. Check with your counselor for those instances where the return of these specimens would not be appropriate.)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Conservation. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13457",
-      "requirements": [
+      "id": "13455",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Tell the migration route of an insect (e.g., monarch butterfly). Discuss the challenges they face and how Scouts can contribute to their success. Resource: [Monarch Migration (website)](https://www.monarchwatch.org/migration/)",
-          "internal_parent_id": "13457",
-          "internal_id": "13473",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Observation and Analysis."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Find out about an insect that is a threatened or endangered species. Discuss the challenges they face and how Scouts can contribute to their success. Resource: [Endangered Species Conservation (website)](https://www.xerces.org/endangered-species)",
-          "internal_parent_id": "13457",
-          "internal_id": "13474",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13465",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code as they relate to insect study. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code during field observation, specimen collection, and identification."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Leave No Trace Basics ( video)",
+              "url": "https://vimeo.com/1115216743/63b20c0b33?share=copy"
+            },
+            {
+              "title": "Leave No Trace Outdoor Ethics ( video)",
+              "url": "https://www.youtube.com/watch?v=jXO1uY0MvmQ"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13466",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Observe 20 different live species of insects in their habitat. In your observations, include at least four orders of insects."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Insect Orders ( video)",
+              "url": "https://www.youtube.com/watch?v=RFMA3u-lZ3U"
+            },
+            {
+              "title": "Crash Course in Entomology: The \"Big Four\" Insect Orders ( video)",
+              "url": "https://www.youtube.com/watch?v=HOhbf5JtCGo"
+            },
+            {
+              "title": "An Introduction to Insect Orders ( video)",
+              "url": "https://www.youtube.com/watch?v=Ogh7_ITZ3Xg"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13467",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a scrapbook of the 20 insects you observe in 4(b). Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Start a Bug Collection (video)",
+              "url": "https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz"
+            },
+            {
+              "title": "How to Make an Insect Collection: Spreading ( video)",
+              "url": "https://www.youtube.com/watch?v=KFacqZ9CM4w"
+            },
+            {
+              "title": "Collecting Insects: Tools and Supplies (Video)",
+              "url": "https://www.youtube.com/watch?v=CcBOm6DQ20g"
+            },
+            {
+              "title": "Insect Collecting - Tools & Tips ( video)",
+              "url": "https://www.youtube.com/watch?v=hB9lyBkWaEE"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13468",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "From your scrapbook collection, select eight species of insects and identify what role they play in the ecosystem."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Why Insects Are So Crucial to Life on Earth ( video)",
+              "url": "https://www.youtube.com/watch?v=6QwiYfqX1sg"
+            },
+            {
+              "title": "Why Are Insects Important? (website)",
+              "url": "https://www.youtube.com/watch?v=19iEWe-qH5o"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Careers and Hobbies. Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "13458",
-      "requirements": [
+      "id": "13440",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Identify three career opportunities that would use skills and knowledge in Insect Study. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Resources: [Meet an Entomologist ( video)](https://www.youtube.com/watch?v=bz1QM5Y9aqk) [Occupational Video - Entomologist ( video)](https://www.youtube.com/watch?v=bQ0yAZQF0mE)",
-          "internal_parent_id": "13458",
-          "internal_id": "13475",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Social Insects."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Identify how you might use the skills and knowledge in Insect Study to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this. Resource: [Beekeeping 101 - Quick Guide for Beginners (video)](https://youtube.com/shorts/WagGi28NJzY?si=Qkhv6Bu_X6WEeff1)",
-          "internal_parent_id": "13458",
-          "internal_id": "13476",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13441",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell things that make social insects different from solitary insects."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Social Insects (website)",
+              "url": "https://genent.cals.ncsu.edu/bug-bytes/social-insects/"
+            },
+            {
+              "title": "What Are Social Insects? (website)",
+              "url": "https://www.thoughtco.com/what-are-social-insects-1968157"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13442",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Do ONE of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "13469",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Observe an ant colony in a formicarium (ant farm). Find the queen and worker ants. Explain to your counselor the different chambers found within an ant colony."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Inside the Ant Colony ( video)",
+              "url": "https://www.youtube.com/watch?v=vG-QZOTc5_Q"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13470",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Study a hive of bees. Remove the combs and find the queen. Estimate the amount of brood and count the number of queen cells. Explain how to determine the amount of honey in the hive. (If you are allergic to bee stings, pick option (1) above.)"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Beekeeping 101 ( video)",
+              "url": "https://youtu.be/C2h4fYL73_M?si=GSvoxnXeVd8E9MA4"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "13443",
+      "label": "6",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Ecology."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13444",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell how insects fit in the food web of other insects, fish, birds, and mammals."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Ants and Their Role in Food Webs ( video)",
+              "url": "https://www.youtube.com/watch?v=hRDx5HbvqvM"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13445",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the role insects serve as pollinators for plants."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The Power of Pollinators ( video)",
+              "url": "https://www.youtube.com/watch?v=eDxZojp9yNg"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "13456",
+      "label": "7",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Insects and People."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13471",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the symbiotic relationship between bees and humankind. Explain what colony collapse disorder (CCD) is and some of the possible causes. Discuss how CCD affects our food supply."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Hundreds of Millions of Bees Mysteriously Dying ( video)",
+              "url": "https://youtu.be/qWsBZbnt_4A?si=cYkszuDmpwAm3ELw"
+            },
+            {
+              "title": "Why Are the Bees Dying? (video)",
+              "url": "https://youtu.be/Eelf07i3ESA?si=yzK6c2on91pQjr_o"
+            },
+            {
+              "title": "Colony Collapse Disorder (website)",
+              "url": "https://www.epa.gov/pollinator-protection/colony-collapse-disorder"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13472",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe three alternatives to insecticides as a way of preventing crop injury and subsequent yield loss. Explain the advantages and disadvantages of these alternatives."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Ultimate Pest Control Guide for Farmers (Video)",
+              "url": "https://www.youtube.com/watch?v=AVSs-EkYTCo"
+            },
+            {
+              "title": "4 Ways Nuclear Techniques Help Feed the World ( video)",
+              "url": "https://youtu.be/2ef83qy2R6I?si=_MDuPzsxkk6a0Z8v"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "13457",
+      "label": "8",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Conservation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13473",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell the migration route of an insect (e.g., monarch butterfly). Discuss the challenges they face and how Scouts can contribute to their success."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Monarch Migration (website)",
+              "url": "https://www.monarchwatch.org/migration/"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13474",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Find out about an insect that is a threatened or endangered species. Discuss the challenges they face and how Scouts can contribute to their success."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Endangered Species Conservation (website)",
+              "url": "https://www.xerces.org/endangered-species"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "13458",
+      "label": "9",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Careers and Hobbies."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13475",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge in Insect Study. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Meet an Entomologist ( video)",
+              "url": "https://www.youtube.com/watch?v=bz1QM5Y9aqk"
+            },
+            {
+              "title": "Occupational Video - Entomologist ( video)",
+              "url": "https://www.youtube.com/watch?v=bQ0yAZQF0mE"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13476",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify how you might use the skills and knowledge in Insect Study to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Beekeeping 101 - Quick Guide for Beginners (video)",
+              "url": "https://youtube.com/shorts/WagGi28NJzY?si=Qkhv6Bu_X6WEeff1"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     }

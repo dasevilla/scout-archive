@@ -2,6 +2,7 @@
   "name": "Weather",
   "overview": "Meteorology is the study of Earth’s atmosphere and its weather and the ways in which temperature, wind, and moisture act together in the environment. In addition to learning how everyday weather is predicted, Scouts can learn about extreme weather such as thunderstorms, tornadoes, and hurricanes, and how to stay safe.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/weather/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Weather.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Weather.pdf",
@@ -11,103 +12,253 @@
   "image_filename": "weather-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Weather.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14181",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Define meteorology. Explain what weather is and what climate is. Discuss how the weather affects farmers, sailors, aviators, and the  outdoor construction industry. Tell why weather forecasts are important to each of these groups. Resources: [What is Meteorology? (video)](https://youtu.be/UKOu9OKvvb4?si=dhC0zfySCYRgQ_Md)  [Weather vs Climate (video)](https://youtu.be/6Aigcv7UnTU?si=CUj8ne3OVaoeZB_W)",
-      "internal_parent_id": null,
-      "internal_id": "8151",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Name five dangerous weather-related conditions. Give the safety rules for each when outdoors and explain the difference between a severe weather watch and a warning. Discuss the safety rules with your family. Resources: [Severe Weather Safety (video)](https://youtu.be/H6icWfyMBNk?si=GmtqrGlxqjA0L4tl)  [Know the Difference Between a Watch and a Warning (video)](https://youtu.be/bXWZdKVoII8)  [Winter's Hidden Hazard - Cold Weather Health & Safety (video)](https://youtu.be/g3vEkqotiE8?si=cw3WFhC7u4ewKzU2)  [Hurricane Preparation and Safety (video)](https://youtu.be/SsTPG8Occv4?si=gNVnhnMLDcnG9sEL)",
-      "internal_parent_id": null,
-      "internal_id": "8153",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "Explain the difference between high and low pressure systems in the atmosphere. Tell which is related to good and to poor weather. Draw cross sections of a cold front and a warm front , showing the location and movements of the cold and warm air, the frontal slope, the location and types of clouds associated with  each type of front, and the location of  precipitation.Resources: [What Are Weather Fronts?  Warm Front, Cold Front? (video)](https://youtu.be/5Cnx5Bzctas?si=bJcnCUw3ysbD99rD)  [Weather 101:  High Pressure vs. Low Pressure (video)](https://youtu.be/8mHEry8tSPM?si=_Rx2aPuB2UpvW9o1)",
-      "internal_parent_id": null,
-      "internal_id": "8154",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Tell what causes wind, why it rains, and how lightning and hail are formed. Resources: [What Creates Weather?  (video)](https://youtu.be/OtHc497jn_U?si=TZ7dkSYs7wj_8P_c)  [What Causes Lightning? (video)](https://youtu.be/VqXnN_FQfrc?si=YiUTVTx49LXWtYbO)  [What is Hail? (video)](https://youtu.be/6M-ycZLSF1w?si=eMavnw4Y-B1ma5QY)",
-      "internal_parent_id": null,
-      "internal_id": "8155",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "Identify and describe clouds in the low, middle, and upper levels of the atmosphere. Relate these to specific types of weather. Resource: [What Are the Different Types of Clouds? (video)](https://youtu.be/JIkEMBiT6hQ?si=3bZrjTTiTTFmspzQ)",
-      "internal_parent_id": null,
-      "internal_id": "8156",
-      "requirements": []
-    },
-    {
-      "id": "6",
-      "text": "Draw a diagram of the water cycle and label its major processes. Explain the water cycle to your counselor. Resources: [Easy Water Cycle Drawing (video)](https://youtu.be/l4h_z1Hy-lE?si=WnRWlOT2aHIX5TGI) [How Does Rain Form and What is the Water Cycle? (video)](https://youtu.be/zBnKgwnn7i4?si=VZrtRmGFKtiaNJCV)",
-      "internal_parent_id": null,
-      "internal_id": "8157",
-      "requirements": []
-    },
-    {
-      "id": "7",
-      "text": "Identify some human activities that can alter the environment, and describe how they affect the climate and people. Resources: [10 Human Activities Heavily Impacting Climate Change (video)](https://youtu.be/yS0D9xOlzNc?si=tm7nGt5kuKq9XxhE)  [Causes and Effects of Climate Change (video)](https://youtu.be/oD4gvDliieY?si=hdY-Hb4veM6tWsRF)",
-      "internal_parent_id": null,
-      "internal_id": "8158",
-      "requirements": []
-    },
-    {
-      "id": "8",
-      "text": "Describe how the tilt of Earth's axis helps determine the climate of a region near the equator, near the poles, and across the area in between. Resources: [Why Do We Have Different Seasons? (video)](https://youtu.be/WgHmqv_-UbQ?si=3s2ISRCkU3Dido89)  [Why Do We Have Different Climates Across the Globe? (video)](https://youtu.be/eDVbKrRV-mU?si=l6l6quf6fr2IQ3gl)",
-      "internal_parent_id": null,
-      "internal_id": "8159",
-      "requirements": []
-    },
-    {
-      "id": "9",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "8145",
-      "requirements": [
+      "id": "16123",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Make one of the following instruments: wind vane, anemometer, rain gauge, hygrometer. Keep a daily weather log for one week using information from this instrument as well as from other sources such as local radio and television stations, NOAA Weather Radio All Hazards, and internet sources (with your parent or guardian's permission). Record the following information at the same time every day: wind direction and speed, temperature, precipitation, and types of clouds. Be sure to make a note of any morning dew or frost. In the log, also list the weather forecasts from radio or television at the same time each day and show how the weather really turned out. Resources: [Weather 101: Build Your Own Wind Vane! (video)](https://youtu.be/kSHRBUTMq0o?si=6XqGX8yB-svIK85z) [DIY Anemometer (Measure Wind Speed) (video)](https://youtu.be/Gab07UaoeZI?si=iQpXL42eMjDoNIkz) [How to Make a Rain Gauge (video)](https://youtu.be/MLmVaiSEF9w?si=atHOcyY2Yfn2Vu-W) [How to Make Your Own Hygrometer (video)](https://youtu.be/lNPSzifZ-Y0?si=4_dPuJHkkLw5hp75)",
-          "internal_parent_id": "8145",
-          "internal_id": "8146",
-          "requirements": []
+          "type": "text",
+          "value": "Define meteorology. Explain what weather is and what climate is. Discuss how the weather affects farmers, sailors, aviators, and the outdoor construction industry. Tell why weather forecasts are important to each of these groups."
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Meteorology? (video)",
+          "url": "https://youtu.be/UKOu9OKvvb4?si=dhC0zfySCYRgQ_Md"
         },
         {
-          "id": "b",
-          "text": "Visit a National Weather Service office or talk with a local radio or television weathercaster, private meteorologist, local agricultural extension service officer, or university meteorology instructor. Find out what type of weather is most dangerous or damaging to your community. Determine how severe weather and flood warnings reach the homes in your community. Resource: [Behind the Scenes of the National Weather Service Atlanta/Peachree City (video)](https://youtu.be/DuZqz7wGXGY?si=cS4abYCrQrbtR3Qp)",
-          "internal_parent_id": "8145",
-          "internal_id": "8147",
-          "requirements": []
+          "title": "Weather vs Climate (video)",
+          "url": "https://youtu.be/6Aigcv7UnTU?si=CUj8ne3OVaoeZB_W"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "16126",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Name five dangerous weather-related conditions. Give the safety rules for each when outdoors and explain the difference between a severe weather watch and a warning. Discuss the safety rules with your family."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Severe Weather Safety (video)",
+          "url": "https://youtu.be/H6icWfyMBNk?si=GmtqrGlxqjA0L4tl"
+        },
+        {
+          "title": "Know the Difference Between a Watch and a Warning (video)",
+          "url": "https://youtu.be/bXWZdKVoII8"
+        },
+        {
+          "title": "Winter's Hidden Hazard - Cold Weather Health & Safety (video)",
+          "url": "https://youtu.be/g3vEkqotiE8?si=cw3WFhC7u4ewKzU2"
+        },
+        {
+          "title": "Hurricane Preparation and Safety (video)",
+          "url": "https://youtu.be/SsTPG8Occv4?si=gNVnhnMLDcnG9sEL"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "16127",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify at least two sources of weather forecasts that can be used to prepare for hikes, overnight camping, and other outdoor activities. Name two sources of emergency weather warnings both at home and during outdoor Scout functions."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "16128",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the difference between high and low pressure systems in the atmosphere. Tell which is related to good and to poor weather. Draw cross sections of a cold front and a warm front , showing the location and movements of the cold and warm air, the frontal slope, the location and types of clouds associated with each type of front, and the location of precipitation."
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Are Weather Fronts?  Warm Front, Cold Front? (video)",
+          "url": "https://youtu.be/5Cnx5Bzctas?si=bJcnCUw3ysbD99rD"
+        },
+        {
+          "title": "Weather 101:  High Pressure vs. Low Pressure (video)",
+          "url": "https://youtu.be/8mHEry8tSPM?si=_Rx2aPuB2UpvW9o1"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "16129",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tell what causes wind, why it rains, and how lightning and hail are formed."
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Creates Weather?  (video)",
+          "url": "https://youtu.be/OtHc497jn_U?si=TZ7dkSYs7wj_8P_c"
+        },
+        {
+          "title": "What Causes Lightning? (video)",
+          "url": "https://youtu.be/VqXnN_FQfrc?si=YiUTVTx49LXWtYbO"
+        },
+        {
+          "title": "What is Hail? (video)",
+          "url": "https://youtu.be/6M-ycZLSF1w?si=eMavnw4Y-B1ma5QY"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "16130",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify and describe clouds in the low, middle, and upper levels of the atmosphere. Relate these to specific types of weather."
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Are the Different Types of Clouds? (video)",
+          "url": "https://youtu.be/JIkEMBiT6hQ?si=3bZrjTTiTTFmspzQ"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "16131",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Draw a diagram of the water cycle and label its major processes. Explain the water cycle to your counselor."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Easy Water Cycle Drawing (video)",
+          "url": "https://youtu.be/l4h_z1Hy-lE?si=WnRWlOT2aHIX5TGI"
+        },
+        {
+          "title": "How Does Rain Form and What is the Water Cycle? (video)",
+          "url": "https://youtu.be/zBnKgwnn7i4?si=VZrtRmGFKtiaNJCV"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "16132",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify some human activities that can alter the environment, and describe how they affect the climate and people."
+        }
+      ],
+      "resources": [
+        {
+          "title": "10 Human Activities Heavily Impacting Climate Change (video)",
+          "url": "https://youtu.be/yS0D9xOlzNc?si=tm7nGt5kuKq9XxhE"
+        },
+        {
+          "title": "Causes and Effects of Climate Change (video)",
+          "url": "https://youtu.be/oD4gvDliieY?si=hdY-Hb4veM6tWsRF"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "16133",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe how the tilt of Earth's axis helps determine the climate of a region near the equator, near the poles, and across the area in between."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Why Do We Have Different Seasons? (video)",
+          "url": "https://youtu.be/WgHmqv_-UbQ?si=3s2ISRCkU3Dido89"
+        },
+        {
+          "title": "Why Do We Have Different Climates Across the Globe? (video)",
+          "url": "https://youtu.be/eDVbKrRV-mU?si=l6l6quf6fr2IQ3gl"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "16120",
+      "label": "10",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "16121",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make one of the following instruments: wind vane, anemometer, rain gauge, hygrometer. Keep a daily weather log for one week using information from this instrument as well as from other sources such as local radio and television stations, NOAA Weather Radio All Hazards, and internet sources (with your parent or guardian's permission). Record the following information at the same time every day: wind direction and speed, temperature, precipitation, and types of clouds. Be sure to make a note of any morning dew or frost. In the log, also list the weather forecasts from radio or television at the same time each day and show how the weather really turned out."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16134",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a National Weather Service office or talk with a local radio or television weathercaster, private meteorologist, local agricultural extension service officer, or university meteorology instructor. Find out what type of weather is most dangerous or damaging to your community. Determine how severe weather and flood warnings reach the homes in your community."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "10",
-      "text": "Give a talk of at least five minutes to a group (such as your unit or a Cub Scout pack) explaining the outdoor safety rules in the event of lightning, flash floods, and tornadoes. Before your talk, share your outline with your counselor for approval.",
-      "internal_parent_id": null,
-      "internal_id": "8148",
-      "requirements": []
+      "id": "16124",
+      "label": "11",
+      "content": [
+        {
+          "type": "text",
+          "value": "Give a talk of at least five minutes to a group (such as your unit or a Cub Scout pack) explaining the outdoor safety rules in the event of lightning, flash floods, and tornadoes. Before your talk, share your outline with your counselor for approval."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "11",
-      "text": "Find out about a weather-related career opportunity that interests you. Discuss with and explain to your counselor what training and education are required for such a position, and the responsibilities required of such a position. Resources: [Hurricane Hunter (video)](https://youtu.be/F8pF3jOtM0U?si=V_vTXWHWd7JcRRAz&t=22) [Careers in Meteorology - National Weather Service Hurricanne Meteorologist (video)](https://youtu.be/Jmzry0djEQA?si=O_Pvh47t0WegPRU4) [Careers in Meteorology - Broadcast Meteorology (video)](https://youtu.be/CkmLI5VsdbY?si=4golNNv7EBcqZ2Ds) [Careers in Meteorology - Digital Meteorology (video)](https://youtu.be/jzmwzbhIhJQ?si=RfiZhEq-gtxMp-g6)",
-      "internal_parent_id": null,
-      "internal_id": "8152",
-      "requirements": []
+      "id": "16125",
+      "label": "12",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

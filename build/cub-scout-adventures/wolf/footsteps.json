@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "With your parent or legal guardian talk about your family’s faith traditions.   Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft or work of art of your favorite family’s faith tradition holiday or celebration.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your parent or legal guardian talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft or work of art of your favorite family’s faith tradition holiday or celebration."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "With your parent or legal guardian talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft or work of art of your favorite family’s faith tradition holiday or celebration.",
       "activities": [
         {
           "name": "Holiday Mosaic",
@@ -34,6 +43,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your family, attend a religious service OR other gathering that shows how your family expresses reverence."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "With your family, attend a religious service OR other gathering that shows how your family expresses reverence.",
       "activities": [
         {
@@ -58,6 +76,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Carry out an act of kindness."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Carry out an act of kindness.",
       "activities": [
         {
@@ -82,6 +109,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Listen to or read Aesop’s fable “The Boy Who Cried Wolf.” With your den or family discuss why being truthful is important."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Listen to or read Aesop’s fable “The Boy Who Cried Wolf.” With your den or family discuss why being truthful is important.",
       "activities": [
         {

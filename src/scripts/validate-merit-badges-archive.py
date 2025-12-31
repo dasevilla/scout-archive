@@ -36,6 +36,98 @@ EAGLE_REQUIRED_BADGES = [
     "Swimming",
 ]
 
+ALLOWED_NODE_TAGS = {"b", "strong", "i", "em", "a", "br"}
+
+
+def _node_text(nodes):
+    parts = []
+    for node in nodes:
+        if not isinstance(node, dict):
+            continue
+        node_type = node.get("type")
+        if node_type == "text":
+            parts.append(node.get("value", ""))
+        elif node_type == "element":
+            parts.append(_node_text(node.get("children", [])))
+    return "".join(parts)
+
+
+def _validate_nodes(nodes, path, errors, warnings):
+    if not isinstance(nodes, list):
+        errors.append(f"{path} content is not a list")
+        return
+    for idx, node in enumerate(nodes):
+        if not isinstance(node, dict):
+            errors.append(f"{path} content[{idx}] is not an object")
+            continue
+        node_type = node.get("type")
+        if node_type == "text":
+            if "value" not in node:
+                errors.append(f"{path} content[{idx}] missing text value")
+            continue
+        if node_type == "element":
+            tag = node.get("tag")
+            if tag not in ALLOWED_NODE_TAGS:
+                warnings.append(f"{path} content[{idx}] unexpected tag '{tag}'")
+            attrs = node.get("attrs", {})
+            if tag == "a":
+                if not attrs or not attrs.get("href"):
+                    warnings.append(f"{path} content[{idx}] link missing href")
+            elif attrs:
+                warnings.append(f"{path} content[{idx}] unexpected attrs on '{tag}'")
+            _validate_nodes(node.get("children", []), path, errors, warnings)
+            continue
+        errors.append(f"{path} content[{idx}] has invalid type '{node_type}'")
+
+
+def _validate_requirement_tree(requirements, path, errors, warnings):
+    if not isinstance(requirements, list):
+        errors.append(f"{path} is not a list")
+        return
+    for idx, req in enumerate(requirements):
+        req_path = f"{path}[{idx}]"
+        if not isinstance(req, dict):
+            errors.append(f"{req_path} is not an object")
+            continue
+        if "id" not in req:
+            errors.append(f"{req_path} missing id")
+        label = req.get("label")
+        if label is not None:
+            if not isinstance(label, str):
+                errors.append(f"{req_path} label is not a string")
+            elif label.endswith(".") or label.startswith("(") or label.endswith(")"):
+                warnings.append(f"{req_path} label not normalized: '{label}'")
+        content = req.get("content")
+        if content is None:
+            errors.append(f"{req_path} missing content")
+        else:
+            _validate_nodes(content, req_path, errors, warnings)
+            if not _node_text(content).strip() and not req.get("sub_requirements"):
+                warnings.append(f"{req_path} has empty content")
+
+        resources = req.get("resources")
+        if resources is None:
+            errors.append(f"{req_path} missing resources")
+        elif not isinstance(resources, list):
+            errors.append(f"{req_path} resources is not a list")
+        else:
+            for ridx, resource in enumerate(resources):
+                if not isinstance(resource, dict):
+                    errors.append(f"{req_path} resources[{ridx}] is not an object")
+                    continue
+                if not resource.get("title") or not resource.get("url"):
+                    warnings.append(
+                        f"{req_path} resources[{ridx}] missing title or url"
+                    )
+
+        sub_requirements = req.get("sub_requirements")
+        if sub_requirements is None:
+            errors.append(f"{req_path} missing sub_requirements")
+        else:
+            _validate_requirement_tree(
+                sub_requirements, f"{req_path}.sub_requirements", errors, warnings
+            )
+
 
 def validate_badges_directory(directory):
     """Validate that the badges directory contains expected files"""
@@ -94,6 +186,14 @@ def validate_badge_content(file_path):
             errors.append(
                 f"Only {len(requirements)} requirements found, expected at least {MIN_BADGE_REQUIREMENTS}"
             )
+        else:
+            _validate_requirement_tree(requirements, "requirements", errors, warnings)
+
+    badge_url = data.get("url") or ""
+    if data.get("is_lab") and "/test-lab/" not in badge_url:
+        warnings.append("is_lab is true but URL is not a Test Lab page")
+    if not data.get("is_lab") and "/test-lab/" in badge_url:
+        warnings.append("URL looks like a Test Lab page but is_lab is false")
 
     # Check optional URLs (warn but don't fail)
     badge_name = data.get("name", "")
@@ -116,6 +216,15 @@ def validate_badge_content(file_path):
         # Standard validation for other badges
         if not data.get("image_url"):
             warnings.append("Missing image URL")
+        else:
+            image_filename = data.get("image_filename")
+            if not image_filename:
+                warnings.append("Missing image filename")
+            else:
+                images_dir = os.path.join(os.path.dirname(file_path), "images")
+                image_path = os.path.join(images_dir, image_filename)
+                if not os.path.exists(image_path):
+                    warnings.append("Missing local image file")
 
         if not data.get("pdf_url"):
             warnings.append("Missing PDF URL")

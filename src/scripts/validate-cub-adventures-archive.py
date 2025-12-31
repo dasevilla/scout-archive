@@ -27,6 +27,110 @@ from scout_archive.settings import (
     MAX_EMPTY_FIELDS,
 )
 
+ALLOWED_NODE_TAGS = {"b", "strong", "i", "em", "a", "br"}
+
+
+def _node_text(nodes):
+    parts = []
+    for node in nodes:
+        if not isinstance(node, dict):
+            continue
+        node_type = node.get("type")
+        if node_type == "text":
+            parts.append(node.get("value", ""))
+        elif node_type == "element":
+            parts.append(_node_text(node.get("children", [])))
+    return "".join(parts)
+
+
+def _validate_nodes(nodes, path, errors, warnings):
+    if not isinstance(nodes, list):
+        errors.append(f"{path} content is not a list")
+        return
+    for idx, node in enumerate(nodes):
+        if not isinstance(node, dict):
+            errors.append(f"{path} content[{idx}] is not an object")
+            continue
+        node_type = node.get("type")
+        if node_type == "text":
+            if "value" not in node:
+                errors.append(f"{path} content[{idx}] missing text value")
+            continue
+        if node_type == "element":
+            tag = node.get("tag")
+            if tag not in ALLOWED_NODE_TAGS:
+                warnings.append(f"{path} content[{idx}] unexpected tag '{tag}'")
+            attrs = node.get("attrs", {})
+            if tag == "a":
+                if not attrs or not attrs.get("href"):
+                    warnings.append(f"{path} content[{idx}] link missing href")
+            elif attrs:
+                warnings.append(f"{path} content[{idx}] unexpected attrs on '{tag}'")
+            _validate_nodes(node.get("children", []), path, errors, warnings)
+            continue
+        errors.append(f"{path} content[{idx}] has invalid type '{node_type}'")
+
+
+def _validate_requirement_tree(requirements, path, errors, warnings, require_text):
+    if not isinstance(requirements, list):
+        errors.append(f"{path} is not a list")
+        return
+    for idx, req in enumerate(requirements):
+        req_path = f"{path}[{idx}]"
+        if not isinstance(req, dict):
+            errors.append(f"{req_path} is not an object")
+            continue
+        if "id" not in req:
+            errors.append(f"{req_path} missing id")
+        label = req.get("label")
+        if label is not None:
+            if not isinstance(label, str):
+                errors.append(f"{req_path} label is not a string")
+            elif label.endswith(".") or label.startswith("(") or label.endswith(")"):
+                warnings.append(f"{req_path} label not normalized: '{label}'")
+
+        content = req.get("content")
+        if content is None:
+            errors.append(f"{req_path} missing content")
+        else:
+            _validate_nodes(content, req_path, errors, warnings)
+            if not _node_text(content).strip() and not req.get("sub_requirements"):
+                warnings.append(f"{req_path} has empty content")
+
+        resources = req.get("resources")
+        if resources is None:
+            errors.append(f"{req_path} missing resources")
+        elif not isinstance(resources, list):
+            errors.append(f"{req_path} resources is not a list")
+        else:
+            for ridx, resource in enumerate(resources):
+                if not isinstance(resource, dict):
+                    errors.append(f"{req_path} resources[{ridx}] is not an object")
+                    continue
+                if not resource.get("title") or not resource.get("url"):
+                    warnings.append(
+                        f"{req_path} resources[{ridx}] missing title or url"
+                    )
+
+        sub_requirements = req.get("sub_requirements")
+        if sub_requirements is None:
+            errors.append(f"{req_path} missing sub_requirements")
+        else:
+            _validate_requirement_tree(
+                sub_requirements,
+                f"{req_path}.sub_requirements",
+                errors,
+                warnings,
+                require_text=False,
+            )
+
+        if require_text:
+            text = req.get("text", "")
+            if not text:
+                errors.append(f"{req_path} missing text")
+            elif not text.strip():
+                warnings.append(f"{req_path} has empty text")
+
 
 def validate_adventures_directory(directory):
     """Validate that the adventures directory contains expected files"""
@@ -80,10 +184,13 @@ def validate_adventure_content(file_path):
     # Validate adventure type
     if "adventure_type" in data:
         adventure_type = data["adventure_type"]
-        if adventure_type not in VALID_ADVENTURE_TYPES:
-            errors.append(
-                f"Invalid adventure type: '{adventure_type}', expected one of {VALID_ADVENTURE_TYPES}"
-            )
+        if adventure_type:
+            if adventure_type not in VALID_ADVENTURE_TYPES:
+                errors.append(
+                    f"Invalid adventure type: '{adventure_type}', expected one of {VALID_ADVENTURE_TYPES}"
+                )
+        else:
+            warnings.append("Missing adventure type")
 
     # Validate URL format
     if "url" in data and data["url"]:
@@ -114,20 +221,15 @@ def validate_adventure_content(file_path):
                 f"Only {len(requirements)} requirements found, expected at least {MIN_REQUIREMENTS}"
             )
         else:
-            # Validate requirement structure
+            _validate_requirement_tree(
+                requirements, "requirements", errors, warnings, require_text=True
+            )
+            # Validate activities within requirements
             for i, req in enumerate(requirements):
                 if not isinstance(req, dict):
                     errors.append(f"Requirement {i} is not a dictionary")
                     continue
 
-                if "id" not in req:
-                    errors.append(f"Requirement {i} missing 'id' field")
-                if "text" not in req:
-                    errors.append(f"Requirement {i} missing 'text' field")
-                elif not req["text"].strip():
-                    warnings.append(f"Requirement {i} has empty text")
-
-                # Validate activities within requirements
                 if "activities" in req and isinstance(req["activities"], list):
                     for j, activity in enumerate(req["activities"]):
                         if not isinstance(activity, dict):
@@ -155,7 +257,7 @@ def validate_adventure_content(file_path):
                             if field in activity and activity[field]:
                                 if activity[field] not in VALID_NUMERIC_RANGE:
                                     warnings.append(
-                                        f"Requirement {i}, activity {j} invalid {field}: '{activity[field]}', expected 1-5"
+                                        f"Requirement {i}, activity {j} invalid {field}: '{activity[field]}', expected {','.join(VALID_NUMERIC_RANGE)}"
                                     )
 
     # Check optional fields (warn but don't fail)
@@ -164,9 +266,6 @@ def validate_adventure_content(file_path):
 
     if not data.get("image_url"):
         warnings.append("Missing image URL")
-
-    if not data.get("adventure_type"):
-        warnings.append("Missing adventure type")
 
     return errors, warnings
 

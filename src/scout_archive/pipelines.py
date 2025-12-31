@@ -29,6 +29,8 @@ class MeritBadgeFilesPipeline(FilesPipeline):
         return []
 
     def file_path(self, request, response=None, info=None, *, item=None):
+        if item is None:
+            raise ValueError("Merit badge item is required to build file paths")
         media_guid = sanitize_filename(item["badge_url_slug"]) + "-merit-badge"
         media_ext = Path(request.url).suffix
         # Handles empty and wild extensions by trying to guess the
@@ -48,6 +50,8 @@ class MeritBadgeImagesPipeline(ImagesPipeline):
         return []
 
     def file_path(self, request, response=None, info=None, *, item=None):
+        if item is None:
+            raise ValueError("Merit badge item is required to build image paths")
         image_guid = sanitize_filename(item["badge_url_slug"]) + "-merit-badge"
         filename = f"{image_guid}.jpg"
         # Store the local filename in the item
@@ -62,6 +66,8 @@ class CubScoutAdventureImagesPipeline(ImagesPipeline):
         return []
 
     def file_path(self, request, response=None, info=None, *, item=None):
+        if item is None:
+            raise ValueError("Cub Scout adventure item is required to build image paths")
         rank_name = sanitize_filename(item["rank_name"])
         adventure_name = sanitize_filename(item["adventure_name"])
         filename = f"{rank_name}/images/{adventure_name}.jpg"
@@ -108,6 +114,7 @@ class ScoutArchivePipeline:
                 "name": item.get("badge_name"),
                 "overview": item.get("badge_overview"),
                 "is_eagle_required": item.get("is_eagle_required"),
+                "is_lab": item.get("is_lab"),
                 "url": item.get("badge_url"),
                 "pdf_url": item.get("badge_pdf_url"),
                 "workbook_pdf_url": item.get("workbook_pdf_url"),

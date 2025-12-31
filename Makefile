@@ -31,7 +31,7 @@ archive-cub-adventures: dirs
 
 # Archive a specific URL for testing
 archive-merit-badges-url: dirs
-	cd src && $(RUN_CMD) python -m scrapy parse --spider merit_badges --callback parse_merit_badge  --pipelines "$(URL)" \
+	cd src && $(RUN_CMD) python -m scrapy crawl merit_badges \
 		-a url=$(URL) \
 		--set MERIT_BADGE_OUTPUT_DIR=../build/merit-badges \
 		--set FILES_STORE=../build/merit-badges/files \

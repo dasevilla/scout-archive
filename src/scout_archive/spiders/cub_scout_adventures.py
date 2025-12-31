@@ -1,7 +1,15 @@
-import scrapy
-from scout_archive.items import CubScoutAdventureItem
 import re
 import json
+
+import scrapy
+
+from scout_archive.items import CubScoutAdventureItem
+from scout_archive.requirements_pipeline import (
+    HtmlExtractor,
+    MarkdownGenerator,
+    RawRequirementItem,
+    SemanticProcessor,
+)
 
 
 class CubScoutAdventuresSpider(scrapy.Spider):
@@ -11,6 +19,9 @@ class CubScoutAdventuresSpider(scrapy.Spider):
 
     def __init__(self, name=None, url=None, **kwargs):
         self.single_url = url
+        self._requirements_extractor = HtmlExtractor()
+        self._requirements_processor = SemanticProcessor()
+        self._requirements_generator = MarkdownGenerator()
         super().__init__(name, **kwargs)
 
     def parse(self, response):
@@ -173,80 +184,14 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         item["adventure_image_url"] = image_url
         item["image_urls"] = [image_url] if image_url else []
 
-        requirements_list = []
-        seen_requirements = set()
-        req_sections = response.xpath(
-            "//h2[contains(text(), 'Requirement')] | //h3[contains(text(), 'Requirement')]"
-        )
-
-        self.logger.info(
-            f"Found {len(req_sections)} requirement sections for {adventure_name}"
-        )
-
-        for req_section in req_sections:
-            req_heading = req_section.xpath("text()").get() or ""
-            req_match = re.search(r"Requirement (\d+)", req_heading)
-
-            self.logger.info(f"Processing heading: '{req_heading}'")
-
-            if req_match:
-                req_number = req_match.group(1)
-
-                # Skip if we've already processed this requirement number
-                if req_number in seen_requirements:
-                    self.logger.info(f"Skipping duplicate requirement {req_number}")
-                    continue
-
-                seen_requirements.add(req_number)
-
-                # Try multiple XPath strategies to find requirement text
-                req_text_parts = []
-
-                # Strategy 1: Direct following sibling paragraph
-                if not req_text_parts:
-                    req_text_parts = req_section.xpath(
-                        "following-sibling::p[1]//text()"
-                    ).getall()
-
-                # Strategy 2: Parent's following sibling paragraph
-                if not req_text_parts:
-                    req_text_parts = req_section.xpath(
-                        "../following-sibling::p[1]//text()"
-                    ).getall()
-
-                # Strategy 3: Next paragraph in same parent container
-                if not req_text_parts:
-                    req_text_parts = req_section.xpath(
-                        "parent::*/following-sibling::*/p[1]//text()"
-                    ).getall()
-
-                # Strategy 4: Look for paragraph within same div container
-                if not req_text_parts:
-                    req_text_parts = req_section.xpath(
-                        "following::p[1]//text()"
-                    ).getall()
-
-                req_text = " ".join(
-                    text.strip() for text in req_text_parts if text.strip()
-                )
-                self.logger.info(
-                    f"Requirement {req_number} text: '{req_text[:100]}...' ({len(req_text.split())} words)"
-                )
-
-                if req_text and len(req_text.split()) >= self.settings.get(
-                    "MIN_REQUIREMENT_WORDS", 5
-                ):
-                    # Extract activities for this requirement
-                    activities = self.extract_activities_for_requirement(
-                        response, req_section
-                    )
-                    requirements_list.append(
-                        {"id": req_number, "text": req_text, "activities": activities}
-                    )
-                else:
-                    self.logger.warning(
-                        f"Requirement {req_number} too short: '{req_text}'"
-                    )
+        requirements_list = self.extract_requirements_summary(response, adventure_name)
+        if not requirements_list:
+            self.logger.warning(
+                f"No summary requirements found for {adventure_name}, falling back to legacy extraction."
+            )
+            requirements_list = self.extract_requirements_legacy(
+                response, adventure_name
+            )
 
         item["requirements_data"] = requirements_list
 
@@ -302,6 +247,149 @@ class CubScoutAdventuresSpider(scrapy.Spider):
                 activities.append(activity)
 
         return activities
+
+    def extract_requirements_summary(self, response, adventure_name):
+        requirements_list = []
+        seen_requirements = set()
+
+        summary_root = response.xpath(
+            "//h2[contains(normalize-space(.), 'Complete the following requirements')]/ancestor::section[1]"
+        )
+        req_sections = summary_root.xpath(
+            ".//h3[contains(normalize-space(.), 'Requirement')]"
+        )
+
+        if not req_sections:
+            return []
+
+        self.logger.info(
+            f"Found {len(req_sections)} summary requirement sections for {adventure_name}"
+        )
+
+        for req_section in req_sections:
+            req_heading = req_section.xpath("text()").get() or ""
+            req_match = re.search(r"Requirement (\d+)", req_heading)
+
+            if not req_match:
+                continue
+
+            req_number = req_match.group(1)
+            if req_number in seen_requirements:
+                continue
+            seen_requirements.add(req_number)
+
+            text_container = req_section.xpath(
+                "ancestor::div[contains(@class, 'elementor-element') and contains(@class, 'elementor-widget-heading')][1]"
+                "/following-sibling::div[contains(@class, 'elementor-widget-text-editor')][1]"
+                "//div[contains(@class, 'elementor-widget-container')][1]"
+            )
+
+            requirement_html = text_container.get() if text_container else ""
+            fallback_text = " ".join(
+                text_container.xpath(".//text()").getall() if text_container else []
+            ).strip()
+
+            activities = self.extract_activities_for_requirement(response, req_section)
+            requirement_data = self._build_requirement_data(
+                req_number=req_number,
+                requirement_html=requirement_html,
+                fallback_text=fallback_text,
+                activities=activities,
+            )
+            if requirement_data:
+                requirements_list.append(requirement_data)
+
+        return requirements_list
+
+    def extract_requirements_legacy(self, response, adventure_name):
+        requirements_list = []
+        seen_requirements = set()
+        req_sections = response.xpath(
+            "//h2[contains(text(), 'Requirement')] | //h3[contains(text(), 'Requirement')]"
+        )
+
+        self.logger.info(
+            f"Found {len(req_sections)} requirement sections for {adventure_name}"
+        )
+
+        for req_section in req_sections:
+            req_heading = req_section.xpath("text()").get() or ""
+            req_match = re.search(r"Requirement (\d+)", req_heading)
+
+            if not req_match:
+                continue
+
+            req_number = req_match.group(1)
+            if req_number in seen_requirements:
+                continue
+            seen_requirements.add(req_number)
+
+            req_text_parts = []
+
+            if not req_text_parts:
+                req_text_parts = req_section.xpath(
+                    "following-sibling::p[1]//text()"
+                ).getall()
+
+            if not req_text_parts:
+                req_text_parts = req_section.xpath(
+                    "../following-sibling::p[1]//text()"
+                ).getall()
+
+            if not req_text_parts:
+                req_text_parts = req_section.xpath(
+                    "parent::*/following-sibling::*/p[1]//text()"
+                ).getall()
+
+            if not req_text_parts:
+                req_text_parts = req_section.xpath("following::p[1]//text()").getall()
+
+            fallback_text = " ".join(
+                text.strip() for text in req_text_parts if text.strip()
+            )
+
+            activities = self.extract_activities_for_requirement(response, req_section)
+            requirement_data = self._build_requirement_data(
+                req_number=req_number,
+                requirement_html=fallback_text,
+                fallback_text=fallback_text,
+                activities=activities,
+            )
+            if requirement_data:
+                requirements_list.append(requirement_data)
+            else:
+                self.logger.warning(
+                    f"Requirement {req_number} too short: '{fallback_text}'"
+                )
+
+        return requirements_list
+
+    def _build_requirement_data(
+        self, req_number, requirement_html, fallback_text, activities
+    ):
+        content_html = requirement_html or fallback_text or ""
+        content_nodes = self._requirements_extractor.extract_nodes(content_html)
+        raw_item = RawRequirementItem(
+            id=req_number, content_nodes=content_nodes, sub_requirements=[]
+        )
+        semantic_requirement = self._requirements_processor.process([raw_item])[0]
+        if not semantic_requirement.label:
+            semantic_requirement.label = req_number
+
+        req_text = self._requirements_generator.render_content(
+            semantic_requirement.content
+        )
+        if not req_text and fallback_text:
+            req_text = fallback_text
+
+        min_words = self.settings.get("MIN_REQUIREMENT_WORDS", 5)
+        if not req_text or len(req_text.split()) < min_words:
+            return None
+
+        requirement_data = semantic_requirement.model_dump()
+        requirement_data["text"] = req_text
+        requirement_data["activities"] = activities
+        return requirement_data
 
     def extract_activity_data(self, card):
         """Extract activity data from an activity card element."""

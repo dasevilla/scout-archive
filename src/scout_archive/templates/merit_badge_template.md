@@ -1,23 +1,4 @@
-{% macro escape_starting_asterisk(text) %}
-{%- if text.startswith('*') %}
-\{{ text }}
-{%- else %}
-{{ text }}
-{%- endif %}
-{%- endmacro %}
-
-{% macro render_requirements(requirements, level=0) %}
-{% set indent = ' ' * (level * 4) %}
-{% for requirement in requirements %}
-{{ indent }}* {% if requirement.id %}({{ requirement.id }}) {% endif %}{{ escape_starting_asterisk(requirement.text) }}
-{% if requirement.requirements %}{{ render_requirements(requirement.requirements, level + 1) }}
-
-{% endif %}
-{% endfor %}
-{% endmacro %}
-
 # {{ badge_name }} Merit Badge
-
 {% if badge_image_filename %}
 ![{{ badge_name }} Merit Badge](images/{{ badge_image_filename }})
 {% endif %}
@@ -25,13 +6,14 @@
 ## Overview
 
 {% if is_eagle_required %}**Eagle required**{% endif %}
+{% if is_lab %}**Test Lab Merit Badge**, Verify current status at [Scouts BSA Test Lab](https://www.scouting.org/skills/merit-badges/test-lab/).{% endif %}
 
 
 {{ badge_overview }}
 
 ## Requirements
 
-{{ render_requirements(requirements_data) }}
+{{ requirements_markdown }}
 
 ## Resources
 
@@ -41,7 +23,9 @@
 {% elif badge_pdf_url %}
 - [{{ badge_name }} merit badge PDF]({{ badge_pdf_url }})
 {% endif %}
+{% if badge_shop_url %}
 - [{{ badge_name }} merit badge pamphlet]({{ badge_shop_url }})
+{% endif %}
 {% if workbook_pdf_url %}
 - [{{ badge_name }} merit badge workbook PDF]({{ workbook_pdf_url }})
 {% endif %}

@@ -14,7 +14,7 @@ Usage: get-release-info.py <output_file> [--merit-badge-report FILE] [--cub-repo
 """
 
 import click
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 
@@ -38,7 +38,7 @@ def main(output_file, merit_badge_report, cub_report, run_number, run_attempt):
     date = datetime.now().strftime("%Y-%m-%d")
 
     release_tag = f"archive-{date}-{run_number}-{run_attempt}"
-    generated_date = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+    generated_date = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     if run_attempt == "1":
         release_name = f"Scout Archive Update - {date}"

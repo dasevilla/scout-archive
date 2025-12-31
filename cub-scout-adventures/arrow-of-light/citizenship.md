@@ -15,7 +15,7 @@ Volunteering to make your community and country better is part of being both a S
 
 ### Requirement 1
 
-Identify a community service project that your patrol or pack could accomplish.  Use Scouting America’s SAFE Checklist and develop a plan to conduct the service project safely.
+Identify a community service project that your patrol or pack could accomplish. Use Scouting America’s SAFE Checklist and develop a plan to conduct the service project safely.
 
 **Activities:**
 

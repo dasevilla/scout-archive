@@ -15,7 +15,7 @@ Tigers will have fun making their own shield or coat of arms and even a castle. 
 
 ### Requirement 1
 
-Discuss with your den or Tiger adult partner what it means to have courteous  behavior, how a knight behaves. Tell another Tiger which points of the Scout Law help you to have the same Knightly behavior.
+Discuss with your den or Tiger adult partner what it means to have courteous behavior, how a knight behaves. Tell another Tiger which points of the Scout Law help you to have the same Knightly behavior.
 
 **Activities:**
 

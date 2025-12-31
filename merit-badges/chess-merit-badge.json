@@ -2,6 +2,7 @@
   "name": "Chess",
   "overview": "Chess is among the oldest board games in the world, and it ranks among the most popular games ever created. Chess is played worldwide—even over the Internet. Players meet for fun and in competition, everywhere from kitchen tables and park benches to formal international tournaments.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/chess/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chess.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Chess.pdf",
@@ -11,182 +12,599 @@
   "image_filename": "chess-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chess.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14069",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Discuss with your counselor the history of the game of chess. Explain why it is considered a game of planning and strategy.",
-      "internal_parent_id": null,
-      "internal_id": "3844",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Discuss with your counselor the following:",
-      "internal_parent_id": null,
-      "internal_id": "3821",
-      "requirements": [
+      "id": "14400",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "The benefits of playing chess, including developing critical thinking skills, concentration skills, and decision-making skills, and how these skills can help you in other areas of your life",
-          "internal_parent_id": "3821",
-          "internal_id": "3822",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14401",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor the history of the game of chess."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Sportsmanship and chess etiquette.",
-          "internal_parent_id": "3821",
-          "internal_id": "3823",
-          "requirements": []
+          "id": "14402",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Research a famous chess player and what accomplishments made him or her famous. Discuss with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Demonstrate to your counselor that you know each of the following. Then, using the EDGE method to teach someone (preferably another Scout) who does not know how to play chess:",
-      "internal_parent_id": null,
-      "internal_id": "3824",
-      "requirements": [
+      "id": "14377",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "The name of each chess piece",
-          "internal_parent_id": "3824",
-          "internal_id": "3825",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss with your counselor the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14378",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Why chess is considered a game of planning and strategy."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "How to set up a chessboard",
-          "internal_parent_id": "3824",
-          "internal_id": "3826",
-          "requirements": []
+          "id": "14379",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The benefits of playing chess, including developing critical thinking skills, concentration skills, and decision-making skills, and how these skills can help you in other areas of your life"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "How each chess piece moves, including castling and en passant captures.",
-          "internal_parent_id": "3824",
-          "internal_id": "3827",
-          "requirements": []
+          "id": "14403",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Sportsmanship and chess etiquette."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "3828",
-      "requirements": [
+      "id": "14380",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Demonstrate scorekeeping using the algebraic system of chess notation.",
-          "internal_parent_id": "3828",
-          "internal_id": "3829",
-          "requirements": []
+          "type": "text",
+          "value": "Demonstrate to your counselor that you know each of the following. Then, using Scouting EDGE to teach someone who does not know how to play chess:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14381",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The name of each chess piece"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Discuss the differences between the opening, the middle game, and the endgame.",
-          "internal_parent_id": "3828",
-          "internal_id": "3830",
-          "requirements": []
+          "id": "14382",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to set up a chessboard"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain four opening principles.",
-          "internal_parent_id": "3828",
-          "internal_id": "3831",
-          "requirements": []
+          "id": "14383",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "How each chess piece moves and captures, including: four rules of castling, en passant captures, pawn promotion, check, ways to get out of check, and checkmate."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain the four rules for castling.",
-          "internal_parent_id": "3828",
-          "internal_id": "3832",
-          "requirements": []
-        },
-        {
-          "id": "e",
-          "text": "On a chessboard, demonstrate a \"scholar's mate\" and a \"fool's mate.\"",
-          "internal_parent_id": "3828",
-          "internal_id": "3833",
-          "requirements": []
-        },
-        {
-          "id": "f",
-          "text": "Demonstrate on a chessboard four ways a chess game can end in a draw.",
-          "internal_parent_id": "3828",
-          "internal_id": "3834",
-          "requirements": []
+          "id": "14404",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "The five ways a game can end in a draw."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "3835",
-      "requirements": [
+      "id": "14384",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain four of the following elements of chess strategy: exploiting weaknesses, force, king safety, pawn structure, space, tempo, time.",
-          "internal_parent_id": "3835",
-          "internal_id": "3836",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14385",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate scorekeeping using the algebraic system of chess notation."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain any five of these chess tactics: clearance sacrifice, decoy, discovered attack, double attack, fork, interposing, overloading, overprotecting, pin, remove the defender, skewer, zwischenzug.",
-          "internal_parent_id": "3835",
-          "internal_id": "3837",
-          "requirements": []
+          "id": "14386",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the differences between the opening, the middle game, and the endgame."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Set up a chessboard with the white king on e1, the white rooks on a1 and h1, and the black king on e5. With White to move first, demonstrate how to force checkmate on the black king.",
-          "internal_parent_id": "3835",
-          "internal_id": "3838",
-          "requirements": []
+          "id": "14387",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain four opening principles. Demonstrate for your counselor the first five moves of the following openings: Ruy Lopez, French Defense, Queen's Gambit Declined, Sicilian Defense."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Set up and solve five direct-mate problems provided by your counselor.",
-          "internal_parent_id": "3835",
-          "internal_id": "3839",
-          "requirements": []
+          "id": "14388",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a chessboard, demonstrate Scholar's Mate, Fool's Mate, Légal Mate, Fried Liver Attack, and Noah's Ark Trap."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "3840",
-      "requirements": [
+      "id": "14391",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Play at least three games of chess with other Scouts and/or your counselor. Replay the games from your score sheets and discuss with your counselor how you might have played each game differently.",
-          "internal_parent_id": "3840",
-          "internal_id": "3841",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14392",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain four of the following elements of chess strategy: exploiting weaknesses, force, king safety, pawn structure, space, tempo, and clock management."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Play in a scholastic (youth) chess tournament and use your score sheets from that tournament to replay your games with your counselor. Discuss with your counselor how you might have played each game differently.",
-          "internal_parent_id": "3840",
-          "internal_id": "3842",
-          "requirements": []
+          "id": "14393",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain any five of these chess tactics: clearance sacrifice, decoy, discovered attack, double check, double attack, fork, interposing, overloading, overprotecting, pin, skewer, remove the defender, zwischenzug, and zugzwang."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Organize and run a chess tournament with at least four players, plus you. Have each competitor play at least two games.",
-          "internal_parent_id": "3840",
-          "internal_id": "3843",
-          "requirements": []
+          "id": "14394",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Set up a chessboard as follows and with White to move first, demonstrate how to force checkmate on the Black king:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14405",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "White on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "e1"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", the White rooks on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a1"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " and "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "h1"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", and the Black king on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "e5"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14406",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "White King on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "e1"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", White queen on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "d1"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", Black king on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "e5"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14407",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "White king on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "e1"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", White rook on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a1"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", Black king on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "e5"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14395",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "With White king on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "d4"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", White pawn on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "e3"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", and Black king on "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "e6"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ":"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14408",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "With White to move, demonstrate how White can force Black to allow his pawn to reach the last rank and be promoted to a queen."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14409",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "With Black to move, demonstrate how Black can force a draw."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14410",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Set up and solve five direct-mate problems provided by your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14396",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain to your counselor how chess tournaments are run, including the Swiss system tournament format, the round robin tournament format, pairings for each round, time controls, touch move, scoring, and chess ratings."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "14411",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14412",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Play at least three games of chess with other Scouts and/or your counselor. Replay the games from your score sheets and discuss with your counselor how you might have played each game differently."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14413",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Play in a scholastic (youth) chess tournament and use your score sheets from that tournament to replay your games with your counselor. Discuss with your counselor how you might have played each game differently."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14414",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Organize and run a chess tournament with at least four players, plus you. Have each competitor play at least two games."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

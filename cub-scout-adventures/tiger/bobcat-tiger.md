@@ -43,7 +43,7 @@ Recite the Scout Oath with your den, including your Tiger adult partner.
 
 ### Requirement 3
 
-Have your Tiger adult partner or den leader read the Scout Law to you.  Demonstrate your understanding of being trustworthy, helpful, or friendly.
+Have your Tiger adult partner or den leader read the Scout Law to you. Demonstrate your understanding of being trustworthy, helpful, or friendly.
 
 **Activities:**
 
@@ -56,7 +56,7 @@ Have your Tiger adult partner or den leader read the Scout Law to you.  Demonst
 
 ### Requirement 4
 
-Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake.  Show how each are used.
+Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake. Show how each are used.
 
 **Activities:**
 
@@ -80,7 +80,7 @@ Share with your Tiger adult partner, at a den meeting or at home, a time when yo
 
 ### Requirement 6
 
-At home, with your parent or legal guardian do the activities in the booklet “ How to Protect Your Children from Child Abuse: A Parent’s Guide .”
+At home, with your parent or legal guardian do the activities in the booklet “[How to Protect Your Children from Child Abuse: A Parent’s Guide](https://www.scouting.org/training/youth-protection/parents-guides/).”
 
 **Activities:**
 

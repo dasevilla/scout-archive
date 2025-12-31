@@ -26,7 +26,7 @@ Using a map, locate where you live.
 
 ### Requirement 2
 
-Draw a map for a friend to locate your home or school.  Create a key for the map.
+Draw a map for a friend to locate your home or school. Create a key for the map.
 
 **Activities:**
 

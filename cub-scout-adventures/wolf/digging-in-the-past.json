@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Play a dinosaur game that shows what you know about them.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Play a dinosaur game that shows what you know about them."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Play a dinosaur game that shows what you know about them.",
       "activities": [
         {
           "name": "Dino Detective",
@@ -43,6 +52,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Create an imaginary dinosaur. Share with your den or family its name, what it eats, its size, and where it lives."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Create an imaginary dinosaur. Share with your den or family its name, what it eats, its size, and where it lives.",
       "activities": [
         {
@@ -76,6 +94,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Be a paleontologist and dig through a dinosaur dig."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Be a paleontologist and dig through a dinosaur dig.",
       "activities": [
         {

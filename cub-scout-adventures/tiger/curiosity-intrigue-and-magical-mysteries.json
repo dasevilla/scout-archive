@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Learn a magic trick.  Practice the trick.  Share the trick with you den or family members.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn a magic trick. Practice the trick. Share the trick with you den or family members."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Learn a magic trick. Practice the trick. Share the trick with you den or family members.",
       "activities": [
         {
           "name": "Coin Through a Neckerchief",
@@ -43,6 +52,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Demonstrate how a magic trick works to your den, family or Tiger adult partner."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Demonstrate how a magic trick works to your den, family or Tiger adult partner.",
       "activities": [
         {
@@ -58,6 +76,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Write your name in secret code."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Write your name in secret code.",
       "activities": [
         {
@@ -91,6 +118,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Write a message with the code. Challenge your den, family or Tiger adult partner to read your coded message."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Write a message with the code. Challenge your den, family or Tiger adult partner to read your coded message.",
       "activities": [
         {

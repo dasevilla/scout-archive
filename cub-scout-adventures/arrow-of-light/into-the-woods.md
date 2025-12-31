@@ -15,7 +15,7 @@ Trees and plants play important roles in nature. In this Adventure, you will get
 
 ### Requirement 1
 
-Visit an area with trees and plants and conduct a tree inventory.  Select one tree and complete the remaining requirements based on that tree.
+Visit an area with trees and plants and conduct a tree inventory. Select one tree and complete the remaining requirements based on that tree.
 
 **Activities:**
 

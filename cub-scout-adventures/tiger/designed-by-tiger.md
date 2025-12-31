@@ -15,7 +15,7 @@ Tigers will discover the fundamentals of the engineering process of designing, b
 
 ### Requirement 1
 
-Think about something that you would like to build.  Draw a picture of what the final project should look like.
+Think about something that you would like to build. Draw a picture of what the final project should look like.
 
 **Activities:**
 
@@ -35,7 +35,7 @@ Using your drawing as a guide, build the project.
 
 ### Requirement 3
 
-When completed, discuss with your Tiger adult partner what could be done to improve  your project.
+When completed, discuss with your Tiger adult partner what could be done to improve your project.
 
 **Activities:**
 

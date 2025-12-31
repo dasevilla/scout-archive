@@ -15,7 +15,7 @@ Rocks and minerals are more than just things that lie in the ground. Yes, they h
 
 ### Requirement 1
 
-Examine  the three types of rocks, sedimentary, igneous, and metamorphic.
+Examine the three types of rocks, sedimentary, igneous, and metamorphic.
 
 **Activities:**
 

@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "With  your den or Lion adult partner, learn about the safety gear you should use while riding a bicycle.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your den or Lion adult partner, learn about the safety gear you should use while riding a bicycle."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "With your den or Lion adult partner, learn about the safety gear you should use while riding a bicycle.",
       "activities": [
         {
           "name": "Checking My Gear Before I Ride",
@@ -34,6 +43,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your den or Lion adult partner, learn the safety rules to follow when riding a bicycle."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "With your den or Lion adult partner, learn the safety rules to follow when riding a bicycle.",
       "activities": [
         {
@@ -49,6 +67,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your Lion adult partner or family, ride a bicycle wearing appropriate safety gear and follow safety rules."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "With your Lion adult partner or family, ride a bicycle wearing appropriate safety gear and follow safety rules.",
       "activities": [
         {

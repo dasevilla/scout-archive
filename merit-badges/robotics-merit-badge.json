@@ -2,6 +2,7 @@
   "name": "Robotics",
   "overview": "Build your own working robot with the Robotics Merit Badge. Learn about the robotics industry, discover the different fields of robotics, explore the available career options in robotics, and design, build, program and test your own robot.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/robotics/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Robotics.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Robotics.pdf",
@@ -11,178 +12,455 @@
   "image_filename": "robotics-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Robotics.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14154",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Safety. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "2441",
-      "requirements": [
+      "id": "15562",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics. Resource: [Hazards and Robot Safety (video)](https://youtu.be/7v3cylLL9hw?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)",
-          "internal_parent_id": "2441",
-          "internal_id": "2442",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Discuss first aid and prevention for the types of injuries that could occur while participating in robotics activities and competitions, including cuts, eye injuries, and burns (chemical or heat). Resource: [How to Treat Cuts and Scrapes (video)](https://www.youtube.com/watch?v=0jp5FgLmKtk&list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce&index=1)",
-          "internal_parent_id": "2441",
-          "internal_id": "2443",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "text": "Robotics Industry. Discuss the following with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "2444",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "The kinds of things robots can do and how robots are best used today. Resource: [TYPES OF ROBOTS | Robots Classification (video)](https://youtu.be/fc_Cynqr6jM)",
-          "internal_parent_id": "2444",
-          "internal_id": "2445",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "The similarities and differences between remote-control vehicles, telerobots, and autonomous robots. Resources: [What's The Difference Between Autonomous Robots and Controlled Robots? (video)](https://youtu.be/kdYJyGQwtL4) [What Is the Difference Between Autonomous and Teleoperated Robots? (video)](https://milvus.io/ai-quick-reference/what-is-the-difference-between-autonomous-and-teleoperated-robots)",
-          "internal_parent_id": "2444",
-          "internal_id": "2446",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Three different methods robots can use to move themselves other than wheels or tracks. Describe when it would be appropriate to use each method. Resource: [The No Wheel, Circular Gear, or Sprocket Robot Race (video)](https://youtu.be/aVuNcVW-gzE?si=xoginEhjVnWEPiMd)",
-          "internal_parent_id": "2444",
-          "internal_id": "2447",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "text": "General Knowledge. Discuss with your counselor three of the five major fields of robotics (human-robot interface, mobility, manipulation, programming, sensors) and their importance to robotics development. Discuss either the three fields as they relate to a single robot system OR talk about each field in general. Find pictures or at least one video to aid your discussion. Resource:  [5 Sub-Disciplines of Robotics (video)](https://youtu.be/exEBkd1Gn0I)",
-      "internal_parent_id": null,
-      "internal_id": "2448",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Design, Build, Program, Test. Do the following: Resources: [What Qualifies as a Robot for Robotics Merit Badge? (video)](https://youtu.be/6dYq9bBSaWc?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)  [Methods Robots Use to Move (video)](https://youtu.be/T0JeYyU7R-c?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)  [Robotics: Degrees of Freedom (video)](https://youtu.be/55O-DGeoFic?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)",
-      "internal_parent_id": null,
-      "internal_id": "2449",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "With your counselor's approval, choose a task for the robot or robotic subsystem that you plan to build. Include sensor feedback and programming in the task. Document this information in your robot engineering notebook.",
-          "internal_parent_id": "2449",
-          "internal_id": "2450",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Design your robot. The robot design should use sensors and programming and have at least 2 degrees of freedom. Document the design in your robot engineering notebook using drawings and a written description.",
-          "internal_parent_id": "2449",
-          "internal_id": "2451",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Build a robot or robotic subsystem of your original design to accomplish the task you chose for requirement 4(a).",
-          "internal_parent_id": "2449",
-          "internal_id": "2452",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Discuss with your counselor the programming options available for your robot. Then do ONE of the following:",
-          "internal_parent_id": "2449",
-          "internal_id": "2453",
-          "requirements": [
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
             {
-              "id": "1",
-              "text": "Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook. Resource: [VEXcode VR (website)](https://www.vexrobotics.com/vexcode/vr?srsltid=AfmBOopvcCE5uFUVB__bxV0UiLP20ZZQwq0WrNHHJWuIQUDXmLAwl8UL%5C)",
-              "internal_parent_id": "2453",
-              "internal_id": "2455",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook. Resources: [General Guide to Creating Flowcharts (video)](https://youtu.be/SWRDqTx8d4k) [Flowchart Tutorial for Beginners (video)](https://youtu.be/c8asK8iCaRk)",
-              "internal_parent_id": "2453",
-              "internal_id": "2456",
-              "requirements": []
+              "type": "text",
+              "value": "Safety."
             }
           ]
         },
         {
-          "id": "e",
-          "text": "Test your robot and record the results in your robot engineering notebook. Include suggestions on how you could improve your robot, as well as pictures or sketches of your finished robot.",
-          "internal_parent_id": "2449",
-          "internal_id": "2454",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
         }
-      ]
-    },
-    {
-      "id": "5",
-      "text": "Demonstrate. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "2457",
-      "requirements": [
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "a",
-          "text": "Demonstrate for your counselor the robot you built in requirement 4.",
-          "internal_parent_id": "2457",
-          "internal_id": "2458",
-          "requirements": []
+          "id": "15563",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Hazards and Robot Safety (video)",
+              "url": "https://youtu.be/7v3cylLL9hw?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Share your robot engineering notebook with your counselor. Talk about how well your robot accomplished the task, the improvements you would make in your next design, and what you learned about the design process.",
-          "internal_parent_id": "2457",
-          "internal_id": "2459",
-          "requirements": []
+          "id": "15564",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss first aid and prevention for the types of injuries that could occur while participating in robotics activities and competitions, including cuts, eye injuries, and burns (chemical or heat)."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Treat Cuts and Scrapes (video)",
+              "url": "https://www.youtube.com/watch?v=0jp5FgLmKtk&list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce&index=1"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Competitions. Do ONE of the following. Resources:  [About FIRST Robotics Competition (2021) (video)](https://youtu.be/Jd29kzjclV0)  [About VEX Robotics (video)](https://youtu.be/Mi6E37oU8yc)",
-      "internal_parent_id": null,
-      "internal_id": "2460",
-      "requirements": [
+      "id": "15565",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Attend a robotics competition and report to your counselor what you saw and learned about the competition and how teams are organized and managed.",
-          "internal_parent_id": "2460",
-          "internal_id": "2461",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Robotics Industry."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Learn about three youth robotics competitions. Tell your counselor about these, including the type of competition, time commitment, age of the participants, and how many teams are involved.",
-          "internal_parent_id": "2460",
-          "internal_id": "2462",
-          "requirements": []
+          "type": "text",
+          "value": " Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15566",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The kinds of things robots can do and how robots are best used today."
+            }
+          ],
+          "resources": [
+            {
+              "title": "TYPES OF ROBOTS | Robots Classification (video)",
+              "url": "https://youtu.be/fc_Cynqr6jM"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15567",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The similarities and differences between remote-control vehicles, telerobots, and autonomous robots."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What's The Difference Between Autonomous Robots and Controlled Robots? (video)",
+              "url": "https://youtu.be/kdYJyGQwtL4"
+            },
+            {
+              "title": "What Is the Difference Between Autonomous and Teleoperated Robots? (video)",
+              "url": "https://milvus.io/ai-quick-reference/what-is-the-difference-between-autonomous-and-teleoperated-robots"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15568",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Three different methods robots can use to move themselves other than wheels or tracks. Describe when it would be appropriate to use each method."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The No Wheel, Circular Gear, or Sprocket Robot Race (video)",
+              "url": "https://youtu.be/aVuNcVW-gzE?si=xoginEhjVnWEPiMd"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Careers. Name three career opportunities in robotics. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you. Resources:  [Learn about the careers of robotics technicians (video)](https://youtu.be/0dwkGhRPQW4)  [Careers in Robotics (video)](https://youtu.be/5YTYFrrSdV4?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)",
-      "internal_parent_id": null,
-      "internal_id": "2463",
-      "requirements": []
+      "id": "15583",
+      "label": "3",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "General Knowledge."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Discuss with your counselor three of the five major fields of robotics (human-robot interface, mobility, manipulation, programming, sensors) and their importance to robotics development. Discuss either the three fields as they relate to a single robot system OR talk about each field in general. Find pictures or at least one video to aid your discussion."
+        }
+      ],
+      "resources": [
+        {
+          "title": "5 Sub-Disciplines of Robotics (video)",
+          "url": "https://youtu.be/exEBkd1Gn0I"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "15569",
+      "label": "4",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Design, Build, Program, Test."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Qualifies as a Robot for Robotics Merit Badge? (video)",
+          "url": "https://youtu.be/6dYq9bBSaWc?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce"
+        },
+        {
+          "title": "Methods Robots Use to Move (video)",
+          "url": "https://youtu.be/T0JeYyU7R-c?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce"
+        },
+        {
+          "title": "Robotics: Degrees of Freedom (video)",
+          "url": "https://youtu.be/55O-DGeoFic?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "15573",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your counselor's approval, choose a task for the robot or robotic subsystem that you plan to build. Include sensor feedback and programming in the task. Document this information in your robot engineering notebook."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15574",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Design your robot. The robot design should use sensors and programming and have at least 2 degrees of freedom. Document the design in your robot engineering notebook using drawings and a written description."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15575",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Build a robot or robotic subsystem of your original design to accomplish the task you chose for requirement 4(a)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15570",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor the programming options available for your robot. Then do ONE of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15571",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook."
+            }
+          ],
+          "resources": [
+            {
+              "title": "VEXcode VR (website)",
+              "url": "https://www.vexrobotics.com/vexcode/vr?srsltid=AfmBOopvcCE5uFUVB__bxV0UiLP20ZZQwq0WrNHHJWuIQUDXmLAwl8UL%5C"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15572",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook."
+            }
+          ],
+          "resources": [
+            {
+              "title": "General Guide to Creating Flowcharts (video)",
+              "url": "https://youtu.be/SWRDqTx8d4k"
+            },
+            {
+              "title": "Flowchart Tutorial for Beginners (video)",
+              "url": "https://youtu.be/c8asK8iCaRk"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15576",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Test your robot and record the results in your robot engineering notebook. Include suggestions on how you could improve your robot, as well as pictures or sketches of your finished robot."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15577",
+      "label": "5",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Demonstrate."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15578",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate for your counselor the robot you built in requirement 4."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15579",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Share your robot engineering notebook with your counselor. Talk about how well your robot accomplished the task, the improvements you would make in your next design, and what you learned about the design process."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15580",
+      "label": "6",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Competitions."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do ONE of the following."
+        }
+      ],
+      "resources": [
+        {
+          "title": "About FIRST Robotics Competition (2021) (video)",
+          "url": "https://youtu.be/Jd29kzjclV0"
+        },
+        {
+          "title": "About VEX Robotics (video)",
+          "url": "https://youtu.be/Mi6E37oU8yc"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "15581",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Attend a robotics competition and report to your counselor what you saw and learned about the competition and how teams are organized and managed."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15582",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Learn about three youth robotics competitions. Tell your counselor about these, including the type of competition, time commitment, age of the participants, and how many teams are involved."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15584",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15585",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge in Robotics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Learn About the Careers of Robotics Technicians (video)",
+              "url": "https://youtu.be/0dwkGhRPQW4"
+            },
+            {
+              "title": "Careers in Robotics (video)",
+              "url": "https://youtu.be/5YTYFrrSdV4?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15586",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify how you might use the skills and knowledge in Robotics to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     }
   ]
 }

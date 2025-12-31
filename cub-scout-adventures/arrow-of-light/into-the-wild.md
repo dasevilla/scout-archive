@@ -15,7 +15,7 @@ When you go “into the wild,” you will begin to learn about some of the mamma
 
 ### Requirement 1
 
-Visit a place with a variety of wild animals.  Select one of the animals and observe its behavior.  Use your selected animal to complete the remaining requirements.
+Visit a place with a variety of wild animals. Select one of the animals and observe its behavior. Use your selected animal to complete the remaining requirements.
 
 **Activities:**
 
@@ -39,7 +39,7 @@ Create a model of your animal’s ecosystem.
 
 ### Requirement 3
 
-Investigate how your animal coexists with other animals  in the wild.
+Investigate how your animal coexists with other animals in the wild.
 
 **Activities:**
 

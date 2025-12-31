@@ -33,7 +33,7 @@ Identify an animal that has a pattern to its physical appearance. Investigate ho
 
 ### Requirement 3
 
-Find  examples of bilateral symmetry in nature.
+Find examples of bilateral symmetry in nature.
 
 **Activities:**
 

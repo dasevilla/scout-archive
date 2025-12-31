@@ -39,7 +39,7 @@ Find the mint mark on a coin and identify the mint facility where it was made an
 
 ### Requirement 4
 
-Choose a coin that interests you and make a coin rubbing.  List information next to the coin detailing the pictures on it, the year it was made, and the mint where it was made.
+Choose a coin that interests you and make a coin rubbing. List information next to the coin detailing the pictures on it, the year it was made, and the mint where it was made.
 
 **Activities:**
 

@@ -2,6 +2,7 @@
   "name": "Emergency Preparedness",
   "overview": "Scouts are often called upon to help because they know first aid and they know about the discipline and planning needed to react to an emergency situation. Earning this merit badge helps a Scout to be prepared by learning the actions that can be helpful and needed before, during, and after an emergency.",
   "is_eagle_required": true,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/emergency-preparedness/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Emergency%20Preparedness.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Emergency-Preparedness.pdf",
@@ -11,432 +12,1162 @@
   "image_filename": "emergency-preparedness-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Emergency%20Preparedness.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14089",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "First Aid Merit Badge. Earn the First Aid merit badge.",
-      "internal_parent_id": null,
-      "internal_id": "12379",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Emergency Situations. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12332",
-      "requirements": [
+      "id": "14542",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Discuss with your counselor the aspects of emergency preparedness and include in your discussion the kinds of questions that are important to ask yourself as you consider each of these:  - Prevention - Protection - Mitigation - Response - Recovery",
-          "internal_parent_id": "12332",
-          "internal_id": "12352",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Using a chart, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2(a) (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. Discuss your findings with your counselor.",
-          "internal_parent_id": "12332",
-          "internal_id": "12333",
-          "requirements": [
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
             {
-              "id": "1",
-              "text": "Home stovetop or oven fire",
-              "internal_parent_id": "12333",
-              "internal_id": "12334",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Home flammable liquid fire",
-              "internal_parent_id": "12333",
-              "internal_id": "12344",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Gas leak in or near a home or with outside cooking",
-              "internal_parent_id": "12333",
-              "internal_id": "12345",
-              "requirements": []
-            },
-            {
-              "id": "4",
-              "text": "Food poisoning",
-              "internal_parent_id": "12333",
-              "internal_id": "12346",
-              "requirements": []
-            },
-            {
-              "id": "5",
-              "text": "Automobile crash",
-              "internal_parent_id": "12333",
-              "internal_id": "12347",
-              "requirements": []
-            },
-            {
-              "id": "6",
-              "text": "Vehicle stalled in the desert",
-              "internal_parent_id": "12333",
-              "internal_id": "12348",
-              "requirements": []
-            },
-            {
-              "id": "7",
-              "text": "Vehicle trapped in a blizzard",
-              "internal_parent_id": "12333",
-              "internal_id": "12349",
-              "requirements": []
-            },
-            {
-              "id": "8",
-              "text": "Backcountry injury",
-              "internal_parent_id": "12333",
-              "internal_id": "12350",
-              "requirements": []
-            },
-            {
-              "id": "9",
-              "text": "Boating or water accident",
-              "internal_parent_id": "12333",
-              "internal_id": "12351",
-              "requirements": []
-            },
-            {
-              "id": "10",
-              "text": "Toxic chemical spills and releases",
-              "internal_parent_id": "12333",
-              "internal_id": "12335",
-              "requirements": []
-            },
-            {
-              "id": "11",
-              "text": "Nuclear power plant emergency",
-              "internal_parent_id": "12333",
-              "internal_id": "12336",
-              "requirements": []
-            },
-            {
-              "id": "12",
-              "text": "Fire or explosion in a public place",
-              "internal_parent_id": "12333",
-              "internal_id": "12337",
-              "requirements": []
-            },
-            {
-              "id": "13",
-              "text": "Violence in a public place",
-              "internal_parent_id": "12333",
-              "internal_id": "12338",
-              "requirements": []
-            },
-            {
-              "id": "14",
-              "text": "Wildland fire",
-              "internal_parent_id": "12333",
-              "internal_id": "12339",
-              "requirements": []
-            },
-            {
-              "id": "15",
-              "text": "Avalanche (snowslide or rockslide)",
-              "internal_parent_id": "12333",
-              "internal_id": "12340",
-              "requirements": []
-            },
-            {
-              "id": "16",
-              "text": "Earthquake",
-              "internal_parent_id": "12333",
-              "internal_id": "12341",
-              "requirements": []
-            },
-            {
-              "id": "17",
-              "text": "Tsunami",
-              "internal_parent_id": "12333",
-              "internal_id": "12342",
-              "requirements": []
-            },
-            {
-              "id": "18",
-              "text": "Major flooding or a flash flood with water outage",
-              "internal_parent_id": "12333",
-              "internal_id": "12343",
-              "requirements": []
-            },
-            {
-              "id": "19",
-              "text": "Hurricane with power outage",
-              "internal_parent_id": "12333",
-              "internal_id": "12382",
-              "requirements": []
-            },
-            {
-              "id": "20",
-              "text": "Tornado",
-              "internal_parent_id": "12333",
-              "internal_id": "12383",
-              "requirements": []
-            },
-            {
-              "id": "21",
-              "text": "Lightning storm.",
-              "internal_parent_id": "12333",
-              "internal_id": "12384",
-              "requirements": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "text": "Planning for Family Emergencies. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12354",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "At a family meeting, discuss the situations on the chart you created for requirement 2(b) and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor.",
-          "internal_parent_id": "12354",
-          "internal_id": "12355",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor.",
-          "internal_parent_id": "12354",
-          "internal_id": "12356",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Using a checklist in the Emergency Preparedness merit badge pamphlet or one approved by your counselor, prepare or inspect a family disaster kit for sheltering-in-place and for evacuation of your home. Review the needs and uses of the items in a kit with your counselor.",
-          "internal_parent_id": "12354",
-          "internal_id": "12357",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "text": "Preventing Accidents and Emergencies. Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12380",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Using a home safety checklist included in the Emergency Preparedness merit badge pamphlet or one approved by your counselor, inspect a home (or a similar building near where you live or at a camp) for safety hazards with the help of an adult. Present your completed checklist to and discuss your findings with your counselor.",
-          "internal_parent_id": "12380",
-          "internal_id": "12385",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Develop emergency prevention plans for five family activities outside the home, as approved by your counselor. (Examples are taking a picnic to a park, seeing a movie, attending a worship service, an outing at a beach, traveling to visit a relative, or attending a ball game or concert.) Each plan should include an analysis of possible hazards, proposals to prevent, protect from, mitigate, respond to, and recover from emergencies, and the reasons for the actions that you propose.",
-          "internal_parent_id": "12380",
-          "internal_id": "12386",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "text": "Dangerous Situations. Show how you could save a person from the following dangerous situations without putting yourself in danger:",
-      "internal_parent_id": null,
-      "internal_id": "12381",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Live household electric wire",
-          "internal_parent_id": "12381",
-          "internal_id": "12387",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "A structure filled with carbon monoxide",
-          "internal_parent_id": "12381",
-          "internal_id": "12388",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Clothes on fire",
-          "internal_parent_id": "12381",
-          "internal_id": "12389",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Drowning, using nonswimming rescues (including accidents on ice).",
-          "internal_parent_id": "12381",
-          "internal_id": "12390",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "text": "Signaling for Help. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12359",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Show three ways of attracting and communicating with rescue aircraft or drones.",
-          "internal_parent_id": "12359",
-          "internal_id": "12363",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Show ways to attract attention of searchers on the ground if you are lost in the wilderness.",
-          "internal_parent_id": "12359",
-          "internal_id": "12360",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Show ways to attract attention of searchers on the water if you are stranded with a capsized or disabled motorboat or sailboat.",
-          "internal_parent_id": "12359",
-          "internal_id": "12364",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "text": "Moving an Injured Person. With another person, show two good ways to transport an injured person out of a remote area using improvised stretchers to conserve the energy of rescuers while ensuring the well-being and protection of the injured person.",
-      "internal_parent_id": null,
-      "internal_id": "12365",
-      "requirements": []
-    },
-    {
-      "id": "8",
-      "text": "National Incident Management System (NIMS) and Incident Command System (ICS). Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12368",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Describe the National Incident Management System (NIMS) and the local Incident Command System (ICS).",
-          "internal_parent_id": "12368",
-          "internal_id": "12369",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Find out how your community and its leaders work to manage and to train for disasters. Discuss this information with your counselor.",
-          "internal_parent_id": "12368",
-          "internal_id": "12374",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Discuss how a Scout troop can help in an emergency situation using ICS.",
-          "internal_parent_id": "12368",
-          "internal_id": "12391",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "text": "Emergency Service. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12375",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Discuss with your counselor the duties that a Scout troop should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:",
-          "internal_parent_id": "12375",
-          "internal_id": "12376",
-          "requirements": [
-            {
-              "id": "1",
-              "text": "Crowd and traffic control",
-              "internal_parent_id": "12376",
-              "internal_id": "12392",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Messenger service during an incident",
-              "internal_parent_id": "12376",
-              "internal_id": "12393",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Collection and distribution services",
-              "internal_parent_id": "12376",
-              "internal_id": "12394",
-              "requirements": []
-            },
-            {
-              "id": "4",
-              "text": "Group feeding, shelter, and sanitation.",
-              "internal_parent_id": "12376",
-              "internal_id": "12395",
-              "requirements": []
+              "type": "text",
+              "value": "Emergency Situations."
             }
           ]
         },
         {
-          "id": "b",
-          "text": "Prepare a written plan for mobilizing your troop when needed to do emergency service. If your troop already has a mobilization plan, present the plan to your counselor and tell your part in making the plan work.",
-          "internal_parent_id": "12375",
-          "internal_id": "12377",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14565",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor the aspects of emergency preparedness and include in your discussion the kinds of questions that are important to ask yourself as you consider each of these: prevention, protection, mitigation, response, and recovery."
+            }
+          ],
+          "resources": [
+            {
+              "title": "5 Steps of Disaster Risk Management (video)",
+              "url": "https://youtu.be/xjlPmSXj24Y"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Using a checklist in the Emergency Preparedness merit badge pamphlet or one approved by your counselor, prepare or inspect a personal emergency service pack for a mobilization call. Explain the needs and uses of the contents to your counselor.",
-          "internal_parent_id": "12375",
-          "internal_id": "12378",
-          "requirements": []
+          "id": "14543",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a chart, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 1(a) (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. Discuss your findings with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Take part in an emergency service project, either a real one or a practice exercise, with a Scouting troop or a community agency or at Scout camp or at a school. Review what you learned and practiced with your counselor.",
-          "internal_parent_id": "12375",
-          "internal_id": "12396",
-          "requirements": []
+          "id": "14544",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Home stovetop or oven fire"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Put Out a Stovetop Fire (video)",
+              "url": "https://youtu.be/AFwkGTEles8"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14555",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Home flammable liquid fire"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Flammable Liquids (video)",
+              "url": "https://youtu.be/ofH8KxvtfZw"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14558",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Gas leak in or near a home or with outside cooking"
+            }
+          ],
+          "resources": [
+            {
+              "title": "What to Do If You Smell Gas (video)",
+              "url": "https://youtu.be/RPJGdDOeGx0?si=1sYjSYZy3Hn1xwUW"
+            },
+            {
+              "title": "How to Turn Off Main Gas Valve (video)",
+              "url": "https://youtu.be/W8OKKu0dVUA"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14559",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Food poisoning"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Stomach Flu and Food Poisoning (video)",
+              "url": "https://youtu.be/VKw0cpNLALI?si=c2nZIN0OgYjoKABA"
+            },
+            {
+              "title": "Safe Food Handling (video)",
+              "url": "https://www.youtube.com/watch?v=nf4R6XHCU4Q"
+            },
+            {
+              "title": "How to Know If You Have Food Poisoning (video)",
+              "url": "https://youtu.be/U7yq-GwbcgE"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14560",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "Automobile crash"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Responding to a Car Crash (video)",
+              "url": "https://youtu.be/uMAgxMFjz6A?si=HSF5Su0SyabxF-Rl"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14561",
+          "label": "6",
+          "content": [
+            {
+              "type": "text",
+              "value": "Vehicle stalled in the desert"
+            }
+          ],
+          "resources": [
+            {
+              "title": "A Desert Survival Experience (video)",
+              "url": "https://youtu.be/Do2DSJwMpVw"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14562",
+          "label": "7",
+          "content": [
+            {
+              "type": "text",
+              "value": "Vehicle trapped in a blizzard"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Survive A Car Stranding in Winter (video)",
+              "url": "https://youtu.be/QU-VXl7eqcg"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14563",
+          "label": "8",
+          "content": [
+            {
+              "type": "text",
+              "value": "Backcountry injury"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Backpacking First Aid (What To Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)",
+              "url": "https://youtu.be/nxExCQiWa_U?si=oF8Tjni8vOmZT6hH%20"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14564",
+          "label": "9",
+          "content": [
+            {
+              "type": "text",
+              "value": "Boating or water accident"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Preventing and Managing Boating Accidents (website)",
+              "url": "https://www.boat-ed.com/indiana/studyGuide/If-You-Capsize-Swamp-or-Fall-Overboard/10101602_35419/"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14545",
+          "label": "10",
+          "content": [
+            {
+              "type": "text",
+              "value": "Toxic chemical spills and releases"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Chemical Spill Preparedness (video)",
+              "url": "https://www.youtube.com/watch?v=K30BBRgt7BM"
+            },
+            {
+              "title": "Household Chemical Emergencies (website)",
+              "url": "https://www.ready.gov/household-chemical-emergencies"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14546",
+          "label": "11",
+          "content": [
+            {
+              "type": "text",
+              "value": "Nuclear power plant emergency"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Stay Safe in a Nuclear Emergency (video)",
+              "url": "https://youtu.be/tqDna6z4F9c"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14547",
+          "label": "12",
+          "content": [
+            {
+              "type": "text",
+              "value": "Fire or explosion in a public place"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Survive a Building Explosion (video)",
+              "url": "https://youtu.be/uXG31J68dcY"
+            },
+            {
+              "title": "How to Survive a Burning High-Rise (video)",
+              "url": "https://youtu.be/P8Naa4pzDdo?si=PAoTGFJgturiTeSm"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14548",
+          "label": "13",
+          "content": [
+            {
+              "type": "text",
+              "value": "Violence in a public place"
+            }
+          ],
+          "resources": [
+            {
+              "title": "A Navy SEAL Reveals How to Survive an Active Shooter (video)",
+              "url": "https://youtu.be/5pgxzPoxv4w?si=jqbo9MdHYyjz6bLP"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14549",
+          "label": "14",
+          "content": [
+            {
+              "type": "text",
+              "value": "Wildland fire"
+            }
+          ],
+          "resources": [
+            {
+              "title": "If You Are Trapped by a Wildfire (video)",
+              "url": "https://youtu.be/fhiaP01lfhk"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14550",
+          "label": "15",
+          "content": [
+            {
+              "type": "text",
+              "value": "Avalanche (snowslide or rockslide)"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Survive an Avalanche (video)",
+              "url": "https://youtu.be/levLNlIEViI"
+            },
+            {
+              "title": "How to Survive a Landslide (video)",
+              "url": "https://youtu.be/9j_StYqR_Pg"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14551",
+          "label": "16",
+          "content": [
+            {
+              "type": "text",
+              "value": "Earthquake"
+            }
+          ],
+          "resources": [
+            {
+              "title": "10 Ways to Survive an Earthquake (video)",
+              "url": "https://youtu.be/hWSu4l1RxLg?si=jO2xOSPR0uj-ZtE6"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14552",
+          "label": "17",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tsunami"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Survive a Tsunami (video)",
+              "url": "https://youtu.be/PSMXZPjJwAw"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14553",
+          "label": "18",
+          "content": [
+            {
+              "type": "text",
+              "value": "Major flooding or a flash flood with water outage"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Survive a Flood (video)",
+              "url": "https://youtu.be/rV1iqRD9EKY"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14554",
+          "label": "19",
+          "content": [
+            {
+              "type": "text",
+              "value": "Hurricane with power outage"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Survive a Hurricane (video)",
+              "url": "https://youtu.be/TqZ3M7xh8jM"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14556",
+          "label": "20",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tornado"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Survive a Tornado (video)",
+              "url": "https://youtu.be/donE6SxyHXw?si=cHfxJ0HuR3lLgw9S"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14557",
+          "label": "21",
+          "content": [
+            {
+              "type": "text",
+              "value": "Lightning storm."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What Happens When You Are Struck by Lightning (video)",
+              "url": "https://youtu.be/T3BT-cnHjik"
+            },
+            {
+              "title": "Backcountry Lightning Safety (website)",
+              "url": "https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "10",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12397",
-      "requirements": [
+      "id": "14566",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Interview an emergency services coordinator or a civil servant about their work in disaster management. Learn about how they chose this career and about their duties. Discuss what you learned with your counselor and whether you might be interested in this career.",
-          "internal_parent_id": "12397",
-          "internal_id": "12398",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Planning for Family Emergencies."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Identify three career opportunities that would use skills and knowledge in emergency services. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
-          "internal_parent_id": "12397",
-          "internal_id": "12399",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14567",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "At a family meeting, discuss the situations on the chart you created for requirement 1(b) and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Shelter in Place (video)",
+              "url": "https://youtu.be/xjpoh7lGqLg"
+            },
+            {
+              "title": "How to Evacuate From Wildfires (video)",
+              "url": "https://youtu.be/kb95NzvM92g"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Identify how you might use the skills and knowledge in the field of emergency preparedness to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
-          "internal_parent_id": "12397",
-          "internal_id": "12400",
-          "requirements": []
+          "id": "14568",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14569",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a checklist in the "
+            },
+            {
+              "type": "element",
+              "tag": "em",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Emergency Preparedness"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " merit badge pamphlet or one approved by your counselor, prepare or inspect a family disaster kit for sheltering-in-place and for evacuation of your home. Review the needs and uses of the items in a kit with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Checklist for Sheltering in Place (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Sheltering%20in%20Place.pdf"
+            },
+            {
+              "title": "Checklist for Evacuation (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Evacuation.pdf"
+            },
+            {
+              "title": "Build a Kit (website)",
+              "url": "https://www.ready.gov/kit"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14570",
+      "label": "3",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Preventing Accidents and Emergencies."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14571",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a home safety checklist included in the "
+            },
+            {
+              "type": "element",
+              "tag": "em",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Emergency Preparedness"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " merit badge pamphlet or one approved by your counselor, inspect a home (or a similar building near where you live or at a camp) for safety hazards with the help of an adult. Present your completed checklist to and discuss your findings with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Checklists Home Safety (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklists%20Home%20Safety%20%231%20%23%202.docx.pdf"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14572",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Develop emergency prevention plans for five family activities outside the home, as approved by your counselor. (Examples are taking a picnic to a park, seeing a movie, attending a worship service, an outing at a beach, traveling to visit a relative, or attending a ball game or concert.) Each plan should include an analysis of possible hazards, proposals to prevent, protect from, mitigate, respond to, and recover from emergencies, and the reasons for the actions that you propose."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Building an Emergency Kit (PDF)",
+              "url": "https://www.youtube.com/watch?v=x2GkeNvgzG8"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14573",
+      "label": "4",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Dangerous Situations."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Show how you could save a person from the following dangerous situations without putting yourself in danger:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14574",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Live household electric wire"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Rescue and First Aid for Electric Shock (video)",
+              "url": "https://youtu.be/O2VpgB8Xrzs?si=gEteTmTENwWE4AWh"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14575",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "A structure filled with carbon monoxide"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Rescue from CO Poisoning (video)",
+              "url": "https://youtu.be/bnjg17WkxHI"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14576",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Clothes on fire"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Stop. Drop. Roll. Get Low and Go (video)",
+              "url": "https://youtu.be/stNSH-wy5nI"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14577",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Drowning, using nonswimming rescues (including accidents on ice)."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Reach, Throw, Row, but Don't Go! (video)",
+              "url": "https://youtu.be/WyOkVhEEFQI"
+            },
+            {
+              "title": "A Patrol Performs An Ice Rescue (video)",
+              "url": "https://youtu.be/plTSz7in_Xk"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14578",
+      "label": "5",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Signaling for Help."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14579",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show ways to attract the attention of searchers on the ground if you are lost in the wilderness."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Ways to Signal for Help in the Wilderness (video)",
+              "url": "https://youtu.be/4BHi5lBYwro"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14580",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show ways to attract the attention of searchers on the ground if you are lost in the wilderness."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Ways to Signal for Help in the Wilderness (video)",
+              "url": "https://youtu.be/4BHi5lBYwro"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14581",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show ways to attract the attention of searchers on the water if you are stranded with a capsized or disabled motorboat or sailboat."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Signaling Devices for a Water Rescue (video)",
+              "url": "https://www.youtube.com/shorts/-0euvnZe_OM"
+            },
+            {
+              "title": "Water Rescue Signaling (video)",
+              "url": "https://youtu.be/mQUXLU4bQkE?si=vlr7MfwEZ4DGzzpB"
+            },
+            {
+              "title": "How does an EPIRB work? (video)",
+              "url": "https://youtu.be/xwbgU9envik"
+            },
+            {
+              "title": "PLB and EPIRB Emergency Beacons (video)",
+              "url": "https://youtu.be/CGLDG7n7g5U?si=AEWhOs7SVf-2zWCR"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14600",
+      "label": "6",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Moving an Injured Person."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " With another person, show two good ways to transport an injured person out of a remote area using improvised stretchers to conserve the energy of rescuers while ensuring the well-being and protection of the injured person."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Improvised Stretchers (video)",
+          "url": "https://youtu.be/EYfgxODBlwY"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "14582",
+      "label": "7",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "National Incident Management System (NIMS) and Incident Command System (ICS)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14583",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the National Incident Management System (NIMS) and the local Incident Command System (ICS)."
+            }
+          ],
+          "resources": [
+            {
+              "title": "NIMS (video)",
+              "url": "https://youtu.be/d39esZe-NXg"
+            },
+            {
+              "title": "ICS  (video)",
+              "url": "https://youtu.be/phcKeMWaN3o?si=UJEgaKfVdkod4Yd2"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14584",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Find out how your community and its leaders work to manage and to train for disasters. Discuss this information with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14585",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss how a Scout troop can help in an emergency situation using ICS."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14586",
+      "label": "8",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Emergency Service."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14587",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor the duties that a Scout troop should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Agency Cooperation in an ICS (video)",
+              "url": "https://youtu.be/P-dPBso2xPM"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14588",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Crowd and traffic control"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Guidelines for Managing Crowds (website)",
+              "url": "https://ehs.cornell.edu/campus-health-safety/event-management/event-crowd-management"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14589",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Messenger service during an incident"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Social Media Messaging for Natural Disasters (website)",
+              "url": "https://www.epa.gov/natural-disasters/social-media-messages-you-can-use-during-or-after-natural-disaster#hurricane"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14590",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collection and distribution services"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Food Bank (video)",
+              "url": "https://youtu.be/zz6sEdM6y_4"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14591",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Group feeding, shelter, and sanitation."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Feeding LA Wildfire Evacuees (video)",
+              "url": "https://www.youtube.com/shorts/9zWTauGVX6w"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14592",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Prepare a written plan for mobilizing your troop when needed to do emergency service. If your troop already has a mobilization plan, present the plan to your counselor and tell your part in making the plan work."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14593",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a checklist in the "
+            },
+            {
+              "type": "element",
+              "tag": "em",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Emergency Preparedness"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " merit badge pamphlet or one approved by your counselor, prepare or inspect a personal emergency service pack for a mobilization call. Explain the needs and uses of the contents to your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Checklist for Go Bag (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Go%20Bag.pdf"
+            },
+            {
+              "title": "Family and Personal Emergency Kits (website)",
+              "url": "https://scoutlife.org/outdoors/outdoorarticles/16727/create-an-emergency-pack-or-kit/"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14594",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Take part in an emergency service project, either a real one or a practice exercise, with a Scouting troop or a community agency or at Scout camp or at a school. Review what you learned and practiced with your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Emergency Procedures at Camp (video)",
+              "url": "https://youtu.be/NeaZKfqji1w"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14595",
+      "label": "9",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "First Aid Merit Badge."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Earn the First Aid merit badge."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "14596",
+      "label": "10",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Careers."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14597",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Interview an emergency services coordinator or a civil servant about their work in disaster management. Learn about how they chose this career and about their duties. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [
+            {
+              "title": "NYC Emergency Management Interns (video)",
+              "url": "https://youtu.be/vqXWZ1tvLZE"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14598",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge in emergency services. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Explore a Career in Disaster and Emergency Management (video)",
+              "url": "https://youtu.be/bmZVwRg-4ps"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14599",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify how you might use the skills and knowledge in the field of emergency preparedness to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Teen CERT Team Training (video)",
+              "url": "https://youtu.be/UidlepnW93k"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     }

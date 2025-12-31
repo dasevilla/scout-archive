@@ -15,7 +15,7 @@ Get your helmet and your Cub Scout Six Essentials–we are going on a bike ride.
 
 ### Requirement 1
 
-Decide  on gear and supplies you should bring for a long bike ride.
+Decide on gear and supplies you should bring for a long bike ride.
 
 **Activities:**
 

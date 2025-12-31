@@ -10,6 +10,15 @@
   "requirements": [
     {
       "id": "1",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Using a map, locate where you live."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Using a map, locate where you live.",
       "activities": [
         {
@@ -34,7 +43,16 @@
     },
     {
       "id": "2",
-      "text": "Draw a map for a friend to locate your home or school.  Create a key for the map.",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Draw a map for a friend to locate your home or school. Create a key for the map."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Draw a map for a friend to locate your home or school. Create a key for the map.",
       "activities": [
         {
           "name": "Let’s Go Home",
@@ -49,6 +67,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find the directions north, east, south, and west and the compass rose on a map."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Find the directions north, east, south, and west and the compass rose on a map.",
       "activities": [
         {
@@ -64,6 +91,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find the directions north, east, south, and west using a compass."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Find the directions north, east, south, and west using a compass.",
       "activities": [
         {
@@ -97,6 +133,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Practice using both a map and a compass."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Practice using both a map and a compass.",
       "activities": [
         {

@@ -2,6 +2,7 @@
   "name": "Aviation",
   "overview": "For most of history, people have dreamed of flying, imagining how it would feel to soar through the sky like an eagle or hover in midair like a hummingbird, to float on unseen currents, free of Earth’s constant tug, able to travel great distances and to rise above any obstacle. Today, through aviation, we can not only join the birds but also fly farther, faster, and higher than they ever could.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/aviation/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Aviation.pdf",
@@ -11,224 +12,422 @@
   "image_filename": "aviation-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE: Check out the Digital Resource Guide for the Aviation merit badge [[HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation.pdf)](https://www.scouting.org/skills/merit-badges/digital-resource-guides/aviation/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey! The official merit badge pamphlets are now free and downloadable [[HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation.pdf)](https://www.scouting.org/skills/merit-badges/digital-resource-guides/aviation/) or can be purchased at the",
-      "internal_parent_id": null,
-      "internal_id": "13947",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Aviation Basics and Mechanics of Flight. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12667",
-      "requirements": [
+      "id": "12667",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Define \"aircraft.\" Describe three kinds of aircraft today, and their typical uses.",
-          "internal_parent_id": "12667",
-          "internal_id": "12668",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Aviation Basics and Mechanics of Flight."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Provide a brief overview of the evolution of flight, and discuss three notable times in history important to aviation.",
-          "internal_parent_id": "12667",
-          "internal_id": "13845",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12668",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Define \"aircraft.\" Describe three kinds of aircraft today, and their typical uses."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain the difference between a fixed wing and a rotary wing aircraft, and the benefits of each.",
-          "internal_parent_id": "12667",
-          "internal_id": "12669",
-          "requirements": []
+          "id": "13845",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Provide a brief overview of the evolution of flight, and discuss three notable times in history important to aviation."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain the operation of piston, turbine, and jet engines.",
-          "internal_parent_id": "12667",
-          "internal_id": "12670",
-          "requirements": []
+          "id": "12669",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the difference between a fixed wing and a rotary wing aircraft, and the benefits of each."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Using a model aircraft, describe the four forces that act on an aircraft in flight.",
-          "internal_parent_id": "12667",
-          "internal_id": "12671",
-          "requirements": []
+          "id": "12670",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the operation of piston, turbine, and jet engines."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Explain how an airfoil generates lift, specifically noting Bernoulli's principle.",
-          "internal_parent_id": "12667",
-          "internal_id": "12672",
-          "requirements": []
+          "id": "12671",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a model aircraft, describe the four forces that act on an aircraft in flight."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Identify and describe the aerodynamic control surfaces on the aircraft of your choice, and explain how they operate to control its attitude and direction of flight.",
-          "internal_parent_id": "12667",
-          "internal_id": "12688",
-          "requirements": []
+          "id": "12672",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how an airfoil generates lift, specifically noting Bernoulli's principle."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "h",
-          "text": "Explain the purposes and functions of the various instruments found in a typical single-engine aircraft: attitude indicator, heading indicator, altimeter, airspeed indicator, turn and bank indicator, vertical speed indicator, compass, navigation, communication, and engine performance indicators.",
-          "internal_parent_id": "12667",
-          "internal_id": "12689",
-          "requirements": []
+          "id": "12688",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify and describe the aerodynamic control surfaces on the aircraft of your choice, and explain how they operate to control its attitude and direction of flight."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12689",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the purposes and functions of the various instruments found in a typical single-engine aircraft: attitude indicator, heading indicator, altimeter, airspeed indicator, turn and bank indicator, vertical speed indicator, compass, navigation, communication, and engine performance indicators."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Principles of Flight.  Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12673",
-      "requirements": [
+      "id": "12673",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Build a model FPG-9. Get others in your troop or patrol to make their own model, then organize a competition to test the precision of flight and landing of the models.",
-          "internal_parent_id": "12673",
-          "internal_id": "12674",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Principles of Flight."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Build a rubber-band driven balsa wood airplane. Fly the plane for 25 feet in a straight line, with a smooth landing.",
-          "internal_parent_id": "12673",
-          "internal_id": "12675",
-          "requirements": []
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12674",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Build a model FPG-9. Get others in your troop or patrol to make their own model, then organize a competition to test the precision of flight and landing of the models."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Build (or obtain) a fuel-driven or battery-powered electric model aircraft or drone. Obtain The Recreational UAS Safety Test (TRUST) certification, and fly the aircraft with a successful take-off and landing.",
-          "internal_parent_id": "12673",
-          "internal_id": "12676",
-          "requirements": []
+          "id": "12675",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Build a rubber-band driven balsa wood airplane. Fly the plane for 25 feet in a straight line, with a smooth landing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12676",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Build (or obtain) a fuel-driven or battery-powered electric model aircraft or drone. Obtain The Recreational UAS Safety Test (TRUST) certification, and fly the aircraft with a successful take-off and landing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Flight Operations.  Do TWO of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12680",
-      "requirements": [
+      "id": "12680",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Using a flight simulator software package, set a course and fly the headings you have established with a successful take-off and landing.",
-          "internal_parent_id": "12680",
-          "internal_id": "12681",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Flight Operations."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Under supervision, perform a preflight inspection of an aircraft.",
-          "internal_parent_id": "12680",
-          "internal_id": "12682",
-          "requirements": []
+          "type": "text",
+          "value": " Do TWO of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12681",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a flight simulator software package, set a course and fly the headings you have established with a successful take-off and landing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Observe and/or participate in an aircraft maintenance activity. Describe the maintenance schedule and requirements for an aircraft of your choice.",
-          "internal_parent_id": "12680",
-          "internal_id": "12696",
-          "requirements": []
+          "id": "12682",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Under supervision, perform a preflight inspection of an aircraft."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Obtain and learn how to read an aeronautical chart. Measure a true course on the chart; correct it for magnetic variation, compass deviation, and wind drift to determine a navigational heading for an aircraft.",
-          "internal_parent_id": "12680",
-          "internal_id": "12697",
-          "requirements": []
+          "id": "12696",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Observe and/or participate in an aircraft maintenance activity. Describe the maintenance schedule and requirements for an aircraft of your choice."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "With your parent or guardian's permission, take a discovery flight in an aircraft. Record the date, place, type of aircraft, and duration of flight. Report on your impressions of the flight.",
-          "internal_parent_id": "12680",
-          "internal_id": "12698",
-          "requirements": []
+          "id": "12697",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Obtain and learn how to read an aeronautical chart. Measure a true course on the chart; correct it for magnetic variation, compass deviation, and wind drift to determine a navigational heading for an aircraft."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12698",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's permission, take a discovery flight in an aircraft. Record the date, place, type of aircraft, and duration of flight. Report on your impressions of the flight."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Airport Operations.  Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12683",
-      "requirements": [
+      "id": "12683",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Visit an airport. After the visit, report on how the facilities are used, how runways are numbered, and how runways are determined to be \"active.\"",
-          "internal_parent_id": "12683",
-          "internal_id": "12684",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Airport Operations."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Visit a Federal Aviation Administration facility: Airport Traffic Control Tower (ATCT), Terminal Radar Approach Control (TRACON), Air Route Traffic Control Center (ARTCC), or Flight Standards District Office (FSDO). Report on the operation and your impressions of the facility.",
-          "internal_parent_id": "12683",
-          "internal_id": "12685",
-          "requirements": []
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12684",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit an airport. After the visit, report on how the facilities are used, how runways are numbered, and how runways are determined to be \"active.\""
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Visit a military aviation facility. Learn how that facility supports defense and/or civilian activities. Report on the operation and your impressions of the facility.",
-          "internal_parent_id": "12683",
-          "internal_id": "12686",
-          "requirements": []
+          "id": "12685",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a Federal Aviation Administration facility: Airport Traffic Control Tower (ATCT), Terminal Radar Approach Control (TRACON), Air Route Traffic Control Center (ARTCC), or Flight Standards District Office (FSDO). Report on the operation and your impressions of the facility."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Visit an aviation museum or attend an air show. Report on your impressions of the museum or show, and what you learned from the experience.",
-          "internal_parent_id": "12683",
-          "internal_id": "12695",
-          "requirements": []
+          "id": "12686",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a military aviation facility. Learn how that facility supports defense and/or civilian activities. Report on the operation and your impressions of the facility."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12695",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit an aviation museum or attend an air show. Report on your impressions of the museum or show, and what you learned from the experience."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Personal & Professional Aviation Opportunities. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12687",
-      "requirements": [
+      "id": "12687",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the following: the student pilot, the recreational pilot, the remote pilot, and the private pilot certificates.",
-          "internal_parent_id": "12687",
-          "internal_id": "12690",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Personal & Professional Aviation Opportunities."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe the benefits of the instrument rating.",
-          "internal_parent_id": "12687",
-          "internal_id": "12691",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12690",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the following: the student pilot, the recreational pilot, the remote pilot, and the private pilot certificates."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain the following: the commercial pilot certificate, the airline transport pilot certificate, and certified flight instructor (CFI).",
-          "internal_parent_id": "12687",
-          "internal_id": "12692",
-          "requirements": []
+          "id": "12691",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the benefits of the instrument rating."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Identify an Aviation Exploring Post and/or Civil Air Patrol facility in your area. Learn about their activities and membership requirements.",
-          "internal_parent_id": "12687",
-          "internal_id": "12693",
-          "requirements": []
+          "id": "12692",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the following: the commercial pilot certificate, the airline transport pilot certificate, and certified flight instructor (CFI)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Identify three career opportunities that would use skills and knowledge in aviation. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
-          "internal_parent_id": "12687",
-          "internal_id": "12694",
-          "requirements": []
+          "id": "12693",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify an Aviation Exploring Post and/or Civil Air Patrol facility in your area. Learn about their activities and membership requirements."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12694",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge in aviation. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

@@ -15,7 +15,7 @@ A fun Adventure where Tigers learn how to perform a magic trick and create a sec
 
 ### Requirement 1
 
-Learn a magic trick.  Practice the trick.  Share the trick with you den or family members.
+Learn a magic trick. Practice the trick. Share the trick with you den or family members.
 
 **Activities:**
 

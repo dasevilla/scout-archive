@@ -43,7 +43,7 @@ Identify 3 symbols that represent the United States. Pick your favorite and make
 
 ### Requirement 3
 
-Learn about the mission of any non-profit.  Find out how they fund their activities and how volunteers are used to help.
+Learn about the mission of any non-profit. Find out how they fund their activities and how volunteers are used to help.
 
 **Activities:**
 

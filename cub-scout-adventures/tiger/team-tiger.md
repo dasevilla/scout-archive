@@ -15,7 +15,7 @@ Citizenship is one of the four aims of Scouting America program.  For Tigers ci
 
 ### Requirement 1
 
-Play a game with your den, or family members, that has a set of rules.  Discuss why rules are important to the game you are playing.
+Play a game with your den, or family members, that has a set of rules. Discuss why rules are important to the game you are playing.
 
 **Activities:**
 

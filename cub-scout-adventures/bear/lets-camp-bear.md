@@ -50,7 +50,7 @@ In addition to your Cub Scout Six Essentials, show the personal items you need f
 
 ### Requirement 4
 
-Help set up a tent.  Determine a good spot for the tent.  Explain why you picked the spot.
+Help set up a tent. Determine a good spot for the tent. Explain why you picked the spot.
 
 **Activities:**
 

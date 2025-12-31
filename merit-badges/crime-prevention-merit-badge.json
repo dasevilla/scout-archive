@@ -2,6 +2,7 @@
   "name": "Crime Prevention",
   "overview": "Preventing crime, which can be as simple as reducing the opportuntities for crime to occur, is far less costly than apprehending and bringing legal action against those who break the law and it helps save people from the anguish of being victims.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/crime-prevention/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Crime%20Prevention.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Crime-Prevention.pdf",
@@ -11,371 +12,758 @@
   "image_filename": "crime-prevention-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Crime%20Prevention.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14080",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Laws and Society. Discuss the following with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12904",
-      "requirements": [
+      "id": "12904",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Why we have criminal laws.",
-          "internal_parent_id": "12904",
-          "internal_id": "12907",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "What are types of crimes, including property crimes, crimes against people, white collar crime, and environmental crime.",
-          "internal_parent_id": "12904",
-          "internal_id": "12908",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Why people commit crimes.",
-          "internal_parent_id": "12904",
-          "internal_id": "12909",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Why everyone should follow the law even when no one is watching.",
-          "internal_parent_id": "12904",
-          "internal_id": "12910",
-          "requirements": []
-        },
-        {
-          "id": "e",
-          "text": "What is the meaning of crime prevention.",
-          "internal_parent_id": "12904",
-          "internal_id": "12911",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "text": "Groups Working to Prevent Crime. Research how the following groups contribute to crime prevention and share your findings with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12905",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Citizens, including youth",
-          "internal_parent_id": "12905",
-          "internal_id": "12912",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Schools",
-          "internal_parent_id": "12905",
-          "internal_id": "12913",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Neighborhood, social and civic groups, including youth groups",
-          "internal_parent_id": "12905",
-          "internal_id": "12914",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Private security",
-          "internal_parent_id": "12905",
-          "internal_id": "12915",
-          "requirements": []
-        },
-        {
-          "id": "e",
-          "text": "Law enforcement agencies",
-          "internal_parent_id": "12905",
-          "internal_id": "12916",
-          "requirements": []
-        },
-        {
-          "id": "f",
-          "text": "Courts",
-          "internal_parent_id": "12905",
-          "internal_id": "12917",
-          "requirements": []
-        },
-        {
-          "id": "g",
-          "text": "Corrections and rehabilitation programs.",
-          "internal_parent_id": "12905",
-          "internal_id": "12918",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "text": "Crime in Your Community, State, and Nation. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12877",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "With your parent or guardian's permission and the approval of your counselor, research local, state, or national news coverage of three crimes of different types. Research how common these types of crimes are in your state or in the United States.",
-          "internal_parent_id": "12877",
-          "internal_id": "12878",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Record notes on which law enforcement agencies and courts were involved in the pursuit of justice for the victims and the accused person, why you think these crimes were committed, and what could be done to prevent similar crimes. Review your research with your counselor.",
-          "internal_parent_id": "12877",
-          "internal_id": "12879",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "text": "Home and Neighborhood Crime Prevention. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12881",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Discuss the following with your counselor:",
-          "internal_parent_id": "12881",
-          "internal_id": "12882",
-          "requirements": [
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
             {
-              "id": "1",
-              "text": "How participation in activities of families, churches, sports teams, and clubs prevents crime.",
-              "internal_parent_id": "12882",
-              "internal_id": "12919",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "How designs of houses, neighborhoods, public buildings, stores, streets, and parks prevent crime.",
-              "internal_parent_id": "12882",
-              "internal_id": "12920",
-              "requirements": []
+              "type": "text",
+              "value": "Laws and Society."
             }
           ]
         },
         {
-          "id": "b",
-          "text": "Conduct a security survey of a home, a neighborhood, a park, or a camp building with adult supervision and following youth protection guidelines using a security checklist in the Crime Prevention merit badge pamphlet or one approved by your counselor.",
-          "internal_parent_id": "12881",
-          "internal_id": "12883",
-          "requirements": []
+          "type": "text",
+          "value": " Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12907",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Why we have criminal laws."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Use information from your survey for requirement 4(b) and the EDGE method to develop a lesson about how a family or Scouts can protect themselves from crime. Review your teaching plan with your counselor, then present your lesson to your family or to Scouts.",
-          "internal_parent_id": "12881",
-          "internal_id": "12921",
-          "requirements": []
+          "id": "12908",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "What are types of crimes, including property crimes, crimes against people, white collar crime, and environmental crime."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12909",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Why people commit crimes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12910",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Why everyone should follow the law even when no one is watching."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12911",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "What is the meaning of crime prevention."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Retail Crime Prevention. Research the following topics and review them with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12906",
-      "requirements": [
+      "id": "12905",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "The impact of shoplifting and employee theft (also known as shrinkage) and loss prevention on retail finances, customer service, and reputation.",
-          "internal_parent_id": "12906",
-          "internal_id": "12922",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Groups Working to Prevent Crime."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Techniques used by retail stores to prevent shoplifting.",
-          "internal_parent_id": "12906",
-          "internal_id": "12923",
-          "requirements": []
+          "type": "text",
+          "value": " Research how the following groups contribute to crime prevention and share your findings with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12912",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Citizens, including youth"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12913",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Schools"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12914",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Neighborhood, social and civic groups, including youth groups"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12915",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Private security"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12916",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Law enforcement agencies"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12917",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Courts"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12918",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Corrections and rehabilitation programs."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Reporting Crime. Discuss the following with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12884",
-      "requirements": [
+      "id": "12877",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "When and how to report a crime or an impending crime.",
-          "internal_parent_id": "12884",
-          "internal_id": "12885",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Crime in Your Community, State, and Nation."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "The warning signs for child abuse and domestic violence and how to report these situations.",
-          "internal_parent_id": "12884",
-          "internal_id": "12886",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12878",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's permission and the approval of your counselor, research local, state, or national news coverage of three crimes of different types. Research how common these types of crimes are in your state or in the United States."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "The three R's of personal safety and protection and how to apply them.",
-          "internal_parent_id": "12884",
-          "internal_id": "12924",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "How reporting a crime can help law enforcement provide resources for crime victims.",
-          "internal_parent_id": "12884",
-          "internal_id": "12925",
-          "requirements": []
+          "id": "12879",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Record notes on which law enforcement agencies and courts were involved in the pursuit of justice for the victims and the accused person, why you think these crimes were committed, and what could be done to prevent similar crimes. Review your research with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Peers and Crime. Discuss the following with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12888",
-      "requirements": [
+      "id": "12881",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "The role that peers play in crime, crime prevention, and experiencing crime.",
-          "internal_parent_id": "12888",
-          "internal_id": "12889",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Home and Neighborhood Crime Prevention."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "How to resist peer influence.",
-          "internal_parent_id": "12888",
-          "internal_id": "12890",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12882",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the following with your counselor:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Bullying and hazing behaviors and signs that a friend may be bullying you or someone else.",
-          "internal_parent_id": "12888",
-          "internal_id": "12926",
-          "requirements": []
+          "id": "12919",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "How participation in activities of families, churches, sports teams, and clubs prevents crime."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain the impact of gangs on communities.",
-          "internal_parent_id": "12888",
-          "internal_id": "12927",
-          "requirements": []
+          "id": "12920",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "How designs of houses, neighborhoods, public buildings, stores, streets, and parks prevent crime."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12883",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Conduct a security survey of a home, a neighborhood, a park, or a camp building with adult supervision and following youth protection guidelines using a security checklist in the "
+            },
+            {
+              "type": "element",
+              "tag": "em",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Crime Prevention"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " merit badge pamphlet or one approved by your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Home Security Checklists # 1 and # 2 (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf"
+            },
+            {
+              "title": "Camp Security Checklists # 1 and # 2 (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Camp%20or%20Park%20Security%20Checklists.pdf"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "12921",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Use information from your survey for requirement 4(b) and the EDGE method to develop a lesson about how a family or Scouts can protect themselves from crime. Review your teaching plan with your counselor, then present your lesson to your family or to Scouts."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Substance Use and Crime. Discuss the following with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12891",
-      "requirements": [
+      "id": "12906",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "The legal and health consequences of using alcohol, tobacco and vaping products, illegal drugs, and diverted prescription drugs.",
-          "internal_parent_id": "12891",
-          "internal_id": "12892",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Retail Crime Prevention."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "How substance use contributes to violence and property crime and increases a person's risk of becoming a victim of crime.",
-          "internal_parent_id": "12891",
-          "internal_id": "12893",
-          "requirements": []
+          "type": "text",
+          "value": " Research the following topics and review them with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12922",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The impact of shoplifting and employee theft (also known as shrinkage) and loss prevention on retail finances, customer service, and reputation."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "How drug abuse awareness, prevention, and recovery programs help prevent crime.",
-          "internal_parent_id": "12891",
-          "internal_id": "12894",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "How to get help if you or someone you know needs help with drugs or alcohol.",
-          "internal_parent_id": "12891",
-          "internal_id": "12895",
-          "requirements": []
+          "id": "12923",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Techniques used by retail stores to prevent shoplifting."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Online Crime and You. Discuss the following with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "12899",
-      "requirements": [
+      "id": "12884",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "How to avoid being the victim of online crimes.",
-          "internal_parent_id": "12899",
-          "internal_id": "12900",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Reporting Crime."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Common online financial scams.",
-          "internal_parent_id": "12899",
-          "internal_id": "12901",
-          "requirements": []
+          "type": "text",
+          "value": " Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12885",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "When and how to report a crime or an impending crime."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Effective online security.",
-          "internal_parent_id": "12899",
-          "internal_id": "12902",
-          "requirements": []
+          "id": "12886",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The warning signs for child abuse and domestic violence and how to report these situations."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Identity theft and how to prevent it.",
-          "internal_parent_id": "12899",
-          "internal_id": "12903",
-          "requirements": []
+          "id": "12924",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "The three R's of personal safety and protection and how to apply them."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "How criminals use social media to target victims.",
-          "internal_parent_id": "12899",
-          "internal_id": "12928",
-          "requirements": []
-        },
-        {
-          "id": "f",
-          "text": "How bullying, texting, and sharing photos can become crimes.",
-          "internal_parent_id": "12899",
-          "internal_id": "12929",
-          "requirements": []
+          "id": "12925",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "How reporting a crime can help law enforcement provide resources for crime victims."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "10",
-      "text": "Interview a law enforcement officer or a civil servant about their work in crime prevention. Learn about how they chose this career and about their duties. Discuss what you learned with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "12930",
-      "requirements": []
+      "id": "12888",
+      "label": "7",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Peers and Crime."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12889",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The role that peers play in crime, crime prevention, and experiencing crime."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12890",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to resist peer influence."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12926",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Bullying and hazing behaviors and signs that a friend may be bullying you or someone else."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12927",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the impact of gangs on communities."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     },
     {
-      "id": "11",
-      "text": "Identify three career opportunities that would use skills and knowledge in the field of crime prevention. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
-      "internal_parent_id": null,
-      "internal_id": "12931",
-      "requirements": []
+      "id": "12891",
+      "label": "8",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Substance Use and Crime."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12892",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The legal and health consequences of using alcohol, tobacco and vaping products, illegal drugs, and diverted prescription drugs."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12893",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "How substance use contributes to violence and property crime and increases a person's risk of becoming a victim of crime."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12894",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "How drug abuse awareness, prevention, and recovery programs help prevent crime."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12895",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to get help if you or someone you know needs help with drugs or alcohol."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "12899",
+      "label": "9",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Online Crime and You."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12900",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to avoid being the victim of online crimes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12901",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Common online financial scams."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12902",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Effective online security."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12903",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identity theft and how to prevent it."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12928",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "How criminals use social media to target victims."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12929",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "How bullying, texting, and sharing photos can become crimes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "12930",
+      "label": "10",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Interview."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " With your parent or guardian's permission and your counselor's approval, interview a law enforcement officer or a civil servant about their work in crime prevention. Learn about how they chose this career and about their duties. Discuss what you learned with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "12931",
+      "label": "11",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Careers."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Identify three career opportunities that would use skills and knowledge in the field of crime prevention. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

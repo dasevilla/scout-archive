@@ -24,7 +24,7 @@ With permission from your parent or legal guardian, watch the Protect Yourself R
 
 ### Requirement 2
 
-Identify items in your house that are hazardous and make sure they are stored properly.  Identify on the package where it describes what to do if someone is accidentally exposed to them.
+Identify items in your house that are hazardous and make sure they are stored properly. Identify on the package where it describes what to do if someone is accidentally exposed to them.
 
 **Activities:**
 

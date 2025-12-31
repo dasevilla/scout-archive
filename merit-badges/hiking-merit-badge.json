@@ -2,6 +2,7 @@
   "name": "Hiking",
   "overview": "Hiking is a terrific way to keep your body and mind in top shape, both now and for a lifetime. Walking packs power into your legs and makes your heart and lungs healthy and strong. Exploring the outdoors challenges you with discoveries and new ideas. Your senses will improve as you use your eyes and ears to gather information along the way.",
   "is_eagle_required": true,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/hiking/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Hiking.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Hiking.pdf",
@@ -11,126 +12,253 @@
   "image_filename": "hiking-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "Note: The required hikes for this badge may be used in fulfilling hiking requirements for rank advancement. However, these  hikes cannot be used to fulfill requirements of other merit badges.",
-      "internal_parent_id": null,
-      "internal_id": "12270",
-      "requirements": []
-    },
-    {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Hiking.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14112",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "10801",
-      "requirements": [
+      "id": "12270",
+      "label": null,
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate and respond to these hazards. Resource: [Surviving the Wild - Essential Hiking Safety Tips (video)](https://youtu.be/YGQG0C0HBGw?si=aOL6J4mdZXt51LDC)",
-          "internal_parent_id": "10801",
-          "internal_id": "10802",
-          "requirements": []
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE: The required hikes for this badge may be used in fulfilling hiking requirements for rank advancement. However, these hikes cannot be used to fulfill requirements of other merit badges."
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "10801",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "10802",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate and respond to these hazards."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Surviving the Wild - Essential Hiking Safety Tips (video)",
+              "url": "https://youtu.be/YGQG0C0HBGw?si=aOL6J4mdZXt51LDC"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, and snakebite. Resources: [Backpacking First Aid (What To Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)](https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb) [How to Apply a Compression Wrap for a Sprained Ankle (picture)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Hiking/compression%20wrap%20graphic.jpeg)",
-          "internal_parent_id": "10801",
-          "internal_id": "10803",
-          "requirements": []
+          "id": "10803",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, and snakebite."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Backpacking First Aid (What To Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)",
+              "url": "https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb"
+            },
+            {
+              "title": "How to Apply a Compression Wrap for a Sprained Ankle (picture)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Hiking/compression%20wrap%20graphic.jpeg"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "10810",
-      "requirements": [
+      "id": "10810",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain and, where possible, show the points of good hiking practices including proper outdoor ethics, hiking safety in the daytime and at night, courtesy to others, choice of footwear, and proper care of feet and footwear. Resource: [The ONE Tip You Need to Choose Between Hiking Boots, Shoes, and Trail Runners (video)](https://youtu.be/liJtac-GvZw?si=ToQQv90HyVEIqwe_)",
-          "internal_parent_id": "10810",
-          "internal_id": "11248",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11248",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain and, where possible, show the points of good hiking practices including proper outdoor ethics, hiking safety in the daytime and at night, courtesy to others, choice of footwear, and proper care of feet and footwear."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The ONE Tip You Need to Choose Between Hiking Boots, Shoes, and Trail Runners (video)",
+              "url": "https://youtu.be/liJtac-GvZw?si=ToQQv90HyVEIqwe_"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Read aloud or recite the Leave No Trace Seven Principles, and discuss why each is important while hiking. Resources: [Principles of LNT (video)](https://youtu.be/Rpq01rO9ZR0?si=hjjnThExBUjG0aIW) [Principles of LNT (website)](https://lnt.org/why/7-principles/)",
-          "internal_parent_id": "10810",
-          "internal_id": "11249",
-          "requirements": []
+          "id": "11249",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Read aloud or recite the Leave No Trace Seven Principles, and discuss why each is important while hiking."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Principles of LNT (video)",
+              "url": "https://youtu.be/Rpq01rO9ZR0?si=hjjnThExBUjG0aIW"
+            },
+            {
+              "title": "Principles of LNT (website)",
+              "url": "https://lnt.org/why/7-principles/"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Read aloud or recite the Outdoor Code, and give examples of how to follow it on a hike. Resource: [The Outdoor Code (website)](https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/)",
-          "internal_parent_id": "10810",
-          "internal_id": "11250",
-          "requirements": []
+          "id": "11250",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Read aloud or recite the Outdoor Code, and give examples of how to follow it on a hike."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The Outdoor Code (website)",
+              "url": "https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Explain how hiking is an aerobic activity. Develop a plan for conditioning yourself for 10-mile hikes, and describe how you will increase your fitness for longer hikes. Resources:  [Planning and Training for a Hike (video)](https://youtu.be/XRaT-02V6_Q?si=KWpuleheaJYZVlBd)  [Training for Elevation Gain (video)](https://youtu.be/wrAzopMgriU?si=POvk4jZLbzeTos5t)",
-      "internal_parent_id": null,
-      "internal_id": "10811",
-      "requirements": []
+      "id": "10811",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain how hiking is an aerobic activity. Develop a plan for conditioning yourself for 10-mile hikes, and describe how you will increase your fitness for longer hikes."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Planning and Training for a Hike (video)",
+          "url": "https://youtu.be/XRaT-02V6_Q?si=KWpuleheaJYZVlBd"
+        },
+        {
+          "title": "Training for Elevation Gain (video)",
+          "url": "https://youtu.be/wrAzopMgriU?si=POvk4jZLbzeTos5t"
+        }
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Take four 10-mile hikes and one 20-mile hike, each on a different day, and each of continuous miles. Prepare a written hike plan before each hike and share it with your counselor or a designee for approval before starting the hike. Include map routes, a clothing and equipment list, and a list of items for a trail lunch. You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period such as overnight. Resource:  [Maps and Ideas for Hikes (website)](https://www.hikingproject.com/)",
-      "internal_parent_id": null,
-      "internal_id": "10804",
-      "requirements": [
+      "id": "10804",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "10-mile hike #1",
-          "internal_parent_id": "10804",
-          "internal_id": "10805",
-          "requirements": []
+          "type": "text",
+          "value": "Take four 10-mile hikes and one 20-mile hike, each on a different day, and each of continuous miles. Prepare a written hike plan before each hike and share it with your counselor or a designee for approval before starting the hike. Include map routes, a clothing and equipment list, and a list of items for a trail lunch. You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period such as overnight."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Maps and Ideas for Hikes (website)",
+          "url": "https://www.hikingproject.com/"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "10805",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "10-mile hike #1"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "10-mile hike #2",
-          "internal_parent_id": "10804",
-          "internal_id": "10806",
-          "requirements": []
+          "id": "10806",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "10-mile hike #2"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "10-mile hike #3",
-          "internal_parent_id": "10804",
-          "internal_id": "10807",
-          "requirements": []
+          "id": "10807",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "10-mile hike #3"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "10-mile hike #4",
-          "internal_parent_id": "10804",
-          "internal_id": "10808",
-          "requirements": []
+          "id": "10808",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "10-mile hike #4"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "20-mile hike",
-          "internal_parent_id": "10804",
-          "internal_id": "10809",
-          "requirements": []
+          "id": "10809",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "20-mile hike."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "After each of the hikes (or during each hike if on one continuous \"trek\") in requirement 4, write a short report on your hike. For each hike, give the date and description (or map) of the route covered, the weather, any interesting things you saw, and any challenges you had and how you overcame them. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "10812",
-      "requirements": []
+      "id": "10812",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "After each of the hikes (or during each hike if on one continuous trek) in requirement 4, write a short report on your hike. For each hike, give the date and description (or map) of the route covered, the weather, any interesting things you saw, and any challenges you had and how you overcame them. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

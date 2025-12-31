@@ -15,7 +15,7 @@ You can use math to have fun!  The great thing about math is that it can be mo
 
 ### Requirement 1
 
-Create a secret code.  Send a message to a member of your den or family.  Have that person send a message back to you using the same secret code.
+Create a secret code. Send a message to a member of your den or family. Have that person send a message back to you using the same secret code.
 
 **Activities:**
 
@@ -41,7 +41,7 @@ Build and play a game that requires the use of codes or patterns.
 
 ### Requirement 3
 
-Select a single shape.  Observe the environment around you.  Write down where you see that shape and how it is being used.
+Select a single shape. Observe the environment around you. Write down where you see that shape and how it is being used.
 
 **Activities:**
 

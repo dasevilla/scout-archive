@@ -39,7 +39,7 @@ Discover ways that digital technology can make life easier.
 
 ### Requirement 3
 
-Identify an item of digital technology you use at home.  Demonstrate to your Lion adult partner how you use it safely.
+Identify an item of digital technology you use at home. Demonstrate to your Lion adult partner how you use it safely.
 
 **Activities:**
 

@@ -69,7 +69,7 @@ Explore how your paddle craft responds as you move your paddle through the water
 
 ### Requirement 7
 
-Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time.
+Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time.
 
 **Activities:**
 

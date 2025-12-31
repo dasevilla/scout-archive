@@ -2,6 +2,7 @@
   "name": "Programming",
   "overview": "Programming merit badge will take you “behind the screen” for a look at the complex codes that make digital devices useful and fun.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/programming/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Programming.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Programming.pdf",
@@ -11,127 +12,377 @@
   "image_filename": "programming-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Programming.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14145",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Safety. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13123",
-      "requirements": [
+      "id": "15368",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "View the [Personal Safety Awareness \"Digital Safety\" video](https://www.scouting.org/training/youth-protection/scouts-bsa/) (with your parent or guardian's permission.) Resource: [Scouting America Social Media Guidelines (website)](https://scoutingwire.org/social-media-guidelines/)",
-          "internal_parent_id": "13123",
-          "internal_id": "13124",
-          "requirements": []
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Safety."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Discuss first aid and prevention for the types of injuries that could occur during programming activities, including repetitive stress injuries and eyestrain. Resources: [Treating Repetitive Stress (video)](https://www.youtube.com/shorts/1yp0jOyARCk) [Treating Eye Strain (video)](https://www.youtube.com/watch?v=j3ff4aeItl0) [5 Tips to Reduce Eye Strain (website)](https://www.uab.edu/news/health-medicine/new-uab-eye-care-clinic-helps-improve-vision-in-the-workplace)",
-          "internal_parent_id": "13123",
-          "internal_id": "13125",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15369",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "View the "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://www.scouting.org/training/youth-protection/scouts-bsa/"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Personal Safety Awareness \"Digital Safety\" video"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " (with your parent or guardian's permission.)"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Scouting America Social Media Guidelines (website)",
+              "url": "https://scoutingwire.org/social-media-guidelines/"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15370",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss first aid and prevention for the types of injuries that could occur during programming activities, including repetitive stress injuries and eyestrain."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Treating Repetitive Stress (video)",
+              "url": "https://www.youtube.com/shorts/1yp0jOyARCk"
+            },
+            {
+              "title": "Treating Eye Strain (video)",
+              "url": "https://www.youtube.com/watch?v=j3ff4aeItl0"
+            },
+            {
+              "title": "5 Tips to Reduce Eye Strain (website)",
+              "url": "https://www.uab.edu/news/health-medicine/new-uab-eye-care-clinic-helps-improve-vision-in-the-workplace"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "History. Discuss with your counselor the history of programming and the evolution of programming languages, including at least three milestones related to the advancement or development of programming over time. Resources: [5 Minute Video of Programming Language History (video)](https://youtu.be/K5yv7dY17EA?si=yYdqNCZwa0w0SzJs)  [Example With Code Examples and Pictures (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.docx)  [Text Descriptions of Historical Progression of Programming Languages (website)](https://www.computer.org/publications/tech-news/insider-membership-news/timeline-of-programming-languages)  [Computer History Museum Timeline With Pictures (website)](https://www.computerhistory.org/timeline/software-languages/)",
-      "internal_parent_id": null,
-      "internal_id": "13126",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "General Knowledge. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13129",
-      "requirements": [
+      "id": "15382",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Create a list of five popular programming languages in use today and describe which industry or industries they are primarily used in and why. Resource: [Eight Popular Programming Languages, Their Industries and Coding Examples (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.docx)",
-          "internal_parent_id": "13129",
-          "internal_id": "13130",
-          "requirements": []
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "History."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe three different programmed devices you rely on every day.",
-          "internal_parent_id": "13129",
-          "internal_id": "13131",
-          "requirements": []
+          "type": "text",
+          "value": " Discuss with your counselor the history of programming and the evolution of programming languages, including at least three milestones related to the advancement or development of programming over time."
+        }
+      ],
+      "resources": [
+        {
+          "title": "5 Minute Video of Programming Language History (video)",
+          "url": "https://youtu.be/K5yv7dY17EA?si=yYdqNCZwa0w0SzJs"
+        },
+        {
+          "title": "Example With Code Examples and Pictures (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.docx"
+        },
+        {
+          "title": "Text Descriptions of Historical Progression of Programming Languages (website)",
+          "url": "https://www.computer.org/publications/tech-news/insider-membership-news/timeline-of-programming-languages"
+        },
+        {
+          "title": "Computer History Museum Timeline With Pictures (website)",
+          "url": "https://www.computerhistory.org/timeline/software-languages/"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "15371",
+      "label": "3",
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "General Knowledge."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15372",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a list of five popular programming languages in use today and describe which industry or industries they are primarily used in and why."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Eight Popular Programming Languages, Their Industries and Coding Examples (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.docx"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15373",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe three different programmed devices you rely on every day."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Intellectual Property. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13132",
-      "requirements": [
+      "id": "15374",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the four types of intellectual property used to protect computer programs. Resource: [Four Different Types of Intellectual Property (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx)",
-          "internal_parent_id": "13132",
-          "internal_id": "13133",
-          "requirements": []
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Intellectual Property."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "Describe the difference between licensing and owning software. Resource: [The Difference Between Licensing and Owning Software (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx)",
-          "internal_parent_id": "13132",
-          "internal_id": "13134",
-          "requirements": []
+          "type": "text",
+          "value": " Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15375",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the four types of intellectual property used to protect computer programs."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Four Different Types of Intellectual Property (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Describe the differences between freeware, open source, and commercial software, and why it is important to respect the terms of use of each. Resources: [Open Source VS Commercial Software (video)](https://www.youtube.com/watch?v=SdW5pnha9kg) [Free VS Open Source Software (website)](https://www.geeksforgeeks.org/software-engineering/difference-between-free-software-and-open-source-software/)",
-          "internal_parent_id": "13132",
-          "internal_id": "13135",
-          "requirements": []
+          "id": "15376",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the difference between licensing and owning software."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The Difference Between Licensing and Owning Software (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15377",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the differences between freeware, open source, and commercial software, and why it is important to respect the terms of use of each."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Open Source VS Commercial Software (video)",
+              "url": "https://www.youtube.com/watch?v=SdW5pnha9kg"
+            },
+            {
+              "title": "Free VS Open Source Software (website)",
+              "url": "https://www.geeksforgeeks.org/software-engineering/difference-between-free-software-and-open-source-software/"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Project. With your counselor's guidance, select three different programming languages and development environments.  For each sub-requirement below, do the following: Write or modify a program using the indicated programming language and development environment.  The program must take input and produce output based on computations and decisions made on the input.  Debug and demonstrate the program to your counselor.  Explain how each program processes inputs, makes decisions based on those inputs, and provides outputs based on computations and decision making.",
-      "internal_parent_id": null,
-      "internal_id": "13136",
-      "requirements": [
+      "id": "15378",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "In the first language and environment, write or modify a program, debug and demonstrate, and explain as above.",
-          "internal_parent_id": "13136",
-          "internal_id": "13137",
-          "requirements": []
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Project."
+            }
+          ]
         },
         {
-          "id": "b",
-          "text": "In the second language and environment, write or modify a program, debug and demonstrate, and explain as above. Resource: [Programming Merit Badge Welcome! From AutomationDirect (video)](https://www.youtube.com/watch?v=s07aEbPwThM)",
-          "internal_parent_id": "13136",
-          "internal_id": "13138",
-          "requirements": []
+          "type": "text",
+          "value": " With your counselor's guidance, select three different programming languages and development environments. For each sub-requirement below, do the following: Write or modify a program using the indicated programming language and development environment. The program must take input and produce output based on computations and decisions made on the input. Debug and demonstrate the program to your counselor. Explain how each program processes inputs, makes decisions based on those inputs, and provides outputs based on computations and decision making."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15379",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "In the first language and environment, write or modify a program, debug and demonstrate, and explain as above."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "In the third language and environment, write or modify a program, debug and demonstrate, and explain as above. Resource: [Codedex / Start Your Coding Adventure (website)](https://www.codedex.io/)",
-          "internal_parent_id": "13136",
-          "internal_id": "13139",
-          "requirements": []
+          "id": "15380",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "In the second language and environment, write or modify a program, debug and demonstrate, and explain as above."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Programming Merit Badge Welcome! From AutomationDirect (video)",
+              "url": "https://www.youtube.com/watch?v=s07aEbPwThM"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "15381",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "In the third language and environment, write or modify a program, debug and demonstrate, and explain as above."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Codedex / Start Your Coding Adventure (website)",
+              "url": "https://www.codedex.io/"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Careers. Find out about three career opportunities that require knowledge in  programming. Pick one and find out the education, training, and experience required. Discuss this with your counselor and explain why this career might be of interest to you. Resources: [Variety of jobs for Computer Scientists (video)](https://youtu.be/2VpDcjFshJI?si=AnLlLwq2YDhO3uE-)  [9 Computer Coding Careers (website)](https://www.rasmussen.edu/degrees/technology/blog/programming-careers-for-coding-connoisseurs/)  [Education Required to Become a Computer Programmer (website)](https://www.wgu.edu/career-guide/information-technology/computer-programmer-career.html)",
-      "internal_parent_id": null,
-      "internal_id": "13141",
-      "requirements": []
+      "id": "15383",
+      "label": "6",
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Careers."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15384",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15385",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     }
   ]
 }

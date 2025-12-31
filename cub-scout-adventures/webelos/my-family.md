@@ -15,7 +15,7 @@ Understanding your religious beliefs and the beliefs of others can help you make
 
 ### Requirement 1
 
-With your parent or legal guardian, talk about your family’s faith traditions.   Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft, work of art, or a food item that is part of your family’s faith traditions.
+With your parent or legal guardian, talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft, work of art, or a food item that is part of your family’s faith traditions.
 
 **Activities:**
 
@@ -39,7 +39,7 @@ Carry out an act of kindness.
 
 ### Requirement 3
 
-With your parent or legal guardian identify a religion or faith that is different from your own.  Identify two things that it has in common with your family’s beliefs.
+With your parent or legal guardian identify a religion or faith that is different from your own. Identify two things that it has in common with your family’s beliefs.
 
 **Activities:**
 
@@ -48,7 +48,7 @@ With your parent or legal guardian identify a religion or faith that is differen
 
 ### Requirement 4
 
-Discuss with our parent or legal guardian what it means to be reverent.  Tell how you practice being reverent in your daily life.
+Discuss with our parent or legal guardian what it means to be reverent. Tell how you practice being reverent in your daily life.
 
 **Activities:**
 

@@ -41,7 +41,7 @@ Play a game with your Lion adult partner or den that is based on counting or num
 
 ### Requirement 3
 
-Organize a group of items based on shape, then based on color, and one other category.  Count how many different shapes are in each category.  After organizing them build anything using only one category.
+Organize a group of items based on shape, then based on color, and one other category. Count how many different shapes are in each category. After organizing them build anything using only one category.
 
 **Activities:**
 

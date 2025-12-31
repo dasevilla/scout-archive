@@ -15,7 +15,7 @@ It is time to go outside!  Every journey begins with just one step, and that fi
 
 ### Requirement 1
 
-Identify the Cub Scout Six Essentials.  Show what you do with each item.
+Identify the Cub Scout Six Essentials. Show what you do with each item.
 
 **Activities:**
 
@@ -41,7 +41,7 @@ Learn about the buddy system and how it works in the outdoors. Pick a buddy for 
 
 ### Requirement 3
 
-Identify appropriate clothes and shoes for your walk outside.  Do your best to wear them on your walk.
+Identify appropriate clothes and shoes for your walk outside. Do your best to wear them on your walk.
 
 **Activities:**
 

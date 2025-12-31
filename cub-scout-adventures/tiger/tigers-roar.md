@@ -46,7 +46,7 @@ With your Tiger adult partner, demonstrate how to access emergency services.
 
 ### Requirement 4
 
-With your Tiger adult partner, demonstrate that you know what to do if you get lost or separated .
+With your Tiger adult partner, demonstrate that you know what to do if you get lost or separated.
 
 **Activities:**
 

@@ -39,7 +39,7 @@ With your den or Tiger adult partner, learn about the safety gear you should use
 
 ### Requirement 3
 
-With your den or Tiger adult partner, learn the safety rules to follow when riding a  bicycle.
+With your den or Tiger adult partner, learn the safety rules to follow when riding a bicycle.
 
 **Activities:**
 

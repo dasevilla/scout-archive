@@ -15,7 +15,7 @@ In the Scout Oath we promise to keep ourselves physically strong. Proper nutriti
 
 ### Requirement 1
 
-Plan a balanced meal that you would eat when camping.  Prepare that meal using the gear you would use on a campout.
+Plan a balanced meal that you would eat when camping. Prepare that meal using the gear you would use on a campout.
 
 **Activities:**
 
@@ -26,7 +26,7 @@ Plan a balanced meal that you would eat when camping.  Prepare that meal using 
 
 ### Requirement 2
 
-Examine what it is to be  physically fit and how you incorporate this in your life.  Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong.
+Examine what it is to be physically fit and how you incorporate this in your life. Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong.
 
 **Activities:**
 

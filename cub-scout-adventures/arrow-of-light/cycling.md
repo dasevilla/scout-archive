@@ -15,7 +15,7 @@ Are you ready for a 10-mile bike ride? Gather your Scout Basic Essentials, check
 
 ### Requirement 1
 
-Decide on gear and supplies you should bring might bring for a long bike ride.  Determine how to safely carry the gear.
+Decide on gear and supplies you should bring might bring for a long bike ride. Determine how to safely carry the gear.
 
 **Activities:**
 

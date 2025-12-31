@@ -2,6 +2,7 @@
   "name": "Public Health",
   "overview": "The field of public health deals with maintaining and monitoring the health of communities, and with the detection, cure, and prevention of health risks and diseases. Although public health is generally seen as a community-oriented service, it actually starts with the individual. From a single individual to the family unit to the smallest isolated rural town to the worldwide global community, one person can influence the health of many.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/public-health/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Health.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Public-Health.pdf",
@@ -11,229 +12,428 @@
   "image_filename": "public-health-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Health.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14146",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted. Then,  pick any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, lead poisoning. For all  10 diseases, explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread  of infection, and available treatments.",
-      "internal_parent_id": null,
-      "internal_id": "9693",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "9697",
-      "requirements": [
+      "id": "15444",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the meaning of immunization.",
-          "internal_parent_id": "9697",
-          "internal_id": "9698",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15448",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what public health is."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Name eight diseases against which a young child should be immunized, two diseases against which everyone should be reimmunized periodically, and one immunization everyone should receive annually.",
-          "internal_parent_id": "9697",
-          "internal_id": "9699",
-          "requirements": []
+          "id": "15449",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Using the list of diseases and conditions in requirement 1, discuss with your counselor those which currently have no immunization available.",
-          "internal_parent_id": "9697",
-          "internal_id": "9700",
-          "requirements": []
+          "id": "15450",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Choose any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, or lead poisoning."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15451",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "For all 10 diseases from 1(c), explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread of infection, and available treatments."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Discuss the importance of safe drinking water in terms of the spread of disease. Then, demonstrate two ways for making water safe to drink that can be used while at camp. In your demonstration, explain how dishes and utensils should be washed, dried, and kept sanitary at home and in camp.",
-      "internal_parent_id": null,
-      "internal_id": "9723",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Explain what a vector is and how insects and rodents can be controlled in your home, in your community, and at camp. Tell why this is important. In your discussion, explain which vectors can be easily controlled by individuals and which ones require long-term, collective action.",
-      "internal_parent_id": null,
-      "internal_id": "9724",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "With your parent or guardian's and counselor's approval, do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "9701",
-      "requirements": [
+      "id": "15418",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Visit a municipal wastewater treatment facility or a solid-waste management operation in your community.",
-          "internal_parent_id": "9701",
-          "internal_id": "9702",
-          "requirements": [
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15419",
+          "label": "a",
+          "content": [
             {
-              "id": "1",
-              "text": "Describe how the facility safely treats and disposes of sewage or solid waste.",
-              "internal_parent_id": "9702",
-              "internal_id": "9703",
-              "requirements": []
+              "type": "text",
+              "value": "Explain the meaning of "
             },
             {
-              "id": "2",
-              "text": "Discuss your visit and what you learned with your counselor.",
-              "internal_parent_id": "9702",
-              "internal_id": "9704",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Describe how sewage and solid waste should be disposed of under wilderness camping conditions.",
-              "internal_parent_id": "9702",
-              "internal_id": "9705",
-              "requirements": []
+              "type": "element",
+              "tag": "em",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "immunization."
+                }
+              ]
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Visit a food service facility, such as a restaurant or school cafeteria.",
-          "internal_parent_id": "9701",
-          "internal_id": "9706",
-          "requirements": [
+          "id": "15420",
+          "label": "b",
+          "content": [
             {
-              "id": "1",
-              "text": "Observe food preparation, handling, and storage. Learn how the facility keeps food from becoming contaminated.",
-              "internal_parent_id": "9706",
-              "internal_id": "9707",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Find out what conditions allow microorganisms to multiply in food, what can be done to help prevent them from growing and spreading, and how to kill them.",
-              "internal_parent_id": "9706",
-              "internal_id": "9708",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Discuss the importance of using a thermometer to check food temperatures.",
-              "internal_parent_id": "9706",
-              "internal_id": "9709",
-              "requirements": []
-            },
-            {
-              "id": "4",
-              "text": "Discuss your visit and what you learned with your counselor.",
-              "internal_parent_id": "9706",
-              "internal_id": "9710",
-              "requirements": []
+              "type": "text",
+              "value": "Name eight diseases against which a young child should be immunized, two diseases against which everyone should be reimmunized periodically, and one immunization everyone should receive annually."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15421",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using the list of diseases and conditions in requirement 1, discuss with your counselor those which currently have no immunization available."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "9711",
-      "requirements": [
+      "id": "15445",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Describe the health dangers from air, water, and noise pollution.",
-          "internal_parent_id": "9711",
-          "internal_id": "9712",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss the importance of safe drinking water in terms of the spread of disease. Then, demonstrate two ways for making water safe to drink that can be used while at camp. In your demonstration, explain how dishes and utensils should be washed, dried, and kept sanitary at home and in camp."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "15446",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain what a vector is and how insects and rodents can be controlled in your home, in your community, and at camp. Tell why this is important. In your discussion, explain which vectors can be easily controlled by individuals and which ones require long-term, collective action."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "15422",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your parent or guardian's and counselor's approval, do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15423",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a municipal wastewater treatment facility or a solid-waste management operation in your community."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe health dangers from tobacco use and alcohol and drug abuse.",
-          "internal_parent_id": "9711",
-          "internal_id": "9713",
-          "requirements": []
+          "id": "15424",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how the facility safely treats and disposes of sewage or solid waste."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Describe the health dangers from abusing illegal and prescription drugs.",
-          "internal_parent_id": "9711",
-          "internal_id": "9714",
-          "requirements": []
+          "id": "15425",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss your visit and what you learned with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15426",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how sewage and solid waste should be disposed of under wilderness camping conditions."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15427",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a food service facility, such as a restaurant or school cafeteria."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15428",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Observe food preparation, handling, and storage. Learn how the facility keeps food from becoming contaminated."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15429",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Find out what conditions allow microorganisms to multiply in food, what can be done to help prevent them from growing and spreading, and how to kill them."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15430",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the importance of using a thermometer to check food temperatures."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15431",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss your visit and what you learned with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "With your parent or guardian's and counselor's approval, do",
-      "internal_parent_id": null,
-      "internal_id": "9715",
-      "requirements": [
+      "id": "15432",
+      "label": "6",
+      "content": [
         {
-          "id": null,
-          "text": "ONE of the following:",
-          "internal_parent_id": "9715",
-          "internal_id": "9716",
-          "requirements": [
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15433",
+          "label": "a",
+          "content": [
             {
-              "id": "a",
-              "text": "Visit your city, county, or state public health agency.",
-              "internal_parent_id": "9716",
-              "internal_id": "9717",
-              "requirements": []
-            },
-            {
-              "id": "b",
-              "text": "Familiarize yourself with your city, county, state, or a federal health agency's website.",
-              "internal_parent_id": "9716",
-              "internal_id": "9718",
-              "requirements": []
+              "type": "text",
+              "value": "Describe the health dangers from air, water, and noise pollution."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "After completing either 7(a) or 7(b), do the following:",
-          "internal_parent_id": "9715",
-          "internal_id": "9719",
-          "requirements": [
+          "id": "15434",
+          "label": "b",
+          "content": [
             {
-              "id": "i",
-              "text": "Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death.",
-              "internal_parent_id": "9719",
-              "internal_id": "9720",
-              "requirements": []
-            },
-            {
-              "id": null,
-              "text": "(ii) Explain the role of your health agency as it relates to the outbreak of diseases.",
-              "internal_parent_id": "9719",
-              "internal_id": "9721",
-              "requirements": []
-            },
-            {
-              "id": null,
-              "text": "(iii) Discuss the kinds of public assistance the agency is able to provide in case of disasters such as floods, storms, tornadoes, earthquakes, and other acts of destruction. Your discussion can include the cleanup necessary after the disaster.",
-              "internal_parent_id": "9719",
-              "internal_id": "9722",
-              "requirements": []
+              "type": "text",
+              "value": "Describe health dangers from tobacco use and alcohol and drug abuse."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15435",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the health dangers from abusing illegal and prescription drugs."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Pick a profession in the public health sector that interests you. Find out the education, training, and experience required to work in this profession. Discuss what you learn with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "9725",
-      "requirements": []
+      "id": "15436",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your parent or guardian's and counselor's approval, do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15452",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Do ONE of the following"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15440",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "After completing either 7(a) do the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15441",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15453",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit your city, county, state or federal public health agency."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15442",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the role of your health agency as it relates to the outbreak of diseases."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15454",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Familiarize yourself with your city, county, state, or a federal health agency's website."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15443",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the kinds of public assistance the agency is able to provide in case of disasters such as floods, storms, tornadoes, earthquakes, and other acts of destruction. Your discussion can include the cleanup necessary after the disaster."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15447",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Pick a profession in the public health sector that interests you. Find out the education, training, and experience required to work in this profession. Discuss what you learn with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

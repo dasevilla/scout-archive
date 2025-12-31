@@ -2,6 +2,7 @@
   "name": "Energy",
   "overview": "Saving, producing, and using energy wisely will be critical to America’s future. If we are to leave future generations with a world in which they can live as well or better than we have, Scouts and other potential leaders of tomorrow must begin the hard work of understanding energy and the vital role it will play in the future.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/energy/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Energy.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Energy.pdf",
@@ -11,256 +12,419 @@
   "image_filename": "energy-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Energy.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14090",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13166",
-      "requirements": [
+      "id": "13166",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "With your parent or guardian's permission, use the internet to find a blog, podcast, website, or an article on the use or conservation of energy. Discuss with your counselor what details in the article were interesting to you, the questions it raises, and what ideas it addresses that you do not understand.",
-          "internal_parent_id": "13166",
-          "internal_id": "13167",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13167",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's permission, use the internet to find a blog, podcast, website, or an article on the use or conservation of energy. Discuss with your counselor what details in the article were interesting to you, the questions it raises, and what ideas it addresses that you do not understand."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "After you have completed requirements 2 through 8, revisit your source for requirement 1(a). Explain to your counselor what you have learned in completing the requirements that helps you better understand the article.",
-          "internal_parent_id": "13166",
-          "internal_id": "13168",
-          "requirements": []
+          "id": "13168",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "After you have completed requirements 2 through 8, revisit your source for requirement 1(a). Explain to your counselor what you have learned in completing the requirements that helps you better understand the article."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Show you understand energy forms and conversions by doing the following:",
-      "internal_parent_id": null,
-      "internal_id": "13169",
-      "requirements": [
+      "id": "13169",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain how THREE of the following devices use energy, and explain their energy conversions: toaster, greenhouse, lightbulb, bow drill, cell phone, nuclear reactor, sauna, or electric vehicles.",
-          "internal_parent_id": "13169",
-          "internal_id": "13170",
-          "requirements": []
+          "type": "text",
+          "value": "Show you understand energy forms and conversions by doing the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13170",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how THREE of the following devices use energy, and explain their energy conversions: toaster, greenhouse, lightbulb, bow drill, cell phone, nuclear reactor, sauna, or electric vehicles."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Construct a system that makes at least two energy conversions and explain this to your counselor.",
-          "internal_parent_id": "13169",
-          "internal_id": "13171",
-          "requirements": []
+          "id": "13171",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Construct a system that makes at least two energy conversions and explain this to your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Show you understand energy efficiency by explaining to your counselor a common example of a situation where energy moves through a system to produce a useful result. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13172",
-      "requirements": [
+      "id": "13172",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Identify the parts of the system that are affected by the energy movement.",
-          "internal_parent_id": "13172",
-          "internal_id": "13173",
-          "requirements": []
+          "type": "text",
+          "value": "Show you understand energy efficiency by explaining to your counselor a common example of a situation where energy moves through a system to produce a useful result. Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13173",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify the parts of the system that are affected by the energy movement."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Name the system's primary source of energy.",
-          "internal_parent_id": "13172",
-          "internal_id": "13174",
-          "requirements": []
+          "id": "13174",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name the system's primary source of energy."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Identify the useful outcomes of the system.",
-          "internal_parent_id": "13172",
-          "internal_id": "13175",
-          "requirements": []
+          "id": "13175",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify the useful outcomes of the system."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Identify the energy losses of the system.",
-          "internal_parent_id": "13172",
-          "internal_id": "13176",
-          "requirements": []
+          "id": "13176",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify the energy losses of the system."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Conduct an energy audit of your home. Keep a 14 day log that records what you and your family did to reduce energy use. Include the following in your report and, after the 14-day period, discuss what you have learned with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "13177",
-      "requirements": [
+      "id": "13177",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "List the types of energy used in your home such as electricity, wood, oil, liquid petroleum, and natural gas, and tell how each is delivered and measured, and the current cost; OR record the transportation fuel used, miles driven, miles per gallon, and trips using your family car or another vehicle.",
-          "internal_parent_id": "13177",
-          "internal_id": "13178",
-          "requirements": []
+          "type": "text",
+          "value": "Conduct an energy audit of your home. Keep a 14 day log that records what you and your family did to reduce energy use. Include the following in your report and, after the 14-day period, discuss what you have learned with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13178",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "List the types of energy used in your home such as electricity, wood, oil, liquid petroleum, and natural gas, and tell how each is delivered and measured, and the current cost; OR record the transportation fuel used, miles driven, miles per gallon, and trips using your family car or another vehicle."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe ways you and your family can use energy resources more wisely. In preparing your discussion, consider the energy required for the things you do and use on a daily basis (cooking, showering, using lights, driving, watching TV, using the computer). Explain what is meant by sustainable energy sources. Explain how you can change your energy use through reuse and recycling.",
-          "internal_parent_id": "13177",
-          "internal_id": "13179",
-          "requirements": []
+          "id": "13179",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe ways you and your family can use energy resources more wisely. In preparing your discussion, consider the energy required for the things you do and use on a daily basis (cooking, showering, using lights, driving, watching TV, using the computer). Explain what is meant by sustainable energy sources. Explain how you can change your energy use through reuse and recycling."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "In a notebook, identify and describe five examples of energy waste in your school or community. Suggest in each case possible ways to reduce this waste. Describe the idea of trade-offs in energy use. In your response, do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13180",
-      "requirements": [
+      "id": "13180",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain how the changes you suggest would lower costs, reduce pollution, or otherwise improve your community.",
-          "internal_parent_id": "13180",
-          "internal_id": "13181",
-          "requirements": []
+          "type": "text",
+          "value": "In a notebook, identify and describe five examples of energy waste in your school or community. Suggest in each case possible ways to reduce this waste. Describe the idea of trade-offs in energy use. In your response, do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13181",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how the changes you suggest would lower costs, reduce pollution, or otherwise improve your community."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain what changes to routines, habits, or convenience are necessary to reduce energy waste. Tell why people might resist the changes you suggest.",
-          "internal_parent_id": "13180",
-          "internal_id": "13182",
-          "requirements": []
+          "id": "13182",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what changes to routines, habits, or convenience are necessary to reduce energy waste. Tell why people might resist the changes you suggest."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Prepare pie charts showing the following information, and explain to your counselor the important ideas each chart reveals. Tell where you got your information. Explain how cost affects the use of a nonrenewable energy resource and makes alternatives practical.",
-      "internal_parent_id": null,
-      "internal_id": "13183",
-      "requirements": [
+      "id": "13183",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "The energy resources that supply the United States with most of its energy",
-          "internal_parent_id": "13183",
-          "internal_id": "13184",
-          "requirements": []
+          "type": "text",
+          "value": "Prepare pie charts showing the following information, and explain to your counselor the important ideas each chart reveals. Tell where you got your information. Explain how cost affects the use of a nonrenewable energy resource and makes alternatives practical."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13184",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The energy resources that supply the United States with most of its energy"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "The share of energy resources used by the United States that comes from other countries",
-          "internal_parent_id": "13183",
-          "internal_id": "13185",
-          "requirements": []
+          "id": "13185",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The share of energy resources used by the United States that comes from other countries"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "The proportion of energy resources used by homes, businesses, industry, and transportation",
-          "internal_parent_id": "13183",
-          "internal_id": "13186",
-          "requirements": []
+          "id": "13186",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "The proportion of energy resources used by homes, businesses, industry, and transportation"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "The fuels used to generate America's electricity",
-          "internal_parent_id": "13183",
-          "internal_id": "13187",
-          "requirements": []
+          "id": "13187",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "The fuels used to generate America's electricity"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "The world's known and estimated primary energy resource reserves.",
-          "internal_parent_id": "13183",
-          "internal_id": "13188",
-          "requirements": []
+          "id": "13188",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "The world's known and estimated primary energy resource reserves."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Tell what is being done to make FIVE of the following energy systems produce more usable energy. In your explanation, describe the technology, cost, environmental impacts, and safety concerns.",
-      "internal_parent_id": null,
-      "internal_id": "13189",
-      "requirements": [
+      "id": "13189",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Biomass digesters or waste-to-energy plants",
-          "internal_parent_id": "13189",
-          "internal_id": "13191",
-          "requirements": []
+          "type": "text",
+          "value": "Tell what is being done to make FIVE of the following energy systems produce more usable energy. In your explanation, describe the technology, cost, environmental impacts, and safety concerns."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13191",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Biomass digesters or waste-to-energy plants"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Cogeneration plants",
-          "internal_parent_id": "13189",
-          "internal_id": "13192",
-          "requirements": []
+          "id": "13192",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Cogeneration plants"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Fossil fuel power plants",
-          "internal_parent_id": "13189",
-          "internal_id": "13193",
-          "requirements": []
+          "id": "13193",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Fossil fuel power plants"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Fuel cells",
-          "internal_parent_id": "13189",
-          "internal_id": "13194",
-          "requirements": []
+          "id": "13194",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Fuel cells"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Geothermal power plants",
-          "internal_parent_id": "13189",
-          "internal_id": "13195",
-          "requirements": []
+          "id": "13195",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Geothermal power plants"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Nuclear power plants",
-          "internal_parent_id": "13189",
-          "internal_id": "13196",
-          "requirements": []
+          "id": "13196",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Nuclear power plants"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Solar power systems",
-          "internal_parent_id": "13189",
-          "internal_id": "13197",
-          "requirements": []
+          "id": "13197",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Solar power systems"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "h",
-          "text": "Tidal energy, wave energy, or ocean thermal energy conversion devices",
-          "internal_parent_id": "13189",
-          "internal_id": "13198",
-          "requirements": []
+          "id": "13198",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tidal energy, wave energy, or ocean thermal energy conversion devices"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "i",
-          "text": "Wind turbines.",
-          "internal_parent_id": "13189",
-          "internal_id": "13199",
-          "requirements": []
+          "id": "13199",
+          "label": "i",
+          "content": [
+            {
+              "type": "text",
+              "value": "Wind turbines."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Identify three career opportunities that would use skills and knowledge in energy. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
-      "internal_parent_id": null,
-      "internal_id": "13190",
-      "requirements": []
+      "id": "13190",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify three career opportunities that would use skills and knowledge in energy. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

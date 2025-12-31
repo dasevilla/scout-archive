@@ -2,6 +2,7 @@
   "name": "Moviemaking",
   "overview": "Moviemaking is a way to tell stories visually through the art and science of motion picture photography.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/moviemaking/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Moviemaking.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Moviemaking.pdf",
@@ -11,148 +12,286 @@
   "image_filename": "moviemaking-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Moviemaking.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14129",
-      "requirements": []
+      "id": "14955",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss and demonstrate the proper elements of a good motion picture. In your discussion, include visual storytelling, rhythm, the 180-axis rule, camera movement, framing and composition of camera shots, and lens selection."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "1",
-      "text": "Discuss and demonstrate the proper elements of a good motion picture. In your discussion, include visual storytelling, rhythm, the 180-axis rule, camera movement, framing and composition of camera shots, and lens selection.",
-      "internal_parent_id": null,
-      "internal_id": "4960",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "4963",
-      "requirements": [
+      "id": "14938",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "In a three- or four-paragraph treatment, tell the story you plan to produce, making sure that the treatment conveys a visual picture.",
-          "internal_parent_id": "4963",
-          "internal_id": "4975",
-          "requirements": []
-        },
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "b",
-          "text": "Prepare a storyboard for your motion picture. Note: This can be done with rough sketches and stick figures.",
-          "internal_parent_id": "4963",
-          "internal_id": "4976",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Demonstrate the following motion picture shooting techniques:",
-          "internal_parent_id": "4963",
-          "internal_id": "4964",
-          "requirements": [
+          "id": "14950",
+          "label": "a",
+          "content": [
             {
-              "id": "1",
-              "text": "Using a tripod",
-              "internal_parent_id": "4964",
-              "internal_id": "4965",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Panning a camera",
-              "internal_parent_id": "4964",
-              "internal_id": "4966",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Framing a shot",
-              "internal_parent_id": "4964",
-              "internal_id": "4967",
-              "requirements": []
-            },
-            {
-              "id": "4",
-              "text": "Selecting an angle",
-              "internal_parent_id": "4964",
-              "internal_id": "4968",
-              "requirements": []
-            },
-            {
-              "id": "5",
-              "text": "Selecting proper lighting",
-              "internal_parent_id": "4964",
-              "internal_id": "4969",
-              "requirements": []
-            },
-            {
-              "id": "6",
-              "text": "Handheld shooting.",
-              "internal_parent_id": "4964",
-              "internal_id": "4970",
-              "requirements": []
+              "type": "text",
+              "value": "In a three- or four-paragraph treatment, tell the story you plan to produce, making sure that the treatment conveys a visual picture."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Using motion picture shooting techniques, plan ONE of the following programs. Start with a treatment and complete the requirement by presenting this program to a pack or your troop, patrol, or class.",
-          "internal_parent_id": "4963",
-          "internal_id": "4971",
-          "requirements": [
+          "id": "14951",
+          "label": "b",
+          "content": [
             {
-              "id": "1",
-              "text": "Film or videotape a court of honor and show it to an audience.",
-              "internal_parent_id": "4971",
-              "internal_id": "4972",
-              "requirements": []
+              "type": "text",
+              "value": "Prepare a storyboard for your motion picture. "
             },
             {
-              "id": "2",
-              "text": "Create a short feature of your own design, using the techniques you learned.",
-              "internal_parent_id": "4971",
-              "internal_id": "4973",
-              "requirements": []
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
             },
             {
-              "id": "3",
-              "text": "Shoot a vignette that could be used to train a new Scout in a Scouting skill.",
-              "internal_parent_id": "4971",
-              "internal_id": "4974",
-              "requirements": []
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " This can be done with rough sketches and stick figures."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14939",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate the following motion picture shooting techniques:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14940",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a tripod"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14941",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Panning a camera"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14942",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Framing a shot"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14943",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Selecting an angle"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14944",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "Selecting proper lighting"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14945",
+          "label": "6",
+          "content": [
+            {
+              "type": "text",
+              "value": "Handheld shooting."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14946",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using motion picture shooting techniques, plan ONE of the following programs. Start with a treatment and complete the requirement by presenting this program to a pack or your troop, patrol, or class."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14947",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Film a court of honor and show it to an audience."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14948",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a short feature of your own design, using the techniques you learned."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14949",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Shoot a vignette that could be used to train a new Scout in a Scouting skill."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "4977",
-      "requirements": [
+      "id": "14952",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "With your parent or guardian's permission and your counselor's approval, visit a film set or television production studio and watch how production work is done.",
-          "internal_parent_id": "4977",
-          "internal_id": "4978",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14953",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's permission and your counselor's approval, visit a film set or television production studio and watch how production work is done."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain to your counselor the elements of the zoom lens and three important parts.",
-          "internal_parent_id": "4977",
-          "internal_id": "4979",
-          "requirements": []
+          "id": "14954",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the elements of the zoom lens and three important parts."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Find out about three career opportunities in moviemaking. Pick one and find out about the education, training, and experience required for this profession. Discuss this career with your counselor. Explain why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "4980",
-      "requirements": []
+      "id": "14956",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14957",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14958",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     }
   ]
 }

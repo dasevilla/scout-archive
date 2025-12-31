@@ -2,6 +2,7 @@
   "name": "Architecture",
   "overview": "Architecture is not just the special buildings like cathedrals, museums, or sports stadiums we read about or see on television; it is as normal as the homes, places of worship, schools, and shopping malls where we live, worship, work, learn, and play every day. However, architecture is more than just common shelter; building has always satisfied the human need to create something of meaning. Even the simplest form of architecture is a work of art that requires thought and planning.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/architecture/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Architecture_Landscape.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Architecture.pdf",
@@ -11,112 +12,208 @@
   "image_filename": "architecture-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Architecture_Landscape.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14057",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "670",
-      "requirements": [
+      "id": "670",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Tour your community and list the types of buildings you see. Try to identify buildings that can be associated with a specific period of history or style of architecture. Make a sketch of the building you most admire.",
-          "internal_parent_id": "670",
-          "internal_id": "671",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "671",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tour your community and list the different types of buildings you see. Try to identify buildings that can be associated with a specific period of history or style of architecture. Make a sketch of the building you most admire."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Select a historical architectural achievement that has had a major impact on society. Using resources such as the internet (with your parent or guardian's permission), books, and magazines, find out how this achievement has influenced the world today. Tell your counselor what you learned.",
-          "internal_parent_id": "670",
-          "internal_id": "672",
-          "requirements": []
+          "id": "672",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Select a historical architectural achievement that has had a major impact on society. Using resources such as the internet (with your parent or guardian's permission), books, and magazines, find out how this achievement has influenced the world today. Tell your counselor what you learned."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "In following the Leave No Trace Seven Principles and the Outdoor Code, Scouts pledge to \"Travel and camp on durable surfaces\" and to \"Leave what you find\" and to \"Be conservation-minded.\" Discuss the following with your counselor:",
-      "internal_parent_id": null,
-      "internal_id": "673",
-      "requirements": [
+      "id": "673",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "The term sustainable architecture. Identify three features typical of green buildings.",
-          "internal_parent_id": "673",
-          "internal_id": "674",
-          "requirements": []
+          "type": "text",
+          "value": "In following the Leave No Trace Seven Principles and the Outdoor Code, Scouts pledge to \"Travel and camp on durable surfaces\" and to \"Leave what you find\" and to \"Be conservation-minded.\" Discuss the following with your counselor:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "674",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The term sustainable architecture. Identify three features typical of green buildings."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "The difference between renewable building materials and recycled building materials, and how each can be used in construction.",
-          "internal_parent_id": "673",
-          "internal_id": "675",
-          "requirements": []
+          "id": "675",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The difference between renewable building materials and recycled building materials, and how each can be used in construction."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "The relationship of architecture with its surrounding environment and the community.",
-          "internal_parent_id": "673",
-          "internal_id": "676",
-          "requirements": []
+          "id": "676",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "The relationship of architecture with its surrounding environment and the community."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "How entire buildings can be reused rather than torn down when they no longer serve their original purpose.",
-          "internal_parent_id": "673",
-          "internal_id": "677",
-          "requirements": []
+          "id": "677",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "How entire buildings can be reused rather than torn down when they no longer serve their original purpose."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "678",
-      "requirements": [
+      "id": "678",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "With your parent or guardian's and counselor's permission and approval, arrange to meet with an architect. Ask to see the scale model of a building and the drawings that a builder would use to construct this building. Discuss why the different building materials were selected. Look at the details in the drawings and the model to see how the materials and components are attached to each other during construction.",
-          "internal_parent_id": "678",
-          "internal_id": "679",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "679",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's and counselor's permission and approval, arrange to meet with an architect. Ask to see the scale model of a building and the drawings that a builder would use to construct this building. Discuss why the different building materials were selected. Look at the details in the drawings and the model to see how the materials and components are attached to each other during construction."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "With your parent or guardian's and counselor's permission and approval, arrange to meet with an architect at a construction site. Ask the architect to bring drawings that the builder uses to construct the building. While at the site, discuss why the different building materials being used were selected. Discuss how the different building materials and components are attached to each other during construction. Note: To visit a construction site will require advance planning. You will need permission from your parents, counselor, the architect, and the construction site manager. A construction site is a very dangerous place. While there, you will need to closely follow the site manager's directions and comply with all the safety procedures, including wearing a hard hat, protective eyewear, and proper footwear. Be aware of the changing conditions at the site, and stay with the architect or site manager.",
-          "internal_parent_id": "678",
-          "internal_id": "680",
-          "requirements": []
+          "id": "680",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's and counselor's permission and approval, arrange to meet with an architect at a construction site. Ask the architect to bring drawings that the builder uses to construct the building. While at the site, discuss why the different building materials being used were selected. Discuss how the different building materials and components are attached to each other during construction. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " To visit a construction site will require advance planning. You will need permission from your parents, counselor, the architect, and the construction site manager. A construction site is a very dangerous place. While there, you will need to closely follow the site manager's directions and comply with all the safety procedures, including wearing a hard hat, protective eyewear, and proper footwear. Be aware of the changing conditions at the site, and stay with the architect or site manager. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Interview someone who might be your client (such as a prospective homeowner or business owner) if you were an architect. Find out what your client's requirements would be for designing a new home or business building. Write a short program including a list of requirements for the project, the functions of the building and site, how the functions relate to one another, and the goals of the project.",
-          "internal_parent_id": "678",
-          "internal_id": "681",
-          "requirements": []
+          "id": "681",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Interview someone who might be your client (such as a prospective homeowner or business owner) if you were an architect. Find out what your client's requirements would be for designing a new home or business building. Write a short program including a list of requirements for the project, the functions of the building and site, how the functions relate to one another, and the goals of the project."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Measure a room such as one where you live or where your troop meets. Make an accurately scaled drawing of the room's floor plan showing walls, doors, closets, windows, and any built-in furniture or cabinets. Neatly label your drawing with the following: your name, the date, what room you drew, and the scale of the drawing. (Drawing scale: 1/4 inch = 1 foot)",
-      "internal_parent_id": null,
-      "internal_id": "682",
-      "requirements": []
+      "id": "682",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Measure a room such as one where you live or where your troop meets. Make an accurately scaled drawing of the room's floor plan showing walls, doors, closets, windows, and any built-in furniture or cabinets. Neatly label your drawing with the following: your name, the date, what room you drew, and the scale of the drawing. (Drawing scale: 1/4 inch = 1 foot)"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "Find out about three career opportunities in architecture. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "683",
-      "requirements": []
+      "id": "683",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find out about three career opportunities in architecture. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

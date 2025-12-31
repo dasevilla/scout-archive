@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Decide on gear and supplies you should bring might bring for a long bike ride.  Determine how to safely carry the gear.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Decide on gear and supplies you should bring might bring for a long bike ride. Determine how to safely carry the gear."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Decide on gear and supplies you should bring might bring for a long bike ride. Determine how to safely carry the gear.",
       "activities": [
         {
           "name": "AOL Bike Gear Check",
@@ -25,6 +34,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discover how multi-gear bicycles work and their benefit."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Discover how multi-gear bicycles work and their benefit.",
       "activities": [
         {
@@ -40,6 +58,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Show how to lubricate a chain."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Show how to lubricate a chain.",
       "activities": [
         {
@@ -55,6 +82,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Review different bicycle locks. Demonstrate the operation of locks and, how to secure your bicycle with a lock."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Review different bicycle locks. Demonstrate the operation of locks and, how to secure your bicycle with a lock.",
       "activities": [
         {
@@ -70,6 +106,15 @@
     },
     {
       "id": "6",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your patrol, pack, or family, use a map and plan a bicycle ride that is at least 10 miles."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "With your patrol, pack, or family, use a map and plan a bicycle ride that is at least 10 miles.",
       "activities": [
         {
@@ -85,6 +130,15 @@
     },
     {
       "id": "7",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your patrol, pack, or family and using the buddy system, go on a bicycle ride that is a minimum of 10 miles."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "With your patrol, pack, or family and using the buddy system, go on a bicycle ride that is a minimum of 10 miles.",
       "activities": [
         {

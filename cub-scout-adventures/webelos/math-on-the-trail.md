@@ -15,7 +15,7 @@ In this Adventure, you will learn how to estimate the time it takes you to take 
 
 ### Requirement 1
 
-Determine your walking pace by walking ¼ mile.  Make a projection on how long it would take you to walk 2 miles.
+Determine your walking pace by walking ¼ mile. Make a projection on how long it would take you to walk 2 miles.
 
 **Activities:**
 

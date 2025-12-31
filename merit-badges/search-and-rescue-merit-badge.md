@@ -1,7 +1,4 @@
-
-
 # Search and Rescue Merit Badge
-
 ![Search and Rescue Merit Badge](images/search-and-rescue-merit-badge.jpg)
 
 ## Overview
@@ -12,64 +9,77 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 ## Requirements
 
-* A Note About Unauthorized and Restricted Activities   The Scouting America's Guide to Safe Scouting states under "Unauthorized and Restricted Activities" that flying in aircraft as part of a search and rescue mission is an unauthorized activity for youth members. For complete information, see [Scouting America's Scouting Safely](https://www.scouting.org/health-and-safety/) web page.
-* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Search%20and%20Rescue.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
-* (1) Do the following:
-    * (a) Explain to your counselor the hazards you are most likely to encounter while participating in search and rescue (SAR) activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
-    * (b) Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in SAR activities, including: snakebites, dehydration, shock, environmental emergencies such as hypothermia or heatstroke, blisters, and ankle and knee sprains.
+- **A Note About Prohibited Activities    The Scouting America's *Guide to Safe Scouting* states under "Prohibited Activities" that flying in aircraft as part of a search and rescue mission is a prohibited activity for youth members. For complete information, see Scouting America's [*Guide to Safe Scouting.*](https://www.scouting.org/health-and-safety/gss/)**
 
+- (1) **Hazards and First Aid.** Do the following:
+  - (a) Show or explain first aid for, and prevention of, injuries and conditions that searchers and subjects could develop during an SAR situation, including:
+  - (1) Dehydration
+  - (2) Heatstroke
+  - (3) Hypothermia
+  - (4) Shock
+  - (5) Blisters
+  - (6) Eye injuries
+  - (7) Ankle and knee sprains
+  - (8) Bug bites of chiggers, ticks, mosquitoes, and biting gnats
+  - (9) Bee stings
+  - (10) Bites of spiders
+  - (11) Sting of a scorpion
+  - (12) Bite of a wild mammal
+  - (13) Bite of a venomous snake.
+  - (b) Explain how the Scout Essentials address hazards outdoors and help lost Scouts stay safe before they are rescued.
+  - (c) Discuss how the safety gear carried by SAR team members in their field packs address SAR hazards.
 
-* (2) Demonstrate knowledge to stay found and prevent yourself from becoming the subject of a SAR mission.
-    * (a) How does the buddy system help in staying found and safe?
-    * (b) How can knowledge of the area and its seasonal weather changes affect your plans?
-    * (c) Explain how the Ten Essentials are similar to a "ready pack."
+- (2) **Staying and Getting Found.** Do the following:
+  - (a) Explain how a trip plan and the buddy system help Scouts with staying found and getting found.
+  - (b) Explain how seasonal and daily weather changes affect Trip Plans.
+  - (c) Explain and show how a lost Scout could send signals that would alert a ground, airborne, or water SAR team to their location.
+  - (d) Demonstrate how to use a signaling mirror.
+  - (e) Explain how a Personal Locator Beacon (PLB) works and the role of the Air Force Rescue Coordination Center (AFRCC).
 
+- (3) **Maps.** Using a map, a compass and a GPS device or app approved by your counselor, do the following:
+  - (a) Point out and explain the 5 D's (Date, Description, Details, Direction or Declination, Distance) of the map.
+  - (b) Choose a location on the map and record the altitude, latitude, longitude, and US National Grid coordinates. Describe how these coordinate systems differ.
+  - (c) Orient the map and take a bearing to another map location. Estimate the distance between, and describe the terrain between, the two locations.
+  - (d) Show a hypothetical place last seen and point out an area on your map that could be used for containment using natural or human-made boundaries.
 
-* (3) Discuss the following with your counselor:
-    * (a) The difference between search and rescue
-    * (b) The difference between PLS (place last seen) and LKP (last known point)
-    * (c) Explain the following terms:
-        * (1) AFRCC (Air Force Rescue Coordination Center)
-        * (2) IAP (Incident Action Plan)
-        * (3) ICS (Incident Command System)
-        * (4) Evaluating search urgency
-        * (5) Establishing confinement
-        * (6) Scent item
-        * (7) Area air scent dog
-        * (8) Briefing and debriefing.
+- (4) **Incident Command System (ICS).** Do the following:
+  - (a) Explain how a local ICS is organized and how it compares with Scouting's patrol method.
+  - (b) Explain how local community agencies work to train for and manage search and rescue situations.
 
+- (5) **SAR Teams.** Do the following:
+  - (a) Explain the official duties of a search and rescue team.
+  - (b) Explain the differences between wilderness, urban, and water SARs.
+  - (c) Identify four types of search and rescue teams and explain situations where they are used.
 
+- (6) **Search and Rescue Procedures.** Do the following:
+  - (a) Explain the difference between search and rescue.
+  - (b) Explain the difference between PLS (place last seen) and LKP (last known point)
+  - (c) Explain the importance of effective communication in SAR operations.
+  - (d) Explain how predictions of "lost person behavior" determine SAR search plans for a young child, a teenager, and an adult.
+  - (e) Explain the following terms:
+  - (1) Evaluating search urgency
+  - (2) Establishing confinement
+  - (3) Scent item
+  - (4) Area air scent dog
+  - (5) Briefing and debriefing
+  - (6) Clue awareness
+  - (7) Evidence preservation
+  - (8) Tracking a subject
+  - (9) Locating a subject using attraction
+  - (10) Hasty search
+  - (11) Trail sweep search
+  - (12) Grid search.
 
+- (7) **Plan and Complete a Search.** Do the following with a team of Scouts, friends, or family to execute a practice SAR exercise:
+  - (a) Choose a hypothetical SAR scenario, either one presented in the *Search and Rescue* merit badge pamphlet or one approved by your counselor.
+  - (b) Develop an Incident Action Plan (IAP) for a hasty search using the scenario information.
+  - (c) Before the search begins, conduct a PAUSE briefing to review hazards, safety concerns, personal and shared Scout Essentials, and other gear.
+  - (d) Execute the search.
+  - (e) After the search, hold a team debriefing to discuss the search, problems, successful and unsuccessful tactics, and ideas for improvement.
 
-* (4) Find out who in your area has authority for search and rescue and what their responsibilities are. Discuss this with your counselor, and explain the official duties of a search and rescue team.
-* (5) Working with your counselor, become familiar with the Incident Command System.  You may use any combination of resource materials, such as printed or online.  Discuss with your counselor how features of the ICS compare with Scouting's patrol method.
-* (6) Identify four types of search and rescue teams and discuss their use or role with your counselor. Then do the following:
-    * (a) Interview a member of one of the teams you have identified above, and learn how this team contributes to a search and rescue operation. Discuss what you learned with your counselor.
-    * (b) Describe the process and safety methods of working around at least two of the specialized SAR teams you identified above.
-    * (c) Explain the differences between wilderness, urban, and water SARs.
-
-
-* (7) Discuss the Universal Transverse Mercator (UTM) system, latitude, and longitude. Then do the following:
-    * (a) Using a 1:24,000 scale USGS topographic map, show that you can identify a location of your choice using UTM coordinates.
-    * (b) Using a 1:24,000 scale map, ask your counselor to give you a UTM coordinate on the map, then identify that location.
-    * (c) Show that you can identify your current location using the UTM coordinates on a Global Positioning System (GPS) unit and verify it on a 1:24,000 scale map.
-    * (d) Determine a hypothetical place last seen, and point out an area on your map that could be used for containment using natural or human-made boundaries.
-
-
-* (8) Choose a hypothetical scenario, either one presented in the Search and Rescue merit badge pamphlet or one created by your counselor.  Then do the following:
-    * (a) Complete an incident objectives form for this scenario.
-    * (b) Complete an Incident Action Plan (IAP) to address this scenario.
-    * (c) Discuss with your counselor the behavior of a lost person and how that would impact your incident action plan (for example, the differences between searching for a young child versus a teen).
-    * (d) After completing 8(a)-8(c), discuss the hypothetical scenario with your counselor.
-
-
-* (9) Discuss with your counselor the terms hasty team and hasty search. Then do the following:
-    * (a) Plan and carry out a practice hasty search—either urban or wilderness—for your patrol or troop. Include the following elements in the search: clue awareness, evidence preservation, tracking the subject, and locating the subject using attraction or trail sweep.
-    * (b) When it's over, hold a team debriefing to discuss the hasty search. Discuss problems encountered, successful and unsuccessful tactics, and ideas for improvement.
-
-
-* (10) Find out about three career or volunteer opportunities in search and rescue. Pick one and find out the education, training, and experience required for this professional or volunteer position. Discuss this with your counselor, and explain why this position might interest you.
-
+- (8) **Careers.** Do ONE of the following:
+  - (a) Explore careers related to Search and Rescue merit badge or emergency management. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. With permission of your parent or guardian, your research methods may include an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
+  - (b) Explore how you could use knowledge and skills from this merit badge to serve as a volunteer on a disaster relief team, a wilderness rescue team, or a ski patrol. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursue this.
 
 ## Resources
 

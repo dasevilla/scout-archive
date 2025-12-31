@@ -28,7 +28,7 @@ Play an active game with your den. Share with your Tiger adult partner or your d
 
 ### Requirement 2
 
-Play a relay game with your den.  Share with your Tiger adult partner or your den why you like this game.
+Play a relay game with your den. Share with your Tiger adult partner or your den why you like this game.
 
 **Activities:**
 

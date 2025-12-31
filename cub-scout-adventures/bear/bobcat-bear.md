@@ -74,7 +74,7 @@ Learn about the denner position and responsibilities.
 
 ### Requirement 6
 
-Demonstrate the Cub Scout sign, Cub Scout salute, and Cub Scout handshake.  Show how each is used.
+Demonstrate the Cub Scout sign, Cub Scout salute, and Cub Scout handshake. Show how each is used.
 
 **Activities:**
 

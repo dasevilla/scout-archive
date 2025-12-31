@@ -15,7 +15,7 @@ Tigers and adult partners will take a walk to explore the outdoors . Along the w
 
 ### Requirement 1
 
-Identify the Cub Scout Six Essentials.  Show what you do with each item.
+Identify the Cub Scout Six Essentials. Show what you do with each item.
 
 **Activities:**
 
@@ -39,7 +39,7 @@ With your den leader or Tiger adult partner, learn about the Outdoor Code.
 
 ### Requirement 3
 
-With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials.  While outside, identify things that you see with your Tiger adult partner that are natural and things that are manmade.
+With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials. While outside, identify things that you see with your Tiger adult partner that are natural and things that are manmade.
 
 **Activities:**
 
@@ -52,7 +52,7 @@ With your den, pack, or family, take a walk outside spending for at least 20 min
 
 ### Requirement 4
 
-Identify common animals that are found where you live. Learn which of those animals is domesticated and which animal is wild.  Draw a picture of your favorite animal.
+Identify common animals that are found where you live. Learn which of those animals is domesticated and which animal is wild. Draw a picture of your favorite animal.
 
 **Activities:**
 
@@ -63,7 +63,7 @@ Identify common animals that are found where you live. Learn which of those anim
 
 ### Requirement 5
 
-Look for a tree where you live.  Describe how this tree is helpful.
+Look for a tree where you live. Describe how this tree is helpful.
 
 **Activities:**
 

@@ -2,6 +2,7 @@
   "name": "Dentistry",
   "overview": "Teeth do a lot more than just peek out from under that winning smile. They have all sorts of duties, and having healthy teeth will help a person to eat, speak, and look great.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/dentistry/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dentistry.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Dentistry.pdf",
@@ -11,191 +12,309 @@
   "image_filename": "dentistry-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dentistry.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14082",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Using X-ray (radiographic) films or images and with your counselor's guidance, do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12983",
-      "requirements": [
+      "id": "12983",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Study the tooth structure and look for decay.",
-          "internal_parent_id": "12983",
-          "internal_id": "12984",
-          "requirements": []
+          "type": "text",
+          "value": "Using X-ray (radiographic) films or images and with your counselor's guidance, do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12984",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Study the tooth structure and look for decay."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Draw a lower molar, using the radiographs as a guide. Label its parts and surfaces. Show surrounding structures such as bone and gum tissues.",
-          "internal_parent_id": "12983",
-          "internal_id": "12985",
-          "requirements": []
+          "id": "12985",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Draw a lower molar, using the radiographs as a guide. Label its parts and surfaces. Show surrounding structures such as bone and gum tissues."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Show on your drawing where the nerves and blood vessels enter and leave the tooth.",
-          "internal_parent_id": "12983",
-          "internal_id": "12986",
-          "requirements": []
+          "id": "12986",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show on your drawing where the nerves and blood vessels enter and leave the tooth."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Show on your drawing where bacterial plaque is most likely to be found.",
-          "internal_parent_id": "12983",
-          "internal_id": "13026",
-          "requirements": []
+          "id": "13026",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show on your drawing where bacterial plaque is most likely to be found."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12987",
-      "requirements": [
+      "id": "12987",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Tell or write about what causes dental decay and gum disease.Tell how each of the following contributes to dental decay and gum disease: bacterial plaque, sugars, and acid.",
-          "internal_parent_id": "12987",
-          "internal_id": "12988",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12988",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell or write about what causes dental decay and gum disease.Tell how each of the following contributes to dental decay and gum disease: bacterial plaque, sugars, and acid."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Tell the possible causes for traumatic tooth loss, describe the types of mouth guards used to help prevent tooth trauma, and list the athletic activities during which a person should wear a mouth guard.",
-          "internal_parent_id": "12987",
-          "internal_id": "12989",
-          "requirements": []
+          "id": "12989",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell the possible causes for traumatic tooth loss, describe the types of mouth guards used to help prevent tooth trauma, and list the athletic activities during which a person should wear a mouth guard."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain the first-aid procedure for saving a tooth that has been knocked out.",
-          "internal_parent_id": "12987",
-          "internal_id": "12990",
-          "requirements": []
+          "id": "12990",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the first-aid procedure for saving a tooth that has been knocked out."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Discuss how the use of tobacco products can negatively affect your oral health.",
-          "internal_parent_id": "12987",
-          "internal_id": "12991",
-          "requirements": []
+          "id": "12991",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss how the use of tobacco products can negatively affect your oral health."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Arrange for a visit with a dentist. Before you go, ask whether your visit can include a dental examination and a plaque-control demonstration. Afterward, ask questions about things you want to know. Then tell your counselor what the dentist does during a checkup examination.",
-      "internal_parent_id": null,
-      "internal_id": "12992",
-      "requirements": []
+      "id": "12992",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Arrange for a visit with a dentist. Before you go, ask whether your visit can include a dental examination and a plaque-control demonstration. Afterward, ask questions about things you want to know. Then tell your counselor what the dentist does during a checkup examination."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Do TWO of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12970",
-      "requirements": [
+      "id": "12970",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Name at least five instruments and five pieces of equipment a dentist uses.",
-          "internal_parent_id": "12970",
-          "internal_id": "12971",
-          "requirements": []
+          "type": "text",
+          "value": "Do TWO of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12971",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name at least five instruments and five pieces of equipment a dentist uses."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "With the help of a dentist, prepare a dental stone cast using a vibrator, a mixing bowl, a water measure, a plastic measure, model stone, and a spatula.",
-          "internal_parent_id": "12970",
-          "internal_id": "12972",
-          "requirements": []
+          "id": "12972",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "With the help of a dentist, prepare a dental stone cast using a vibrator, a mixing bowl, a water measure, a plastic measure, model stone, and a spatula."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Keep a record of everything you eat for three days. Circle those items that may provide the sugars that bacterial plaque needs to make acid. List snacks that you should avoid to help maintain the best oral health.",
-          "internal_parent_id": "12970",
-          "internal_id": "12973",
-          "requirements": []
+          "id": "12973",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Keep a record of everything you eat for three days. Circle those items that may provide the sugars that bacterial plaque needs to make acid. List snacks that you should avoid to help maintain the best oral health."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Discuss with your counselor the following:",
-      "internal_parent_id": null,
-      "internal_id": "12974",
-      "requirements": [
+      "id": "12974",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "How fluorides help prevent tooth decay and the ways fluorides can be provided to the teeth.",
-          "internal_parent_id": "12974",
-          "internal_id": "12975",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss with your counselor the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12975",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "How fluorides help prevent tooth decay and the ways fluorides can be provided to the teeth."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "How the mouth is related to the rest of the body. Topics might include chewing, saliva, enzymes, nutrition, and speech.",
-          "internal_parent_id": "12974",
-          "internal_id": "12976",
-          "requirements": []
+          "id": "12976",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "How the mouth is related to the rest of the body. Topics might include chewing, saliva, enzymes, nutrition, and speech."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Do TWO of the following:",
-      "internal_parent_id": null,
-      "internal_id": "12977",
-      "requirements": [
+      "id": "12977",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Make a model tooth out of soap, clay, papier-m?ch?, or wax. Using a string and a large hand brush, show your troop or a school class proper tooth-brushing and flossing procedures.",
-          "internal_parent_id": "12977",
-          "internal_id": "12978",
-          "requirements": []
+          "type": "text",
+          "value": "Do TWO of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12978",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a model tooth out of soap, clay, papier-m?ch?, or wax. Using a string and a large hand brush, show your troop or a school class proper tooth-brushing and flossing procedures."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Make a poster on the prevention of dental disease. Show the importance of good oral health.",
-          "internal_parent_id": "12977",
-          "internal_id": "12979",
-          "requirements": []
+          "id": "12979",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a poster on the prevention of dental disease. Show the importance of good oral health."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Collect at least five advertisements for different toothpastes. List the claims that each one makes. Tell about the accuracy of the advertisements.",
-          "internal_parent_id": "12977",
-          "internal_id": "12980",
-          "requirements": []
+          "id": "12980",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect at least five advertisements for different toothpastes. List the claims that each one makes. Tell about the accuracy of the advertisements."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Write a feature story for your school newspaper on the proper care of teeth and gums.Include in your story how the use of tobacco products can negatively affect a person's oral health.",
-          "internal_parent_id": "12977",
-          "internal_id": "12981",
-          "requirements": []
+          "id": "12981",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Write a feature story for your school newspaper on the proper care of teeth and gums.Include in your story how the use of tobacco products can negatively affect a person's oral health."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Make drawings and write about the progress of dental decay. Describe the types of dental filling and treatments a dentist can use to repair dental decay problems.",
-          "internal_parent_id": "12977",
-          "internal_id": "12982",
-          "requirements": []
+          "id": "12982",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make drawings and write about the progress of dental decay. Describe the types of dental filling and treatments a dentist can use to repair dental decay problems."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Identify three career opportunities that would use skills and knowledge in dentistry. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
-      "internal_parent_id": null,
-      "internal_id": "12993",
-      "requirements": []
+      "id": "12993",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify three career opportunities that would use skills and knowledge in dentistry. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

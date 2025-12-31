@@ -66,7 +66,7 @@ Using the models built in requirements 3 and 4, create a neighborhood.
 
 ### Requirement 6
 
-Participate in a service project.  Explain how your volunteering is helpful to your neighborhood.
+Participate in a service project. Explain how your volunteering is helpful to your neighborhood.
 
 **Activities:**
 

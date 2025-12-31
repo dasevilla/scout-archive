@@ -24,7 +24,7 @@ Wash your hands with soap and water while singing the “Happy Birthday” song 
 
 ### Requirement 2
 
-Play Germ Magnet with our den or your family.  Wash your hands afterward.
+Play Germ Magnet with our den or your family. Wash your hands afterward.
 
 **Activities:**
 
@@ -35,7 +35,7 @@ Play Germ Magnet with our den or your family.  Wash your hands afterward.
 
 ### Requirement 5
 
-Grow a mold culture.  Show what formed at a den or pack meeting.
+Grow a mold culture. Show what formed at a den or pack meeting.
 
 **Activities:**
 

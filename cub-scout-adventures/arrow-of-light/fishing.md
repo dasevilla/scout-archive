@@ -64,7 +64,7 @@ Determine the best type of knot to tie your hook to your line and tie it.
 
 ### Requirement 6
 
-On your own, choose the appropriate type of fishing rod and tackle you will be using.  Have an adult review your gear.
+On your own, choose the appropriate type of fishing rod and tackle you will be using. Have an adult review your gear.
 
 **Activities:**
 

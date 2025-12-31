@@ -44,7 +44,7 @@ Set up your tent without help from an adult.
 
 ### Requirement 4
 
-Identify a potential weather hazard that could occur in your area.  Determine the action you will take if you experience the weather hazard during the campout.
+Identify a potential weather hazard that could occur in your area. Determine the action you will take if you experience the weather hazard during the campout.
 
 **Activities:**
 
@@ -53,7 +53,7 @@ Identify a potential weather hazard that could occur in your area.  Determine t
 
 ### Requirement 5
 
-Show how to tie a bowline.  Explain when this knot should be used and why.
+Show how to tie a bowline. Explain when this knot should be used and why.
 
 **Activities:**
 
@@ -64,7 +64,7 @@ Show how to tie a bowline.  Explain when this knot should be used and why.
 
 ### Requirement 6
 
-Know the fire safety rules.  Using those rules, locate a safe area to build a campfire.
+Know the fire safety rules. Using those rules, locate a safe area to build a campfire.
 
 **Activities:**
 
@@ -73,7 +73,7 @@ Know the fire safety rules.  Using those rules, locate a safe area to build a c
 
 ### Requirement 7
 
-Using tinder, kindling, and fuel wood, properly build a teepee fire lay.  If circumstances permit, and there is no local restriction on fires, show how to safely light the fire while under adult supervision. After allowing the fire to burn safely, extinguish the flames with minimal impact to the fire site.
+Using tinder, kindling, and fuel wood, properly build a teepee fire lay. If circumstances permit, and there is no local restriction on fires, show how to safely light the fire while under adult supervision. After allowing the fire to burn safely, extinguish the flames with minimal impact to the fire site.
 
 **Activities:**
 

@@ -70,7 +70,7 @@ With your patrol or a Scouting America troop, participate in a campout.
 
 ### Requirement 6
 
-Upon arrival at the campout determine where to set up your campsite: kitchen, eating area, tents, and firepit.  Help the patrol set up the patrol gear before setting up your own tent.
+Upon arrival at the campout determine where to set up your campsite: kitchen, eating area, tents, and firepit. Help the patrol set up the patrol gear before setting up your own tent.
 
 **Activities:**
 
@@ -79,7 +79,7 @@ Upon arrival at the campout determine where to set up your campsite: kitchen, ea
 
 ### Requirement 7
 
-Explain how to keep food safe and the kitchen area sanitary at the campsite.  Demonstrate your knowledge during the campout.
+Explain how to keep food safe and the kitchen area sanitary at the campsite. Demonstrate your knowledge during the campout.
 
 **Activities:**
 
@@ -88,7 +88,7 @@ Explain how to keep food safe and the kitchen area sanitary at the campsite.  D
 
 ### Requirement 8
 
-After your campout, discuss with your patrol what went well and what you would do differently next time.   Include how you followed the Outdoor Code and Leave No Trace Principles for Kids.
+After your campout, discuss with your patrol what went well and what you would do differently next time. Include how you followed the Outdoor Code and Leave No Trace Principles for Kids.
 
 **Activities:**
 

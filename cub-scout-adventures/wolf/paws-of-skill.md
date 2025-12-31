@@ -15,7 +15,7 @@ Sports and active games are great ways to have fun and be healthy. Sports teach 
 
 ### Requirement 1
 
-With your den, discuss sportsmanship and what it means to be a good sport.  Make the connection between sportsmanship and the Scout Oath and the Scout Law.
+With your den, discuss sportsmanship and what it means to be a good sport. Make the connection between sportsmanship and the Scout Oath and the Scout Law.
 
 **Activities:**
 
@@ -26,7 +26,7 @@ With your den, discuss sportsmanship and what it means to be a good sport.  Mak
 
 ### Requirement 2
 
-Learn the rules of a team sport that you can play with your den, pack, family, or friends.  After learning the rules, play the game for 30 minutes.
+Learn the rules of a team sport that you can play with your den, pack, family, or friends. After learning the rules, play the game for 30 minutes.
 
 **Activities:**
 
@@ -39,7 +39,7 @@ Learn the rules of a team sport that you can play with your den, pack, family, o
 
 ### Requirement 3
 
-Visit or watch a team sporting event with your family or den.  Look for ways the team works together and share with your family or den.
+Visit or watch a team sporting event with your family or den. Look for ways the team works together and share with your family or den.
 
 **Activities:**
 

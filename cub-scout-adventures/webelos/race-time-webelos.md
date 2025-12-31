@@ -15,7 +15,7 @@ Propulsion is what gives an object (such as a plane, car, or boat) the power to 
 
 ### Requirement 1
 
-With an adult, build either a Pinewood Derby® and car or a Raingutter Regatta™  boat.
+With an adult, build either a Pinewood Derby® and car or a Raingutter Regatta™ boat.
 
 **Activities:**
 

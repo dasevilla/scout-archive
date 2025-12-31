@@ -2,6 +2,7 @@
   "name": "Pulp and Paper",
   "overview": "Here’s an astonishing number to digest. Each person in the United States uses about 700 pounds of paper each year. Paper is everywhere in our lives. Every year in the United States, more than 2 billion individual books, 24 billion newspapers, and 350 million magazines are published on paper.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/pulp-and-paper/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp-Paper.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Pulp-and-Paper.pdf",
@@ -11,154 +12,247 @@
   "image_filename": "pulp-and-paper-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp-Paper.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14148",
-      "requirements": []
+      "id": "5284",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tell the history of papermaking. Describe the part paper products play in our society and economy."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "1",
-      "text": "Tell the history of papermaking. Describe the part paper products play in our society and economy.",
-      "internal_parent_id": null,
-      "internal_id": "5284",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Learn about the pulp and paper industry.",
-      "internal_parent_id": null,
-      "internal_id": "5291",
-      "requirements": [
+      "id": "5291",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Describe the ways the industry plants, grows, and harvests trees.",
-          "internal_parent_id": "5291",
-          "internal_id": "5292",
-          "requirements": []
+          "type": "text",
+          "value": "Learn about the pulp and paper industry."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5292",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the ways the industry plants, grows, and harvests trees."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain how the industry manages its forests so that the supply of trees keeps pace with the demand.",
-          "internal_parent_id": "5291",
-          "internal_id": "5293",
-          "requirements": []
+          "id": "5293",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how the industry manages its forests so that the supply of trees keeps pace with the demand."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Tell how the industry has incorporated the concepts of sustainable forest management (SFM).",
-          "internal_parent_id": "5291",
-          "internal_id": "5294",
-          "requirements": []
+          "id": "5294",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell how the industry has incorporated the concepts of sustainable forest management (SFM)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Describe two ways the papermaking industry has addressed pollution.",
-          "internal_parent_id": "5291",
-          "internal_id": "5295",
-          "requirements": []
+          "id": "5295",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe two ways the papermaking industry has addressed pollution."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Name at least four types of trees that are major sources of papermaking fibers. Then do the following:",
-      "internal_parent_id": null,
-      "internal_id": "5296",
-      "requirements": [
+      "id": "5296",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Discuss what other uses are made of the trees and the forestland owned by the pulp and paper industry.",
-          "internal_parent_id": "5296",
-          "internal_id": "5297",
-          "requirements": []
+          "type": "text",
+          "value": "Name at least four types of trees that are major sources of papermaking fibers. Then do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5297",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss what other uses are made of the trees and the forestland owned by the pulp and paper industry."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe two ways of getting fibers from wood, and explain the major differences between them.",
-          "internal_parent_id": "5296",
-          "internal_id": "5298",
-          "requirements": []
+          "id": "5298",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe two ways of getting fibers from wood, and explain the major differences between them."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Tell why some pulps are bleached, and describe the process.",
-          "internal_parent_id": "5296",
-          "internal_id": "5299",
-          "requirements": []
+          "id": "5299",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell why some pulps are bleached, and describe the process."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Describe how paper is made. Discuss how paper is recycled. Make a sheet of paper by hand.",
-      "internal_parent_id": null,
-      "internal_id": "5287",
-      "requirements": []
+      "id": "5287",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe how paper is made. Discuss how paper is recycled. Make a sheet of paper by hand."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "Explain what coated paper is and why it is coated. Describe the major uses for different kinds of coated papers. Describe one other way that paper is changed by chemical or mechanical means to make new uses possible.",
-      "internal_parent_id": null,
-      "internal_id": "5288",
-      "requirements": []
+      "id": "5288",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain what coated paper is and why it is coated. Describe the major uses for different kinds of coated papers. Describe one other way that paper is changed by chemical or mechanical means to make new uses possible."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "6",
-      "text": "Make a list of 15 pulp or paper products found in your home. Share examples of 10 such products with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "5289",
-      "requirements": []
+      "id": "5289",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a list of 15 pulp or paper products found in your home. Share examples of 10 such products with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "7",
-      "text": "With your parent or guardian's and counselor's approval, do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "5278",
-      "requirements": [
+      "id": "5278",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Visit a pulp mill. Describe how the mill converts wood to cellulose fibers.",
-          "internal_parent_id": "5278",
-          "internal_id": "5279",
-          "requirements": []
+          "type": "text",
+          "value": "With your parent or guardian's and counselor's approval, do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "5279",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a pulp mill. Describe how the mill converts wood to cellulose fibers."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Visit a paper mill and get a sample of the paper made there. Describe the processes used for making this paper. Tell how it will be used.",
-          "internal_parent_id": "5278",
-          "internal_id": "5280",
-          "requirements": []
+          "id": "5280",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a paper mill and get a sample of the paper made there. Describe the processes used for making this paper. Tell how it will be used."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Visit a container plant or box plant. Describe how the plant's products are made.",
-          "internal_parent_id": "5278",
-          "internal_id": "5281",
-          "requirements": []
+          "id": "5281",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a container plant or box plant. Describe how the plant's products are made."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Visit a recycled paper collection or sorting facility. Describe the operations there.",
-          "internal_parent_id": "5278",
-          "internal_id": "5282",
-          "requirements": []
+          "id": "5282",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a recycled paper collection or sorting facility. Describe the operations there."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Using books, magazines, your local library, the internet (with your parent or guardian's permission), and any other suitable research tool, find out how paper products are developed. Find out what role research and development play in the papermaking industry. Share what you learn with your counselor.",
-          "internal_parent_id": "5278",
-          "internal_id": "5283",
-          "requirements": []
+          "id": "5283",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using books, magazines, your local library, the internet (with your parent or guardian's permission), and any other suitable research tool, find out how paper products are developed. Find out what role research and development play in the papermaking industry. Share what you learn with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Find out about three career opportunities in the papermaking industry that interest you. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "5290",
-      "requirements": []
+      "id": "5290",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find out about three career opportunities in the papermaking industry that interest you. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

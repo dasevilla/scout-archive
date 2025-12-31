@@ -2,6 +2,7 @@
   "name": "Camping",
   "overview": "Camping is one of the best-known methods of the Scouting movement. When he founded the Scouting movement in the early 1900s, Robert Baden-Powell encouraged every Scout to learn the art of living out-of-doors. He believed a young person able to take care of himself while camping would have the confidence to meet life’s other challenges, too.",
   "is_eagle_required": true,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/camping/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Camping.pdf",
@@ -11,343 +12,773 @@
   "image_filename": "camping-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14066",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11549",
-      "requirements": [
+      "id": "11549",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter while participating in camping activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Resources: [ Camping Safety Tips (video)](https://youtu.be/JQEcfZ-jBv8?si=Vuvtm0nJmZIdfe2c) [What to Do in a Bear Encounter (and How to Avoid One) (video)](https://youtu.be/SHZ-prhA7E0?si=UqjZF_MLMMOLPlRo)",
-          "internal_parent_id": "11549",
-          "internal_id": "11550",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Discuss with your counselor why it is important to be aware of weather conditions before and during your camping activities. Tell how you can prepare should the weather turn bad during your campouts. Resources: [5 Mistakes EVERY New Camper Makes in WET WEATHER (video)](https://youtu.be/HzktQBzrSQw?si=AZLAxj0KuDmWjhLl) [Cold Weather Camping Tips (video)](https://youtu.be/Ftc3t93thDw?si=I9UE43d5wRYCQi6k)",
-          "internal_parent_id": "11549",
-          "internal_id": "11551",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Show that you know first aid for and how to prevent injuries or illnesses that could occur while camping, including hypothermia, frostbite, heat reactions, dehydration, altitude sickness, insect stings, tick bites, snakebite, blisters, hyperventilation. Resources: [Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)](https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb) [First Aid for Snakebites (video)](https://youtu.be/DFFzJIy-ak8?si=SnD_WCthjEE-Bi0W) [Types of Heat Reactions (website)](https://www.weather.gov/safety/heat-illness) [Bad Bugs and Their Bites (website)](https://www.webmd.com/allergies/ss/slideshow-bad-bugs)",
-          "internal_parent_id": "11549",
-          "internal_id": "11552",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
         }
-      ]
-    },
-    {
-      "id": "2",
-      "text": "Learn the Leave No Trace Seven Principles and the Outdoor Code, and explain what they mean. Write a personal and group plan for implementing these principles on your next outing. Resources: [Principles of LNT (video)](https://youtu.be/Rpq01rO9ZR0?si=hjjnThExBUjG0aIW)  [The Outdoor Code (website)](https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/)  [LNT/Outdoor Code Planning (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Camping/Leave_No_Trace_Outdoor_Code_Handout_Spaced.pdf)",
-      "internal_parent_id": null,
-      "internal_id": "11553",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "Make a written plan for an overnight trek and show how to get to your  camping spot by using a topographical map and one of the following: Resources:  [How to Read a Topographic Map (video)](https://www.youtube.com/watch?v=CoVcRxza8nI&t=45s)  [Scouting America Planning Worksheet (PDF)](https://filestore.scouting.org/filestore/boyscouts/pdf/512-505-2016-Scout-Planning-Worksheet.pdf?_gl=1*1jwbf2y*_gcl_au*MjA1Nzc0ODA2My4xNzUxOTczMjY5*_ga*NjM2Nzg0MDM0LjE3NTM2NDM4MDI.*_ga_20G0JHESG4*czE3NTQ0MjQyNzckbzI5JGcxJHQxNzU0NDI4Njk0JGoxNSRsMCRoMA..&_ga=2.84744985.1230580687.1754312921-636784034.1753643802)",
-      "internal_parent_id": null,
-      "internal_id": "11554",
-      "requirements": [
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "a",
-          "text": "Compass Resource: [How to Use a Compass (video)](https://youtu.be/0cF0ovA3FtY?si=a1zPKFxoiE68S-0a)",
-          "internal_parent_id": "11554",
-          "internal_id": "11555",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "GPS receiver Resource: [Using a GPS with a Map and Compass (video)](https://youtu.be/mK3pOU_x4jQ?si=PftrLmk-58ruiEZj)",
-          "internal_parent_id": "11554",
-          "internal_id": "11556",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Smartphone with a GPS app. Resource: [How to Use a Smartphone as a GPS (website)](https://www.cleverhiker.com/backpacking/how-to-use-your-phone-as-a-gps-device-for-backpacking/)",
-          "internal_parent_id": "11554",
-          "internal_id": "11557",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11558",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Make a duty roster showing how your patrol is organized for an actual overnight campout. List assignments for each member.",
-          "internal_parent_id": "11558",
-          "internal_id": "11559",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Help a Scout patrol or a Webelos Scout unit in your area prepare for an actual campout, including creating the duty roster, menu planning, equipment needs, general planning, and setting up camp.",
-          "internal_parent_id": "11558",
-          "internal_id": "11560",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11561",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Prepare a list of clothing you would need for overnight campouts in both warm and cold weather. Explain the term \"layering.\" Resources: [Cold Weather Gear (website)](https://scoutlife.org/outdoors/outdoorarticles/6981/checklist-for-a-basic-cold-weather-outing/) [Warm Weather Gear (website)](https://scoutlife.org/outdoors/outdoorarticles/6992/checklist-for-a-basic-warm-weather-outing/)",
-          "internal_parent_id": "11561",
-          "internal_id": "11562",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Discuss footwear for different kinds of weather and how the right footwear is important for protecting your feet. Resource: [The ONE Tip You Need to Choose Between Hiking Boots, Shoes, and Trail Runners (video)](https://youtu.be/liJtac-GvZw?si=ToQQv90HyVEIqwe_)",
-          "internal_parent_id": "11561",
-          "internal_id": "11563",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Explain the proper care and storage of camping equipment (clothing, footwear, bedding). Resource: [How to Clean and Store Camping Gear (website)](https://www.rei.com/learn/expert-advice/end-of-summer-gear-care.html)",
-          "internal_parent_id": "11561",
-          "internal_id": "11564",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "List the outdoor essentials necessary for any campout, and explain why each item is needed.Resources: [10 Essentials for Scout Camping (website)](https://scoutingmagazine.org/2013/02/the-10-essentials/) [The 10 Scout Basic Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/)",
-          "internal_parent_id": "11561",
-          "internal_id": "11565",
-          "requirements": []
-        },
-        {
-          "id": "e",
-          "text": "Present yourself to your Scoutmaster with your pack for inspection. Be correctly clothed and equipped for an overnight campout.",
-          "internal_parent_id": "11561",
-          "internal_id": "11566",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11567",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Describe the features of four types of tents, when and where they could be used, and how to care for tents. Working with another Scout, pitch a tent. Resources: [Types of Tents (video)](https://youtu.be/VB7YN3s1oOg?si=eww1BsIZUTBT-Kfo) [Choosing a Tent (website)](https://blog.scoutingmagazine.org/2020/10/15/how-to-pick-your-perfect-tent/)",
-          "internal_parent_id": "11567",
-          "internal_id": "11568",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Discuss the importance of camp sanitation and tell why water treatment is essential. Then demonstrate two ways to treat water. Resources: [Types of Water Purification (video)](https://youtu.be/tD-Ya2SQk3k?si=S3WLcqg72LIVK85k) [How to Wash Dishes at Camp (video)](https://youtu.be/4tNLdcjBlQc?si=stW_EkBO7EoTrniD)",
-          "internal_parent_id": "11567",
-          "internal_id": "11569",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Describe the factors to be considered in deciding where to pitch your tent. Resources: [How to Pick a Campsite (video)](https://youtu.be/dfpE0x6xTPU?si=6HMKmTSPu-t1vVA3) [How to Choose a GREAT Campsite *AVOID THESE MISTAKES* (video)](https://youtu.be/WmtgLjC_9yw?si=3u34a985FeL3qqBQ)",
-          "internal_parent_id": "11567",
-          "internal_id": "11570",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Tell the difference between internal- and external-frame packs. Discuss the advantages and disadvantages of each. Resource: [How to Choose a Backpack (video)](https://youtu.be/LI1va-97f4w?si=Yt51x6hhjMUuf7uV)",
-          "internal_parent_id": "11567",
-          "internal_id": "11571",
-          "requirements": []
-        },
-        {
-          "id": "e",
-          "text": "Discuss the types of sleeping bags and what kind would be suitable for different conditions. Explain the proper care of your sleeping bag and how to keep it dry. Make a comfortable ground bed. Resources: [Choosing a Sleeping Bag (video)](https://youtu.be/yNaUoBUHKPg?si=Zaxv436Q71UlUO7d) [Backpacking Bags (video)](https://youtu.be/CbxAW45dUPY?si=AZL522R5ufLXN8ht) [Caring for a Sleeping Bag (video)](https://youtu.be/9qOpq5FvKR4?si=ZxVSRZPQOvIQZNUD) [Cleaning a Sleeping Bag (video)](https://youtu.be/3F-7idvPsEU?si=2rq1K7XVeulSLynk)",
-          "internal_parent_id": "11567",
-          "internal_id": "11572",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "text": "Prepare for an overnight campout with your patrol by doing the following:",
-      "internal_parent_id": null,
-      "internal_id": "11573",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Make a checklist of personal and patrol gear that will be needed.",
-          "internal_parent_id": "11573",
-          "internal_id": "11574",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Pack your own gear and your share of the patrol equipment and food for proper carrying. Show that your pack is right for quickly getting what is needed first, and that it has been assembled properly for comfort, weight, balance, size, and neatness. Resource: [How to Pack a Backpack for Easy Access and Comfort (video)](https://youtu.be/HB7ZOjnnFS8?si=OiOXPGCBLGNYt_b0)",
-          "internal_parent_id": "11573",
-          "internal_id": "11575",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "8",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11576",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Explain the safety procedures for:",
-          "internal_parent_id": "11576",
-          "internal_id": "11577",
-          "requirements": [
+          "id": "11550",
+          "label": "a",
+          "content": [
             {
-              "id": "1",
-              "text": "Using a propane or butane/propane stove Resource: [How to Use a Propane Stove (video)](https://youtu.be/6il0aDjwSGI?si=IMrR6Ycu03lWzTtU)",
-              "internal_parent_id": "11577",
-              "internal_id": "11578",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Using a liquid fuel stove Resource: [How to Use a Liquid Fuel Stove (video)](https://youtu.be/2XRqdVIqimY?si=Wj7JsttaHkIADW9a)",
-              "internal_parent_id": "11577",
-              "internal_id": "11579",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Proper storage of extra fuel.",
-              "internal_parent_id": "11577",
-              "internal_id": "11580",
-              "requirements": []
+              "type": "text",
+              "value": "Explain to your counselor the most likely hazards you may encounter while participating in camping activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."
             }
-          ]
-        },
-        {
-          "id": "b",
-          "text": "Discuss the advantages and disadvantages of different types of lightweight cooking stoves. Resource: [Canister vs Liquid Fuel Stoves (video)](https://youtu.be/FCDURxu2L3Y?si=MB1dADsvm80GqDW9)",
-          "internal_parent_id": "11576",
-          "internal_id": "11581",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Prepare a camp menu. Explain how the menu would differ from a menu for a backpacking or float trip. Give recipes and make a food list for your patrol. Plan two breakfasts, three lunches, and two suppers. Discuss how to protect your food against bad weather, animals, and contamination. Resource: [Food Storage & Protection: Techniques for Bears & Mini-Bears (video)](https://youtu.be/7YAiuAuo49Y?si=y87nPJnLJsVPZtJ9)",
-          "internal_parent_id": "11576",
-          "internal_id": "11582",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "While camping in the outdoors, cook at least one breakfast, one lunch, and one dinner for your patrol from the meals you have planned for requirement 8(c). At least one of those meals must be a trail meal requiring the use of a lightweight stove.",
-          "internal_parent_id": "11576",
-          "internal_id": "11583",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "text": "Show experience in camping by doing the following:",
-      "internal_parent_id": null,
-      "internal_id": "11584",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Camp for at least 20 nights at designated Scouting activities or events. One long-term camping experience of up to six consecutive nights may be applied toward this requirement. Two nights may be counted toward the total for each additional long-term camping trip. Each night must be spent either under the sky, in a tent you have pitched yourself (if a tent is provided and already set up, you do not need to pitch your own), in a hammock that is safely strung outdoors, in a lean-to, or other three-sided shelter with an open front. Nights spent in indoor lock-in events, cabin camping, hotel stays, or other covered accommodations do not count toward the 20 nights.",
-          "internal_parent_id": "11584",
-          "internal_id": "11585",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "On any of these camping experiences, you must do TWO of the following, only with proper preparation and under qualified supervision.",
-          "internal_parent_id": "11584",
-          "internal_id": "11586",
-          "requirements": [
+          ],
+          "resources": [
             {
-              "id": "1",
-              "text": "Hike up a mountain, gaining at least 1,000 vertical feet. Resource: [Training for Elevation Gain (video)](https://youtu.be/wrAzopMgriU?si=POvk4jZLbzeTos5t)",
-              "internal_parent_id": "11586",
-              "internal_id": "11587",
-              "requirements": []
+              "title": "Camping Safety Tips (video)",
+              "url": "https://youtu.be/JQEcfZ-jBv8?si=Vuvtm0nJmZIdfe2c"
             },
             {
-              "id": "2",
-              "text": "Backpack, snowshoe, or cross-country ski for at least 4 miles. Resource: [Learn to Snowshoe (video)](https://youtu.be/bIylS8VFGcg?si=_C2XoAWrFGsx0bSa)",
-              "internal_parent_id": "11586",
-              "internal_id": "11588",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Take a bike trip of at least 15 miles or at least four hours. Resource: [What I Wish I Knew Before Bikepacking (video)](https://youtu.be/eC-XDuniSco?si=ThrPiNPJvBWOimjp)",
-              "internal_parent_id": "11586",
-              "internal_id": "11589",
-              "requirements": []
-            },
-            {
-              "id": "4",
-              "text": "Take a nonmotorized trip on the water of at least four hours or 5 miles. Resource: [Canoeing With LNT (video)](https://youtu.be/F8vjVVCf9YI?si=5TuRYuF6q8BjpESE)",
-              "internal_parent_id": "11586",
-              "internal_id": "11590",
-              "requirements": []
-            },
-            {
-              "id": "5",
-              "text": "Plan and carry out an overnight snow camping experience. Resource: [Winter Camping Tips (video)](https://youtu.be/ReanLLCCKIc?si=hlHXtTKcefLmsVuJ)",
-              "internal_parent_id": "11586",
-              "internal_id": "11591",
-              "requirements": []
-            },
-            {
-              "id": "6",
-              "text": "Rappel down a rappel route of 30 feet or more. Resource: [How to Rapel (video)](https://youtu.be/7U6tdEevJgs?si=Iq942pMfrehB7dIX)",
-              "internal_parent_id": "11586",
-              "internal_id": "11592",
-              "requirements": []
+              "title": "What to Do in a Bear Encounter (and How to Avoid One) (video)",
+              "url": "https://youtu.be/SHZ-prhA7E0?si=UqjZF_MLMMOLPlRo"
             }
-          ]
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "On any of these camping experiences, perform a conservation project approved by the landowner or land managing agency. This can be done alone or with others. Resource: [Project Planning Checklist (PDF)](https://www.scouting.org/wp-content/uploads/2019/01/Conservation-Project-Planning-Checklist.pdf)",
-          "internal_parent_id": "11584",
-          "internal_id": "11593",
-          "requirements": []
+          "id": "11551",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor why it is important to be aware of weather conditions before and during your camping activities. Tell how you can prepare should the weather turn bad during your campouts."
+            }
+          ],
+          "resources": [
+            {
+              "title": "5 Mistakes EVERY New Camper Makes in WET WEATHER (video)",
+              "url": "https://youtu.be/HzktQBzrSQw?si=AZLAxj0KuDmWjhLl"
+            },
+            {
+              "title": "Cold Weather Camping Tips (video)",
+              "url": "https://youtu.be/Ftc3t93thDw?si=I9UE43d5wRYCQi6k"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11552",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show that you know first aid for and how to prevent injuries or illnesses that could occur while camping, including hypothermia, frostbite, heat reactions, dehydration, altitude sickness, insect stings, tick bites, snakebite, blisters, and hyperventilation."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)",
+              "url": "https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb"
+            },
+            {
+              "title": "First Aid for Snakebites (video)",
+              "url": "https://youtu.be/DFFzJIy-ak8?si=SnD_WCthjEE-Bi0W"
+            },
+            {
+              "title": "Types of Heat Reactions (website)",
+              "url": "https://www.weather.gov/safety/heat-illness"
+            },
+            {
+              "title": "Bad Bugs and Their Bites (website)",
+              "url": "https://www.webmd.com/allergies/ss/slideshow-bad-bugs"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "10",
-      "text": "Discuss how the things you did to earn this badge have taught you about  personal health and safety, survival, public health, conservation, and good  citizenship. In your discussion, tell how Scout spirit and the Scout Oath and Scout Law apply to camping and outdoor ethics.",
-      "internal_parent_id": null,
-      "internal_id": "11594",
-      "requirements": []
+      "id": "11553",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn the Leave No Trace Seven Principles and the Outdoor Code, and explain what they mean. Write a personal and group plan for implementing these principles on your next outing."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Principles of LNT (video)",
+          "url": "https://youtu.be/Rpq01rO9ZR0?si=hjjnThExBUjG0aIW"
+        },
+        {
+          "title": "The Outdoor Code (website)",
+          "url": "https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/"
+        },
+        {
+          "title": "LNT/Outdoor Code Planning (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Camping/Leave_No_Trace_Outdoor_Code_Handout_Spaced.pdf"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "11554",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a written plan for an overnight trek and show how to get to your camping spot by using a topographical map and one of the following:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Read a Topographic Map (video)",
+          "url": "https://www.youtube.com/watch?v=CoVcRxza8nI&t=45s"
+        },
+        {
+          "title": "Scouting America Planning Worksheet (PDF)",
+          "url": "https://filestore.scouting.org/filestore/boyscouts/pdf/512-505-2016-Scout-Planning-Worksheet.pdf?_gl=1*1jwbf2y*_gcl_au*MjA1Nzc0ODA2My4xNzUxOTczMjY5*_ga*NjM2Nzg0MDM0LjE3NTM2NDM4MDI.*_ga_20G0JHESG4*czE3NTQ0MjQyNzckbzI5JGcxJHQxNzU0NDI4Njk0JGoxNSRsMCRoMA..&_ga=2.84744985.1230580687.1754312921-636784034.1753643802"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "11555",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Compass"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Use a Compass (video)",
+              "url": "https://youtu.be/0cF0ovA3FtY?si=a1zPKFxoiE68S-0a"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11556",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "GPS receiver"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Using a GPS with a Map and Compass (video)",
+              "url": "https://youtu.be/mK3pOU_x4jQ?si=PftrLmk-58ruiEZj"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11557",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Smartphone with a GPS app."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Use a Smartphone as a GPS (website)",
+              "url": "https://www.cleverhiker.com/backpacking/how-to-use-your-phone-as-a-gps-device-for-backpacking/"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "11558",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11559",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a duty roster showing how your patrol is organized for an actual overnight campout. List assignments for each member."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11560",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Help a Scout patrol or a Webelos Scout unit in your area prepare for an actual campout, including creating the duty roster, menu planning, equipment needs, general planning, and setting up camp."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "11561",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11562",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Prepare a list of clothing you would need for overnight campouts in both warm and cold weather. Explain the term \"layering.\""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Cold Weather Gear (website)",
+              "url": "https://scoutlife.org/outdoors/outdoorarticles/6981/checklist-for-a-basic-cold-weather-outing/"
+            },
+            {
+              "title": "Warm Weather Gear (website)",
+              "url": "https://scoutlife.org/outdoors/outdoorarticles/6992/checklist-for-a-basic-warm-weather-outing/"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11563",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "..Discuss footwear for different kinds of weather and how the right footwear is important for protecting your feet."
+            }
+          ],
+          "resources": [
+            {
+              "title": "The ONE Tip You Need to Choose Between Hiking Boots, Shoes, and Trail Runners (video)",
+              "url": "https://youtu.be/liJtac-GvZw?si=ToQQv90HyVEIqwe_"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11564",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the proper care and storage of camping equipment (clothing, footwear, bedding)."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Clean and Store Camping Gear (website)",
+              "url": "https://www.rei.com/learn/expert-advice/end-of-summer-gear-care.html"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11565",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "List the outdoor essentials necessary for any campout, and explain why each item is needed."
+            }
+          ],
+          "resources": [
+            {
+              "title": "10 Essentials for Scout Camping (website)",
+              "url": "https://scoutingmagazine.org/2013/02/the-10-essentials/"
+            },
+            {
+              "title": "The 10 Scout Basic Outdoor Essentials (website)",
+              "url": "https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11566",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Present yourself to your Scoutmaster with your pack for inspection. Be correctly clothed and equipped for an overnight campout."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "11567",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11568",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the features of four types of tents, when and where they could be used, and how to care for tents. Working with another Scout, pitch a tent."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Types of Tents (video)",
+              "url": "https://youtu.be/VB7YN3s1oOg?si=eww1BsIZUTBT-Kfo"
+            },
+            {
+              "title": "Choosing a Tent (website)",
+              "url": "https://blog.scoutingmagazine.org/2020/10/15/how-to-pick-your-perfect-tent/"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11569",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the importance of camp sanitation and tell why water treatment is essential. Then demonstrate two ways to treat water."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Types of Water Purification (video)",
+              "url": "https://youtu.be/tD-Ya2SQk3k?si=S3WLcqg72LIVK85k"
+            },
+            {
+              "title": "How to Wash Dishes at Camp (video)",
+              "url": "https://youtu.be/4tNLdcjBlQc?si=stW_EkBO7EoTrniD"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11570",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the factors to be considered in deciding where to pitch your tent."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Pick a Campsite (video)",
+              "url": "https://youtu.be/dfpE0x6xTPU?si=6HMKmTSPu-t1vVA3"
+            },
+            {
+              "title": "How to Choose a GREAT Campsite *AVOID THESE MISTAKES* (video)",
+              "url": "https://youtu.be/WmtgLjC_9yw?si=3u34a985FeL3qqBQ"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11571",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell the difference between internal- and external-frame packs. Discuss the advantages and disadvantages of each."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Choose a Backpack (video)",
+              "url": "https://youtu.be/LI1va-97f4w?si=Yt51x6hhjMUuf7uV"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11572",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the types of sleeping bags and what kind would be suitable for different conditions. Explain the proper care of your sleeping bag and how to keep it dry. Make a comfortable ground bed."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Choosing a Sleeping Bag (video)",
+              "url": "https://youtu.be/yNaUoBUHKPg?si=Zaxv436Q71UlUO7d"
+            },
+            {
+              "title": "Backpacking Bags (video)",
+              "url": "https://youtu.be/CbxAW45dUPY?si=AZL522R5ufLXN8ht"
+            },
+            {
+              "title": "Caring for a Sleeping Bag (video)",
+              "url": "https://youtu.be/9qOpq5FvKR4?si=ZxVSRZPQOvIQZNUD"
+            },
+            {
+              "title": "Cleaning a Sleeping Bag (video)",
+              "url": "https://youtu.be/3F-7idvPsEU?si=2rq1K7XVeulSLynk"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "11573",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Prepare for an overnight campout with your patrol by doing the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11574",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a checklist of personal and patrol gear that will be needed."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11575",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Pack your own gear and your share of the patrol equipment and food for proper carrying. Show that your pack is right for quickly getting what is needed first, and that it has been assembled properly for comfort, weight, balance, size, and neatness."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Pack a Backpack for Easy Access and Comfort (video)",
+              "url": "https://youtu.be/HB7ZOjnnFS8?si=OiOXPGCBLGNYt_b0"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "11576",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11577",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the safety procedures for:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11578",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a propane or butane/propane stove"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Use a Propane Stove (video)",
+              "url": "https://youtu.be/6il0aDjwSGI?si=IMrR6Ycu03lWzTtU"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11579",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a liquid fuel stove"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Use a Liquid Fuel Stove (video)",
+              "url": "https://youtu.be/2XRqdVIqimY?si=Wj7JsttaHkIADW9a"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11580",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Proper storage of extra fuel."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11581",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the advantages and disadvantages of different types of lightweight cooking stoves."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Canister vs Liquid Fuel Stoves (video)",
+              "url": "https://youtu.be/FCDURxu2L3Y?si=MB1dADsvm80GqDW9"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11582",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Prepare a camp menu. Explain how the menu would differ from a menu for a backpacking or float trip. Give recipes and make a food list for your patrol. Plan two breakfasts, three lunches, and two suppers. Discuss how to protect your food against bad weather, animals, and contamination."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Food Storage & Protection: Techniques for Bears & Mini-Bears (video)",
+              "url": "https://youtu.be/7YAiuAuo49Y?si=y87nPJnLJsVPZtJ9"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11583",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "While camping in the outdoors, cook at least one breakfast, one lunch, and one dinner for your patrol from the meals you have planned for requirement 8(c). At least one of those meals must be a trail meal requiring the use of a lightweight stove."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "11584",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Show experience in camping by doing the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11585",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Camp for at least 20 nights at designated Scouting activities or events. One long-term camping experience of up to six consecutive nights may be applied toward this requirement. Two nights may be counted toward the total for each additional long-term camping trip. Each night must be spent either under the sky, in a tent you have pitched yourself (if a tent is provided and already set up, you do not need to pitch your own), in a hammock that is safely strung outdoors, in a lean-to, or other three-sided shelter with an open front. Nights spent in indoor lock-in events, cabin camping, hotel stays, or other covered accommodations do not count toward the 20 nights."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11586",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "On any of these camping experiences, you must do TWO of the following, only with proper preparation and under qualified supervision."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11587",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Hike up a mountain, gaining at least 1,000 vertical feet."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Training for Elevation Gain (video)",
+              "url": "https://youtu.be/wrAzopMgriU?si=POvk4jZLbzeTos5t"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11588",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Backpack, snowshoe, or cross-country ski for at least 4 miles."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Learn to Snowshoe (video)",
+              "url": "https://youtu.be/bIylS8VFGcg?si=_C2XoAWrFGsx0bSa"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11589",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Take a bike trip of at least 15 miles or at least four hours."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What I Wish I Knew Before Bikepacking (video)",
+              "url": "https://youtu.be/eC-XDuniSco?si=ThrPiNPJvBWOimjp"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11590",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Take a nonmotorized trip on the water of at least four hours or 5 miles."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Canoeing With LNT (video)",
+              "url": "https://youtu.be/F8vjVVCf9YI?si=5TuRYuF6q8BjpESE"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11591",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "Plan and carry out an overnight snow camping experience."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Winter Camping Tips (video)",
+              "url": "https://youtu.be/ReanLLCCKIc?si=hlHXtTKcefLmsVuJ"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11592",
+          "label": "6",
+          "content": [
+            {
+              "type": "text",
+              "value": "Rappel down a rappel route of 30 feet or more."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Rapel (video)",
+              "url": "https://youtu.be/7U6tdEevJgs?si=Iq942pMfrehB7dIX"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "11593",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "On any of these camping experiences, perform a conservation project approved by the landowner or land managing agency. This can be done alone or with others."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Project Planning Checklist (PDF)",
+              "url": "https://www.scouting.org/wp-content/uploads/2019/01/Conservation-Project-Planning-Checklist.pdf"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "11594",
+      "label": "10",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss how the things you did to earn this badge have taught you about personal health and safety, survival, public health, conservation, and good citizenship. In your discussion, tell how Scout spirit and the Scout Oath and Scout Law apply to camping and outdoor ethics."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

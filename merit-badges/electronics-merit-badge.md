@@ -1,7 +1,4 @@
-
-
 # Electronics Merit Badge
-
 ![Electronics Merit Badge](images/electronics-merit-badge.jpg)
 
 ## Overview
@@ -12,44 +9,35 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
 
 ## Requirements
 
-* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electronics.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
-* (1) Describe the safety precautions you must exercise when using, building, altering, or repairing electronic devices.
-* (2) Do the following:
-    * (a) Draw a simple schematic diagram. It must show resistors, capacitors, and transistors or integrated circuits. Use the correct symbols. Label all parts.
-    * (b) Tell the purpose of each part.
+- (1) Describe the safety precautions you must exercise when using, building, altering, or repairing electronic devices.
 
+- (2) Do the following:
+  - (a) Draw a simple schematic diagram. It must show resistors, capacitors, and transistors or integrated circuits. Use the correct symbols. Label all parts.
+  - (b) Tell the purpose of each part.
 
-* (3) Do the following:
-    * (a) Show the right way to solder and desolder.
-    * (b) Show how to avoid heat damage to electronic components.
-    * (c) Tell about the function of a printed circuit board. Tell what precautions should be observed when soldering printed circuit boards.
+- (3) Do the following:
+  - (a) Show the right way to solder and desolder.
+  - (b) Show how to avoid heat damage to electronic components.
+  - (c) Tell about the function of a printed circuit board. Tell what precautions should be observed when soldering printed circuit boards.
 
+- (4) Do the following:
+  - (a) Discuss each of the following with your counselor:
+  - (1) How to use electronics for a control purpose.
+  - (2) Explain the basic principles of digital logic.
+  - (3) How to use electronics for three different analog applications.
+  - (b) Show how to change three decimal numbers into binary numbers and three binary numbers into decimal numbers.
+  - (c) Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.
+  - (1) A control device
+  - (2) A digital circuit
+  - (3) An analog circuit.
 
-* (4) Do the following:
-    * (a) Discuss each of the following with your counselor:
-        * (1) How to use electronics for a control purpose.
-        * (2) Explain the basic principles of digital logic.
-        * (3) How to use electronics for three different analog applications.
+- (5) Do the following:
+  - (a) Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law.
+  - (b) Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate.
+  - (c) Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.
+  - (d) Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each.
 
-
-    * (b) Show how to change three decimal numbers into binary numbers and three binary numbers into decimal numbers.
-    * (c) Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.
-        * (1) A control device
-        * (2) A digital circuit
-        * (3) An analog circuit.
-
-
-
-
-* (5) Do the following:
-    * (a) Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law.
-    * (b) Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate.
-    * (c) Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.
-    * (d) Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each.
-
-
-* (6) Identify three career opportunities that would use skills and knowledge in Electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
-
+- (6) Identify three career opportunities that would use skills and knowledge in Electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
 ## Resources
 

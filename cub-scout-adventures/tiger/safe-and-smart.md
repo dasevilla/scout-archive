@@ -46,7 +46,7 @@ Show you can Stop, Drop and Roll.
 
 ### Requirement 4
 
-With your Tiger adult partner or den leader, create a fire escape plan for your home or den meeting  place.  Include your outside meet-up spot.  Practice the escape route you would take.
+With your Tiger adult partner or den leader, create a fire escape plan for your home or den meeting place. Include your outside meet-up spot. Practice the escape route you would take.
 
 **Activities:**
 
@@ -57,7 +57,7 @@ With your Tiger adult partner or den leader, create a fire escape plan for your 
 
 ### Requirement 5
 
-With your Tiger adult partner, find the location of the smoke detectors in your home or den meeting place.  Confirm they are working properly.
+With your Tiger adult partner, find the location of the smoke detectors in your home or den meeting place. Confirm they are working properly.
 
 **Activities:**
 

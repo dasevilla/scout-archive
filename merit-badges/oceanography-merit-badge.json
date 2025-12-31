@@ -2,6 +2,7 @@
   "name": "Oceanography",
   "overview": "The oceans cover more than 70 percent of our planet and are the dominant feature of Earth. Wherever you live, the oceans influence the weather, the soil, the air, and the geography of your community. To study the oceans is to study Earth itself.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/oceanography/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Oceanography.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Oceanography.pdf",
@@ -11,176 +12,359 @@
   "image_filename": "oceanography-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Oceanography.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14134",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Name four branches of oceanography. Describe at least five reasons why it is important for people to learn about the oceans.",
-      "internal_parent_id": null,
-      "internal_id": "4133",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Explain the following terms: salinity, temperature,  and density. Describe how these important properties of seawater are measured by oceanographer. Discuss the circulation and currents of the ocean. Describe the effects of the oceans on weather and climate.",
-      "internal_parent_id": null,
-      "internal_id": "4134",
-      "requirements": []
-    },
-    {
-      "id": "3",
-      "text": "Describe the characteristics of ocean waves. Point out the differences among the storm surge, tsunami, tidal wave, and tidal bore. Explain the difference between sea, swell, and surf. Explain how breakers are formed.",
-      "internal_parent_id": null,
-      "internal_id": "4135",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Draw a cross-section of underwater topography. Show what is meant by:",
-      "internal_parent_id": null,
-      "internal_id": "4116",
-      "requirements": [
+      "id": "15093",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Continental shelf",
-          "internal_parent_id": "4116",
-          "internal_id": "4117",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Continental slope",
-          "internal_parent_id": "4116",
-          "internal_id": "4118",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Abyssal plain.",
-          "internal_parent_id": "4116",
-          "internal_id": "4119",
-          "requirements": []
+          "type": "text",
+          "value": "Name four branches of oceanography. Describe at least five reasons why it is important for people to learn about the oceans."
         }
-      ]
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "List the main salts, gases, and nutrients in seawater. Describe some important properties of water. Tell how the animals and plants of the ocean affect the chemical composition of seawater. Explain how differences in evaporation and precipitation affect the salt content of the oceans.",
-      "internal_parent_id": null,
-      "internal_id": "4136",
-      "requirements": []
-    },
-    {
-      "id": "6",
-      "text": "Describe some of the biologically important properties of seawater. Define benthos, nekton, and plankton. Name some of the plants and animals that make up each of these groups. Describe the place and importance of phytoplankton in the oceanic food chain.",
-      "internal_parent_id": null,
-      "internal_id": "4137",
-      "requirements": []
-    },
-    {
-      "id": "7",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "4120",
-      "requirements": [
+      "id": "15094",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Make a plankton net. Tow the net by a dock, wade with it, hold it in a current, or tow it from a rowboat. Do this for about 20 minutes. Save the sample. Examine it under a microscope or high-power glass. Identify the three most common types of plankton in the sample.Note: May be done in lakes or streams.",
-          "internal_parent_id": "4120",
-          "internal_id": "4121",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Make a series of models (clay or plaster and wood) of a volcanic island. Show the growth of an atoll from a fringing reef through a barrier reef. Describe the Darwinian theory of coral reef formation.",
-          "internal_parent_id": "4120",
-          "internal_id": "4122",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Measure the water temperature at the surface, midwater, and bottom of a body of water four times daily for five consecutive days. You may measure depth with a rock tied to a line. Make a Secchi disk to measure turbidity (how much suspended sedimentation is in the water). Measure the air temperature. Note the cloud cover and roughness of the water. Show your findings (air and water temperature, turbidity) on a graph. Tell how the water temperature changes with air temperature.",
-          "internal_parent_id": "4120",
-          "internal_id": "4123",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Make a model showing the inshore sediment movement by littoral currents, tidal movement, and wave action. Include such formations as high and low waterlines, low-tide terrace, berm, and coastal cliffs. Show how offshore bars are built up and torn down.",
-          "internal_parent_id": "4120",
-          "internal_id": "4124",
-          "requirements": []
-        },
-        {
-          "id": "e",
-          "text": "Make a wave generator. Show reflection and refraction of waves. Show how groins, jetties, and breakwaters affect these patterns.",
-          "internal_parent_id": "4120",
-          "internal_id": "4125",
-          "requirements": []
-        },
-        {
-          "id": "f",
-          "text": "Track and monitor satellite images available on the internet for a specific location for three weeks. Describe what you have learned to your counselor.",
-          "internal_parent_id": "4120",
-          "internal_id": "4126",
-          "requirements": []
+          "type": "text",
+          "value": "Explain the following terms: salinity, temperature, and density. Describe how these important properties of seawater are measured by an oceanographer. Discuss the circulation and currents of the ocean. Describe the effects of the oceans on weather and climate."
         }
-      ]
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "8",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "4127",
-      "requirements": [
+      "id": "15095",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Write a 500-word report on a book about oceanography approved by your counselor.",
-          "internal_parent_id": "4127",
-          "internal_id": "4131",
-          "requirements": []
-        },
+          "type": "text",
+          "value": "Describe the characteristics of ocean waves and do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "b",
-          "text": "Visit one of the following and write a 500-word report about your visit.",
-          "internal_parent_id": "4127",
-          "internal_id": "4128",
-          "requirements": [
+          "id": "15099",
+          "label": "a",
+          "content": [
             {
-              "id": "1",
-              "text": "Oceanographic research ship",
-              "internal_parent_id": "4128",
-              "internal_id": "4129",
-              "requirements": []
+              "type": "text",
+              "value": "Point out the differences among the storm surge, tsunami, tidal wave, and tidal bore."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15100",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the difference between sea, swell, and surf."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15101",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how breakers are formed."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15102",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what a rip current is, how to avoid them, and what to do if you are caught in one."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15076",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Draw a cross-section of underwater topography. Show what is meant by:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15077",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Continental shelf"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15078",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Continental slope"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15079",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Abyssal plain."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15096",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "List the main salts, gases, and nutrients in seawater. Describe some important properties of water. Tell how the animals and plants of the ocean affect the chemical composition of seawater. Explain how differences in evaporation and precipitation affect the salt content of the oceans."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "15097",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe some of the biologically important properties of seawater. Define benthos, nekton, and plankton. Name some of the plants and animals that make up each of these groups. Describe the place and importance of phytoplankton in the oceanic food chain."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "15080",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15081",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a plankton net. Tow the net by a dock, wade with it, hold it in a current, or tow it from a rowboat. Do this for about 20 minutes. Save the sample. Examine it under a microscope or high-power glass. Identify the three most common types of plankton in the sample."
             },
             {
-              "id": "2",
-              "text": "Oceanographic institute, marine laboratory, or marine aquarium.",
-              "internal_parent_id": "4128",
-              "internal_id": "4130",
-              "requirements": []
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " May be done in lakes or streams."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain to your troop in a five-minute prepared speech \"Why Oceanography Is Important\" or describe \"Career Opportunities in Oceanography.\" (Before making your speech, show your speech outline to your counselor for approval.)",
-          "internal_parent_id": "4127",
-          "internal_id": "4132",
-          "requirements": []
+          "id": "15082",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a series of models (clay or plaster and wood) of a volcanic island. Show the growth of an atoll from a fringing reef through a barrier reef. Describe the Darwinian theory of coral reef formation."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15083",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Measure the water temperature at the surface, midwater, and bottom of a body of water four times daily for five consecutive days. You may measure depth with a rock tied to a line. Make a Secchi disk to measure turbidity (how much suspended sedimentation is in the water). Measure the air temperature. Note the cloud cover and roughness of the water. Show your findings (air and water temperature, turbidity) on a graph. Tell how the water temperature changes with air temperature."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15084",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a model showing the inshore sediment movement by littoral currents, tidal movement, and wave action. Include such formations as high and low waterlines, low-tide terrace, berm, and coastal cliffs. Show how offshore bars are built up and torn down."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15085",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a wave generator. Show reflection and refraction of waves. Show how groins, jetties, and breakwaters affect these patterns."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15086",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Track and monitor satellite images available on the internet for a specific location for three weeks. Describe what you have learned to your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Describe four methods that marine scientists use to investigate the ocean, underlying geology, and organisms living in the water.",
-      "internal_parent_id": null,
-      "internal_id": "4138",
-      "requirements": []
+      "id": "15087",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15091",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Write a 500-word report on a book about oceanography approved by your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15088",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit one of the following and write a 500-word report about your visit."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15089",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Oceanographic research ship"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15090",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Oceanographic institute, marine laboratory, or marine aquarium."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15092",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your troop, in a five-minute prepared speech \"Why Oceanography Is Important,\" or describe \"Career Opportunities in Oceanography.\" (Before making your speech, show your speech outline to your counselor for approval.)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15098",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe four methods that marine scientists use to investigate the ocean, underlying geology, and organisms living in the water."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

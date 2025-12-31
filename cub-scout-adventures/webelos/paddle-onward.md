@@ -33,7 +33,7 @@ Pick a paddle craft for which to complete all requirements: canoe, kayak, or sta
 
 ### Requirement 4
 
-Demonstrate how to choose  and properly wear a life jacket  that is the correct size.
+Demonstrate how to choose and properly wear a life jacket that is the correct size.
 
 **Activities:**
 
@@ -42,7 +42,7 @@ Demonstrate how to choose  and properly wear a life jacket  that is the correc
 
 ### Requirement 5
 
-Jump feet first into water over your head while wearing a life jacket  Then swim 25 feet wearing the life jacket.
+Jump feet first into water over your head while wearing a life jacket Then swim 25 feet wearing the life jacket.
 
 **Activities:**
 
@@ -64,7 +64,7 @@ Demonstrate how to enter and exit a canoe, kayak, or stand-up paddleboard safely
 
 ### Requirement 7
 
-Discuss what to do if your canoe or kayak tips over or you fall off your stand-up paddleboard.
+Discuss what to do if your canoe or kayak tips over or you fall off your stand-up paddleboard.
 
 **Activities:**
 
@@ -77,7 +77,7 @@ Discuss what to do if your canoe or kayak tips over or you fall off your s
 
 ### Requirement 8
 
-Learn how to pick a paddle that is the right size for you.  Explore how the paddle craft responds to moving the paddle.
+Learn how to pick a paddle that is the right size for you. Explore how the paddle craft responds to moving the paddle.
 
 **Activities:**
 
@@ -90,7 +90,7 @@ Learn how to pick a paddle that is the right size for you.  Explore how the pad
 
 ### Requirement 9
 
-Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time.
+Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time.
 
 **Activities:**
 

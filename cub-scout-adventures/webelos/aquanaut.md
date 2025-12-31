@@ -51,7 +51,7 @@ Attempt Scouting America swimmer test.
 
 ### Requirement 6
 
-Have 30 minutes, or more, of free swim time where you practice the Buddy System and stay within your ability group.  The qualified adult supervision should conduct at least three buddy checks per half hour swimming.
+Have 30 minutes, or more, of free swim time where you practice the Buddy System and stay within your ability group. The qualified adult supervision should conduct at least three buddy checks per half hour swimming.
 
 **Activities:**
 

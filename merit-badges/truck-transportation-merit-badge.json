@@ -2,6 +2,7 @@
   "name": "Truck Transportation",
   "overview": "Trucking is a large and important industry. No matter where you live, a day is unlikely to go by when you will not see a truck. We use these vehicles to deliver almost every material item we buy. Without trucks, our economy would not work efficiently.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/truck-transportation/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Truck%20Transportation.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Truck-Transportation.pdf",
@@ -11,183 +12,296 @@
   "image_filename": "truck-transportation-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Truck%20Transportation.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14178",
-      "requirements": []
+      "id": "3352",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "List the major truck lines serving your town."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "1",
-      "text": "List the major truck lines serving your town.",
-      "internal_parent_id": null,
-      "internal_id": "3352",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "3353",
-      "requirements": [
+      "id": "3353",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Describe the role of truck transportation within commerce (the movement of goods, funds, and information).",
-          "internal_parent_id": "3353",
-          "internal_id": "3354",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "3354",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the role of truck transportation within commerce (the movement of goods, funds, and information)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe how trucks fit into a company's supply chain. This could be a manufacturer, importer, wholesaler, or retailer.",
-          "internal_parent_id": "3353",
-          "internal_id": "3355",
-          "requirements": []
+          "id": "3355",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how trucks fit into a company's supply chain. This could be a manufacturer, importer, wholesaler, or retailer."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "On paper, map out how goods that are manufactured overseas are transported to a retailer in this country.",
-          "internal_parent_id": "3353",
-          "internal_id": "3356",
-          "requirements": []
+          "id": "3356",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "On paper, map out how goods that are manufactured overseas are transported to a retailer in this country."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Describe the difference between the gasoline engine and the diesel engine that power trucks. List the advantages of each.",
-      "internal_parent_id": null,
-      "internal_id": "3357",
-      "requirements": []
+      "id": "3357",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe the difference between the gasoline engine and the diesel engine that power trucks. List the advantages of each."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Visit a truck terminal and complete items 4(a) through 4(e). After your visit, share what you have learned with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "3358",
-      "requirements": [
+      "id": "3358",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Find out what kind of maintenance program the company follows to help keep its fleet, drivers, and the roadway safe.",
-          "internal_parent_id": "3358",
-          "internal_id": "3359",
-          "requirements": []
+          "type": "text",
+          "value": "Visit a truck terminal and complete items 4(a) through 4(e). After your visit, share what you have learned with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "3359",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Find out what kind of maintenance program the company follows to help keep its fleet, drivers, and the roadway safe."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Find out how dispatchers maintain communication with drivers on the road.",
-          "internal_parent_id": "3358",
-          "internal_id": "3360",
-          "requirements": []
+          "id": "3360",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Find out how dispatchers maintain communication with drivers on the road."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Talk with a professional truck driver about safety. Learn about the truck driver's rules of the road for safe driving. List five safe-driving rules every professional truck driver must follow.",
-          "internal_parent_id": "3358",
-          "internal_id": "3361",
-          "requirements": []
+          "id": "3361",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Talk with a professional truck driver about safety. Learn about the truck driver's rules of the road for safe driving. List five safe-driving rules every professional truck driver must follow."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Review the driver's log and find out what kind of information the log contains.",
-          "internal_parent_id": "3358",
-          "internal_id": "3362",
-          "requirements": []
+          "id": "3362",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Review the driver's log and find out what kind of information the log contains."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Learn about important federal regulations that help ensure public safety.",
-          "internal_parent_id": "3358",
-          "internal_id": "3363",
-          "requirements": []
+          "id": "3363",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Learn about important federal regulations that help ensure public safety."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "3364",
-      "requirements": [
+      "id": "3364",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Outline the general organization of a trucking company. Describe what each department does.",
-          "internal_parent_id": "3364",
-          "internal_id": "3365",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "3365",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Outline the general organization of a trucking company. Describe what each department does."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "List five positions with trucking companies and describe each one.",
-          "internal_parent_id": "3364",
-          "internal_id": "3366",
-          "requirements": []
+          "id": "3366",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "List five positions with trucking companies and describe each one."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Name five government agencies that work closely with the trucking industry. Describe their role.",
-      "internal_parent_id": null,
-      "internal_id": "3367",
-      "requirements": []
+      "id": "3367",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Name five government agencies that work closely with the trucking industry. Describe their role."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "7",
-      "text": "List five different kinds of trucks. Tell the service each provides.",
-      "internal_parent_id": null,
-      "internal_id": "3368",
-      "requirements": []
+      "id": "3368",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "List five different kinds of trucks. Tell the service each provides."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "8",
-      "text": "Assume that you are going to ship by truck 500 pounds of goods (freight class 65) from your town to another town 500 miles away. Your shipment must arrive within three days. Explain in writing:",
-      "internal_parent_id": null,
-      "internal_id": "3369",
-      "requirements": [
+      "id": "3369",
+      "label": "8",
+      "content": [
         {
-          "id": "a",
-          "text": "How to prepare the shipment",
-          "internal_parent_id": "3369",
-          "internal_id": "3370",
-          "requirements": []
+          "type": "text",
+          "value": "Assume that you are going to ship by truck 500 pounds of goods (freight class 65) from your town to another town 500 miles away. Your shipment must arrive within three days. Explain in writing:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "3370",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to prepare the shipment"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "How to compare at least three carriers for time in transit and rates",
-          "internal_parent_id": "3369",
-          "internal_id": "3371",
-          "requirements": []
+          "id": "3371",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to compare at least three carriers for time in transit and rates"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "How to choose which carrier to use",
-          "internal_parent_id": "3369",
-          "internal_id": "3372",
-          "requirements": []
+          "id": "3372",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to choose which carrier to use"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "How to insure the shipment for damages.",
-          "internal_parent_id": "3369",
-          "internal_id": "3373",
-          "requirements": []
+          "id": "3373",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "How to insure the shipment for damages."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Explain the following terms: bill of lading, ETA, logbook, intermodal, containers, tariff, shippers, carrier, consignee, drayage, and cartage.",
-      "internal_parent_id": null,
-      "internal_id": "3374",
-      "requirements": []
+      "id": "3374",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the following terms: bill of lading, ETA, logbook, intermodal, containers, tariff, shippers, carrier, consignee, drayage, and cartage."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "10",
-      "text": "Learn about opportunities in the field of truck transportation. Choose one career in which you are interested and discuss with your counselor the major responsibilities of that position and the qualifications, education, and training such a position requires.",
-      "internal_parent_id": null,
-      "internal_id": "3375",
-      "requirements": []
+      "id": "3375",
+      "label": "10",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

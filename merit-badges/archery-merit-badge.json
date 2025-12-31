@@ -2,6 +2,7 @@
   "name": "Archery",
   "overview": "Archery is a fun way for Scouts to exercise minds as well as bodies, developing a steady hand, a good eye, and a disciplined mind. This merit badge can provide a thorough introduction to those who are new to the bow and arrow—but even for the experienced archer, earning the badge can help to increase the understanding and appreciation of archery.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/archery/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archery.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Archery.pdf",
@@ -11,364 +12,674 @@
   "image_filename": "archery-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archery.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14056",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12453",
-      "requirements": [
+      "id": "12453",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain what a projectile is, and why any device that shoots a projectile at high speed must be handled with care and respect, and used only in approved locations.",
-          "internal_parent_id": "12453",
-          "internal_id": "12505",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12505",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what a projectile is, and why any device that shoots a projectile at high speed must be handled with care and respect, and used only in approved locations."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain the five range safety rules.",
-          "internal_parent_id": "12453",
-          "internal_id": "12454",
-          "requirements": []
+          "id": "12454",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the five range safety rules."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain the four whistle commands used on the range.",
-          "internal_parent_id": "12453",
-          "internal_id": "12455",
-          "requirements": []
+          "id": "12455",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the four whistle commands used on the range."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain how to safely remove arrows from the target and return them to your quiver.",
-          "internal_parent_id": "12453",
-          "internal_id": "12456",
-          "requirements": []
+          "id": "12456",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how to safely remove arrows from the target and return them to your quiver."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Tell your counselor about your local and state laws for owning and using archery equipment.",
-          "internal_parent_id": "12453",
-          "internal_id": "12457",
-          "requirements": []
+          "id": "12457",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell your counselor about your local and state laws for owning and using archery equipment."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12458",
-      "requirements": [
+      "id": "12458",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Name and point to the parts of an arrow.",
-          "internal_parent_id": "12458",
-          "internal_id": "12462",
-          "requirements": []
-        },
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "b",
-          "text": "Describe three or more different types of arrows.",
-          "internal_parent_id": "12458",
-          "internal_id": "12463",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Name the four principal materials for making arrow shafts.",
-          "internal_parent_id": "12458",
-          "internal_id": "12464",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Do ONE of the following:",
-          "internal_parent_id": "12458",
-          "internal_id": "12459",
-          "requirements": [
+          "id": "12462",
+          "label": "a",
+          "content": [
             {
-              "id": "1",
-              "text": "Make a complete arrow from a bare shaft using appropriate equipment available to you.",
-              "internal_parent_id": "12459",
-              "internal_id": "12460",
-              "requirements": []
-            },
+              "type": "text",
+              "value": "Name and point to the parts of an arrow."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12463",
+          "label": "b",
+          "content": [
             {
-              "id": "2",
-              "text": "To demonstrate arrow repair, inspect the shafts and prepare and replace at least three vanes, one point, and one nock. You may use as many arrows as necessary to accomplish this. The repairs can be done on wood, fiberglass, or aluminum arrows.",
-              "internal_parent_id": "12459",
-              "internal_id": "12461",
-              "requirements": []
+              "type": "text",
+              "value": "Describe three or more different types of arrows."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12464",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name the four principal materials for making arrow shafts."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12459",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Do ONE of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12460",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a complete arrow from a bare shaft using appropriate equipment available to you."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12461",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "To demonstrate arrow repair, inspect the shafts and prepare and replace at least three vanes, one point, and one nock. You may use as many arrows as necessary to accomplish this. The repairs can be done on wood, fiberglass, or aluminum arrows."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12465",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how to properly care for and store arrows."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "12466",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12467",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the proper use, care, and storage of, as well as the reasons for using tabs, arm guards, shooting gloves, and quivers."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12468",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the following terms: draw length, draw weight, mechanical release, and barebow."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "12469",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12470",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "The difference between an end and a round"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12471",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "The differences among field, target, and 3-D archery"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12472",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "How the five-color World Archery Federation target is scored"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12473",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "How the National Field Archery Association (NFAA) black-and-white field targets and blue indoor targets are scored."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "12474",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:"
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Note:"
             }
           ]
         },
         {
-          "id": "e",
-          "text": "Explain how to properly care for and store arrows.",
-          "internal_parent_id": "12458",
-          "internal_id": "12465",
-          "requirements": []
+          "type": "text",
+          "value": " When using a Genesis bow, apply the requirements in Option A."
         }
-      ]
-    },
-    {
-      "id": "3",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12466",
-      "requirements": [
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "a",
-          "text": "Explain the proper use, care, and storage of, as well as the reasons for using tabs, arm guards, shooting gloves, and quivers.",
-          "internal_parent_id": "12466",
-          "internal_id": "12467",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Explain the following terms: draw length, draw weight, mechanical release, barebow.",
-          "internal_parent_id": "12466",
-          "internal_id": "12468",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "text": "Explain the following:",
-      "internal_parent_id": null,
-      "internal_id": "12469",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "The difference between an end and a round",
-          "internal_parent_id": "12469",
-          "internal_id": "12470",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "The differences among field, target, and 3-D archery",
-          "internal_parent_id": "12469",
-          "internal_id": "12471",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "How the five-color World Archery Federation target is scored",
-          "internal_parent_id": "12469",
-          "internal_id": "12472",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "How the National Field Archery Association (NFAA) black-and-white field targets and blue indoor targets are scored.",
-          "internal_parent_id": "12469",
-          "internal_id": "12473",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "text": "Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following Options:",
-      "internal_parent_id": null,
-      "internal_id": "12474",
-      "requirements": [
-        {
-          "id": null,
-          "text": "Option A—Recurve Bow or Longbow. Do the following:",
-          "internal_parent_id": "12474",
-          "internal_id": "12475",
-          "requirements": [
+          "id": "12475",
+          "label": null,
+          "content": [
             {
-              "id": "a",
-              "text": "Name and point to the parts of the recurve or longbow you are shooting.",
-              "internal_parent_id": "12475",
-              "internal_id": "12485",
-              "requirements": []
-            },
-            {
-              "id": "b",
-              "text": "Explain how to properly care for and store recurve bows and longbows.",
-              "internal_parent_id": "12475",
-              "internal_id": "12486",
-              "requirements": []
-            },
-            {
-              "id": "c",
-              "text": "Demonstrate and explain USA Archery's eleven \"Steps of Shooting\" for the bow you are shooting.",
-              "internal_parent_id": "12475",
-              "internal_id": "12487",
-              "requirements": []
-            },
-            {
-              "id": "d",
-              "text": "Demonstrate the proper way to string a recurve bow or longbow.",
-              "internal_parent_id": "12475",
-              "internal_id": "12488",
-              "requirements": []
-            },
-            {
-              "id": "e",
-              "text": "Using a bow square, locate and mark with dental floss, crimp-on, or other method, the nocking point on the bowstring of the bow you are using.",
-              "internal_parent_id": "12475",
-              "internal_id": "12489",
-              "requirements": []
-            },
-            {
-              "id": "f",
-              "text": "Do ONE of the following:",
-              "internal_parent_id": "12475",
-              "internal_id": "12476",
-              "requirements": [
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
                 {
-                  "id": "1",
-                  "text": "Using a recurve bow or longbow and arrows with a finger release, shoot a single round of ONE of the following:",
-                  "internal_parent_id": "12476",
-                  "internal_id": "12477",
-                  "requirements": [
-                    {
-                      "id": "a",
-                      "text": "An NFAA field round of 14 targets and make a score of 60 points",
-                      "internal_parent_id": "12477",
-                      "internal_id": "12478",
-                      "requirements": []
-                    },
-                    {
-                      "id": "b",
-                      "text": "A Scouting America field round of 14 targets and make a score of 80 points",
-                      "internal_parent_id": "12477",
-                      "internal_id": "12479",
-                      "requirements": []
-                    },
-                    {
-                      "id": "c",
-                      "text": "A World Archery/USA Archery indoor round and make a score of 80 points (indoor rounds may be shot outdoors if this is more convenient)",
-                      "internal_parent_id": "12477",
-                      "internal_id": "12480",
-                      "requirements": []
-                    },
-                    {
-                      "id": "d",
-                      "text": "An NFAA indoor round and make a score of 50 points (indoor rounds may be shot outdoors if this is more convenient).",
-                      "internal_parent_id": "12477",
-                      "internal_id": "12481",
-                      "requirements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "2",
-                  "text": "Shooting 30 arrows in five-arrow ends at an 80-centimeter (32-inch) five-color target at 10 yards and using the 10 scoring regions, make a score of 150 points.",
-                  "internal_parent_id": "12476",
-                  "internal_id": "12482",
-                  "requirements": []
+                  "type": "text",
+                  "value": "Option A—Recurve Bow or Longbow."
                 }
               ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option B—Compound Bow. Do the following:",
-          "internal_parent_id": "12474",
-          "internal_id": "12490",
-          "requirements": [
+          "id": "12485",
+          "label": "1",
+          "content": [
             {
-              "id": "a",
-              "text": "Name and point to the parts of the compound bow you are shooting.",
-              "internal_parent_id": "12490",
-              "internal_id": "12500",
-              "requirements": []
-            },
+              "type": "text",
+              "value": "Name and point to the parts of the recurve or longbow you are shooting."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12486",
+          "label": "2",
+          "content": [
             {
-              "id": "b",
-              "text": "Explain how to properly care for and store compound bows.",
-              "internal_parent_id": "12490",
-              "internal_id": "12501",
-              "requirements": []
-            },
+              "type": "text",
+              "value": "Explain how to properly care for and store recurve bows and longbows."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12487",
+          "label": "3",
+          "content": [
             {
-              "id": "c",
-              "text": "Demonstrate and explain USA Archery's eleven \"Steps of Shooting\" for the bow you are shooting.",
-              "internal_parent_id": "12490",
-              "internal_id": "12502",
-              "requirements": []
-            },
+              "type": "text",
+              "value": "Demonstrate and explain USA Archery's 11 Steps of Shooting for the bow you are shooting."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12488",
+          "label": "4",
+          "content": [
             {
-              "id": "d",
-              "text": "Explain why it is necessary to have the string or cable on a compound bow replaced at an archery shop.",
-              "internal_parent_id": "12490",
-              "internal_id": "12503",
-              "requirements": []
-            },
+              "type": "text",
+              "value": "Demonstrate the proper way to string a recurve bow or longbow."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12489",
+          "label": "5",
+          "content": [
             {
-              "id": "e",
-              "text": "Locate and mark with dental floss, crimp-on, or other method, the nocking point on the bowstring of the bow you are using.",
-              "internal_parent_id": "12490",
-              "internal_id": "12504",
-              "requirements": []
-            },
+              "type": "text",
+              "value": "Using a bow square, locate and mark with dental floss, crimp-on, or other method, the nocking point on the bowstring of the bow you are using."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12476",
+          "label": "6",
+          "content": [
             {
-              "id": "f",
-              "text": "Do ONE of the following:",
-              "internal_parent_id": "12490",
-              "internal_id": "12491",
-              "requirements": [
+              "type": "text",
+              "value": "Do ONE of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12477",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a recurve bow or longbow and arrows with a finger release, shoot a single round of ONE of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12478",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "An NFAA field round of 14 targets and make a score of 60 points"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12479",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "A Scouting America field round of 14 targets and make a score of 80 points"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12480",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "A World Archery/USA Archery indoor round and make a score of 80 points (indoor rounds may be shot outdoors if this is more convenient)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12481",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "An NFAA indoor round and make a score of 50 points (indoor rounds may be shot outdoors if this is more convenient)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12482",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Shooting 30 arrows in five-arrow ends at an 80-centimeter (32-inch) five-color target at 10 yards and using the 10 scoring regions, make a score of 150 points."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12490",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
                 {
-                  "id": "1",
-                  "text": "Using a compound bow and arrows with a finger release, shoot a single round of ONE of the following:",
-                  "internal_parent_id": "12491",
-                  "internal_id": "12492",
-                  "requirements": [
-                    {
-                      "id": "a",
-                      "text": "An NFAA field round of 14 targets and make a score of 70 points",
-                      "internal_parent_id": "12492",
-                      "internal_id": "12493",
-                      "requirements": []
-                    },
-                    {
-                      "id": "b",
-                      "text": "A Scouting America field round of 14 targets and make a score of 90 points",
-                      "internal_parent_id": "12492",
-                      "internal_id": "12494",
-                      "requirements": []
-                    },
-                    {
-                      "id": "c",
-                      "text": "A World Archery/USA Archery indoor round and make a score of 90 points (indoor rounds may be shot outdoors if this is more convenient)",
-                      "internal_parent_id": "12492",
-                      "internal_id": "12495",
-                      "requirements": []
-                    },
-                    {
-                      "id": "d",
-                      "text": "An NFAA indoor round and make a score of 60 points (indoor rounds may be shot outdoors if this is more convenient)",
-                      "internal_parent_id": "12492",
-                      "internal_id": "12496",
-                      "requirements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "2",
-                  "text": "Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160 points. Accomplish this in the following manner: Shoot 15 arrows in five-arrow ends, at a distance of 10 yards AND Shoot 15 arrows in five-arrow ends, at a distance of 15 yards.",
-                  "internal_parent_id": "12491",
-                  "internal_id": "12497",
-                  "requirements": []
+                  "type": "text",
+                  "value": "Option B—Compound Bow"
                 }
               ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12500",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name and point to the parts of the compound bow you are shooting."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12501",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how to properly care for and store compound bows."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12502",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate and explain USA Archery's 11 Steps of Shooting for the bow you are shooting."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12503",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain why it is necessary to have the string or cable on a compound bow replaced at an archery shop."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12504",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "Locate and mark with dental floss, crimp-on, or other method, the nocking point on the bowstring of the bow you are using."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12491",
+          "label": "6",
+          "content": [
+            {
+              "type": "text",
+              "value": "Do ONE of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12492",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a compound bow and arrows with a finger release, shoot a single round of ONE of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12493",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "An NFAA field round of 14 targets and make a score of 70 points"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12494",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "A Scouting America field round of 14 targets and make a score of 90 points"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12495",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "A World Archery/USA Archery indoor round and make a score of 90 points (indoor rounds may be shot outdoors if this is more convenient)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12496",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "An NFAA indoor round and make a score of 60 points (indoor rounds may be shot outdoors if this is more convenient)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "12497",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160 points. Accomplish this in the following manner:"
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " Shoot 15 arrows in five-arrow ends, at a distance of 10 yards"
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " AND"
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " Shoot 15 arrows in five-arrow ends, at a distance of 15 yards."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

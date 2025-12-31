@@ -2,6 +2,7 @@
   "name": "Snow Sports",
   "overview": "Skiing and snowboarding are the fastest and most thrilling ways to travel on foot in snow country. These sports also provide the physical benefits of fresh air, rhythmic action, and strenuous exercise. Many games and contests give snow sports variety and added rewards.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/snow-sports/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Snow%20Sports.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Snow-Sports.pdf",
@@ -11,445 +12,926 @@
   "image_filename": "snow-sports-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Snow%20Sports.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14167",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12087",
-      "requirements": [
+      "id": "15947",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the hazards you are most likely to encounter while participating in snow sport activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
-          "internal_parent_id": "12087",
-          "internal_id": "12088",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in snow sports, including hypothermia, frostbite, shock, dehydration, sunburn, concussion, fractures, bruises, sprains, and strains. Tell how to apply splints.",
-          "internal_parent_id": "12087",
-          "internal_id": "12089",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
         }
-      ]
-    },
-    {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12090",
-      "requirements": [
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "a",
-          "text": "Explain why every snow sport participant should be prepared to render first aid in the event of an accident.",
-          "internal_parent_id": "12090",
-          "internal_id": "12091",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Explain the procedure used to report an accident to the local ski patrol or local emergency personnel.",
-          "internal_parent_id": "12090",
-          "internal_id": "12092",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "text": "Explain the international trail-marking system.",
-      "internal_parent_id": null,
-      "internal_id": "12149",
-      "requirements": []
-    },
-    {
-      "id": "4",
-      "text": "Discuss the importance of strength, endurance, and flexibility in snow sports. Demonstrate exercises and activities you can do to get fit for the Option you choose in requirement 7.",
-      "internal_parent_id": null,
-      "internal_id": "12150",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "Present yourself properly clothed and equipped for the Option you choose in requirement 7. Discuss how the clothing you have chosen will help keep you warm and protected.",
-      "internal_parent_id": null,
-      "internal_id": "12151",
-      "requirements": []
-    },
-    {
-      "id": "6",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12093",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Tell the meaning of the Your Responsibility Code for skiers, snowboarders, and snowshoers. Explain why each rider must follow this code.",
-          "internal_parent_id": "12093",
-          "internal_id": "12094",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Explain the Smart Style safety program. Tell why it is important and how it applies to participants at snow sport venues like terrain parks and pipes.",
-          "internal_parent_id": "12093",
-          "internal_id": "12095",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Explain the precautions pertaining to avalanche safety, including the responsibility of individuals regarding avalanche safety.",
-          "internal_parent_id": "12093",
-          "internal_id": "12096",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "text": "Do ONE of the following options:",
-      "internal_parent_id": null,
-      "internal_id": "12098",
-      "requirements": [
-        {
-          "id": null,
-          "text": "Option A—Downhill (Alpine) Skiing",
-          "internal_parent_id": "12098",
-          "internal_id": "12099",
-          "requirements": [
+          "id": "15948",
+          "label": "a",
+          "content": [
             {
-              "id": "a",
-              "text": "Show how to wax and maintain your skis and use/maintain your release bindings. Explain the international DIN standard and what it means to skiers.",
-              "internal_parent_id": "12099",
-              "internal_id": "12104",
-              "requirements": []
-            },
-            {
-              "id": "b",
-              "text": "Explain the American Teaching System and a basic snowskiing progression.",
-              "internal_parent_id": "12099",
-              "internal_id": "12105",
-              "requirements": []
-            },
-            {
-              "id": "c",
-              "text": "Discuss the five types of Alpine skis. Demonstrate two ways to carry skis and poles safely and easily.",
-              "internal_parent_id": "12099",
-              "internal_id": "12106",
-              "requirements": []
-            },
-            {
-              "id": "d",
-              "text": "Demonstrate how to ride one kind of lift and explain how to ride two others.",
-              "internal_parent_id": "12099",
-              "internal_id": "12107",
-              "requirements": []
-            },
-            {
-              "id": "e",
-              "text": "On a gentle slope, demonstrate some of the beginning maneuvers learned in skiing. Include the straight run, gliding wedge, wedge stop, sidestep, and herringbone maneuvers.",
-              "internal_parent_id": "12099",
-              "internal_id": "12108",
-              "requirements": []
-            },
-            {
-              "id": "f",
-              "text": "On slightly steeper terrain,show linked wedge turns.",
-              "internal_parent_id": "12099",
-              "internal_id": "12109",
-              "requirements": []
-            },
-            {
-              "id": "g",
-              "text": "On a moderate slope, demonstrate five to 10 christies.",
-              "internal_parent_id": "12099",
-              "internal_id": "12110",
-              "requirements": []
-            },
-            {
-              "id": "h",
-              "text": "Make a controlled run down an intermediate slope.",
-              "internal_parent_id": "12099",
-              "internal_id": "12100",
-              "requirements": []
-            },
-            {
-              "id": "i",
-              "text": "Demonstrate the ability to ski in varied conditions, including changes in pitch, snow conditions, and moguls. Maintain your balance and ability to turn.",
-              "internal_parent_id": "12099",
-              "internal_id": "12111",
-              "requirements": []
-            },
-            {
-              "id": "j",
-              "text": "Name the major ski organizations in the United States and explain their functions.",
-              "internal_parent_id": "12099",
-              "internal_id": "12112",
-              "requirements": []
+              "type": "text",
+              "value": "Explain to your counselor the hazards you are most likely to encounter while participating in snow sport activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option B—Cross-Country (Nordic) Skiing",
-          "internal_parent_id": "12098",
-          "internal_id": "12113",
-          "requirements": [
+          "id": "15949",
+          "label": "b",
+          "content": [
             {
-              "id": "a",
-              "text": "Show your ability to select, use, and maintain equipment for cross-country skiing in safety and comfort.",
-              "internal_parent_id": "12113",
-              "internal_id": "12114",
-              "requirements": []
-            },
-            {
-              "id": "b",
-              "text": "Discuss classic, skating, touring, and telemark skis.",
-              "internal_parent_id": "12113",
-              "internal_id": "12115",
-              "requirements": []
-            },
-            {
-              "id": "c",
-              "text": "Discuss the basic principles of waxing for cross-country ski touring.",
-              "internal_parent_id": "12113",
-              "internal_id": "12116",
-              "requirements": []
-            },
-            {
-              "id": "d",
-              "text": "Discuss the differences between cross-country, backcountry/ski touring, ski mountaineering, and downhill/telemark skiing.",
-              "internal_parent_id": "12113",
-              "internal_id": "12117",
-              "requirements": []
-            },
-            {
-              "id": "e",
-              "text": "List the items you would take on a one-day ski tour.",
-              "internal_parent_id": "12113",
-              "internal_id": "12118",
-              "requirements": []
-            },
-            {
-              "id": "f",
-              "text": "Demonstrate the proper use of a topographic map and compass.",
-              "internal_parent_id": "12113",
-              "internal_id": "12119",
-              "requirements": []
-            },
-            {
-              "id": "g",
-              "text": "On a gentle, packed slope, show some basic ways to control speed and direction. Include the straight run, traverse, side slip, step turn, wedge stop, and wedge turn maneuvers.",
-              "internal_parent_id": "12113",
-              "internal_id": "12120",
-              "requirements": []
-            },
-            {
-              "id": "h",
-              "text": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide.",
-              "internal_parent_id": "12113",
-              "internal_id": "12121",
-              "requirements": []
-            },
-            {
-              "id": "i",
-              "text": "Demonstrate your ability, on a tour, to cope with an average variety of snow conditions.",
-              "internal_parent_id": "12113",
-              "internal_id": "12122",
-              "requirements": []
-            },
-            {
-              "id": "j",
-              "text": "Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, pole drag, and ski-pole \"glissade.\"",
-              "internal_parent_id": "12113",
-              "internal_id": "12123",
-              "requirements": []
+              "type": "text",
+              "value": "Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in snow sports, including hypothermia, frostbite, shock, dehydration, sunburn, concussion, fractures, bruises, sprains, and strains. Tell how to apply splints."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15950",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15951",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain why every snow sport participant should be prepared to render first aid in the event of an accident."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option C—Snowboarding",
-          "internal_parent_id": "12098",
-          "internal_id": "12124",
-          "requirements": [
+          "id": "15952",
+          "label": "b",
+          "content": [
             {
-              "id": "a",
-              "text": "Discuss forward-fall injuries.",
-              "internal_parent_id": "12124",
-              "internal_id": "12128",
-              "requirements": []
+              "type": "text",
+              "value": "Explain the procedure used to report an accident to the local ski patrol or local emergency personnel."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "16005",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the international trail-marking system."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "16006",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss the importance of strength, endurance, and flexibility in snow sports. Demonstrate exercises and activities you can do to get fit for the option you choose in requirement 7."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "16007",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Present yourself properly clothed and equipped for the option you choose in requirement 7. Discuss how the clothing you have chosen will help keep you warm and protected."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "15953",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15954",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the elements of the "
             },
             {
-              "id": "b",
-              "text": "Show your ability to select the correct equipment for snowboarding and to use it for safety and comfort.",
-              "internal_parent_id": "12124",
-              "internal_id": "12129",
-              "requirements": []
-            },
-            {
-              "id": "c",
-              "text": "Show how to use and maintain your own bindings, and explain the use of the different binding methods. Explain the need for leashes.",
-              "internal_parent_id": "12124",
-              "internal_id": "12130",
-              "requirements": []
-            },
-            {
-              "id": "d",
-              "text": "Discuss the four types of snowboards. Demonstrate how to carry a snowboard easily and safely.",
-              "internal_parent_id": "12124",
-              "internal_id": "12131",
-              "requirements": []
-            },
-            {
-              "id": "e",
-              "text": "Demonstrate how to ride one kind of lift and explain how to ride two others.",
-              "internal_parent_id": "12124",
-              "internal_id": "12132",
-              "requirements": []
-            },
-            {
-              "id": "f",
-              "text": "Demonstrate the basic principles of waxing a snowboard.",
-              "internal_parent_id": "12124",
-              "internal_id": "12133",
-              "requirements": []
-            },
-            {
-              "id": "g",
-              "text": "Do the following:",
-              "internal_parent_id": "12124",
-              "internal_id": "12125",
-              "requirements": [
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
                 {
-                  "id": "1",
-                  "text": "On a gentle slope, demonstrate beginning snowboarding maneuvers. Show basic ways to control speed and direction. Include the sideslipping maneuver.",
-                  "internal_parent_id": "12125",
-                  "internal_id": "12126",
-                  "requirements": []
-                },
-                {
-                  "id": "2",
-                  "text": "On slightly steeper terrain, show traversing.",
-                  "internal_parent_id": "12125",
-                  "internal_id": "12127",
-                  "requirements": []
+                  "type": "text",
+                  "value": "Your Responsibility Code"
                 }
               ]
             },
             {
-              "id": "h",
-              "text": "On a moderate slope, demonstrate an ollie, a nose-end grab, and a wheelie.",
-              "internal_parent_id": "12124",
-              "internal_id": "12134",
-              "requirements": []
-            },
-            {
-              "id": "i",
-              "text": "Make a controlled run down an intermediate slope.",
-              "internal_parent_id": "12124",
-              "internal_id": "12135",
-              "requirements": []
-            },
-            {
-              "id": "j",
-              "text": "Demonstrate your ability to ride in varied conditions, including changes in pitch, snow conditions, and moguls. Maintain your balance and ability to turn.",
-              "internal_parent_id": "12124",
-              "internal_id": "12136",
-              "requirements": []
-            },
-            {
-              "id": "k",
-              "text": "Name the major snowboarding organizations in the United States and explain their functions.",
-              "internal_parent_id": "12124",
-              "internal_id": "12137",
-              "requirements": []
+              "type": "text",
+              "value": " that is in effect at the location whehre you will ski, snowboard, or snowshoe. Explain why each person must follow this code."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "Option D—Snowshoeing",
-          "internal_parent_id": "12098",
-          "internal_id": "12138",
-          "requirements": [
+          "id": "15955",
+          "label": "b",
+          "content": [
             {
-              "id": "a",
-              "text": "Name the parts of a snowshoe.",
-              "internal_parent_id": "12138",
-              "internal_id": "12139",
-              "requirements": []
+              "type": "text",
+              "value": "Explain the "
             },
             {
-              "id": "b",
-              "text": "Explain how to choose the correct size of snowshoe.",
-              "internal_parent_id": "12138",
-              "internal_id": "12140",
-              "requirements": []
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "SMART Style"
+                }
+              ]
             },
             {
-              "id": "c",
-              "text": "Describe the different types of snowshoes and their specialized uses. Discuss factors to consider when choosing a snowshoe.",
-              "internal_parent_id": "12138",
-              "internal_id": "12141",
-              "requirements": []
-            },
-            {
-              "id": "d",
-              "text": "Explain how to properly care for and maintain snowshoes.",
-              "internal_parent_id": "12138",
-              "internal_id": "12142",
-              "requirements": []
-            },
-            {
-              "id": "e",
-              "text": "List the items you would take on a one-day snowshoe hike.",
-              "internal_parent_id": "12138",
-              "internal_id": "12143",
-              "requirements": []
-            },
-            {
-              "id": "f",
-              "text": "Describe areas that are best for snowshoeing. Discuss some advantages and dangers of backcountry snowshoeing.",
-              "internal_parent_id": "12138",
-              "internal_id": "12144",
-              "requirements": []
-            },
-            {
-              "id": "g",
-              "text": "Discuss the benefits of snowshoeing.",
-              "internal_parent_id": "12138",
-              "internal_id": "12145",
-              "requirements": []
-            },
-            {
-              "id": "h",
-              "text": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope.",
-              "internal_parent_id": "12138",
-              "internal_id": "12146",
-              "requirements": []
-            },
-            {
-              "id": "i",
-              "text": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions",
-              "internal_parent_id": "12138",
-              "internal_id": "12147",
-              "requirements": []
-            },
-            {
-              "id": "j",
-              "text": "Demonstrate the proper use of a topographic map and compass.",
-              "internal_parent_id": "12138",
-              "internal_id": "12148",
-              "requirements": []
+              "type": "text",
+              "value": " safety program. Tell why it is important and how it applies to participants at snow sport venues like terrain parks and pipes."
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15956",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the precautions pertaining to avalanche safety, including the responsibility of individuals regarding avalanche safety."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "15957",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following options:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "15958",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option A—Downhill (Alpine) Skiing."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following: "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Generally, a gentle slope will be a trail designated by a green circle, a slightly steeper slope will be a green circle or blue square trail, and an intermediate slope will be a blue square trail. However, your counselor should determine what type of hill is most suited to your skill level and allows you to demonstrate each of the required skills."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15959",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to wax and maintain your skis and use/maintain your release bindings. Explain the international DIN standard and what it means to skiers."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15960",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the American Teaching System and a basic snowskiing progression."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15961",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the different types of Alpine skis. Demonstrate two ways to carry skis and poles safely and easily."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15962",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate how to ride one kind of lift and explain how to ride two others."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15963",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a gentle slope, demonstrate some of the beginning maneuvers learned in skiing. Include the straight run, gliding wedge, wedge stop, sidestep, and herringbone maneuvers."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15964",
+          "label": "6",
+          "content": [
+            {
+              "type": "text",
+              "value": "On slightly steeper terrain,show linked wedge turns."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15965",
+          "label": "7",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a moderate slope, demonstrate five to 10 christies."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15966",
+          "label": "8",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a controlled run down an intermediate slope."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15967",
+          "label": "9",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate the ability to ski in varied conditions, including changes in pitch and snow conditions. Maintain your balance and ability to turn."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15968",
+          "label": "10",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name the major ski organizations in the United States and explain their functions."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15969",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option B—Cross-Country (Nordic) Skiing."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " DO ALL of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15970",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show your ability to select, use, and maintain equipment for cross-country skiing in safety and comfort."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15971",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the reasons for common rules, including no walking on ski trails, one-way ski direction, no pets, and no skiing on snowmobile trails."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15972",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss classic, skating, touring, and telemark skis."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15973",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the basic principles of waxing for cross-country ski touring."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15974",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the differences between cross-country, backcountry/ski touring, ski mountaineering, and downhill/telemark skiing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15975",
+          "label": "6",
+          "content": [
+            {
+              "type": "text",
+              "value": "List the items you would take on a one-day ski tour."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15976",
+          "label": "7",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate the proper use of a topographic map and compass."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15977",
+          "label": "8",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a gentle, packed slope, show some basic ways to control speed and direction. Include the straight run, traverse, side slip, step turn, wedge stop, and wedge turn maneuvers."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15978",
+          "label": "9",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15979",
+          "label": "10",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate your ability, on a 4-mile tour, to cope with an average variety of snow conditions. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Adaptive skiers may complete a 1-mile tour with prior approval from their counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16008",
+          "label": "11",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, and pole drag."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15980",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option C—Snowboarding."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following: "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Generally, a gentle slope will be a trail designated by a green circle, a slightly steeper slope will be a green circle or blue square trail, and an intermediate slope will be a blue square trail. However, your counselor should determine what type of hill is most suited to your skill level and allows you to demonstrate the required skills."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15984",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss forward-fall injuries."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15985",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show your ability to select the correct equipment for snowboarding and to use it for safety and comfort."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15986",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to use and maintain your own bindings, and explain the use of the different binding methods. Explain the need for leashes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15987",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the four types of snowboards. Demonstrate how to carry a snowboard easily and safely."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15988",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate how to ride one kind of lift and explain how to ride two others."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15989",
+          "label": "6",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate the basic principles of waxing a snowboard."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15981",
+          "label": "7",
+          "content": [
+            {
+              "type": "text",
+              "value": "Do the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15982",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a gentle slope, demonstrate beginning snowboarding maneuvers. Show basic ways to control speed and direction. Include the sideslipping maneuver."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15983",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "On slightly steeper terrain, show traversing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15990",
+          "label": "8",
+          "content": [
+            {
+              "type": "text",
+              "value": "On a moderate slope, demonstrate an ollie, a nose-end grab, and a wheelie."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15991",
+          "label": "9",
+          "content": [
+            {
+              "type": "text",
+              "value": "Make a controlled run down an intermediate slope."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15992",
+          "label": "10",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate your ability to ride in varied conditions, including changes in pitch, snow conditions, and moguls. Maintain your balance and ability to turn."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15993",
+          "label": "11",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name the major snowboarding organizations in the United States and explain their functions."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15994",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option D—Snowshoeing."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15995",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name the parts of a snowshoe."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15996",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how to choose the correct size of snowshoe."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15997",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the different types of snowshoes and their specialized uses. Discuss factors to consider when choosing a snowshoe."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15998",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how to properly care for and maintain snowshoes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "15999",
+          "label": "5",
+          "content": [
+            {
+              "type": "text",
+              "value": "List the items you would take on a one-day snowshoe hike."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16000",
+          "label": "6",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe areas that are best for snowshoeing. Discuss some advantages and dangers of backcountry snowshoeing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16001",
+          "label": "7",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the benefits of snowshoeing."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16002",
+          "label": "8",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16003",
+          "label": "9",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Adaptive skiers may complete a 1-mile hike with prior approval from their counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "16004",
+          "label": "10",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate the proper use of a topographic map and compass."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

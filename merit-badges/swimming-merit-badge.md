@@ -1,7 +1,4 @@
-
-
 # Swimming Merit Badge
-
 ![Swimming Merit Badge](images/swimming-merit-badge.jpg)
 
 ## Overview
@@ -12,43 +9,41 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
 
 ## Requirements
 
-* NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)
-* (1) Do the following:
-    * (a) Explain to your counselor how Scouting's Safe Swim Defense plan anticipates, helps prevent and mitigate, and provides responses to likely hazards you may encounter during swimming activities.
-    * (b) Discuss the prevention and treatment of health concerns that could occur while swimming, including hypothermia, dehydration, sunburn, heat exhaustion, heatstroke, muscle cramps, hyperventilation, spinal injury, stings and bites, and cuts and scrapes.
+- (1) Do the following:
+  - (a) Review with your counselor how Scouting America's Safe Swim Defense guidelines anticipates and deals with common drowning situations such as unfenced residential pools, nonswimmers entering deep water, risky behaviors, medical impairment in the water, drop-offs, cold water, murky water, river currents, rip currents, and surf.
+  - (b) Discuss the prevention and treatment of health concerns that could occur while swimming, including hypothermia, dehydration, sunburn, heat exhaustion, heatstroke, muscle cramps, hyperventilation, spinal injury, stings and bites, and cuts and scrapes.
 
+- (2) Before doing the following requirements, successfully complete the Scouting America swimmer test, found in the *Swimming* merit badge pamphlet.
 
-* (2) Before doing the following requirements, successfully complete the Scouting America swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
-* (3) Correctly perform the following strokes:
-    * (a) Demonstrate the front crawl or the trudgen using good form.
-    * (b) Demonstrate the back crawl using good form.
-    * (c) Demonstrate the sidestroke using good form.
-    * (d) Demonstrate the breaststroke using good form.
-    * (e) Demonstrate the elementary backstroke using good form.
+- (3) Correctly perform the following strokes:
+  - (a) Demonstrate the front crawl or the trudgen using good form.
+  - (b) Demonstrate the back crawl using good form.
+  - (c) Demonstrate the sidestroke using good form.
+  - (d) Demonstrate the breaststroke using good form.
+  - (e) Demonstrate the elementary backstroke using good form.
 
+- (4) Swim continuously for 150 yards in a strong manner using each of the following strokes in any order; front crawl or trudgen (25 yards); back crawl (25 yards); sidestroke (25 yards); breaststroke (25 yards); and elementary backstroke (50 yards).
 
-* (4) Swim continuously for 150 yards in a strong manner using each of the following strokes in any order; front crawl or trudgen (25 yards); back crawl (25 yards); sidestroke (25 yards); breaststroke (25 yards); and elementary backstroke (50 yards).
-* (5) Do the following:
-    * (a) Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects. Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible, and explain why and how a rescue swimmer should avoid contact with the victim.
-    * (b) With a helper and a practice victim, show a line rescue both as tender and as rescuer. The practice victim should be approximately 30 feet from shore in deep water.
+- (5) Do the following:
+  - (a) Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects. Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible, and explain why and how a rescue swimmer should avoid contact with the victim.
+  - (b) With a helper and a practice victim, show a line rescue both as tender and as rescuer. The practice victim should be approximately 30 feet from shore in deep water.
 
+- (6) Do the following:
+  - (a) Float faceup in a resting position for at least three minutes with minimal movement.
+  - (b) Demonstrate survival floating for at least five minutes.
+  - (c) While wearing a properly fitted U.S. Coast Guard-approved life jacket, demonstrate the HELP and huddle positions. Explain their purposes.
+  - (d) Explain why swimming or survival floating will hasten the onset of hypothermia in cold water.
 
-* (6) Do the following:
-    * (a) Float faceup in a resting position for at least three minutes with minimal movement.
-    * (b) Demonstrate survival floating for at least five minutes.
-    * (c) While wearing a properly fitted U.S. Coast Guard-approved life jacket, demonstrate the HELP and huddle positions. Explain their purposes.
-    * (d) Explain why swimming or survival floating will hasten the onset of hypothermia in cold water.
+- (7) In water over your head, but not to exceed 10 feet, do the following:
+  - (a) Use the feetfirst method of surface diving and bring an object up from the bottom.
+  - (b) Do a headfirst surface dive (pike or tuck), and bring the object up again.
+  - (c) Do a headfirst surface dive to a depth of at least 5 feet and swim underwater for three strokes. Come to the surface, take a breath, and repeat the sequence twice.
 
+- (8) Following the guidelines set in the Scouting America Safe Swim Defense guidelines, in water at least 7 feet deep, show a standing headfirst dive from a dock or pool deck. Show a long shallow dive, also from the dock or pool deck.
 
-* (7) In water over your head, but not to exceed 10 feet, do the following:
-    * (a) Use the feetfirst method of surface diving and bring an object up from the bottom.
-    * (b) Do a headfirst surface dive (pike or tuck), and bring the object up again.
-    * (c) Do a headfirst surface dive to a depth of at least 5 feet and swim underwater for three strokes. Come to the surface, take a breath, and repeat the sequence twice.
+  **Note:** If your state, city, or local community requires a water depth greater than 7 feet, it is important to abide by that mandate.
 
-
-* (8) Following the guidelines set in the Scouting America Safe Swim Defense, in water at least  7 feet deep, show a standing headfirst dive from a dock or pool deck. Show  a long shallow dive, also from the dock or pool deck.  Note: If your state, city, or local community requires a water depth greater than 7 feet, it is important to  abide by that mandate.
-* (9) Explain the health benefits of regular aerobic exercise, and discuss why  swimming is favored as both fitness and therapeutic exercise.
-
+- (9) Explain the health benefits of regular aerobic exercise, and discuss why swimming is favored as both fitness and therapeutic exercise.
 
 ## Resources
 

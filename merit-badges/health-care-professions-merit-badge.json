@@ -2,6 +2,7 @@
   "name": "Health Care Professions",
   "overview": "Explore the different types of the healthcare fields and professions with the Health Care Professions Merit Badge. Scouts will learn how professionals in different health care fields work together to keep people healthy. The Health Care Professions Merit Badge generates excitement for a possible career in the healthcare industry.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/health-care-professions/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Health%20Care%20Professions.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Health-Care-Professions.pdf",
@@ -11,134 +12,285 @@
   "image_filename": "health-care-professions-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Health%20Care%20Professions.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14111",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Select three of the professions from Group 1 listed below  which interest you, then complete the following:",
-      "internal_parent_id": null,
-      "internal_id": "9938",
-      "requirements": [
+      "id": "14732",
+      "label": "1",
+      "content": [
         {
-          "id": null,
-          "text": "a Briefly describe to your counselor the roles these professionals play in the delivery of health care.",
-          "internal_parent_id": "9938",
-          "internal_id": "9939",
-          "requirements": []
+          "type": "text",
+          "value": "Select three of the professions from Group 1 listed below which interest you, then complete the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14733",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Briefly describe to your counselor the roles these professionals play in the delivery of health care."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "b Describe to your counselor the educational and licensing requirements for the professionals you selected.",
-          "internal_parent_id": "9938",
-          "internal_id": "9940",
-          "requirements": []
+          "id": "14734",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe to your counselor the educational and licensing requirements for the professionals you selected."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Select three of the professions from Group 2 listed below which  interest you, then complete the following:",
-      "internal_parent_id": null,
-      "internal_id": "9941",
-      "requirements": [
+      "id": "14735",
+      "label": "2",
+      "content": [
         {
-          "id": null,
-          "text": "a Briefly describe to your counselor the roles these professionals play in the delivery of health care.",
-          "internal_parent_id": "9941",
-          "internal_id": "9942",
-          "requirements": []
+          "type": "text",
+          "value": "Select three of the professions from Group 2 listed below which interest you, then complete the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14736",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Briefly describe to your counselor the roles these professionals play in the delivery of health care."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "b Describe to your counselor the educational and licensing requirements for the professionals you selected.",
-          "internal_parent_id": "9941",
-          "internal_id": "9943",
-          "requirements": []
+          "id": "14737",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe to your counselor the educational and licensing requirements for the professionals you selected."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Select three of the professions from Group 3  listed below which interest you, then complete  the following:",
-      "internal_parent_id": null,
-      "internal_id": "9944",
-      "requirements": [
+      "id": "14738",
+      "label": "3",
+      "content": [
         {
-          "id": null,
-          "text": "a Briefly describe to your counselor the roles these professionals play in the delivery of health care.",
-          "internal_parent_id": "9944",
-          "internal_id": "9945",
-          "requirements": []
+          "type": "text",
+          "value": "Select three of the professions from Group 3 listed below which interest you, then complete the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14739",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Briefly describe to your counselor the roles these professionals play in the delivery of health care."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "b Describe to your counselor the educational and licensing requirements for the professionals you selected.",
-          "internal_parent_id": "9944",
-          "internal_id": "9946",
-          "requirements": []
+          "id": "14740",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe to your counselor the educational and licensing requirements for the professionals you selected."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Select three of the professions from Group 4 listed below  which interest you, then complete the following:",
-      "internal_parent_id": null,
-      "internal_id": "9947",
-      "requirements": [
+      "id": "14741",
+      "label": "4",
+      "content": [
         {
-          "id": null,
-          "text": "a Briefly describe to your counselor the roles these professionals play in the delivery of health care.",
-          "internal_parent_id": "9947",
-          "internal_id": "9965",
-          "requirements": []
+          "type": "text",
+          "value": "Select three of the professions from Group 4 listed below which interest you, then complete the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14742",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Briefly describe to your counselor the roles these professionals play in the delivery of health care."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": null,
-          "text": "b Describe to your counselor the educational and licensing requirements for the professionals you selected.",
-          "internal_parent_id": "9947",
-          "internal_id": "9966",
-          "requirements": []
+          "id": "14743",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe to your counselor the educational and licensing requirements for the professionals you selected."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Select one career from any of the lists in Requirements 1, 2, 3, or 4 and arrange to visit that professional at theirworkplace. Discuss with your counselor the following:a. Why did they choose their particular career?b. What do they most like about their job?c. What are their biggest challenges in doing their job?d. Identify the tools/instruments that may be used in their jobs.e. What has been the most surprising aspect of their career?f. What continuing education requirements are required to maintain certification?",
-      "internal_parent_id": null,
-      "internal_id": "9948",
-      "requirements": []
+      "id": "14744",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Select one career from any of the lists in Requirements 1, 2, 3, or 4 and arrange to visit that professional at their workplace. Discuss with your counselor the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14749",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Why did they choose their particular career?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14750",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "What do they most like about their job?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14751",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "What are their biggest challenges in doing their job?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14752",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify the tools/instruments that may be used in their jobs."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14753",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "What has been the most surprising aspect of their career?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14754",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "What continuing education requirements are required to maintain certification?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     },
     {
-      "id": "6",
-      "text": "Discuss with your counselor your  understanding of the meaning of the  Physician's Oath.",
-      "internal_parent_id": null,
-      "internal_id": "9949",
-      "requirements": []
+      "id": "14745",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss with your counselor your understanding of the meaning of the Physician's Oath."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "7",
-      "text": "Describe the role of confidentiality  between a patient and the health care  provider. What is HIPAA?",
-      "internal_parent_id": null,
-      "internal_id": "9950",
-      "requirements": []
+      "id": "14746",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe the role of confidentiality between a patient and the health care provider. What is HIPAA?"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "8",
-      "text": "Identify a medical advancement or discovery  that has been in the news recently. Discuss  with your counselor how this can affect  patient care.",
-      "internal_parent_id": null,
-      "internal_id": "9951",
-      "requirements": []
+      "id": "14747",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify a medical advancement or discovery that has been in the news recently. Discuss with your counselor how this can affect patient care."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "9",
-      "text": "With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community  (e.g. blood drive, health fair, blood pressure  screening event). Report to your counselor what  you did and learned from the experience.",
-      "internal_parent_id": null,
-      "internal_id": "9952",
-      "requirements": []
+      "id": "14748",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community (e.g. blood drive, health fair, blood pressure screening event). Report to your counselor what you did and learned from the experience."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

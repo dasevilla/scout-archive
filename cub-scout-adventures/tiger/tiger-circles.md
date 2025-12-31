@@ -15,7 +15,7 @@ It is important to know that Scouting America has a religious element as a part 
 
 ### Requirement 1
 
-With your parent or legal guardian talk about your family’s faith traditions.   Identify three holidays or celebrations that are part of your family’s faith traditions. Draw a picture of your favorite family’s faith tradition holiday or celebration.
+With your parent or legal guardian talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Draw a picture of your favorite family’s faith tradition holiday or celebration.
 
 **Activities:**
 
@@ -24,7 +24,7 @@ With your parent or legal guardian talk about your family’s faith traditions.�
 
 ### Requirement 2
 
-With your family, attend a religious service OR other gathering that shows how your family expresses Family & Reverence.
+With your family, attend a religious service **OR** other gathering that shows how your family expresses Family & Reverence.
 
 **Activities:**
 

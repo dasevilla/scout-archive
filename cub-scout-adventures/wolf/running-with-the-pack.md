@@ -15,7 +15,7 @@ A Cub Scout knows how to stay healthy . Eating foods that give you proper nutrit
 
 ### Requirement 1
 
-Sample 3 different foods that are naturally 3 different colors . The food must be a protein, vegetable, fruit, dairy, or a grain .
+Sample 3 different foods that are naturally 3 different colors. The food must be a protein, vegetable, fruit, dairy, or a grain.
 
 **Activities:**
 

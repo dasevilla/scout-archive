@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "Visit an area with trees and plants and conduct a tree inventory.  Select one tree and complete the remaining requirements based on that tree.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Visit an area with trees and plants and conduct a tree inventory. Select one tree and complete the remaining requirements based on that tree."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Visit an area with trees and plants and conduct a tree inventory. Select one tree and complete the remaining requirements based on that tree.",
       "activities": [
         {
           "name": "Tree Inventory",
@@ -25,6 +34,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Determine if your tree is deciduous or evergreen."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Determine if your tree is deciduous or evergreen.",
       "activities": [
         {
@@ -58,6 +76,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Determine if your tree is native or was introduced to your area."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Determine if your tree is native or was introduced to your area.",
       "activities": [
         {
@@ -73,6 +100,15 @@
     },
     {
       "id": "4",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Find out how your tree deals with wildfire."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Find out how your tree deals with wildfire.",
       "activities": [
         {
@@ -97,6 +133,15 @@
     },
     {
       "id": "5",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn how wildlife uses your tree."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Learn how wildlife uses your tree.",
       "activities": [
         {

@@ -2,6 +2,7 @@
   "name": "Photography",
   "overview": "Beyond capturing family memories, photography offers a chance to be creative. Many photographers use photography to express their creativity, using lighting, composition, depth, color, and content to make their photographs into more than snapshots. Good photographs tell us about a person, a news event, a product, a place, a scientific breakthrough, an endangered animal, or a time in history.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/photography/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Photography.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Photography.pdf",
@@ -11,248 +12,423 @@
   "image_filename": "photography-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Photography.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14140",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Safety. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11407",
-      "requirements": [
+      "id": "11407",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water.",
-          "internal_parent_id": "11407",
-          "internal_id": "11408",
-          "requirements": []
+          "type": "text",
+          "value": "Safety. Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11408",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "View the [Personal Safety Awareness \"Digital Safety\" video](https://www.scouting.org/training/youth-protection/scouts-bsa/) (with your parent or guardian's permission).",
-          "internal_parent_id": "11407",
-          "internal_id": "11409",
-          "requirements": []
+          "id": "11409",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "View the "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://www.scouting.org/training/youth-protection/scouts-bsa/"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Personal Safety Awareness \"Digital Safety\" video"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " (with your parent or guardian's permission)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Explain how the following elements and terms can affect the quality of a picture:",
-      "internal_parent_id": null,
-      "internal_id": "11426",
-      "requirements": [
+      "id": "11426",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Light—natural light (ambient/existing), low light (such as at night), and artificial light (such as from a flash)",
-          "internal_parent_id": "11426",
-          "internal_id": "11427",
-          "requirements": []
+          "type": "text",
+          "value": "Explain how the following elements and terms can affect the quality of a picture:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11427",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Light—natural light (ambient/existing), low light (such as at night), and artificial light (such as from a flash)"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Exposure—aperture (f-stops), shutter speed, ISO",
-          "internal_parent_id": "11426",
-          "internal_id": "11428",
-          "requirements": []
+          "id": "11428",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Exposure—aperture (f-stops), shutter speed, ISO"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Depth of field",
-          "internal_parent_id": "11426",
-          "internal_id": "11429",
-          "requirements": []
+          "id": "11429",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Depth of field"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Composition—rule of thirds, leading lines, framing, depth",
-          "internal_parent_id": "11426",
-          "internal_id": "11430",
-          "requirements": []
+          "id": "11430",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Composition—rule of thirds, leading lines, framing, depth"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Angle of view",
-          "internal_parent_id": "11426",
-          "internal_id": "11431",
-          "requirements": []
+          "id": "11431",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Angle of view"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Stop action and blur motion",
-          "internal_parent_id": "11426",
-          "internal_id": "11432",
-          "requirements": []
+          "id": "11432",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Stop action and blur motion"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Decisive moment (action or expression captured by the photographer).",
-          "internal_parent_id": "11426",
-          "internal_id": "11433",
-          "requirements": []
+          "id": "11433",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Decisive moment (action or expression captured by the photographer)."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Explain the basic parts and operation of a camera. Explain how an exposure is made when you take a picture.",
-      "internal_parent_id": null,
-      "internal_id": "11438",
-      "requirements": []
+      "id": "11438",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the basic parts and operation of a camera. Explain how an exposure is made when you take a picture."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Do TWO of the following, then share your work with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "11410",
-      "requirements": [
+      "id": "11410",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Photograph one subject from two different angles or perspectives.",
-          "internal_parent_id": "11410",
-          "internal_id": "11411",
-          "requirements": []
+          "type": "text",
+          "value": "Do TWO of the following, then share your work with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11411",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Photograph one subject from two different angles or perspectives."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Photograph one subject from two different light sources - artificial and natural.",
-          "internal_parent_id": "11410",
-          "internal_id": "11412",
-          "requirements": []
+          "id": "11412",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Photograph one subject from two different light sources - artificial and natural."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Photograph one subject with two different depth of fields.",
-          "internal_parent_id": "11410",
-          "internal_id": "11413",
-          "requirements": []
+          "id": "11413",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Photograph one subject with two different depth of fields."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Photograph one subject with two different compositional techniques.",
-          "internal_parent_id": "11410",
-          "internal_id": "11414",
-          "requirements": []
+          "id": "11414",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Photograph one subject with two different compositional techniques."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Photograph THREE of the following, then share your work with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "11419",
-      "requirements": [
+      "id": "11419",
+      "label": "5",
+      "content": [
         {
-          "id": "a",
-          "text": "Close-up of a person",
-          "internal_parent_id": "11419",
-          "internal_id": "11420",
-          "requirements": []
+          "type": "text",
+          "value": "Photograph THREE of the following, then share your work with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11420",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Close-up of a person"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Two to three people interacting",
-          "internal_parent_id": "11419",
-          "internal_id": "11421",
-          "requirements": []
+          "id": "11421",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Two to three people interacting"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Action shot",
-          "internal_parent_id": "11419",
-          "internal_id": "11422",
-          "requirements": []
+          "id": "11422",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Action shot"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Animal shot",
-          "internal_parent_id": "11419",
-          "internal_id": "11423",
-          "requirements": []
+          "id": "11423",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Animal shot"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Nature shot",
-          "internal_parent_id": "11419",
-          "internal_id": "11424",
-          "requirements": []
+          "id": "11424",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Nature shot"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Picture of a person - candid, posed, or camera aware.",
-          "internal_parent_id": "11419",
-          "internal_id": "11425",
-          "requirements": []
+          "id": "11425",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Picture of a person - candid, posed, or camera aware."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "6",
-      "text": "Describe how software allows you to enhance your photograph after it is taken. Select a photo you have taken, then do ONE of the following, and share what you have done with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "11415",
-      "requirements": [
+      "id": "11415",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Crop your photograph",
-          "internal_parent_id": "11415",
-          "internal_id": "11416",
-          "requirements": []
+          "type": "text",
+          "value": "Describe how software allows you to enhance your photograph after it is taken. Select a photo you have taken, then do ONE of the following, and share what you have done with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11416",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Crop your photograph"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Adjust the exposure or make a color correction",
-          "internal_parent_id": "11415",
-          "internal_id": "11417",
-          "requirements": []
+          "id": "11417",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Adjust the exposure or make a color correction"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Show another way you could improve your picture for impact.",
-          "internal_parent_id": "11415",
-          "internal_id": "11418",
-          "requirements": []
+          "id": "11418",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show another way you could improve your picture for impact."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Using images other than those created for requirements 4, 5, or 6, produce a visual story to document an event to photograph OR choose a topic that interests you to photograph. Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11434",
-      "requirements": [
+      "id": "11434",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Plan the images you need to photograph for your photo story.",
-          "internal_parent_id": "11434",
-          "internal_id": "11435",
-          "requirements": []
+          "type": "text",
+          "value": "Using images other than those created for requirements 4, 5, and 6, produce a visual story to document an event to photograph OR choose a topic that interests you to photograph. Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11435",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Plan the images you need to photograph for your photo story."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Share your plan with your counselor, and get your counselor's input and approval before you proceed.",
-          "internal_parent_id": "11434",
-          "internal_id": "11436",
-          "requirements": []
+          "id": "11436",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Share your plan with your counselor, and get your counselor's input and approval before you proceed."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Select eight to 12 images that best tell your story. Arrange your images in order and mount the prints on a poster board, OR create an electronic presentation. Share your visual story with your counselor.",
-          "internal_parent_id": "11434",
-          "internal_id": "11437",
-          "requirements": []
+          "id": "11437",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Select eight to 12 images that best tell your story. Arrange your images in order and mount the prints on a poster board, OR create an electronic presentation. Share your visual story with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Identify three career opportunities in photography. Pick one and explain to your counselor how to prepare for such a career. Discuss what education and training are required, and why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "11439",
-      "requirements": []
+      "id": "11439",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify three career opportunities in photography. Pick one and explain to your counselor how to prepare for such a career. Discuss what education and training are required, and why this profession might interest you."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

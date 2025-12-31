@@ -30,7 +30,7 @@ Get to know members of your den.
 
 ### Requirement 2
 
-Recite the Scout Oath and the Scout Law with your den and den leader.  Describe the three points of the Scout Oath.
+Recite the Scout Oath and the Scout Law with your den and den leader. Describe the three points of the Scout Oath.
 
 **Activities:**
 
@@ -74,7 +74,7 @@ Learn about the denner position and responsibilities.
 
 ### Requirement 6
 
-Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake.  Show how each is used.
+Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake. Show how each is used.
 
 **Activities:**
 

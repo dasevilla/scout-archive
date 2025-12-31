@@ -28,7 +28,7 @@ Identify an animal that would be good pet for your family.
 
 ### Requirement 2
 
-Choose two animals that are allowed as pets in your community.  Compare and contrast why these pets may be a good choice for you.
+Choose two animals that are allowed as pets in your community. Compare and contrast why these pets may be a good choice for you.
 
 **Activities:**
 

@@ -15,7 +15,7 @@ In this Adventure, you are encouraged to learn more about your family’s faith 
 
 ### Requirement 1
 
-With your parent or legal guardian talk about your family’s faith traditions.   Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft or work of art of your favorite family’s faith tradition holiday or celebration.
+With your parent or legal guardian talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft or work of art of your favorite family’s faith tradition holiday or celebration.
 
 **Activities:**
 

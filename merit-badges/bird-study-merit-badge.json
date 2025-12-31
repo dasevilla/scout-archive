@@ -2,6 +2,7 @@
   "name": "Bird Study",
   "overview": "Birds are among the most fascinating creatures on Earth. Many are beautifully colored. Others are accomplished singers. Many of the most important discoveries about birds and how they live have been made by amateur birders. In pursuing this hobby, a Scout might someday make a valuable contribution to our understanding of the natural world.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/bird-study/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Bird%20Study.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Bird-Study.pdf",
@@ -11,379 +12,901 @@
   "image_filename": "bird-study-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Bird%20Study.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14064",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Explain the need for bird study and why birds are useful indicators of the quality of the environment. Describe how birds are part of the ecosystem. Resources:  [Why Are Birds Important (video)](https://www.youtube.com/watch?v=-QUbQCn-ViA)  [Why Birds Matter (video)](https://www.youtube.com/watch?v=_FooquV6Cbs)",
-      "internal_parent_id": null,
-      "internal_id": "11498",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Show that you are familiar with the terms used to describe birds by doing the following:",
-      "internal_parent_id": null,
-      "internal_id": "11499",
-      "requirements": [
+      "id": "14367",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Sketch or trace a perched bird and then label 15 different parts of the bird. Resource: [How to Draw and Label a Bird (video)](https://www.youtube.com/watch?v=gD9TAt1F17A)",
-          "internal_parent_id": "11499",
-          "internal_id": "11500",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Sketch or trace an extended wing and label six types of wing feathers. Resources: [Bird Wing Anatomy - Underside (video)](https://www.youtube.com/watch?v=HqZCj_ykfYk) [Bird Wing Anatomy - 2 (video)](https://www.youtube.com/watch?v=TGiIlwnaNmM)",
-          "internal_parent_id": "11499",
-          "internal_id": "11501",
-          "requirements": []
+          "type": "text",
+          "value": "Explain the need for bird study and why birds are useful indicators of the quality of the environment. Describe how birds are part of the ecosystem."
         }
-      ]
-    },
-    {
-      "id": "3",
-      "text": "Demonstrate that you know how to properly use and care for binoculars, a spotting scope, or a monocular.",
-      "internal_parent_id": null,
-      "internal_id": "11502",
-      "requirements": [
+      ],
+      "resources": [
         {
-          "id": "a",
-          "text": "Explain what the specification numbers mean on binoculars, a spotting scope, or a monocular. Resource: [Selecting Your First Binoculars for Birdwatching - the 5 Things You Need to Know (video)](https://www.youtube.com/watch?v=g3ewVm-46g0)",
-          "internal_parent_id": "11502",
-          "internal_id": "11503",
-          "requirements": []
+          "title": "Why Are Birds Important (video)",
+          "url": "https://www.youtube.com/watch?v=-QUbQCn-ViA"
         },
         {
-          "id": "b",
-          "text": "Show how to adjust the eyepiece and how to focus for proper viewing. Resources: [How to Get Crystal Clear Focus With Your Binoculars (video)](https://www.youtube.com/watch?v=pkPzl-VPmo4%20) [How to Use Binoculars For Bird Watching - A Beginners Guide! (video)](https://www.youtube.com/watch?v=cNx9klskWFk)",
-          "internal_parent_id": "11502",
-          "internal_id": "11504",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Show how to properly care for and clean the lenses. Resource: [How to Clean Your Binoculars (video)](https://www.youtube.com/watch?v=z5DaExac1e0)",
-          "internal_parent_id": "11502",
-          "internal_id": "11505",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Describe when and where each type of viewing device would be most effective. Resource: [What's the Difference-Spotting Scope vs Binoculars for Birdwatching (website)](https://chirperbirds.com/spotting-scope-vs-binoculars-for-birdwatching/)",
-          "internal_parent_id": "11502",
-          "internal_id": "11506",
-          "requirements": []
+          "title": "Why Birds Matter (video)",
+          "url": "https://www.youtube.com/watch?v=_FooquV6Cbs"
         }
-      ]
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "4",
-      "text": "Demonstrate that you know how to use a bird field guide. Show your counselor that you are able to understand a range map by locating in the book and pointing out:Resources:  [How to Use a Field Guide (video)](https://www.youtube.com/watch?v=dAkcHqfkWfg)  [Merlin  Bird ID (website)](https://merlin.allaboutbirds.org/)",
-      "internal_parent_id": null,
-      "internal_id": "11507",
-      "requirements": [
+      "id": "14320",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Seabird",
-          "internal_parent_id": "11507",
-          "internal_id": "11508",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Plover",
-          "internal_parent_id": "11507",
-          "internal_id": "11509",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Falcon or hawk",
-          "internal_parent_id": "11507",
-          "internal_id": "11510",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Warbler or vireo",
-          "internal_parent_id": "11507",
-          "internal_id": "11511",
-          "requirements": []
-        },
-        {
-          "id": "e",
-          "text": "Heron or egret",
-          "internal_parent_id": "11507",
-          "internal_id": "11512",
-          "requirements": []
-        },
-        {
-          "id": "f",
-          "text": "Sparrow.",
-          "internal_parent_id": "11507",
-          "internal_id": "11513",
-          "requirements": []
+          "type": "text",
+          "value": "Show that you are familiar with the terms used to describe birds by doing the following:"
         }
-      ]
-    },
-    {
-      "id": "5",
-      "text": "Observe and be able to identify 20 species of wild birds. Prepare a field notebook, making a separate entry for each species, and record the following information from your field observations and other references. Resource:  [How to Keep Birding Records in a Field Notebook (video)](https://www.youtube.com/watch?v=eIOXLyMm4fE)",
-      "internal_parent_id": null,
-      "internal_id": "11514",
-      "requirements": [
+      ],
+      "resources": [],
+      "sub_requirements": [
         {
-          "id": "a",
-          "text": "Note the date and time.",
-          "internal_parent_id": "11514",
-          "internal_id": "11515",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Note the location and habitat.",
-          "internal_parent_id": "11514",
-          "internal_id": "11516",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Describe the bird's main feeding habitat and list two types of food that the bird is likely to eat.",
-          "internal_parent_id": "11514",
-          "internal_id": "11517",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Note whether the bird is a migrant or a summer, winter, or year-round resident of your area.",
-          "internal_parent_id": "11514",
-          "internal_id": "11518",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "text": "Describe to your counselor how certain orders of birds are uniquely adapted to a specific habitat. In your description, include characteristics such as the size and shape of the following:",
-      "internal_parent_id": null,
-      "internal_id": "11519",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Beak Resources: [A Beginner's Guide to Bird Beaks (video)](https://www.youtube.com/watch?v=BjzYfiFm_tw%20) [Bird Feeding Adaptations: How Beaks Are Adapted to What Birds Eat (video)](https://www.youtube.com/watch?v=lFZ8NMBDCJw)",
-          "internal_parent_id": "11519",
-          "internal_id": "11520",
-          "requirements": []
-        },
-        {
-          "id": "b",
-          "text": "Body Resources: [Adaptations in Birds - What Makes a Bird Suitable to Fly (video)](https://www.youtube.com/watch?v=Z_4a7OYZISs) [Bird Adaptations for Flight Explained (video)](https://youtu.be/h-1T_N9RTnw?si=Z4-6FhoOf4ySSKO6)",
-          "internal_parent_id": "11519",
-          "internal_id": "11521",
-          "requirements": []
-        },
-        {
-          "id": "c",
-          "text": "Leg and foot Resource: [AMAZING Bird Feet! (video)](https://www.youtube.com/watch?v=cwFZyNiRzQU%20)",
-          "internal_parent_id": "11519",
-          "internal_id": "11522",
-          "requirements": []
-        },
-        {
-          "id": "d",
-          "text": "Feathers/plumage. Resources: [Discover the Hidden Genious of Bird Feathers (video)](https://www.youtube.com/shorts/I3zK6k8ZcBc) [Why Peacocks Have the MOST STUNNING Feathers in Nature? (video)](https://youtu.be/2_jq831GkIM?si=I9_JoXLR4I98ndLg) [How Penguin Feathers Are Perfect Adaptations for Icy Water (video)](https://youtu.be/iTEo0LVQbJg?si=cOtr2X-aPXWF_Zwb)",
-          "internal_parent_id": "11519",
-          "internal_id": "11523",
-          "requirements": []
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "text": "Explain the function of a bird's song. Be able to identify five of the 20 species in your field notebook by song or call alone. Explain the difference between songs and calls. For each of these five species, enter a description of the song or call, and note the behavior of the bird making the sound. Note why you think the bird was making the call or song that you heard. Resources:  [25 Iconic Bird Sounds (video)](https://www.youtube.com/watch?v=xTPGii-A2VM)  [Two Types of Communication Between Birds: Understanding Bird Language Songs and Calls (video)](https://www.youtube.com/watch?v=4_1zIwEENt8 )",
-      "internal_parent_id": null,
-      "internal_id": "11524",
-      "requirements": []
-    },
-    {
-      "id": "8",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "11525",
-      "requirements": [
-        {
-          "id": "a",
-          "text": "Go on a field trip with a local club or with others who are knowledgeable about birds in your area.",
-          "internal_parent_id": "11525",
-          "internal_id": "11526",
-          "requirements": [
+          "id": "14321",
+          "label": "a",
+          "content": [
             {
-              "id": "1",
-              "text": "Keep a list or fill out a checklist of all the birds your group observed during the field trip.",
-              "internal_parent_id": "11526",
-              "internal_id": "11527",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Tell your counselor which birds your group saw and why some species were common and some were present in small numbers.",
-              "internal_parent_id": "11526",
-              "internal_id": "11528",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Tell your counselor what makes the area you visited good for finding birds.",
-              "internal_parent_id": "11526",
-              "internal_id": "11529",
-              "requirements": []
+              "type": "text",
+              "value": "Sketch or trace a perched bird and then label 15 different parts of the bird."
             }
-          ]
-        },
-        {
-          "id": "b",
-          "text": "By using a public library, the internet, or contacting the National Audubon Society, find the name and location of the Christmas Bird Count nearest your home and obtain the results of a recent count. Resources: [Christmas Bird Count (video)](https://youtu.be/Ar1plhHY6i8?si=xjOMdoRDb_otqg1I) [What Is the Christmas Bird Count? Everything You Need to Know (video)](https://www.youtube.com/watch?v=T2s3pRwu8yo)",
-          "internal_parent_id": "11525",
-          "internal_id": "11530",
-          "requirements": [
+          ],
+          "resources": [
             {
-              "id": "1",
-              "text": "Explain what kinds of information are collected during the annual event.",
-              "internal_parent_id": "11530",
-              "internal_id": "11531",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Tell your counselor which species are most common, and explain why these birds are abundant.",
-              "internal_parent_id": "11530",
-              "internal_id": "11532",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Tell your counselor which species are uncommon, and explain why these were present in small numbers. If the number of birds of these species is decreasing, explain why, and what, if anything, could be done to reverse their decline.",
-              "internal_parent_id": "11530",
-              "internal_id": "11533",
-              "requirements": []
+              "title": "How to Draw and Label a Bird (video)",
+              "url": "https://www.youtube.com/watch?v=gD9TAt1F17A"
             }
-          ]
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Participate in a bird banding program with an approved federal or state agency, university researcher, bird observatory, or certified private individual. Resource: [Introduction to Bird Banding (video)](https://www.youtube.com/watch?v=A1uhtLSqwV0)",
-          "internal_parent_id": "11525",
-          "internal_id": "11534",
-          "requirements": [
+          "id": "14322",
+          "label": "b",
+          "content": [
             {
-              "id": "1",
-              "text": "Explain who is able to band birds and why.",
-              "internal_parent_id": "11534",
-              "internal_id": "11535",
-              "requirements": []
-            },
-            {
-              "id": "2",
-              "text": "Explain why birds get banded.",
-              "internal_parent_id": "11534",
-              "internal_id": "11536",
-              "requirements": []
-            },
-            {
-              "id": "3",
-              "text": "Explain what kinds of birds get banded.",
-              "internal_parent_id": "11534",
-              "internal_id": "11537",
-              "requirements": []
-            },
-            {
-              "id": "4",
-              "text": "Tell how the birds were captured, the number of bird species recorded during your visit, and your role in the program.",
-              "internal_parent_id": "11534",
-              "internal_id": "11538",
-              "requirements": []
+              "type": "text",
+              "value": "Sketch or trace an extended wing and label six types of wing feathers."
             }
-          ]
+          ],
+          "resources": [
+            {
+              "title": "Bird Wing Anatomy - Underside (video)",
+              "url": "https://www.youtube.com/watch?v=HqZCj_ykfYk"
+            },
+            {
+              "title": "Bird Wing Anatomy - 2 (video)",
+              "url": "https://www.youtube.com/watch?v=TGiIlwnaNmM"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Do ONE of the following. For the option you choose, describe what birds you hope to attract, and why.",
-      "internal_parent_id": null,
-      "internal_id": "11539",
-      "requirements": [
+      "id": "14323",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Build a bird feeder and put it in an appropriate place in your yard or another location. Resources: [DIY How to Make Bird Feeder for $2 EASY 3 Hanging Styles Birds LOVE (video)](https://www.youtube.com/watch?v=DRJpmSbLk20) [Easy D.I.Y Bird Feeder - How to Attract Birds to Your Garden (video)](https://www.youtube.com/watch?v=aCA6wknQsqg)",
-          "internal_parent_id": "11539",
-          "internal_id": "11540",
-          "requirements": []
+          "type": "text",
+          "value": "Demonstrate that you know how to properly use and care for binoculars, a spotting scope, or a monocular."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14324",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what the specification numbers mean on binoculars, a spotting scope, or a monocular."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Selecting Your First Binoculars for Birdwatching - the 5 Things You Need to Know (video)",
+              "url": "https://www.youtube.com/watch?v=g3ewVm-46g0"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Build a birdbath and put it in an appropriate place. Resources: [How to Pick (or Build) the Right Bird Bath for Your Garden (video)](https://www.youtube.com/watch?v=yZl2N2XlHDA) [Easy DIY Bird Baths for Your Garden (video)](https://www.youtube.com/shorts/gJB3kN3xk6Y)",
-          "internal_parent_id": "11539",
-          "internal_id": "11541",
-          "requirements": []
+          "id": "14325",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to adjust the eyepiece and how to focus for proper viewing."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Get Crystal Clear Focus With Your Binoculars (video)",
+              "url": "https://www.youtube.com/watch?v=pkPzl-VPmo4%20"
+            },
+            {
+              "title": "How to Use Binoculars For Bird Watching - A Beginners Guide! (video)",
+              "url": "https://www.youtube.com/watch?v=cNx9klskWFk"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Build a backyard sanctuary for birds by planting trees and shrubs for food and cover. Resources: [How to Create a Bird Friendly Backyard (video)](https://www.youtube.com/watch?v=Bjx4V1zcv2U) [What Happens When You Create a Bird Sanctuary in Your Backyard? (video)](https://www.youtube.com/watch?v=bIqECrfp7HM) [Attract Backyard Birds With an Ecosystem Approach! (video)](https://www.youtube.com/watch?v=ITHgy8xhIV0&t=285s)",
-          "internal_parent_id": "11539",
-          "internal_id": "11542",
-          "requirements": []
+          "id": "14326",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to properly care for and clean the lenses."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Clean Your Binoculars (video)",
+              "url": "https://www.youtube.com/watch?v=z5DaExac1e0"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Build a nest box for a species of your choice using plans approved by your counselor. Resources: [DIY Birdhouse (video)](https://www.youtube.com/watch?v=u4iAhnbWpz8) [Build a Bird House for Under $5 in Under 5 Minutes (video)](https://www.youtube.com/watch?v=j0werPvrrPI)",
-          "internal_parent_id": "11539",
-          "internal_id": "11543",
-          "requirements": []
+          "id": "14327",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe when and where each type of viewing device would be most effective."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What's the Difference-Spotting Scope vs Binoculars for Birdwatching (website)",
+              "url": "https://chirperbirds.com/spotting-scope-vs-binoculars-for-birdwatching/"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "10",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11544",
-      "requirements": [
+      "id": "14328",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the differences between extinct, endangered, and threatened. Resource: [How the Endangered Species Act Saved America's Most Iconic Bird (video)](https://www.youtube.com/watch?v=s8GvlKBHs5Y)",
-          "internal_parent_id": "11544",
-          "internal_id": "11545",
-          "requirements": []
+          "type": "text",
+          "value": "Demonstrate that you know how to use a bird field guide. Show your counselor that you are able to understand a range map by locating in the book and pointing out the wintering range, the breeding range, and/or the year-round range of one species of each of the following types of birds:"
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Use a Field Guide (video)",
+          "url": "https://youtu.be/dAkcHqfkWfg"
         },
         {
-          "id": "b",
-          "text": "Identify a bird species that is on the endangered or threatened list. Explain what caused their decline. Discuss with your counselor what can be done to reverse this trend and what can be done to help remove the species from the endangered or threatened list. Resource: [Most Endangered Species & Threatened Species (video)](https://www.youtube.com/watch?v=0FgTOe3bxY8)",
-          "internal_parent_id": "11544",
-          "internal_id": "11546",
-          "requirements": []
+          "title": "Merlin  Bird ID (video)",
+          "url": "https://merlin.allaboutbirds.org/"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "14329",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Seabird"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14330",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Plover"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14331",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Falcon or hawk"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14332",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Warbler or vireo"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14333",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Heron or egret"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14334",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Sparrow."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "11",
-      "text": "Identify a non-native bird (introduced to North America from a foreign country since 1800). Describe how non-native birds may become damaging to the ecosystem. Resources:  [Top 3 Most Invasive Bird Species in North America (video)](https://www.youtube.com/watch?v=b3_4ry_Dbvw)  [Wings of Kentucky: Invasive Bird Species (video)](https://www.youtube.com/watch?v=8t0LXPLv8aw)",
-      "internal_parent_id": null,
-      "internal_id": "11547",
-      "requirements": []
+      "id": "14335",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Observe and be able to identify 20 species of wild birds. Prepare a field notebook, making a separate entry for each species, and record the following information from your field observations and other references."
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Keep Birding Records in a Field Notebook (video)",
+          "url": "https://www.youtube.com/watch?v=eIOXLyMm4fE"
+        }
+      ],
+      "sub_requirements": [
+        {
+          "id": "14336",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Note the date and time."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14337",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Note the location and habitat."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14338",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the bird's main feeding habitat and list two types of food that the bird is likely to eat."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14339",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Note whether the bird is a migrant or a summer, winter, or year-round resident of your area."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
     },
     {
-      "id": "12",
-      "text": "Identify three career opportunities connected to the study of birds. Pick one and find out the education, training, and experience required for this profession. Discuss with your counselor if this profession might interest you. Resources:  [Careers With Birds: Interview With Kim Bostwick (video)](https://www.youtube.com/watch?v=yFErFjzQ-RU)  [Ornithologist (Bird Scientist) | Career Exploration (video)](https://www.youtube.com/watch?v=nClZ64FaSIQ)  [10+ Wildlife Biology Careers You Should Know About (& Salaries) (video)](https://www.youtube.com/watch?v=AK2Onqx-ctM&t=60s)",
-      "internal_parent_id": null,
-      "internal_id": "11548",
-      "requirements": []
+      "id": "14340",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Describe to your counselor how certain orders of birds are uniquely adapted to a specific habitat. In your description, include characteristics such as the size and shape of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14341",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Beak"
+            }
+          ],
+          "resources": [
+            {
+              "title": "A Beginner's Guide to Bird Beaks (video)",
+              "url": "https://www.youtube.com/watch?v=BjzYfiFm_tw%20"
+            },
+            {
+              "title": "Bird Feeding Adaptations: How Beaks Are Adapted to What Birds Eat (video)",
+              "url": "https://www.youtube.com/watch?v=lFZ8NMBDCJw"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14342",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Body"
+            }
+          ],
+          "resources": [
+            {
+              "title": "Adaptations in Birds - What Makes a Bird Suitable to Fly (video)",
+              "url": "https://www.youtube.com/watch?v=Z_4a7OYZISs"
+            },
+            {
+              "title": "Bird Adaptations for Flight Explained (video)",
+              "url": "https://youtu.be/h-1T_N9RTnw?si=Z4-6FhoOf4ySSKO6"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14343",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Leg and foot"
+            }
+          ],
+          "resources": [
+            {
+              "title": "AMAZING Bird Feet! (video)",
+              "url": "https://www.youtube.com/watch?v=cwFZyNiRzQU%20"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14344",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Feathers/plumage."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Discover the Hidden Genious of Bird Feathers (video)",
+              "url": "https://www.youtube.com/shorts/I3zK6k8ZcBc"
+            },
+            {
+              "title": "Why Peacocks Have the MOST STUNNING Feathers in Nature? (video)",
+              "url": "https://youtu.be/2_jq831GkIM?si=I9_JoXLR4I98ndLg"
+            },
+            {
+              "title": "How Penguin Feathers Are Perfect Adaptations for Icy Water (video)",
+              "url": "https://youtu.be/iTEo0LVQbJg?si=cOtr2X-aPXWF_Zwb"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14370",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the function of a bird's song. Be able to identify five of the 20 species in your field notebook by song or call alone. Explain the difference between songs and calls. For each of these five species, enter a description of the song or call, and note the behavior of the bird making the sound. Note why you think the bird was making the call or song that you heard."
+        }
+      ],
+      "resources": [
+        {
+          "title": "25 Iconic Bird Sounds (video)",
+          "url": "https://www.youtube.com/watch?v=xTPGii-A2VM"
+        },
+        {
+          "title": "Two Types of Communication Between Birds: Understanding Bird Language Songs and Calls (video)",
+          "url": "https://www.youtube.com/watch?v=4_1zIwEENt8%20"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "14345",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14346",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Go on a field trip with a local club or with others who are knowledgeable about birds in your area."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14347",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Keep a list or fill out a checklist of all the birds your group observed during the field trip."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14348",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell your counselor which birds your group saw and why some species were common and some were present in small numbers."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14349",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell your counselor what makes the area you visited good for finding birds."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14350",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "By using a public library, the internet, or contacting the National Audubon Society, find the name and location of the Christmas Bird Count nearest your home and obtain the results of a recent count."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Christmas Bird Count (video)",
+              "url": "https://youtu.be/Ar1plhHY6i8?si=xjOMdoRDb_otqg1I"
+            },
+            {
+              "title": "What Is the Christmas Bird Count? Everything You Need to Know (video)",
+              "url": "https://www.youtube.com/watch?v=T2s3pRwu8yo"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14351",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what kinds of information are collected during the annual event."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14352",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell your counselor which species are most common, and explain why these birds are abundant."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14353",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell your counselor which species are uncommon, and explain why these were present in small numbers. If the number of birds of these species is decreasing, explain why, and what, if anything, could be done to reverse their decline."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14354",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Participate in a bird banding program with an approved federal or state agency, university researcher, bird observatory, or certified private individual."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Introduction to Bird Banding (video)",
+              "url": "https://www.youtube.com/watch?v=A1uhtLSqwV0"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14355",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain who is able to band birds and why."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14356",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain why birds get banded."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14357",
+          "label": "3",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what kinds of birds get banded."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "14358",
+          "label": "4",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell how the birds were captured, the number of bird species recorded during your visit, and your role in the program."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14359",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following. For the item you choose, describe what birds you hope to attract, and why. Describe the necessary maintenance required with the item that you choose."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14360",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Build a bird feeder and put it in an appropriate place in your yard or another location."
+            }
+          ],
+          "resources": [
+            {
+              "title": "DIY How to Make Bird Feeder for $2 EASY 3 Hanging Styles Birds LOVE (video)",
+              "url": "https://www.youtube.com/watch?v=DRJpmSbLk20"
+            },
+            {
+              "title": "Easy D.I.Y Bird Feeder - How to Attract Birds to Your Garden (video)",
+              "url": "https://www.youtube.com/watch?v=aCA6wknQsqg"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14361",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Build a birdbath and put it in an appropriate place."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Pick (or Build) the Right Bird Bath for Your Garden (video)",
+              "url": "https://www.youtube.com/watch?v=yZl2N2XlHDA"
+            },
+            {
+              "title": "Easy DIY Bird Baths for Your Garden (video)",
+              "url": "https://www.youtube.com/shorts/gJB3kN3xk6Y"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14362",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Build a backyard sanctuary for birds by planting trees and shrubs for food and cover."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Create a Bird Friendly Backyard (video)",
+              "url": "https://www.youtube.com/watch?v=Bjx4V1zcv2U"
+            },
+            {
+              "title": "What Happens When You Create a Bird Sanctuary in Your Backyard? (video)",
+              "url": "https://www.youtube.com/watch?v=bIqECrfp7HM"
+            },
+            {
+              "title": "Attract Backyard Birds With an Ecosystem Approach! (video)",
+              "url": "https://www.youtube.com/watch?v=ITHgy8xhIV0&t=285s"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14363",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Build a nest box for a species of your choice using plans approved by your counselor."
+            }
+          ],
+          "resources": [
+            {
+              "title": "DIY Birdhouse (video)",
+              "url": "https://www.youtube.com/watch?v=u4iAhnbWpz8"
+            },
+            {
+              "title": "Build a Bird House for Under $5 in Under 5 Minutes (video)",
+              "url": "https://www.youtube.com/watch?v=j0werPvrrPI"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14371",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the elements of a backyard bird habitat for a given area and draw a plan for one, including lists of birds you hope to attract, appropriate plantings for food, cover, and nesting."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Create a Backyard Bird Habitat | Tractor Supply Co. (video)",
+              "url": "https://youtu.be/wHyIzulXYlA"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14364",
+      "label": "10",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14365",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the differences between extinct, endangered, and threatened."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How the Endangered Species Act Saved America's Most Iconic Bird (video)",
+              "url": "https://www.youtube.com/watch?v=s8GvlKBHs5Y"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14366",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify a bird species that is on the endangered or threatened list. Explain what caused their decline. Discuss with your counselor what can be done to reverse this trend and what can be done to help remove the species from the endangered or threatened list."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Most Endangered Species & Threatened Species (video)",
+              "url": "https://www.youtube.com/watch?v=0FgTOe3bxY8"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14372",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how we can address birds that are in decline before they get to an endangered or threatened list. List how we can protect habitat. Identify threats that migratory birds face and how to protect food supply for birds."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Why Are Migratory Birds In Trouble? (And How Can I Help?) (video)",
+              "url": "https://youtu.be/DiSb2RZCTOk?si=vEBondZy0avLSTR3"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "14368",
+      "label": "11",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify a non-native bird (introduced to North America from a foreign country since 1800). Describe how non-native birds may become damaging to the ecosystem."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Top 3 Most Invasive Bird Species in North America (video)",
+          "url": "https://www.youtube.com/watch?v=b3_4ry_Dbvw"
+        },
+        {
+          "title": "Wings of Kentucky: Invasive Bird Species (video)",
+          "url": "https://www.youtube.com/watch?v=8t0LXPLv8aw"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "14369",
+      "label": "12",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code as they relate to bird study. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code while in natural areas during field observation, specimen collection, and identification."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Leave No Trace Basics (video)",
+          "url": "https://vimeo.com/1115216743/63b20c0b33?share=copy"
+        },
+        {
+          "title": "Leave No Trace Outdoor Ethics (video)",
+          "url": "https://www.youtube.com/watch?v=jXO1uY0MvmQ"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "14373",
+      "label": "13",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "14374",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge in Bird Study. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Careers With Birds: Interview With Kim Bostwick (video)",
+              "url": "https://www.youtube.com/watch?v=yFErFjzQ-RU"
+            },
+            {
+              "title": "Ornithologist (Bird Scientist) | Career Exploration (video)",
+              "url": "https://www.youtube.com/watch?v=nClZ64FaSIQ"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "14375",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify how you might use the skills and knowledge in Bird Study to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [
+            {
+              "title": "5 Reasons Why Birding is an Awesome Hobby! (video)",
+              "url": "https://youtu.be/jVK994DbKNs"
+            },
+            {
+              "title": "Birding: a Hobby for Everyone (video)",
+              "url": "https://youtu.be/PAD9t4gtNvM?si=KKnAcmHUY7le2Sdg"
+            }
+          ],
+          "sub_requirements": []
+        }
+      ]
     }
   ]
 }

@@ -24,7 +24,7 @@ Make a paper airplane and fly it five times. Record the flight distance and time
 
 ### Requirement 2
 
-Make a paper airplane of a different design and fly it five times.  Record the flight distance and time.
+Make a paper airplane of a different design and fly it five times. Record the flight distance and time.
 
 **Activities:**
 

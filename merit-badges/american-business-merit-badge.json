@@ -2,6 +2,7 @@
   "name": "American Business",
   "overview": "Earning the American Business Merit Badge can help Scouts learn practical business matters that will be useful throughout life. Learning how businesses function will help you understand society and uncover a number of career options.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/american-business/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Business.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/American-Business.pdf",
@@ -11,160 +12,258 @@
   "image_filename": "american-business-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE: The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Business.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14049",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "8386",
-      "requirements": [
+      "id": "8386",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain four features of the free enterprise system in the United States. Describe the difference between freedom and license. Tell how the Scout Oath and Scout Law apply to business and free enterprise.",
-          "internal_parent_id": "8386",
-          "internal_id": "8387",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "8387",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain four features of the free enterprise system in the United States. Describe the difference between freedom and license. Tell how the Scout Oath and Scout Law apply to business and free enterprise."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe the Industrial Revolution and tell about the major developments that marked the start of the modern industrial era in the United States. Discuss three people who had a great influence on business or industry in the United States and describe what each did.",
-          "internal_parent_id": "8386",
-          "internal_id": "8388",
-          "requirements": []
+          "id": "8388",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the Industrial Revolution and tell about the major developments that marked the start of the modern industrial era in the United States. Discuss three people who had a great influence on business or industry in the United States and describe what each did."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Identify and describe to your counselor the five primary areas of business.",
-          "internal_parent_id": "8386",
-          "internal_id": "8389",
-          "requirements": []
+          "id": "8389",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify and describe to your counselor the five primary areas of business."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain the history of labor unions in the United States and the importance of labor unions and employers working together. Identify two major labor unions currently in existence.",
-          "internal_parent_id": "8386",
-          "internal_id": "8413",
-          "requirements": []
+          "id": "8413",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the history of labor unions in the United States and the importance of labor unions and employers working together. Identify two major labor unions currently in existence."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Discuss with your counselor how business impacts the local, national, and global economy.",
-          "internal_parent_id": "8386",
-          "internal_id": "8414",
-          "requirements": []
+          "id": "8414",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor how business impacts the local, national, and global economy."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "8390",
-      "requirements": [
+      "id": "8390",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the three basic types of financial statements (income statement, balance sheet, and statement of cash flows). Discuss with your counselor how each statement can help business leaders make better decisions.",
-          "internal_parent_id": "8390",
-          "internal_id": "8391",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "8391",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the three basic types of financial statements (income statement, balance sheet, and statement of cash flows). Discuss with your counselor how each statement can help business leaders make better decisions."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain how changes in interest rates, taxes, and government spending affect the flow of money into or out of business and industry.",
-          "internal_parent_id": "8390",
-          "internal_id": "8392",
-          "requirements": []
+          "id": "8392",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how changes in interest rates, taxes, and government spending affect the flow of money into or out of business and industry."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain how a sole proprietorship, partnership, or limited liability company gets its capital. Discuss and explain four ways a corporation obtains capital.",
-          "internal_parent_id": "8390",
-          "internal_id": "8393",
-          "requirements": []
+          "id": "8393",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how a sole proprietorship, partnership, or limited liability company gets its capital. Discuss and explain four ways a corporation obtains capital."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Name five kinds of insurance useful to business. Describe their purposes.",
-          "internal_parent_id": "8390",
-          "internal_id": "8394",
-          "requirements": []
+          "id": "8394",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Name five kinds of insurance useful to business. Describe their purposes."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "8397",
-      "requirements": [
+      "id": "8397",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the place of profit in business.",
-          "internal_parent_id": "8397",
-          "internal_id": "8398",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "8398",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the place of profit in business."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe to your counselor green marketing and sustainable business practices.",
-          "internal_parent_id": "8397",
-          "internal_id": "8399",
-          "requirements": []
+          "id": "8399",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe to your counselor green marketing and sustainable business practices."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain how ethics plays a role in business decision making.",
-          "internal_parent_id": "8397",
-          "internal_id": "8411",
-          "requirements": []
+          "id": "8411",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how ethics plays a role in business decision making."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Discuss the differences between operating a brick-and-mortar business versus an online business.",
-          "internal_parent_id": "8397",
-          "internal_id": "8412",
-          "requirements": []
+          "id": "8412",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the differences between operating a brick-and-mortar business versus an online business."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Describe the role of the U.S. Department of Labor. Discuss TWO of the  following topics with your counselor: - Fair Labor Standards Act (FLSA) - Occupational Safety and Health Act (OSHA) - Family and Medical Leave Act (FMLA) - Employee Retirement Income Security Act (ERISA)",
-      "internal_parent_id": null,
-      "internal_id": "8400",
-      "requirements": []
-    },
-    {
-      "id": "5",
-      "text": "Choose a business and research how it applies to each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "8404",
-      "requirements": []
-    },
-    {
-      "id": "6",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "8407",
-      "requirements": [
+      "id": "8400",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Choose one of the primary areas of business and identify three career opportunities. Select one and research the education, training, and experience required for this career. Discuss this with your counselor and explain why this interests you.",
-          "internal_parent_id": "8407",
-          "internal_id": "8408",
-          "requirements": []
+          "type": "text",
+          "value": "Describe the role of the U.S. Department of Labor. Discuss TWO of the following topics with your counselor: Fair Labor Standards Act (FLSA), Occupational Safety and Health Act (OSHA), Family and Medical Leave Act (FMLA), or Employee Retirement Income Security Act (ERISA)."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "8404",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Choose a business and research how it applies to each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "8407",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "8408",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Choose one of the primary areas of business and identify three career opportunities. Select one and research the education, training, and experience required for this career. Discuss this with your counselor and explain why this interests you."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Select a business leader and interview this individual to learn more about his or her company and career path. Discuss the role ethics plays in making business decisions. Share what you have learned with your counselor.",
-          "internal_parent_id": "8407",
-          "internal_id": "8409",
-          "requirements": []
+          "id": "8409",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Select a business leader and interview this individual to learn more about his or her company and career path. Discuss the role ethics plays in making business decisions. Share what you have learned with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     }

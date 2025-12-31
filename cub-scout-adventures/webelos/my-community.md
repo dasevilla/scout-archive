@@ -26,7 +26,7 @@ Learn about majority and plurality types of voting.
 
 ### Requirement 2
 
-Speak with someone who is elected to their position.  Discover the type of voting that was used for to elect them and why.
+Speak with someone who is elected to their position. Discover the type of voting that was used for to elect them and why.
 
 **Activities:**
 
@@ -35,7 +35,7 @@ Speak with someone who is elected to their position.  Discover the type of voti
 
 ### Requirement 3
 
-Choose a federal law and create a timeline of the history of the law.  Include the involvement of the 3 branches of government.
+Choose a federal law and create a timeline of the history of the law. Include the involvement of the 3 branches of government.
 
 **Activities:**
 

@@ -2,6 +2,7 @@
   "name": "Journalism",
   "overview": "One thing is for sure about journalism: It is never boring. For a reporter, almost every day is different from the last. One day you might interview the mayor of the city, the next day report on a car accident, and the day after that preview a new movie.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/journalism/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Journalism.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Journalism.pdf",
@@ -11,142 +12,283 @@
   "image_filename": "journalism-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Journalism.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14118",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Explain what freedom of the press is and how the First Amendment  guarantees that you can voice your opinion. In your discussion, tell how  to distinguish between fact and opinion, and explain the terms libel,  slander, defamation, fair comment and criticism, public figure, privacy,  and malice. Discuss how these matters relate to ethics in journalism.",
-      "internal_parent_id": null,
-      "internal_id": "11937",
-      "requirements": []
-    },
-    {
-      "id": "2",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "11938",
-      "requirements": [
+      "id": "11937",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Newspaper, magazine, and online journalism (with your parent or guardian's permission).",
-          "internal_parent_id": "11938",
-          "internal_id": "11939",
-          "requirements": [
+          "type": "text",
+          "value": "Explain what freedom of the press is and how the First Amendment guarantees that you can voice your opinion. In your discussion, tell how to distinguish between fact and opinion, and explain the terms libel, slander, defamation, fair comment and criticism, public figure, privacy, and malice. Discuss how these matters relate to ethics in journalism."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "11938",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11939",
+          "label": null,
+          "content": [
             {
-              "id": "1",
-              "text": "On the same day, read a local news source or newspaper, a national news source or newspaper, a news magazine (online or printed) and a social media news feed. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story.",
-              "internal_parent_id": "11939",
-              "internal_id": "11940",
-              "requirements": []
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option A—Newspaper, Magazine, and Online Journalism."
+                }
+              ]
             },
             {
-              "id": "2",
-              "text": "Visit the office of a newspaper, magazine, or internet news site. Ask for a tour of the various divisions (editorial, business, and printing). During your tour, talk to an executive from the business side about management's relations with reporters, editors, and photographers and what makes a \"good\" newspaper, magazine, or internet news site.",
-              "internal_parent_id": "11939",
-              "internal_id": "11941",
-              "requirements": []
+              "type": "text",
+              "value": " (Ask your parent or guardian's permission for online option). Do ALL of the following:"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Radio and television journalism",
-          "internal_parent_id": "11938",
-          "internal_id": "11942",
-          "requirements": [
+          "id": "11940",
+          "label": "1",
+          "content": [
             {
-              "id": "1",
-              "text": "All on the same day, watch a local and national network newscast, listen to a radio newscast, and (with your parent or guardian's permission) view a national broadcast news source online. List the different news items and features presented, the different elements used, and the time in minutes and seconds and the online space devoted to each story. Compare the story lists and discuss whether the stories are fair and accurate. Explain why different news outlets treated the stories differently and/or presented a different point of view.",
-              "internal_parent_id": "11942",
-              "internal_id": "11943",
-              "requirements": []
+              "type": "text",
+              "value": "On the same day, read a local news source or newspaper, a national news source or newspaper, a news magazine (online or printed) and a social media news feed. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11941",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit the office of a newspaper, magazine, or internet news site. Ask for a tour of the various divisions (editorial, business, and printing). During your tour, talk to an executive from the business side about management's relations with reporters, editors, and photographers and what makes a \"good\" newspaper, magazine, or internet news site. "
             },
             {
-              "id": "2",
-              "text": "Visit a radio or television station. Ask for a tour of the various departments, concentrating on those related to news broadcasts. During your tour, talk to the station manager or other station management executive about station operations, particularly how management and the news staff work together, and what makes a \"good\" station. If possible, go with a reporter to cover a news event.",
-              "internal_parent_id": "11942",
-              "internal_id": "11944",
-              "requirements": []
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " If there are no opportunities for in-person visits in your community, a virtual visit is acceptable with the news site of your choice, provided your counselor approves this option in advance. (You can request a virtual visit with "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://scoutlife.org/contact-us/journalismvisit/"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Scout Life magazine"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ")"
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11942",
+          "label": null,
+          "content": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Option B—Radio and Television Journalism."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11943",
+          "label": "1",
+          "content": [
+            {
+              "type": "text",
+              "value": "All on the same day, watch a local and national network newscast, listen to a radio newscast, and (with your parent or guardian's permission) view a national broadcast news source online. List the different news items and features presented, the different elements used, and the time in minutes and seconds and the online space devoted to each story. Compare the story lists and discuss whether the stories are fair and accurate. Explain why different news outlets treated the stories differently and/or presented a different point of view."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11944",
+          "label": "2",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a radio or television station. Ask for a tour of the various departments, concentrating on those related to news broadcasts. During your tour, talk to the station manager or other station management executive about station operations, particularly how management and the news staff work together, and what makes a \"good\" station. If possible, go with a reporter to cover a news event."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Discuss the differences between a hard news story and a feature story. Explain what is the \"five W's and H.\" Then do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "11945",
-      "requirements": [
+      "id": "11945",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Choose a current or an unusual event of interest to you, and write either a hard news article OR a feature article about the event. Gear the article for print OR audio OR video journalism. Share your article with your counselor.",
-          "internal_parent_id": "11945",
-          "internal_id": "11946",
-          "requirements": []
+          "type": "text",
+          "value": "Discuss the differences between a hard news story and a feature story. Explain what the five W's and H are. Then do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11946",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Choose a current or an unusual event of interest to you, and write either a hard news article OR a feature article about the event. Gear the article for print OR online OR audio OR video journalism. Share your article with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "With your parent or guardian's permission and counselor's approval, interview someone in your community who is influential because of his or her leadership, talent, career, or life experiences. Then present to your counselor either a written or oral report telling what you learned about this person.",
-          "internal_parent_id": "11945",
-          "internal_id": "11947",
-          "requirements": []
+          "id": "11947",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's permission and counselor's approval, interview someone in your community who is influential because of his or her leadership, talent, career, or life experiences. Then present to your counselor either a written or oral report telling what you learned about this person."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "With your parent or guardian's permission and counselor's approval, read an autobiography written by a journalist you want to learn more about. Write an article that tells what you learned about this person and the contributions this person has made to the field of journalism.",
-          "internal_parent_id": "11945",
-          "internal_id": "11948",
-          "requirements": []
+          "id": "11948",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's permission and counselor's approval, read an autobiography written by a journalist you want to learn more about. Write an article that tells what you learned about this person and the contributions this person has made to the field of journalism."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Attend a Scouting event and write a 200-word article (feature or hard news) about the event. Use either the inverted pyramid style or the chronological style. Review the article with your counselor, then submit it to your community newspaper or Scouting America local council or district newsletter for consideration.",
-          "internal_parent_id": "11945",
-          "internal_id": "11949",
-          "requirements": []
+          "id": "11949",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Attend a Scouting event and write a 200-word article (feature or hard news) about the event. Use either the inverted pyramid style or the chronological style. Review the article with your counselor, then submit it to your community newspaper or Scouting America local council or district newsletter for consideration."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Attend a public event and do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "11950",
-      "requirements": [
+      "id": "11950",
+      "label": "4",
+      "content": [
         {
-          "id": "a",
-          "text": "Write two articles about the event, one using the inverted pyramid style and one using the chronological style.",
-          "internal_parent_id": "11950",
-          "internal_id": "11951",
-          "requirements": []
+          "type": "text",
+          "value": "Attend a public event and do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11951",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Write two articles about the event, one using the inverted pyramid style and one using the chronological style."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Using a radio, television, or podcasting style, write a news story, a feature story, and a critical review of the event.",
-          "internal_parent_id": "11950",
-          "internal_id": "11952",
-          "requirements": []
+          "id": "11952",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Using a radio, television, or podcasting style, write a news story, a feature story, and a critical review of the event."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Take a series of photographs to help tell the story of the event in pictures. Include news photos and feature photos in your presentation. Write a brief synopsis of the event as well as captions for your photos.",
-          "internal_parent_id": "11950",
-          "internal_id": "11953",
-          "requirements": []
+          "id": "11953",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Take a series of photographs to help tell the story of the event in pictures. Include news photos and feature photos in your presentation. Write a brief synopsis of the event as well as captions for your photos."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "5",
-      "text": "Find out about three career opportunities in journalism. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
-      "internal_parent_id": null,
-      "internal_id": "11954",
-      "requirements": []
+      "id": "11954",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Identify three career opportunities that would use skills and knowledge in journalism. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

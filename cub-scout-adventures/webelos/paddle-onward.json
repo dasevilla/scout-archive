@@ -10,6 +10,15 @@
   "requirements": [
     {
       "id": "1",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "Before attempting requirements 5, 6, 7, 8 and 9 for this Adventure, you must pass Scouting America swimmer test."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Before attempting requirements 5, 6, 7, 8 and 9 for this Adventure, you must pass Scouting America swimmer test.",
       "activities": [
         {
@@ -25,6 +34,15 @@
     },
     {
       "id": "2",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Pick a paddle craft for which to complete all requirements: canoe, kayak, or stand-up paddleboard."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Pick a paddle craft for which to complete all requirements: canoe, kayak, or stand-up paddleboard.",
       "activities": [
         {
@@ -40,7 +58,16 @@
     },
     {
       "id": "4",
-      "text": "Demonstrate how to choose  and properly wear a life jacket  that is the correct size.",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Demonstrate how to choose and properly wear a life jacket that is the correct size."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Demonstrate how to choose and properly wear a life jacket that is the correct size.",
       "activities": [
         {
           "name": "Webelos Life Jacket Safety",
@@ -55,7 +82,16 @@
     },
     {
       "id": "5",
-      "text": "Jump feet first into water over your head while wearing a life jacket  Then swim 25 feet wearing the life jacket.",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Jump feet first into water over your head while wearing a life jacket Then swim 25 feet wearing the life jacket."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Jump feet first into water over your head while wearing a life jacket Then swim 25 feet wearing the life jacket.",
       "activities": [
         {
           "name": "Webelos Float with Confidence",
@@ -70,6 +106,15 @@
     },
     {
       "id": "6",
+      "label": "6",
+      "content": [
+        {
+          "type": "text",
+          "value": "Demonstrate how to enter and exit a canoe, kayak, or stand-up paddleboard safely."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Demonstrate how to enter and exit a canoe, kayak, or stand-up paddleboard safely.",
       "activities": [
         {
@@ -103,7 +148,16 @@
     },
     {
       "id": "7",
-      "text": "Discuss what to do if your canoe or kayak tips over or you fall off your stand-up paddleboard.",
+      "label": "7",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss what to do if your canoe or kayak tips over or you fall off your stand-up paddleboard."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Discuss what to do if your canoe or kayak tips over or you fall off your stand-up paddleboard.",
       "activities": [
         {
           "name": "Webelos Canoe Resilience",
@@ -136,7 +190,16 @@
     },
     {
       "id": "8",
-      "text": "Learn how to pick a paddle that is the right size for you.  Explore how the paddle craft responds to moving the paddle.",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn how to pick a paddle that is the right size for you. Explore how the paddle craft responds to moving the paddle."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Learn how to pick a paddle that is the right size for you. Explore how the paddle craft responds to moving the paddle.",
       "activities": [
         {
           "name": "Webelos Canoe Paddle Perfect",
@@ -169,7 +232,16 @@
     },
     {
       "id": "9",
-      "text": "Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time.",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time.",
       "activities": [
         {
           "name": "Webelos Paddle",

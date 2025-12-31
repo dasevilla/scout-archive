@@ -15,7 +15,7 @@ Dinosaurs and other giant creatures lived and died out millions of years ago, so
 
 ### Requirement 1
 
-Play a dinosaur game that shows what you know about them.
+Play a dinosaur game that shows what you know about them.
 
 **Activities:**
 

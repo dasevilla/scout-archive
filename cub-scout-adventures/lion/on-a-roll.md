@@ -15,7 +15,7 @@ With their family or den, Lions learn bike safety and go on a bike ride . Bikes,
 
 ### Requirement 1
 
-With  your den or Lion adult partner, learn about the safety gear you should use while riding a bicycle.
+With your den or Lion adult partner, learn about the safety gear you should use while riding a bicycle.
 
 **Activities:**
 

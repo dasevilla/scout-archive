@@ -2,6 +2,7 @@
   "name": "Dog Care",
   "overview": "The love and interdependence between humans and dogs has endured for thousands of years. Evidence suggests that dogs and humans started relying on each other thousands of years ago. Today, dogs are our coworkers and companions. They assist search-and-rescue teams, law enforcement officers, hunters, farmers, and people with disabilities. They also play with us and keep us company.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/dog-care/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dog%20Care.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Dog-Care.pdf",
@@ -11,245 +12,605 @@
   "image_filename": "dog-care-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "Note: The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill the requirements for other merit badges.",
-      "internal_parent_id": null,
-      "internal_id": "13830",
-      "requirements": []
+      "id": "13830",
+      "label": null,
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Note: The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill the requirements for other merit badges."
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dog%20Care.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14085",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12994",
-      "requirements": [
+      "id": "12994",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Briefly discuss the historical origin and domestication of the dog. Resources: [A Brief History of Dogs (video)](https://www.youtube.com/watch?v=8_KWmzLObQ4) [The Origin of Dogs (video)](https://www.youtube.com/watch?v=4doKA0VpKgc)",
-          "internal_parent_id": "12994",
-          "internal_id": "12995",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12995",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Briefly discuss the historical origin and domestication of the dog."
+            }
+          ],
+          "resources": [
+            {
+              "title": "A Brief History of Dogs (video)",
+              "url": "https://www.youtube.com/watch?v=8_KWmzLObQ4"
+            },
+            {
+              "title": "The Origin of Dogs (video)",
+              "url": "https://www.youtube.com/watch?v=4doKA0VpKgc"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Describe some common characteristics of the dogs that make up each of the seven major dog groups. Resources: [Dog Breed Groups (video)](https://www.youtube.com/watch?v=CITzpWbTSE8) [7 Different Groups of Basic Dog Breeds (website)](https://petcontrolhq.com/en-us/pages/different-dog-breed-types?srsltid=AfmBOoriR8nmRFZgjdYVNRzqBBq5JrrEedlNFCFNmHuWf31yizOyEUx_)",
-          "internal_parent_id": "12994",
-          "internal_id": "12996",
-          "requirements": []
+          "id": "12996",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe some common characteristics of the dogs that make up each of the seven major dog groups."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Dog Breed Groups (video)",
+              "url": "https://www.youtube.com/watch?v=CITzpWbTSE8"
+            },
+            {
+              "title": "7 Different Groups of Basic Dog Breeds (website)",
+              "url": "https://petcontrolhq.com/en-us/pages/different-dog-breed-types?srsltid=AfmBOoriR8nmRFZgjdYVNRzqBBq5JrrEedlNFCFNmHuWf31yizOyEUx_"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Tell some specific characteristics of seven breeds of dogs (one from each major group), OR give a short history of one breed. Resource: [7 Groups of Dog Breeds! (video)](https://www.youtube.com/watch?v=RqIpI3QhEFs)",
-          "internal_parent_id": "12994",
-          "internal_id": "12997",
-          "requirements": []
+          "id": "12997",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell some specific characteristics of seven breeds of dogs (one from each major group), OR give a short history of one breed."
+            }
+          ],
+          "resources": [
+            {
+              "title": "7 Groups of Dog Breeds! (video)",
+              "url": "https://www.youtube.com/watch?v=RqIpI3QhEFs"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Point out on a dog or a sketch at least 10 body parts. Give the correct name of each one. Resource:  [Basic Dog Anatomy (video)](https://youtu.be/ydzIvqvSKdk?si=uJiETon8SHdKagVg)",
-      "internal_parent_id": null,
-      "internal_id": "13019",
-      "requirements": []
+      "id": "13019",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Point out on a dog or a sketch at least 10 body parts. Give the correct name of each one."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Basic Dog Anatomy (video)",
+          "url": "https://youtu.be/ydzIvqvSKdk?si=uJiETon8SHdKagVg"
+        }
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "3",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "12998",
-      "requirements": [
+      "id": "12998",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain the importance of house-training, obedience training, and socialization training for your dog. Resource: [How Important is Dog Training and Socialization? (video)](https://www.youtube.com/watch?v=bwB7qNdifP4)",
-          "internal_parent_id": "12998",
-          "internal_id": "12999",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "12999",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the importance of house-training, obedience training, and socialization training for your dog."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How Important is Dog Training and Socialization? (video)",
+              "url": "https://www.youtube.com/watch?v=bwB7qNdifP4"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain what \"responsible pet ownership\" means. Resource: [Pet Protector - Responsible Pet Ownership (video)](https://www.youtube.com/watch?v=R_0HgVBhwBM)",
-          "internal_parent_id": "12998",
-          "internal_id": "13000",
-          "requirements": []
+          "id": "13000",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what \"responsible pet ownership\" means."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Pet Protector - Responsible Pet Ownership (video)",
+              "url": "https://www.youtube.com/watch?v=R_0HgVBhwBM"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain what issues (including temperament) must be considered when deciding on what breed of dog to get as a family pet. Resources: [How to Pick the Right Dog for You! (video)](https://www.youtube.com/watch?v=l0JWJDFmacs) [Top 10 Dogs for First Time Owners (video)](https://www.youtube.com/watch?v=_JRKX18rTbA)",
-          "internal_parent_id": "12998",
-          "internal_id": "13001",
-          "requirements": []
+          "id": "13001",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what issues (including temperament) must be considered when deciding on what breed of dog to get as a family pet."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Pick the Right Dog for You! (video)",
+              "url": "https://www.youtube.com/watch?v=l0JWJDFmacs"
+            },
+            {
+              "title": "Top 10 Dogs for First Time Owners (video)",
+              "url": "https://www.youtube.com/watch?v=_JRKX18rTbA"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "For two months, keep and care for your dog. Maintain a log of your activities during this period that includes these items: feeding schedule, types of food used, amount fed, exercise periods, training schedule, a weekly body weight record, grooming and bathing schedules, veterinary care, if necessary, and costs. Also include a brief description of the type of housing/shelter arrangements you have for your dog. Resource:  [How to Keep Track of Pet Care (video)](https://youtu.be/rS4dprT0rg0?si=wZQbDaOU29oFYKDa)",
-      "internal_parent_id": null,
-      "internal_id": "13020",
-      "requirements": []
+      "id": "13020",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "For two months, keep and care for your dog. Maintain a log of your activities during this period that includes these items: feeding schedule, types of food used, amount fed, exercise periods, training schedule, a weekly body weight record, grooming and bathing schedules, veterinary care, if necessary, and costs. Also include a brief description of the type of housing/shelter arrangements you have for your dog."
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Keep Track of Pet Care (video)",
+          "url": "https://youtu.be/rS4dprT0rg0?si=wZQbDaOU29oFYKDa"
+        }
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" \"drop it.\"  Resources:  [10 Most Basic Commands Every Dog Owner Should Know (video)](https://www.youtube.com/watch?v=eHbcb2EQC88)  [How to Teach Your Dog the Basics (video)](https://www.youtube.com/watch?v=lUzcA9qa_P8)",
-      "internal_parent_id": null,
-      "internal_id": "13021",
-      "requirements": []
+      "id": "13021",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" \"drop it.\""
+        }
+      ],
+      "resources": [
+        {
+          "title": "10 Most Basic Commands Every Dog Owner Should Know (video)",
+          "url": "https://www.youtube.com/watch?v=eHbcb2EQC88"
+        },
+        {
+          "title": "How to Teach Your Dog the Basics (video)",
+          "url": "https://www.youtube.com/watch?v=lUzcA9qa_P8"
+        }
+      ],
+      "sub_requirements": []
     },
     {
-      "id": "6",
-      "text": "Do the following.",
-      "internal_parent_id": null,
-      "internal_id": "13002",
-      "requirements": [
+      "id": "13002",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Discuss the proper vaccination schedule for a dog in your area from puppyhood through adulthood.  Resource: [Puppy Vaccinations 101: What, When, and Why (video)](https://www.youtube.com/watch?v=BnVVSciMymE)",
-          "internal_parent_id": "13002",
-          "internal_id": "13003",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13003",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the proper vaccination schedule for a dog in your area from puppyhood through adulthood."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Puppy Vaccinations 101: What, When, and Why (video)",
+              "url": "https://www.youtube.com/watch?v=BnVVSciMymE"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Discuss the control methods for preventing fleas, ticks, heartworms, and intestinal parasites (worms) for a dog in your area from puppyhood through adulthood. Resource: [How to Treat Fleas, Ticks & Worms in Dogs (video)](https://www.youtube.com/watch?v=NdykIsBmmao)",
-          "internal_parent_id": "13002",
-          "internal_id": "13004",
-          "requirements": []
+          "id": "13004",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the control methods for preventing fleas, ticks, heartworms, and intestinal parasites (worms) for a dog in your area from puppyhood through adulthood."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Treat Fleas, Ticks & Worms in Dogs (video)",
+              "url": "https://www.youtube.com/watch?v=NdykIsBmmao"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain the importance of dental care and tooth brushing to your pet's health.Resource: [Dental Health Important for Your Pet Dogs (video)](https://www.youtube.com/watch?v=Qm92tNqrNAU)",
-          "internal_parent_id": "13002",
-          "internal_id": "13005",
-          "requirements": []
+          "id": "13005",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the importance of dental care and tooth brushing to your pet's health."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Dental Health Important for Your Pet Dogs (video)",
+              "url": "https://www.youtube.com/watch?v=Qm92tNqrNAU"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Discuss the benefits of grooming your dog's coat and nails on a regular basis.  Resource: [Everything You Need to Know About Dog Grooming (video)](https://www.youtube.com/watch?v=73abRtKHDfI)",
-          "internal_parent_id": "13002",
-          "internal_id": "13006",
-          "requirements": []
+          "id": "13006",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss the benefits of grooming your dog's coat and nails on a regular basis."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Everything You Need to Know About Dog Grooming (video)",
+              "url": "https://www.youtube.com/watch?v=73abRtKHDfI"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Discuss with your counselor any seasonal conditions (like hot summers, cold winters, or extreme humidity) where you live that need to be considered for your dog.  Resources: [Hot Weather Tips for Dogs! (video)](https://www.youtube.com/shorts/JsnPl3mvgG4) [Winter Weather - Pet Safety Tips (video)](https://www.youtube.com/watch?v=P7nVESKP_sA)",
-          "internal_parent_id": "13002",
-          "internal_id": "13007",
-          "requirements": []
+          "id": "13007",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor any seasonal conditions (like hot summers, cold winters, or extreme humidity) where you live that need to be considered for your dog."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Hot Weather Tips for Dogs! (video)",
+              "url": "https://www.youtube.com/shorts/JsnPl3mvgG4"
+            },
+            {
+              "title": "Winter Weather - Pet Safety Tips (video)",
+              "url": "https://www.youtube.com/watch?v=P7nVESKP_sA"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "Discuss with your counselor the considerations and advantages of spaying or neutering your dog. Resources: [Spaying and Neutering Pets: Myths Debunked & Health Benefits Explained (video)](https://www.youtube.com/watch?v=H9r9J3zlGZI) [To Neuter or Not? (video)](https://youtu.be/SaQRnYbco5M?si=8BgNtVlMOUSq_8Dd)",
-          "internal_parent_id": "13002",
-          "internal_id": "13008",
-          "requirements": []
+          "id": "13008",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "Discuss with your counselor the considerations and advantages of spaying or neutering your dog."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Spaying and Neutering Pets: Myths Debunked & Health Benefits Explained (video)",
+              "url": "https://www.youtube.com/watch?v=H9r9J3zlGZI"
+            },
+            {
+              "title": "To Neuter or Not? (video)",
+              "url": "https://youtu.be/SaQRnYbco5M?si=8BgNtVlMOUSq_8Dd"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "13009",
-      "requirements": [
+      "id": "13009",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain precautions to take in handling a hurt dog. Resource: [How to Be Safe When Handling a Sick or Injured Dog (video)](https://www.youtube.com/watch?v=7JP3IFdClU8)",
-          "internal_parent_id": "13009",
-          "internal_id": "13010",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13010",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain precautions to take in handling a hurt dog."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Be Safe When Handling a Sick or Injured Dog (video)",
+              "url": "https://www.youtube.com/watch?v=7JP3IFdClU8"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Show how to put on an emergency muzzle.  Resource: [How Do I Safely Muzzle a Pet in an Emergency? (video)](https://www.youtube.com/watch?v=E7_77X7hAqQ)",
-          "internal_parent_id": "13009",
-          "internal_id": "13011",
-          "requirements": []
+          "id": "13011",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to put on an emergency muzzle."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How Do I Safely Muzzle a Pet in an Emergency? (video)",
+              "url": "https://www.youtube.com/watch?v=E7_77X7hAqQ"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Explain how to treat wounds. Explain first aid for a dog bite.  Resource: [First Aid for Dog Bites (video)](https://www.youtube.com/watch?v=J5AeWWQ3eN0)",
-          "internal_parent_id": "13009",
-          "internal_id": "13012",
-          "requirements": []
+          "id": "13012",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how to treat wounds. Explain first aid for a dog bite."
+            }
+          ],
+          "resources": [
+            {
+              "title": "First Aid for Dog Bites (video)",
+              "url": "https://www.youtube.com/watch?v=J5AeWWQ3eN0"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Show how to put on a simple dressing and bandage the foot, body, or head of your dog. Resource: [Pet First Aid: How to Bandage Your Pet's Paw in Case of Emergency (video)](https://www.youtube.com/watch?v=s7ZvhxUv8HU)",
-          "internal_parent_id": "13009",
-          "internal_id": "13013",
-          "requirements": []
+          "id": "13013",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Show how to put on a simple dressing and bandage the foot, body, or head of your dog."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Pet First Aid: How to Bandage Your Pet's Paw in Case of Emergency (video)",
+              "url": "https://www.youtube.com/watch?v=s7ZvhxUv8HU"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "e",
-          "text": "Explain what to do if a dog is hit by a car.Resource: [What to Do to Help a Dog Hit by a Car (video)](https://www.youtube.com/watch?v=Zidt9dhMEZ4)",
-          "internal_parent_id": "13009",
-          "internal_id": "13014",
-          "requirements": []
+          "id": "13014",
+          "label": "e",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what to do if a dog is hit by a car."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What to Do to Help a Dog Hit by a Car (video)",
+              "url": "https://www.youtube.com/watch?v=Zidt9dhMEZ4"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "f",
-          "text": "List the things needed in every dog owner's first-aid kit. Resources: [DIY Dog First Aid Kit - Basics and Beyond (video)](https://www.youtube.com/watch?v=Cz_ogJQhWmo) [What to Put in a Dog First Aid Kit for Hiking (video)](https://www.youtube.com/watch?v=7sszmRkdOyM)",
-          "internal_parent_id": "13009",
-          "internal_id": "13015",
-          "requirements": []
+          "id": "13015",
+          "label": "f",
+          "content": [
+            {
+              "type": "text",
+              "value": "List the things needed in every dog owner's first-aid kit."
+            }
+          ],
+          "resources": [
+            {
+              "title": "DIY Dog First Aid Kit - Basics and Beyond (video)",
+              "url": "https://www.youtube.com/watch?v=Cz_ogJQhWmo"
+            },
+            {
+              "title": "What to Put in a Dog First Aid Kit for Hiking (video)",
+              "url": "https://www.youtube.com/watch?v=7sszmRkdOyM"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "g",
-          "text": "Tell the dangers of home treatment of a serious ailment.Resources: [8 Risks of Treating Your Pet (website)](https://www.petmd.com/dog/care/8-risks-treating-your-pet-home) [Dangers of Dr. Google (website)](https://www.thedrakecenter.com/services/blog/diagnosing-and-treating-your-own-pet-dangers-dr-google)",
-          "internal_parent_id": "13009",
-          "internal_id": "13016",
-          "requirements": []
+          "id": "13016",
+          "label": "g",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tell the dangers of home treatment of a serious ailment."
+            }
+          ],
+          "resources": [
+            {
+              "title": "8 Risks of Treating Your Pet (website)",
+              "url": "https://www.petmd.com/dog/care/8-risks-treating-your-pet-home"
+            },
+            {
+              "title": "Dangers of Dr. Google (website)",
+              "url": "https://www.thedrakecenter.com/services/blog/diagnosing-and-treating-your-own-pet-dangers-dr-google"
+            }
+          ],
+          "sub_requirements": []
         },
         {
-          "id": "h",
-          "text": "Briefly discuss the cause and method of spread, the signs and symptoms and the methods of prevention of rabies, parvovirus, distemper, and heartworms in dogs. Resources: [Rabies Information (video)](https://www.youtube.com/watch?v=_tMORbU5c3Y) [Parvo Information (video)](https://www.youtube.com/watch?v=7pBKnJQlwSQ) [Disease Risks for Dogs in Social Settings (website)](https://www.avma.org/resources-tools/pet-owners/petcare/disease-risks-dogs-social-settings)",
-          "internal_parent_id": "13009",
-          "internal_id": "13017",
-          "requirements": []
+          "id": "13017",
+          "label": "h",
+          "content": [
+            {
+              "type": "text",
+              "value": "Briefly discuss the cause and method of spread, the signs and symptoms and the methods of prevention of rabies, parvovirus, distemper, and heartworms in dogs."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Rabies Information (video)",
+              "url": "https://www.youtube.com/watch?v=_tMORbU5c3Y"
+            },
+            {
+              "title": "Parvo Information (video)",
+              "url": "https://www.youtube.com/watch?v=7pBKnJQlwSQ"
+            },
+            {
+              "title": "Disease Risks for Dogs in Social Settings (website)",
+              "url": "https://www.avma.org/resources-tools/pet-owners/petcare/disease-risks-dogs-social-settings"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "8",
-      "text": "Visit a veterinary hospital or an animal shelter and give a report about your visit to your counselor. Resources:  [Small Animal Hospital Virtual Tour (video)](https://www.youtube.com/watch?v=O_R3raXyB8s)  [What is an Animal Shelter (video)](https://www.youtube.com/watch?v=_CIC1OXl2u0)",
-      "internal_parent_id": null,
-      "internal_id": "13022",
-      "requirements": []
-    },
-    {
-      "id": "9",
-      "text": "Know the laws and ordinances involving dogs that are in force in your community. Resource:  [Michigan's Animal Control Laws (video)](https://www.youtube.com/watch?v=Hr7n_5GCiUk)",
-      "internal_parent_id": null,
-      "internal_id": "13023",
-      "requirements": []
-    },
-    {
-      "id": "10",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "13018",
-      "requirements": [
+      "id": "13022",
+      "label": "8",
+      "content": [
         {
-          "id": "a",
-          "text": "Identify three career opportunities that would use skills and knowledge in working with dogs. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Resources: [What Is the Difference Between Dog Training Certification Programs? | Animal Care Jobs (video)](https://www.youtube.com/watch?v=aDYaE4d_H94) [Is Vet School Right for You? (video)](https://youtu.be/Nn3IE61JM00?si=lEr2OMOa_AuiW_FJ) [Careers in Dogs - Skills Needed in Careers With Dogs (website)](https://www.akc.org/public-education/resources/dog-related-career-skills/) [Becoming a Pet Groomer (video)](https://www.youtube.com/watch?v=86eSPiTckRA)",
-          "internal_parent_id": "13018",
-          "internal_id": "13024",
-          "requirements": []
+          "type": "text",
+          "value": "Visit a veterinary hospital or an animal shelter and give a report about your visit to your counselor."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Small Animal Hospital Virtual Tour (video)",
+          "url": "https://www.youtube.com/watch?v=O_R3raXyB8s"
         },
         {
-          "id": "b",
-          "text": "Identify how you might use the skills and knowledge in working with dogs to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this. Resources: [9 Dog-Friendly Hobbies to Strengthen Your Connection With Your Pup (website)](https://thenatureofhome.com/dog-friendly-hobbies/) [Dog Carving (video)](https://www.youtube.com/shorts/bRJr3fVXGnU)",
-          "internal_parent_id": "13018",
-          "internal_id": "13025",
-          "requirements": []
+          "title": "What is an Animal Shelter (video)",
+          "url": "https://www.youtube.com/watch?v=_CIC1OXl2u0"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "13023",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Know the laws and ordinances involving dogs that are in force in your community."
+        }
+      ],
+      "resources": [
+        {
+          "title": "Michigan's Animal Control Laws (video)",
+          "url": "https://www.youtube.com/watch?v=Hr7n_5GCiUk"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
+      "id": "13018",
+      "label": "10",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "13024",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify three career opportunities that would use skills and knowledge in working with dogs. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
+            }
+          ],
+          "resources": [
+            {
+              "title": "What Is the Difference Between Dog Training Certification Programs? | Animal Care Jobs (video)",
+              "url": "https://www.youtube.com/watch?v=aDYaE4d_H94"
+            },
+            {
+              "title": "Is Vet School Right for You? (video)",
+              "url": "https://youtu.be/Nn3IE61JM00?si=lEr2OMOa_AuiW_FJ"
+            },
+            {
+              "title": "Careers in Dogs - Skills Needed in Careers With Dogs (website)",
+              "url": "https://www.akc.org/public-education/resources/dog-related-career-skills/"
+            },
+            {
+              "title": "Becoming a Pet Groomer (video)",
+              "url": "https://www.youtube.com/watch?v=86eSPiTckRA"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13025",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify how you might use the skills and knowledge in working with dogs to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this."
+            }
+          ],
+          "resources": [
+            {
+              "title": "9 Dog-Friendly Hobbies to Strengthen Your Connection With Your Pup (website)",
+              "url": "https://thenatureofhome.com/dog-friendly-hobbies/"
+            },
+            {
+              "title": "Dog Carving (video)",
+              "url": "https://www.youtube.com/shorts/bRJr3fVXGnU"
+            }
+          ],
+          "sub_requirements": []
         }
       ]
     }

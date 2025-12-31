@@ -55,7 +55,7 @@ With your patrol create a Code of Conduct.
 
 ### Requirement 5
 
-Demonstrate the Scout sign, Scout salute and Scout handshake used by Scouting America.  Show how each are used.
+Demonstrate the Scout sign, Scout salute and Scout handshake used by Scouting America. Show how each are used.
 
 **Activities:**
 

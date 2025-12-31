@@ -15,7 +15,7 @@ Humans started fishing as a way to get food. Many cities and towns were establis
 
 ### Requirement 1
 
-Make a plan to go fishing.  Determine where you will go and what type of fish you plan to catch.  All of the following requirements are to be completed based on your choice.
+Make a plan to go fishing. Determine where you will go and what type of fish you plan to catch. All of the following requirements are to be completed based on your choice.
 
 **Activities:**
 
@@ -64,7 +64,7 @@ Determine the best type of knot to tie your hook to your line and tie it.
 
 ### Requirement 6
 
-Choose the appropriate type of fishing rod and tackle you will be using.  Have an adult review your gear.
+Choose the appropriate type of fishing rod and tackle you will be using. Have an adult review your gear.
 
 **Activities:**
 

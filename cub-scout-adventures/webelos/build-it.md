@@ -24,7 +24,7 @@ Learn about some basic tools and the proper use of each tool. Learn about and un
 
 ### Requirement 2
 
-Demonstrate  how to check for plumb, level, and square when building.
+Demonstrate how to check for plumb, level, and square when building.
 
 **Activities:**
 
@@ -35,7 +35,7 @@ Demonstrate  how to check for plumb, level, and square when building.
 
 ### Requirement 3
 
-With the guidance of your Webelos den leader, parent, or legal guardian, select a carpentry project that requires it to be either plumb, level, and/or square.  Create a list of materials and tools you will need to complete the project.
+With the guidance of your Webelos den leader, parent, or legal guardian, select a carpentry project that requires it to be either plumb, level, and/or square. Create a list of materials and tools you will need to complete the project.
 
 **Activities:**
 

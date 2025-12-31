@@ -33,7 +33,7 @@ Look at distant objects through a telescope, binoculars, or camera. Show how to 
 
 ### Requirement 3
 
-Observe  in the sky or select from a book, chart, computer, or electronic device two constellations that are easy to see in the night sky. With your den or Tiger adult partner, find out the constellation name and how to identify them. Create a picture of one of the constellations.
+Observe in the sky or select from a book, chart, computer, or electronic device two constellations that are easy to see in the night sky. With your den or Tiger adult partner, find out the constellation name and how to identify them. Create a picture of one of the constellations.
 
 **Activities:**
 

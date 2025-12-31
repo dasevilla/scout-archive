@@ -10,7 +10,16 @@
   "requirements": [
     {
       "id": "1",
-      "text": "With your parent or legal guardian talk about your family’s faith traditions.   Identify three holidays or celebrations that are part of your family’s faith traditions. Draw a picture of your favorite family’s faith tradition holiday or celebration.",
+      "label": "1",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your parent or legal guardian talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Draw a picture of your favorite family’s faith tradition holiday or celebration."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "With your parent or legal guardian talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Draw a picture of your favorite family’s faith tradition holiday or celebration.",
       "activities": [
         {
           "name": "Tiger Holiday Drawing",
@@ -25,7 +34,31 @@
     },
     {
       "id": "2",
-      "text": "With your family, attend a religious service OR other gathering that shows how your family expresses Family & Reverence.",
+      "label": "2",
+      "content": [
+        {
+          "type": "text",
+          "value": "With your family, attend a religious service "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "OR"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " other gathering that shows how your family expresses Family & Reverence."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "text": "With your family, attend a religious service **OR** other gathering that shows how your family expresses Family & Reverence.",
       "activities": [
         {
           "name": "Tiger Religious Celebration",
@@ -58,6 +91,15 @@
     },
     {
       "id": "3",
+      "label": "3",
+      "content": [
+        {
+          "type": "text",
+          "value": "Carry out an act of kindness."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
       "text": "Carry out an act of kindness.",
       "activities": [
         {

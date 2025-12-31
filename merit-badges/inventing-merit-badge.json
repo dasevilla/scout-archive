@@ -2,6 +2,7 @@
   "name": "Inventing",
   "overview": "Inventing involves finding technological solutions to real-world problems. Inventors understand the importance of inventing to society because they creatively think of ways to improve the lives of others. Explore the world of inventing through this new merit badge, and discover your inner inventiveness.",
   "is_eagle_required": false,
+  "is_lab": false,
   "url": "https://www.scouting.org/merit-badges/inventing/",
   "pdf_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Inventing.pdf",
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Inventing.pdf",
@@ -11,170 +12,300 @@
   "image_filename": "inventing-merit-badge.jpg",
   "requirements": [
     {
-      "id": null,
-      "text": "NOTE:  The official merit badge pamphlets are now free and downloadable  [HERE](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Inventing.pdf) or can be purchased at the [Scout Shop.](https://www.scoutshop.org/)",
-      "internal_parent_id": null,
-      "internal_id": "14117",
-      "requirements": []
-    },
-    {
-      "id": "1",
-      "text": "In your own words, define inventing. Then do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11288",
-      "requirements": [
+      "id": "11288",
+      "label": "1",
+      "content": [
         {
-          "id": "a",
-          "text": "Explain to your counselor the role of inventors and their inventions in the economic development of the United States.",
-          "internal_parent_id": "11288",
-          "internal_id": "11289",
-          "requirements": []
+          "type": "text",
+          "value": "In your own words, define inventing. Then do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11289",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the role of inventors and their inventions in the economic development of the United States."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "List three inventions and state how they have helped humankind.",
-          "internal_parent_id": "11288",
-          "internal_id": "11290",
-          "requirements": []
+          "id": "11290",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "List three inventions and state how they have helped humankind."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "2",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "11291",
-      "requirements": [
+      "id": "11291",
+      "label": "2",
+      "content": [
         {
-          "id": "a",
-          "text": "Identify and interview with a buddy (and with your parent or guardian's permission and counselor's approval) an individual in your community who has invented a useful item. Report what you learned to your counselor.",
-          "internal_parent_id": "11291",
-          "internal_id": "11292",
-          "requirements": []
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11292",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "With your parent or guardian's permission and counselor's approval, interview an adult who has invented a useful item or process. Report what you learned to your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Read about three inventors. Select the one you find most interesting and tell your counselor what you learned.",
-          "internal_parent_id": "11291",
-          "internal_id": "11293",
-          "requirements": []
+          "id": "11293",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Read about three inventors. Select the one you find most interesting and tell your counselor what you learned."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "3",
-      "text": "Do the following:",
-      "internal_parent_id": null,
-      "internal_id": "11294",
-      "requirements": [
+      "id": "11294",
+      "label": "3",
+      "content": [
         {
-          "id": "a",
-          "text": "Define the term intellectual property. Explain which government agencies oversee the protection of intellectual property, the types of intellectual property that can be protected, how such property is protected, and why protection is necessary.",
-          "internal_parent_id": "11294",
-          "internal_id": "11295",
-          "requirements": []
+          "type": "text",
+          "value": "Do the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11295",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Define the term intellectual property. Explain which government agencies oversee the protection of intellectual property, the types of intellectual property that can be protected, how such property is protected, and why protection is necessary."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Explain the components of a patent and the different types of patents available.",
-          "internal_parent_id": "11294",
-          "internal_id": "11296",
-          "requirements": []
+          "id": "11296",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the components of a patent and the different types of patents available."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Examine your Scouting gear and find a patent number on a camping item you have used. With your parent or guardian's permission, use the internet to find out more about that patent. Compare the finished item with the claims and drawings in the patent. Report what you learned to your counselor.",
-          "internal_parent_id": "11294",
-          "internal_id": "11297",
-          "requirements": []
+          "id": "11297",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Examine your Scouting gear and find a patent number on a camping item you have used. With your parent or guardian's permission, use the internet to find out more about that patent. Compare the finished item with the claims and drawings in the patent. Report what you learned to your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "d",
-          "text": "Explain to your counselor the term patent infringement.",
-          "internal_parent_id": "11294",
-          "internal_id": "11298",
-          "requirements": []
+          "id": "11298",
+          "label": "d",
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor the term patent infringement."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "4",
-      "text": "Discuss with your counselor the types of inventions that  are appropriate to share with others, and explain why. Tell your counselor about one unpatented invention and its impact on society.",
-      "internal_parent_id": null,
-      "internal_id": "11306",
-      "requirements": []
+      "id": "11306",
+      "label": "4",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss with your counselor the types of inventions that are appropriate to share with others, and explain why. Tell your counselor about one unpatented invention and its impact on society."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "5",
-      "text": "Choose a commercially available product that you have used on an overnight camping trip with your troop. Make recommendations for improving the product, and make a sketch that shows your recommendations. Discuss your recommendations with your counselor.",
-      "internal_parent_id": null,
-      "internal_id": "11307",
-      "requirements": []
+      "id": "11307",
+      "label": "5",
+      "content": [
+        {
+          "type": "text",
+          "value": "Choose a commercially available product that you have used on an overnight camping trip with your troop. Make recommendations for improving the product, and make a sketch that shows your recommendations. Discuss your recommendations with your counselor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     },
     {
-      "id": "6",
-      "text": "Think of an item you would like to invent that would solve a problem for your family, troop, chartered organization, community, or a special-interest group. Then do the following, while keeping a notebook to record your progress.",
-      "internal_parent_id": null,
-      "internal_id": "11299",
-      "requirements": [
+      "id": "11299",
+      "label": "6",
+      "content": [
         {
-          "id": "a",
-          "text": "Talk to potential users of your invention and determine their needs. Then, based on what you have learned, write a statement describing the invention and how it would help solve a problem. This statement should include a detailed sketch of the invention.",
-          "internal_parent_id": "11299",
-          "internal_id": "11300",
-          "requirements": []
+          "type": "text",
+          "value": "Think of an item you would like to invent that would solve a problem for your family, troop, chartered organization, community, or a special-interest group. Then do the following, while keeping a notebook to record your progress."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11300",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Talk to potential users of your invention and determine their needs. Then, based on what you have learned, write a statement describing the invention and how it would help solve a problem. This statement should include a detailed sketch of the invention."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "b",
-          "text": "Create a model of the invention using clay, cardboard, or any other readily available material. List the materials necessary to build a working prototype of the invention.",
-          "internal_parent_id": "11299",
-          "internal_id": "11301",
-          "requirements": []
+          "id": "11301",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a model of the invention using clay, cardboard, or any other readily available material. List the materials necessary to build a working prototype of the invention."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "c",
-          "text": "Share the idea and the model with your counselor and potential users of your invention. Record their feedback in your notebook.",
-          "internal_parent_id": "11299",
-          "internal_id": "11302",
-          "requirements": []
+          "id": "11302",
+          "label": "c",
+          "content": [
+            {
+              "type": "text",
+              "value": "Share the idea and the model with your counselor and potential users of your invention. Record their feedback in your notebook."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "7",
-      "text": "Build a working prototype of the item you invented for requirement 6. Test and evaluate the invention. Among the aspects to consider in your evaluation are cost, usefulness, marketability, appearance, and function. Describe how your original vision and expectations for your invention are similar or dissimilar to the prototype you built. Have your counselor evaluate and critique your prototype.Note: Before you begin building the prototype, you must have your counselor's approval, based on the design and building plans you have already shared.",
-      "internal_parent_id": null,
-      "internal_id": "11308",
-      "requirements": []
-    },
-    {
-      "id": "8",
-      "text": "Do ONE of the following:",
-      "internal_parent_id": null,
-      "internal_id": "11303",
-      "requirements": [
+      "id": "11308",
+      "label": "7",
+      "content": [
         {
-          "id": "a",
-          "text": "Participate with a club or team (robotics team, science club, or engineering club) that builds a useful item. Share your experience with your counselor.",
-          "internal_parent_id": "11303",
-          "internal_id": "11304",
-          "requirements": []
+          "type": "text",
+          "value": "Build a working prototype of the item you invented for requirement 6. Test and evaluate the invention. Among the aspects to consider in your evaluation are cost, usefulness, marketability, appearance, and function. Describe how your original vision and expectations for your invention are similar or dissimilar to the prototype you built. Have your counselor evaluate and critique your prototype."
         },
         {
-          "id": "b",
-          "text": "Visit a museum or exhibit dedicated to an inventor or invention, and create a presentation of your visit to share with a group such as your troop or patrol.",
-          "internal_parent_id": "11303",
-          "internal_id": "11305",
-          "requirements": []
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Note:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Before you begin building the prototype, you must have your counselor's approval, based on the design and building plans you have already shared."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
+      "id": "11303",
+      "label": "8",
+      "content": [
+        {
+          "type": "text",
+          "value": "Do ONE of the following:"
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "11304",
+          "label": "a",
+          "content": [
+            {
+              "type": "text",
+              "value": "Participate with a club or team (robotics team, science club, or engineering club) that builds a useful item. Share your experience with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "11305",
+          "label": "b",
+          "content": [
+            {
+              "type": "text",
+              "value": "Visit a museum or exhibit dedicated to an inventor or invention, and create a presentation of your visit to share with a group such as your troop or patrol."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
     {
-      "id": "9",
-      "text": "Discuss with your counselor the diverse skills, education, training, and experience it takes to be an inventor. Discuss how you can prepare yourself to be creative and inventive to solve problems at home, in school, and in your community. Discuss three career fields that might utilize the skills of an inventor.",
-      "internal_parent_id": null,
-      "internal_id": "11309",
-      "requirements": []
+      "id": "11309",
+      "label": "9",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discuss with your counselor the diverse skills, education, training, and experience it takes to be an inventor. Discuss how you can prepare yourself to be creative and inventive to solve problems at home, in school, and in your community. Discuss three career fields that might utilize the skills of an inventor."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
     }
   ]
 }

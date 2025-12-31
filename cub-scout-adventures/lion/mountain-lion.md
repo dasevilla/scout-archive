@@ -26,7 +26,7 @@ Identify the Cub Scout Six Essentials. Show what you do with each item.
 
 ### Requirement 2
 
-With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials.  While outside, identify things that you see with your Lion adult partner that are natural and things that are manmade.
+With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials. While outside, identify things that you see with your Lion adult partner that are natural and things that are manmade.
 
 **Activities:**
 
@@ -39,7 +39,7 @@ With your den, pack, or family, take a walk outside spending for at least 20 min
 
 ### Requirement 4
 
-Identify common animals that are found where you live.  Separate those animals into domesticated and wild.
+Identify common animals that are found where you live. Separate those animals into domesticated and wild.
 
 **Activities:**
 

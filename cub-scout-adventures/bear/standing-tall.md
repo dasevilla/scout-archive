@@ -42,7 +42,7 @@ With your parent or legal guardian, set up a family policy for digital devices.
 
 ### Requirement 4
 
-Identify common personal safety gear for your head, eyes, mouth, hands, and feet.  List how each of these items protect you.  Demonstrate the proper use of personal safety gear for an activity.
+Identify common personal safety gear for your head, eyes, mouth, hands, and feet. List how each of these items protect you. Demonstrate the proper use of personal safety gear for an activity.
 
 **Activities:**
 

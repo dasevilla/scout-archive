@@ -37,7 +37,7 @@ Construct a personal care checklist.
 
 ### Requirement 3
 
-Put on your shoes without help.  Take them off and put them away.
+Put on your shoes without help. Take them off and put them away.
 
 **Activities:**
 

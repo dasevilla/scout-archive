@@ -28,7 +28,7 @@ def generate_index(directory, index_filename="index.md"):
     ]
 
     eagle_required_lines = ["## Eagle required Merit Badges", ""]
-
+    test_lab_lines = ["## Test Lab", ""]
     all_badges_lines = ["## All Merit Badges", ""]
 
     for filename in json_files:
@@ -39,6 +39,7 @@ def generate_index(directory, index_filename="index.md"):
             url = data.get("url", "#")
             pdf_url = data.get("pdf_url", "")
             is_eagle_required = data.get("is_eagle_required", False)
+            is_lab = data.get("is_lab", False)
             eagle_required_text = " 🦅" if is_eagle_required else ""
             md_filename = filename.replace(".json", ".md")
             link = f"[{name}]({md_filename})"
@@ -49,9 +50,13 @@ def generate_index(directory, index_filename="index.md"):
             all_badges_lines.append(line + eagle_required_text)
             if is_eagle_required:
                 eagle_required_lines.append(line)
+            if is_lab:
+                test_lab_lines.append(line)
 
     # Combine all lines
     index_lines.extend(eagle_required_lines)
+    index_lines.append("")
+    index_lines.extend(test_lab_lines)
     index_lines.append("")
     index_lines.extend(all_badges_lines)
 

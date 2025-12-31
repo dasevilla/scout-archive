@@ -67,7 +67,9 @@ class CubScoutAdventureImagesPipeline(ImagesPipeline):
 
     def file_path(self, request, response=None, info=None, *, item=None):
         if item is None:
-            raise ValueError("Cub Scout adventure item is required to build image paths")
+            raise ValueError(
+                "Cub Scout adventure item is required to build image paths"
+            )
         rank_name = sanitize_filename(item["rank_name"])
         adventure_name = sanitize_filename(item["adventure_name"])
         filename = f"{rank_name}/images/{adventure_name}.jpg"

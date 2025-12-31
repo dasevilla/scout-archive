@@ -37,12 +37,15 @@ def generate_index(directory, index_filename="index.md"):
             data = json.load(file)
             name = data.get("name", "Unknown")
             url = data.get("url", "#")
-            pdf_url = data.get("pdf_url", "#")
+            pdf_url = data.get("pdf_url", "")
             is_eagle_required = data.get("is_eagle_required", False)
             eagle_required_text = " 🦅" if is_eagle_required else ""
             md_filename = filename.replace(".json", ".md")
             link = f"[{name}]({md_filename})"
-            line = f"1. {link} - [Original]({url}) - [PDF]({pdf_url})"
+            line_parts = [f"1. {link}", f"[Original]({url})"]
+            if pdf_url:
+                line_parts.append(f"[PDF]({pdf_url})")
+            line = " - ".join(line_parts)
             all_badges_lines.append(line + eagle_required_text)
             if is_eagle_required:
                 eagle_required_lines.append(line)

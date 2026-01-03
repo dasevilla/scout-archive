@@ -73,7 +73,7 @@ Staying safe in traffic wherever you live is getting more difficult all the time
 - (6) **Sharing the Road.** Do the following:
   - (a) Describe the difference in nighttime visibility between a properly lit bicycle and rider (or a pedestrian) wearing reflective material and a bicycle and rider with no lights (or a pedestrian) dressed in dark clothing without reflective material.
 
-    **Resources:** [Understanding Road Signs  (video)](https://youtu.be/KxrfkcDAgsY), [Traffic Signals (video)](https://youtu.be/Hj87mH_a4jk), [Pavement Markings (video)](https://youtu.be/Lq3p5i9g9c0)
+    **Resources:** [Bike Safety - Sharing the Road (video)](https://youtu.be/zm_uXZJnCSk), [The Basics of Bicycle Safety (video)](https://youtu.be/DJc18FiARLc?si=tV7T0fXYYDHGVdmm), [What to Do to Make Driving at Night Safer (video)](https://youtu.be/uYhwXwVDlF0?si=3M13qEkL7YbemovD)
   - (b) Name at least four safety measures that pedestrians, including hikers, should follow as they walk along or across streets or roadways.
 
     **Resources:** [The Basics of Pedestrian Safety (video)](https://youtu.be/Lsv1TSy8JbA?si=Yv-ODDQIlOvnSNbC)

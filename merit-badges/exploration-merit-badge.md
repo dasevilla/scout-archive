@@ -79,12 +79,10 @@ Discover the history and importance of various kinds of exploration by earning t
     **Resources:** [Scouting America SAFE Checklist (PDF)](https://www.scouting.org/wp-content/uploads/2021/06/680-11421_SAFE.pdf)
 
 - (8) **Go on an Expedition.** Complete the following:
-  - (a) Discuss with your counselor about the vital role of outdoor ethics in exploration, explaining how they promote responsible and mindful adventuring. Explain how you applied the outdoor code, Leave No Trace and Tread Lightly! principles during your expedition.
+  - (a) With your parent or guardian's permission and under the supervision of your counselor or a counselor-approved qualified person, use the planning steps you learned in requirement 6 and the preparations you completed in requirement 7 to personally undertake an actual expedition to an area you have not previously explored.
+  - (b) Discuss with your counselor about the vital role of outdoor ethics in exploration, explaining how they promote responsible and mindful adventuring. Explain how you applied the outdoor code, Leave No Trace and Tread Lightly! principles during your expedition.
 
     **Resources:** [Leave No Trace Basics (video)](https://vimeo.com/1115216743/63b20c0b33?share=copy), [Leave No Trace Outdoor Ethics (video)](https://youtu.be/jXO1uY0MvmQ?si=_UhIOYBkw69c87ug)
-  - (b) Discuss with your counselor what is outdoor ethics and its role in exploration and enjoying the outdoors responsibly.
-
-    **Resources:** [Leave No Trace Basics (video)](https://vimeo.com/1115216743/63b20c0b33?share=copy), [Leave No Trace Outdoor Ethics (video)](https://www.youtube.com/watch?v=jXO1uY0MvmQ)
   - (c) After you return, compile a report on the results of your expedition and how you accomplished your objective(s). Include a statement of the objectives, note your findings and observations, include photos, note any discoveries, report any problems or adverse events, and have a conclusion (whether you reached your objective or not). The post-expedition report must be at least one page and no more than three; one page can be photos, graphs, or figures.
 
 - (9) **Career Opportunities:** Do ONE of the following:

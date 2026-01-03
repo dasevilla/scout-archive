@@ -10,9 +10,9 @@ Radio is a way to send information, or communications, from one place to another
 ## Requirements
 
 - (1) **Radio Safety.** Explain the safety precautions for working with radio gear, including:
-  - (a) The differences between broadcast radio and hobby radio
-  - (b) The differences between broadcasting and two-way communications
-  - (c) Radio station call signs and how they are used in broadcast radio and amateur radio
+  - (a) Grounding for direct and alternating current circuits, power outlets, antennas, and lightning.
+  - (b) Preventing and treating electrical burns
+  - (c) Preventing lithium-ion battery fires in cell phones and other devices.
 
 - (2) **Radio Fundamentals.** Do the following:
   - (a) Do the following:
@@ -84,7 +84,6 @@ Radio is a way to send information, or communications, from one place to another
   - **Option E—Family Radio Service (FRS) & General Mobile Radio Service (GMRS) Walkie Talkies.** Do ALL of the following:
   - (1) Explain what the Family Radio Service (FRS) and General Mobile Radio Service (GMRS) are and how they are different from each other, from other commercial two-way radios, and from Citizens Band (CB) & Amateur Radio (HAM).
   - (2) Explain each of the following for using a FRS radio or GMRS walkie talkie:
-  - (3) Use the FRS radios or GMRS walkie talkies with family, friends, or Scouts on a hike, at an event, or in a team game. Discuss what you learned with your counselor.
   - (a) Is any type of license needed to use these radios? If so: what kind?
   - (b) What radio frequencies are used and how is information encoded?
   - (c) How much power can be used when transmitting?
@@ -92,6 +91,7 @@ Radio is a way to send information, or communications, from one place to another
   - (e) What is the effective range and what limits it?
   - (f) What are common everyday uses for these radios?
   - (g) How can these radios be useful in an emergency?
+  - (3) Use the FRS radios or GMRS walkie talkies with family, friends, or Scouts on a hike, at an event, or in a team game. Discuss what you learned with your counselor.
 
 - (9) **Careers.** Do ONE of the following.
   - (a) Explore careers related to radio. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and advancement. With permission of your parent or guardian, your research methods may include an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work or train. Discuss your findings and career interest with your counselor.

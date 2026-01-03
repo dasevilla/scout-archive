@@ -67,7 +67,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 
 - (4) **First Aid Kits.** Put together a personal first aid kit and a personal survival kit. Show how items in the kits are used.
 
-  **Resources:** [Personal Family Troop First Aid Kit Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf), [First Aid KIt Checklists (website)](https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/), [Scout Essentials for Wilderness Survival (website)](https://troopleader.scouting.org/program-features/wilderness-survival/information/), [Survival Kit List (website)](https://assets.kalkomey.com/hunter/pdfs/maine-survival-kit.pdf)
+  **Resources:** [Personal Family Troop First Aid Kit Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf), [First Aid KIt Checklists (website)](https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/), [Scout Essentials for Wilderness Survival (website)](https://troopleader.scouting.org/program-features/wilderness-survival/information/), [Survival Kit List (PDF)](https://assets.kalkomey.com/hunter/pdfs/maine-survival-kit.pdf)
 
 - (5) **Shelter.** Do the following:
   - (a) Describe the steps you would take to survive in the following exposure conditions:
@@ -106,11 +106,11 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 - (7) **Signaling.** Do the following:
   - (a) Explain and show how lost or stranded Scouts could send signals to attract the attention of ground, airborne, or water search teams.
 
-    **Resources:** [How to Signal for Ground Rescue (video)](https://youtu.be/X8j5NC7Bqq4), [Surface to Air Visual and Body Signals (website)](http://www.cap-es.net/zips/gnd2airsignals.PDF), [Distress Signals for Water Emergencies (video)](https://youtu.be/0Y4pG_mN7Ek)
+    **Resources:** [How to Signal for Ground Rescue (video)](https://youtu.be/X8j5NC7Bqq4), [Surface to Air Visual and Body Signals (PDF)](http://www.cap-es.net/zips/gnd2airsignals.PDF), [Distress Signals for Water Emergencies (video)](https://youtu.be/0Y4pG_mN7Ek)
   - (b) Demonstrate how to use a signal mirror.
 
     **Resources:** [How to Use a Signal Mirror (video)](https://www.youtube.com/shorts/kYN46GuZmpE)
-  - (c) Describe from memory five ground-to- air signals and tell what they mean.
+  - (c) Describe from memory five ground-to-air signals and tell what they mean.
 
 - (8) **Water.** Demonstrate three ways to treat water found in the outdoors to prepare it for drinking.
 

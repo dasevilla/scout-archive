@@ -30,7 +30,7 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
   - (5) James E. West
 
     **Resources:** [James E. West - BSA Founder (video)](https://youtu.be/cpIpdHl4cug)
-  - (6) Green Bar Bill Hillcourt.
+  - (6) "Green Bar Bill" Hillcourt
 
     **Resources:** [Green Bar Bill Hillcourt Biography (video)](https://www.youtube.com/watch?v=ZJofraVDGuA)
   - (7) Frederick Russell Burnham

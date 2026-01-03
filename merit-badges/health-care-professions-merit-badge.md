@@ -10,18 +10,59 @@ Explore the different types of the healthcare fields and professions with the He
 ## Requirements
 
 - (1) Select three of the professions from Group 1 listed below which interest you, then complete the following:
+
+  **Group 1:**
+  (1) Allopathic physician (MD)—all specialties
+  (2) Osteopathic physician (DO)—all specialties
+  (3) Podiatrist (DPM)
+  (4) Chiropractor (DC)
+  (5) Nurse Practitioner (NP)
+  (6) Psychologist (PhD or PsyD)
+  (7) Optometrist (OD)
+  (8) Audiologist (AudD)
   - (a) Briefly describe to your counselor the roles these professionals play in the delivery of health care.
   - (b) Describe to your counselor the educational and licensing requirements for the professionals you selected.
 
 - (2) Select three of the professions from Group 2 listed below which interest you, then complete the following:
+
+  **Group 2:**
+  (1) Physician Assistant (PA)
+  (2) Registered Nurse (RN)
+  (3) Certified Nurse Midwife (CNM)
+  (4) Certified Nurse Assistant (CNA)
+  (5) Licensed Practical Nurse (LPN/LVN)
+  (6) Nurse Anesthetist (CRNA)
+  (7) Pharmacist (PharmD)
+  (8) Pharmacy Technician
+  (9) Emergency Medical Technician (EMT)/Paramedic
   - (a) Briefly describe to your counselor the roles these professionals play in the delivery of health care.
   - (b) Describe to your counselor the educational and licensing requirements for the professionals you selected.
 
 - (3) Select three of the professions from Group 3 listed below which interest you, then complete the following:
+
+  **Group 3:**
+  (1) Physical Therapist (DPT)
+  (2) Occupational Therapist (OT)
+  (3) Orthotist/Prosthetist
+  (4) Medical Appliance Technician
+  (5) Respiratory Therapist (RT)
+  (6) Medical Assistant
+  (7) Dietitian (RD)
+  (8) Speech-Language Pathologist (Speech Therapist) (SLP)
   - (a) Briefly describe to your counselor the roles these professionals play in the delivery of health care.
   - (b) Describe to your counselor the educational and licensing requirements for the professionals you selected.
 
 - (4) Select three of the professions from Group 4 listed below which interest you, then complete the following:
+
+  **Group 4:**
+  (1) Biomedical Engineer (BME)
+  (2) Medical Technologist
+  (3) Phlebotomist
+  (4) Radiology Technologist
+  (5) Sonographer
+  (6) Medical Records Specialist
+  (7) Cytopathologist
+  (8) Histotechnologist
   - (a) Briefly describe to your counselor the roles these professionals play in the delivery of health care.
   - (b) Describe to your counselor the educational and licensing requirements for the professionals you selected.
 

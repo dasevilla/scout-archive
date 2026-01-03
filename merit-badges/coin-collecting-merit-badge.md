@@ -21,7 +21,7 @@ Coin collecting is one of the oldest of all hobbies. Hoards of ancient coins fou
   - (c) Collect a ten-cent coin from 1965-present.
   - (d) Collect a twenty-five-cent coin from 1965-1998, two examples from the 50-State Quarter® /territories Program 1999-2009, two designs from the America the Beautiful® program 2010-2021 and two designs from the American Woman Quarter® program (2022-2024). Explain the purpose of each of those programs.
   - (e) Collect a half dollar coin from 1965-present.
-  - (f) Collect a dollar coin from the following design groups: Susan B. Anthony 1979-1981, 1999, Sacagawea 1990-2005, U.S. Presidents 2007-2016, 2020.
+  - (f) Collect a dollar coin from the following design groups: Susan B. Anthony 1979-1981, 1999, Sacagawea 2000-2008, U.S. Presidents 2007-2016, 2020.
 
 - (5) Describe and discuss with your counselor the special reverse designs of the quarters, half dollar and dollar coin struck in 1975-1976 to honor the U.S. Bicentennial.
 

@@ -167,7 +167,22 @@
           "content": [
             {
               "type": "text",
-              "value": "Develop a family emergency action plan for evacuation because of weather or other natural disasters that occur in your area. Using a checklist in the Safety merit badge pamphlet or one approved by your counselor, assemble or inspect an emergency supplies kit. Explain to your counselor how a family would use the plan and the kit supplies in an emergency."
+              "value": "Develop a family emergency action plan for evacuation because of weather or other natural disasters that occur in your area. Using a checklist in the "
+            },
+            {
+              "type": "element",
+              "tag": "i",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Safety"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " merit badge pamphlet or one approved by your counselor, assemble or inspect an emergency supplies kit. Explain to your counselor how a family would use the plan and the kit supplies in an emergency."
             }
           ],
           "resources": [],

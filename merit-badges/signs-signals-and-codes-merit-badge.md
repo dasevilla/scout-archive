@@ -20,7 +20,7 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
 - (4) Do the following:
   - (a) Give your counselor a brief explanation about semaphore, why it is used, how it is used, and where it is used.
   - (b) Explain to your counselor the difference between semaphore flags and nautical flags.
-  - (c) After 4(a) and 4(b) have been completed, then do the following:
+  - (c) After 4(a) and 4(b) have been completed, do the following:
   - (1) Spell your first name using semaphore. Send or receive a message of six to 10 words using semaphore.
   - (2) Using illustrations or photographs, identify 10 examples of nautical flags and discuss their importance.
 

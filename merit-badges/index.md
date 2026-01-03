@@ -5,7 +5,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 ## Eagle required Merit Badges
 
 1. [Camping](camping-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/camping/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf)
-1. [Citizenship in Society](citizenship-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-society/) - [PDF]()
+1. [Citizenship in Society](citizenship-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-society/)
 1. [Citizenship in the Community](citizenship-in-the-community-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-community/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community.pdf)
 1. [Citizenship in the Nation](citizenship-in-the-nation-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-nation/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Nation.pdf)
 1. [Citizenship in the World](citizenship-in-the-world-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-world/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World.pdf)
@@ -23,6 +23,16 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Sustainability](sustainability-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/sustainability/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sustainability.pdf)
 1. [Swimming](swimming-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/swimming/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf)
 
+## Test Lab
+
+1. [Auctioneering](auctioneering-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/auctioneering/)
+1. [Dance](dance-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/dance/)
+1. [Life Skills](life-skills-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/life-skills/)
+1. [Physics](physics-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/physics/)
+1. [Psychology](psychology-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/psychology/)
+1. [Sewing & Needlework](sewing-needlework-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/sewing-needlework/)
+1. [Wildland Fire Management](wildland-fire-management-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/wildland-fire-management/)
+
 ## All Merit Badges
 
 1. [American Business](american-business-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/american-business/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Business.pdf)
@@ -36,10 +46,10 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Archery](archery-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/archery/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archery.pdf)
 1. [Architecture](architecture-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/architecture/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Architecture_Landscape.pdf)
 1. [Art](art-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/art/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Art.pdf)
-1. [Artificial Intelligence](artificial-intelligence-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/artificial-intelligence/) - [PDF]()
+1. [Artificial Intelligence](artificial-intelligence-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/artificial-intelligence/)
 1. [Astronomy](astronomy-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/astronomy/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Astronomy.pdf)
 1. [Athletics](athletics-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/athletics/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Athletics.pdf)
-1. [Auctioneering](auctioneering-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/auctioneering/) - [PDF]()
+1. [Auctioneering](auctioneering-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/auctioneering/)
 1. [Automotive Maintenance](automotive-maintenance-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/automotive-maintenance/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Automotive%20Maintenance.pdf)
 1. [Aviation](aviation-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/aviation/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation.pdf)
 1. [Backpacking](backpacking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/backpacking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Backpacking.pdf)
@@ -50,7 +60,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Canoeing](canoeing-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/canoeing/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Canoeing.pdf)
 1. [Chemistry](chemistry-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/chemistry/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf)
 1. [Chess](chess-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/chess/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chess.pdf)
-1. [Citizenship in Society](citizenship-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-society/) - [PDF]() 🦅
+1. [Citizenship in Society](citizenship-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-society/) 🦅
 1. [Citizenship in the Community](citizenship-in-the-community-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-community/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community.pdf) 🦅
 1. [Citizenship in the Nation](citizenship-in-the-nation-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-nation/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Nation.pdf) 🦅
 1. [Citizenship in the World](citizenship-in-the-world-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-world/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World.pdf) 🦅
@@ -61,9 +71,9 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Composite Materials](composite-materials-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/composite-materials/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Composite%20Materials.pdf)
 1. [Cooking](cooking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cooking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cooking.pdf) 🦅
 1. [Crime Prevention](crime-prevention-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/crime-prevention/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Crime%20Prevention.pdf)
-1. [Cybersecurity](cybersecurity-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cybersecurity/) - [PDF]()
+1. [Cybersecurity](cybersecurity-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cybersecurity/)
 1. [Cycling](cycling-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cycling/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cycling.pdf) 🦅
-1. [Dance](dance-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/dance/) - [PDF]()
+1. [Dance](dance-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/dance/)
 1. [Dentistry](dentistry-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/dentistry/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dentistry.pdf)
 1. [Digital Technology](digital-technology-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/digital-technology/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Digital%20Technology.pdf)
 1. [Disabilities Awareness](disabilities-awareness-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/disabilities-awareness/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Disabilities%20Awareness.pdf)
@@ -104,7 +114,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Landscape Architecture](landscape-architecture-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/landscape-architecture/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Architecture_Landscape.pdf)
 1. [Law](law-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/law/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Law.pdf)
 1. [Leatherwork](leatherwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/leatherwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Leatherwork.pdf)
-1. [Life Skills](life-skills-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/life-skills/) - [PDF]()
+1. [Life Skills](life-skills-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/life-skills/)
 1. [Lifesaving](lifesaving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/lifesaving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Lifesaving.pdf) 🦅
 1. [Mammal Study](mammal-study-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/mammal-study/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mammal%20Study.pdf)
 1. [Metalwork](metalwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/metalwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Metalwork.pdf)
@@ -123,13 +133,13 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Personal Management](personal-management-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/personal-management/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Personal%20Management.pdf) 🦅
 1. [Pets](pets-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/pets/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pets.pdf)
 1. [Photography](photography-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/photography/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Photography.pdf)
-1. [Physics](physics-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/physics/) - [PDF]()
+1. [Physics](physics-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/physics/)
 1. [Pioneering](pioneering-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/pioneering/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pioneering.pdf)
 1. [Plant Science](plant-science-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/plant-science/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Plant%20Science.pdf)
 1. [Plumbing](plumbing-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/plumbing/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Plumbing.pdf)
 1. [Pottery](pottery-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/pottery/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pottery.pdf)
 1. [Programming](programming-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/programming/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Programming.pdf)
-1. [Psychology](psychology-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/psychology/) - [PDF]()
+1. [Psychology](psychology-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/psychology/)
 1. [Public Health](public-health-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/public-health/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Health.pdf)
 1. [Public Speaking](public-speaking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/public-speaking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Speaking.pdf)
 1. [Pulp and Paper](pulp-and-paper-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/pulp-and-paper/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp-Paper.pdf)
@@ -147,7 +157,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Scuba Diving](scuba-diving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/scuba-diving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Scuba%20Diving.pdf)
 1. [Sculpture](sculpture-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/sculpture/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sculpture.pdf)
 1. [Search and Rescue](search-and-rescue-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/search-and-rescue/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Search%20and%20Rescue.pdf)
-1. [Sewing & Needlework](sewing-needlework-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/sewing-needlework/) - [PDF]()
+1. [Sewing & Needlework](sewing-needlework-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/sewing-needlework/)
 1. [Shotgun Shooting](shotgun-shooting-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/shotgun-shooting/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Shotgun%20Shooting.pdf)
 1. [Signs, Signals, and Codes](signs-signals-and-codes-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/signs-signals-and-codes/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Signs%20Signals%20Codes.pdf)
 1. [Skating](skating-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/skating/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Skating.pdf)
@@ -170,8 +180,8 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Welding](welding-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/welding/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Welding.pdf)
 1. [Whitewater](whitewater-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/whitewater/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Whitewater.pdf)
 1. [Wilderness Survival](wilderness-survival-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wilderness-survival/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wilderness%20Survival.pdf)
-1. [Wildland Fire Management](wildland-fire-management-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/wildland-fire-management/) - [PDF]()
+1. [Wildland Fire Management](wildland-fire-management-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/wildland-fire-management/)
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork.pdf)
 
-Generated on 2025-12-31 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2026-01-03 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

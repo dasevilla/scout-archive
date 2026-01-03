@@ -23,7 +23,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
 
 - (5) Present yourself properly clothed and equipped for the option you choose in requirement 7. Discuss how the clothing you have chosen will help keep you warm and protected.
 
-- (6) Do the following:
+- (6) Do ALL of the following:
   - (a) Explain the elements of the *Your Responsibility Code* that is in effect at the location whehre you will ski, snowboard, or snowshoe. Explain why each person must follow this code.
   - (b) Explain the *SMART Style* safety program. Tell why it is important and how it applies to participants at snow sport venues like terrain parks and pipes.
   - (c) Explain the precautions pertaining to avalanche safety, including the responsibility of individuals regarding avalanche safety.
@@ -82,7 +82,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
   - (8) Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope.
   - (9) Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions.
 
-    **Note:** Adaptive skiers may complete a 1-mile hike with prior approval from their counselor.
+    **Note:** Adaptive snowshoers may complete a 1-mile hike with prior approval from their counselor.
   - (10) Demonstrate the proper use of a topographic map and compass.
 
 ## Resources

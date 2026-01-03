@@ -322,7 +322,7 @@
           "resources": [
             {
               "title": "Spending Time With Family (video)",
-              "url": "https://youtu.be/magzd25-g_o"
+              "url": "https://youtu.be/d4_rFMo7lCo?si=OkbtRuJzRNoVysV1"
             }
           ],
           "sub_requirements": []
@@ -379,7 +379,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Include two measures of muscular strength and endurance: Record either the number of sit-ups done in 60 seconds OR how long a plank was held; AND, record the number of either push-ups OR pull-ups done in 60 seconds. If you are unable to complete one these exercises safely and correctly, work with your counselor to replace it with a different exercise that measures strength and endurance."
+              "value": "Include two measures of muscular strength and endurance: Record either the number of sit-ups done in 60 seconds OR how long a plank was held; AND, record the number of either push-ups OR pull-ups done in 60 seconds. If you are unable to complete one of these exercises safely and correctly, work with your counselor to replace it with a different exercise that measures strength and endurance."
             }
           ],
           "resources": [
@@ -492,10 +492,6 @@
             {
               "title": "3-Day Food and Drink Log (fillable) (PDF)",
               "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/3-Day%20Food%20and%20Drink%20Log%20%28fillable%29.pdf"
-            },
-            {
-              "title": "3-Day Food and Drink Log (PDF)",
-              "url": "https://drive.google.com/file/d/16Q7rI65CQkP-QOhbnX7TD1HyGi3nX0XX/view?usp=drive_link%20"
             }
           ],
           "sub_requirements": []
@@ -672,20 +668,22 @@
       "label": "7",
       "content": [
         {
-          "type": "text",
-          "value": "Complete and keep a log, over 12 consecutive weeks, of the physical fitness and nutrition program you have outlined. (If your program is interrupted by illness or unavoidable conflicts for less than two weeks, you may resume where you left off, adding the missed days or weeks at the end)."
-        }
-      ],
-      "resources": [
-        {
-          "title": "Home Exercise Hacks (playlist)",
-          "url": "https://youtube.com/playlist?list=PLhh_lxc4bmz8TPeX-dOu-I2K3O2x3_weX&si=4issEYVe10iMDjtZ"
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Complete the Program."
+            }
+          ]
         },
         {
-          "title": "How to Make Your Own Exercise Equipment (video)",
-          "url": "https://youtu.be/IAmnLlwNloU"
+          "type": "text",
+          "value": " Do the following:"
         }
       ],
+      "resources": [],
       "sub_requirements": [
         {
           "id": "15176",

@@ -106,8 +106,19 @@
               },
               "children": [
                 {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Scout Life"
+                    }
+                  ]
+                },
+                {
                   "type": "text",
-                  "value": "Scout Life magazine"
+                  "value": " magazine"
                 }
               ]
             },

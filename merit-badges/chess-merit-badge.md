@@ -9,13 +9,13 @@ Chess is among the oldest board games in the world, and it ranks among the most 
 
 ## Requirements
 
-- (1) Do the following.
+- (1) Do the following:
   - (a) Discuss with your counselor the history of the game of chess.
   - (b) Research a famous chess player and what accomplishments made him or her famous. Discuss with your counselor.
 
 - (2) Discuss with your counselor the following:
   - (a) Why chess is considered a game of planning and strategy.
-  - (b) The benefits of playing chess, including developing critical thinking skills, concentration skills, and decision-making skills, and how these skills can help you in other areas of your life
+  - (b) The benefits of playing chess, including developing critical thinking skills, concentration skills, and decision-making skills, and how these skills can help you in other areas of your life.
   - (c) Sportsmanship and chess etiquette.
 
 - (3) Demonstrate to your counselor that you know each of the following. Then, using Scouting EDGE to teach someone who does not know how to play chess:

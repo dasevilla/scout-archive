@@ -19,7 +19,7 @@ Meteorology is the study of Earth’s atmosphere and its weather and the ways in
 
 - (3) Identify at least two sources of weather forecasts that can be used to prepare for hikes, overnight camping, and other outdoor activities. Name two sources of emergency weather warnings both at home and during outdoor Scout functions.
 
-- (4) Explain the difference between high and low pressure systems in the atmosphere. Tell which is related to good and to poor weather. Draw cross sections of a cold front and a warm front , showing the location and movements of the cold and warm air, the frontal slope, the location and types of clouds associated with each type of front, and the location of precipitation.
+- (4) Explain the difference between high and low pressure systems in the atmosphere. Tell which is related to good and to poor weather. Draw cross sections of a cold front and a warm front, showing the location and movements of the cold and warm air, the frontal slope, the location and types of clouds associated with each type of front, and the location of precipitation.
 
   **Resources:** [What Are Weather Fronts?  Warm Front, Cold Front? (video)](https://youtu.be/5Cnx5Bzctas?si=bJcnCUw3ysbD99rD), [Weather 101:  High Pressure vs. Low Pressure (video)](https://youtu.be/8mHEry8tSPM?si=_Rx2aPuB2UpvW9o1)
 

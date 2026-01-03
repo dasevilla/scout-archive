@@ -22,7 +22,7 @@ Multisport is a racing competition that includes any combination of running, bik
   - (a) Discuss with your counselor your level of familiarity and experience with the multisport events (swimming, biking, and running) and the order and distance of each sports segment.
   - (b) Explain to your counselor which multisport event (swimming, biking, or running) you feel is your strongest and which you could improve upon the most.
   - (c) Identify the required equipment for each of the three common multisport events (swimming, biking, and running).
-  - (d) Based on your interests, experience, and discussion with your counselor, select ONE of the following multisport formats to concentrate on for the remaining requirements: triathlon (swimming, biking, and running), duathlon (biking and running), aquathlon (swimming and running) and aquabike (swimming and biking).
+  - (d) Based on your interests, experience, and discussion with your counselor, select ONE of the following multisport formats to concentrate on for the remaining requirements: triathlon (swimming, biking, and running), duathlon (biking and running), aquathlon (swimming and running), or aquabike (swimming and biking).
 
 - (4) Complete ALL of the following for the multisport format option you selected in requirement 3(d):
   - **Option A—Triathlon.**

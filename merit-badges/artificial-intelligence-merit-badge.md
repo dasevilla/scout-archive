@@ -21,7 +21,7 @@ The Artificial Intelligence (AI) Merit Badge introduces Scouts to the fundamenta
   - (e) Create a timeline with five key milestones in the development of artificial intelligence.
 
 - (3) **Automation Basics.** Do the following and share what you learned with your counselor:
-  - (a) Identify 10 examples of how automation is currently used in everyday life.
+  - (a) Identify ten examples of how automation is currently used in everyday life.
   - (b) Identify five examples of how automation is currently used in the workplace.
   - (c) Identify five examples of how automation can be used at school or in support of your education.
   - (d) Explain how automation performs repetitive tasks without human intervention and how it reduces human error and optimizes resources.

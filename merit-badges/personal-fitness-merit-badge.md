@@ -55,7 +55,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
     **Resources:** [Tips for Getting Enough Sleep (video)](https://youtu.be/qWb5ggc_-rs?si=hdgaGxZwyiEnzftt)
   - (g) Discuss whether you spend quality time with your family and friends in social and recreational activities, and how you contribute to creating and maintaining a good home life.
 
-    **Resources:** [Spending Time With Family (video)](https://youtu.be/magzd25-g_o)
+    **Resources:** [Spending Time With Family (video)](https://youtu.be/d4_rFMo7lCo?si=OkbtRuJzRNoVysV1)
 
 - (4) **Measures of Physical Fitness.** Determine with your counselor the assessments of physical fitness and nutrition you will do before, during, and after completing the 12-week program in requirement 7.
 
@@ -64,7 +64,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
   - (a) Include a measure of cardiorespiratory (aerobic) fitness: Record the time required to complete a mile walk or run as fast as you can. If you are unable to walk or run as a result of a disability that is permanent or is expected to last for longer than two years, work with your counselor to define a test with a similar degree of aerobic challenge.
 
     **Resources:** [1-Mile Walk/Run - Compare Results (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/1-Mile%20Walk-Run%20-%20Compare%20Results.pdf)
-  - (b) Include two measures of muscular strength and endurance: Record either the number of sit-ups done in 60 seconds OR how long a plank was held; AND, record the number of either push-ups OR pull-ups done in 60 seconds. If you are unable to complete one these exercises safely and correctly, work with your counselor to replace it with a different exercise that measures strength and endurance.
+  - (b) Include two measures of muscular strength and endurance: Record either the number of sit-ups done in 60 seconds OR how long a plank was held; AND, record the number of either push-ups OR pull-ups done in 60 seconds. If you are unable to complete one of these exercises safely and correctly, work with your counselor to replace it with a different exercise that measures strength and endurance.
 
     **Resources:** [Sit-Up (video)](https://youtu.be/pCX65Mtc_Kk), [Plank (video)](https://youtu.be/yeKv5oX_6GY), [Pull-Up (video)](https://youtu.be/mohJShUxbdI), [Push-Up (video)](https://youtu.be/YopP5mCAMSI), [Muscular Strength - Compare Results (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/Muscular%20Strength%20-%20Compare%20Results.pdf)
   - (c) Include at least one measure of flexibility, such as a back-saver sit-and-reach test or a back scratch test.
@@ -76,7 +76,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
   - (b) Identify your weakest and strongest area of physical fitness, and choose an area to target for improvement.
   - (c) Keep a log of what you eat and drink for a period of three days.
 
-    **Resources:** [3-Day Food and Drink Log (fillable) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/3-Day%20Food%20and%20Drink%20Log%20%28fillable%29.pdf), [3-Day Food and Drink Log (PDF)](https://drive.google.com/file/d/16Q7rI65CQkP-QOhbnX7TD1HyGi3nX0XX/view?usp=drive_link%20)
+    **Resources:** [3-Day Food and Drink Log (fillable) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/3-Day%20Food%20and%20Drink%20Log%20%28fillable%29.pdf)
   - (d) Based on your diet log, identify at least two improvement goals related to diet and nutrition.
 
     **Resources:** [Food Groups and MyPlate (video)](https://youtu.be/L7QOUiQCb5E?si=aSUG980t0c5bQt0p)
@@ -98,10 +98,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
 
     **Resources:** [The MyPlate Quiz (website)](https://www.myplate.gov/form/myplate-quiz#question_1%20)
 
-- (7) Complete and keep a log, over 12 consecutive weeks, of the physical fitness and nutrition program you have outlined. (If your program is interrupted by illness or unavoidable conflicts for less than two weeks, you may resume where you left off, adding the missed days or weeks at the end).
-
-  **Resources:** [Home Exercise Hacks (playlist)](https://youtube.com/playlist?list=PLhh_lxc4bmz8TPeX-dOu-I2K3O2x3_weX&si=4issEYVe10iMDjtZ), [How to Make Your Own Exercise Equipment (video)](https://youtu.be/IAmnLlwNloU)
-
+- (7) **Complete the Program.** Do the following:
   - (a) Complete and keep a log, over 12 consecutive weeks, of the physical fitness and nutrition program you have outlined. (If your program is interrupted by illness or unavoidable conflicts for less than two weeks, you may resume where you left off, adding the missed days or weeks at the end).
 
     **Resources:** [Home Exercise Hacks (playlist)](https://youtube.com/playlist?list=PLhh_lxc4bmz8TPeX-dOu-I2K3O2x3_weX&si=4issEYVe10iMDjtZ), [How to Make Your Own Exercise Equipment (video)](https://youtu.be/IAmnLlwNloU)

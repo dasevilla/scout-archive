@@ -46,7 +46,7 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
 
 - (8) With the help of your parent or guardian, study an event that had a positive outcome on how society viewed a group of people and made them feel more welcome. Describe to your counselor the event and what you learned.
 
-- (9) Document and discuss with your counselor three or more areas in your life outside of Scouting where you feel you can actively provide stronger leadership in.
+- (9) Document and discuss with your counselor three or more areas in your life outside of Scouting where you feel you can actively provide stronger leadership in:
   - (a) Making others feel included.
   - (b) Practicing active listening.
   - (c) Creating an environment where others feel comfortable to share their ideas and perspectives.
@@ -58,8 +58,8 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
 - (11) Scouting strives to develop young people to be future leaders in their workplaces, schools, and community environments. As you look at your current involvement in school, your family, Scouting, your job, and/or community, think about how you can have a positive impact in diversity, equity, and inclusion.
   - (a) Describe your ideas on how you can and will support others with different identities to feel included and heard at your school, workplace, and/or social settings in your community.
   - (b) Explain how including diverse thoughts and opinions from others with different identities can: Make your interactions more positive. Help everyone benefit by considering different opinions.
-  - c Give three examples of how limiting diverse input can be harmful.
-  - d Give three examples of how considering diverse opinions can lead to innovation and success.
+  - (c) Give three examples of how limiting diverse input can be harmful.
+  - (d) Give three examples of how considering diverse opinions can lead to innovation and success.
 
 ## Resources
 

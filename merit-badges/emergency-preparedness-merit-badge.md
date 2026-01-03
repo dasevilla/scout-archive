@@ -93,7 +93,7 @@ Scouts are often called upon to help because they know first aid and they know a
     **Resources:** [Checklists Home Safety (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklists%20Home%20Safety%20%231%20%23%202.docx.pdf)
   - (b) Develop emergency prevention plans for five family activities outside the home, as approved by your counselor. (Examples are taking a picnic to a park, seeing a movie, attending a worship service, an outing at a beach, traveling to visit a relative, or attending a ball game or concert.) Each plan should include an analysis of possible hazards, proposals to prevent, protect from, mitigate, respond to, and recover from emergencies, and the reasons for the actions that you propose.
 
-    **Resources:** [Building an Emergency Kit (PDF)](https://www.youtube.com/watch?v=x2GkeNvgzG8)
+    **Resources:** [Building an Emergency Kit (video)](https://www.youtube.com/watch?v=x2GkeNvgzG8)
 
 - (4) **Dangerous Situations.** Show how you could save a person from the following dangerous situations without putting yourself in danger:
   - (a) Live household electric wire
@@ -110,9 +110,9 @@ Scouts are often called upon to help because they know first aid and they know a
     **Resources:** [Reach, Throw, Row, but Don't Go! (video)](https://youtu.be/WyOkVhEEFQI), [A Patrol Performs An Ice Rescue (video)](https://youtu.be/plTSz7in_Xk)
 
 - (5) **Signaling for Help.** Do the following:
-  - (a) Show ways to attract the attention of searchers on the ground if you are lost in the wilderness.
+  - (a) Show three ways of attracting and communicating with rescue aircraft or drones.
 
-    **Resources:** [Ways to Signal for Help in the Wilderness (video)](https://youtu.be/4BHi5lBYwro)
+    **Resources:** [Ground to Air Signals (video)](https://youtu.be/JgNVuxOMOF8)
   - (b) Show ways to attract the attention of searchers on the ground if you are lost in the wilderness.
 
     **Resources:** [Ways to Signal for Help in the Wilderness (video)](https://youtu.be/4BHi5lBYwro)

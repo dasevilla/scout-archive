@@ -21,7 +21,7 @@ Knowing about safety helps Scouts to make the right choices and to take the best
 
     **Resources:** [Home Safety Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklists%20Home%20Safety%20%231%20%23%202.docx.pdf)
   - (e) Develop a fire-escape plan for your home or for a similar building. Include in your drawings exit routes from each room and a meeting place outside. Conduct a fire-escape drill. Review your plan and your drill with your counselor.
-  - (f) Develop a family emergency action plan for evacuation because of weather or other natural disasters that occur in your area. Using a checklist in the Safety merit badge pamphlet or one approved by your counselor, assemble or inspect an emergency supplies kit. Explain to your counselor how a family would use the plan and the kit supplies in an emergency.
+  - (f) Develop a family emergency action plan for evacuation because of weather or other natural disasters that occur in your area. Using a checklist in the *Safety* merit badge pamphlet or one approved by your counselor, assemble or inspect an emergency supplies kit. Explain to your counselor how a family would use the plan and the kit supplies in an emergency.
 
 - (3) **Safety from Crime.** Do the following:
   - (a) Explain common types of crimes that can affect teens.

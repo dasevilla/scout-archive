@@ -42,11 +42,11 @@ The field of public health deals with maintaining and monitoring the health of c
 
 - (7) With your parent or guardian's and counselor's approval, do the following:
   - (a) Do ONE of the following
+  - (1) Visit your city, county, state or federal public health agency.
+  - (2) Familiarize yourself with your city, county, state, or a federal health agency's website.
   - (b) After completing either 7(a) do the following:
   - (1) Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death.
-  - (1) Visit your city, county, state or federal public health agency.
   - (2) Explain the role of your health agency as it relates to the outbreak of diseases.
-  - (2) Familiarize yourself with your city, county, state, or a federal health agency's website.
   - (3) Discuss the kinds of public assistance the agency is able to provide in case of disasters such as floods, storms, tornadoes, earthquakes, and other acts of destruction. Your discussion can include the cleanup necessary after the disaster.
 
 - (8) Pick a profession in the public health sector that interests you. Find out the education, training, and experience required to work in this profession. Discuss what you learn with your counselor.

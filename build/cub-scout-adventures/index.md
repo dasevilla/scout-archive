@@ -151,4 +151,4 @@ This is an unofficial archive of [Cub Scout Adventures](https://www.scouting.org
 1. [Summertime Fun AOL](arrow-of-light/summertime-fun-aol.md) - [Original](https://www.scouting.org/cub-scout-adventures/summertime-fun-aol/)
 1. [Swimming](arrow-of-light/swimming.md) - [Original](https://www.scouting.org/cub-scout-adventures/swimming/)
 
-Generated on 2025-12-31 by [Scout Archive](https://github.com/dasevilla/scout-archive)
+Generated on 2026-01-03 by [Scout Archive](https://github.com/dasevilla/scout-archive)

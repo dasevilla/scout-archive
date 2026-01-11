@@ -59,7 +59,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
 
 - (4) **Measures of Physical Fitness.** Determine with your counselor the assessments of physical fitness and nutrition you will do before, during, and after completing the 12-week program in requirement 7.
 
-  **Resources:** [Measures of Physical Fitness (fillable) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/1-Mile%20Walk-Run%20-%20Compare%20Results.pdf)
+  **Resources:** [Measures of Physical Fitness (fillable) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/measures_of_physical_fitness%20%28fillable%29.pdf)
 
   - (a) Include a measure of cardiorespiratory (aerobic) fitness: Record the time required to complete a mile walk or run as fast as you can. If you are unable to walk or run as a result of a disability that is permanent or is expected to last for longer than two years, work with your counselor to define a test with a similar degree of aerobic challenge.
 

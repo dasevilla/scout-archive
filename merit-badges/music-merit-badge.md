@@ -43,7 +43,7 @@ The history of music is rich and exciting. Through the ages, new music has been 
 ## Resources
 
 - [Music merit badge page](https://www.scouting.org/merit-badges/music/)
-- [Music merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf) ([local copy](files/music-merit-badge.pdf))
+- [Music merit badge PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf) ([local copy](files/bugling-merit-badge.pdf))
 - [Music merit badge pamphlet](https://www.scoutshop.org/music-and-bugling-merit-badge-pamphlet-650736.html)
 - [Music merit badge workbook PDF](http://usscouts.org/mb/worksheets/Music.pdf)
 - [Music merit badge workbook DOCX](http://usscouts.org/mb/worksheets/Music.docx)

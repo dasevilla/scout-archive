@@ -19,7 +19,7 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
   - (c) Explain how breakers are formed.
   - (d) Explain what a rip current is, how to avoid them, and what to do if you are caught in one.
 
-- (4) Draw a cross-section of underwater topography. Show what is meant by:
+- (4) Draw a cross-section of underwater topography. Name and put on your drawing the following: seamount, guyot, rift valley, canyon, trench, and oceanic ridge. Compare the depths in the oceans with the heights of mountains on land. Show what is meant by:
   - (a) Continental shelf
   - (b) Continental slope
   - (c) Abyssal plain.

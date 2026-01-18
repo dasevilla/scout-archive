@@ -34,8 +34,6 @@ Welding is the process of joining with a weld – joining or combining similar p
 
 - (4) Name the different mechanical and thermal cutting methods. Choose one method and describe how to use the process. Discuss one advantage and one limitation of this process.
 
-  **Resources:** [How to Cut Steel 5 Different Ways (video)](https://youtu.be/7rCVyRpkyuo?si=vxgtJDrQppVfCSEy)
-
 - (5) Do the following:
   - (a) Select two welding processes, and make a list of the different components of the equipment required for each process. Discuss one advantage and one limitation for each process.
 

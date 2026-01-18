@@ -33,7 +33,7 @@ Demonstrate how a magic trick works to your den, family or Tiger adult partner.
 **Activities:**
 
 - **[Magic Show](https://www.scouting.org/cub-scout-activities/magic-show/)** (Indoor, energy 2, supplies 2, prep 1)
-  Using the magic trick learned in requirement 2, conduct a magic show.
+  Using the magic trick learned in requirement 1, conduct a magic show.
 
 ### Requirement 3
 

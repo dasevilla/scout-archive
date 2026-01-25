@@ -1,6 +1,5 @@
 # Bobcat Tiger Tiger Adventure
 
-![Bobcat Tiger Tiger adventure belt loop](images/bobcat-tiger.jpg)
 
 - **Adventure name:** Bobcat Tiger
 - **Rank:** Tiger

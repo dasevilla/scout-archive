@@ -45,7 +45,7 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
     **Resources:** [Understanding a Drinking Water Quality Report (video)](https://www.youtube.com/watch?v=Wtc0Se2vz1A), [Drinking Water Treatment (video)](https://www.youtube.com/watch?v=0_ZcCqqpS2o), [Waste Water Treatment (video)](https://www.youtube.com/watch?v=FvPakzqM3h8)
   - (b) Identify a local or regional area that experiences periodic flooding and/or drought. Collect facts on prior event(s) and investigate the environmental impacts of these extreme events.
 
-    **Resources:** [How to Use FEMA's Flood Search Tool (video)](https://youtu.be/Drvf9jVyRbs?si=czY2_HE1__ZHYhp7), [Watersheds! (video)](https://youtu.be/2pwW2rlGIa8?si=WyJsK2axpl1AdPkd), [Flash Flood at Philmont (video)](https://youtu.be/lj5yI5qq8eE?si=l2Z9hHFOyutlGuzN&t=6), [US Drought Map (video)](https://youtu.be/h6GuK1xaKao?si=lYrq3bRq0YcO9ZLh)
+    **Resources:** [How to Use FEMA's Flood Search Tool (video)](https://youtu.be/Drvf9jVyRbs?si=czY2_HE1__ZHYhp7), [Watersheds! (video)](https://youtu.be/2pwW2rlGIa8?si=WyJsK2axpl1AdPkd), [US Drought Map (video)](https://youtu.be/h6GuK1xaKao?si=lYrq3bRq0YcO9ZLh)
   - (c) Learn about the Clean Water Act. Make notes on when it was passed, its environmental goals, what progress has been made and what remains to be done to achieve the law's goals. Describe the impact, benefits, and costs of the law as well as what is required to implement and enforce the law.
 
     **Resources:** [Clean Water Act (video)](https://www.youtube.com/watch?v=OYMf9zJikVU), [Clean Water Act & the Chesapeake Bay (video)](https://www.youtube.com/watch?v=pWdw2812U9g)

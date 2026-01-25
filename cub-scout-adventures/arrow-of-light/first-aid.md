@@ -1,6 +1,5 @@
 # First Aid Arrow of Light Adventure
 
-![First Aid Arrow of Light adventure belt loop](images/first-aid.jpg)
 
 - **Adventure name:** First Aid
 - **Rank:** Arrow of Light

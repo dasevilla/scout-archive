@@ -1,6 +1,5 @@
 # Into the Wild Arrow of Light Adventure
 
-![Into the Wild Arrow of Light adventure belt loop](images/into-the-wild.jpg)
 
 - **Adventure name:** Into the Wild
 - **Rank:** Arrow of Light

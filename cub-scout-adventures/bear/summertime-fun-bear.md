@@ -1,6 +1,5 @@
 # Summertime Fun Bear Bear Adventure
 
-![Summertime Fun Bear Bear adventure belt loop](images/summertime-fun-bear.jpg)
 
 - **Adventure name:** Summertime Fun Bear
 - **Rank:** Bear

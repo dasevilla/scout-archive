@@ -1,6 +1,5 @@
 # A Bear Goes Fishing Bear Adventure
 
-![A Bear Goes Fishing Bear adventure belt loop](images/a-bear-goes-fishing.jpg)
 
 - **Adventure name:** A Bear Goes Fishing
 - **Rank:** Bear

@@ -1,6 +1,5 @@
 # Summertime Fun AOL Arrow of Light Adventure
 
-![Summertime Fun AOL Arrow of Light adventure belt loop](images/summertime-fun-aol.jpg)
 
 - **Adventure name:** Summertime Fun AOL
 - **Rank:** Arrow of Light

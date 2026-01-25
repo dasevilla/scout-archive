@@ -1,6 +1,5 @@
 # Curiosity, Intrigue, and Magical Mysteries Tiger Adventure
 
-![Curiosity, Intrigue, and Magical Mysteries Tiger adventure belt loop](images/curiosity-intrigue-and-magical-mysteries.jpg)
 
 - **Adventure name:** Curiosity, Intrigue, and Magical Mysteries
 - **Rank:** Tiger

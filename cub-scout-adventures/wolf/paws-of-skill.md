@@ -1,6 +1,5 @@
 # Paws of Skill Wolf Adventure
 
-![Paws of Skill Wolf adventure belt loop](images/paws-of-skill.jpg)
 
 - **Adventure name:** Paws of Skill
 - **Rank:** Wolf

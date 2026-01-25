@@ -1,6 +1,5 @@
 # Baloo the Builder Bear Adventure
 
-![Baloo the Builder Bear adventure belt loop](images/baloo-the-builder.jpg)
 
 - **Adventure name:** Baloo the Builder
 - **Rank:** Bear

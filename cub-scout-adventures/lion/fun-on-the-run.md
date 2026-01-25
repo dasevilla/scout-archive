@@ -1,6 +1,5 @@
 # Fun on the Run Lion Adventure
 
-![Fun on the Run Lion adventure belt loop](images/fun-on-the-run.jpg)
 
 - **Adventure name:** Fun on the Run
 - **Rank:** Lion

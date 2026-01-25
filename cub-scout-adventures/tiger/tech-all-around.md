@@ -1,6 +1,5 @@
 # Tech All Around Tiger Adventure
 
-![Tech All Around Tiger adventure belt loop](images/tech-all-around.jpg)
 
 - **Adventure name:** Tech All Around
 - **Rank:** Tiger

@@ -1,6 +1,5 @@
 # Summertime Fun Tiger Tiger Adventure
 
-![Summertime Fun Tiger Tiger adventure belt loop](images/summertime-fun-tiger.jpg)
 
 - **Adventure name:** Summertime Fun Tiger
 - **Rank:** Tiger

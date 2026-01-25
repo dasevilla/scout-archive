@@ -1,6 +1,5 @@
 # Tech on the Trail Webelos Adventure
 
-![Tech on the Trail Webelos adventure belt loop](images/tech-on-the-trail.jpg)
 
 - **Adventure name:** Tech on the Trail
 - **Rank:** Webelos

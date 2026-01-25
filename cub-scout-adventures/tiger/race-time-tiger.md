@@ -1,6 +1,5 @@
 # Race Time Tiger Tiger Adventure
 
-![Race Time Tiger Tiger adventure belt loop](images/race-time-tiger.jpg)
 
 - **Adventure name:** Race Time Tiger
 - **Rank:** Tiger

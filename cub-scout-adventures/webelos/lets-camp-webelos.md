@@ -1,6 +1,5 @@
 # Let’s Camp Webelos Webelos Adventure
 
-![Let’s Camp Webelos Webelos adventure belt loop](images/lets-camp-webelos.jpg)
 
 - **Adventure name:** Let’s Camp Webelos
 - **Rank:** Webelos

@@ -1,6 +1,5 @@
 # Finding Your Way Wolf Adventure
 
-![Finding Your Way Wolf adventure belt loop](images/finding-your-way.jpg)
 
 - **Adventure name:** Finding Your Way
 - **Rank:** Wolf

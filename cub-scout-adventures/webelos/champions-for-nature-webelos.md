@@ -1,6 +1,5 @@
 # Champions for Nature Webelos Webelos Adventure
 
-![Champions for Nature Webelos Webelos adventure belt loop](images/champions-for-nature-webelos.jpg)
 
 - **Adventure name:** Champions for Nature Webelos
 - **Rank:** Webelos

@@ -1,6 +1,5 @@
 # Adventures in Coins Wolf Adventure
 
-![Adventures in Coins Wolf adventure belt loop](images/adventures-in-coins.jpg)
 
 - **Adventure name:** Adventures in Coins
 - **Rank:** Wolf

@@ -1,6 +1,5 @@
 # Summertime Fun Wolf Wolf Adventure
 
-![Summertime Fun Wolf Wolf adventure belt loop](images/summertime-fun-wolf.jpg)
 
 - **Adventure name:** Summertime Fun Wolf
 - **Rank:** Wolf

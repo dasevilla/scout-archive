@@ -1,6 +1,5 @@
 # Safe and Smart Tiger Adventure
 
-![Safe and Smart Tiger adventure belt loop](images/safe-and-smart.jpg)
 
 - **Adventure name:** Safe and Smart
 - **Rank:** Tiger

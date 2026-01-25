@@ -1,6 +1,5 @@
 # Fellowship Bear Adventure
 
-![Fellowship Bear adventure belt loop](images/fellowship.jpg)
 
 - **Adventure name:** Fellowship
 - **Rank:** Bear

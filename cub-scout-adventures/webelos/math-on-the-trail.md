@@ -1,6 +1,5 @@
 # Math on the Trail Webelos Adventure
 
-![Math on the Trail Webelos adventure belt loop](images/math-on-the-trail.jpg)
 
 - **Adventure name:** Math on the Trail
 - **Rank:** Webelos

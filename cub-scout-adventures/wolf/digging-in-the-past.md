@@ -1,6 +1,5 @@
 # Digging in the Past Wolf Adventure
 
-![Digging in the Past Wolf adventure belt loop](images/digging-in-the-past.jpg)
 
 - **Adventure name:** Digging in the Past
 - **Rank:** Wolf

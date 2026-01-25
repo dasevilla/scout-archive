@@ -1,6 +1,5 @@
 # Tigers in the Water Tiger Adventure
 
-![Tigers in the Water Tiger adventure belt loop](images/tigers-in-the-water.jpg)
 
 - **Adventure name:** Tigers in the Water
 - **Rank:** Tiger

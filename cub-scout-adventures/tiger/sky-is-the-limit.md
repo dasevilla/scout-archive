@@ -1,6 +1,5 @@
 # Sky is the Limit Tiger Adventure
 
-![Sky is the Limit Tiger adventure belt loop](images/sky-is-the-limit.jpg)
 
 - **Adventure name:** Sky is the Limit
 - **Rank:** Tiger

@@ -1,6 +1,5 @@
 # Time to Swim Lion Adventure
 
-![Time to Swim Lion adventure belt loop](images/time-to-swim.jpg)
 
 - **Adventure name:** Time to Swim
 - **Rank:** Lion

@@ -1,6 +1,5 @@
 # Bobcat Bear Bear Adventure
 
-![Bobcat Bear Bear adventure belt loop](images/bobcat-bear.jpg)
 
 - **Adventure name:** Bobcat Bear
 - **Rank:** Bear

@@ -1,6 +1,5 @@
 # Mountain Lion Lion Adventure
 
-![Mountain Lion Lion adventure belt loop](images/mountain-lion.jpg)
 
 - **Adventure name:** Mountain Lion
 - **Rank:** Lion

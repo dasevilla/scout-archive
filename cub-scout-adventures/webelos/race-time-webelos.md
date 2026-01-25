@@ -1,6 +1,5 @@
 # Race Time Webelos Webelos Adventure
 
-![Race Time Webelos Webelos adventure belt loop](images/race-time-webelos.jpg)
 
 - **Adventure name:** Race Time Webelos
 - **Rank:** Webelos

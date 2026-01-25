@@ -1,6 +1,5 @@
 # Tiger Circles Tiger Adventure
 
-![Tiger Circles Tiger adventure belt loop](images/tiger-circles.jpg)
 
 - **Adventure name:** Tiger Circles
 - **Rank:** Tiger

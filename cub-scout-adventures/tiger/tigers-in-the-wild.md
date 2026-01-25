@@ -1,6 +1,5 @@
 # Tigers in the Wild Tiger Adventure
 
-![Tigers in the Wild Tiger adventure belt loop](images/tigers-in-the-wild.jpg)
 
 - **Adventure name:** Tigers in the Wild
 - **Rank:** Tiger

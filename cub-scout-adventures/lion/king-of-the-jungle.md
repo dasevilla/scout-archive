@@ -1,6 +1,5 @@
 # King of the Jungle Lion Adventure
 
-![King of the Jungle Lion adventure belt loop](images/king-of-the-jungle.jpg)
 
 - **Adventure name:** King of the Jungle
 - **Rank:** Lion

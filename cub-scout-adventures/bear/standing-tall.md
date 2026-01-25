@@ -1,6 +1,5 @@
 # Standing Tall Bear Adventure
 
-![Standing Tall Bear adventure belt loop](images/standing-tall.jpg)
 
 - **Adventure name:** Standing Tall
 - **Rank:** Bear

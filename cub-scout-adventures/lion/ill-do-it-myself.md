@@ -1,6 +1,5 @@
 # I’ll Do It Myself Lion Adventure
 
-![I’ll Do It Myself Lion adventure belt loop](images/ill-do-it-myself.jpg)
 
 - **Adventure name:** I’ll Do It Myself
 - **Rank:** Lion

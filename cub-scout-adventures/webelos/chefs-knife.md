@@ -1,6 +1,5 @@
 # Chef’s Knife Webelos Adventure
 
-![Chef’s Knife Webelos adventure belt loop](images/chefs-knife.jpg)
 
 - **Adventure name:** Chef’s Knife
 - **Rank:** Webelos

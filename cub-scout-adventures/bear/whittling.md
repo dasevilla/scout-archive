@@ -1,6 +1,5 @@
 # Whittling Bear Adventure
 
-![Whittling Bear adventure belt loop](images/whittling.jpg)
 
 - **Adventure name:** Whittling
 - **Rank:** Bear

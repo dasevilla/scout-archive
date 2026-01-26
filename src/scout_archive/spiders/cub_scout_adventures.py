@@ -140,11 +140,20 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         # Get adventure image URL
         image_url = ""
 
-        # Strategy 1: Look for the featured image in the Elementor config (Most reliable)
+        # Strategy 0: Prefer og/twitter meta images (most reliable)
+        meta_image_url = response.css("meta[property='og:image']::attr(content)").get()
+        if not meta_image_url:
+            meta_image_url = response.css(
+                "meta[name='twitter:image']::attr(content)"
+            ).get()
+        if meta_image_url:
+            image_url = meta_image_url
+
+        # Strategy 1: Look for the featured image in the Elementor config (fallback)
         script_content = response.xpath(
             "//script[contains(text(), 'elementorFrontendConfig')]/text()"
         ).get()
-        if script_content:
+        if script_content and not image_url:
             try:
                 # Extract the JSON object from the script content
                 # Format is: var elementorFrontendConfig = {...};
@@ -160,26 +169,13 @@ class CubScoutAdventuresSpider(scrapy.Spider):
                     f"Failed to parse elementorFrontendConfig for {response.url}"
                 )
 
-        # Strategy 2: Look for the main image in the elementor widget (Fallback)
+        # Strategy 2: Look for a loop/pin image in the page markup
         if not image_url:
-            # The structure usually has a div with class elementor-widget-image
-            # We try to avoid the logo by checking for specific classes or position if possible,
-            # but for now we just take the first one that isn't the logo if we can distinguish.
-            # Since the logo is also an elementor-widget-image, we might need to be careful.
-            # However, usually the featured image is unique in some way.
-            # Let's try to find an image that is NOT the logo.
-            images = response.css("div.elementor-widget-image img")
-            for img in images:
-                src = img.attrib.get("data-src") or img.attrib.get("src")
-                if src and "scouting-america-logo" not in src:
+            image_sources = response.css("img::attr(data-src), img::attr(src)").getall()
+            for src in image_sources:
+                if src and re.search(r"loops|pins", src):
                     image_url = src
                     break
-
-            # If we still haven't found one, just take the first one as a last resort
-            if not image_url and images:
-                image_url = images[0].attrib.get("data-src") or images[0].attrib.get(
-                    "src"
-                )
 
         item["adventure_image_url"] = image_url
         item["image_urls"] = [image_url] if image_url else []

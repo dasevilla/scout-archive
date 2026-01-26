@@ -140,13 +140,13 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         # Get adventure image URL
         image_url = ""
 
-        # Strategy 0: Prefer og/twitter meta images (most reliable, avoids page logo swap)
+        # Strategy 0: Prefer og/twitter meta images (most reliable)
         meta_image_url = response.css("meta[property='og:image']::attr(content)").get()
         if not meta_image_url:
             meta_image_url = response.css(
                 "meta[name='twitter:image']::attr(content)"
             ).get()
-        if meta_image_url and not self._is_logo_image(meta_image_url):
+        if meta_image_url:
             image_url = meta_image_url
 
         # Strategy 1: Look for the featured image in the Elementor config (fallback)
@@ -164,8 +164,6 @@ class CubScoutAdventuresSpider(scrapy.Spider):
                 )
                 config = json.loads(json_str)
                 image_url = config.get("post", {}).get("featuredImage")
-                if image_url and self._is_logo_image(image_url):
-                    image_url = ""
             except (IndexError, json.JSONDecodeError, AttributeError):
                 self.logger.warning(
                     f"Failed to parse elementorFrontendConfig for {response.url}"
@@ -175,19 +173,7 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         if not image_url:
             image_sources = response.css("img::attr(data-src), img::attr(src)").getall()
             for src in image_sources:
-                if (
-                    src
-                    and not self._is_logo_image(src)
-                    and re.search(r"loops|pins", src)
-                ):
-                    image_url = src
-                    break
-
-        # Strategy 3: Fallback to any non-logo image
-        if not image_url:
-            image_sources = response.css("img::attr(data-src), img::attr(src)").getall()
-            for src in image_sources:
-                if src and not self._is_logo_image(src):
+                if src and re.search(r"loops|pins", src):
                     image_url = src
                     break
 
@@ -215,16 +201,6 @@ class CubScoutAdventuresSpider(scrapy.Spider):
             )
 
         yield item
-
-    def _is_logo_image(self, url: str) -> bool:
-        if not url:
-            return False
-        logo_markers = [
-            "scouting-america-250",
-            "scouting-america-logo",
-            "scoutingamerica-logo",
-        ]
-        return any(marker in url for marker in logo_markers)
 
     def extract_activities_for_requirement(self, response, req_section):
         """Extract activities for a specific requirement section."""

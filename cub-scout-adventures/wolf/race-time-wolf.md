@@ -1,5 +1,6 @@
 # Race Time Wolf Wolf Adventure
 
+![Race Time Wolf Wolf adventure belt loop](images/race-time-wolf.jpg)
 
 - **Adventure name:** Race Time Wolf
 - **Rank:** Wolf

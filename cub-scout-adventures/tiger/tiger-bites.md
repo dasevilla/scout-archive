@@ -1,5 +1,6 @@
 # Tiger Bites Tiger Adventure
 
+![Tiger Bites Tiger adventure belt loop](images/tiger-bites.jpg)
 
 - **Adventure name:** Tiger Bites
 - **Rank:** Tiger

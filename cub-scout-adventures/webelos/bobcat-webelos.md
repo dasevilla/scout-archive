@@ -1,5 +1,6 @@
 # Bobcat Webelos Webelos Adventure
 
+![Bobcat Webelos Webelos adventure belt loop](images/bobcat-webelos.jpg)
 
 - **Adventure name:** Bobcat Webelos
 - **Rank:** Webelos

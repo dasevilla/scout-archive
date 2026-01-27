@@ -1,5 +1,6 @@
 # My Safety Webelos Adventure
 
+![My Safety Webelos adventure belt loop](images/my-safety.jpg)
 
 - **Adventure name:** My Safety
 - **Rank:** Webelos

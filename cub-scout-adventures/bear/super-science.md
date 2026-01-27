@@ -1,5 +1,6 @@
 # Super Science Bear Adventure
 
+![Super Science Bear adventure belt loop](images/super-science.jpg)
 
 - **Adventure name:** Super Science
 - **Rank:** Bear

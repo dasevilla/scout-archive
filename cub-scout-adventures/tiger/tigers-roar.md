@@ -1,5 +1,6 @@
 # Tiger’s Roar Tiger Adventure
 
+![Tiger’s Roar Tiger adventure belt loop](images/tigers-roar.jpg)
 
 - **Adventure name:** Tiger’s Roar
 - **Rank:** Tiger

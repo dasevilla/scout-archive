@@ -1,5 +1,6 @@
 # High Tech Outdoors Arrow of Light Adventure
 
+![High Tech Outdoors Arrow of Light adventure belt loop](images/high-tech-outdoors.jpg)
 
 - **Adventure name:** High Tech Outdoors
 - **Rank:** Arrow of Light

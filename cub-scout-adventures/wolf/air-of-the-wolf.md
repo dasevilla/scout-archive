@@ -1,5 +1,6 @@
 # Air of the Wolf Wolf Adventure
 
+![Air of the Wolf Wolf adventure belt loop](images/air-of-the-wolf.jpg)
 
 - **Adventure name:** Air of the Wolf
 - **Rank:** Wolf

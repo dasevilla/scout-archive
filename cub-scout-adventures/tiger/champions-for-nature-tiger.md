@@ -1,5 +1,6 @@
 # Champions for Nature Tiger Tiger Adventure
 
+![Champions for Nature Tiger Tiger adventure belt loop](images/champions-for-nature-tiger.jpg)
 
 - **Adventure name:** Champions for Nature Tiger
 - **Rank:** Tiger

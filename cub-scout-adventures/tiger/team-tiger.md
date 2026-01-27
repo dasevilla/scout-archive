@@ -1,5 +1,6 @@
 # Team Tiger Tiger Adventure
 
+![Team Tiger Tiger adventure belt loop](images/team-tiger.jpg)
 
 - **Adventure name:** Team Tiger
 - **Rank:** Tiger

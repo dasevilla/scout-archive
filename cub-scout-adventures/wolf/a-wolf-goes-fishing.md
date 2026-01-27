@@ -1,5 +1,6 @@
 # A Wolf Goes Fishing Wolf Adventure
 
+![A Wolf Goes Fishing Wolf adventure belt loop](images/a-wolf-goes-fishing.jpg)
 
 - **Adventure name:** A Wolf Goes Fishing
 - **Rank:** Wolf

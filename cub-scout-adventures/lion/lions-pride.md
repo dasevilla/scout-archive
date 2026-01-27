@@ -1,5 +1,6 @@
 # Lion’s Pride Lion Adventure
 
+![Lion’s Pride Lion adventure belt loop](images/lions-pride.jpg)
 
 - **Adventure name:** Lion’s Pride
 - **Rank:** Lion

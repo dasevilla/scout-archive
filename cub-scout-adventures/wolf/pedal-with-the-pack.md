@@ -1,5 +1,6 @@
 # Pedal With the Pack Wolf Adventure
 
+![Pedal With the Pack Wolf adventure belt loop](images/pedal-with-the-pack.jpg)
 
 - **Adventure name:** Pedal With the Pack
 - **Rank:** Wolf

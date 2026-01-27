@@ -1,5 +1,6 @@
 # Everyday Tech Lion Adventure
 
+![Everyday Tech Lion adventure belt loop](images/everyday-tech.jpg)
 
 - **Adventure name:** Everyday Tech
 - **Rank:** Lion

@@ -1,5 +1,6 @@
 # Champions for Nature Wolf Wolf Adventure
 
+![Champions for Nature Wolf Wolf adventure belt loop](images/champions-for-nature-wolf.jpg)
 
 - **Adventure name:** Champions for Nature Wolf
 - **Rank:** Wolf

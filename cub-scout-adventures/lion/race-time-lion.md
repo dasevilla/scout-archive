@@ -1,5 +1,6 @@
 # Race Time Lion Lion Adventure
 
+![Race Time Lion Lion adventure belt loop](images/race-time-lion.jpg)
 
 - **Adventure name:** Race Time Lion
 - **Rank:** Lion

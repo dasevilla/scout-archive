@@ -1,5 +1,6 @@
 # Bobcat Lion Lion Adventure
 
+![Bobcat Lion Lion adventure belt loop](images/bobcat-lion.jpg)
 
 - **Adventure name:** Bobcat Lion
 - **Rank:** Lion

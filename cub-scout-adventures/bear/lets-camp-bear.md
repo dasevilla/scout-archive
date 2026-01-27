@@ -1,5 +1,6 @@
 # Let’s Camp Bear Bear Adventure
 
+![Let’s Camp Bear Bear adventure belt loop](images/lets-camp-bear.jpg)
 
 - **Adventure name:** Let’s Camp Bear
 - **Rank:** Bear

@@ -1,5 +1,6 @@
 # Tiger Tag Tiger Adventure
 
+![Tiger Tag Tiger adventure belt loop](images/tiger-tag.jpg)
 
 - **Adventure name:** Tiger Tag
 - **Rank:** Tiger

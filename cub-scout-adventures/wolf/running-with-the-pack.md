@@ -1,5 +1,6 @@
 # Running With the Pack Wolf Adventure
 
+![Running With the Pack Wolf adventure belt loop](images/running-with-the-pack.jpg)
 
 - **Adventure name:** Running With the Pack
 - **Rank:** Wolf

@@ -1,5 +1,6 @@
 # Council Fire Wolf Adventure
 
+![Council Fire Wolf adventure belt loop](images/council-fire.jpg)
 
 - **Adventure name:** Council Fire
 - **Rank:** Wolf

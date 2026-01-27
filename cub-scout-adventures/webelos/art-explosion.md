@@ -1,5 +1,6 @@
 # Art Explosion Webelos Adventure
 
+![Art Explosion Webelos adventure belt loop](images/art-explosion.jpg)
 
 - **Adventure name:** Art Explosion
 - **Rank:** Webelos

@@ -1,5 +1,6 @@
 # Bears on Bikes Bear Adventure
 
+![Bears on Bikes Bear adventure belt loop](images/bears-on-bikes.jpg)
 
 - **Adventure name:** Bears on Bikes
 - **Rank:** Bear

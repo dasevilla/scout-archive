@@ -1,5 +1,6 @@
 # Marble Madness Bear Adventure
 
+![Marble Madness Bear adventure belt loop](images/marble-madness.jpg)
 
 - **Adventure name:** Marble Madness
 - **Rank:** Bear

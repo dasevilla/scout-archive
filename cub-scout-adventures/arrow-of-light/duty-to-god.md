@@ -1,5 +1,6 @@
 # Duty to God Arrow of Light Adventure
 
+![Duty to God Arrow of Light adventure belt loop](images/duty-to-god.jpg)
 
 - **Adventure name:** Duty to God
 - **Rank:** Arrow of Light

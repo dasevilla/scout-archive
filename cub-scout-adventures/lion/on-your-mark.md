@@ -1,5 +1,6 @@
 # On Your Mark Lion Adventure
 
+![On Your Mark Lion adventure belt loop](images/on-your-mark.jpg)
 
 - **Adventure name:** On Your Mark
 - **Rank:** Lion

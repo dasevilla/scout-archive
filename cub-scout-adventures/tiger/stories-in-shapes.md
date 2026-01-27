@@ -1,5 +1,6 @@
 # Stories in Shapes Tiger Adventure
 
+![Stories in Shapes Tiger adventure belt loop](images/stories-in-shapes.jpg)
 
 - **Adventure name:** Stories in Shapes
 - **Rank:** Tiger

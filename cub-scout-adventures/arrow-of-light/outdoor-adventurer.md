@@ -1,5 +1,6 @@
 # Outdoor Adventurer Arrow of Light Adventure
 
+![Outdoor Adventurer Arrow of Light adventure belt loop](images/outdoor-adventurer.jpg)
 
 - **Adventure name:** Outdoor Adventurer
 - **Rank:** Arrow of Light

@@ -1,5 +1,6 @@
 # Bear Strong Bear Adventure
 
+![Bear Strong Bear adventure belt loop](images/bear-strong.jpg)
 
 - **Adventure name:** Bear Strong
 - **Rank:** Bear

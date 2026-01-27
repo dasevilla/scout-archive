@@ -120,13 +120,50 @@ browser_evaluate(() => {
 - Solution: Run `make dirs` first, then `make archive`
 
 **Problem: Scrapy command not found**
+
 - Solution: Always use `uv run` prefix: `uv run python -m scrapy`
 
 **Problem: Pre-commit hooks fail**
+
 - Solution: Run `make check` to fix all formatting/linting issues
 
 **Problem: uv.lock out of date**
+
 - Solution: Run `uv lock` to update lock file
+
+### GitHub Actions Build Failure Investigation
+
+**List recent runs for the workflow**
+```bash
+gh run list -w archive.yml -L 5 --json databaseId,conclusion,createdAt,event,status,url,displayTitle | jq -r '.[] | {id: .databaseId, conclusion, status, event, createdAt, url, displayTitle}'
+```
+
+**Inspect the failed run (fast path)**
+```bash
+gh run view <RUN_ID> --log-failed
+```
+
+**If you need full logs**
+```bash
+gh run view <RUN_ID> --log | rg -n "error|failed|exception|traceback|validation|requirements|http|timeout|blocked"
+```
+
+**Identify the failure class**
+
+- Validation errors: look for “Only 0 requirements found” or missing URLs.
+- Crawl failures: look for HTTP 4xx/5xx, timeouts, or blocked/robot text.
+
+**Reproduce locally (single badge)**
+```bash
+make archive-merit-badges-url URL="https://www.scouting.org/merit-badges/<slug>/"
+```
+Then inspect `run-test.log` and `build/merit-badges/<slug>-merit-badge.json`.
+
+**Interpretation**
+
+- Local success, CI failure → likely temporary site response.
+- Local failure → likely parsing change; verify selectors with browser tools.
+
 
 ## Project Architecture
 

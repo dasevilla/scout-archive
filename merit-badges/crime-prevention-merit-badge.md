@@ -5,7 +5,7 @@
 
 
 
-Preventing crime, which can be as simple as reducing the opportuntities for crime to occur, is far less costly than apprehending and bringing legal action against those who break the law and it helps save people from the anguish of being victims.
+Preventing crime, which can be as simple as reducing the opportunities for crime to occur, is far less costly than apprehending and bringing legal action against those who break the law and it helps save people from the anguish of being victims.
 
 ## Requirements
 

@@ -5,7 +5,7 @@
 
 
 
-In working through the Forestry merit badge requirements, Scouts will explore the remarkable complexity of a forest and identify many species of trees and plants and the roles they play in a forest’s life cycle.They will also discover some of the resources forests provide to humans and come to understand that people have a very large part to play in sustaining the health of forests.
+In working through the Forestry merit badge requirements, Scouts will explore the remarkable complexity of a forest and identify many species of trees and plants and the roles they play in a forest’s life cycle. They will also discover some of the resources forests provide to humans and come to understand that people have a very large part to play in sustaining the health of forests.
 
 ## Requirements
 

@@ -22,9 +22,30 @@
           "children": [
             {
               "type": "text",
-              "value": "NOTE: The required hikes for this badge may be used in fulfilling hiking requirements for rank advancement. However, these hikes cannot be used to fulfill requirements of other merit badges."
+              "value": "NOTE:"
             }
           ]
+        },
+        {
+          "type": "text",
+          "value": " Check out the Digital Resource Guide for the Hiking merit badge "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/hiking/"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!"
         }
       ],
       "resources": [],
@@ -240,7 +261,7 @@
           "content": [
             {
               "type": "text",
-              "value": "20-mile hike."
+              "value": "20-mile hike"
             }
           ],
           "resources": [],

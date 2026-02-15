@@ -114,8 +114,10 @@ Comprehend how electronic devices work and how to use them effectively with the 
 - (9) Do ONE of the following:
   - (a) Explore careers related to the *Digital Technology* merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
-    **Resources:** [Digital Technology Careers (video)](https://career.albany.edu/videos/digital-technology/)
+    **Resources:** [Digital Technology Careers (video)](https://career.albany.edu/videos/digital-technology/), [The NBA Data Scientist (video)](https://youtu.be/MpLHMKTolVw?si=cR5j7TBulSoOGupx)
   - (b) Explore how you could use knowledge and skills from the *Digital Technology* merit badge to pursue a hobby or interest. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.
+
+    **Resources:** [Tech Hobbies: The Best Technology Hobbies You Need to Try (video)](https://youtu.be/bDHWybulLw8?si=ZB7SYh4y5cinPyc4), [20 Computer Hobbies That Will Entertain You for Long (website)](https://insideofhappiness.com/20-computer-hobbies-that-will-entertain-you-for-long/)
 
 ## Resources
 

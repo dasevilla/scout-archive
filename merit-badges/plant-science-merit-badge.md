@@ -185,7 +185,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 
     **Resources:** [Environmental Factors Affecting Plant Growth  (website)](https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth)
   - (c) Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad.
-  - (2) Select a study site that is at least 100 by 100 feet. Make a list of 10 woody plants (trees and shrubs) and 10 non-woody plants in the study site. Find out which of these are native plants and which are exotic (or nonnative).
+  - (2) Select a study site that is at least 100 by 100 feet. Make a list of 10 woody plants (trees and shrubs) and 10 non-woody plants in the study site. Find out which of these are native plants and which are exotic (or non-native).
 
     **Resources:** [Native Plants vs Exotic Plants | Which Are More Beneficial to the Ecosystem (video)](https://youtu.be/Af80dnhp2QY)
   - (3) Tell how an identification key works and use a simple key to identify 10 kinds of plants (in addition to those in general requirement 5 above). Tell the difference between common and scientific names and tell why scientific names are important.
@@ -222,6 +222,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 
     **Resources:** [Tree Identification | Ask the Arborist (video)](https://youtu.be/7M4PUM_eIIQ)
   - (c) Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot.
+    **Note:** If individual plants like ferns, grasses and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot.
   - (d) **Herbarium Visit**
   - (1) Write ahead and arrange to visit an herbarium at a university, park, or botanical garden; OR, visit an herbarium website (with your parent or guardian's permission).
 
@@ -236,7 +237,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
   - (e) **Plant Conservation Organization Visit**
   - (1) Write ahead and arrange to visit a private conservation organization or government agency that is concerned with protecting rare plants and natural areas.
   - (2) Tell about the activities of the organization in studying and protecting rare plants and natural areas.
-  - (3) If possible, visit a nature preserve managed by the organization. Tell about land management practices such as controlled burning, or measures to eradicate invasive (nonnative) plants or other threats to the plants that are native to the area.
+  - (3) If possible, visit a nature preserve managed by the organization. Tell about land management practices such as controlled burning, or measures to eradicate invasive (non-native) plants or other threats to the plants that are native to the area.
 
 - (9) Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code as they relate to plant science. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code while in natural areas during field observation, specimen collection, and identification.
 

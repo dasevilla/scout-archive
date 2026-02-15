@@ -21,7 +21,7 @@ Exploring your roots—where your family name came from, why your family lives w
     **Resources:** [What Are Family Group Sheets and Pedigree Charts? (video)](https://www.youtube.com/watch?v=mLJhNZk-BGg)
 
 - (2) Do ONE of the following:
-  - (a) Create a time line for yourself or for a relative. Then write a short biography based on that time line.
+  - (a) Create a timeline for yourself or for a relative. Then write a short biography based on that time line.
 
     **Resources:** [All About Timelines (video)](https://www.youtube.com/watch?v=_hKMBqEUE1w&t=95s)
   - (b) Keep a journal for six weeks. You must write in it at least once a week.
@@ -55,10 +55,10 @@ Exploring your roots—where your family name came from, why your family lives w
   - (c) A surname organization, such as your family's organization
 
     **Resources:** [Facebook Surname Groups (video)](https://www.youtube.com/watch?v=fv9vpbktRhs)
-  - (d) A genealogical educational facility or institution.
+  - (d) A genealogical educational facility or institution
 
     **Resources:** [Getting Started With the Genealogy Center (video)](https://www.youtube.com/watch?v=Umga_tVIME8)
-  - (e) A genealogical record repository of any type (courthouse, genealogical library, state or national archive, state library, etc.).
+  - (e) A genealogical record repository of any type (courthouse, genealogical library, state or national archive, state library, etc.)
 
     **Resources:** [Where to Find Records for Family History Research (video)](https://www.youtube.com/watch?v=9HH-dtvTSOw)
 

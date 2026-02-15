@@ -34,7 +34,7 @@ Camping is one of the best-known methods of the Scouting movement. When he found
   - (b) GPS receiver
 
     **Resources:** [Using a GPS with a Map and Compass (video)](https://youtu.be/mK3pOU_x4jQ?si=PftrLmk-58ruiEZj)
-  - (c) Smartphone with a GPS app.
+  - (c) Smartphone with a GPS app
 
     **Resources:** [How to Use a Smartphone as a GPS (website)](https://www.cleverhiker.com/backpacking/how-to-use-your-phone-as-a-gps-device-for-backpacking/)
 
@@ -46,13 +46,13 @@ Camping is one of the best-known methods of the Scouting movement. When he found
   - (a) Prepare a list of clothing you would need for overnight campouts in both warm and cold weather. Explain the term "layering."
 
     **Resources:** [Cold Weather Gear (website)](https://scoutlife.org/outdoors/outdoorarticles/6981/checklist-for-a-basic-cold-weather-outing/), [Warm Weather Gear (website)](https://scoutlife.org/outdoors/outdoorarticles/6992/checklist-for-a-basic-warm-weather-outing/)
-  - (b) ..Discuss footwear for different kinds of weather and how the right footwear is important for protecting your feet.
+  - (b) Discuss footwear for different kinds of weather and how the right footwear is important for protecting your feet.
 
     **Resources:** [The ONE Tip You Need to Choose Between Hiking Boots, Shoes, and Trail Runners (video)](https://youtu.be/liJtac-GvZw?si=ToQQv90HyVEIqwe_)
   - (c) Explain the proper care and storage of camping equipment (clothing, footwear, bedding).
 
     **Resources:** [How to Clean and Store Camping Gear (website)](https://www.rei.com/learn/expert-advice/end-of-summer-gear-care.html)
-  - (d) List the outdoor essentials necessary for any campout, and explain why each item is needed.
+  - (d) List the Scout Basic Essentials necessary for any campout, and explain why each item is needed.
 
     **Resources:** [10 Essentials for Scout Camping (website)](https://scoutingmagazine.org/2013/02/the-10-essentials/), [The 10 Scout Basic Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/)
   - (e) Present yourself to your Scoutmaster with your pack for inspection. Be correctly clothed and equipped for an overnight campout.
@@ -88,7 +88,7 @@ Camping is one of the best-known methods of the Scouting movement. When he found
   - (2) Using a liquid fuel stove
 
     **Resources:** [How to Use a Liquid Fuel Stove (video)](https://youtu.be/2XRqdVIqimY?si=Wj7JsttaHkIADW9a)
-  - (3) Proper storage of extra fuel.
+  - (3) Proper storage of extra fuel
   - (b) Discuss the advantages and disadvantages of different types of lightweight cooking stoves.
 
     **Resources:** [Canister vs Liquid Fuel Stoves (video)](https://youtu.be/FCDURxu2L3Y?si=MB1dADsvm80GqDW9)

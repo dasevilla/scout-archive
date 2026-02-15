@@ -27,7 +27,7 @@ For several centuries, the canoe was a primary method of travel for explorers an
 - (5) Do the following:
   - (a) Review with your counselor the characteristics of life jackets most appropriate for canoeing and tell why a life jacket must always be worn while paddling.
   - (b) Demonstrate how to select and properly fit the correct size life jacket.
-  - (c) Review the importance of safety and rescue equipment such as a sound signal device, extra paddle, sponge, bailer, bilge pump, rescue sling, ropes, throw bag.
+  - (c) Review the importance of safety and rescue equipment such as a sound signal device, extra paddle, sponge, bailer, bilge pump, rescue sling, ropes, and throw bag.
 
 - (6) Review with your counselor the general care and maintenance of canoes, paddles, and other canoeing equipment.
 

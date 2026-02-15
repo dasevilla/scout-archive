@@ -17,7 +17,7 @@ Discover the why and how we explore space. Learn about current and historic spac
   - (c) Benefits related to Earth resources, technology, and new products
 
     **Resources:** [How Space Benefits Earth (video)](https://youtube.com/shorts/i3D4pCq_lyg?si=S_3HJWJ9TrvcHvry), [Space Exploration, Is It Really Worth It? Yes. (video)](https://youtube.com/shorts/jPuqA136SfA?si=EgcAXSXcMBJmVLw4), [10 Surprising Ways Space Exploration Benefits Life on Earth (video)](https://youtube.com/shorts/_2uSv1C-FDw?si=JCFVs8xAXqeJvozN)
-  - (d) International relations and cooperation.
+  - (d) International relations and cooperation
 
     **Resources:** [What Role Does International Cooperation Play in Space Exploration? (video)](https://youtu.be/TS27Br2-XgY?si=W1CeXgcrzOZ-Trgm)
 
@@ -37,7 +37,7 @@ Discover the why and how we explore space. Learn about current and historic spac
   - (f) Nose cone
   - (g) Payload
   - (h) Recovery system
-  - (i) Rocket engine.
+  - (i) Rocket engine
 
 - (4) Discuss and demonstrate each of the following:
 
@@ -52,7 +52,7 @@ Discover the why and how we explore space. Learn about current and historic spac
   - (c) How satellites stay in orbit
 
     **Resources:** [How Do Satellites Get & Stay in Orbit? (video)](https://youtu.be/IC1JQu9xGHQ?si=qcvDJm44-la-3nsI), [How Satellites Orbit (video)](https://youtu.be/5PCY0rTllPg?si=gNhEm9nAfygodC3Q)
-  - (d) How satellite pictures of Earth and pictures of other planets are made and transmitted.
+  - (d) How satellite pictures of Earth and pictures of other planets are made and transmitted
 
 - (5) Do TWO of the following:
   - (a) Discuss with your counselor a robotic space exploration mission and a historic crewed mission. Tell about each mission's major discoveries, its importance, and what was learned from it about the planets, moons, or regions of space explored.
@@ -65,7 +65,7 @@ Discover the why and how we explore space. Learn about current and historic spac
   - (a) Space shuttle or any other crewed orbital vehicle, whether government-owned (U.S. or foreign) or commercial
 
     **Resources:** [First Space Shuttle (video)](https://youtu.be/9zu6gReRV98), [How the Space Shuttle Worked (video)](https://www.youtube.com/watch?v=w4FCkbPykdQ), [NASA SpaceX Crew Dragon Launch (video)](https://youtu.be/1gmvUPTdoP4), [Soyuz (video)](https://youtu.be/_v7YgDum2Sg)
-  - (b) International Space Station.
+  - (b) International Space Station
 
     **Resources:** [What is the International Space Station? (website)](https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-international-space-station-grades-5-8/), [How to Spot the International Space Station (ISS) (website)](https://www.nasa.gov/spot-the-station/)
 
@@ -82,7 +82,7 @@ Discover the why and how we explore space. Learn about current and historic spac
   - (c) Life-support system
 
     **Resources:** [Robots Building a Mars Base (video)](https://youtu.be/2tr6rJrv8hs?si=dm1LYgNqLCH7smpr)
-  - (d) Purpose and function.
+  - (d) Purpose and function
 
     **Resources:** [How Robots Will Build on Mars (video)](https://youtu.be/ZbOg_cC1_Eo)
 

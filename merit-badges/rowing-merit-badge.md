@@ -38,7 +38,7 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
 - (8) Describe the following:
   - (a) Types of craft used in commercial, competitive, and recreational rowing
   - (b) Four common boatbuilding materials. Give some positive and negative points of each
-  - (c) Types of oarlocks used in competitive and recreational rowing.
+  - (c) Types of oarlocks used in competitive and recreational rowing
 
 - (9) Discuss the following:
   - (a) The advantage of feathering oars while rowing

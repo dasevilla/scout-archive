@@ -20,7 +20,7 @@ Basketry is a handy skill for a Scout. A basket can be a sturdy companion on cam
 - (3) Plan and weave the following projects:
   - (a) Square basket
   - (b) Round basket
-  - (c) Campstool seat.
+  - (c) Campstool seat
 
 ## Resources
 

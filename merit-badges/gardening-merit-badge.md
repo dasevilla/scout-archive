@@ -32,7 +32,7 @@ Humans have been growing plants for thousands of years. Farmers and horticulturi
   - (b) Three vegetables that bear above the ground
 
     **Resources:** [Lettuce (video)](https://youtu.be/kzX-0rUbkOo?si=9hpUmjCR-dFy9sTi), [Tomatoes (video)](https://youtu.be/niTBMlWtW5w?si=gksvt0kr-ZljJtEh), [Cucumbers (video)](https://youtu.be/MVXr7HEMQMU?si=2fpKBoE4NAxMTNdx)
-  - (c) Three fruits.
+  - (c) Three fruits
 
     **Resources:** [Grapes (video)](https://youtu.be/NLS15CrmEYU?si=6Sl4-RSS8dd2d0BS), [Apples (video)](https://youtu.be/0yEPKXlYQqQ?si=MLy5YBr_XZ34hQEN), [Oranges (video)](https://youtu.be/DkxhGscNC18?si=iny8kROTvx7-PKkq&t=1)
 

@@ -37,7 +37,7 @@ Scouts are often called upon to help because they know first aid and they know a
     **Resources:** [How to Survive A Car Stranding in Winter (video)](https://youtu.be/QU-VXl7eqcg)
   - (8) Backcountry injury
 
-    **Resources:** [Backpacking First Aid (What To Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)](https://youtu.be/nxExCQiWa_U?si=oF8Tjni8vOmZT6hH%20)
+    **Resources:** [Patient Assessment (video)](https://youtu.be/hXQAmx2AYIk?si=BAUtTIDcUUVTWFu2), [Review of Traumatic Injuries with Wilderness First Aid (video)](https://youtu.be/QK8rf9Q9zKQ?si=bDXzfaKi9A-gom9v)
   - (9) Boating or water accident
 
     **Resources:** [Preventing and Managing Boating Accidents (website)](https://www.boat-ed.com/indiana/studyGuide/If-You-Capsize-Swamp-or-Fall-Overboard/10101602_35419/)
@@ -74,7 +74,7 @@ Scouts are often called upon to help because they know first aid and they know a
   - (20) Tornado
 
     **Resources:** [How to Survive a Tornado (video)](https://youtu.be/donE6SxyHXw?si=cHfxJ0HuR3lLgw9S)
-  - (21) Lightning storm.
+  - (21) Lightning storm
 
     **Resources:** [What Happens When You Are Struck by Lightning (video)](https://youtu.be/T3BT-cnHjik), [Backcountry Lightning Safety (website)](https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/)
 
@@ -85,12 +85,12 @@ Scouts are often called upon to help because they know first aid and they know a
   - (b) Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor.
   - (c) Using a checklist in the *Emergency Preparedness* merit badge pamphlet or one approved by your counselor, prepare or inspect a family disaster kit for sheltering-in-place and for evacuation of your home. Review the needs and uses of the items in a kit with your counselor.
 
-    **Resources:** [Checklist for Sheltering in Place (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Sheltering%20in%20Place.pdf), [Checklist for Evacuation (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Evacuation.pdf), [Build a Kit (website)](https://www.ready.gov/kit)
+    **Resources:** [Checklist for Sheltering in Place (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Family%20Emergency%20Sheltering%20in%20Place%20Checklist%2001%202026.pdf), [Checklist for Evacuation (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Evacuation.pdf), [Build a Kit (website)](https://www.ready.gov/kit)
 
 - (3) **Preventing Accidents and Emergencies.** Do ONE of the following:
   - (a) Using a home safety checklist included in the *Emergency Preparedness* merit badge pamphlet or one approved by your counselor, inspect a home (or a similar building near where you live or at a camp) for safety hazards with the help of an adult. Present your completed checklist to and discuss your findings with your counselor.
 
-    **Resources:** [Checklists Home Safety (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklists%20Home%20Safety%20%231%20%23%202.docx.pdf)
+    **Resources:** [Checklists Home Safety (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Home%20Safety%20Checklists%20%231%20%23%202%2001%202026.pdf)
   - (b) Develop emergency prevention plans for five family activities outside the home, as approved by your counselor. (Examples are taking a picnic to a park, seeing a movie, attending a worship service, an outing at a beach, traveling to visit a relative, or attending a ball game or concert.) Each plan should include an analysis of possible hazards, proposals to prevent, protect from, mitigate, respond to, and recover from emergencies, and the reasons for the actions that you propose.
 
     **Resources:** [Building an Emergency Kit (video)](https://www.youtube.com/watch?v=x2GkeNvgzG8)
@@ -105,7 +105,7 @@ Scouts are often called upon to help because they know first aid and they know a
   - (c) Clothes on fire
 
     **Resources:** [Stop. Drop. Roll. Get Low and Go (video)](https://youtu.be/stNSH-wy5nI)
-  - (d) Drowning, using nonswimming rescues (including accidents on ice).
+  - (d) Drowning, using nonswimming rescues (including accidents on ice)
 
     **Resources:** [Reach, Throw, Row, but Don't Go! (video)](https://youtu.be/WyOkVhEEFQI), [A Patrol Performs An Ice Rescue (video)](https://youtu.be/plTSz7in_Xk)
 
@@ -144,7 +144,7 @@ Scouts are often called upon to help because they know first aid and they know a
   - (3) Collection and distribution services
 
     **Resources:** [Food Bank (video)](https://youtu.be/zz6sEdM6y_4)
-  - (4) Group feeding, shelter, and sanitation.
+  - (4) Group feeding, shelter, and sanitation
 
     **Resources:** [Feeding LA Wildfire Evacuees (video)](https://www.youtube.com/shorts/9zWTauGVX6w)
   - (b) Prepare a written plan for mobilizing your troop when needed to do emergency service. If your troop already has a mobilization plan, present the plan to your counselor and tell your part in making the plan work.

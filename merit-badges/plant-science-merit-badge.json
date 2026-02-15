@@ -1432,7 +1432,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Select a study site that is at least 100 by 100 feet. Make a list of 10 woody plants (trees and shrubs) and 10 non-woody plants in the study site. Find out which of these are native plants and which are exotic (or nonnative)."
+              "value": "Select a study site that is at least 100 by 100 feet. Make a list of 10 woody plants (trees and shrubs) and 10 non-woody plants in the study site. Find out which of these are native plants and which are exotic (or non-native)."
             }
           ],
           "resources": [
@@ -1760,7 +1760,28 @@
           "content": [
             {
               "type": "text",
-              "value": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot."
+              "value": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " If individual plants like ferns, grasses and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot."
             }
           ],
           "resources": [],
@@ -1897,7 +1918,7 @@
           "content": [
             {
               "type": "text",
-              "value": "If possible, visit a nature preserve managed by the organization. Tell about land management practices such as controlled burning, or measures to eradicate invasive (nonnative) plants or other threats to the plants that are native to the area."
+              "value": "If possible, visit a nature preserve managed by the organization. Tell about land management practices such as controlled burning, or measures to eradicate invasive (non-native) plants or other threats to the plants that are native to the area."
             }
           ],
           "resources": [],

@@ -15,7 +15,7 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
     **Resources:** [Personal Safety Awareness "Digital Safety" (video)](https://www.scouting.org/training/youth-protection/scouts-bsa/)
   - (b) Explain to your counselor how to protect your digital footprint, such as while using social media, mobile device apps, and online gaming. Show how to set privacy settings to protect your personal information, including photos of yourself or your location.
 
-    **Resources:** [Protecting Your Digital Footprint - Keys to Cybersecurity (website)](https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity), [Big Data Privacy, Security, & Liability Issues: CompTIA's Future of Tech (website)](https://www.futureoftech.org/big-data/5-privacy-security-liability/)
+    **Resources:** [Protecting Your Digital Footprint - Keys to Cybersecurity (website)](https://cyber.org/find-curricula/key-5)
   - (c) Discuss first aid and prevention for potential injuries, such as eye strain, repetitive injuries, and handling electronics devices, that could occur during repeated use. Discuss how to keep yourself physically safe while using a mobile device (for example while walking or biking).
 
     **Resources:** [How to Avoid Strained Eyes From Staring at Digital Screens (video)](https://youtu.be/Vgrqa189Jy0), [Doctors Share How to Prevent Smartphone Related Injuries Like "Text Neck" and "Smartphone Pinky." (video)](https://youtu.be/FDpmRs0L_a8?si=PB1kWqGRScAO8mML), [Computer Ergonomics (website)](https://www.kidsplus.com/parent-resources/doctors-notes/computer-ergonomics/)
@@ -26,12 +26,12 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
     **Resources:** [Code of Ethics (website)](https://www.eccouncil.org/code-of-ethics/), [The Ten Commandments of Computer Ethics (website)](http://cpsr.org/issues/ethics/cei/)
   - (b) Discuss with your counselor examples of ethical and unethical behavior in cyberspace. Include how to act responsibly when you encounter situations such as: coming across an unattended or unlocked computer or mobile device; observing someone type their password or seeing it written down near a computer; or discovering a website that is not properly secured. Explain why these situations require good judgement, and how the Scout Law and personal values should guide your actions.
 
-    **Resources:** [Ethical Issues in Cybersecurity: CompTIA's Future of Tech (website)](https://www.futureoftech.org/cybersecurity/4-ethical-issues-in-cybersecurity/), [Understanding Cybersecurity Ethics: Navigating Privacy and Security Challenges (website)](https://onlinelaw.csuohio.edu/understanding-cybersecurity-ethics-and-navigating-moral-complexities/)
+    **Resources:** [Understanding Cybersecurity Ethics: Navigating Privacy and Security Challenges (website)](https://onlinelaw.csuohio.edu/understanding-cybersecurity-ethics-and-navigating-moral-complexities/)
 
 - (3) **Fundamentals.** Do the following and discuss each with your counselor:
   - (a) Describe three types of computer systems that need protecting and explain why.
 
-    **Resources:** [Cybersecurity Explained | Future of Tech (video)](https://youtu.be/n_kKEimNhgY), [What Is Cybersecurity? Why Do We Need Cybersecurity? (website)](https://www.futureoftech.org/cybersecurity/1-what-is-cybersecurity/#section-1), [The Impact of Cybersecurity (website)](https://www.futureoftech.org/cybersecurity/5-impact-of-cybersecurity/), [Cybersecurity in Critical Infrastructure: Protecting Power Grids and Smart Grids (website)](https://www.cyberdefensemagazine.com/cybersecurity-in-critical-infrastructure-protecting-power-grids-and-smart-grids/)
+    **Resources:** [Cybersecurity Explained | Future of Tech (video)](https://youtu.be/n_kKEimNhgY), [Cybersecurity In Critical Infrastructure: Protecting Power Grids and Smart Grids - Cyber Defense Magazine (website)](https://www.cyberdefensemagazine.com/cybersecurity-in-critical-infrastructure-protecting-power-grids-and-smart-grids/)
   - (b) Explain the "C.I.A. Triad"—Confidentiality, Integrity, and Availability—and why these three principles are fundamental to cybersecurity.
 
     **Resources:** [What Is the CIA Triad (IBM Technology) (video)](https://youtu.be/kPPFNrlN3zo), [What Is the CIA Triad? | Coursera (website)](https://www.coursera.org/articles/cia-triad)
@@ -61,7 +61,7 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
 - (5) **Cyber Defenses.** Do the following:
   - (a) Describe three technologies that are used to defend a computer or network, such as access controls, antivirus software, firewall, intrusion detection/prevention systems, and Virtual Private Network.
 
-    **Resources:** [Cybersecurity: Crash Course Computer Science #31 (video)](https://youtu.be/bPVaOlJ6ln0), [Understanding Firewalls for Home and Small Office Use | CISA (website)](https://www.cisa.gov/news-events/news/understanding-firewalls-home-and-small-office-use), [Technologies in Cybersecurity: CompTIA's Future of Tech (website)](https://www.futureoftech.org/cybersecurity/3-technologies-in-cybersecurity/)
+    **Resources:** [How Not To Get Hacked: Install Updates (Code.org) (video)](https://youtu.be/goMnkhKBOHY), [Update Software | CISA (website)](https://www.cisa.gov/secure-our-world/update-software)
   - (b) **Installing updates.** Do the following:
   - (1) Explain to your counselor the importance of installing the latest updates on your computer, why they are needed, and what kinds of problems they can prevent.
 
@@ -127,13 +127,13 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
     **Resources:** [CyberPatriot: National Youth Cyber Defense Competition (website)](https://www.uscyberpatriot.org/), [picoCTF - CMU Cybersecurity Competition (website)](https://picoctf.org/), [AFA CyberCamps (website)](https://www.uscyberpatriot.org/afa-cybercamps/overview), [U.S. Cyber Camp (website)](https://www.rocketcenter.com/SpaceCamp), [National Cyber League (website)](https://nationalcyberleague.org/)
   - (b) Participate in a cybersecurity competition with members of your troop, school, or some other group approved by your counselor. Either design your own competition or use an existing platform.
 
-    **Resources:** [Cyber Challenge: Online Cybersecurity Game | Cybermission (website)](https://www.cybermission.tech/game), [NCF Cybersecurity Computer Gaming Series (website)](https://cryptologicfoundation.org/students/games/cybersecurity-computer-gaming.html), [Cyber Threat Defender · The UTSA CIAS (website)](https://cias.utsa.edu/ctd/), [K-12 Cybersecurity Games · The UTSA CIAS (website)](https://cias.utsa.edu/k-12/cybersecurity-games/), [picoCTF - CMU Cybersecurity Competition (website)](https://picoctf.org/)
+    **Resources:** [Cyber Challenge: Online Cybersecurity Game | Cybermission (website)](https://www.cybermission.tech/game), [Cyber Threat Defender - The UTSA CIAS (website)](https://cias.utsa.edu/ctd/), [K-12 Cybersecurity Games - The UTSA CIAS (website)](https://cias.utsa.edu/k-12/cybersecurity-games/), [picoCTF - CMU Cybersecurity Competition (website)](https://picoctf.org/)
   - (c) Give a presentation to your patrol, troop, or another group approved by your counselor, on a cybersecurity topic of your choice. Your presentation must include at least one demonstration and/or hands-on activity.
 
 - (9) **Careers.** Do ONE of the following:
   - (a) Identify three career opportunities that would use skills and knowledge in cybersecurity. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-    **Resources:** [Career Exploration Cards | Cyber.org (PDF)](https://cyber.org/sites/default/files/2025-04/), [Degrees & Certifications | Cyber.org (website)](https://cyber.org/career-exploration/degrees-certifications), [Information Security and Forensics Analyst | What I Do (video)](https://youtu.be/f_69UzSfBsA?si=yaS27J2ojq32wcj1), [Careers in Cybersecurity: CompTIA's Future of Tech (website)](https://www.futureoftech.org/cybersecurity/6-careers-in-cybersecurity/), [Military Cybersecurity Careers & Training | Cybermission (website)](https://www.cybermission.tech/careers-and-training), [NCF Panel Discussion about Cybersecurity Careers | #CyberChats (podcast)](https://cryptologicfoundation.org/students/cyberchats/archive.html/article/2022/02/16/careers-in-cybersecurity-an-ncf-panel-discussion)
+    **Resources:** [Career Exploration Cards | Cyber.org (PDF)](https://www.cybermission.tech/game), [Degrees & Certifications | Cyber.org (website)](https://cyber.org/career-exploration/degrees-certifications), [Information Security and Forensics Analyst | What I Do (video)](https://youtu.be/f_69UzSfBsA?si=yaS27J2ojq32wcj1)
   - (b) Visit a business or organization that does work in cybersecurity. Find out about different work roles, what they do, and how they acquired their knowledge through college degrees or certifications. Share what you learned with your counselor.
 
 ## Resources

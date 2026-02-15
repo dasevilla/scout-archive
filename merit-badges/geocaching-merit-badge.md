@@ -17,7 +17,7 @@ The word geocache is a combination of “geo,” which means “earth,” and �
 - (2) Discuss the following with your counselor:
   - (a) Why you should never bury a cache
   - (b) How to use proper geocaching etiquette when hiding or seeking a cache, and how to properly hide, post, maintain, and dismantle a geocache
-  - (c) The Leave No Trace Seven Principles and the Outdoor Code as they apply to geocaching.
+  - (c) The Leave No Trace Seven Principles and the Outdoor Code as they apply to geocaching
 
 - (3) Explain the following terms used in geocaching: waypoint, log, cache, accuracy, difficulty and terrain ratings, attributes, and trackable. Choose five additional terms to explain to your counselor.
 

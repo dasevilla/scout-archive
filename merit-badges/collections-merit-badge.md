@@ -9,7 +9,7 @@ Discover how collecting can be an educational and financially rewarding pastime 
 
 ## Requirements
 
-- **NOTE Stamp and coin collecting are excluded from eligibility for this merit badge.**
+- **NOTE: Stamp and coin collecting are excluded from eligibility for this merit badge. Scouts must remember to follow the Leave No Trace Seven Principles and the Outdoor Code while on field trips and when collecting specimens. Make sure you have permission of the land manager prior to taking any samples for your collection. Collecting is prohibited in most National and State Parks. Pictures or sketches may suffice for a collection and limit impacted disturbances.**
 
 - (1) Prepare a short written report or outline for your counselor, giving a detailed description of your collection, including a short history, why you enjoy your collection, and what you have learned from collecting. Be sure to include why you chose that particular type of collection/collecting method.
 
@@ -24,7 +24,7 @@ Discover how collecting can be an educational and financially rewarding pastime 
 - (4) Demonstrate your knowledge of collecting and investing. Discuss with your counselor:
   - (a) How investing and speculation would apply to your collection
   - (b) What you would look for in purchasing other collections similar to yours
-  - (c) What you would expect in return value if you decided to sell all or part of the collection.
+  - (c) What you would expect in return value if you decided to sell all or part of the collection
 
 - (5) Do the following:
   - (a) Discuss with your counselor at least 10 terms commonly used to describe your collection and be prepared to discuss the definition of each.

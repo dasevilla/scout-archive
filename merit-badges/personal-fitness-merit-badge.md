@@ -94,7 +94,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
 
     **Resources:** [Flexibility Exercises (video)](https://youtu.be/0L3W0pcHU50?si=QKYN3iLraH8Dg7xS)
   - (e) Cool-down: low-intensity movement or gentle stretching to prevent muscle cramps and enhance the benefits of exercise
-  - (f) A plan for achieving your two improvement goals related to diet and nutrition.
+  - (f) A plan for achieving your two improvement goals related to diet and nutrition
 
     **Resources:** [The MyPlate Quiz (website)](https://www.myplate.gov/form/myplate-quiz#question_1%20)
 

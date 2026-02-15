@@ -18,7 +18,7 @@ From the mattock and hoe to the horse and mule, the cotton gin and reaper, the t
 - (2) Explain how power is produced or transferred in a:
   - (a) Diesel engine
   - (b) Hydraulic system
-  - (c) Transmission or any other power system.
+  - (c) Transmission or any other power system
 
 - (3) Do TWO of the following:
   - (a) Replace the handle of any tool found on the farm.

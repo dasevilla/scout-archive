@@ -9,7 +9,7 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
 
 ## Requirements
 
-- **Note: Scouts must not use venomous reptiles in fulfilling requirement 8(a). When you decide that keeping your specimen is no longer possible or desired, be sure to find another appropriate home for it or return it to the wild at the location of capture. Check with your counselor for those instances where the return of these specimens would not be appropriate.    Under the Endangered Species Act of 1973, some plants and animals are, or may be, protected by federal law. The same ones and/or others may be protected by state law. Be sure that you do not collect protected species.   Your state may require that you purchase and carry a license to collect certain species. Check with the wildlife and fish and game officials in your state regarding species regulations before you begin to collect.**
+- **NOTE: Scouts must remember to follow the Leave No Trace Seven Principles and the Outdoor Code while on field trips and when collecting specimens. Make sure you have permission of the land manager prior to taking any samples for your collections. Collecting is prohibited in most National and State Parks.  Scouts must not use venomous reptiles in fulfilling requirement 8(a). When you decide that keeping your specimen is no longer possible or desired, be sure to find another appropriate home for it or return it to the wild at the location of capture. Check with your counselor for those instances where the return of these specimens would not be appropriate.   Under the Endangered Species Act of 1973, some plants and animals are, or may be, protected by federal law. The same ones and/or others may be protected by state law. Be sure that you do not collect protected species.   Your state may require that you purchase and carry a license to collect certain species. Check with the wildlife and fish and game officials in your state regarding species regulations before you begin to collect.**
 
 - (1) Describe the identifying characteristics of six species of reptiles and four species of amphibians found in the United States. For any four of these, make sketches from your own observations or take photographs. Show markings, color patterns, or other characteristics that are important in the identification of each of the four species. Discuss the habits and habitats of all 10 species.
 
@@ -29,7 +29,7 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
   - (c) Toads and frogs
 
     **Resources:** [Differences Between Frogs & Toads (video)](https://www.youtube.com/watch?v=O7QaL3xehRw), [What Is the Difference Between Frogs and Toads? (video)](https://www.youtube.com/watch?v=mM59TQOPDYQ), [Frogs and Toads: What's the Difference? (video)](https://www.youtube.com/watch?v=IF0EWfbevrM)
-  - (d) Snakes and lizards.
+  - (d) Snakes and lizards
 
     **Resources:** [How Are Snakes Different From Lizards? (video)](https://youtu.be/MMFcutNSKZk?si=u6Ux_2x9TxmepTJp)
 
@@ -70,7 +70,7 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
 
 - (10) Tell five superstitions or false beliefs about reptiles and amphibians and give a correct explanation for each. Give seven examples of unusual behavior or other true facts about reptiles and amphibians.
 
-  **Resources:** [Debunking Common Reptile and Amphibian Myths & Misconceptions (video)](https://www.youtube.com/watch?v=Nz6VQSlr9mI), [Busting 15 Crazy Reptile Myths in 15 Minutes (video)](https://www.youtube.com/watch?v=i7FR8h4Ky44)
+  **Resources:** [Debunking Common Reptile and Amphibian Myths & Misconceptions (video)](https://www.youtube.com/watch?v=Nz6VQSlr9mI)
 
 ## Resources
 

@@ -9,7 +9,7 @@ Successfully completing this badge’s requirements can lead to a lifetime of pe
 
 ## Requirements
 
-- **Note: A parent, guardian, or the counselor may supervise the Scout's work on any Home Repairs requirements.**
+- **NOTE: A parent, guardian, or the counselor may supervise the Scout's work on any Home Repairs requirements.**
 
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while working on home repairs and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working on home repairs.

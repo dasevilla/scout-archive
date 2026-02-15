@@ -9,7 +9,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 ## Requirements
 
-- **A Note About Prohibited Activities    The Scouting America's *Guide to Safe Scouting* states under "Prohibited Activities" that flying in aircraft as part of a search and rescue mission is a prohibited activity for youth members. For complete information, see Scouting America's [*Guide to Safe Scouting.*](https://www.scouting.org/health-and-safety/gss/)**
+- **NOTE: Prohibited Activities  The Scouting America's *Guide to Safe Scouting* states under "Prohibited Activities" that flying in aircraft as part of a search and rescue mission is a prohibited activity for youth members. For complete information, see Scouting America's [*Guide to Safe Scouting.*](https://www.scouting.org/health-and-safety/gss/)**
 
 - (1) **Hazards and First Aid.** Do the following:
   - (a) Show or explain first aid for, and prevention of, injuries and conditions that searchers and subjects could develop during an SAR situation, including:
@@ -25,8 +25,8 @@ A search is an emergency situation requiring a team of trained searchers to loca
   - (10) Bites of spiders
   - (11) Sting of a scorpion
   - (12) Bite of a wild mammal
-  - (13) Bite of a venomous snake.
-  - (b) Explain how the Scout Essentials address hazards outdoors and help lost Scouts stay safe before they are rescued.
+  - (13) Bite of a venomous snake
+  - (b) Explain how the Scout Basic Essentials address hazards outdoors and help lost Scouts stay safe before they are rescued.
   - (c) Discuss how the safety gear carried by SAR team members in their field packs address SAR hazards.
 
 - (2) **Staying and Getting Found.** Do the following:
@@ -68,12 +68,12 @@ A search is an emergency situation requiring a team of trained searchers to loca
   - (9) Locating a subject using attraction
   - (10) Hasty search
   - (11) Trail sweep search
-  - (12) Grid search.
+  - (12) Grid search
 
 - (7) **Plan and Complete a Search.** Do the following with a team of Scouts, friends, or family to execute a practice SAR exercise:
   - (a) Choose a hypothetical SAR scenario, either one presented in the *Search and Rescue* merit badge pamphlet or one approved by your counselor.
   - (b) Develop an Incident Action Plan (IAP) for a hasty search using the scenario information.
-  - (c) Before the search begins, conduct a PAUSE briefing to review hazards, safety concerns, personal and shared Scout Essentials, and other gear.
+  - (c) Before the search begins, conduct a PAUSE briefing to review hazards, safety concerns, personal and shared Scout Basic Essentials, and other gear.
   - (d) Execute the search.
   - (e) After the search, hold a team debriefing to discuss the search, problems, successful and unsuccessful tactics, and ideas for improvement.
 

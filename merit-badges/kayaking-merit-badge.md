@@ -27,9 +27,9 @@ Kayaking has become one of the fastest-growing paddlesports in the United States
   - (c) Explain the care, maintenance, and storage of a kayak.
 
 - (5) Discuss the following:
-  - (a) Correct methods for the use of a kayak paddle.
-  - (b) Parts of a paddle.
-  - (c) The care and maintenance of a paddle.
+  - (a) Correct methods for the use of a kayak paddle
+  - (b) Parts of a paddle
+  - (c) The care and maintenance of a paddle
 
 - (6) Using a properly equipped kayak with an open cockpit, a sit-on-top, or an inflatable kayak, do the following:
   - (a) Safely capsize and perform a wet exit.
@@ -44,7 +44,7 @@ Kayaking has become one of the fastest-growing paddlesports in the United States
   - (c) Forward sweep
   - (d) Reverse sweep
   - (e) Draw stroke
-  - (f) Stern draw.
+  - (f) Stern draw
 
 - (8) As a solo paddler, use a properly equipped kayak to demonstrate the following:
   - (a) Paddle a straight line for 15 to 20 boat lengths using appropriate strokes while maintaining trim and balance of the kayak.

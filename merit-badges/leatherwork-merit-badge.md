@@ -30,7 +30,7 @@ Scouts who complete the requirements to earn the Leatherwork merit badge will ex
   - (c) Five types of leather
 
     **Resources:** [Leather Is Made From Which Animal (video)](https://youtu.be/fCrCwKpBXe4?si=ZosX3COH795k644n)
-  - (d) Best uses for each type of leather.
+  - (d) Best uses for each type of leather
 
     **Resources:** [What Leather Should I Use for Tooling?  (video)](https://youtu.be/NNppGlzskQU?si=a3Kf5tP4MR28dcjf), [Choosing the Correct Leather for your Project (video)](https://youtu.be/i9chSW724QI?si=m5PgNOUbjl-obxra)
 
@@ -56,7 +56,7 @@ Scouts who complete the requirements to earn the Leatherwork merit badge will ex
   - (g) Setting snaps and rivets
 
     **Resources:** [How to Set Snaps (video)](https://youtu.be/egQHoUw58r4?si=3coK-uKt6ziz5AOM), [How to Remove a Snap (video)](https://youtube.com/shorts/Bb387hzctjA?si=_UNKaVRDZEq2oXed), [How to Set Rivets (video)](https://youtu.be/l0VJgjHJN1c?si=IdbPEWFEAzINzoIm)
-  - (h) Dressing edges.
+  - (h) Dressing edges
 
     **Resources:** [Edge Finishing Techniques (video)](https://youtu.be/kb8yyG3TO70?si=3neDiHe3jxmRj7UJ)
 

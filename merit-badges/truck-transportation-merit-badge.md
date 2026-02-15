@@ -37,7 +37,7 @@ Trucking is a large and important industry. No matter where you live, a day is u
   - (a) How to prepare the shipment
   - (b) How to compare at least three carriers for time in transit and rates
   - (c) How to choose which carrier to use
-  - (d) How to insure the shipment for damages.
+  - (d) How to insure the shipment for damages
 
 - (9) Explain the following terms: bill of lading, ETA, logbook, intermodal, containers, tariff, shippers, carrier, consignee, drayage, and cartage.
 

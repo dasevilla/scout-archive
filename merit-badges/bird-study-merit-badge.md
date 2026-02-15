@@ -44,7 +44,7 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
   - (c) Falcon or hawk
   - (d) Warbler or vireo
   - (e) Heron or egret
-  - (f) Sparrow.
+  - (f) Sparrow
 
 - (5) Observe and be able to identify 20 species of wild birds. Prepare a field notebook, making a separate entry for each species, and record the following information from your field observations and other references.
 

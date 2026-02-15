@@ -9,7 +9,7 @@ The love and interdependence between humans and dogs has endured for thousands o
 
 ## Requirements
 
-- **Note: The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill the requirements for other merit badges.**
+- **NOTE: The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill the requirements for other merit badges.**
 
 - (1) Do the following:
   - (a) Briefly discuss the historical origin and domestication of the dog.
@@ -105,7 +105,7 @@ The love and interdependence between humans and dogs has endured for thousands o
     **Resources:** [What Is the Difference Between Dog Training Certification Programs? | Animal Care Jobs (video)](https://www.youtube.com/watch?v=aDYaE4d_H94), [Is Vet School Right for You? (video)](https://youtu.be/Nn3IE61JM00?si=lEr2OMOa_AuiW_FJ), [Careers in Dogs - Skills Needed in Careers With Dogs (website)](https://www.akc.org/public-education/resources/dog-related-career-skills/), [Becoming a Pet Groomer (video)](https://www.youtube.com/watch?v=86eSPiTckRA)
   - (b) Identify how you might use the skills and knowledge in working with dogs to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
 
-    **Resources:** [9 Dog-Friendly Hobbies to Strengthen Your Connection With Your Pup (website)](https://thenatureofhome.com/dog-friendly-hobbies/), [Dog Carving (video)](https://www.youtube.com/shorts/bRJr3fVXGnU)
+    **Resources:** [9 Dog-Friendly Hobbies To Strengthen Your Connection With Your Pup (website)](https://thenatureofhome.com/dog-friendly-hobbies/), [Dog Carving (video)](https://www.youtube.com/shorts/bRJr3fVXGnU), [Puppy Raising for the Blind (website)](https://www.guidingeyes.org/puppy-raising/)
 
 ## Resources
 

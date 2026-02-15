@@ -44,7 +44,7 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
 
     **Resources:** [Identification of Basic Textile Fibers by Polarized Light Microscopy (video)](https://youtu.be/BbeZvRi3eUI)
 
-- (4) Explain the meaning of 10 of the following terms: warp, harness, heddle, shed, aramid, spandex, sliver, yarn, spindle, distaff, loom, cellulose, sericulture, extrusion, carbon fibers, spinneret, staple, worsted, nonwoven, greige goods.
+- (4) Explain the meaning of 10 of the following terms: warp, harness, heddle, shed, aramid, spandex, sliver, yarn, spindle, distaff, loom, cellulose, sericulture, extrusion, carbon fibers, spinneret, staple, worsted, nonwoven, and greige goods.
 
   **Resources:** [Loom and Weaving Terminology (video)](https://youtu.be/QNEB-fjMauc?si=zEm50ZTr7PgymZCE)
 

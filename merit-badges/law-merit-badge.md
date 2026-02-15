@@ -14,7 +14,7 @@ Earning this merit badge enables a Scout to learn about the history and kinds of
 - (2) Discuss TWO of the following:
   - (a) Justinian's Code, the Code of Hammurabi, and the Magna Carta
   - (b) The development of the jury system
-  - (c) Two famous trials in history.
+  - (c) Two famous trials in history
 
 - (3) Tell what civil law is; tell what criminal law is. Tell the main differences between them. Give examples of each.
 
@@ -45,7 +45,7 @@ Earning this merit badge enables a Scout to learn about the history and kinds of
   - (h) Information Technology
   - (i) Intellectual Property, (Copyright, Patents and Trademarks)
   - (j) International
-  - (k) Privacy.
+  - (k) Privacy
 
 ## Resources
 

@@ -29,7 +29,7 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
   - (c) Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.
   - (1) A control device
   - (2) A digital circuit
-  - (3) An analog circuit.
+  - (3) An analog circuit
 
 - (5) Do the following:
   - (a) Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law.
@@ -37,7 +37,7 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
   - (c) Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.
   - (d) Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each.
 
-- (6) Identify three career opportunities that would use skills and knowledge in Electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
+- (6) Identify three career opportunities that would use skills and knowledge in electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
 ## Resources
 

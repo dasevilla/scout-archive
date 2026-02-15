@@ -22,7 +22,7 @@ Radio is a way to send information, or communications, from one place to another
   - (b) Discuss the following topics with your counselor:
   - (1) The definition of radio
   - (2) The differences between broadcast radio and two-way radio
-  - (3) The differences between commercial broadcast radio and hobby radio.
+  - (3) The differences between commercial broadcast radio and hobby radio
 
 - (3) **How Radio Waves Travel.** Do the following:
   - (a) Sketch a diagram showing how different radio wavelengths can travel locally or around the world.

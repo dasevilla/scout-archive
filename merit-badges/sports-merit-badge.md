@@ -18,13 +18,13 @@ Millions of people participate in sports every year. For some the appeal is the 
 - (2) Explain the following:
   - (a) The importance of the physical exam
   - (b) The importance of maintaining good health habits for life (such as exercising regularly), and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in sports activities
-  - (c) The importance of maintaining a healthy diet.
+  - (c) The importance of maintaining a healthy diet
 
 - (3) Discuss the following:
   - (a) The importance of warming up and cooling down
   - (b) The importance of weight training
   - (c) What an amateur athlete is and the differences between an amateur and a professional athlete
-  - (d) The attributes (qualities) of a good sport, the importance of sportsmanship, and the traits of a good team leader and player who exhibits Scout spirit on and off the playing field.
+  - (d) The attributes (qualities) of a good sport, the importance of sportsmanship, and the traits of a good team leader and player who exhibits Scout spirit on and off the playing field
 
 - (4) Select TWO of the following sports and discuss with your counselor how you will complete the requirements in 5(a) through 5(h) for each sport: badminton, baseball, basketball, bowling, cross-country, diving, field hockey, flag football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle football, table tennis, tennis, track and field, volleyball, water polo, and/or wrestling. Your counselor may approve in advance other recognized sports, but not any sport that is prohibited by Scouting America. The sports you choose must include regular practice sessions and at least four structured, officiated, scored games, meets, or contests against other competitive individuals or organized teams during the period of participation.
 

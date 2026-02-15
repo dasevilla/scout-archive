@@ -55,7 +55,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 
 - (6) Using the Scouting America buddy system, complete all of the requirements for ONE of the following options: Road Biking OR Trail or Mixed Surface Biking.
 
-  **Resources:** [Barriers to Abuse (PDF)](https://www.scouting.org/wp-content/uploads/2024/09/Youth-Safety-Infographic-Barriers-to-Abuse-1536x1363.png%20)
+  **Resources:** [The Buddy System in Scouting: Why No Scout Should Go It Alone (website)](https://www.scoutshop.org/blog/the-buddy-system-in-scouting-why-it-matters-more-than-ever.html)
 
   - A **Option A—Road Biking.** Do ALL of the following:
 

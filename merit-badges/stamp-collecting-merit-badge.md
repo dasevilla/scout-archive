@@ -55,7 +55,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
   - (i) First day cover
 
     **Resources:** [Collecting Stamps On Cover (video)](https://youtu.be/7IHlZxJouGc?si=aC__tsUPMMKT9OOP)
-  - (j) Postal stationery (aerogramme, stamped envelope, and postal card).
+  - (j) Postal stationery (aerogramme, stamped envelope, and postal card)
 
     **Resources:** [4 Helpful Stamp Collecting Tips for Beginners (video)](https://youtube.com/shorts/vdXeCjAFtng?si=4lDNQZtcCqOoyfgr)
 
@@ -86,7 +86,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
   - (f) Glassine envelopes and cover sleeves
 
     **Resources:** [Even Stamp Collectors Need the Right Tools (video)](https://www.linns.com/insights/even-stamp-collectors-need-the-right-tools-.html)
-  - (g) Watermark fluid.
+  - (g) Watermark fluid
 
     **Resources:** [How to Find Watermarks on Stamps (video)](https://youtu.be/Ury0mawE7m4?si=ctCOkAPh6V_GB22X)
 

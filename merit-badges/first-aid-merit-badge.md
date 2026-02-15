@@ -43,7 +43,7 @@ First aid—caring for injured or ill persons until they can receive professiona
   - (n) Bites of spiders
   - (o) Sting of a scorpion
   - (p) Bite of a pet or wild mammal or human
-  - (q) Bite of a venomous snake.
+  - (q) Bite of a venomous snake
 
 - (4) **Bleeding Wounds.** Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:
   - (a) A nosebleed.
@@ -56,7 +56,7 @@ First aid—caring for injured or ill persons until they can receive professiona
   - (b) Asthmatic attack
   - (c) Anaphylaxis from an insect bite or sting or from food or product allergy
   - (d) Inhalation injuries
-  - (e) Altitude sickness.
+  - (e) Altitude sickness
 
 - (6) **Loss of Consciousness.** Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions causing loss of consciousness:
   - (a) Fainting
@@ -65,7 +65,7 @@ First aid—caring for injured or ill persons until they can receive professiona
   - (d) Drug overdose and alcohol poisoning
   - (e) Underwater hypoxic blackout
   - (f) Cold water shock and drowning
-  - (g) Lightning strike and electric shock.
+  - (g) Lightning strike and electric shock
 
 - (7) **Heart Attack.** Do the following:
   - (a) Explain what a heart attack is.
@@ -88,7 +88,7 @@ First aid—caring for injured or ill persons until they can receive professiona
   - (1) Finger and toe
   - (2) Forearm or wrist
   - (3) Upper leg
-  - (4) Lower leg or ankle.
+  - (4) Lower leg or ankle
 
 - (9) **Head and Spine Injuries.** Do the following:
   - (a) Describe the symptoms and signs of, relationships between, possible complications of, and prevention of head, neck, and back injuries.
@@ -109,7 +109,7 @@ First aid—caring for injured or ill persons until they can receive professiona
   - (c) Heat exhaustion
   - (d) Heat stroke
   - (e) Chest pains associated with cold exposure
-  - (f) Hypothermia.
+  - (f) Hypothermia
 
 - (12) **Mental Health Conditions.** Describe the following:
   - (a) Reactions associated with at least three stressful situations, such as mountain backpacking, rappelling, a ropes course, speaking before an audience, making a phone call to an adult, taking a swim test, missing home, lighting a match, trying out for a sports team, meeting someone for the first time, or other stressful circumstances.
@@ -122,7 +122,7 @@ First aid—caring for injured or ill persons until they can receive professiona
   - (b) Broken, chipped, loosened, or knocked out tooth
   - (c) Vomiting and diarrhea associated with food poisoning
   - (d) Abdominal pain
-  - (e) Stroke.
+  - (e) Stroke
 
 - (14) With guidance from your counselor, develop a plan to teach a first-aid skill or topic using the EDGE method. Discuss your skill, topic, and plan with your counselor, and then teach your skill or topic to your family or to one or more Scouts.
 

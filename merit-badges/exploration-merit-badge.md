@@ -28,7 +28,7 @@ Discover the history and importance of various kinds of exploration by earning t
   - (b) How explorers have aided in our understanding of our world
 
     **Resources:** [Why We Explore (video)](https://www.youtube.com/watch?v=6_SRZiU9EuI)
-  - (c) What you think it takes to be an explorer.
+  - (c) What you think it takes to be an explorer
 
     **Resources:** [Why Great Scientists Ask Great Questions? w/ Neil deGrasse Tyson (video)](https://youtu.be/1B9q2eS78Tw?si=BM2e4T2u7pBcTTXq)
 
@@ -43,7 +43,7 @@ Discover the history and importance of various kinds of exploration by earning t
 
     **Resources:** [Research Scientist (video)](https://www.youtube.com/watch?v=uRreC41dGz4), [Inside the World's Largest Science Experiment (video)](https://youtu.be/nrXhK3Gh5EE?si=xSgNbNGvMNmaBl22), [Day in the Life of a Research Scientist (video)](https://www.youtube.com/watch?v=biS7e79xZcs)
 
-- (5) **Exploration in Lab and Field.** Do ONE of the following, and share what you learn with your counselor:
+- (5) **Exploration in Lab and Field.** Do ONE of the following, and share what you learned with your counselor:
   - (a) With your parent or guardian's permission and counselor's approval, visit either in person or via the internet an exploration sponsoring organization (such as The Explorers Club, National Geographic Society, Smithsonian Institution, American Alpine Club, World Wildlife Fund, or similar organization). Find out what type(s) of exploration the organization supports.
 
     **Resources:** [The Explorers Club (website)](https://www.explorers.org/), [National Geographic Society (website)](https://www.nationalgeographic.org/society/), [Smithsonian Institution (website)](https://www.si.edu/), [World Wildlife Federation (website)](https://www.worldwildlife.org/)

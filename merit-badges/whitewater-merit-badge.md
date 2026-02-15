@@ -67,7 +67,7 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
   - (b) Proper use of a throw rope to rescue a swimmer in whitewater
   - (c) Proper technique for receiving a throw rope as a swimmer
   - (d) Portaging-where portaging would be appropriate, and when and how to do it
-  - (e) The whitewater buddy system using at least three persons and three craft.
+  - (e) The whitewater buddy system using at least three persons and three craft
 
 - (12) Participate in one or more whitewater trips using either a canoe or kayak on a Class I and/or Class II river. The trip(s) must involve at least six hours of paddling time. For each trip:
   - (a) Help to prepare a written plan, specifying the route (put-ins and takeouts), schedule, equipment, safety precautions, and emergency procedures.

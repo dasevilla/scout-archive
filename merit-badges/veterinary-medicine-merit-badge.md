@@ -15,14 +15,14 @@ The field of veterinary medicine in the 21st century is one of the most exciting
   - (c) Exotic animal medicine
   - (d) Marine animal medicine (mammal and fish)
   - (e) Poultry medicine
-  - (f) Wildlife medicine and aquaculture medicine.
+  - (f) Wildlife medicine and aquaculture medicine
 
 - (2) Discuss with your counselor the roles a veterinarian plays in the following:
   - (a) Public health medicine and zoonotic disease surveillance and control
   - (b) The military
   - (c) Food safety and inspection
   - (d) Laboratory animal medicine and research
-  - (e) Teaching and government.
+  - (e) Teaching and government
 
 - (3) Describe the training required to become a veterinarian. Where is the veterinary medical college in your state or nearest to you? Describe the prerequisites for applying to veterinary school.
 

@@ -27,16 +27,16 @@ Understand various disabilities and how they affect your friends, family, and co
   - (1) Your school
   - (2) Your place of worship
   - (3) A Scouting event or campsite
-  - (4) A public exhibit or attraction (such as a theater, museum, or park).
+  - (4) A public exhibit or attraction (such as a theater, museum, or park)
   - **Option B—Accommodation.** Visit TWO of the following locations and take notes while observing features and methods that are used to accommodate people with invisible disabilities. While there, ask staff members to explain any accommodation features that may not be obvious. Note anything you think could be done to better accommodate people who have invisible disabilities. Discuss your observations with your counselor.
   - (1) Your school
   - (2) Your place of worship
   - (3) A Scouting event or campsite
-  - (4) A public exhibit or attraction (such as a theater, museum, or park).
+  - (4) A public exhibit or attraction (such as a theater, museum, or park)
 
 - (5) Explain what advocacy is. Do ONE of the following:
   - (a) Present a counselor-approved disabilities awareness program to a Cub Scout pack or other group. During your presentation, explain and use person-first language.
-  - (b) Find out about disabilities awareness education programs in your school or school system, or contact a disability advocacy agency. Volunteer with a program or agency for eight hours
+  - (b) Find out about disabilities awareness education programs in your school or school system, or contact a disability advocacy agency. Volunteer with a program or agency for eight hours.
   - (c) Using resources such as disability advocacy agencies, government agencies, the internet (with your parent or guardian's permission), and news magazines, learn about myths and misconceptions that influence the general public's understanding of people with disabilities. List 10 myths and misconceptions about people with disabilities and learn the facts about each myth. Share your list with your counselor, then use it to make a presentation to a Cub Scout pack or other group.
 
 - (6) Make a commitment to your counselor describing what you will do to show a positive attitude about and toward people with disabilities and to encourage positive attitudes among others. Discuss how your awareness has changed as a result of what you have learned.

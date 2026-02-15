@@ -19,6 +19,8 @@ Meteorology is the study of Earth’s atmosphere and its weather and the ways in
 
 - (3) Identify at least two sources of weather forecasts that can be used to prepare for hikes, overnight camping, and other outdoor activities. Name two sources of emergency weather warnings both at home and during outdoor Scout functions.
 
+  **Resources:** [The Best Weather App? (video)](https://www.youtube.com/shorts/Nve356YrnFg), [Ways To Get Warnings (video)](https://youtu.be/ZqmguEWojYw?si=i5mOnz2kN1QUpdKO), [National Weather Service (website)](https://www.weather.gov/)
+
 - (4) Explain the difference between high and low pressure systems in the atmosphere. Tell which is related to good and to poor weather. Draw cross sections of a cold front and a warm front, showing the location and movements of the cold and warm air, the frontal slope, the location and types of clouds associated with each type of front, and the location of precipitation.
 
   **Resources:** [What Are Weather Fronts?  Warm Front, Cold Front? (video)](https://youtu.be/5Cnx5Bzctas?si=bJcnCUw3ysbD99rD), [Weather 101:  High Pressure vs. Low Pressure (video)](https://youtu.be/8mHEry8tSPM?si=_Rx2aPuB2UpvW9o1)
@@ -45,11 +47,17 @@ Meteorology is the study of Earth’s atmosphere and its weather and the ways in
 
 - (10) Do ONE of the following:
   - (a) Make one of the following instruments: wind vane, anemometer, rain gauge, hygrometer. Keep a daily weather log for one week using information from this instrument as well as from other sources such as local radio and television stations, NOAA Weather Radio All Hazards, and internet sources (with your parent or guardian's permission). Record the following information at the same time every day: wind direction and speed, temperature, precipitation, and types of clouds. Be sure to make a note of any morning dew or frost. In the log, also list the weather forecasts from radio or television at the same time each day and show how the weather really turned out.
+
+    **Resources:** [Weather 101:  Build Your Own Wind Vane! (video)](https://youtu.be/kSHRBUTMq0o?si=6XqGX8yB-svIK85z), [DIY Anemometer (Measure Wind Speed) (video)](https://youtu.be/Gab07UaoeZI?si=iQpXL42eMjDoNIkz), [How to Make a Rain Gauge (video)](https://youtu.be/MLmVaiSEF9w?si=atHOcyY2Yfn2Vu-W), [How to Make Your Own Hygrometer (video)](https://youtu.be/lNPSzifZ-Y0?si=4_dPuJHkkLw5hp75)
   - (b) Visit a National Weather Service office or talk with a local radio or television weathercaster, private meteorologist, local agricultural extension service officer, or university meteorology instructor. Find out what type of weather is most dangerous or damaging to your community. Determine how severe weather and flood warnings reach the homes in your community.
+
+    **Resources:** [Behind the Scenes of the National Weather Service Atlanta/Peachtree City (video)](https://youtu.be/DuZqz7wGXGY?si=cS4abYCrQrbtR3Qp)
 
 - (11) Give a talk of at least five minutes to a group (such as your unit or a Cub Scout pack) explaining the outdoor safety rules in the event of lightning, flash floods, and tornadoes. Before your talk, share your outline with your counselor for approval.
 
 - (12) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
+
+  **Resources:** [Hurricane Hunter (video)](https://youtu.be/F8pF3jOtM0U?si=V_vTXWHWd7JcRRAz&t=22), [Careers in Meteorology - National Weather Service Hurricanne Meteorologist (video)](https://youtu.be/Jmzry0djEQA?si=O_Pvh47t0WegPRU4), [Careers in Meteorology - Broadcast Meteorology (video)](https://youtu.be/CkmLI5VsdbY?si=4golNNv7EBcqZ2Ds), [Careers in Meteorology - Digital Meteorology (video)](https://youtu.be/jzmwzbhIhJQ?si=RfiZhEq-gtxMp-g6)
 
 ## Resources
 

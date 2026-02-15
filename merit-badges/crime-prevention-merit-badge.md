@@ -23,7 +23,7 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
   - (d) Private security
   - (e) Law enforcement agencies
   - (f) Courts
-  - (g) Corrections and rehabilitation programs.
+  - (g) Corrections and rehabilitation programs
 
 - (3) **Crime in Your Community, State, and Nation.** Do the following:
   - (a) With your parent or guardian's permission and the approval of your counselor, research local, state, or national news coverage of three crimes of different types. Research how common these types of crimes are in your state or in the United States.
@@ -35,7 +35,7 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
   - (2) How designs of houses, neighborhoods, public buildings, stores, streets, and parks prevent crime.
   - (b) Conduct a security survey of a home, a neighborhood, a park, or a camp building with adult supervision and following youth protection guidelines using a security checklist in the *Crime Prevention* merit badge pamphlet or one approved by your counselor.
 
-    **Resources:** [Home Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf), [Camp Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Camp%20or%20Park%20Security%20Checklists.pdf)
+    **Resources:** [Home Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf), [Camp Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Camp%20Security%20Checklists%20%231%20%232%2001%202026.pdf)
   - (c) Use information from your survey for requirement 4(b) and the EDGE method to develop a lesson about how a family or Scouts can protect themselves from crime. Review your teaching plan with your counselor, then present your lesson to your family or to Scouts.
 
 - (5) **Retail Crime Prevention.** Research the following topics and review them with your counselor:

@@ -32,7 +32,7 @@ Chemistry explores how substances react with each other, how they change, how ce
     **Resources:** [How Does Soap Work? (video)](https://www.youtube.com/shorts/Jx5BgbIkXEs)
   - (c) Perform an experiment to demonstrate how rubbing alcohol affects microbial growth using baker's yeast. Discuss the results with your counselor.
 
-    **Resources:** [Watching How Alcohol Kills Viruses and Bacteria Under a Microscope (video)](https://www.youtube.com/shorts/Jx5BgbIkXEs)
+    **Resources:** [Watching How Alcohol Kills Virus and Bacteria Under a Microscope (video)](https://youtu.be/vX_Gp-NXyAM)
 
 - (3) **Chemistry and Cooking.** After successfully completing requirement 1, do EACH of the following:
   - (a) Perform a Maillard, or browning, reaction. Discuss with your counselor whether a physical or chemical change has occurred, and what happened to molecules in the food during the cooking process.

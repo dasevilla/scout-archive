@@ -33,7 +33,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
   - (a) The difference between an end and a round
   - (b) The differences among field, target, and 3-D archery
   - (c) How the five-color World Archery Federation target is scored
-  - (d) How the National Field Archery Association (NFAA) black-and-white field targets and blue indoor targets are scored.
+  - (d) How the National Field Archery Association (NFAA) black-and-white field targets and blue indoor targets are scored
 
 - (5) Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:
 

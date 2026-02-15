@@ -39,7 +39,7 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
   - (b) Heavy-equipment operator's hand signals
   - (c) Aircraft carrier catapult crew signals
   - (d) Cyclist's hand signals
-  - (e) An activity selected by you and your counselor.
+  - (e) An activity selected by you and your counselor
 
 - (9) Share with your counselor 10 examples of symbols used in everyday life. Design your own symbol. Share it with your counselor and explain what it means. Then do the following:
   - (a) Show examples of 10 traffic signs and explain their meaning.

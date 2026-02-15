@@ -9,7 +9,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
 
 ## Requirements
 
-- **NOTE:** You will need access to a car or truck and its owner's manual to meet some requirements for this merit badge. If you do not have your own vehicle, you should work with your counselor or other trusted adult to obtain access to a vehicle and the owner's manual for that vehicle.
+- **NOTE: You will need access to a car or truck and its owner's manual to meet some requirements for this merit badge. If you do not have your own vehicle, you should work with your counselor or other trusted adult to obtain access to a vehicle and the owner's manual for that vehicle.**
 
 - (1) **Safety and Registration.** Do the following:
   - (a) Explain to your counselor the hazards you are most likely to encounter during automotive maintenance activities, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.
@@ -50,7 +50,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
   - (4) Power steering fluid
   - (5) Windshield washer fluid
   - (6) Transmission fluid
-  - (7) Battery fluid (if possible) and condition of the battery terminals.
+  - (7) Battery fluid (if possible) and condition of the battery terminals
 
     **Resources:** [How to Care for Your Automotive Battery (video)](https://youtu.be/-dWtk08fMfw?si=AfrX0oKSRi6fCKoe&t=14), [How to Check & Properly Fill Water Levels in a Car Battery (video)](https://youtu.be/ytg2TCC6IKw?si=XBSt8SXU0YENVL7J)
   - (b) Locate the fuse boxes; determine the type and size of fuses. Demonstrate the proper replacement of burned-out fuses.
@@ -129,7 +129,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
   - (2) Hybrid or electric vehicle inverter
 
     **Resources:** [The Role of Inverters for EV Propulsion Systems (video)](https://youtu.be/wbfOoQgg7Tk?si=CK1dIlvuJJDSXKlC)
-  - (3) Lighting system.
+  - (3) Lighting system
 
     **Resources:** [Automotive Lighting Circuits (video)](https://youtu.be/ST5nz8M9Lcg?si=yIgLMjiU5VL_Gu1_)
   - (b) Explain the engine's firing order.

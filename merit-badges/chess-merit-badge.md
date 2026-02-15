@@ -16,13 +16,13 @@ Chess is among the oldest board games in the world, and it ranks among the most 
 - (2) Discuss with your counselor the following:
   - (a) Why chess is considered a game of planning and strategy.
   - (b) The benefits of playing chess, including developing critical thinking skills, concentration skills, and decision-making skills, and how these skills can help you in other areas of your life.
-  - (c) Sportsmanship and chess etiquette.
+  - (c) Sportsmanship and chess etiquette
 
 - (3) Demonstrate to your counselor that you know each of the following. Then, using Scouting EDGE to teach someone who does not know how to play chess:
   - (a) The name of each chess piece
   - (b) How to set up a chessboard
   - (c) How each chess piece moves and captures, including: four rules of castling, en passant captures, pawn promotion, check, ways to get out of check, and checkmate.
-  - (d) The five ways a game can end in a draw.
+  - (d) The five ways a game can end in a draw
 
 - (4) Do the following:
   - (a) Demonstrate scorekeeping using the algebraic system of chess notation.

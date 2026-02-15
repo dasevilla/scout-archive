@@ -63,7 +63,9 @@ Build your own working robot with the Robotics Merit Badge. Learn about the robo
   - (a) Identify three career opportunities that would use skills and knowledge in Robotics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
     **Resources:** [Learn About the Careers of Robotics Technicians (video)](https://youtu.be/0dwkGhRPQW4), [Careers in Robotics (video)](https://youtu.be/5YTYFrrSdV4?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)
-  - (b) Identify how you might use the skills and knowledge in Robotics to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
+  - (b) Identify how you might use the skills and knowledge in robotics to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
+
+    **Resources:** [How to Make Anything - Learn to Think Like an Engineer (video)](https://www.youtube.com/watch?v=IIwTCyu2wS4), [Why Try Computer Quilting ? (video)](https://youtu.be/Z_ftO9LanyI?si=p7e9HkOE8mGD2RpS), [How I Built a Difference | My Engineering Journey (video)](https://youtu.be/PCQHSzoPoO8), [Tertill Weeding Robot Overview Video (video)](https://youtu.be/wAMXnxXa3UU?si=U8BNl3na8OfxNTWd)
 
 ## Resources
 

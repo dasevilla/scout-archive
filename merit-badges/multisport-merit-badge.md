@@ -78,7 +78,7 @@ Multisport is a racing competition that includes any combination of running, bik
   - (a) Triathlon (swim 100 m, bike 3 km, and run 1 km)
   - (b) Duathlon (run 1.5 km, bike 3 km, and run 0.75 km)
   - (c) Aquathlon (swim 100 m and run 1 km)
-  - (d) Aquabike (swim 100 m and bike 3 km).
+  - (d) Aquabike (swim 100 m and bike 3 km)
 
 - (8) Do TWO of the following and discuss with your counselor:
   - (a) Research and identify two ways you can continue participating in multisport after completing this merit badge.

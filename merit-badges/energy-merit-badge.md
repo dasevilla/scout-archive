@@ -36,7 +36,7 @@ Saving, producing, and using energy wisely will be critical to America’s futur
   - (b) The share of energy resources used by the United States that comes from other countries
   - (c) The proportion of energy resources used by homes, businesses, industry, and transportation
   - (d) The fuels used to generate America's electricity
-  - (e) The world's known and estimated primary energy resource reserves.
+  - (e) The world's known and estimated primary energy resource reserves
 
 - (7) Tell what is being done to make FIVE of the following energy systems produce more usable energy. In your explanation, describe the technology, cost, environmental impacts, and safety concerns.
   - (a) Biomass digesters or waste-to-energy plants
@@ -47,7 +47,7 @@ Saving, producing, and using energy wisely will be critical to America’s futur
   - (f) Nuclear power plants
   - (g) Solar power systems
   - (h) Tidal energy, wave energy, or ocean thermal energy conversion devices
-  - (i) Wind turbines.
+  - (i) Wind turbines
 
 - (8) Identify three career opportunities that would use skills and knowledge in energy. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 

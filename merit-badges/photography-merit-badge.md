@@ -20,7 +20,7 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
   - (d) Composition—rule of thirds, leading lines, framing, depth
   - (e) Angle of view
   - (f) Stop action and blur motion
-  - (g) Decisive moment (action or expression captured by the photographer).
+  - (g) Decisive moment (action or expression captured by the photographer)
 
 - (3) Explain the basic parts and operation of a camera. Explain how an exposure is made when you take a picture.
 
@@ -36,7 +36,7 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
   - (c) Action shot
   - (d) Animal shot
   - (e) Nature shot
-  - (f) Picture of a person - candid, posed, or camera aware.
+  - (f) Picture of a person - candid, posed, or camera aware
 
 - (6) Describe how software allows you to enhance your photograph after it is taken. Select a photo you have taken, then do ONE of the following, and share what you have done with your counselor.
   - (a) Crop your photograph

@@ -18,7 +18,7 @@ Welding is the process of joining with a weld – joining or combining similar p
     **Resources:** [How to Treat Welding Burns (website)](https://weldingheadquarters.com/how-to-treat-welding-burns/?utm_source=chatgpt.com)
 
 - (2) Do the following:
-  - (a) With your counselor, discuss general safety precautions and Safety Data Sheets related to welding. Explain the importance of the SDS.
+  - (a) With your counselor, discuss general safety precautions and safety data sheets (SDS) related to welding. Explain the importance of the SDS.
 
     **Resources:** [Safety Data Sheets Training Video (video)](https://youtu.be/_yWF-w3CwmU?si=RygDv1LH-6pEBP-L)
   - (b) Describe the appropriate safety gear and clothing that must be worn when welding. Then, present yourself properly dressed for welding—in protective equipment, clothing, and footwear.
@@ -33,6 +33,8 @@ Welding is the process of joining with a weld – joining or combining similar p
   **Resources:** [Understanding Common Welding Terms—A Guide for Beginners (website)](https://www.millerwelds.com/resources/article-library/understanding-common-welding-terms-a-guide-for-beginners)
 
 - (4) Name the different mechanical and thermal cutting methods. Choose one method and describe how to use the process. Discuss one advantage and one limitation of this process.
+
+  **Resources:** [Types of Cutting Methods: Mechanical, Thermal & More (website)](https://engineerfix.com/types-of-cutting-methods-mechanical-thermal-more/)
 
 - (5) Do the following:
   - (a) Select two welding processes, and make a list of the different components of the equipment required for each process. Discuss one advantage and one limitation for each process.

@@ -47,12 +47,12 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
   - (12) Bite of a wild mammal
 
     **Resources:** [Treatment of Animal and Human Bites (video)](https://youtu.be/RSJzuk226RI?si=NU3LP-a1tzgH43gf)
-  - (13) Bite of a venomous snake.
+  - (13) Bite of a venomous snake
 
     **Resources:** [Venomous Snake Bites (website)](https://www.redcross.org/take-a-class/resources/learn-first-aid/venomous-snake-bites)
-  - (b) Explain how the Scout Essentials address hazards of survival situations and are basic to a survival kit.
+  - (b) Explain how the Scout Basic Essentials address hazards of survival situations and are basic to a survival kit.
 
-    **Resources:** [Scout Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/), [Checklist for a Wilderness Survival Kit (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Checklist%20for%20a%20Wilderness%20Survival%20Kit.pdf)
+    **Resources:** [The 10 Scout Basic Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/), [Checklist for a Wilderness Survival Kit (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Checklist%20for%20a%20Wilderness%20Survival%20Kit.pdf)
   - (c) Explain how a trip plan could help prevent a wilderness survival situation.
 
     **Resources:** [How to Plan an Adventure | Plan a Camping Trip (video)](https://youtu.be/79WYqkiExZU?si=sXXRKQGVE-ZNkU1p), [Importance of a Float Plan (website)](https://www.boatsmartexam.com/knowledge-base/article/using-a-trip-plan/)
@@ -67,7 +67,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 
 - (4) **First Aid Kits.** Put together a personal first aid kit and a personal survival kit. Show how items in the kits are used.
 
-  **Resources:** [Personal Family Troop First Aid Kit Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf), [First Aid KIt Checklists (website)](https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/), [Scout Essentials for Wilderness Survival (website)](https://troopleader.scouting.org/program-features/wilderness-survival/information/), [Survival Kit List (PDF)](https://assets.kalkomey.com/hunter/pdfs/maine-survival-kit.pdf)
+  **Resources:** [Personal Family Troop First Aid Kit Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf), [First Aid Kit Checklists (website)](https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/), [Scout Basic Essentials for Wilderness Survival (website)](https://troopleader.scouting.org/program-features/wilderness-survival/information/), [Survival Kit List (PDF)](https://assets.kalkomey.com/hunter/pdfs/maine-survival-kit.pdf)
 
 - (5) **Shelter.** Do the following:
   - (a) Describe the steps you would take to survive in the following exposure conditions:
@@ -83,7 +83,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
   - (4) Windy
 
     **Resources:** [Danger of Wind Chill (video)](https://youtu.be/f4VC0fNMaQc?si=HyjdNU_CeDcZfjSS), [Wind Chill Safety: 5 Tips to Prevent Frostbite (video)](https://youtu.be/Syqj_hZLMlA?si=m-n-6rHoP4fauLIR)
-  - (5) At or on the water.
+  - (5) At or on the water
 
     **Resources:** [What to do if Your Boat Capsizes (website)](https://www.boat-ed.com/indiana/studyGuide/Ending-Up-in-the-Water-Unexpectedly/10101602_35417/)
   - (b) Show that you know the proper clothing to wear while in the outdoors during extremely hot and cold weather and during wet conditions.
@@ -106,11 +106,11 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 - (7) **Signaling.** Do the following:
   - (a) Explain and show how lost or stranded Scouts could send signals to attract the attention of ground, airborne, or water search teams.
 
-    **Resources:** [How to Signal for Ground Rescue (video)](https://youtu.be/X8j5NC7Bqq4), [Surface to Air Visual and Body Signals (PDF)](http://www.cap-es.net/zips/gnd2airsignals.PDF), [Distress Signals for Water Emergencies (video)](https://youtu.be/0Y4pG_mN7Ek)
+    **Resources:** [How to Signal for Ground Rescue (video)](https://youtu.be/X8j5NC7Bqq4), [Surface to Air Visual and Body Signals (website)](http://www.cap-es.net/zips/gnd2airsignals.PDF), [Distress Signals for Water Emergencies (video)](https://youtu.be/0Y4pG_mN7Ek)
   - (b) Demonstrate how to use a signal mirror.
 
     **Resources:** [How to Use a Signal Mirror (video)](https://www.youtube.com/shorts/kYN46GuZmpE)
-  - (c) Describe from memory five ground-to-air signals and tell what they mean.
+  - (c) Describe from memory five ground-to- air signals and tell what they mean.
 
 - (8) **Water.** Demonstrate three ways to treat water found in the outdoors to prepare it for drinking.
 

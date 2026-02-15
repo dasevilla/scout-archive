@@ -31,7 +31,7 @@ The family is the basic unit of society and is important to both individuals and
 
   - (a) The objective or goal of the project
   - (b) How individual members of your family participated
-  - (c) The results of the project.
+  - (c) The results of the project
 
 - (6) Do the following:
 
@@ -57,7 +57,7 @@ The family is the basic unit of society and is important to both individuals and
   - (6) The effect of technology on your family
 
     **Resources:** [Evolving Technology: Will Family Life Ever Be the Same Again? (video)](https://www.youtube.com/watch?v=sFc_q9-KD8c)
-  - (7) Good etiquette and manners.
+  - (7) Good etiquette and manners
 
     **Resources:** [Etiquette (video)](https://vimeo.com/1114227718)
 

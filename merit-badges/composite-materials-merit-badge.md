@@ -40,9 +40,9 @@ Composites can be found just about everywhere: in airplanes and sports cars, gol
     **Resources:** [Introduction to Matrix Materials (video)](https://youtu.be/yQo4ucV3jfA)
   - (c) For each of the three resins you chose for requirement 3(b), think of a new application that might be worth developing.
 
-- (4) With your parent or guardian's permission and your counselor's approval do ONE of the following:
-  - (a) Visit a company that manufactures or repairs products made with composites. Discuss what you learn with your counselor.
-  - (b) Find three composites-related websites. Share and discuss what you learn with your counselor.
+- (4) With your parent or guardian's permission and your counselor's approval, do ONE of the following:
+  - (a) Visit a company that manufactures or repairs products made with composites. Discuss what you learned with your counselor.
+  - (b) Find three composites-related websites. Share and discuss what you learned with your counselor.
 
 - (5) Do the following:
 

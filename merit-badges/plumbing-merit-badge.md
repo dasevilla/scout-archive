@@ -42,7 +42,7 @@ Plumbing, including pipe fitting, is an important and well-paid occupation. The 
   - (3) PEX pipe and fittings
   - (4) Copper pipe and fittings
   - (5) Steel pipe and fittings
-  - (6) Specialty plumbing tools.
+  - (6) Specialty plumbing tools
   - (b) Cut, clean (debur), PVC or CPVC pipe; solvent weld at least three connections to include a coupling, tee, and elbow.
 
     **Resources:** [How To Cut, Prime & Cement PVC Pipe & Fittings Like A PRO (How To Bond PVC) Solvent Weld PVC (video)](https://youtu.be/gSNlq7QK8lc?si=DhCkTPDDKnnF_d0R)

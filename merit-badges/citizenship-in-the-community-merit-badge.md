@@ -16,7 +16,7 @@ A nation is a patchwork of communities that differ from each other and may be go
   - (1) Chief government buildings such as your city hall, county courthouse, and public works/services facilities
   - (2) Fire station, police station, and hospital nearest your home
   - (3) Parks, playgrounds, recreation areas, and trails
-  - (4) Historical or other interesting points of interest.
+  - (4) Historical or other interesting points of interest
   - (b) Chart the organization of your local or state government. Show the top offices and tell whether they are elected or appointed.
 
 - (3) Do the following:

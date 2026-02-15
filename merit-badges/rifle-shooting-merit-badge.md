@@ -23,7 +23,7 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
   - (i) Identify places in your community where you can join or be a part of range and target activities.
   - (j) Discuss with your counselor a list of sources you could contact for information on firearms and their use.
 
-- (2) Working under the supervision of a certified National Rifle Association (NRA) Rifle instructor and a certified range safety officer, at a nationally authorized camp property or at a commercial firearm range (as defined in the *Scouting America National Range and Target Activities Manual*), do ONE of the following options:
+- (2) Working under the supervision of a certified National Rifle Association (NRA) rifle instructor and a certified range safety officer, at a nationally authorized camp property or at a commercial firearm range (as defined in the *Scouting America National Range and Target Activities Manual*), do ONE of the following options:
   - **Option A—Rifle Shooting (Modern Cartridge Type).** Do ALL of the following:
   - (1) Identify the three main parts of a rifle, and tell how they function.
   - (2) Identify and demonstrate the rules for safely storing and handling a rifle.

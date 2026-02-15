@@ -14,7 +14,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
   **Resources:** [Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc.) (video)](https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb), [Preventing and Treating Blisters (video)](https://youtu.be/lIvLRG31MZI?si=Y7vTYYNYNzcl_MV2), [Preventing and Treating Frostbite (video)](https://youtu.be/GHN8008brQw?si=MVUMbLRpSWLSkOZP)
 
 - (2) Do the following:
-  - (a) List 10 items that are essential to be carried on any backpacking trek and explain why each item is necessary.
+  - (a) List the 10 Scout Basic Essentials to be carried on any backpacking trek and explain why each item is necessary.
 
     **Resources:** [What Are the 10 Essentials? (video)](https://youtu.be/J-Ae6OKjb6I?si=Ee6rn5JtoCrwtTFo)
   - (b) Describe 10 ways you can limit the weight and bulk to be carried in your pack without jeopardizing your health or safety.

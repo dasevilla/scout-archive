@@ -45,7 +45,7 @@ The field of graphic arts includes many kinds of work in the printing and publis
   - (a) Discuss the finishing operations of padding, drilling, cutting, and trimming with your counselor.
 
     **Resources:** [Finishing in Printing (website)](https://www.colorvisionprinting.com/blog/finishing-in-printing-what-are-the-most-requested-options)
-  - (b) Collect, describe, or identify examples of the following types of binding: perfect, spiral, plastic comb, saddle stitch, case.
+  - (b) Collect, describe, or identify examples of the following types of binding: perfect, spiral, plastic comb, saddle stitch, and case.
 
 - (6) Do ONE of the following, and then describe the highlights of your visit:
   - (a) Visit a newspaper printing plant: Follow a story from the editor to the press.

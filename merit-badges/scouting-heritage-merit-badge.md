@@ -39,7 +39,7 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
   - (8) Dr. Charles Eastman
 
     **Resources:** [Dr. Charles Eastman (video)](https://www.youtube.com/watch?v=xzW4DLLuLoc)
-  - (9) Edgar Robinson.
+  - (9) Edgar Robinson
 
     **Resources:** [Edgar Robinson (video)](https://www.youtube.com/watch?v=PuIILshyM2k)
   - (b) Discuss the significance to Scouting of any TWO of the following:
@@ -52,7 +52,7 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
   - (3) *Scouts BSA Handbook*
 
     **Resources:** [NSM History of the Scout Handbook (video)](https://www.youtube.com/watch?v=X2njF0Sv5q8&t=2s), [Artifact of the Week - First Scout Handbook (video)](https://www.youtube.com/watch?v=JaGjYXkcyLU&t=2s)
-  - (4) *Scout Life* magazine (formerly *Boys' Life*).
+  - (4) *Scout Life* magazine (formerly *Boys' Life*)
 
     **Resources:** [Artifact of the Week - Boys' Life to Scout Life (video)](https://www.youtube.com/watch?v=R55NMMY21TM), [The Story of Boys' Life / Scout Life (video)](https://www.youtube.com/watch?v=OIyZwBnlF5c)
 

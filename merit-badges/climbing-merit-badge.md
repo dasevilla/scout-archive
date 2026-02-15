@@ -28,7 +28,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
   - (a) Climbers
   - (b) Rappellers
   - (c) Belayers
-  - (d) Boulderers and their spotters.
+  - (d) Boulderers and their spotters
 
 - (6) **Rope.** Do the following:
   - (a) Describe the kinds of rope acceptable for use in climbing and rappelling.
@@ -42,12 +42,12 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
   - (b) Figure eight follow-through
   - (c) Water knot
   - (d) Double fisherman's knot (grapevine knot)
-  - (e) Prusik hitch applied to rope.
+  - (e) Prusik hitch applied to rope
 
 - (8) **Harness, Helmet & Gloves.** Explain the purpose of each of the following and demonstrate how to put them on correctly.
   - (a) Commercially made climbing harness
   - (b) Climbing helmet
-  - (c) Climbing or rappelling gloves.
+  - (c) Climbing or rappelling gloves
 
 - (9) Identify the elements of the CHECK system and describe the meaning of each one to your counselor.
 

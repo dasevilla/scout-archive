@@ -52,11 +52,11 @@ The ability to use fire safely is essential to human survival. By earning this m
   - (c) Explain what fire safety precautions you should take when you are in a public building.
 
 - (8) **Fire Safety at Camp.** Do the following:
-  - (a) Explain how the Leave No Trace Seven Principles apply to camping fires.
+  - (a) Explain how the Leave No Trace Seven Principles and the Outdoor Code apply to camping fires.
   - (b) Demonstrate lighting a match safely, the proper way to extinguish it, and to dispose of it. Explain the similarities and differences between safety matches and strike-anywhere matches.
   - (c) Explain and demonstrate making sparks with flint and steel or with a ferro rod and catching a spark to create a flame. Extinguish the flame safely using one of principles of the fire tetrahedron.
   - (d) Demonstrate the safe way to start a charcoal fire.
-  - (e) Describe three common campsite fire lays. Collect, prepare, and set up tinder, kindling, and fuel for a campfire following the Leave No Trace Seven Principles. Ignite your fire lay and safely extinguish your fire.
+  - (e) Describe three common campsite fire lays. Collect, prepare, and set up tinder, kindling, and fuel for a campfire following the Leave No Trace Seven Principles and the Outdoor Code. Ignite your fire lay and safely extinguish your fire.
   - (f) Demonstrate using a camp stove.
   - (g) Explain how to set up and keep a campsite safe from fire.
   - (h) Develop a lesson plan to teach a fire safety skill or topic, such as lighting a candle or a match or a charcoal fire or a lantern or a camp stove or using flint and steel or setting up a fire lay. Review your lesson plan with your counselor. Teach your skill or topic to one or more Scouts using the EDGE method.

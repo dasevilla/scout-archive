@@ -9,8 +9,6 @@ Personal management is about mapping a plan for your life that will involve sett
 
 ## Requirements
 
-- **Note: Always be sure to have proper permission before using the internet. It is strongly advised that Scouts view the Personal Safety Awareness videos before starting work. Find details at [www.scouting.org/training/youth-protection/scouts-bsa](http://www.scouting.org/training/youth-protection/scouts-bsa)**
-
 - (1) Do the following:
   - (a) Choose an item that your family might want to purchase that is considered a major expense.
   - (b) Write a plan that tells how your family would save money for the purchase identified in requirement 1(a).
@@ -52,20 +50,20 @@ Personal management is about mapping a plan for your life that will involve sett
   - (c) Life insurance
   - (d) A certificate of deposit (CD)
   - (e) A savings account
-  - (f) A U.S. savings bond.
+  - (f) A U.S. savings bond
 
 - (6) Explain to your counselor why people might purchase the following types of insurance and how they work:
   - (a) Automobile
   - (b) Health
   - (c) Homeowner's/renter's
-  - (d) Whole life and term life.
+  - (d) Whole life and term life
 
 - (7) Explain to your counselor the following:
-  - (a) What a loan is, what interest is, and how the annual percentage rate (APR) measures the true cost of a loan.
+  - (a) What a loan is, what interest is, and how the annual percentage rate (APR) measures the true cost of a loan
   - (b) The different ways to borrow money
-  - (c) The differences between a charge card, debit card, and credit card. What are the costs and pitfalls of using these financial tools? Explain why it is unwise to make only the minimum payment on your credit card.
-  - (d) Credit reports and how personal responsibility can affect your credit report.
-  - (e) Ways to reduce or eliminate debt.
+  - (c) The differences between a charge card, debit card, and credit card, including the costs and pitfalls of using these financial tools, and why it is unwise to make only the minimum payment on your credit card
+  - (d) Credit reports and how personal responsibility can affect your credit report
+  - (e) Ways to reduce or eliminate debt
 
 - (8) Demonstrate to your counselor your understanding of time management by doing the following:
   - (a) Write a "to do" list of tasks or activities, such as homework assignments, chores, and personal projects, that must be done in the coming week. List these in order of importance to you.

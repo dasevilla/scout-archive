@@ -9,7 +9,7 @@ Pioneering—the knowledge of ropes, knots, and splices along with the ability t
 
 ## Requirements
 
-- **Note: All pioneering projects constructed for this merit badge must comply with height standards as outlined in the [*Guide to Safe Scouting*](https://www.scouting.org/health-and-safety/gss/).    Counselors should also ensure that Scouts follow the Leave No Trace Seven Principles and the Outdoor Code in their pioneering projects. Just as hiking and camping without a trace are signs of expert outdoorsmanship, protecting the environment is a mark of responsible pioneering. Minimize impacts to the land.**
+- **NOTE: All pioneering projects constructed for this merit badge must comply with height standards as outlined in the [*Guide to Safe Scouting*](https://www.scouting.org/health-and-safety/gss/).    Counselors should also ensure that Scouts follow the Leave No Trace Seven Principles and the Outdoor Code in their pioneering projects. Just as hiking and camping without a trace are signs of expert outdoorsmanship, protecting the environment is a mark of responsible pioneering. Minimize impacts to the land.**
 
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you might encounter while participating in pioneering activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.

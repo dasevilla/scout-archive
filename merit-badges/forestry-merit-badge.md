@@ -36,7 +36,7 @@ In working through the Forestry merit badge requirements, Scouts will explore th
   - (b) Sustainable forest management
   - (c) Even-aged and uneven-aged management and the silvicultural systems associated with each
   - (d) Intermediate cuttings
-  - (e) The role of prescribed burning and related forest-management practices.
+  - (e) The role of prescribed burning and related forest-management practices
 
 - (5) With your parent or guardian's and counselor's approval, do ONE of the following:
   - (a) Visit a managed public or private forest area with the manager or a forester who is familiar with it. Write a brief report describing the type of forest, the management objectives, and the forestry techniques used to achieve the objectives.
@@ -55,7 +55,7 @@ In working through the Forestry merit badge requirements, Scouts will explore th
   - (b) Review a hazardous tree report done by a professional for this area and visit those trees and the results of the prescription to prune or remove them.
 
 - (7) Do the following:
-  - (a) Describe the consequences to forests that result from FIVE of the following elements: wildfire, absence of fire, destructive insects, loss of pollinating insect population, tree diseases, air pollution, overgrazing, deer or other wildlife overpopulation, improper harvest, urbanization.
+  - (a) Describe the consequences to forests that result from FIVE of the following elements: wildfire, absence of fire, destructive insects, loss of pollinating insect population, tree diseases, air pollution, overgrazing, deer or other wildlife overpopulation, improper harvest, and urbanization.
   - (b) Explain what can be done to reduce the consequences you discussed in 7(a).
   - (c) Describe what you should do if you discover a forest fire and how a professional firefighting crew might control it. Name your state or local wildfire control agency.
 

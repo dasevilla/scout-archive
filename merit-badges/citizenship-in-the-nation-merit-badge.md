@@ -17,12 +17,12 @@ As Scouts fulfill the requirements for this merit badge, they will learn how to 
   - (a) The function of each branch of government
   - (b) Why it is important to divide powers among different branches
   - (c) How each branch checks and balances the others
-  - (d) How citizens can be involved in each branch of government.
+  - (d) How citizens can be involved in each branch of government
 
 - (4) Discuss the importance of:
   - (a) *Declaration of Independence*
   - (b) *Bill of Rights* (the first 10 Amendments to the Constitution) and the 14th Amendment
-  - (c) "E Pluribus Unum," the traditional United States motto.
+  - (c) E Pluribus Unum, the traditional United States motto
 
 - (5) Watch the national evening news for five days in a row or read the main stories in a national media organization (e.g., a newspaper or news website) for five days in a row. Discuss the national issues that you learned about with your counselor. Choose one issue and explain how it affects you, your family, and community.
 

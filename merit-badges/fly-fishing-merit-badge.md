@@ -12,7 +12,7 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while participating in fly-fishing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Name and explain five safety practices you should always follow while fly-fishing.
   - (b) Discuss the prevention of and treatment for the following health concerns that could occur while fly-fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, and sunburn.
-  - (c) Explain how to remove a hook that has lodged in your arm.
+  - (c) Explain how to remove a hook that has lodged in someone's arm.
 
 - (2) Demonstrate how to match a fly rod, line, and leader to achieve a balanced system. Discuss several types of fly lines, and explain how and when each would be used. Review with your counselor how to care for this equipment.
 

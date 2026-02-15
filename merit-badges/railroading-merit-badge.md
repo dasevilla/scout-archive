@@ -26,19 +26,19 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
   - (d) With your parent or guardian's and counselor's approval, interview someone employed in the rail industry. Learn what that person does and how this person became interested in railroading. Find out what type of schooling and training is required for this position.
 
 - (4) Do the following:
-  - (a) Explain the purpose of Operation Lifesaver and its mission
+  - (a) Explain the purpose of Operation Lifesaver and its mission.
   - (b) List 9 track basic safety tips to remember when you are around a railroad track.
   - (c) List 9 safety considerations that should be followed when walking near a railroad track.
   - (d) Tell your counselor what a driver can do to safely operate near tracks.
-  - (e) Explain safety precautions when using a light rail or commuter train
+  - (e) Explain safety precautions when using a light rail or commuter train.
 
 - (5) Explain the appearance and meaning of the following rail signs and signals:
-  - (a) Passive signs and active signs.
+  - (a) Passive signs and active signs
   - (b) Devices at the crossing (flashing red lights—with or without bells, flashing red lights and gates, and cantilever flashing lights)
   - (c) Markings on the road (pavement markings and stop bars)
   - (d) Signs before the crossing (advance warning sign, advance warning sign for side streets, no train horn sign, and low ground clearance grade crossing sign)
   - (e) Signs along the railroad property (no trespassing sign)
-  - (f) Signs at the crossing (crossbuck sign, emergency notification system sign, multiple track sign, stop sign, and yield sign).
+  - (f) Signs at the crossing (crossbuck sign, emergency notification system sign, multiple track sign, stop sign, and yield sign)
 
 - (6) Do EACH of the following:
   - (a) Explain how railroad signals operate and show two basic signal types using color or configuration.

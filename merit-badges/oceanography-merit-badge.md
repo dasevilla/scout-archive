@@ -19,14 +19,14 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
 
 - (3) Describe the characteristics of ocean waves and do the following:
 
-  **Resources:** [Where Do waves Come From? (video)](https://youtu.be/Fkwkn7vXpWI)
+  **Resources:** [How Do Ocean Waves Work? (video)](https://youtu.be/_LRc6k-clzE?si=_bP0nKjcposT5QV5)
 
   - (a) Point out the differences among the storm surge, tsunami, tidal wave, and tidal bore.
 
     **Resources:** [Tsunami vs Tidal Wave: What's the Difference? (video)](https://youtu.be/wk7RyUReaIA), [What is Storm Surge? (video)](https://youtu.be/ZxYCB4VPVow)
   - (b) Explain the difference between sea, swell, and surf.
 
-    **Resources:** [Weather explained: What's the difference between seas and swell? (video)](https://www.skynews.com.au/australia-news/weather-explained-whats-the-difference-between-seas-and-swell/video/836f58b40244e1a18c28b015033f9792), [Difference Between Swell and Surf (website)](https://support.surfline.com/hc/en-us/articles/4410126820891-Difference-between-swell-and-surf), [The Difference Between SWELL and SURF (video)](https://www.youtube.com/shorts/qcwAsh9TDvo)
+    **Resources:** [Weather Explained: What's the Difference Between Seas and Swell? (video)](https://www.skynews.com.au/australia-news/weather-explained-whats-the-difference-between-seas-and-swell/video/836f58b40244e1a18c28b015033f9792), [Difference Between Swell and Surf (website)](https://support.surfline.com/hc/en-us/articles/4410126820891-Difference-between-swell-and-surf), [The Difference Between SWELL and SURF (video)](https://www.youtube.com/shorts/qcwAsh9TDvo)
   - (c) Explain how breakers are formed.
 
     **Resources:** [How Do Waves Break? (video)](https://www.youtube.com/watch?v=aXuQC1qRuEM)
@@ -59,7 +59,7 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
     **Resources:** [Coral Reefs: Types and Formation (video)](https://youtu.be/mPA9Ze16lGw?si=pVw56hFgRlnPJtro), [How Coral Reefs are Formed (video)](https://youtu.be/anDSRfSY7LQ)
   - (c) Measure the water temperature at the surface, midwater, and bottom of a body of water four times daily for five consecutive days. You may measure depth with a rock tied to a line. Make a Secchi disk to measure turbidity (how much suspended sedimentation is in the water). Measure the air temperature. Note the cloud cover and roughness of the water. Show your findings (air and water temperature, turbidity) on a graph. Tell how the water temperature changes with air temperature.
 
-    **Resources:** [How to make and Use a Secchi Disk (video)](https://youtu.be/lr66G09PuKg)
+    **Resources:** [How to Make and Use a Secchi Disk (video)](https://youtu.be/lr66G09PuKg)
   - (d) Make a model showing the inshore sediment movement by littoral currents, tidal movement, and wave action. Include such formations as high and low waterlines, low-tide terrace, berm, and coastal cliffs. Show how offshore bars are built up and torn down.
 
     **Resources:** [Longshore Drift Model Demo (video)](https://youtu.be/bfzAeQXhSGk)

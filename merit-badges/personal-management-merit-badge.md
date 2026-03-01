@@ -63,7 +63,7 @@ Personal management is about mapping a plan for your life that will involve sett
   - (b) The different ways to borrow money
   - (c) The differences between a charge card, debit card, and credit card, including the costs and pitfalls of using these financial tools, and why it is unwise to make only the minimum payment on your credit card
   - (d) Credit reports and how personal responsibility can affect your credit report
-  - (e) Ways to reduce or eliminate debt
+  - (e) Ways to reduce or eliminate debt.
 
 - (8) Demonstrate to your counselor your understanding of time management by doing the following:
   - (a) Write a "to do" list of tasks or activities, such as homework assignments, chores, and personal projects, that must be done in the coming week. List these in order of importance to you.

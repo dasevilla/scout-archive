@@ -5,7 +5,6 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 ## Eagle required Merit Badges
 
 1. [Camping](camping-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/camping/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf)
-1. [Citizenship in Society](citizenship-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-society/)
 1. [Citizenship in the Community](citizenship-in-the-community-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-community/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community.pdf)
 1. [Citizenship in the Nation](citizenship-in-the-nation-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-nation/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Nation.pdf)
 1. [Citizenship in the World](citizenship-in-the-world-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-world/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World.pdf)
@@ -60,7 +59,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Canoeing](canoeing-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/canoeing/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Canoeing.pdf)
 1. [Chemistry](chemistry-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/chemistry/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf)
 1. [Chess](chess-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/chess/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chess.pdf)
-1. [Citizenship in Society](citizenship-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-society/) 🦅
+1. [Citizenship in Society](citizenship-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-society/)
 1. [Citizenship in the Community](citizenship-in-the-community-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-community/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community.pdf) 🦅
 1. [Citizenship in the Nation](citizenship-in-the-nation-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-nation/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Nation.pdf) 🦅
 1. [Citizenship in the World](citizenship-in-the-world-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/citizenship-in-the-world/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World.pdf) 🦅
@@ -184,4 +183,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork.pdf)
 
-Generated on 2026-02-15 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2026-03-01 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

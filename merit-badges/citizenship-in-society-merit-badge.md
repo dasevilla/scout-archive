@@ -3,7 +3,7 @@
 
 ## Overview
 
-**Eagle required**
+
 
 Realize the benefits of diversity, equity, inclusion, and ethical leadership with the Citizenship in Society Merit Badge. Scouts will research any individual who has demonstrated positive leadership while making an ethical decision, explain what options the leader had when faced with a problem, why they believe they chose their final course of action, and the outcome of the leader’s decision.
 

@@ -34,7 +34,7 @@ Conservation isn’t just the responsibility of soil and plant scientists, hydro
 
 - (3) Do the following:
 
-  **Resources:** [What is Soil conservation (video)](https://youtu.be/YGu_09HH-Xo)
+  **Resources:** [What is Soil Conservation (video)](https://youtu.be/YGu_09HH-Xo)
 
   - (a) Tell what is meant by conservation practices.
   - (b) Describe the effect of three kinds of erosion-control practices.
@@ -45,7 +45,7 @@ Conservation isn’t just the responsibility of soil and plant scientists, hydro
 - (4) Do the following:
   - (a) Explain what a watershed is.
 
-    **Resources:** [What is a Water Shed (video)](https://youtu.be/gVdq4pWUiQM), [Watersheds, Rivers and Floodplains (video)](https://youtu.be/ButQspZX2yA?si=TgRhRG8uoKpe4oS3), [How (and Why) to Find Your Watershed (video)](https://youtu.be/kqwYulqfC9k)
+    **Resources:** [What is a Watershed (video)](https://youtu.be/gVdq4pWUiQM), [Watersheds, Rivers and Floodplains (video)](https://youtu.be/ButQspZX2yA?si=TgRhRG8uoKpe4oS3), [How (and Why) to Find Your Watershed (video)](https://youtu.be/kqwYulqfC9k)
   - (b) Outline the smallest watershed that you can find on a contour map.
   - (c) Outline, as far as the map will allow, the next larger watershed that also has the smallest one in it.
   - (d) Explain what a river basin is. Tell why all people living in a river basin should be concerned about land and water use in the basin.

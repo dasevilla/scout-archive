@@ -15,7 +15,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     **Resources:** [Preventing Injuries in Youth Athletes (video)](https://youtu.be/yC3blqv3kp4?si=TLnyOxBv96ZuyubP)
   - (b) Show that you know first aid for injuries or illnesses that could occur while participating in athletics events, including sprains, strains, contusions, abrasions, blisters, dehydration, heat reactions, and concussions.
 
-    **Resources:** [Using the RICE Method for Injuries - Rest, Ice, Compress, Elevate (video)](https://youtu.be/TZqDBgiEfL8?si=RV6nOMJpa0Rc2LbT), [First Aid Treatment for Wounds (video)](https://youtu.be/oGvyiWfXB7c?si=VLL-rINKVqd871yO), [Top 10 Most Common Sports Injuries (and How to Prevent Them!) (video)](https://youtu.be/OcGeUdfL-s4?si=-4uuzL95rK4Is-T2)
+    **Resources:** [Using the Rice Method for Injuries - Rest, Ice, Compress, Elevate (video)](https://youtu.be/TZqDBgiEfL8?si=RV6nOMJpa0Rc2LbT), [How to Treat Cuts & Scrapes (video)](https://youtu.be/L77rERL64zc?si=VZiIB3O9QKOg_diX), [Top 10 Most Common Sports Injuries (and How to Prevent Them!) (video)](https://youtu.be/OcGeUdfL-s4?si=-4uuzL95rK4Is-T2)
 
 - (2) Do the following with your counselor:
   - (a) Discuss the importance of having a physical examination each year. Discuss why overall health, immunizations, medications, allergies, and medical history are covered during an examination. Tell your counselor when you last underwent a physical examination.

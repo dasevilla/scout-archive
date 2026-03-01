@@ -43,7 +43,7 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
 
 - (6) From observation, describe how snakes move forward. Describe the functions of the muscles, ribs, and belly plates.
 
-  **Resources:** [How Snakes Move! (They Don't Just Slither!) (video)](https://www.youtube.com/watch?v=7-AKPFiIEEw), [How Do Snakes Move? (video)](https://www.youtube.com/watch?v=aPV0HpPRH2A), [True Facts: How Snakes Move (video)](https://www.youtube.com/watch?v=zFNnx4UgkNI)
+  **Resources:** [How Snakes Move! (They Don't Just Slither!) (video)](https://www.youtube.com/watch?v=7-AKPFiIEEw), [How Do Snakes Move? (video)](https://www.youtube.com/watch?v=aPV0HpPRH2A)
 
 - (7) Describe in detail six venomous snakes and the one venomous lizard found in the United States. Describe their habits and geographic range. Tell what you should do in case of a bite by a venomous species.
 

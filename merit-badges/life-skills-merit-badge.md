@@ -18,11 +18,19 @@
   - (F) Identify 5 everyday situations where first aid would be required and what to do when first aid is needed.
 
 - (2) **Household. Do the following:**
-  - (A) Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry.
-  - (B) Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing.
-  - (C) Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants.
-  - (D) Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen.
-  - (E) Demonstrate how to set a casual dining table and a formal dining table.
+
+  **Resources:** [How to Do Laundry](https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry), [Ironing 101: Everything You Need to Know About Ironing Clothes](https://321zips.com/blog/ironing-101-how-to-iron-clothes/), [YouTube: How to Sew a Button by Hand](https://www.youtube.com/watch?v=MmcEF2GR584), [YouTube: How to Sew On your Badges](https://www.youtube.com/watch?v=JI2YIwiEvTw), [Essential Home Maintenance](https://bookstore.ksre.ksu.edu/download/essential-living-skills-essential-home-maintenance_S134C), [Cleaning at Home](https://www.cleaninginstitute.org/), [How to Set a Table: Basic, Casual, and Formal Table Settings](https://www.realsimple.com/holidays-entertaining/entertaining/how-to-set-a-table), [How to Set a Formal Dinner Table, According to Etiquette Experts](https://www.marthastewart.com/276333/how-to-set-a-formal-dinner-table)
+
+  - (A)
+    - (A) Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry.
+  - (A)
+    - (A) Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing.
+  - (A)
+    - (A) Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants.
+  - (A)
+    - (A) Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen.
+  - (A)
+    - (A) Demonstrate how to set a casual dining table and a formal dining table.
 
 - (3) **Money. Do the following:**
   - (A) Explain what is required to open a bank account and compare the differences between a traditional bank, an online bank, and a credit union.

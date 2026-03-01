@@ -30,7 +30,7 @@ In earning the Fingerprinting merit badge, Scouts will learn about and use an im
     **Resources:** [Principles of Fingerprint Science (video)](https://www.youtube.com/watch?v=qX6hFXHDmk4), [Why Are Your Fingerprints Unique? (video)](https://www.youtube.com/watch?v=iCRy8voU5dE)
   - (c) Explain what it takes to positively identify a person using fingerprints.
 
-    **Resources:** [How Reliable is Fingerprint Analysis? (video)](https://youtu.be/fd8reN4uoBM?si=0GxHgY5rv0kw9XEA), [Fingerprint Evidence (video)](https://youtu.be/t3ppAEvI2kI?si=vSffPDpu6oJrYJZa)
+    **Resources:** [Fingerprint Evidence (video)](https://youtu.be/t3ppAEvI2kI?si=vSffPDpu6oJrYJZa)
 
 - (4) Take a clear set of prints using ONE of the following methods:
   - (a) Make both rolled and plain impressions. Make these on an 8-by-8-inch fingerprint identification card, available from your local police department or your counselor.
@@ -46,7 +46,7 @@ In earning the Fingerprinting merit badge, Scouts will learn about and use an im
 
 - (6) Identify three career opportunities that would use skills and knowledge in the areas of biometrics and/or fingerprinting. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-  **Resources:** [Fingerprint Technician (video)](https://www.facebook.com/share/v/1EAoePRyer/), [Latent Fingerprinting Examiner (video)](https://youtu.be/aJaNnqnje-4?si=gpxvbC4fTZDtEFhg)
+  **Resources:** [Latent Fingerprinting Examiner (video)](https://youtu.be/aJaNnqnje-4?si=gpxvbC4fTZDtEFhg)
 
 ## Resources
 

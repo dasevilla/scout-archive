@@ -23,7 +23,7 @@ Learn how animal diversity impacts the planet and the longevity of communities a
 
 - (4) List and describe five major fish and wildlife management practices used by managers in your state.
 
-  **Resources:** [Common F&W management practices (video)](https://youtu.be/gj45pzJifM0)
+  **Resources:** [Common F&W Management Practices (video)](https://youtu.be/gj45pzJifM0)
 
 - (5) Do ONE of the following:
   - (a) Construct, erect, and check regularly at least two artificial nest boxes (wood duck, bluebird, squirrel, etc.) and keep written records for one nesting season.
@@ -64,7 +64,7 @@ Learn how animal diversity impacts the planet and the longevity of communities a
 
 - (8) Identify three career opportunities that would use skills and knowledge by fish and wildlife professionals. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-  **Resources:** [Fisheries and Wildlife Major, Courses, AND Career Path (website)](https://youtu.be/Afrhev-OUcQ?si=-njglcpjz_q37eCn), [Careers and Internships at the USF&WS (website)](https://www.fishwildlife.org/landing/membership/member-list), [8 Wildlife Management Degree Jobs (website)](https://wildlife.org/wildlife-careers/)
+  **Resources:** [Fisheries and Wildlife Major, Courses, AND Career Path (video)](https://youtu.be/Afrhev-OUcQ?si=-njglcpjz_q37eCn), [Careers and Internships at the USF&WS (website)](https://www.fishwildlife.org/landing/membership/member-list), [8 Wildlife Management Degree Jobs (website)](https://wildlife.org/wildlife-careers/)
 
 ## Resources
 

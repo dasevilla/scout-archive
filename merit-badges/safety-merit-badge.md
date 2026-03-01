@@ -44,16 +44,16 @@ Knowing about safety helps Scouts to make the right choices and to take the best
     **Resources:** [Home Security Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf)
 
 - (4) **Safety in Public Places.** Explain each of the following to your counselor:
-  - (a) How a person would safely exit from public buildings, a hotel, and a stadium in an emergency.
+  - (a) How a person would safely exit from public buildings, a hotel, and a stadium in an emergency
 
     **Resources:** [How to Survive a Stampede (video)](https://youtu.be/KaDcgIx2PlY?si=1EIJSxfDfMlG0AfV), [How to Survive a Burning High Rise (video)](https://youtu.be/P8Naa4pzDdo?si=5Wr7bMJOmXW9p0XG)
-  - (b) How and why Scouts would take shelter at camp.
+  - (b) How and why Scouts would take shelter at camp
 
     **Resources:** [Camp Emergency Planning (video)](https://www.youtube.com/shorts/no3dR86WRss), [Camp Evacuation Planning (website)](https://www.acacamps.org/resources/wildfire-evacuations)
-  - (c) How should Scouts respond to an active shooter.
+  - (c) How should Scouts respond to an active shooter
 
     **Resources:** [How to Respond to an Active Shooter (video)](https://youtu.be/sshDd_AgRAA?si=IRhkIwBLtRN6uqjF)
-  - (d) The meaning of this saying: "If You See Something, Say Something.®"
+  - (d) The meaning of this saying: "If You See Something, Say Something®"
 
     **Resources:** [If You See Something, Say Something® (video)](https://youtu.be/Lgm5QWD1T3k?si=ABHK45yx-DqYETJh)
 
@@ -72,10 +72,10 @@ Knowing about safety helps Scouts to make the right choices and to take the best
   - (c) Sexual assault at a party or on a date
 
 - (7) **Online Safety.** Discuss the following with your counselor:
-  - (a) How to avoid being the victim of online crimes.
+  - (a) How to avoid being the victim of online crimes
 
     **Resources:** [Protect Your Personal Information From Hackers and Scammers (website)](https://consumer.ftc.gov/protect-your-personal-information-hackers-scammers#keep), [Passkeys Explained in Under 4 Minutes (video)](https://youtu.be/bdp8RdjV6PU?si=MPYq7d0la_3KVSuX)
-  - (b) Common online financial scams.
+  - (b) Common online financial scams
 
     **Resources:** [Common Online Scams (video)](https://youtu.be/k8UVnkh8i0c), [10 Common Internet Scams (video)](https://youtu.be/CDhAOvsyw2s?si=42nASL5CjtBBKwru)
   - (c) Effective online security
@@ -84,10 +84,10 @@ Knowing about safety helps Scouts to make the right choices and to take the best
   - (d) Identity theft and how to prevent it
 
     **Resources:** [Preventing Identity Theft (video)](https://youtu.be/kDFeSUUwRnA?si=ncAfMQF1RIdIWetC)
-  - (e) How criminals use social media to target victims.
+  - (e) How criminals use social media to target victims
 
     **Resources:** [How Criminals Use Social Media (video)](https://youtu.be/5bdBvNCBeho?si=bJdF2LM50LG_tm74)
-  - (f) How bullying, texting, and sharing photos can become crimes.
+  - (f) How bullying, texting, and sharing photos can become crimes
 
 - (8) **Travel Safety.** Explain guidelines for traveling safely:
   - (a) As a pedestrian in a city

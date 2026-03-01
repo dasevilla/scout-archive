@@ -119,67 +119,140 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "How to Do Laundry",
+          "url": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry"
+        },
+        {
+          "title": "Ironing 101: Everything You Need to Know About Ironing Clothes",
+          "url": "https://321zips.com/blog/ironing-101-how-to-iron-clothes/"
+        },
+        {
+          "title": "YouTube: How to Sew a Button by Hand",
+          "url": "https://www.youtube.com/watch?v=MmcEF2GR584"
+        },
+        {
+          "title": "YouTube: How to Sew On your Badges",
+          "url": "https://www.youtube.com/watch?v=JI2YIwiEvTw"
+        },
+        {
+          "title": "Essential Home Maintenance",
+          "url": "https://bookstore.ksre.ksu.edu/download/essential-living-skills-essential-home-maintenance_S134C"
+        },
+        {
+          "title": "Cleaning at Home",
+          "url": "https://www.cleaninginstitute.org/"
+        },
+        {
+          "title": "How to Set a Table: Basic, Casual, and Formal Table Settings",
+          "url": "https://www.realsimple.com/holidays-entertaining/entertaining/how-to-set-a-table"
+        },
+        {
+          "title": "How to Set a Formal Dinner Table, According to Etiquette Experts",
+          "url": "https://www.marthastewart.com/276333/how-to-set-a-formal-dinner-table"
+        }
+      ],
       "sub_requirements": [
         {
           "id": "A",
           "label": "A",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry."
-            }
-          ],
+          "content": [],
           "resources": [],
-          "sub_requirements": []
+          "sub_requirements": [
+            {
+              "id": "A",
+              "label": "A",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            }
+          ]
         },
         {
-          "id": "B",
-          "label": "B",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing."
-            }
-          ],
+          "id": "A",
+          "label": "A",
+          "content": [],
           "resources": [],
-          "sub_requirements": []
+          "sub_requirements": [
+            {
+              "id": "A",
+              "label": "A",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            }
+          ]
         },
         {
-          "id": "C",
-          "label": "C",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants."
-            }
-          ],
+          "id": "A",
+          "label": "A",
+          "content": [],
           "resources": [],
-          "sub_requirements": []
+          "sub_requirements": [
+            {
+              "id": "A",
+              "label": "A",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            }
+          ]
         },
         {
-          "id": "D",
-          "label": "D",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen."
-            }
-          ],
+          "id": "A",
+          "label": "A",
+          "content": [],
           "resources": [],
-          "sub_requirements": []
+          "sub_requirements": [
+            {
+              "id": "A",
+              "label": "A",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            }
+          ]
         },
         {
-          "id": "E",
-          "label": "E",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate how to set a casual dining table and a formal dining table."
-            }
-          ],
+          "id": "A",
+          "label": "A",
+          "content": [],
           "resources": [],
-          "sub_requirements": []
+          "sub_requirements": [
+            {
+              "id": "A",
+              "label": "A",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate how to set a casual dining table and a formal dining table."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            }
+          ]
         }
       ]
     },

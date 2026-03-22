@@ -18,19 +18,21 @@
   - (F) Identify 5 everyday situations where first aid would be required and what to do when first aid is needed.
 
 - (2) **Household. Do the following:**
+  - (A) Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry.
 
-  **Resources:** [How to Do Laundry](https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry), [Ironing 101: Everything You Need to Know About Ironing Clothes](https://321zips.com/blog/ironing-101-how-to-iron-clothes/), [YouTube: How to Sew a Button by Hand](https://www.youtube.com/watch?v=MmcEF2GR584), [YouTube: How to Sew On your Badges](https://www.youtube.com/watch?v=JI2YIwiEvTw), [Essential Home Maintenance](https://bookstore.ksre.ksu.edu/download/essential-living-skills-essential-home-maintenance_S134C), [Cleaning at Home](https://www.cleaninginstitute.org/), [How to Set a Table: Basic, Casual, and Formal Table Settings](https://www.realsimple.com/holidays-entertaining/entertaining/how-to-set-a-table), [How to Set a Formal Dinner Table, According to Etiquette Experts](https://www.marthastewart.com/276333/how-to-set-a-formal-dinner-table)
+    **[How to Do Laundry](https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry)**
+  - (B) Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing.
 
-  - (A)
-    - (A) Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry.
-  - (A)
-    - (A) Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing.
-  - (A)
-    - (A) Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants.
-  - (A)
-    - (A) Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen.
-  - (A)
-    - (A) Demonstrate how to set a casual dining table and a formal dining table.
+    **[Ironing 101: Everything You Need to Know About Ironing Clothes](https://321zips.com/blog/ironing-101-how-to-iron-clothes/)**
+  - (C) Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants.
+
+    **[YouTube: How to Sew a Button by Hand](https://www.youtube.com/watch?v=MmcEF2GR584)****[YouTube: How to Sew On your Badges](https://www.youtube.com/watch?v=JI2YIwiEvTw)**
+  - (D) Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen.
+
+    **[Essential Home Maintenance](https://bookstore.ksre.ksu.edu/download/essential-living-skills-essential-home-maintenance_S134C)****[Cleaning at Home](https://www.cleaninginstitute.org/)**
+  - (E) Demonstrate how to set a casual dining table and a formal dining table.
+
+    **[How to Set a Table: Basic, Casual, and Formal Table Settings](https://www.realsimple.com/holidays-entertaining/entertaining/how-to-set-a-table)****[How to Set a Formal Dinner Table, According to Etiquette Experts](https://www.marthastewart.com/276333/how-to-set-a-formal-dinner-table)**
 
 - (3) **Money. Do the following:**
   - (A) Explain what is required to open a bank account and compare the differences between a traditional bank, an online bank, and a credit union.
@@ -40,16 +42,26 @@
 
 - (4) **Social. Do the following:**
   - (A) Demonstrate how to properly introduce yourself in a social situation.
+
+    **[How to Introduce Yourself in Any Situation](https://www.wikihow.com/Introduce-Yourself)**
   - (B) Explain what social etiquette means and how to practice it.
+
+    **[What Is Social Etiquette?](https://thebritishschoolofexcellence.com/social-etiquette/what-is-social-etiquette/)**
   - (C) Explain what it means to set personal boundaries and what to do when those boundaries are crossed.
-  - (D) Create a list of similarities and differences of the members of a group you are involved with (troop, school club, sports team, etc.). Share this list with your counselor and describe how these similarities and differences affect the group.
-  - (E) Explain how equity is different from equality. Describe a situation that might exist in school, sports, an extra-curricular activity or Scouting that could result in inequity.
-  - (F) Give six examples of appropriate table manners
+
+    **[10 Steps to Set Healthy Boundaries](https://www.youtube.com/watch?v=Zb9L4XQNwPw)**
+  - (D) Give six examples of appropriate table manners
+
+    **[Top Table Manners Tips For Kids](https://emilypost.com/client_media/files/top_table_manners_tip_for_kids.pdf)**
 
 - (5) **Self-Care. Do the following:**
   - (A) Explain what self-respect means and how you can demonstrate it.
-  - (B) Explain to your counselor what might cause stress and how to manage it.
+
+    **[20 Ways to Respect Yourself and Why It Matters](https://lauraconteuse.com/ways-to-respect-yourself/)**
+  - (B) Explain to your counselor what might cause stress and how to manage it.**[Stress Management](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relievers/art-20047257)**
   - (C) Explain the importance of good personal hygiene and give examples of how to practice it.
+
+    **[The Importance Of Good Hygiene](https://healthyhomefront.com/stay-well/the-importance-of-good-hygiene/)**
   - (D) Explain the benefits of exercise and demonstrate three types of exercise found in the fitness section of your Scouts BSA handbook.
 
 - (6) **Employment. Do THREE of the following:**

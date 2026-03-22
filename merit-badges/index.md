@@ -25,8 +25,10 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 ## Test Lab
 
 1. [Auctioneering](auctioneering-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/auctioneering/)
+1. [Competitive Gaming](competitive-gaming-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/competitive-gaming/)
 1. [Dance](dance-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/dance/)
 1. [Life Skills](life-skills-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/life-skills/)
+1. [Military Service & Veterans](military-service-veterans-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/military-service-veterans/)
 1. [Physics](physics-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/physics/)
 1. [Psychology](psychology-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/psychology/)
 1. [Sewing & Needlework](sewing-needlework-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/sewing-needlework/)
@@ -67,6 +69,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Coin Collecting](coin-collecting-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/coin-collecting/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Coin%20Collecting.pdf)
 1. [Collections](collections-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/collections/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Collections.pdf)
 1. [Communication](communication-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/communication/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Communication.pdf) 🦅
+1. [Competitive Gaming](competitive-gaming-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/competitive-gaming/)
 1. [Composite Materials](composite-materials-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/composite-materials/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Composite%20Materials.pdf)
 1. [Cooking](cooking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/cooking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cooking.pdf) 🦅
 1. [Crime Prevention](crime-prevention-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/crime-prevention/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Crime%20Prevention.pdf)
@@ -117,6 +120,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Lifesaving](lifesaving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/lifesaving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Lifesaving.pdf) 🦅
 1. [Mammal Study](mammal-study-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/mammal-study/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mammal%20Study.pdf)
 1. [Metalwork](metalwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/metalwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Metalwork.pdf)
+1. [Military Service & Veterans](military-service-veterans-merit-badge.md) - [Original](https://www.scouting.org/skills/merit-badges/test-lab/military-service-veterans/)
 1. [Mining in Society](mining-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/mining-in-society/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mining%20in%20Society.pdf)
 1. [Model Design and Building](model-design-and-building-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/model-design-and-building/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Model%20Design.pdf)
 1. [Motorboating](motorboating-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/motorboating/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Motorboating.pdf)
@@ -183,4 +187,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork.pdf)
 
-Generated on 2026-03-01 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2026-03-22 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

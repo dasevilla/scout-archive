@@ -40,7 +40,7 @@ Before the race, discuss with your Tiger adult partner how you will demonstrate 
 **Activities:**
 
 - **[Act Like a Good Sport Tiger](https://www.scouting.org/cub-scout-activities/act-like-a-good-sport-tiger/)** (Indoor, energy 2, supplies 1, prep 1)
-  Cub Scouts will act out through roll playing how to be a good sport during the race
+  Cub Scouts will act out through role playing how to be a good sport during the race
 
 ### Requirement 4
 

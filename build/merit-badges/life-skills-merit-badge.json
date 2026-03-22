@@ -115,144 +115,355 @@
             {
               "type": "text",
               "value": "Household. Do the following:"
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
             }
           ]
         }
       ],
-      "resources": [
-        {
-          "title": "How to Do Laundry",
-          "url": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry"
-        },
-        {
-          "title": "Ironing 101: Everything You Need to Know About Ironing Clothes",
-          "url": "https://321zips.com/blog/ironing-101-how-to-iron-clothes/"
-        },
-        {
-          "title": "YouTube: How to Sew a Button by Hand",
-          "url": "https://www.youtube.com/watch?v=MmcEF2GR584"
-        },
-        {
-          "title": "YouTube: How to Sew On your Badges",
-          "url": "https://www.youtube.com/watch?v=JI2YIwiEvTw"
-        },
-        {
-          "title": "Essential Home Maintenance",
-          "url": "https://bookstore.ksre.ksu.edu/download/essential-living-skills-essential-home-maintenance_S134C"
-        },
-        {
-          "title": "Cleaning at Home",
-          "url": "https://www.cleaninginstitute.org/"
-        },
-        {
-          "title": "How to Set a Table: Basic, Casual, and Formal Table Settings",
-          "url": "https://www.realsimple.com/holidays-entertaining/entertaining/how-to-set-a-table"
-        },
-        {
-          "title": "How to Set a Formal Dinner Table, According to Etiquette Experts",
-          "url": "https://www.marthastewart.com/276333/how-to-set-a-formal-dinner-table"
-        }
-      ],
+      "resources": [],
       "sub_requirements": [
         {
           "id": "A",
           "label": "A",
-          "content": [],
-          "resources": [],
-          "sub_requirements": [
+          "content": [
             {
-              "id": "A",
-              "label": "A",
-              "content": [
+              "type": "text",
+              "value": "Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Do Laundry"
+                    }
+                  ]
+                },
                 {
                   "type": "text",
-                  "value": "Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry."
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "A",
-          "label": "A",
-          "content": [],
-          "resources": [],
-          "sub_requirements": [
+          "id": "B",
+          "label": "B",
+          "content": [
             {
-              "id": "A",
-              "label": "A",
-              "content": [
+              "type": "text",
+              "value": "Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://321zips.com/blog/ironing-101-how-to-iron-clothes/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ironing 101: Everything You Need to Know About Ironing Clothes"
+                    }
+                  ]
+                },
                 {
                   "type": "text",
-                  "value": "Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing."
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "A",
-          "label": "A",
-          "content": [],
-          "resources": [],
-          "sub_requirements": [
+          "id": "C",
+          "label": "C",
+          "content": [
             {
-              "id": "A",
-              "label": "A",
-              "content": [
+              "type": "text",
+              "value": "Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.youtube.com/watch?v=MmcEF2GR584"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "YouTube: How to Sew a Button by Hand"
+                    }
+                  ]
+                },
                 {
                   "type": "text",
-                  "value": "Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants."
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.youtube.com/watch?v=JI2YIwiEvTw"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "YouTube: How to Sew On your Badges"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "A",
-          "label": "A",
-          "content": [],
-          "resources": [],
-          "sub_requirements": [
+          "id": "D",
+          "label": "D",
+          "content": [
             {
-              "id": "A",
-              "label": "A",
-              "content": [
+              "type": "text",
+              "value": "Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://bookstore.ksre.ksu.edu/download/essential-living-skills-essential-home-maintenance_S134C"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Essential Home Maintenance"
+                    }
+                  ]
+                },
                 {
                   "type": "text",
-                  "value": "Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen."
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.cleaninginstitute.org/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cleaning at Home"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         },
         {
-          "id": "A",
-          "label": "A",
-          "content": [],
-          "resources": [],
-          "sub_requirements": [
+          "id": "E",
+          "label": "E",
+          "content": [
             {
-              "id": "A",
-              "label": "A",
-              "content": [
+              "type": "text",
+              "value": "Demonstrate how to set a casual dining table and a formal dining table."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.realsimple.com/holidays-entertaining/entertaining/how-to-set-a-table"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Set a Table: Basic, Casual, and Formal Table Settings"
+                    }
+                  ]
+                },
                 {
                   "type": "text",
-                  "value": "Demonstrate how to set a casual dining table and a formal dining table."
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.marthastewart.com/276333/how-to-set-a-formal-dinner-table"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Set a Formal Dinner Table, According to Etiquette Experts"
+                    }
+                  ]
+                }
+              ]
             }
-          ]
+          ],
+          "resources": [],
+          "sub_requirements": []
         }
       ]
     },
@@ -336,6 +547,14 @@
             {
               "type": "text",
               "value": "Social. Do the following:"
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
             }
           ]
         }
@@ -349,6 +568,46 @@
             {
               "type": "text",
               "value": "Demonstrate how to properly introduce yourself in a social situation."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.wikihow.com/Introduce-Yourself"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Introduce Yourself in Any Situation"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
             }
           ],
           "resources": [],
@@ -361,6 +620,46 @@
             {
               "type": "text",
               "value": "Explain what social etiquette means and how to practice it."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://thebritishschoolofexcellence.com/social-etiquette/what-is-social-etiquette/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "What Is Social Etiquette?"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
             }
           ],
           "resources": [],
@@ -373,6 +672,46 @@
             {
               "type": "text",
               "value": "Explain what it means to set personal boundaries and what to do when those boundaries are crossed."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.youtube.com/watch?v=Zb9L4XQNwPw"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "10 Steps to Set Healthy Boundaries"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
             }
           ],
           "resources": [],
@@ -384,31 +723,39 @@
           "content": [
             {
               "type": "text",
-              "value": "Create a list of similarities and differences of the members of a group you are involved with (troop, school club, sports team, etc.). Share this list with your counselor and describe how these similarities and differences affect the group."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "E",
-          "label": "E",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain how equity is different from equality. Describe a situation that might exist in school, sports, an extra-curricular activity or Scouting that could result in inequity."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "F",
-          "label": "F",
-          "content": [
-            {
-              "type": "text",
               "value": "Give six examples of appropriate table manners"
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://emilypost.com/client_media/files/top_table_manners_tip_for_kids.pdf"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Top Table Manners Tips For Kids"
+                    }
+                  ]
+                }
+              ]
             }
           ],
           "resources": [],
@@ -428,6 +775,14 @@
             {
               "type": "text",
               "value": "Self-Care. Do the following:"
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
             }
           ]
         }
@@ -441,6 +796,46 @@
             {
               "type": "text",
               "value": "Explain what self-respect means and how you can demonstrate it."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://lauraconteuse.com/ways-to-respect-yourself/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "20 Ways to Respect Yourself and Why It Matters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
             }
           ],
           "resources": [],
@@ -453,6 +848,42 @@
             {
               "type": "text",
               "value": "Explain to your counselor what might cause stress and how to manage it."
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relievers/art-20047257"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Stress Management"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
             }
           ],
           "resources": [],
@@ -465,6 +896,46 @@
             {
               "type": "text",
               "value": "Explain the importance of good personal hygiene and give examples of how to practice it."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://healthyhomefront.com/stay-well/the-importance-of-good-hygiene/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The Importance Of Good Hygiene"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
             }
           ],
           "resources": [],

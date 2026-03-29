@@ -11,68 +11,136 @@ Multisport is a racing competition that includes any combination of running, bik
 
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter during multisport activities and what you should do to anticipate, prevent, mitigate, and respond to these hazards.
+
+    **Resources:** [How To Avoid Injury When Triathlon Training (video)](https://youtu.be/LckcSB-O8UI)
   - (b) Show that you know first aid for injuries or illnesses that could occur while participating in multisport events, including abrasions, blisters, concussions, contusions, dehydration, hypothermia, overheating, sprains, and strains.
+
+    **Resources:** [R.I.C.E. Treatment for Sprains and Strains (video)](https://youtu.be/TZqDBgiEfL8), [Treating Heat Exhaustion and Heat Stroke (video)](https://youtu.be/5hSpMdlXZw0), [How To Avoid and Treat Foot Blisters (video)](https://youtu.be/H6xlECl9ZBg)
 
 - (2) Do the following:
   - (a) Discuss the importance of having a physical examination each year. Discuss why overall health, immunizations, medications, allergies, and medical history are covered during an examination. Tell your counselor when you last underwent a physical examination.
+
+    **Resources:** [Scouting America Annual Health and Medical Record (website)](https://www.scouting.org/health-and-safety/ahmr/)
   - (b) Explain the importance of maintaining good health habits, especially during training, and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in athletic activities.
+
+    **Resources:** [7 Reasons To Be Smoke-Free (video)](https://youtu.be/hCC1dgmwO_4), [Vaping Impacts Your Athletic Ability (video)](https://youtu.be/zXL9k-rJvIo), [3 Things To Know About Drinking Alcohol (video)](https://youtu.be/YbBIl2KcVIQ)
   - (c) Define a healthy diet and explain the importance of maintaining a healthy diet.
+
+    **Resources:** [Nutrition Fuels Training! (video)](https://youtu.be/zMposrWrPC0)
 
 - (3) Do the following:
   - (a) Discuss with your counselor your level of familiarity and experience with the multisport events (swimming, biking, and running) and the order and distance of each sports segment.
+
+    **Resources:** [Empowering Youth Through Multisport (video)](https://youtu.be/qmW51zdyduc)
   - (b) Explain to your counselor which multisport event (swimming, biking, or running) you feel is your strongest and which you could improve upon the most.
+
+    **Resources:** [Multisport Disciplines (website)](https://www.usatriathlon.org/multisport/disciplines%20)
   - (c) Identify the required equipment for each of the three common multisport events (swimming, biking, and running).
+
+    **Resources:** [USA Triathlon Youth Guide (PDF)](https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blteec8160c769bfc2e/648b54b80f2d9bd22bed580b/USAT_Youth_Guide_2019.pdf), [Triathlon Equipment You Really Need (video)](https://youtu.be/kgbz_3B9dNA)
   - (d) Based on your interests, experience, and discussion with your counselor, select ONE of the following multisport formats to concentrate on for the remaining requirements: triathlon (swimming, biking, and running), duathlon (biking and running), aquathlon (swimming and running), or aquabike (swimming and biking).
 
 - (4) Complete ALL of the following for the multisport format option you selected in requirement 3(d):
   - **Option A—Triathlon.**
   - (1) **Swimming**
   - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
+
+    **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
   - (b) Explain the components of the Scouting America Safe Swim Defense program and how you will ensure they are in place when you swim.
   - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
+
+    **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
   - (2) **Biking**
   - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
+
+    **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
   - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
+
+    **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
   - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
+
+    **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
   - (3) **Running**
   - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
+
+    **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
   - (b) Learn and state the basic rules of the road for runners.
+
+    **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
   - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
+
+    **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
   - **Option B—Duathlon.**
   - (1) **Biking**
   - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
+
+    **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
   - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
+
+    **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
   - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
+
+    **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
   - (2) **Running**
   - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
+
+    **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
   - (b) Learn and state the basic rules of the road for runners.
+
+    **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
   - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
+
+    **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
   - **Option C—Aquathlon.**
   - (1) **Swimming**
   - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
+
+    **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
   - (b) Explain the components of the Scouting America Safe Swim Defense guidelines and how you will ensure they are in place when you swim.
+  - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
+
+    **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
   - (2) **Running**
   - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
+
+    **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
   - (b) Learn and state the basic rules of the road for runners.
+
+    **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
   - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
-  - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is safe to swim, and when it is appropriate to wear a wet suit.
+
+    **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
   - **Option D—Aquabike.**
   - (1) **Swimming**
   - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
+
+    **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
   - (b) Explain the components of the Scouting America Safe Swim Defense guidelines and how you will ensure they are in place when you swim.
   - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
+
+    **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
   - (2) **Biking**
   - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
+
+    **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
   - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
+
+    **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
   - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
+
+    **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
 
 - (5) Do the following:
   - (a) With guidance from your counselor, establish a four-week training plan that combines your chosen multisport format to develop proper techniques, gain self-confidence, and increase endurance. Each session should last at least 25 minutes and include a proper warmup before the session and stretching afterward.
+
+    **Resources:** [Advice for Younger Athletes | Our Trips for Junior and Youth Triathletes (video)](https://youtu.be/PxVw1eZp7d4), [How to Start Swim Training (video)](https://youtu.be/Zh9bhXe5lug), [Is There a Perfect Swimming Technique for Triathlon? (video)](https://youtu.be/i6-w8RXf45Y), [How To Start Running Training (video)](https://youtu.be/kVnyY17VS9Y)
   - (b) Use a chart or other tracking method to monitor your training and development during this period.
   - (c) Set a personal goal for improvement based on one or more of the following criteria: time, technique, or distance.
   - (d) At the end of four weeks, discuss your progress with your counselor and tell how your development has affected you mentally and physically.
 
 - (6) Learn the methods of setting up your transition area, which is where your bike equipment and/or running gear will be. Discuss with your counselor how to smoothly and safely transition from one element to the next, such as mounting and dismounting your bike or adjusting your gear.
+
+  **Resources:** [Setting Up Your Transition Area (video)](https://www.youtube.com/watch?v=HvIq5NExAFU%20)
 
 - (7) After completing requirements 1-6, do ONE of the following (complete all of the activities on the same day and consecutively) for the multisport focus area you selected in requirement 3(d), including demonstrating a smooth and safe transition between each:
   - (a) Triathlon (swim 100 m, bike 3 km, and run 1 km)
@@ -81,9 +149,18 @@ Multisport is a racing competition that includes any combination of running, bik
   - (d) Aquabike (swim 100 m and bike 3 km)
 
 - (8) Do TWO of the following and discuss with your counselor:
+
+  **Resources:** [Example of a Multisport Event (video)](https://www.youtube.com/watch?v=4M7PdZ7wXW0%20)
+
   - (a) Research and identify two ways you can continue participating in multisport after completing this merit badge.
+
+    **Resources:** [Participating in Multisport (video)](https://www.youtube.com/watch?v=qt2a3m-yoy4%20)
   - (b) Research an Olympic, Paralympic, or professional triathlete (past or current). Share information on their background in the sport and what inspires you most about this individual.
+
+    **Resources:** [Paralympic Triathlon (video)](https://www.youtube.com/watch?v=DtVyOewaX3Y%20), [Olympic Triathlon (video)](https://www.youtube.com/watch?v=r_8jcSU6kNc%20)
   - (c) Demonstrate leadership by starting a training group and educating your peers on the importance of physical activity, nutrition, and the disciplines of multisport.
+
+    **Resources:** [Training With a Club (video)](https://www.youtube.com/watch?v=ogogU_qZok8%20)
   - (d) Sign up for and participate in a sanctioned multisport event in your area.
   - (e) Volunteer at a local multisport event, running race, biking event, swim meet, or adaptive sporting event.
 

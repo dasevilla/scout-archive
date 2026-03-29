@@ -19,7 +19,7 @@ In addition to learning how to safely ride and care for horses, Scouts who earn 
 
 - (2) Name 15 parts of a horse and discuss the function of each with your counselor.
 
-  **Resources:** [Parts of a Horse (video)](https://youtu.be/y369q1jh8HQ), [Parts of a Horse (filled) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Horsemanship/Parts%20of%20a%20Horse.jpg), [Parts of a Horse (blank) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Horsemanship/Parts%20of%20a%20Horse%20-%20blank%20worksheet.pdf)
+  **Resources:** [Parts of a Horse (video)](https://www.youtube.com/watch?v=y369q1jh8HQ), [Parts of a Horse (filled) (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Horsemanship/Parts%20of%20a%20Horse.jpg), [Parts of a Horse (blank) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Horsemanship/Parts%20of%20a%20Horse%20-%20blank%20worksheet.pdf)
 
 - (3) Name four breeds of horses. Explain the special features for which each breed is known.
 

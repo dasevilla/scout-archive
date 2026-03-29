@@ -74,7 +74,7 @@ Successfully completing this badge’s requirements can lead to a lifetime of pe
     **Resources:** [How to Replace a Light Switch (video)](https://www.youtube.com/watch?v=HreHB638a2g)
   - (d) Replace an electrical wall outlet.
 
-    **Resources:** [How to Replace Outlets, Light Switches and GFCI Plugs (video)](https://youtu.be/drsaKC6_gYw?si=xfZ534IbYV6IsYgI), [How to Change an Outlet (video)](https://www.youtube.com/watch?v=OC-b-00d-R0)
+    **Resources:** [How To Change an Outlet (video)](https://www.youtube.com/watch?v=OC-b-00d-R0)
 
 - (5) Under the supervision of your parent, guardian, or counselor, locate and know how to turn off the main water source, including well pumps, and do TWO of the following:
 

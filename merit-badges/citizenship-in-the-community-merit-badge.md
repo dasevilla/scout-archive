@@ -11,33 +11,57 @@ A nation is a patchwork of communities that differ from each other and may be go
 
 - (1) Discuss with your counselor what citizenship in the community means and what it takes to be a good citizen in your community. Discuss the rights, duties, and obligations of citizenship, and explain how you can demonstrate good citizenship in your community, Scouting unit, place of worship, or school.
 
+  **Resources:** [What is Citizenship? (video)](https://vimeo.com/1152697106), [Rights and Responsibilities (video)](https://youtu.be/FWwEMFSY1r0), [Responsibilities of the Charter Commission (video)](https://youtu.be/Bv2XHEcGSOU)
+
 - (2) Do the following:
   - (a) Using an electronic mapping tool or paper map, locate and pinpoint the following services and landmarks in your community. Determine and record the distances from your home including driving time AND either walking or biking time.
+
+    **Resources:** [National Map (website)](https://apps.nationalmap.gov/viewer/), [Google Maps (website)](https://www.google.com/maps), [Apple Map (website)](https://maps.apple.com/search), [How To Create a Table in a Word Document Online (video)](https://youtu.be/LBcZg9gRmbI)
   - (1) Chief government buildings such as your city hall, county courthouse, and public works/services facilities
   - (2) Fire station, police station, and hospital nearest your home
   - (3) Parks, playgrounds, recreation areas, and trails
   - (4) Historical or other interesting points of interest
   - (b) Chart the organization of your local or state government. Show the top offices and tell whether they are elected or appointed.
 
+    **Resources:** [Three Branches of Government at the State Level (video)](https://youtu.be/_sQNz2liUuY), [The Role and Functions of Local Government (video)](https://youtu.be/gs6lqZEe4Rk)
+
 - (3) Do the following:
   - (a) Attend an in-person meeting of your city, town, or county council or school board, local court session; OR another state or local governmental meeting approved in advance by your counselor.
+
+    **Resources:** [How Does the US Court System Work? (video)](https://youtu.be/E9ylFthKSkY), [What Do School Boards Do? (website)](https://youtu.be/fV1x0l3CAo0), [What Does My Local School Board Do? (video)](https://youtu.be/uvJtYaaMH-k), [How a City Council Meeting Works (video)](https://youtu.be/-FK9THDgIT4), [Community Court (website)](https://youtu.be/J9G00lK-fsw)
   - (b) Choose one of the issues discussed at the meeting where a difference of opinions was expressed, and explain to your counselor why you agree with one opinion more than you do another one.
+
+    **Resources:** [Note Taking Assignment Tips (website)](https://sulky-answer-76a.notion.site/Note-taking-assignment-tips-52758bb0f5a3486181c4b60b813e0338), [Note Taking Methods (video)](https://youtu.be/uy6Eu5l0yOk)
 
 - (4) Choose an issue that is important to the citizens of your community; then do the following:
   - (a) Find out which branch of local government is responsible for this issue.
   - (b) With your counselor's and a parent or guardian's approval, interview one person from the branch of government you identified in requirement 4(a). Ask what is being done about this issue and how young people can help.
+
+    **Resources:** [Tips and Tricks on Preparing and Conducting an Interview (video)](https://youtu.be/6NG-XCwuWfk)
   - (c) Share what you have learned with your counselor.
 
 - (5) With the approval of your counselor and a parent or guardian, watch a movie that shows how the actions of one individual or group of individuals can have a positive effect on a community. Discuss with your counselor what you learned from the movie about what it means to be a valuable and concerned member of the community.
 
+  **Resources:** [Remember the Titans Trailer (video)](https://youtu.be/iMrdUCJuvlQ)
+
 - (6) List some of the services (such as the library, recreation center, public transportation, and public safety) your community provides that are funded by taxpayers. Tell your counselor why these services are important to your community.
+
+  **Resources:** [Taxes: What Do They Pay For (video)](https://youtu.be/HJV7SbkeC60), [Check Out Your State's Funding Today! (website)](https://www.usaspending.gov/state)
 
 - (7) Do the following:
   - (a) Identify three charitable organizations outside of Scouting that interest you and bring people in your community together to work for the good of your community.
+
+    **Resources:** [How to Find the Best Charities (video)](https://youtu.be/cdh2z3LHdTQ), [Charity Navigator (website)](https://www.charitynavigator.org/), [The Tax Exempt Organization Search Tool (website)](https://www.guidestar.org), [Better Business Bureau (website)](https://www.bbb.org), [American Red Cross (website)](https://www.redcross.org/red-cross-youth.html), [Habitat for Humanity (website)](https://www.habitat.org/volunteer/near-you/youth-programs), [The YMCA (website)](https://www.ymca.org/get-involved/volunteer)
   - (b) Pick ONE of the organizations you chose for requirement 7(a). Using a variety of resources (including newspapers, fliers and other literature, the internet, volunteers, and employees of the organization), find out more about this organization.
+
+    **Resources:** [Finding a Good Charity (video)](https://youtu.be/ELT85QKsGDo), [Volunteer Opportunities (website)](https://www.idealist.org/en/volunteer), [Charity Navigator (website)](https://www.charitynavigator.org/), [Charity Ratings (website)](https://www.charitywatch.org), [Mobile Food Pantry Eagle Project (video)](https://vimeo.com/1147095870?fl=ip&fe=ec)
   - (c) With your counselor's and your parent or guardian's approval, contact the organization you chose for requirement 7(b), and find out what young people can do to help. While working on this merit badge, volunteer at least eight hours of your time for the organization. After your volunteer experience is over, discuss what you have learned with your counselor.
 
+    **Resources:** [Benefits of Community Service (video)](https://youtu.be/mzV6yRHqGjQ)
+
 - (8) Develop a public presentation (such as a video, slide show, speech, digital presentation, or photo exhibit) about important and unique aspects of your community. Include information about the history, cultures, and ethnic groups of your community; its best features and popular places where people gather; and the challenges it faces. Stage your presentation in front of your counselor or a group, such as your patrol or a class at school.
+
+  **Resources:** [How To Organize and Deliver a Great Presentation (video)](https://youtu.be/1sOgYNgq88E)
 
 ## Resources
 

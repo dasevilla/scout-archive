@@ -26,7 +26,7 @@ The field of veterinary medicine in the 21st century is one of the most exciting
 
 - (3) Describe the training required to become a veterinarian. Where is the veterinary medical college in your state or nearest to you? Describe the prerequisites for applying to veterinary school.
 
-- (4) Tell your counselor what a registered veterinary technician (R.T.V.) or animal health technician (A.H.T.) is. Describe the training required to become an R.V.T. or A.H.T. Where is the school or facility for R.V.T. or A.H.T training in your state or nearest to you? Describe the role an R.V.T. or A.H.T. would play in assisting a veterinarian working in three of the practice types listed in requirement 1.
+- (4) Tell your counselor what a registered veterinary technician (R.V.T.) or animal health technician (A.H.T.) is. Describe the training required to become an R.V.T. or A.H.T. Where is the school or facility for R.V.T. or A.H.T training in your state or nearest to you? Describe the role an R.V.T. or A.H.T. would play in assisting a veterinarian working in three of the practice types listed in requirement 1.
 
 - (5) Discuss with your counselor the role a veterinarian plays in the human-animal bond.
 

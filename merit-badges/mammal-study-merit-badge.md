@@ -27,7 +27,7 @@ A mammal may weigh as little as 1/12 ounce, as do some shrews, or as much as 150
 - (4) Do ONE of the following:
   - (a) Under the guidance of a nature center or natural history museum, make two study skins of rats or mice. Tell the uses of study skins and mounted specimens respectively.
 
-    **Resources:** [Skinning Your Rat (video)](https://youtu.be/m93WO9praZE?si=DG3Wt7aD9EBE-Zma), [Preparing Mammal Specimens (video)](https://www.youtube.com/watch?v=dBk9jwQBiuA)
+    **Resources:** [Skinning Your Rat (video)](https://youtu.be/m93WO9praZE), [Preparing Mammal Specimens (video)](https://youtu.be/dBk9jwQBiuA), [Natural History Museums in the US (website)](https://whichmuseum.com/place/united-states-2682?category%5B%5D=nature-natural-history)
   - (b) Take good pictures of two kinds of mammals in the wild. Record the date(s), time of day, weather conditions, approximate distance from the animal, habitat conditions, and any other factors you feel may have influenced the animal's activity and behavior.
 
     **Resources:** [Top 10 Wildlife Photography Shortcuts (video)](https://www.youtube.com/watch?v=r5liiAoUJ1Q), [The Most Important Wildlife Photography (video)](https://www.youtube.com/watch?v=wzuxDkmsZgM), [The Ultimate Wildlife Photography Tutorial (website)](https://photographylife.com/wildlife-photography-tutorial), [Wildlife Photography (website)](https://www.fs.usda.gov/visit/know-before-you-go/wildlife-photography)
@@ -37,7 +37,7 @@ A mammal may weigh as little as 1/12 ounce, as do some shrews, or as much as 150
     **Resources:** [Build Animal Track Station (video)](https://www.youtube.com/watch?v=rjg7FUw_5fM), [Creating a Backyard Animal Track Trap With Household Items (video)](https://www.youtube.com/watch?v=j_SPxHCvSYA), [Animal Tracking Basics - Track Traps, Measurements, Following Sign (video)](https://www.youtube.com/watch?v=i2SFVKWhIzY)
   - (e) Visit a natural history museum. Report on how specimens are prepared and cataloged. Explain the purposes of museums.
 
-    **Resources:** [What Is the Purpose of a Natural History Museum? (video)](https://youtu.be/sCm6JFBdWfM?si=abiHDMFT2hvlOGJS)
+    **Resources:** [Natural History Museums in the US (website)](https://whichmuseum.com/place/united-states-2682?category%5B%5D=nature-natural-history)
   - (f) Write a report of 500 words on a book about a mammal species.
   - (g) Trace two possible food chains of carnivorous mammals from the soil through four stages to the mammal.
 

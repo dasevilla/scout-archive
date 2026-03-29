@@ -15,7 +15,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
 
 - (3) Draw models of the digestive tracts of ruminants, horses, pigs, and poultry. Explain how the differences in structure and function among these types of digestive tracts affect the nutritional management of these species.
 
-- (4) Select one type of animal: beef, cow, dairy cow, horse, sheep, goat, or hog, or a poultry flock, and tell how you would properly manage it. Include in your discussion nutritional (feeding) concerns, housing, disease prevention, waste control/removal, breeding programs, and biosecurity as appropriate.
+- (4) Select one type of animal: beef cow, dairy cow, horse, sheep, goat, or hog, or a poultry flock, and tell how you would properly manage it. Include in your discussion nutritional (feeding) concerns, housing, disease prevention, waste control/removal, breeding programs, and biosecurity as appropriate.
 
 - (5) Do the following:
   - (a) Explain how agricultural producers make desired improvements to their stock through breeding practices and programs.

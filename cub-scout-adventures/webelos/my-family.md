@@ -54,6 +54,8 @@ Discuss with our parent or legal guardian what it means to be reverent. Tell how
 
 - **[Reverence Reflection](https://www.scouting.org/cub-scout-activities/reverence-reflection/)** (Indoor, energy 2, supplies 1, prep 1)
   Discuss what it means to be reverent and how you practice being reverent in your daily life.
+- **[Tree of Reverence](https://www.scouting.org/cub-scout-activities/tree-of-reverence/)** (Indoor, energy 2, supplies 3, prep 2)
+  This activity will set a calm and reflective tone as Cub Scouts and their families arrive for the Reverence Adventure. It encourages participants to think about and express what reverence means to them in a creative way.
 
 
 ## Resources

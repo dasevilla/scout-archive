@@ -21,6 +21,8 @@ Learn about the buddy system and how it works in the outdoors.
 
 - **[Back to Back Buddies](https://www.scouting.org/cub-scout-activities/back-to-back-buddies/)** (Indoor, energy 3, supplies 1, prep 1)
   Cub Scout buddies work together to stand up while sitting on the floor back-to-back.
+- **[Stay with Your Buddy Challenge](https://www.scouting.org/cub-scout-activities/stay-with-your-buddy-challenge/)** (Indoor, energy 4, supplies 2, prep 2)
+  Cub Scouts will understand and practice the buddy system by staying with a partner during a movement-based activity.
 - **[Who is Being A Buddy?](https://www.scouting.org/cub-scout-activities/who-is-being-a-buddy/)** (Indoor, energy 2, supplies 2, prep 2)
   Using an activity sheet identify who is using the buddy system.
 

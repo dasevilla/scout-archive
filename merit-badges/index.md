@@ -56,7 +56,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Backpacking](backpacking-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/backpacking/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Backpacking.pdf)
 1. [Basketry](basketry-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/basketry/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Basketry.pdf)
 1. [Bird Study](bird-study-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/bird-study/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Bird%20Study.pdf)
-1. [Bugling](bugling-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/bugling/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf)
+1. [Bugling](bugling-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/bugling/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20and%20Bugling.pdf)
 1. [Camping](camping-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/camping/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf) 🦅
 1. [Canoeing](canoeing-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/canoeing/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Canoeing.pdf)
 1. [Chemistry](chemistry-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/chemistry/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf)
@@ -187,4 +187,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork.pdf)
 
-Generated on 2026-03-29 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2026-04-05 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

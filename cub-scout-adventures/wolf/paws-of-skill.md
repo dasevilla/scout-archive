@@ -19,6 +19,8 @@ With your den, discuss sportsmanship and what it means to be a good sport. Make 
 
 **Activities:**
 
+- **[Good Sport Challenge](https://www.scouting.org/cub-scout-activities/good-sport-challenge/)** (Indoor, energy 3, supplies 3, prep 2)
+  
 - **[Playing with Honor](https://www.scouting.org/cub-scout-activities/playing-with-honor/)** (Indoor, energy 1, supplies 1, prep 2)
   Discuss sportsmanship and the connection to the Scout Oath and Law.
 - **[The Graceful Competitor](https://www.scouting.org/cub-scout-activities/the-graceful-competitor/)** (Indoor, energy 1, supplies 2, prep 2)

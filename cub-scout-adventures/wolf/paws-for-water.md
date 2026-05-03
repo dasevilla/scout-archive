@@ -21,6 +21,10 @@ Learn about the swimming safety rules that you need to follow.
 
 - **[Rules Relay](https://www.scouting.org/cub-scout-activities/rules-relay/)** (Indoor, energy 4, supplies 2, prep 2)
   Cub Scouts will learn swimming rules through a relay race game.
+- **[Safe Swim Quiz Show](https://www.scouting.org/cub-scout-activities/safe-swim-quiz-show/)** (Indoor, energy 1, supplies 1, prep 1)
+  Cub Scouts will learn about Safe Swimming in a game show.
+- **[Swimming Safety Skits](https://www.scouting.org/cub-scout-activities/swimming-safety-skits/)** (Indoor, energy 3, supplies 1, prep 1)
+  Cub Scouts will work in groups to act out swimming safety.
 
 ### Requirement 2
 

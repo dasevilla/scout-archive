@@ -21,6 +21,8 @@ Learn about the buddy system and how it works in the outdoors.
 
 - **[Buddy Calls](https://www.scouting.org/cub-scout-activities/buddy-calls/)** (Indoor, energy 2, supplies 2, prep 2)
   Cub Scouts find their buddy using animal sounds.
+- **[Buddy Tag](https://www.scouting.org/cub-scout-activities/buddy-tag/)** (Outdoor, energy 5, supplies 3, prep 2)
+  Cub Scouts play a game of tag and practice finding their buddy
 - **[Buddy Walk](https://www.scouting.org/cub-scout-activities/buddy-walk/)** (Indoor, energy 4, supplies 2, prep 2)
   Learn buddy teamwork during this relay game.
 
@@ -41,6 +43,8 @@ In addition to your Cub Scout Six Essentials, list the personal items you need f
 
 **Activities:**
 
+- **[Camping Sit-Upon Bucket](https://www.scouting.org/cub-scout-activities/camping-sit-upon-bucket/)** (Indoor, energy 3, supplies 5, prep 5)
+  Cub Scouts will make a sit-upon bucket to take camping.
 - **[Packing Relay](https://www.scouting.org/cub-scout-activities/packing-relay/)** (Indoor, energy 4, supplies 4, prep 3)
   Cub Scout teams pack a backpack for a camping trip.
 - **[What Would You Bring?](https://www.scouting.org/cub-scout-activities/what-would-you-bring/)** (Indoor, energy 3, supplies 4, prep 3)

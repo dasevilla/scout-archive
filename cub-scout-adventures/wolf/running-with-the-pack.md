@@ -19,8 +19,14 @@ Sample 3 different foods that are naturally 3 different colors. The food must be
 
 **Activities:**
 
+- **[Colorful Snack Plate Challenge](https://www.scouting.org/cub-scout-activities/colorful-snack-plate-challenge/)** (Indoor, energy 2, supplies 5, prep 2)
+  Tasting different foods of varying colors.
 - **[Tasting Colors](https://www.scouting.org/cub-scout-activities/tasting-colors/)** (Indoor, energy 2, supplies 3, prep 2)
   Experience a burst of deliciousness with natural-colored foods.
+- **[Trail Mix](https://www.scouting.org/cub-scout-activities/trail-mix/)** (Indoor, energy 2, supplies 3, prep 3)
+  Cub Scouts will create a trail mix using three different foods that are naturally different in colors. These foods will consist of protein, vegetables, fruit, dairy, and a grain.
+- **[Wolf Potluck](https://www.scouting.org/cub-scout-activities/wolf-potluck/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts will share their favorite foods of different colors with each other.
 
 ### Requirement 2
 

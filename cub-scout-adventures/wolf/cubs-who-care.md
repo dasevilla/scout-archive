@@ -60,6 +60,8 @@ Explore barriers to getting around.
 
 - **[Accessibility Walk Around](https://www.scouting.org/cub-scout-activities/accessibility-walk-around/)** (Indoor, energy 3, supplies 1, prep 1)
   Cub Scouts will take a walk around your meeting space to  identify  accommodations and lack of accommodations for people with disabilities.
+- **[Obstacle Course](https://www.scouting.org/cub-scout-activities/obstacle-course/)** (Outdoor, energy 4, supplies 5, prep 3)
+  Cub Scouts will have to traverse an obstacle course using crutches.
 - **[Out of Reach](https://www.scouting.org/cub-scout-activities/out-of-reach/)** (Indoor, energy 2, supplies 2, prep 1)
   Cub Scouts sit on chairs to explore barriers to getting around.
 

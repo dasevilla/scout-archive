@@ -54,6 +54,8 @@ With your Tiger adult partner or den leader, create a fire escape plan for your 
   The den will work to develop an evacuation plan for their meeting location and identify a meet-up spot.
 - **[It’s Time to Get Out!](https://www.scouting.org/cub-scout-activities/its-time-to-get-out/)** (Indoor, energy 4, supplies 2, prep 2)
   Create an escape route.
+- **[Stuffed Animal Fire Escape Practice](https://www.scouting.org/cub-scout-activities/stuffed-animal-fire-escape-practice/)** (Indoor, energy 3, supplies 3, prep 1)
+  Cub Scouts with their adult partners will teach stuffed animals how to escape from a dangerous place in the event of a fire.
 
 ### Requirement 5
 

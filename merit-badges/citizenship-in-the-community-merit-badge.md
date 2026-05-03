@@ -11,7 +11,7 @@ A nation is a patchwork of communities that differ from each other and may be go
 
 - (1) Discuss with your counselor what citizenship in the community means and what it takes to be a good citizen in your community. Discuss the rights, duties, and obligations of citizenship, and explain how you can demonstrate good citizenship in your community, Scouting unit, place of worship, or school.
 
-  **Resources:** [What is Citizenship? (video)](https://vimeo.com/1152697106), [Rights and Responsibilities (video)](https://youtu.be/FWwEMFSY1r0), [Responsibilities of the Charter Commission (video)](https://youtu.be/Bv2XHEcGSOU)
+  **Resources:** [Rights and Responsibilities (video)](https://youtu.be/FWwEMFSY1r0), [Responsibilities of the Charter Commission (video)](https://youtu.be/Bv2XHEcGSOU)
 
 - (2) Do the following:
   - (a) Using an electronic mapping tool or paper map, locate and pinpoint the following services and landmarks in your community. Determine and record the distances from your home including driving time AND either walking or biking time.

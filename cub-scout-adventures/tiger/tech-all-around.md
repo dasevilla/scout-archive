@@ -19,6 +19,8 @@ Discover technology around your home, meeting place, or neighborhood.
 
 **Activities:**
 
+- **[Detective Walk](https://www.scouting.org/cub-scout-activities/detective-walk/)** (Outdoor, energy 3, supplies 2, prep 1)
+  Cub Scouts will identify technology in their everyday lives.
 - **[Technology at Home](https://www.scouting.org/cub-scout-activities/technology-at-home/)** (Indoor, energy 2, supplies 2, prep 1)
   Discover technology at home.
 - **[Tigers Hunt for Technology](https://www.scouting.org/cub-scout-activities/tigers-hunt-for-technology/)** (Outdoor, energy 3, supplies 2, prep 2)

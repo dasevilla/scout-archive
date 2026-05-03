@@ -19,6 +19,8 @@ With your parent or legal guardian talk about your family’s faith traditions. 
 
 **Activities:**
 
+- **[Faith Tradition Collage](https://www.scouting.org/cub-scout-activities/faith-tradition-collage/)** (Indoor, energy 2, supplies 4, prep 4)
+  Cub Scouts will make a multimedia project representing their favorite holiday.
 - **[Holiday Mosaic](https://www.scouting.org/cub-scout-activities/holiday-mosaic/)** (Indoor, energy 2, supplies 3, prep 2)
   Make a construction paper mosaic using your family’s favorite holiday tradition symbol.
 - **[Sun Catcher](https://www.scouting.org/cub-scout-activities/sun-catcher/)** (Indoor, energy 2, supplies 3, prep 2)
@@ -43,6 +45,8 @@ Carry out an act of kindness.
 
 - **[Kindness Jar](https://www.scouting.org/cub-scout-activities/kindness-jar/)** (Indoor, energy 2, supplies 4, prep 2)
   Create an act of kindness jar and complete at least two tasks in the jar.
+- **[Kindness Rocks](https://www.scouting.org/cub-scout-activities/kindness-rocks/)** (Indoor, energy 2, supplies 3, prep 4)
+  Cub Scouts learn about the Kindness Rocks program and create kindness rocks.
 - **[Sing with the Elderly](https://www.scouting.org/cub-scout-activities/sing-with-the-elderly/)** (Travel, energy 2, supplies 2, prep 5)
   Sing a song at a retirement community.
 

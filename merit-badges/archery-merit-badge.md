@@ -50,7 +50,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
 - (3) Do the following:
   - (a) Explain the proper use, care, and storage of, as well as the reasons for using tabs, arm guards, shooting gloves, and quivers.
 
-    **Resources:** [How To Wear Your Archery Gear Correctly (video)](https://youtu.be/1g10qARTSrE), [Arm Guard (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/arm%20guard.tif), [Finger Tab on Hand (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/finger_tab_on_hand.tif), [Quiver (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/quiver.tif)
+    **Resources:** [How To Wear Your Archery Gear Correctly (video)](https://youtu.be/1g10qARTSrE), [Arm Guard (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/arm%20guard.png), [Finger Tab on Hand (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/finger_tab_on_hand.png), [Quiver (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/quiver.png)
   - (b) Explain the following terms: draw length, draw weight, mechanical release, and barebow.
 
     **Resources:** [Basic Archery Terms (video)](https://youtu.be/bH7RTX0fgUM)
@@ -61,34 +61,34 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
     **Resources:** [NFAA Indoor: Fundamentals of an Indoor Round (video)](https://youtu.be/zJcaPSDtboI)
   - (b) The differences among field, target, and 3-D archery
 
-    **Resources:** [How To Shoot: 3D, Field and Outdoor Target Archery (website)](https://archery360.com/2022/03/10/how-to-shoot-3d-field-and-outdoor-target-archery/)
+    **Resources:** [How To Shoot: 3D, Field, and Outdoor Target Archery (website)](https://archery360.com/2022/03/10/how-to-shoot-3d-field-and-outdoor-target-archery/)
   - (c) How the five-color World Archery Federation target is scored
 
     **Resources:** [How To Score an Archery Target (video)](https://youtu.be/WUgH5IbxuT8)
   - (d) How the National Field Archery Association (NFAA) black-and-white field targets and blue indoor targets are scored
 
-    **Resources:** [How to Score an NFAA Field Archery Target (video)](https://youtu.be/O47cSaBzNw0)
+    **Resources:** [How To Score an NFAA Field Archery Target (video)](https://youtu.be/O47cSaBzNw0)
 
 - (5) Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:**Note:** When using a Genesis bow, apply the requirements in Option A.
 
-  **Resources:** [How is a Compound Bow Different From a Recurve Bow? (video)](https://youtu.be/EuMHSsN8YLM)
+  **Resources:** [How Is a Compound Bow Different From a Recurve Bow? (video)](https://youtu.be/EuMHSsN8YLM)
 
   - **Option A—Recurve Bow or Longbow.** Do ALL of the following:
   - (1) Name and point to the parts of the recurve or longbow you are shooting.
 
-    **Resources:** [Recurve Bow Measurement Chart (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/recurve_bow_size.tif)
+    **Resources:** [Recurve Bow Measurement Chart (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/recurve_bow_size.png)
   - (2) Explain how to properly care for and store recurve bows and longbows.
 
-    **Resources:** [How to Store a Recurve Bow (video)](https://youtu.be/Kbl2a9HRAR8)
+    **Resources:** [How To Store a Recurve Bow (video)](https://youtu.be/Kbl2a9HRAR8)
   - (3) Demonstrate and explain USA Archery's 11 Steps of Shooting for the bow you are shooting.
 
     **Resources:** [Steps of Shooting (video)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/Steps%20of%20Shooting%20with%20a%20Recurve%20Bow.mp4)
   - (4) Demonstrate the proper way to string a recurve bow or longbow.
 
-    **Resources:** [How to String a Recurve Bow (video)](https://youtu.be/K1NMzkoLC3c)
+    **Resources:** [How To String a Recurve Bow (video)](https://youtu.be/K1NMzkoLC3c)
   - (5) Using a bow square, locate and mark with dental floss, crimp-on, or other method, the nocking point on the bowstring of the bow you are using.
 
-    **Resources:** [How to Mark a Nock on a Recurve Bow (video)](https://youtu.be/325P19BBNgY)
+    **Resources:** [How To Mark a Nock on a Recurve Bow (video)](https://youtu.be/325P19BBNgY)
   - (6) Do ONE of the following:
   - (a) Using a recurve bow or longbow and arrows with a finger release, shoot a single round of ONE of the following:
   - (1) An NFAA field round of 14 targets and make a score of 60 points
@@ -98,6 +98,8 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
   - (b) Shooting 30 arrows in five-arrow ends at an 80-centimeter (32-inch) five-color target at 10 yards and using the 10 scoring regions, make a score of 150 points.
   - **Option B—Compound Bow** Do ALL of the following:
   - (1) Name and point to the parts of the compound bow you are shooting.
+
+    **Resources:** [compound_bow.png (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/compound_bow.png)
   - (2) Explain how to properly care for and store compound bows.
   - (3) Demonstrate and explain USA Archery's 11 Steps of Shooting for the bow you are shooting.
 
@@ -105,7 +107,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
   - (4) Explain why it is necessary to have the string or cable on a compound bow replaced at an archery shop.
   - (5) Locate and mark with dental floss, crimp-on, or other method, the nocking point on the bowstring of the bow you are using.
 
-    **Resources:** [How to Mark a Nock on a Compound Bow (video)](https://youtu.be/Hh0UgcUrpSI)
+    **Resources:** [How To Mark a Nock on a Compound Bow (video)](https://youtu.be/Hh0UgcUrpSI)
   - (6) Do ONE of the following:
   - (a) Using a compound bow and arrows with a finger release, shoot a single round of ONE of the following:
   - (1) An NFAA field round of 14 targets and make a score of 70 points

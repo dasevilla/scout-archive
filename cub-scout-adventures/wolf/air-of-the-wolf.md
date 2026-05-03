@@ -52,6 +52,8 @@ Build a flying object that is not a paper airplane.
 
 - **[Balsawood Airplanes](https://www.scouting.org/cub-scout-activities/balsawood-airplanes/)** (Indoor, energy 4, supplies 5, prep 1)
   Cub Scouts build and fly balsawood airplanes.
+- **[Paper Cup Rockets](https://www.scouting.org/cub-scout-activities/paper-cup-rockets/)** (Indoor, energy 3, supplies 3, prep 2)
+  Cub Scouts will build a flying object that is not a paper airplane.
 - **[Paper Kites](https://www.scouting.org/cub-scout-activities/paper-kites/)** (Outdoor, energy 4, supplies 2, prep 2)
   Cub Scouts make and fly a paper kite.
 - **[Wolf-Copters](https://www.scouting.org/cub-scout-activities/wolf-copters/)** (Indoor, energy 3, supplies 2, prep 2)

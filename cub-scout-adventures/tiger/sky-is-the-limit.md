@@ -19,6 +19,8 @@ Observe the night sky with your den or Tiger adult partner. Talk about the items
 
 **Activities:**
 
+- **[My Night Sky Adventure](https://www.scouting.org/cub-scout-activities/my-night-sky-adventure/)** (Outdoor, energy 2, supplies 1, prep 1)
+  Cub Scouts will observe the night sky and record their observations.
 - **[Night Sky Scavenger Hunt](https://www.scouting.org/cub-scout-activities/night-sky-scavenger-hunt/)** (Outdoor, energy 2, supplies 4, prep 5)
   Conduct a scavenger hunt  of  what is in the night sky.
 

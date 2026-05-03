@@ -56,10 +56,14 @@ Identify common animals that are found where you live. Learn which of those anim
 
 **Activities:**
 
+- **[Animals I know](https://www.scouting.org/cub-scout-activities/animals-i-know/)** (Indoor, energy 4, supplies 2, prep 1)
+  Cub Scouts identify animals they have seen and identify if they are wild or domestic.
 - **[My Favorite Animals](https://www.scouting.org/cub-scout-activities/my-favorite-animals/)** (Indoor, energy 2, supplies 1, prep 1)
   Cub Scouts draw their favorite domesticated and wild animal.
 - **[Stuffed Animal Relay Race](https://www.scouting.org/cub-scout-activities/stuffed-animal-relay-race/)** (Indoor, energy 4, supplies 3, prep 3)
   Using stuffed animals Cub Scouts identify if the animal is wild or domesticated.
+- **[Wild or Domestic Sorting Game](https://www.scouting.org/cub-scout-activities/wild-or-domestic-sorting-game/)** (Indoor, energy 3, supplies 2, prep 2)
+  Cub Scouts will sort animal cards into a Venn diagram, distinguishing between wild, domestic, or both.  Then, they will draw their favorite animal.
 
 ### Requirement 5
 

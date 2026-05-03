@@ -36,6 +36,8 @@ With your den or Tiger adult partner, learn about the safety gear you should use
   A guest speaker who is an expert in cycling demonstrates the ABC’s of bike safety gear.
 - **[Check My Bike Gear](https://www.scouting.org/cub-scout-activities/check-my-bike-gear/)** (Indoor, energy 2, supplies 3, prep 3)
   Cub Scouts check their own safety gear.
+- **[Safe Rider Gear Checklist](https://www.scouting.org/cub-scout-activities/safe-rider-gear-checklist/)** (Indoor, energy 2, supplies 3, prep 3)
+  Cub Scouts will create a “Safe Rider” by choosing the correct safety gear
 
 ### Requirement 3
 
@@ -45,6 +47,8 @@ With your den or Tiger adult partner, learn the safety rules to follow when ridi
 
 - **[Chalk It Up Bike Rodeo](https://www.scouting.org/cub-scout-activities/chalk-it-up-bike-rodeo/)** (Outdoor, energy 4, supplies 3, prep 4)
   Create a bike safety course using chalk patterns on the ground.
+- **[Learn from the Pro](https://www.scouting.org/cub-scout-activities/learn-from-the-pro/)** (Indoor, energy 2, supplies 3, prep 5)
+  A guest speaker who is an expert in cycling discusses the safety rules to follow when riding a bike.
 - **[When to Walk and When to Ride](https://www.scouting.org/cub-scout-activities/when-to-walk-and-when-to-ride/)** (Indoor, energy 2, supplies 2, prep 2)
   Review safety rules for bike riding.
 
@@ -54,8 +58,12 @@ With your den or Tiger adult partner, demonstrate proper hand signals.
 
 **Activities:**
 
+- **[Signals with the Pro](https://www.scouting.org/cub-scout-activities/signals-with-the-pro/)** (Indoor, energy 2, supplies 3, prep 5)
+  A guest speaker who is an expert in cycling demonstrates the hand signals to use while riding a bike.
 - **[Simon Says – Turn Left, Turn Right](https://www.scouting.org/cub-scout-activities/simon-says-turn-left-turn-right/)** (Indoor, energy 3, supplies 1, prep 1)
   Play Simon Says using the bike hand signals for turning left and turning right.
+- **[Traffic Light Freeze](https://www.scouting.org/cub-scout-activities/traffic-light-freeze/)** (Indoor, energy 3, supplies 1, prep 1)
+  Play a game to practice the hand signals to use while riding a bike.
 
 ### Requirement 5
 

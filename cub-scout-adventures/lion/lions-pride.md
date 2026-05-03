@@ -21,6 +21,8 @@ With your parent or legal guardian talk about your family’s faith traditions. 
 
 - **[Lion Holiday Drawing](https://www.scouting.org/cub-scout-activities/lion-holiday-drawing/)** (Indoor, energy 2, supplies 2, prep 1)
   Draw and color a favorite faith tradition holiday or celebration.
+- **[Tree of Reverence – Lion](https://www.scouting.org/cub-scout-activities/tree-of-reverence-lion/)** (Indoor, energy 2, supplies 3, prep 2)
+  This activity will set a calm and reflective tone as Cub Scouts and their families arrive for the Reverence Adventure. It encourages participants to think about and express what reverence means to them in a creative way.
 
 ### Requirement 2
 

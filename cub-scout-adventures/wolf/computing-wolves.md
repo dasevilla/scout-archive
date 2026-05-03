@@ -32,6 +32,10 @@ Determine how to properly dispose of computer components.
 
 **Activities:**
 
+- **[Do You Want To Build A Robot](https://www.scouting.org/cub-scout-activities/do-you-want-to-build-a-robot/)** (Indoor, energy 3, supplies 5, prep 5)
+  Cub Scouts will use old computer parts to build a robot.
+- **[E-Waste Detectives](https://www.scouting.org/cub-scout-activities/e-waste-detectives/)** (Indoor, energy 2, supplies 3, prep 4)
+  Cub Scouts learn what happens to electronic waste.
 - **[Visit Electronics Recycling Center](https://www.scouting.org/cub-scout-activities/visit-electronics-recycling-center/)** (Travel, energy 3, supplies 2, prep 4)
   Visit an electronics recycling center and learn how they take apart items to recycle and reuse.
 

@@ -28,6 +28,8 @@ Discuss “safe touch” as seen in the Protect Yourself Rules video.
 
 **Activities:**
 
+- **[I Know What to Say](https://www.scouting.org/cub-scout-activities/i-know-what-to-say/)** (Indoor, energy 2, supplies 1, prep 2)
+  Cub Scouts  will practice recognizing uncomfortable situations and using their voice to say  “no,” get away, and tell a trusted adult .
 - **[Safe Touch Poster](https://www.scouting.org/cub-scout-activities/safe-touch-poster/)** (Indoor, energy 2, supplies 2, prep 2)
   Create a poster of “safe touches ”.
 - **[Shout Run and Tell Relay](https://www.scouting.org/cub-scout-activities/run-shout-and-tell-relay/)** (Indoor, energy 3, supplies 1, prep 1)
@@ -52,6 +54,8 @@ Review common safety rules and demonstrate the proper use of playground equipmen
 
 **Activities:**
 
+- **[Heads Down, Thumbs Up](https://www.scouting.org/cub-scout-activities/heads-down-thumbs-up/)** (Outdoor, energy 4, supplies 1, prep 1)
+  Cub Scouts will play a game and share answers about playground safety.
 - **[Playground Rules](https://www.scouting.org/cub-scout-activities/playground-rules/)** (Travel, energy 4, supplies 1, prep 5)
   Review playground safety rules and have Cub Scouts  demonstrate  the proper use of playground equipment.
 

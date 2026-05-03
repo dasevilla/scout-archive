@@ -34,6 +34,10 @@ Practice hand washing. Point out when you should wash your hands.
 
 - **[Scout Oath and Law Hand Washing](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-hand-washing/)** (Indoor, energy 2, supplies 2, prep 1)
   Proper handwashing and learning how long it takes to do a good  job.
+- **[Super Clean Hands! Worksheet](https://www.scouting.org/cub-scout-activities/super-clean-hands-worksheet/)** (Indoor, energy 1, supplies 1, prep 1)
+  Cub Scouts learn about when and how they should wash their hands using a worksheet.
+- **[When Should I Wash My Hands Game](https://www.scouting.org/cub-scout-activities/when-should-i-wash-my-hands-game/)** (Indoor, energy 3, supplies 1, prep 1)
+  Cub Scouts learn about when they should wash their hands in this active game.
 
 ### Requirement 3
 
@@ -54,6 +58,8 @@ Practice methods that help you sleep.
 
 **Activities:**
 
+- **[Sleep Like a Star! Worksheet](https://www.scouting.org/cub-scout-activities/sleep-like-a-star-worksheet/)** (Indoor, energy 1, supplies 1, prep 1)
+  Cub Scouts learn about how to get the best rest using a worksheet.
 - **[Tiger Get Ready for Bed](https://www.scouting.org/cub-scout-activities/tiger-get-ready-for-bed/)** (Indoor, energy 2, supplies 2, prep 2)
   Make a bedtime routine to help get enough sleep using the activity in the Tiger  handbook .
 - **[Tiger Time to Sleep](https://www.scouting.org/cub-scout-activities/tiger-time-to-sleep/)** (Indoor, energy 1, supplies 1, prep 1)

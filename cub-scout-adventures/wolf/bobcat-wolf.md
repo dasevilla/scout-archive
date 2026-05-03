@@ -34,6 +34,10 @@ Recite the Scout Oath and the Scout Law with your den and den leader.
 
 - **[Recite the Oath and Law Wolf](https://www.scouting.org/cub-scout-activities/recite-the-oath-and-law-wolf/)** (Indoor, energy 1, supplies 1, prep 1)
   Learn and reinforce the Scout Oath and the Scout Law by reciting it with your den.
+- **[Roll The Dice for Bobcat](https://www.scouting.org/cub-scout-activities/roll-the-dice-for-bobcat/)** (Indoor, energy 3, supplies 5, prep 5)
+  Cub Scouts will roll the dice to help learn the Scout Oath and Law.
+- **[Scout Oath and Law Relay](https://www.scouting.org/cub-scout-activities/scout-oath-and-law-relay/)** (Indoor, energy 3, supplies 2, prep 2)
+  Cub Scouts will recite the Scout Oath and Law after completing the relay.
 
 ### Requirement 3
 
@@ -54,6 +58,8 @@ With your den create a den Code of Conduct.
 
 **Activities:**
 
+- **[Code of Conduct Collage](https://www.scouting.org/cub-scout-activities/code-of-conduct-collage/)** (Indoor, energy 1, supplies 3, prep 3)
+  
 - **[Code of Conduct Wolf](https://www.scouting.org/cub-scout-activities/code-of-conduct-wolf/)** (Indoor, energy 1, supplies 2, prep 2)
   Cub Scouts will be invested in their own conduct when they help create their den code of conduct.
 
@@ -76,7 +82,11 @@ Share with your den, or family, a time when you demonstrated the Cub Scout motto
 
 **Activities:**
 
+- **[Do Your Best Shield](https://www.scouting.org/cub-scout-activities/do-your-best-shield/)** (Indoor, energy 2, supplies 3, prep 1)
+  
 - **[Do Your Best Showcase](https://www.scouting.org/cub-scout-activities/do-your-best-showcase/)** (Indoor, energy 1, supplies 1, prep 1)
+  Cub Scouts share a time when they did their best.
+- **[Do Your Best Talking Neckerchief](https://www.scouting.org/cub-scout-activities/do-your-best-talking-neckerchief/)** (Indoor, energy 2, supplies 2, prep 1)
   Cub Scouts share a time when they did their best.
 
 ### Requirement 7

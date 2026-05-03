@@ -73,6 +73,10 @@ With your den, pack, or family, take a walk outside for at least 30 minutes to e
 
 - **[Outdoor Scavenger Hunt](https://www.scouting.org/cub-scout-activities/outdoor-scavenger-hunt/)** (Outdoor, energy 5, supplies 2, prep 2)
   Take a 30 minute​ or more​ walk. Describe four animals that you might see on your walk.
+- **[Sketch Animals](https://www.scouting.org/cub-scout-activities/sketch-animals/)** (Outdoor, energy 5, supplies 3, prep 2)
+  Cub Scouts will observe animals while on a hike and then sketch 1 wild and 1 domestic animal they saw on their hike.
+- **[Wild or Domestic Collage](https://www.scouting.org/cub-scout-activities/wild-or-domestic-collage/)** (Indoor, energy 5, supplies 1, prep 2)
+  Cub Scouts will make a collage of wild and domestic animals.
 
 
 ## Resources

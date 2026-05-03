@@ -32,6 +32,8 @@ Before going on the overnight campout, discuss what type of weather is expected 
 
 **Activities:**
 
+- **[Dress the Paper Cub Scout](https://www.scouting.org/cub-scout-activities/dress-the-paper-cub-scout/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts will pick the correct outfit for their paper Cub Scout based on the weather.
 - **[What is the Weather Like There?](https://www.scouting.org/cub-scout-activities/what-is-the-weather-like-there/)** (Indoor, energy 2, supplies 2, prep 2)
   Cub Scouts look at a weather report for the campout.
 - **[What to Wear? What to Wear? When Camping](https://www.scouting.org/cub-scout-activities/what-to-wear-what-to-wear-when-camping/)** (Indoor, energy 5, supplies 4, prep 2)

@@ -47,6 +47,8 @@ Discover what happens to the recyclables in your community.
 
 - **[Recycle Plant Tour](https://www.scouting.org/cub-scout-activities/recycle-plant-tour/)** (Travel, energy 2, supplies 1, prep 3)
   Tour a local recycle management facility.
+- **[Recycling Journey Game](https://www.scouting.org/cub-scout-activities/recycling-journey-game/)** (Indoor, energy 2, supplies 3, prep 4)
+  
 - **[Speak with a Recycling Professional](https://www.scouting.org/cub-scout-activities/speak-with-a-recycling-professional/)** (Indoor, energy 2, supplies 1, prep 3)
   Invite someone from your local recycle management facility to visit your den meeting.
 

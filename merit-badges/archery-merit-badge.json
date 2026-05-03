@@ -287,15 +287,15 @@
             },
             {
               "title": "Arm Guard (photo)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/arm%20guard.tif"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/arm%20guard.png"
             },
             {
               "title": "Finger Tab on Hand (photo)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/finger_tab_on_hand.tif"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/finger_tab_on_hand.png"
             },
             {
               "title": "Quiver (photo)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/quiver.tif"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/quiver.png"
             }
           ],
           "sub_requirements": []
@@ -358,7 +358,7 @@
           ],
           "resources": [
             {
-              "title": "How To Shoot: 3D, Field and Outdoor Target Archery (website)",
+              "title": "How To Shoot: 3D, Field, and Outdoor Target Archery (website)",
               "url": "https://archery360.com/2022/03/10/how-to-shoot-3d-field-and-outdoor-target-archery/"
             }
           ],
@@ -392,7 +392,7 @@
           ],
           "resources": [
             {
-              "title": "How to Score an NFAA Field Archery Target (video)",
+              "title": "How To Score an NFAA Field Archery Target (video)",
               "url": "https://youtu.be/O47cSaBzNw0"
             }
           ],
@@ -426,7 +426,7 @@
       ],
       "resources": [
         {
-          "title": "How is a Compound Bow Different From a Recurve Bow? (video)",
+          "title": "How Is a Compound Bow Different From a Recurve Bow? (video)",
           "url": "https://youtu.be/EuMHSsN8YLM"
         }
       ],
@@ -466,7 +466,7 @@
           "resources": [
             {
               "title": "Recurve Bow Measurement Chart (photo)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/recurve_bow_size.tif"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/recurve_bow_size.png"
             }
           ],
           "sub_requirements": []
@@ -482,7 +482,7 @@
           ],
           "resources": [
             {
-              "title": "How to Store a Recurve Bow (video)",
+              "title": "How To Store a Recurve Bow (video)",
               "url": "https://youtu.be/Kbl2a9HRAR8"
             }
           ],
@@ -516,7 +516,7 @@
           ],
           "resources": [
             {
-              "title": "How to String a Recurve Bow (video)",
+              "title": "How To String a Recurve Bow (video)",
               "url": "https://youtu.be/K1NMzkoLC3c"
             }
           ],
@@ -533,7 +533,7 @@
           ],
           "resources": [
             {
-              "title": "How to Mark a Nock on a Recurve Bow (video)",
+              "title": "How To Mark a Nock on a Recurve Bow (video)",
               "url": "https://youtu.be/325P19BBNgY"
             }
           ],
@@ -655,7 +655,12 @@
               "value": "Name and point to the parts of the compound bow you are shooting."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "compound_bow.png (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/compound_bow.png"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -710,7 +715,7 @@
           ],
           "resources": [
             {
-              "title": "How to Mark a Nock on a Compound Bow (video)",
+              "title": "How To Mark a Nock on a Compound Bow (video)",
               "url": "https://youtu.be/Hh0UgcUrpSI"
             }
           ],

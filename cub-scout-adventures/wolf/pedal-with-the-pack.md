@@ -50,6 +50,10 @@ Demonstrate you can start and stop your bicycle without help.
 
 - **[Red light, Green light](https://www.scouting.org/cub-scout-activities/red-light-green-light/)** (Travel, energy 4, supplies 5, prep 3)
   Cub Scouts  demonstrate  starting and stopping a bike.
+- **[Start & Stop Challenge Course](https://www.scouting.org/cub-scout-activities/start-stop-challenge-course/)** (Outdoor, energy 4, supplies 2, prep 2)
+  Cub Scouts will practice starting and stopping on their bikes.
+- **[Stop on the Spot](https://www.scouting.org/cub-scout-activities/stop-on-the-spot/)** (Outdoor, energy 4, supplies 2, prep 2)
+  Cub Scouts will practice stopping their bikes.
 
 ### Requirement 6
 

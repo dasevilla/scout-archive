@@ -39,6 +39,8 @@ Discuss with your parent, legal guardian, or an adult leader what “Duty to God
 
 - **[Reverence Discussion](https://www.scouting.org/cub-scout-activities/reverence-discussion/)** (Indoor, energy 1, supplies 1, prep 1)
   Cub Scouts discuss with their parent or legal guardian what “Duty to God” means to their family and how they practice that in their daily life.
+- **[Tree of Reverence-AOL](https://www.scouting.org/cub-scout-activities/tree-of-reverence-aol/)** (Indoor, energy 2, supplies 3, prep 2)
+  This activity will set a calm and reflective tone as Cub Scouts and their families arrive for the Reverence Adventure. It encourages participants to think about and express what Duty to God in their daily life means to them in a creative way.
 
 
 ## Resources

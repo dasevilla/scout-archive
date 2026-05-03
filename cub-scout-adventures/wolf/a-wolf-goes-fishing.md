@@ -34,6 +34,10 @@ Learn about the different types of bait used to attract fish.
 
 - **[Bait-ology Bonanza](https://www.scouting.org/cub-scout-activities/bait-ology-bonanza/)** (Indoor, energy 2, supplies 5, prep 2)
   Learn  about fishing bait s  with a memory game .
+- **[Meat Stick Bait](https://www.scouting.org/cub-scout-activities/meat-stick-bait/)** (Indoor, energy 2, supplies 3, prep 3)
+  Cub Scouts will learn about bait and how to make bait out of a meat stick.
+- **[Visit a Bait Shop](https://www.scouting.org/cub-scout-activities/visit-a-bait-shop/)** (Travel, energy 2, supplies 1, prep 5)
+  Cub Scouts learn about bait by visiting a bait shop.
 
 ### Requirement 3
 

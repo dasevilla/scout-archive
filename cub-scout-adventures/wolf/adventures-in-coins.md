@@ -36,6 +36,8 @@ Find the mint mark on a coin and identify the mint facility where it was made an
   In this activity, Cub Scouts will count coins from each mint.
 - **[Mint Mark Masterclass](https://www.scouting.org/cub-scout-activities/mint-mark-masterclass/)** (Indoor, energy 2, supplies 2, prep 2)
   Cub Scouts will learn about coin mint marks.
+- **[Pile of Pennies](https://www.scouting.org/cub-scout-activities/pile-of-pennies/)** (Indoor, energy 2, supplies 2, prep 2)
+  Learning to find the mint mark and date on pennies.
 
 ### Requirement 4
 

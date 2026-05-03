@@ -47,6 +47,8 @@ Discuss what it means to be a good sport in a game with your Tiger adult partner
 
 - **[Referee Visit](https://www.scouting.org/cub-scout-activities/referee-visit/)** (Indoor, energy 1, supplies 1, prep 5)
   Invite someone who is a referee (volunteer or professional) to discuss sportsmanship with the den.
+- **[Sportsmanship Practice](https://www.scouting.org/cub-scout-activities/sportsmanship-practice/)** (Outdoor, energy 3, supplies 2, prep 1)
+  Cub Scouts will learn about and practice good sportsmanship.
 - **[Who is Being a Good Sport](https://www.scouting.org/cub-scout-activities/who-is-being-a-good-sport/)** (Indoor, energy 2, supplies 2, prep 1)
   Cub Scouts complete activity in the Tiger handbook to  identify  good sportsmanship.
 

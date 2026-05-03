@@ -43,6 +43,8 @@ Identify how you could increase the speed of your chosen vehicle.
 
 - **[Pace Car Speed Wolf](https://www.scouting.org/cub-scout-activities/pace-car-speed-wolf/)** (Indoor, energy 2, supplies 2, prep 2)
   Cub Scouts will identify three ways to make their Pinewood Derby® car go faster.
+- **[Pick a Card](https://www.scouting.org/cub-scout-activities/pick-a-card/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts will pick cards from a deck and decide if it will make their vehicle faster or slower.
 - **[Speed Boat Wolf](https://www.scouting.org/cub-scout-activities/speed-boat-wolf/)** (Indoor, energy 2, supplies 2, prep 2)
   Cub Scouts identify three ways to make Raingutter Regatta™ boats go faster.
 

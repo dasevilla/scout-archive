@@ -41,6 +41,8 @@ Build a model of your home.
 
 **Activities:**
 
+- **[Build a Paper Home](https://www.scouting.org/cub-scout-activities/build-a-paper-home/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts will use a paper template to create a model of your home.
 - **[Building My Home with Cardboard](https://www.scouting.org/cub-scout-activities/building-my-home-with-cardboard/)** (Indoor, energy 2, supplies 2, prep 2)
   Use household items to build a model of your home.
 - **[Building My Home with Toys](https://www.scouting.org/cub-scout-activities/building-my-home-with-toys/)** (Indoor, energy 3, supplies 5, prep 2)

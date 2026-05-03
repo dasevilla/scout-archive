@@ -19,8 +19,14 @@ With your parent or legal guardian talk about your family’s faith traditions. 
 
 **Activities:**
 
+- **[My Family Celebrations](https://www.scouting.org/cub-scout-activities/my-family-celebrations/)** (Indoor, energy 1, supplies 2, prep 2)
+  Cub Scouts will identify three celebrations that match their family creating a My Family Celebrations sheet.
+- **[My Family Traditions Worksheet](https://www.scouting.org/cub-scout-activities/my-family-traditions-worksheet/)** (Indoor, energy 1, supplies 1, prep 1)
+  Students will learn about their family’s faith traditions by identifying three celebrations and illustrating their favorite.
 - **[Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/)** (Indoor, energy 2, supplies 2, prep 1)
   Draw and color a favorite faith tradition holiday or celebration.
+- **[Tree of Reverence – Tiger](https://www.scouting.org/cub-scout-activities/tree-of-reverence-tiger/)** (Indoor, energy 2, supplies 3, prep 2)
+  This activity will set a calm and reflective tone as Cub Scouts and their families arrive for the Reverence Adventure. It encourages participants to think about and express what reverence means to them in a creative way.
 
 ### Requirement 2
 

@@ -51,7 +51,7 @@ Discover the why and how we explore space. Learn about current and historic spac
     **Resources:** [How Rocket Engines Work (website)](https://science.howstuffworks.com/rocket.htm), [Rocket Engines Explained (website)](https://youtu.be/gz8L1i0ODeA), [How Do We Launch Things Into Space (website)](https://plus.nasa.gov/video/how-do-we-launch-things-into-space/)
   - (c) How satellites stay in orbit
 
-    **Resources:** [How Do Satellites Get & Stay in Orbit? (video)](https://youtu.be/IC1JQu9xGHQ?si=qcvDJm44-la-3nsI), [How Satellites Orbit (video)](https://youtu.be/5PCY0rTllPg?si=gNhEm9nAfygodC3Q)
+    **Resources:** [How Do Satellites Get & Stay in Orbit? (video)](https://youtu.be/IC1JQu9xGHQ?si=qcvDJm44-la-3nsI)
   - (d) How satellite pictures of Earth and pictures of other planets are made and transmitted
 
 - (5) Do TWO of the following:

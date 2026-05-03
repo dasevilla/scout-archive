@@ -63,6 +63,7 @@ jobs:
           if-no-files-found: warn
 
       - name: Upload logs
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: logs

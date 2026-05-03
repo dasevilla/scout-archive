@@ -1,6 +1,8 @@
 import re
+from urllib.parse import urlparse
 
 import scrapy
+from scrapy.exceptions import CloseSpider
 
 from scout_archive.items import MeritBadgeItem
 from scout_archive.requirements_pipeline import (
@@ -9,6 +11,7 @@ from scout_archive.requirements_pipeline import (
     MarkdownGenerator,
     SemanticProcessor,
 )
+from scout_archive.settings import MIN_BADGE_COUNT
 
 
 class MeritBadgesSpider(scrapy.Spider):
@@ -59,15 +62,23 @@ class MeritBadgesSpider(scrapy.Spider):
             )
 
     def parse_start_url_custom(self, response):
-        yield from response.follow_all(
-            css="h2 a[href*='/merit-badges/']", callback=self.parse_merit_badge
-        )
+        urls = self._discover_standard_badge_urls(response)
+        self.logger.info("Discovered %s standard merit badge URLs", len(urls))
+        if len(urls) < MIN_BADGE_COUNT:
+            raise CloseSpider(
+                f"Only discovered {len(urls)} standard merit badge URLs, "
+                f"expected at least {MIN_BADGE_COUNT}"
+            )
+
+        for url in urls:
+            yield response.follow(url, callback=self.parse_merit_badge)
 
     def parse_test_lab_list(self, response):
         links = response.css(
             "a[href*='/skills/merit-badges/test-lab/']::attr(href)"
         ).getall()
         seen = set()
+        discovered_count = 0
         for link in links:
             absolute = response.urljoin(link)
             if absolute.rstrip("/") == response.url.rstrip("/"):
@@ -77,9 +88,30 @@ class MeritBadgesSpider(scrapy.Spider):
             if absolute in seen:
                 continue
             seen.add(absolute)
+            discovered_count += 1
             yield response.follow(
                 absolute, callback=self.parse_merit_badge, cb_kwargs={"is_lab": True}
             )
+        self.logger.info("Discovered %s Test Lab merit badge URLs", discovered_count)
+
+    def _discover_standard_badge_urls(
+        self, response: scrapy.http.Response
+    ) -> list[str]:
+        urls = set()
+        for href in response.css("a[href*='/merit-badges/']::attr(href)").getall():
+            absolute = response.urljoin(href).split("#", 1)[0]
+            parsed = urlparse(absolute)
+            if parsed.netloc not in {"www.scouting.org", "scouting.org"}:
+                continue
+            if not re.fullmatch(r"/merit-badges/[^/]+/?", parsed.path):
+                continue
+            if "/test-lab/" in parsed.path:
+                continue
+            normalized = parsed._replace(
+                path=parsed.path.rstrip("/") + "/", query="", fragment=""
+            ).geturl()
+            urls.add(normalized)
+        return sorted(urls)
 
     def parse_worksheets(self, response):
         # Extract workbook links
@@ -176,9 +208,7 @@ class MeritBadgesSpider(scrapy.Spider):
             )
         else:
             # Grab every merit badge URL
-            yield from response.follow_all(
-                css="h2 a[href*='/merit-badges/']", callback=self.parse_merit_badge
-            )
+            yield from self.parse_start_url_custom(response)
 
     def parse_merit_badge(self, response, is_lab=False):
         if not is_lab and "/test-lab/" in response.url:

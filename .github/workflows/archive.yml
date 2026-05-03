@@ -25,18 +25,18 @@ jobs:
       change-report: ${{ steps.release-info.outputs.change-report }}
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1 # Only fetch the latest commit to compare changes
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v8
         with:
           version: "0.6.11"
           enable-cache: true
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version-file: ".python-version"
 
@@ -53,7 +53,7 @@ jobs:
         run: make report-merit-badges report-cub-adventures
 
       - name: Upload change reports
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: change-reports
           path: |
@@ -64,7 +64,7 @@ jobs:
 
       - name: Upload logs
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: logs
           path: |
@@ -74,7 +74,7 @@ jobs:
           if-no-files-found: warn
 
       - name: Upload merit badge markdown files as artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: merit-badge-markdown
           path: |
@@ -84,7 +84,7 @@ jobs:
           if-no-files-found: warn
 
       - name: Upload cub adventures markdown files as artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: cub-adventure-markdown
           path: |
@@ -95,7 +95,7 @@ jobs:
           if-no-files-found: warn
 
       - name: Upload merit badge JSON files as artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: merit-badge-json
           path: |
@@ -105,7 +105,7 @@ jobs:
           if-no-files-found: warn
 
       - name: Upload cub adventure JSON files as artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: cub-adventure-json
           path: |
@@ -144,10 +144,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Download artifacts for release
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           path: release-assets
 
@@ -155,7 +155,7 @@ jobs:
         run: src/scripts/create-release-archives.sh release-assets
 
       - name: Create Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: ${{ needs.archive.outputs.release-tag }}
           name: ${{ needs.archive.outputs.release-name }}
@@ -178,39 +178,39 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v8
         with:
           version: "0.6.11"
           enable-cache: true
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version-file: ".python-version"
 
       - name: Download merit badge artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: merit-badge-json
           path: build/merit-badges
 
       - name: Download merit badge markdown artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: merit-badge-markdown
           path: build/merit-badges
 
       - name: Download cub adventure artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: cub-adventure-json
           path: build/cub-scout-adventures
 
       - name: Download cub adventure markdown artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: cub-adventure-markdown
           path: build/cub-scout-adventures

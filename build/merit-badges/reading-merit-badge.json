@@ -14,6 +14,11 @@
     {
       "id": "15510",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "15511",
           "label": "a",
+          "text": "Take a tour of a library. Discuss with your counselor how the library is organized and what resources and/or services are offered in the library.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -46,6 +56,11 @@
         {
           "id": "15512",
           "label": "b",
+          "text": "Learn how to search for material using a library's card catalog or computerized catalog by author, title, and subject.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +78,11 @@
         {
           "id": "15513",
           "label": "c",
+          "text": "In a library, search the card catalog or computerized catalog for six books of four different types, such as poetry, fiction, nonfiction, and biographies.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -80,6 +100,11 @@
         {
           "id": "15514",
           "label": "d",
+          "text": "With the assistance of your counselor or the librarian, see if you can locate on the shelves the six books you selected.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -92,6 +117,11 @@
         {
           "id": "15515",
           "label": "e",
+          "text": "Explain what a library card is, why it is needed, and how to get one.",
+          "requirement_path": "1.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -111,6 +141,11 @@
     {
       "id": "15516",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -122,6 +157,11 @@
         {
           "id": "15517",
           "label": "a",
+          "text": "Identify a book you have enjoyed. Find out what other books the author has written.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -134,6 +174,11 @@
         {
           "id": "15518",
           "label": "b",
+          "text": "Look at one or more \"best books\" lists. These can be based on year, subject, or even all time. Identify at least one book you would like to read.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -157,6 +202,11 @@
     {
       "id": "15519",
       "label": "3",
+      "text": "Read four different types of books, such as poetry, fiction, nonfiction, or biographies. Do one of the following for each book you have read:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -181,6 +231,11 @@
         {
           "id": "15520",
           "label": "a",
+          "text": "Write a review of the book. Include what you liked and/or didn't like about the book. Include whether you would recommend this book, and if so, who might enjoy reading it.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -202,6 +257,11 @@
         {
           "id": "15521",
           "label": "b",
+          "text": "Watch a movie based on the book. What was the same between the book and movie? What was different? Which did you enjoy more? Discuss this with your counselor.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -219,6 +279,11 @@
         {
           "id": "15522",
           "label": "c",
+          "text": "Give a book talk to your class, troop, or patrol.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -238,6 +303,11 @@
     {
       "id": "15529",
       "label": "4",
+      "text": "Read a nonfiction book or magazine that teaches you how to do something like cooking, wood-building projects, video game design, science experiments, knot-tying, etc. With your counselor's and parent or guardian's permission, complete a project from the book. Share your experience with your counselor. Reading a merit badge pamphlet will not count toward completing this requirement.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -255,6 +325,11 @@
     {
       "id": "15530",
       "label": "5",
+      "text": "Read about the world around you from any two sources: books, magazines, newspapers, the internet (with your parent or guardian's permission), field manuals, etc. Topics may include Scouting, sports, environmental problems, politics, social issues, current events, nature, religion, etc. Discuss what you have learned with your counselor.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -272,6 +347,11 @@
     {
       "id": "15523",
       "label": "6",
+      "text": "With your counselor's and parent or guardian's permission, choose ONE of the following activities and devote at least four hours of service to that activity. Discuss your participation with your counselor.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -283,6 +363,11 @@
         {
           "id": "15524",
           "label": "a",
+          "text": "Read to a sick, blind, or homebound person in a hospital or in an extended-care facility.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -300,6 +385,11 @@
         {
           "id": "15525",
           "label": "b",
+          "text": "Perform volunteer work at your school library or a public library.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -317,6 +407,11 @@
         {
           "id": "15526",
           "label": "c",
+          "text": "Read stories to younger children, in a group or individually.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -334,6 +429,11 @@
         {
           "id": "15527",
           "label": "d",
+          "text": "Organize a book swap in your troop, school, or place of worship.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -351,6 +451,11 @@
         {
           "id": "15528",
           "label": "e",
+          "text": "Organize a book drive to collect books. Donate them to an organization in need.",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -370,6 +475,11 @@
     {
       "id": "15531",
       "label": "7",
+      "text": "Identify three career opportunities that would use skills and knowledge in reading. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

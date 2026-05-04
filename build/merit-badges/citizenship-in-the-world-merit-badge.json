@@ -14,6 +14,11 @@
     {
       "id": "6331",
       "label": "1",
+      "text": "Explain what citizenship in the world means to you and what you think it takes to be a good world citizen.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "6332",
       "label": "2",
+      "text": "Explain how one becomes a citizen in the United States, and explain the rights, duties, and obligations of U.S. citizenship. Discuss the similarities and differences between the rights, duties, and obligations of U.S. citizens and the citizens of two other countries.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -38,6 +48,11 @@
     {
       "id": "6303",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "6304",
           "label": "a",
+          "text": "Pick a current world event. In relation to this current event, discuss with your counselor how a country's national interest and its relationship with other countries might affect areas such as its security, its economy, its values, and the health of its citizens.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "6305",
           "label": "b",
+          "text": "Select a foreign country and discuss with your counselor how its geography, natural resources, and climate influence its economy and its global partnerships with other countries.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -75,6 +100,11 @@
     {
       "id": "6306",
       "label": "4",
+      "text": "Do TWO of the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -86,6 +116,11 @@
         {
           "id": "6315",
           "label": "a",
+          "text": "Explain international law and how it differs from national law. Explain the role of international law and how international law can be used as a tool for conflict resolution.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -98,6 +133,11 @@
         {
           "id": "6316",
           "label": "b",
+          "text": "Using resources such as major daily newspapers, the internet (with your parent or guardian's permission), and news magazines, observe a current issue that involves international trade, foreign exchange, balance of payments, tariffs, and free trade. Explain what you have learned. Include in your discussion an explanation of why countries must cooperate in order for world trade and global competition to thrive.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +150,11 @@
         {
           "id": "6307",
           "label": "c",
+          "text": "Select TWO of the following organizations and describe their role in the world.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "6308",
           "label": "1",
+          "text": "United Nations and United Nations Children's Fund (UNICEF)",
+          "requirement_path": "4.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -134,6 +184,11 @@
         {
           "id": "6309",
           "label": "2",
+          "text": "International Court of Justice (The World Court)",
+          "requirement_path": "4.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -146,6 +201,11 @@
         {
           "id": "6333",
           "label": "3",
+          "text": "International Criminal Police Organization (Interpol)",
+          "requirement_path": "4.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -158,6 +218,11 @@
         {
           "id": "6310",
           "label": "4",
+          "text": "World Organization of the Scout Movement",
+          "requirement_path": "4.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -170,6 +235,11 @@
         {
           "id": "6311",
           "label": "5",
+          "text": "World Health Organization (WHO)",
+          "requirement_path": "4.5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -182,6 +252,11 @@
         {
           "id": "6312",
           "label": "6",
+          "text": "Amnesty International",
+          "requirement_path": "4.6",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +269,11 @@
         {
           "id": "6313",
           "label": "7",
+          "text": "International Federation of Red Cross and Red Crescent Societies (IFRC)",
+          "requirement_path": "4.7",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -206,6 +286,11 @@
         {
           "id": "6314",
           "label": "8",
+          "text": "Cooperative for American Relief Everywhere (CARE)",
+          "requirement_path": "4.8",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -218,6 +303,11 @@
         {
           "id": "6334",
           "label": "9",
+          "text": "European Union",
+          "requirement_path": "4.9",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -232,6 +322,11 @@
     {
       "id": "6317",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -243,6 +338,11 @@
         {
           "id": "6318",
           "label": "a",
+          "text": "Discuss the differences between constitutional and nonconstitutional governments.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -255,6 +355,11 @@
         {
           "id": "6319",
           "label": "b",
+          "text": "Name at least five different types of governments currently in power in the world.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -267,6 +372,11 @@
         {
           "id": "6320",
           "label": "c",
+          "text": "Show on a world map countries that use each of these five different forms of government.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -281,6 +391,11 @@
     {
       "id": "6321",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -292,6 +407,11 @@
         {
           "id": "6322",
           "label": "a",
+          "text": "Explain how a government is represented abroad and how the United States government is accredited to international organizations.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -304,6 +424,11 @@
         {
           "id": "6323",
           "label": "b",
+          "text": "Describe the roles of the following in the conduct of foreign relations: ambassador, consul, Bureau of Global Public Affairs, United States and Foreign Commercial Service.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -316,6 +441,11 @@
         {
           "id": "6324",
           "label": "c",
+          "text": "Explain the purpose of a passport and visa for international travel.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -330,6 +460,11 @@
     {
       "id": "6325",
       "label": "7",
+      "text": "Do TWO of the following (with your parent or guardian's permission) and share with your counselor what you have learned:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -341,6 +476,11 @@
         {
           "id": "6326",
           "label": "a",
+          "text": "Visit the website of the U.S. State Department. Learn more about an issue you find interesting that is discussed on this website.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -353,6 +493,11 @@
         {
           "id": "6327",
           "label": "b",
+          "text": "Visit the website of an international news organization or foreign government, OR examine a foreign newspaper available at your local library, bookstore, or newsstand. Find a news story about a human right realized in the United States that is not recognized in another country.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -365,6 +510,11 @@
         {
           "id": "6328",
           "label": "c",
+          "text": "Visit with a student or Scout from another country and discuss the typical values, holidays, ethnic foods, and traditions practiced or enjoyed there.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -377,6 +527,11 @@
         {
           "id": "6329",
           "label": "d",
+          "text": "Attend or participate in a World Organization of the Scouting Movement (WOSM) event such as the World Scout Jamboree, World Scout Moot, World Scout Congress, Jamboree Over The Air, or Jamboree Over The Internet. Attendance at a national or regional Jamboree sponsored by a WOSM-National Scout Organization is also allowed.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -389,6 +544,11 @@
         {
           "id": "6330",
           "label": "e",
+          "text": "Participate in or attend an international event in your area, such as an ethnic festival, concert, or play.",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

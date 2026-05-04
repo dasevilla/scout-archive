@@ -14,6 +14,11 @@
     {
       "id": "14801",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "14802",
           "label": "a",
+          "text": "Describe the safety precautions you should take when handling and caring for a horse.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "14803",
           "label": "b",
+          "text": "Describe the fire safety precautions you should take in a barn and around horses.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +76,11 @@
     {
       "id": "14817",
       "label": "2",
+      "text": "Name 15 parts of a horse and discuss the function of each with your counselor.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -86,6 +106,11 @@
     {
       "id": "14818",
       "label": "3",
+      "text": "Name four breeds of horses. Explain the special features for which each breed is known.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -107,6 +132,11 @@
     {
       "id": "14819",
       "label": "4",
+      "text": "Describe the symptoms of colic. Name and describe four other horse health problems.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -124,6 +154,11 @@
     {
       "id": "14820",
       "label": "5",
+      "text": "Explain what conformation is and why it is important. Explain the difference between lameness and unsoundness.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -145,6 +180,11 @@
     {
       "id": "14821",
       "label": "6",
+      "text": "Explain the importance of hoof care and why a horse might need to wear shoes.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -162,6 +202,11 @@
     {
       "id": "14822",
       "label": "7",
+      "text": "Demonstrate how to groom a horse, including picking hooves and caring for a horse after a ride.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -183,6 +228,11 @@
     {
       "id": "14823",
       "label": "8",
+      "text": "Explain how to determine what and how much to feed a horse and why the amount and kind of feed are changed according to the activity level and the breed of horse.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -200,6 +250,11 @@
     {
       "id": "14804",
       "label": "9",
+      "text": "Do the following:",
+      "requirement_path": "9",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -211,6 +266,11 @@
         {
           "id": "14805",
           "label": "a",
+          "text": "Name 10 parts of the saddle and bridle that you will use, and explain how to care for this equipment.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -228,6 +288,11 @@
         {
           "id": "14806",
           "label": "b",
+          "text": "Show how to properly saddle and bridle a horse.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -249,6 +314,11 @@
         {
           "id": "14807",
           "label": "c",
+          "text": "Demonstrate how to safely mount and dismount a horse.",
+          "requirement_path": "9.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -280,6 +350,11 @@
     {
       "id": "14816",
       "label": "10",
+      "text": "Explain and demonstrate how to approach and lead a horse safely from a stall, corral, or field and how to tie the horse securely.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -297,6 +372,11 @@
     {
       "id": "14808",
       "label": "11",
+      "text": "On level ground, continuously do the following movements after safely mounting the horse. Do them correctly, at ease, and in harmony with the horse.",
+      "requirement_path": "11",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -321,6 +401,11 @@
         {
           "id": "14809",
           "label": "a",
+          "text": "Walk the horse in a straight line for 60 feet.",
+          "requirement_path": "11.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -333,6 +418,11 @@
         {
           "id": "14810",
           "label": "b",
+          "text": "Walk the horse in a half-circle of not more than 16 feet in radius.",
+          "requirement_path": "11.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -345,6 +435,11 @@
         {
           "id": "14811",
           "label": "c",
+          "text": "Trot or jog the horse in a straight line for 60 feet.",
+          "requirement_path": "11.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -362,6 +457,11 @@
         {
           "id": "14812",
           "label": "d",
+          "text": "Trot or jog the horse in a half-circle of not more than 30 feet in radius.",
+          "requirement_path": "11.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -379,6 +479,11 @@
         {
           "id": "14813",
           "label": "e",
+          "text": "Halt straight.",
+          "requirement_path": "11.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -396,6 +501,11 @@
         {
           "id": "14814",
           "label": "f",
+          "text": "Back up straight four paces.",
+          "requirement_path": "11.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -413,6 +523,11 @@
         {
           "id": "14815",
           "label": "g",
+          "text": "Halt and dismount.",
+          "requirement_path": "11.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -432,6 +547,11 @@
     {
       "id": "14824",
       "label": "12",
+      "text": "Do ONE of the following:",
+      "requirement_path": "12",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -443,6 +563,11 @@
         {
           "id": "14825",
           "label": "a",
+          "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "12.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -464,6 +589,11 @@
         {
           "id": "14826",
           "label": "b",
+          "text": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "12.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

@@ -14,6 +14,11 @@
     {
       "id": "11057",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "11058",
           "label": "a",
+          "text": "Explain the responsibilities of a salesperson and how a salesperson serves customers and helps stimulate the economy.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "11059",
           "label": "b",
+          "text": "Explain the differences between a business-to-business salesperson and a consumer salesperson.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +76,11 @@
     {
       "id": "11060",
       "label": "2",
+      "text": "Explain why it is important for a salesperson to do the following:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -72,6 +92,11 @@
         {
           "id": "11061",
           "label": "a",
+          "text": "Research the market to be sure the product or service meets the needs of customers.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -89,6 +114,11 @@
         {
           "id": "11062",
           "label": "b",
+          "text": "Learn all about the product to be sold.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -106,6 +136,11 @@
         {
           "id": "11063",
           "label": "c",
+          "text": "If possible, visit the location where the product is built and learn how it is constructed. If a service is being sold, learn about the benefits of the service to the customer.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -118,6 +153,11 @@
         {
           "id": "11064",
           "label": "d",
+          "text": "Follow up with customers after their purchase to confirm their satisfaction and discuss their concerns about the product.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -137,6 +177,11 @@
     {
       "id": "11083",
       "label": "3",
+      "text": "Write and present a sales plan for a product and a sales territory assigned by your counselor.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -154,6 +199,11 @@
     {
       "id": "11084",
       "label": "4",
+      "text": "Make a sales presentation of a product assigned by your counselor.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -171,6 +221,11 @@
     {
       "id": "11065",
       "label": "5",
+      "text": "Do ONE of the following and keep a record (cost sheet). Use the sales techniques you have learned, and share your experience with your counselor:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -182,6 +237,11 @@
         {
           "id": "11066",
           "label": "a",
+          "text": "Help your unit raise funds through sales of merchandise or of tickets to a Scout event.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +254,11 @@
         {
           "id": "11067",
           "label": "b",
+          "text": "Sell your services such as lawn raking or mowing, pet watching, dog walking, show shoveling, and car washing to your neighbors. Follow up after the service has been completed and determine the customer's satisfaction.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -206,6 +271,11 @@
         {
           "id": "11068",
           "label": "c",
+          "text": "Earn money through retail selling.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -220,6 +290,11 @@
     {
       "id": "11069",
       "label": "6",
+      "text": "Do ONE of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -236,6 +311,11 @@
         {
           "id": "11070",
           "label": "a",
+          "text": "Interview a salesperson and learn the following:",
+          "requirement_path": "6.a",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",
@@ -243,59 +323,85 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "11071",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "What made the person choose sales as a profession?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "11072",
-          "label": "2",
-          "content": [
+              "id": "11071",
+              "label": "1",
+              "text": "What made the person choose sales as a profession?",
+              "requirement_path": "6.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "What made the person choose sales as a profession?"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "What are the most important things to remember when talking to customers?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "11073",
-          "label": "3",
-          "content": [
+              "id": "11072",
+              "label": "2",
+              "text": "What are the most important things to remember when talking to customers?",
+              "requirement_path": "6.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "What are the most important things to remember when talking to customers?"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "How is the product sold?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "11074",
-          "label": "4",
-          "content": [
+              "id": "11073",
+              "label": "3",
+              "text": "How is the product sold?",
+              "requirement_path": "6.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "How is the product sold?"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Include your own questions."
+              "id": "11074",
+              "label": "4",
+              "text": "Include your own questions.",
+              "requirement_path": "6.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Include your own questions."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "11075",
           "label": "b",
+          "text": "Interview a retail store owner and learn the following:",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -303,66 +409,92 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "11076",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "How often is the owner approached by a sales representative?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "11077",
-          "label": "2",
-          "content": [
+              "id": "11076",
+              "label": "1",
+              "text": "How often is the owner approached by a sales representative?",
+              "requirement_path": "6.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "How often is the owner approached by a sales representative?"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "What good traits should a sales representative have? What habits should the sales representative avoid?"
-            }
-          ],
-          "resources": [
+              "id": "11077",
+              "label": "2",
+              "text": "What good traits should a sales representative have? What habits should the sales representative avoid?",
+              "requirement_path": "6.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "What good traits should a sales representative have? What habits should the sales representative avoid?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Top 5 Traits of Great Sales People (video)",
+                  "url": "https://youtu.be/OjCnfTSrq1s"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Top 5 Traits of Great Sales People (video)",
-              "url": "https://youtu.be/OjCnfTSrq1s"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "11078",
-          "label": "3",
-          "content": [
+              "id": "11078",
+              "label": "3",
+              "text": "What does the owner consider when deciding whether to establish an account with a sales representative?",
+              "requirement_path": "6.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "What does the owner consider when deciding whether to establish an account with a sales representative?"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "What does the owner consider when deciding whether to establish an account with a sales representative?"
+              "id": "11079",
+              "label": "4",
+              "text": "Include at least two of your own questions.",
+              "requirement_path": "6.b.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Include at least two of your own questions."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "11079",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Include at least two of your own questions."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "11080",
       "label": "7",
+      "text": "Investigate and report on career opportunities in sales, then do the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -379,6 +511,11 @@
         {
           "id": "11081",
           "label": "a",
+          "text": "Prepare a written statement of your qualifications and experience. Include relevant classes you have taken in school and merit badges you have earned.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -396,6 +533,11 @@
         {
           "id": "11082",
           "label": "b",
+          "text": "Discuss with your counselor what education, experience, or training you should obtain so you are prepared to serve in a sales position.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

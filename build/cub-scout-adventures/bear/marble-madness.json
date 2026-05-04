@@ -11,6 +11,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Learn five words that are used when talking about marbles.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn five words that are used when talking about marbles.",
       "activities": [
         {
           "name": "Marble Jargon",
@@ -35,6 +39,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Play three different marble games.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play three different marble games.",
       "activities": [
         {
           "name": "Ringer, Plums, and Dropsies",
@@ -59,6 +67,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Build a marble racetrack with at least two lanes.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Build a marble racetrack with at least two lanes.",
       "activities": [
         {
           "name": "Marble Racetrack",

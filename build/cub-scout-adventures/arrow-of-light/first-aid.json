@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "With permission from your parent or legal guardian, watch the Protect Yourself Rules video for the Arrow of Light rank.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With permission from your parent or legal guardian, watch the Protect Yourself Rules video for the Arrow of Light rank.",
       "activities": [
         {
           "name": "Protect Yourself Rules Arrow of Light",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Explain what you should do if you encounter someone in need of first aid.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explain what you should do if you encounter someone in need of first aid.",
       "activities": [
         {
           "name": "First Aid First Response",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Demonstrate what to do for hurry cases of first aid: serious bleeding, heart attack or sudden cardiac arrest, stopped breathing, stroke, poisoning.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate what to do for hurry cases of first aid: serious bleeding, heart attack or sudden cardiac arrest, stopped breathing, stroke, poisoning.",
       "activities": [
         {
           "name": "“Hurry” Cases",
@@ -92,6 +104,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Demonstrate how to help a choking victim.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -100,7 +117,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how to help a choking victim.",
       "activities": [
         {
           "name": "Obstructed Airway Maneuver",
@@ -116,6 +132,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Demonstrate how to treat shock.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -124,7 +145,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how to treat shock.",
       "activities": [
         {
           "name": "Shock First Aid",
@@ -140,6 +160,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Demonstrate how to treat the following: cuts and scratches, burns and scalds, bites and stings of insects and animals, and nosebleed.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -148,7 +173,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how to treat the following: cuts and scratches, burns and scalds, bites and stings of insects and animals, and nosebleed.",
       "activities": [
         {
           "name": "Common First Aid Practices",
@@ -164,6 +188,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Make a personal first-aid kit. Demonstrate the proper use of each item in your first-aid kit.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -172,7 +201,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Make a personal first-aid kit. Demonstrate the proper use of each item in your first-aid kit.",
       "activities": [
         {
           "name": "DIY First Aid Kit",

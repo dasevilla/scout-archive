@@ -14,6 +14,11 @@
     {
       "id": "13833",
       "label": null,
+      "text": "NOTE: In any of the collection requirements, if collecting is permitted, do so ethically and sustainably. Scouts must remember to follow the Leave No Trace Seven Principles and the Outdoor Code while on field trips and when collecting. Collect sparingly, only taking what you need, and ensure that your collection practices do not harm the surrounding environment. Make sure you have permission from the land manager prior to taking any samples for your collections and be aware of and adhere to local laws regarding collection. (Note that collecting is prohibited in most National and State Parks.) Consider purchasing rock, mineral and fossil specimens from commercial rock and mineral shops or from home garden stores. Pictures or sketches may suffice for a collection and limit impacted disturbances. In most cases all specimens should be returned to the wild at the location of original capture after the requirements have been met. Check with your counselor for those instances where the return of these specimens would not be appropriate. Under the Endangered Species Act of 1973, some plants and animals are or may be protected by federal law. The same ones and/or others may be protected by state law. Be sure that you do not collect protected species. Your state may require that you purchase and carry a license to collect certain species. Check with the wildlife and fish and game officials in your state regarding species regulations before you begin to collect.",
+      "requirement_path": "item-1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -65,6 +70,11 @@
     {
       "id": "13645",
       "label": "1",
+      "text": "Name three ways in which plants are important to animals. Name a plant that is protected in your state or region, and explain why it is at risk.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -86,6 +96,11 @@
     {
       "id": "13646",
       "label": "2",
+      "text": "Name three ways in which animals are important to plants. Name an animal that is protected in your state or region, and explain why it is at risk.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,6 +118,11 @@
     {
       "id": "13647",
       "label": "3",
+      "text": "Explain the term \"food chain.\" Give an example of a four-step land food chain and a four-step water food chain.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -124,6 +144,11 @@
     {
       "id": "13617",
       "label": "4",
+      "text": "Do all the requirements in FIVE of the following fields:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -135,6 +160,11 @@
         {
           "id": "13618",
           "label": "a",
+          "text": "Birds. Do ALL of the following:",
+          "requirement_path": "4.a",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -153,57 +183,73 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13619",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "In the field, identify eight species of birds."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Identify Birds [TOP 10 BACKYARD BIRDS] (video)",
-              "url": "https://www.youtube.com/watch?v=HtBcOk8ICpA"
+              "id": "13619",
+              "label": "1",
+              "text": "In the field, identify eight species of birds.",
+              "requirement_path": "4.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "In the field, identify eight species of birds."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Identify Birds [TOP 10 BACKYARD BIRDS] (video)",
+                  "url": "https://www.youtube.com/watch?v=HtBcOk8ICpA"
+                },
+                {
+                  "title": "Merlin Bird ID (website)",
+                  "url": "https://merlin.allaboutbirds.org/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Merlin Bird ID (website)",
-              "url": "https://merlin.allaboutbirds.org/"
+              "id": "13620",
+              "label": "2",
+              "text": "Make and set out a birdhouse OR a feeding station OR a birdbath. List what birds used it during a period of one month.",
+              "requirement_path": "4.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make and set out a birdhouse OR a feeding station OR a birdbath. List what birds used it during a period of one month."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "DIY Birdhouse (video)",
+                  "url": "https://www.youtube.com/watch?v=u4iAhnbWpz8"
+                },
+                {
+                  "title": "How to Pick (or Build) the Right Bird Bath for Your Garden (video)",
+                  "url": "https://www.youtube.com/watch?v=yZl2N2XlHDA"
+                },
+                {
+                  "title": "Build a Bird House for Under $5 in Under 5 Minutes (video)",
+                  "url": "https://www.youtube.com/watch?v=j0werPvrrPI"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13620",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Make and set out a birdhouse OR a feeding station OR a birdbath. List what birds used it during a period of one month."
-            }
-          ],
-          "resources": [
-            {
-              "title": "DIY Birdhouse (video)",
-              "url": "https://www.youtube.com/watch?v=u4iAhnbWpz8"
-            },
-            {
-              "title": "How to Pick (or Build) the Right Bird Bath for Your Garden (video)",
-              "url": "https://www.youtube.com/watch?v=yZl2N2XlHDA"
-            },
-            {
-              "title": "Build a Bird House for Under $5 in Under 5 Minutes (video)",
-              "url": "https://www.youtube.com/watch?v=j0werPvrrPI"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13621",
           "label": "b",
+          "text": "Mammals. Do ALL of the following:",
+          "requirement_path": "4.b",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -222,53 +268,69 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13622",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "In the field, identify three species of wild mammals."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Find Mammal Signs (video)",
-              "url": "https://www.youtube.com/watch?v=x8DfP0Nh7kA"
+              "id": "13622",
+              "label": "1",
+              "text": "In the field, identify three species of wild mammals.",
+              "requirement_path": "4.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "In the field, identify three species of wild mammals."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Find Mammal Signs (video)",
+                  "url": "https://www.youtube.com/watch?v=x8DfP0Nh7kA"
+                },
+                {
+                  "title": "Mammals (website)",
+                  "url": "https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Mammals (website)",
-              "url": "https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals"
+              "id": "13623",
+              "label": "2",
+              "text": "Make plaster casts of the tracks of a wild mammal.",
+              "requirement_path": "4.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make plaster casts of the tracks of a wild mammal."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Make Plaster Casts of an Animal Track (video)",
+                  "url": "https://www.youtube.com/watch?v=Y4WTmgo4zeA"
+                },
+                {
+                  "title": "How to Make Your Own Animal Track Cast (video)",
+                  "url": "https://www.youtube.com/watch?v=A_ksi4Ih_wU"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13623",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Make plaster casts of the tracks of a wild mammal."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Make Plaster Casts of an Animal Track (video)",
-              "url": "https://www.youtube.com/watch?v=Y4WTmgo4zeA"
-            },
-            {
-              "title": "How to Make Your Own Animal Track Cast (video)",
-              "url": "https://www.youtube.com/watch?v=A_ksi4Ih_wU"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13624",
           "label": "c",
+          "text": "Reptiles and Amphibians. Do ALL of the following:",
+          "requirement_path": "4.c",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -287,74 +349,95 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13625",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Show that you can recognize the venomous snakes in your area."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Tell if a Snake Is Venomous (website)",
-              "url": "https://urbanjunglewildliferemoval.com/blog/how-to-tell-venomous-snake/"
+              "id": "13625",
+              "label": "1",
+              "text": "Show that you can recognize the venomous snakes in your area.",
+              "requirement_path": "4.c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show that you can recognize the venomous snakes in your area."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Tell if a Snake Is Venomous (website)",
+                  "url": "https://urbanjunglewildliferemoval.com/blog/how-to-tell-venomous-snake/"
+                },
+                {
+                  "title": "Zoologist Explains Snake Venom - Poisonous vs Venomous (video)",
+                  "url": "https://youtu.be/KxXfWrI6bB4?si=6TMzt9gUfQdxCvWc"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Zoologist Explains Snake Venom - Poisonous vs Venomous (video)",
-              "url": "https://youtu.be/KxXfWrI6bB4?si=6TMzt9gUfQdxCvWc"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13626",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "In the field, identify three species of reptiles or amphibians."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Reptiles of the United States (website)",
-              "url": "https://www.inaturalist.org/places/united-states#taxon=26036"
+              "id": "13626",
+              "label": "2",
+              "text": "In the field, identify three species of reptiles or amphibians.",
+              "requirement_path": "4.c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "In the field, identify three species of reptiles or amphibians."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Reptiles of the United States (website)",
+                  "url": "https://www.inaturalist.org/places/united-states#taxon=26036"
+                },
+                {
+                  "title": "Amphibians of the United States (website)",
+                  "url": "https://www.inaturalist.org/places/united-states#taxon=20978"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Amphibians of the United States (website)",
-              "url": "https://www.inaturalist.org/places/united-states#taxon=20978"
+              "id": "13627",
+              "label": "3",
+              "text": "Recognize one species of toad or frog by voice; OR identify one reptile or amphibian by eggs, den, burrow, or other signs.",
+              "requirement_path": "4.c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Recognize one species of toad or frog by voice; OR identify one reptile or amphibian by eggs, den, burrow, or other signs."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Reptiles vs. Amphibians (video)",
+                  "url": "https://www.youtube.com/watch?v=6MsTbQi19SA"
+                },
+                {
+                  "title": "Frog Sounds: Why They Make Them (Examples) (video)",
+                  "url": "https://youtu.be/74-vaZv54s8?si=7ClcX_Akwhjh0A_T"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13627",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Recognize one species of toad or frog by voice; OR identify one reptile or amphibian by eggs, den, burrow, or other signs."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Reptiles vs. Amphibians (video)",
-              "url": "https://www.youtube.com/watch?v=6MsTbQi19SA"
-            },
-            {
-              "title": "Frog Sounds: Why They Make Them (Examples) (video)",
-              "url": "https://youtu.be/74-vaZv54s8?si=7ClcX_Akwhjh0A_T"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13628",
           "label": "d",
+          "text": "Insects and Spiders. Do ALL of the following:",
+          "requirement_path": "4.d",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -373,53 +456,69 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13629",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Collect and identify either in the field or through photographs 10 species of insects or spiders. Photos may be taken with your own equipment or gathered from other sources."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Start a Bug Collection (video)",
-              "url": "https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13630",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Hatch an insect from the pupa or cocoon; OR hatch adults from nymphs; OR keep larvae until they form pupae or cocoons; OR keep a colony of ants or bees through one season."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Hatch and Raise Monarch Butterflies (video)",
-              "url": "https://www.youtube.com/watch?v=XC_O2MN4iOk"
+              "id": "13629",
+              "label": "1",
+              "text": "Collect and identify either in the field or through photographs 10 species of insects or spiders. Photos may be taken with your own equipment or gathered from other sources.",
+              "requirement_path": "4.d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Collect and identify either in the field or through photographs 10 species of insects or spiders. Photos may be taken with your own equipment or gathered from other sources."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Start a Bug Collection (video)",
+                  "url": "https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Raise an Ant Colony 101 | The Ultimate Guide to Keeping Pet Ants (video)",
-              "url": "https://www.youtube.com/watch?v=o1421IyFKuU"
-            },
-            {
-              "title": "How to Raise a Caterpillar Into a Butterfly (video)",
-              "url": "https://www.youtube.com/watch?v=G-nriWdyR5w"
+              "id": "13630",
+              "label": "2",
+              "text": "Hatch an insect from the pupa or cocoon; OR hatch adults from nymphs; OR keep larvae until they form pupae or cocoons; OR keep a colony of ants or bees through one season.",
+              "requirement_path": "4.d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Hatch an insect from the pupa or cocoon; OR hatch adults from nymphs; OR keep larvae until they form pupae or cocoons; OR keep a colony of ants or bees through one season."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Hatch and Raise Monarch Butterflies (video)",
+                  "url": "https://www.youtube.com/watch?v=XC_O2MN4iOk"
+                },
+                {
+                  "title": "How to Raise an Ant Colony 101 | The Ultimate Guide to Keeping Pet Ants (video)",
+                  "url": "https://www.youtube.com/watch?v=o1421IyFKuU"
+                },
+                {
+                  "title": "How to Raise a Caterpillar Into a Butterfly (video)",
+                  "url": "https://www.youtube.com/watch?v=G-nriWdyR5w"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13631",
           "label": "e",
+          "text": "Fish. Do ALL of the following:",
+          "requirement_path": "4.e",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -438,45 +537,61 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13632",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Identify two species of fish native to your area."
-            }
-          ],
-          "resources": [
+              "id": "13632",
+              "label": "1",
+              "text": "Identify two species of fish native to your area.",
+              "requirement_path": "4.e.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify two species of fish native to your area."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Game Fish Identification Reference Guides (website)",
+                  "url": "https://igfa.org/game-fish-database/"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Game Fish Identification Reference Guides (website)",
-              "url": "https://igfa.org/game-fish-database/"
+              "id": "13633",
+              "label": "2",
+              "text": "Collect four kinds of animal food eaten by fish in the wild.",
+              "requirement_path": "4.e.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Collect four kinds of animal food eaten by fish in the wild."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Do Fish Eat? (video)",
+                  "url": "https://www.youtube.com/watch?v=LVTGIn4gnTw"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13633",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Collect four kinds of animal food eaten by fish in the wild."
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Do Fish Eat? (video)",
-              "url": "https://www.youtube.com/watch?v=LVTGIn4gnTw"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13634",
           "label": "f",
+          "text": "Mollusks and Crustaceans. Do ALL of the following:",
+          "requirement_path": "4.f",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -495,53 +610,69 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13635",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Identify five species of mollusks and crustaceans."
-            }
-          ],
-          "resources": [
-            {
-              "title": "All About Mollusks (video)",
-              "url": "https://www.youtube.com/watch?v=G_GJH1t7VVM"
+              "id": "13635",
+              "label": "1",
+              "text": "Identify five species of mollusks and crustaceans.",
+              "requirement_path": "4.f.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify five species of mollusks and crustaceans."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "All About Mollusks (video)",
+                  "url": "https://www.youtube.com/watch?v=G_GJH1t7VVM"
+                },
+                {
+                  "title": "Crustaceans Facts (video)",
+                  "url": "https://youtu.be/nfTQUX-GMjc?si=uWRRlR9ez4Tc5ymm"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Crustaceans Facts (video)",
-              "url": "https://youtu.be/nfTQUX-GMjc?si=uWRRlR9ez4Tc5ymm"
+              "id": "13636",
+              "label": "2",
+              "text": "Collect, mount, and label six shells.",
+              "requirement_path": "4.f.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Collect, mount, and label six shells."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Organizing My Massive Seashell Collection. Identifying Similar Shells & Comparing Shells to Critters (video)",
+                  "url": "https://youtu.be/MMkynhuI_1w?si=ZC4ur2DlM9Sl2IFw"
+                },
+                {
+                  "title": "Organizing a Shell Collection (website)",
+                  "url": "https://conchologistsofamerica.org/organizing-a-shell-collection/"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13636",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Collect, mount, and label six shells."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Organizing My Massive Seashell Collection. Identifying Similar Shells & Comparing Shells to Critters (video)",
-              "url": "https://youtu.be/MMkynhuI_1w?si=ZC4ur2DlM9Sl2IFw"
-            },
-            {
-              "title": "Organizing a Shell Collection (website)",
-              "url": "https://conchologistsofamerica.org/organizing-a-shell-collection/"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13637",
           "label": "g",
+          "text": "Plants. Do ALL of the following:",
+          "requirement_path": "4.g",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -560,145 +691,188 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13641",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "In the field, identify 15 species of wild plants."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Identify Wild Plants - A Guide To Botanical Terms (video)",
-              "url": "https://www.youtube.com/watch?v=5Aj82u2he6s"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13638",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Do ONE of the following:"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13639",
-          "label": "a",
-          "content": [
-            {
-              "type": "text",
-              "value": "Collect and label the seeds of six plants OR the leaves of 12 plants."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Science at Play: Preserving Fall Leaves (video)",
-              "url": "https://www.youtube.com/watch?v=06nhKenT410"
-            },
-            {
-              "title": "Harvesting & Saving Seeds! (video)",
-              "url": "https://www.youtube.com/watch?v=QqIoGe-m2OM"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13640",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Plant Photography for Beginners (video)",
-              "url": "https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv"
-            },
-            {
-              "title": "How I Shot My First Plant Time-Lapse (video)",
-              "url": "https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13642",
-          "label": "h",
-          "content": [
-            {
-              "type": "element",
-              "tag": "b",
-              "attrs": {},
-              "children": [
+              "id": "13641",
+              "label": "1",
+              "text": "In the field, identify 15 species of wild plants.",
+              "requirement_path": "4.g.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
                   "type": "text",
-                  "value": "Soils and Rocks."
+                  "value": "In the field, identify 15 species of wild plants."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Identify Wild Plants - A Guide To Botanical Terms (video)",
+                  "url": "https://www.youtube.com/watch?v=5Aj82u2he6s"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "13638",
+              "label": "2",
+              "text": "Do ONE of the following:",
+              "requirement_path": "4.g.2",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Do ONE of the following:"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "13639",
+                  "label": "a",
+                  "text": "Collect and label the seeds of six plants OR the leaves of 12 plants.",
+                  "requirement_path": "4.g.2.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Collect and label the seeds of six plants OR the leaves of 12 plants."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Science at Play: Preserving Fall Leaves (video)",
+                      "url": "https://www.youtube.com/watch?v=06nhKenT410"
+                    },
+                    {
+                      "title": "Harvesting & Saving Seeds! (video)",
+                      "url": "https://www.youtube.com/watch?v=QqIoGe-m2OM"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "13640",
+                  "label": "b",
+                  "text": "Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.",
+                  "requirement_path": "4.g.2.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Plant Photography for Beginners (video)",
+                      "url": "https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv"
+                    },
+                    {
+                      "title": "How I Shot My First Plant Time-Lapse (video)",
+                      "url": "https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "13642",
+                  "label": "h",
+                  "text": "Soils and Rocks. Do ALL of the following:",
+                  "requirement_path": "4.g.2.h",
+                  "node_kind": "instruction_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Soils and Rocks."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " Do ALL of the following:"
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "13643",
+                      "label": "1",
+                      "text": "Collect and identify three different types of soil that represent soils high in sand, clay and humus.",
+                      "requirement_path": "4.g.2.h.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Collect and identify three different types of soil that represent soils high in sand, clay and humus."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Layers of Soil | Soil Profile Formation (video)",
+                          "url": "https://www.youtube.com/watch?v=VTuL5Pa0gC0"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "13644",
+                      "label": "2",
+                      "text": "Collect and identify five different types of rocks from your area.",
+                      "requirement_path": "4.g.2.h.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Collect and identify five different types of rocks from your area."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Rockhounding 101: What to Look for on Your Next Adventure! (video)",
+                          "url": "https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno"
+                        },
+                        {
+                          "title": "Rock & Mineral Identification | It Can Be Easier Than You Think (video)",
+                          "url": "https://www.youtube.com/watch?v=mgld5jeYR04"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
                 }
               ]
-            },
-            {
-              "type": "text",
-              "value": " Do ALL of the following:"
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13643",
-          "label": "1",
-          "content": [
-            {
-              "type": "text",
-              "value": "Collect and identify three different types of soil that represent soils high in sand, clay and humus."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Layers of Soil | Soil Profile Formation (video)",
-              "url": "https://www.youtube.com/watch?v=VTuL5Pa0gC0"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13644",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Collect and identify five different types of rocks from your area."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Rockhounding 101: What to Look for on Your Next Adventure! (video)",
-              "url": "https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno"
-            },
-            {
-              "title": "Rock & Mineral Identification | It Can Be Easier Than You Think (video)",
-              "url": "https://www.youtube.com/watch?v=mgld5jeYR04"
-            }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "13648",
       "label": "5",
+      "text": "Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code and how they relate to nature. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code while in natural areas during field observation, specimen collection, and identification.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -724,6 +898,11 @@
     {
       "id": "13649",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -735,6 +914,11 @@
         {
           "id": "13650",
           "label": "a",
+          "text": "Explain what succession is to your counselor.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -756,6 +940,11 @@
         {
           "id": "13651",
           "label": "b",
+          "text": "Visit a natural area (forest, grassland, meadow, water feature) and explain what stage of succession (both plant and animal) the area is in. Talk about what community/succession stages may have been there before and what community/succession stages may replace what you see now. Discuss what disturbances or changes have taken place in the past to create this landscape and what changes may occur in the future to change the landscape further.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -775,6 +964,11 @@
     {
       "id": "13652",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -786,6 +980,11 @@
         {
           "id": "13653",
           "label": "a",
+          "text": "Identify three career opportunities that would use skills and knowledge in Nature. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -811,6 +1010,11 @@
         {
           "id": "13654",
           "label": "b",
+          "text": "Identify how you might use the skills and knowledge in Nature to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

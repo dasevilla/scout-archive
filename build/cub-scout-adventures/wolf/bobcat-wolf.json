@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Get to know members of your den.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Get to know members of your den.",
       "activities": [
         {
           "name": "Den Doodle Wolf",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Recite the Scout Oath and the Scout Law with your den and den leader.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Recite the Scout Oath and the Scout Law with your den and den leader.",
       "activities": [
         {
           "name": "Recite the Oath and Law Wolf",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Learn about the Scout Law.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the Scout Law.",
       "activities": [
         {
           "name": "Scout Law Clothespin Quest",
@@ -137,6 +149,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "With your den create a den Code of Conduct.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -145,7 +162,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den create a den Code of Conduct.",
       "activities": [
         {
           "name": "Code of Conduct Collage",
@@ -170,6 +186,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake. Show how each is used.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -178,7 +199,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake. Show how each is used.",
       "activities": [
         {
           "name": "Bobcat Relay Wolf",
@@ -212,6 +232,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Share with your den, or family, a time when you demonstrated the Cub Scout motto “Do Your Best.”",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -220,7 +245,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Share with your den, or family, a time when you demonstrated the Cub Scout motto “Do Your Best.”",
       "activities": [
         {
           "name": "Do Your Best Shield",
@@ -254,6 +278,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "At home, with your parent or legal guardian do the activities in the booklet “How to Protect Your Children from Child Abuse: A Parent’s Guide.”",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -262,7 +291,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "At home, with your parent or legal guardian do the activities in the booklet “How to Protect Your Children from Child Abuse: A Parent’s Guide.”",
       "activities": [
         {
           "name": "Child Abuse Protection Review Wolf",

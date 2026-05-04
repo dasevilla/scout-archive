@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "State the safety precautions you need to take before doing any swimming activity.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "State the safety precautions you need to take before doing any swimming activity.",
       "activities": [
         {
           "name": "Learning the Swimming Safe Rules",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Explain the meaning of “order of rescue” and demonstrate the reach and throw rescue techniques from land.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explain the meaning of “order of rescue” and demonstrate the reach and throw rescue techniques from land.",
       "activities": [
         {
           "name": "Order of Rescue Webelos",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Learn how to prevent and treat hypothermia.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn how to prevent and treat hypothermia.",
       "activities": [
         {
           "name": "Surviving the Chill",
@@ -83,6 +95,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Attempt Scouting America swimmer test.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -91,7 +108,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Attempt Scouting America swimmer test.",
       "activities": [
         {
           "name": "Scouting America Swimmer test Webelos",
@@ -107,6 +123,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Have 30 minutes, or more, of free swim time where you practice the Buddy System and stay within your ability group. The qualified adult supervision should conduct at least three buddy checks per half hour swimming.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -115,7 +136,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Have 30 minutes, or more, of free swim time where you practice the Buddy System and stay within your ability group. The qualified adult supervision should conduct at least three buddy checks per half hour swimming.",
       "activities": [
         {
           "name": "Go Swimming Webelos",

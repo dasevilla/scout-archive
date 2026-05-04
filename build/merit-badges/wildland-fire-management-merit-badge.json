@@ -14,6 +14,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Explain the history of wildland fire, its suppression, prevention and management in America.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -42,6 +47,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Explain the harm caused by wildfire in the United States. Discuss the negative impacts that wildfire can have on the following resources.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -73,6 +83,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Commercial forest products",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -85,6 +100,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Fish and Wildlife habitat",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -97,6 +117,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Soil and water",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -109,6 +134,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Recreation and public use",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -121,6 +151,11 @@
         {
           "id": "E",
           "label": "E",
+          "text": "Homes, communities and human resources",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -133,6 +168,11 @@
         {
           "id": "F",
           "label": "F",
+          "text": "Air quality and public health",
+          "requirement_path": "2.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -147,6 +187,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Define prescribed fire. Explain how it is used to accomplish the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -182,6 +227,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Fuel reduction",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +244,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Fish and wildlife habitat enhancement",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -206,6 +261,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Ecosystem restoration",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -218,6 +278,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Forest regeneration",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -230,6 +295,11 @@
         {
           "id": "E",
           "label": "E",
+          "text": "Insect and disease control",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -244,6 +314,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Explain defensible space and define the term wildland-urban interface. Discuss how homes and communities in the wildland-urban interface can be protected from wildfire.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -268,6 +343,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Explain the main causes of wildfire in America. Explain how you can prevent wildfires in your community or on an outing with your unit.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -308,6 +388,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Describe the Fire Triangle. Explain how wildfires can be suppressed by removing each element of the fire triangle.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -332,6 +417,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Explain how the fire environment affects wildland fire behavior. Give examples of the influences of weather, topography and fuel. Draw a diagram to illustrate the parts of a wildfire.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -356,6 +446,11 @@
     {
       "id": "8",
       "label": "8",
+      "text": "Explain the following wildland fire suppression tactics and under which conditions they would be used to achieve objectives. Use your own diagrams if necessary.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -391,6 +486,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Direct attack",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -403,6 +503,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Indirect attack",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -415,6 +520,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Parallel attack",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -427,6 +537,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Minimum Impact Suppression Tactics",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -439,6 +554,11 @@
         {
           "id": "E",
           "label": "E",
+          "text": "Mop-Up",
+          "requirement_path": "8.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -451,6 +571,11 @@
         {
           "id": "F",
           "label": "F",
+          "text": "Use of machinery and aircraft",
+          "requirement_path": "8.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -463,6 +588,11 @@
         {
           "id": "G",
           "label": "G",
+          "text": "Fire management for resource benefit objectives",
+          "requirement_path": "8.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -475,6 +605,11 @@
         {
           "id": "H",
           "label": "H",
+          "text": "Repair and Restoration",
+          "requirement_path": "8.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -489,6 +624,11 @@
     {
       "id": "9",
       "label": "9",
+      "text": "Describe 10 tools, equipment or apparatus that are unique to wildland fire suppression and explain how these items are used.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -529,6 +669,11 @@
     {
       "id": "10",
       "label": "10",
+      "text": "Describe the personal protective equipment used by wildland firefighters. Explain why personal protective equipment and proper training is necessary.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -553,6 +698,11 @@
     {
       "id": "11",
       "label": "11",
+      "text": "Describe the following and explain why each is an important consideration for maintaining personal safety and situational awareness during wildland fire suppression activities.",
+      "requirement_path": "11",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -584,6 +734,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "10 Standard Firefighting Orders",
+          "requirement_path": "11.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -596,6 +751,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "18 Watch Out Situations",
+          "requirement_path": "11.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -608,6 +768,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Lookouts, Communication, Escape Routes and Safety Zones (LCES)",
+          "requirement_path": "11.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -622,6 +787,11 @@
     {
       "id": "12",
       "label": "12",
+      "text": "List the major government agencies involved with fire suppression in the United States, and the role that these agencies play in fire suppression.",
+      "requirement_path": "12",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -640,6 +810,11 @@
         {
           "id": "",
           "label": null,
+          "text": "About Us | NWCG (click on Member Agencies Tab)",
+          "requirement_path": "12.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -689,6 +864,11 @@
     {
       "id": "13",
       "label": "13",
+      "text": "Draw a diagram of the Incident Command System. Explain the functions of the positions that make up the Command and General Staff.",
+      "requirement_path": "13",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -713,6 +893,11 @@
     {
       "id": "14",
       "label": "14",
+      "text": "Learn about three career opportunities in wildland fire. Select one and research the education, training, and experience required for this position. Discuss this position with your counselor, and explain why a career in wildland fire might interest you.",
+      "requirement_path": "14",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -741,6 +926,11 @@
     {
       "id": "15",
       "label": "15",
+      "text": "Do one of the following:",
+      "requirement_path": "15",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -759,6 +949,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Develop a fire readiness plan for a wildland area with which you are familiar. The plan should include a map showing available resources, water supplies, natural and manmade barriers, and access. The plan should discuss fuel loads, available fire apparatus, structure protection needs, values at risk, medical and evacuation considerations and potential fire suppression tactics.",
+          "requirement_path": "15.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -771,6 +966,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Visit with a state or federal forestry official or your local fire warden. Discuss the causes of and types of wildland fire that occur in your area. Discuss the prime fire season(s) in your area. Identify the agency responsible for wildland fire suppression in your area. Write a brief report about what you learned during your visit.",
+          "requirement_path": "15.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -783,6 +983,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Conduct a fire wise assessment of a home or a building in the wildland-urban interface, which could include a Scout camp building or facility. Identify potential risks and fire hazards. With your counselor’s approval, complete a project to reduce the wildfire risk and increase the preparedness of the building. Write a brief report about what you did and learned from the assessment and project.\nNFPA – Firewise USA®",
+          "requirement_path": "15.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -821,6 +1026,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Participate in a fire prevention campaign with your local fire department or forestry agency. Write a brief report about what you did and what you learned from it.",
+          "requirement_path": "15.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -835,6 +1045,11 @@
     {
       "id": "16",
       "label": "16",
+      "text": "Research an historic catastrophic wildland fire incident that has occurred in the United States. Write a report of no less than 500 words describing the incident, the conditions that led to the incident, how the incident was managed, and how the incident could have been prevented. Explain what lessons were learned and how this incident affected future fire suppression policy or suppression tactics. There are many historic fires that can be researched online, here are four examples.",
+      "requirement_path": "16",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -871,6 +1086,11 @@
     {
       "id": "17",
       "label": "17",
+      "text": "Complete the survey below to complete the test lab requirements",
+      "requirement_path": "17",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",

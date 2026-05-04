@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "With your Lion adult partner, assemble and decorate either a Pinewood Derby® car or a Raingutter Regatta™ boat.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your Lion adult partner, assemble and decorate either a Pinewood Derby® car or a Raingutter Regatta™ boat.",
       "activities": [
         {
           "name": "Pinewood Derby® Car Build Day Lion",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Learn the rules of the race for the vehicle chosen in Requirement 1.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn the rules of the race for the vehicle chosen in Requirement 1.",
       "activities": [
         {
           "name": "Arrow of Light Scouts Explain the Rules",
@@ -68,6 +76,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Before the race, discuss with your Lion adult partner how you will demonstrate good sportsmanship during the race.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -76,7 +89,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Before the race, discuss with your Lion adult partner how you will demonstrate good sportsmanship during the race.",
       "activities": [
         {
           "name": "Good Sportsmanship for the Race",
@@ -92,6 +104,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "With your Lion adult partner, participate in a Pinewood Derby® or a Raingutter Regatta™.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -100,7 +117,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your Lion adult partner, participate in a Pinewood Derby® or a Raingutter Regatta™.",
       "activities": [
         {
           "name": "Pinewood Derby® Race",

@@ -14,6 +14,11 @@
     {
       "id": "15947",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "15948",
           "label": "a",
+          "text": "Explain to your counselor the hazards you are most likely to encounter while participating in snow sport activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -46,6 +56,11 @@
         {
           "id": "15949",
           "label": "b",
+          "text": "Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in snow sports, including hypothermia, frostbite, shock, dehydration, sunburn, concussion, fractures, bruises, sprains, and strains. Tell how to apply splints.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -69,6 +84,11 @@
     {
       "id": "15950",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -80,6 +100,11 @@
         {
           "id": "15951",
           "label": "a",
+          "text": "Explain why every snow sport participant should be prepared to render first aid in the event of an accident.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -92,6 +117,11 @@
         {
           "id": "15952",
           "label": "b",
+          "text": "Explain the procedure used to report an accident to the local ski patrol or local emergency personnel.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -111,6 +141,11 @@
     {
       "id": "16005",
       "label": "3",
+      "text": "Explain the international trail-marking system.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -128,6 +163,11 @@
     {
       "id": "16006",
       "label": "4",
+      "text": "Discuss the importance of strength, endurance, and flexibility in snow sports. Demonstrate exercises and activities you can do to get fit for the option you choose in requirement 7.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -145,6 +185,11 @@
     {
       "id": "16007",
       "label": "5",
+      "text": "Present yourself properly clothed and equipped for the option you choose in requirement 7. Discuss how the clothing you have chosen will help keep you warm and protected.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -162,6 +207,11 @@
     {
       "id": "15953",
       "label": "6",
+      "text": "Do ALL of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -173,6 +223,11 @@
         {
           "id": "15954",
           "label": "a",
+          "text": "Explain the elements of the Your Responsibility Code that is in effect at the location whehre you will ski, snowboard, or snowshoe. Explain why each person must follow this code.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -205,6 +260,11 @@
         {
           "id": "15955",
           "label": "b",
+          "text": "Explain the SMART Style safety program. Tell why it is important and how it applies to participants at snow sport venues like terrain parks and pipes.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -237,6 +297,11 @@
         {
           "id": "15956",
           "label": "c",
+          "text": "Explain the precautions pertaining to avalanche safety, including the responsibility of individuals regarding avalanche safety.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -256,6 +321,11 @@
     {
       "id": "15957",
       "label": "7",
+      "text": "Do ONE of the following options:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -267,6 +337,11 @@
         {
           "id": "15958",
           "label": null,
+          "text": "Option A—Downhill (Alpine) Skiing. Do ALL of the following:\nNote: Generally, a gentle slope will be a trail designated by a green circle, a slightly steeper slope will be a green circle or blue square trail, and an intermediate slope will be a blue square trail. However, your counselor should determine what type of hill is most suited to your skill level and allows you to demonstrate each of the required skills.",
+          "requirement_path": "7.option-a",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -312,213 +387,269 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15959",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Show how to wax and maintain your skis and use/maintain your release bindings. Explain the international DIN standard and what it means to skiers."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Wax Skis (video)",
-              "url": "https://youtu.be/1Xt1gZfZ2Rw"
+              "id": "15959",
+              "label": "1",
+              "text": "Show how to wax and maintain your skis and use/maintain your release bindings. Explain the international DIN standard and what it means to skiers.",
+              "requirement_path": "7.option-a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show how to wax and maintain your skis and use/maintain your release bindings. Explain the international DIN standard and what it means to skiers."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Wax Skis (video)",
+                  "url": "https://youtu.be/1Xt1gZfZ2Rw"
+                },
+                {
+                  "title": "How to Test Ski Bindings (video)",
+                  "url": "https://youtu.be/Ix27SNEsRYM"
+                },
+                {
+                  "title": "Ski Binding DIN Settings (video)",
+                  "url": "https://youtu.be/DkNAXgc2-rk?si=p-0U6YH1kIngZ47t"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Test Ski Bindings (video)",
-              "url": "https://youtu.be/Ix27SNEsRYM"
+              "id": "15960",
+              "label": "2",
+              "text": "Explain the American Teaching System and a basic snowskiing progression.",
+              "requirement_path": "7.option-a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the American Teaching System and a basic snowskiing progression."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "American Teaching System Skill Levels (PDF)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Snow%20Sports/american_teaching_system_levels.pdf"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Ski Binding DIN Settings (video)",
-              "url": "https://youtu.be/DkNAXgc2-rk?si=p-0U6YH1kIngZ47t"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15960",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain the American Teaching System and a basic snowskiing progression."
-            }
-          ],
-          "resources": [
-            {
-              "title": "American Teaching System Skill Levels (PDF)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Snow%20Sports/american_teaching_system_levels.pdf"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15961",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss the different types of Alpine skis. Demonstrate two ways to carry skis and poles safely and easily."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Types of Alpine Skis (video)",
-              "url": "https://youtu.be/PXR5vRgIlJE"
+              "id": "15961",
+              "label": "3",
+              "text": "Discuss the different types of Alpine skis. Demonstrate two ways to carry skis and poles safely and easily.",
+              "requirement_path": "7.option-a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss the different types of Alpine skis. Demonstrate two ways to carry skis and poles safely and easily."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Types of Alpine Skis (video)",
+                  "url": "https://youtu.be/PXR5vRgIlJE"
+                },
+                {
+                  "title": "How to Carry Skis (video)",
+                  "url": "https://youtu.be/GLu49jDy51k"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Carry Skis (video)",
-              "url": "https://youtu.be/GLu49jDy51k"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15962",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate how to ride one kind of lift and explain how to ride two others."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Ski Lifts and How to Ride Them (video)",
-              "url": "https://youtu.be/4xkGmEC-vPk"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15963",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "On a gentle slope, demonstrate some of the beginning maneuvers learned in skiing. Include the straight run, gliding wedge, wedge stop, sidestep, and herringbone maneuvers."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Beginner's Guide - The Gear (video)",
-              "url": "https://youtu.be/LaF1tT1l7c0?si=A4krxuBaIP1wPGgx"
+              "id": "15962",
+              "label": "4",
+              "text": "Demonstrate how to ride one kind of lift and explain how to ride two others.",
+              "requirement_path": "7.option-a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate how to ride one kind of lift and explain how to ride two others."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Ski Lifts and How to Ride Them (video)",
+                  "url": "https://youtu.be/4xkGmEC-vPk"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Beginner's Guide - Basic Moves (video)",
-              "url": "https://youtu.be/l6AG5WLUaNo?si=Cy7fDWXKwAFsQp9B"
+              "id": "15963",
+              "label": "5",
+              "text": "On a gentle slope, demonstrate some of the beginning maneuvers learned in skiing. Include the straight run, gliding wedge, wedge stop, sidestep, and herringbone maneuvers.",
+              "requirement_path": "7.option-a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "On a gentle slope, demonstrate some of the beginning maneuvers learned in skiing. Include the straight run, gliding wedge, wedge stop, sidestep, and herringbone maneuvers."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Beginner's Guide - The Gear (video)",
+                  "url": "https://youtu.be/LaF1tT1l7c0?si=A4krxuBaIP1wPGgx"
+                },
+                {
+                  "title": "Beginner's Guide - Basic Moves (video)",
+                  "url": "https://youtu.be/l6AG5WLUaNo?si=Cy7fDWXKwAFsQp9B"
+                },
+                {
+                  "title": "Beginner's Guide - Getting Around (video)",
+                  "url": "https://youtu.be/zAQVuC1Q4mw?si=ofT18Us8eaEUr9_w"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Beginner's Guide - Getting Around (video)",
-              "url": "https://youtu.be/zAQVuC1Q4mw?si=ofT18Us8eaEUr9_w"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15964",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "On slightly steeper terrain, show linked wedge turns."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Do Linked Wedge Turns (video)",
-              "url": "https://youtu.be/1BdMf9rmubQ"
+              "id": "15964",
+              "label": "6",
+              "text": "On slightly steeper terrain, show linked wedge turns.",
+              "requirement_path": "7.option-a.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "On slightly steeper terrain, show linked wedge turns."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Do Linked Wedge Turns (video)",
+                  "url": "https://youtu.be/1BdMf9rmubQ"
+                },
+                {
+                  "title": "The Wedge Turn (video)",
+                  "url": "https://youtu.be/9bEH6JCq83U?si=5ru69RVAgDgQfAif"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "The Wedge Turn (video)",
-              "url": "https://youtu.be/9bEH6JCq83U?si=5ru69RVAgDgQfAif"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15965",
-          "label": "7",
-          "content": [
-            {
-              "type": "text",
-              "value": "On a moderate slope, demonstrate five to 10 christies."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Do Christies (video)",
-              "url": "https://youtu.be/x5q0yV14sas"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15966",
-          "label": "8",
-          "content": [
-            {
-              "type": "text",
-              "value": "Make a controlled run down an intermediate slope."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Making a Controlled Run (video)",
-              "url": "https://youtu.be/CMgId4iSlcE"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15967",
-          "label": "9",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate the ability to ski in varied conditions, including changes in pitch and snow conditions. Maintain your balance and ability to turn."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Skiing in Variable Snow Conditions (video)",
-              "url": "https://youtu.be/DQv53VSxykY?si=wBlVELSoFcvQ973i"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15968",
-          "label": "10",
-          "content": [
-            {
-              "type": "text",
-              "value": "Name the major ski organizations in the United States and explain their functions."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Professional Ski Instructors of America (PSIA) (video)",
-              "url": "https://youtu.be/Z_Jh5pfseU8"
+              "id": "15965",
+              "label": "7",
+              "text": "On a moderate slope, demonstrate five to 10 christies.",
+              "requirement_path": "7.option-a.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "On a moderate slope, demonstrate five to 10 christies."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Do Christies (video)",
+                  "url": "https://youtu.be/x5q0yV14sas"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "U.S. Ski & Snowboard (video)",
-              "url": "https://youtu.be/MHJlZBwiUx4"
+              "id": "15966",
+              "label": "8",
+              "text": "Make a controlled run down an intermediate slope.",
+              "requirement_path": "7.option-a.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a controlled run down an intermediate slope."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Making a Controlled Run (video)",
+                  "url": "https://youtu.be/CMgId4iSlcE"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "National Ski Patrol (video)",
-              "url": "https://youtu.be/bmqLYSj4u0Q?si=6X5-kAiIuDy3Tgdg"
+              "id": "15967",
+              "label": "9",
+              "text": "Demonstrate the ability to ski in varied conditions, including changes in pitch and snow conditions. Maintain your balance and ability to turn.",
+              "requirement_path": "7.option-a.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the ability to ski in varied conditions, including changes in pitch and snow conditions. Maintain your balance and ability to turn."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Skiing in Variable Snow Conditions (video)",
+                  "url": "https://youtu.be/DQv53VSxykY?si=wBlVELSoFcvQ973i"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "15968",
+              "label": "10",
+              "text": "Name the major ski organizations in the United States and explain their functions.",
+              "requirement_path": "7.option-a.10",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Name the major ski organizations in the United States and explain their functions."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Professional Ski Instructors of America (PSIA) (video)",
+                  "url": "https://youtu.be/Z_Jh5pfseU8"
+                },
+                {
+                  "title": "U.S. Ski & Snowboard (video)",
+                  "url": "https://youtu.be/MHJlZBwiUx4"
+                },
+                {
+                  "title": "National Ski Patrol (video)",
+                  "url": "https://youtu.be/bmqLYSj4u0Q?si=6X5-kAiIuDy3Tgdg"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15969",
           "label": null,
+          "text": "Option B—Cross-Country (Nordic) Skiing. DO ALL of the following:",
+          "requirement_path": "7.option-b",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -537,220 +668,281 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15970",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Show your ability to select, use, and maintain equipment for cross-country skiing in safety and comfort."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Choose Cross-Country Skis (video)",
-              "url": "https://youtu.be/vqKaNOw6Feg?si=wVLxSaHGNEfQXGAq"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15971",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain the reasons for common rules, including no walking on ski trails, one-way ski direction, no pets, and no skiing on snowmobile trails."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15972",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss classic, skating, touring, and telemark skis."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Types of Cross Country Skis (video)",
-              "url": "https://youtu.be/oXIp-lJJH4E?si=yNMZNIMyDHQjO_uC"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15973",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss the basic principles of waxing for cross-country ski touring."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Wax Cross-Country Skis (video)",
-              "url": "https://www.youtube.com/shorts/hFl9r0JapvI"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15974",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss the differences between cross-country, backcountry/ski touring, ski mountaineering, and downhill/telemark skiing."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Styles of Cross-Country Skiing (video)",
-              "url": "https://youtu.be/a2C77sfBMHo"
-            },
-            {
-              "title": "What is Telemark Skiing? (video)",
-              "url": "https://youtu.be/-B1UnHDByoY"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15975",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "List the items you would take on a one-day ski tour."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Gear Checklist for a Day Tour (video)",
-              "url": "https://youtu.be/3rHuEqZgUMc"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15976",
-          "label": "7",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate the proper use of a topographic map and compass."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Read a Topographic Map (video)",
-              "url": "https://youtu.be/CoVcRxza8nI"
-            },
-            {
-              "title": "How to Use a Compass (video)",
-              "url": "https://youtu.be/0cF0ovA3FtY?si=HJAgHgcZCmPOcuC3"
-            },
-            {
-              "title": "How to Use a Topographic Map and Compass (video)",
-              "url": "https://youtu.be/P1LL2FXK6o0?si=rb4_VuRCb-uql1gU"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15977",
-          "label": "8",
-          "content": [
-            {
-              "type": "text",
-              "value": "On a gentle, packed slope, show some basic ways to control speed and direction. Include the straight run, traverse, side slip, step turn, wedge stop, and wedge turn maneuvers."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Control Speed and Direction (video)",
-              "url": "https://youtu.be/kmw9LxutG_8"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15978",
-          "label": "9",
-          "content": [
-            {
-              "type": "text",
-              "value": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Basic Moves on Cross-Country Skis (video)",
-              "url": "https://youtu.be/ctrIUq9kCJI?si=QoPaYBG0365ZvZF1"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15979",
-          "label": "10",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate your ability, on a 4-mile tour, to cope with an average variety of snow conditions. "
-            },
-            {
-              "type": "element",
-              "tag": "b",
-              "attrs": {},
-              "children": [
+              "id": "15970",
+              "label": "1",
+              "text": "Show your ability to select, use, and maintain equipment for cross-country skiing in safety and comfort.",
+              "requirement_path": "7.option-b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
                   "type": "text",
-                  "value": "Note:"
+                  "value": "Show your ability to select, use, and maintain equipment for cross-country skiing in safety and comfort."
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "How to Choose Cross-Country Skis (video)",
+                  "url": "https://youtu.be/vqKaNOw6Feg?si=wVLxSaHGNEfQXGAq"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " Adaptive skiers may complete a 1-mile tour with prior approval from their counselor."
-            }
-          ],
-          "resources": [
+              "id": "15971",
+              "label": "2",
+              "text": "Explain the reasons for common rules, including no walking on ski trails, one-way ski direction, no pets, and no skiing on snowmobile trails.",
+              "requirement_path": "7.option-b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the reasons for common rules, including no walking on ski trails, one-way ski direction, no pets, and no skiing on snowmobile trails."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "title": "Skiing on Varied Conditions (video)",
-              "url": "https://youtu.be/nCqNLC8PzNM?si=_vD2U1nIhE-khHVQ"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "16008",
-          "label": "11",
-          "content": [
+              "id": "15972",
+              "label": "3",
+              "text": "Discuss classic, skating, touring, and telemark skis.",
+              "requirement_path": "7.option-b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss classic, skating, touring, and telemark skis."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Types of Cross Country Skis (video)",
+                  "url": "https://youtu.be/oXIp-lJJH4E?si=yNMZNIMyDHQjO_uC"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, and pole drag."
-            }
-          ],
-          "resources": [
+              "id": "15973",
+              "label": "4",
+              "text": "Discuss the basic principles of waxing for cross-country ski touring.",
+              "requirement_path": "7.option-b.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss the basic principles of waxing for cross-country ski touring."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Wax Cross-Country Skis (video)",
+                  "url": "https://www.youtube.com/shorts/hFl9r0JapvI"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Dealing With Hills (video)",
-              "url": "https://youtu.be/MWskz4ZnPl4?si=pyET65PzEaPCW94o"
+              "id": "15974",
+              "label": "5",
+              "text": "Discuss the differences between cross-country, backcountry/ski touring, ski mountaineering, and downhill/telemark skiing.",
+              "requirement_path": "7.option-b.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss the differences between cross-country, backcountry/ski touring, ski mountaineering, and downhill/telemark skiing."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Styles of Cross-Country Skiing (video)",
+                  "url": "https://youtu.be/a2C77sfBMHo"
+                },
+                {
+                  "title": "What is Telemark Skiing? (video)",
+                  "url": "https://youtu.be/-B1UnHDByoY"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "15975",
+              "label": "6",
+              "text": "List the items you would take on a one-day ski tour.",
+              "requirement_path": "7.option-b.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "List the items you would take on a one-day ski tour."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Gear Checklist for a Day Tour (video)",
+                  "url": "https://youtu.be/3rHuEqZgUMc"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "15976",
+              "label": "7",
+              "text": "Demonstrate the proper use of a topographic map and compass.",
+              "requirement_path": "7.option-b.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the proper use of a topographic map and compass."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Read a Topographic Map (video)",
+                  "url": "https://youtu.be/CoVcRxza8nI"
+                },
+                {
+                  "title": "How to Use a Compass (video)",
+                  "url": "https://youtu.be/0cF0ovA3FtY?si=HJAgHgcZCmPOcuC3"
+                },
+                {
+                  "title": "How to Use a Topographic Map and Compass (video)",
+                  "url": "https://youtu.be/P1LL2FXK6o0?si=rb4_VuRCb-uql1gU"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "15977",
+              "label": "8",
+              "text": "On a gentle, packed slope, show some basic ways to control speed and direction. Include the straight run, traverse, side slip, step turn, wedge stop, and wedge turn maneuvers.",
+              "requirement_path": "7.option-b.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "On a gentle, packed slope, show some basic ways to control speed and direction. Include the straight run, traverse, side slip, step turn, wedge stop, and wedge turn maneuvers."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Control Speed and Direction (video)",
+                  "url": "https://youtu.be/kmw9LxutG_8"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "15978",
+              "label": "9",
+              "text": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide.",
+              "requirement_path": "7.option-b.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Basic Moves on Cross-Country Skis (video)",
+                  "url": "https://youtu.be/ctrIUq9kCJI?si=QoPaYBG0365ZvZF1"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "15979",
+              "label": "10",
+              "text": "Demonstrate your ability, on a 4-mile tour, to cope with an average variety of snow conditions. Note: Adaptive skiers may complete a 1-mile tour with prior approval from their counselor.",
+              "requirement_path": "7.option-b.10",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate your ability, on a 4-mile tour, to cope with an average variety of snow conditions. "
+                },
+                {
+                  "type": "element",
+                  "tag": "b",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Note:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Adaptive skiers may complete a 1-mile tour with prior approval from their counselor."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Skiing on Varied Conditions (video)",
+                  "url": "https://youtu.be/nCqNLC8PzNM?si=_vD2U1nIhE-khHVQ"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "16008",
+              "label": "11",
+              "text": "Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, and pole drag.",
+              "requirement_path": "7.option-b.11",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, and pole drag."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Dealing With Hills (video)",
+                  "url": "https://youtu.be/MWskz4ZnPl4?si=pyET65PzEaPCW94o"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15980",
           "label": null,
+          "text": "Option C—Snowboarding. Do ALL of the following:\nNote: Generally, a gentle slope will be a trail designated by a green circle, a slightly steeper slope will be a green circle or blue square trail, and an intermediate slope will be a blue square trail. However, your counselor should determine what type of hill is most suited to your skill level and allows you to demonstrate the required skills.",
+          "requirement_path": "7.option-c",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -796,239 +988,311 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15984",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Discuss forward-fall injuries."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Fall on a Snowboard (video)",
-              "url": "https://youtu.be/pAuRz-QP5tM"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15985",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Show your ability to select the correct equipment for snowboarding and to use it for safety and comfort."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Selecting Snowboard Equipment (video)",
-              "url": "https://youtu.be/lF2lf5RGCOw?si=IonNRzzALWYLVIlx"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15986",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Show how to use and maintain your own bindings, and explain the use of the different binding methods. Explain the need for leashes."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Adjust Bindings (video)",
-              "url": "https://youtu.be/1NQ-G0qn4UA"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15987",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss the four types of snowboards. Demonstrate how to carry a snowboard easily and safely."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Types of Snowboards (video)",
-              "url": "https://youtu.be/I9t_ez_utno"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15988",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate how to ride one kind of lift and explain how to ride two others."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Ski Lifts and How to Ride Them (video)",
-              "url": "https://youtu.be/4xkGmEC-vPk"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15989",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate the basic principles of waxing a snowboard."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Wax a Snowboard (video)",
-              "url": "https://youtu.be/YGG5_xjeB2Y"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15981",
-          "label": "7",
-          "content": [
-            {
-              "type": "text",
-              "value": "Do the following:"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15982",
-          "label": "a",
-          "content": [
-            {
-              "type": "text",
-              "value": "On a gentle slope, demonstrate beginning snowboarding maneuvers. Show basic ways to control speed and direction. Include the sideslipping maneuver."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Beginning Snowboard Maneuvers (video)",
-              "url": "https://youtu.be/9YGruvaETK4"
+              "id": "15984",
+              "label": "1",
+              "text": "Discuss forward-fall injuries.",
+              "requirement_path": "7.option-c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss forward-fall injuries."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Fall on a Snowboard (video)",
+                  "url": "https://youtu.be/pAuRz-QP5tM"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Make Your Board Go Straight (video)",
-              "url": "https://youtu.be/UoPxRNsLrZ8"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15983",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "On slightly steeper terrain, show traversing."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Maneuvering Hills & Traversing the Slope (video)",
-              "url": "https://youtu.be/eIcLMojBopA"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15990",
-          "label": "8",
-          "content": [
-            {
-              "type": "text",
-              "value": "On a moderate slope, demonstrate an ollie, a nose-end grab, and a wheelie."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Do an Ollie (video)",
-              "url": "https://youtu.be/N4hCpTt30GE"
+              "id": "15985",
+              "label": "2",
+              "text": "Show your ability to select the correct equipment for snowboarding and to use it for safety and comfort.",
+              "requirement_path": "7.option-c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show your ability to select the correct equipment for snowboarding and to use it for safety and comfort."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Selecting Snowboard Equipment (video)",
+                  "url": "https://youtu.be/lF2lf5RGCOw?si=IonNRzzALWYLVIlx"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Do a Nose-End Grab (video)",
-              "url": "https://youtu.be/gZFWW4Vus-Q"
+              "id": "15986",
+              "label": "3",
+              "text": "Show how to use and maintain your own bindings, and explain the use of the different binding methods. Explain the need for leashes.",
+              "requirement_path": "7.option-c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show how to use and maintain your own bindings, and explain the use of the different binding methods. Explain the need for leashes."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Adjust Bindings (video)",
+                  "url": "https://youtu.be/1NQ-G0qn4UA"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Do a Wheelie (video)",
-              "url": "https://youtu.be/ZDUHDwxqNuE"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15991",
-          "label": "9",
-          "content": [
+              "id": "15987",
+              "label": "4",
+              "text": "Discuss the four types of snowboards. Demonstrate how to carry a snowboard easily and safely.",
+              "requirement_path": "7.option-c.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss the four types of snowboards. Demonstrate how to carry a snowboard easily and safely."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Types of Snowboards (video)",
+                  "url": "https://youtu.be/I9t_ez_utno"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Make a controlled run down an intermediate slope."
-            }
-          ],
-          "resources": [
+              "id": "15988",
+              "label": "5",
+              "text": "Demonstrate how to ride one kind of lift and explain how to ride two others.",
+              "requirement_path": "7.option-c.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate how to ride one kind of lift and explain how to ride two others."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Ski Lifts and How to Ride Them (video)",
+                  "url": "https://youtu.be/4xkGmEC-vPk"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Making a Controlled Run (video)",
-              "url": "https://youtu.be/77rXSf7-CWY"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15992",
-          "label": "10",
-          "content": [
+              "id": "15989",
+              "label": "6",
+              "text": "Demonstrate the basic principles of waxing a snowboard.",
+              "requirement_path": "7.option-c.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the basic principles of waxing a snowboard."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Wax a Snowboard (video)",
+                  "url": "https://youtu.be/YGG5_xjeB2Y"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Demonstrate your ability to ride in varied conditions, including changes in pitch, snow conditions, and moguls. Maintain your balance and ability to turn."
-            }
-          ],
-          "resources": [
+              "id": "15981",
+              "label": "7",
+              "text": "Do the following:",
+              "requirement_path": "7.option-c.7",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Do the following:"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "15982",
+                  "label": "a",
+                  "text": "On a gentle slope, demonstrate beginning snowboarding maneuvers. Show basic ways to control speed and direction. Include the sideslipping maneuver.",
+                  "requirement_path": "7.option-c.7.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "On a gentle slope, demonstrate beginning snowboarding maneuvers. Show basic ways to control speed and direction. Include the sideslipping maneuver."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Beginning Snowboard Maneuvers (video)",
+                      "url": "https://youtu.be/9YGruvaETK4"
+                    },
+                    {
+                      "title": "How to Make Your Board Go Straight (video)",
+                      "url": "https://youtu.be/UoPxRNsLrZ8"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15983",
+                  "label": "b",
+                  "text": "On slightly steeper terrain, show traversing.",
+                  "requirement_path": "7.option-c.7.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "On slightly steeper terrain, show traversing."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Maneuvering Hills & Traversing the Slope (video)",
+                      "url": "https://youtu.be/eIcLMojBopA"
+                    }
+                  ],
+                  "sub_requirements": []
+                }
+              ]
+            },
             {
-              "title": "Types of Snow Conditions (video)",
-              "url": "https://youtu.be/96SaQtglKHE"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15993",
-          "label": "11",
-          "content": [
+              "id": "15990",
+              "label": "8",
+              "text": "On a moderate slope, demonstrate an ollie, a nose-end grab, and a wheelie.",
+              "requirement_path": "7.option-c.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "On a moderate slope, demonstrate an ollie, a nose-end grab, and a wheelie."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Do an Ollie (video)",
+                  "url": "https://youtu.be/N4hCpTt30GE"
+                },
+                {
+                  "title": "How to Do a Nose-End Grab (video)",
+                  "url": "https://youtu.be/gZFWW4Vus-Q"
+                },
+                {
+                  "title": "How to Do a Wheelie (video)",
+                  "url": "https://youtu.be/ZDUHDwxqNuE"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Name the major snowboarding organizations in the United States and explain their functions."
-            }
-          ],
-          "resources": [
+              "id": "15991",
+              "label": "9",
+              "text": "Make a controlled run down an intermediate slope.",
+              "requirement_path": "7.option-c.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a controlled run down an intermediate slope."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Making a Controlled Run (video)",
+                  "url": "https://youtu.be/77rXSf7-CWY"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "American Association of Snowboarding Instructors (video)",
-              "url": "https://youtu.be/UrtwvLd2sbU"
+              "id": "15992",
+              "label": "10",
+              "text": "Demonstrate your ability to ride in varied conditions, including changes in pitch, snow conditions, and moguls. Maintain your balance and ability to turn.",
+              "requirement_path": "7.option-c.10",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate your ability to ride in varied conditions, including changes in pitch, snow conditions, and moguls. Maintain your balance and ability to turn."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Types of Snow Conditions (video)",
+                  "url": "https://youtu.be/96SaQtglKHE"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "15993",
+              "label": "11",
+              "text": "Name the major snowboarding organizations in the United States and explain their functions.",
+              "requirement_path": "7.option-c.11",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Name the major snowboarding organizations in the United States and explain their functions."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "American Association of Snowboarding Instructors (video)",
+                  "url": "https://youtu.be/UrtwvLd2sbU"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15994",
           "label": null,
+          "text": "Option D—Snowshoeing. Do ALL of the following:",
+          "requirement_path": "7.option-d",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -1052,186 +1316,237 @@
               "url": "https://youtu.be/vsco4SkXSTc?si=hyEIP4kbTHuAYHjt"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15995",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Name the parts of a snowshoe."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15996",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain how to choose the correct size of snowshoe."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15997",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Describe the different types of snowshoes and their specialized uses. Discuss factors to consider when choosing a snowshoe."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15998",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain how to properly care for and maintain snowshoes."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Repair Snowshoes (video)",
-              "url": "https://youtu.be/7BwDagdaXew"
+              "id": "15995",
+              "label": "1",
+              "text": "Name the parts of a snowshoe.",
+              "requirement_path": "7.option-d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Name the parts of a snowshoe."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "title": "How to Store Snowshoes (video)",
-              "url": "https://youtu.be/scwZ1geZpWA"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15999",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "List the items you would take on a one-day snowshoe hike."
-            }
-          ],
-          "resources": [
-            {
-              "title": "What to Bring Snowshoeing (video)",
-              "url": "https://youtu.be/_gA5VlgKnOI?si=80SyezhTHEGfun_S"
+              "id": "15996",
+              "label": "2",
+              "text": "Explain how to choose the correct size of snowshoe.",
+              "requirement_path": "7.option-d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain how to choose the correct size of snowshoe."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "title": "What to Wear Snowshoeing (video)",
-              "url": "https://youtu.be/p-7UMYNP6s0"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "16000",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "Describe areas that are best for snowshoeing. Discuss some advantages and dangers of backcountry snowshoeing."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Where and How to Snowshoe Safely (video)",
-              "url": "https://youtu.be/tYo3RNM2ock?si=e8ozQUSDO9Lp5T7L"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "16001",
-          "label": "7",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss the benefits of snowshoeing."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Benefits of Snowshoeing (video)",
-              "url": "https://youtu.be/Iej5x5vk304?si=-olKS2XTAsH5n3p8"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "16002",
-          "label": "8",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Break Trail  (video)",
-              "url": "https://youtu.be/9gLm2viPkT4?si=GIe05Kq-w67IMEe_"
+              "id": "15997",
+              "label": "3",
+              "text": "Describe the different types of snowshoes and their specialized uses. Discuss factors to consider when choosing a snowshoe.",
+              "requirement_path": "7.option-d.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Describe the different types of snowshoes and their specialized uses. Discuss factors to consider when choosing a snowshoe."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "title": "How to Snowshoe on Hills (video)",
-              "url": "https://youtu.be/Mr1uR6ENxBY?si=3Y1zY3mtDaQJfdlb"
+              "id": "15998",
+              "label": "4",
+              "text": "Explain how to properly care for and maintain snowshoes.",
+              "requirement_path": "7.option-d.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain how to properly care for and maintain snowshoes."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Repair Snowshoes (video)",
+                  "url": "https://youtu.be/7BwDagdaXew"
+                },
+                {
+                  "title": "How to Store Snowshoes (video)",
+                  "url": "https://youtu.be/scwZ1geZpWA"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Sidestep (video)",
-              "url": "https://youtu.be/zWabuDZBcVQ"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "16003",
-          "label": "9",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Travel Cross-Country on Snowshoes (video)",
-              "url": "https://youtu.be/3U37kHrGlvo?si=FozGoulaHs_9Ssqi"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "16004",
-          "label": "10",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate the proper use of a topographic map and compass."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Read a Topographic Map (video)",
-              "url": "https://youtu.be/CoVcRxza8nI"
+              "id": "15999",
+              "label": "5",
+              "text": "List the items you would take on a one-day snowshoe hike.",
+              "requirement_path": "7.option-d.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "List the items you would take on a one-day snowshoe hike."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What to Bring Snowshoeing (video)",
+                  "url": "https://youtu.be/_gA5VlgKnOI?si=80SyezhTHEGfun_S"
+                },
+                {
+                  "title": "What to Wear Snowshoeing (video)",
+                  "url": "https://youtu.be/p-7UMYNP6s0"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Use a Compass (video)",
-              "url": "https://youtu.be/0cF0ovA3FtY"
+              "id": "16000",
+              "label": "6",
+              "text": "Describe areas that are best for snowshoeing. Discuss some advantages and dangers of backcountry snowshoeing.",
+              "requirement_path": "7.option-d.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Describe areas that are best for snowshoeing. Discuss some advantages and dangers of backcountry snowshoeing."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Where and How to Snowshoe Safely (video)",
+                  "url": "https://youtu.be/tYo3RNM2ock?si=e8ozQUSDO9Lp5T7L"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Use a Topographic Map and Compass (video)",
-              "url": "https://youtu.be/P1LL2FXK6o0"
+              "id": "16001",
+              "label": "7",
+              "text": "Discuss the benefits of snowshoeing.",
+              "requirement_path": "7.option-d.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss the benefits of snowshoeing."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Benefits of Snowshoeing (video)",
+                  "url": "https://youtu.be/Iej5x5vk304?si=-olKS2XTAsH5n3p8"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "16002",
+              "label": "8",
+              "text": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope.",
+              "requirement_path": "7.option-d.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Break Trail  (video)",
+                  "url": "https://youtu.be/9gLm2viPkT4?si=GIe05Kq-w67IMEe_"
+                },
+                {
+                  "title": "How to Snowshoe on Hills (video)",
+                  "url": "https://youtu.be/Mr1uR6ENxBY?si=3Y1zY3mtDaQJfdlb"
+                },
+                {
+                  "title": "How to Sidestep (video)",
+                  "url": "https://youtu.be/zWabuDZBcVQ"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "16003",
+              "label": "9",
+              "text": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions.",
+              "requirement_path": "7.option-d.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Travel Cross-Country on Snowshoes (video)",
+                  "url": "https://youtu.be/3U37kHrGlvo?si=FozGoulaHs_9Ssqi"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "16004",
+              "label": "10",
+              "text": "Demonstrate the proper use of a topographic map and compass.",
+              "requirement_path": "7.option-d.10",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the proper use of a topographic map and compass."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Read a Topographic Map (video)",
+                  "url": "https://youtu.be/CoVcRxza8nI"
+                },
+                {
+                  "title": "How to Use a Compass (video)",
+                  "url": "https://youtu.be/0cF0ovA3FtY"
+                },
+                {
+                  "title": "How to Use a Topographic Map and Compass (video)",
+                  "url": "https://youtu.be/P1LL2FXK6o0"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     }

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Create a piece of art by exploring drawing techniques using pencils.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Create a piece of art by exploring drawing techniques using pencils.",
       "activities": [
         {
           "name": "Art in the Out of Doors",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Using a digital image, explore the effect of filters by changing an image using different editing or in-camera techniques.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Using a digital image, explore the effect of filters by changing an image using different editing or in-camera techniques.",
       "activities": [
         {
           "name": "Say Cheese",
@@ -77,6 +85,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Create a piece of art using paint as your medium.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Create a piece of art using paint as your medium.",
       "activities": [
         {
           "name": "No Brushes Needed",
@@ -110,6 +122,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Create a piece of art combining at least two media.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -118,7 +135,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Create a piece of art combining at least two media.",
       "activities": [
         {
           "name": "3D Sculpture",

@@ -14,6 +14,11 @@
     {
       "id": "3352",
       "label": "1",
+      "text": "List the major truck lines serving your town.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "3353",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "3354",
           "label": "a",
+          "text": "Describe the role of truck transportation within commerce (the movement of goods, funds, and information).",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -59,6 +74,11 @@
         {
           "id": "3355",
           "label": "b",
+          "text": "Describe how trucks fit into a company's supply chain. This could be a manufacturer, importer, wholesaler, or retailer.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -84,6 +104,11 @@
         {
           "id": "3356",
           "label": "c",
+          "text": "On paper, map out how goods that are manufactured overseas are transported to a retailer in this country.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -103,6 +128,11 @@
     {
       "id": "3357",
       "label": "3",
+      "text": "Describe the difference between the gasoline engine and the diesel engine that power trucks. List the advantages of each.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -120,6 +150,11 @@
     {
       "id": "3358",
       "label": "4",
+      "text": "Visit a truck terminal and complete items 4(a) through 4(e). After your visit, share what you have learned with your counselor.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -131,6 +166,11 @@
         {
           "id": "3359",
           "label": "a",
+          "text": "Find out what kind of maintenance program the company follows to help keep its fleet, drivers, and the roadway safe.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -156,6 +196,11 @@
         {
           "id": "3360",
           "label": "b",
+          "text": "Find out how dispatchers maintain communication with drivers on the road.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -173,6 +218,11 @@
         {
           "id": "3361",
           "label": "c",
+          "text": "Talk with a professional truck driver about safety. Learn about the truck driver's rules of the road for safe driving. List five safe-driving rules every professional truck driver must follow.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +244,11 @@
         {
           "id": "3362",
           "label": "d",
+          "text": "Review the driver's log and find out what kind of information the log contains.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -211,6 +266,11 @@
         {
           "id": "3363",
           "label": "e",
+          "text": "Learn about important federal regulations that help ensure public safety.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -238,6 +298,11 @@
     {
       "id": "3364",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -249,6 +314,11 @@
         {
           "id": "3365",
           "label": "a",
+          "text": "Outline the general organization of a trucking company. Describe what each department does.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -261,6 +331,11 @@
         {
           "id": "3366",
           "label": "b",
+          "text": "List five positions with trucking companies and describe each one.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -280,6 +355,11 @@
     {
       "id": "3367",
       "label": "6",
+      "text": "Name five government agencies that work closely with the trucking industry. Describe their role.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -297,6 +377,11 @@
     {
       "id": "3368",
       "label": "7",
+      "text": "List five different kinds of trucks. Tell the service each provides.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -314,6 +399,11 @@
     {
       "id": "3369",
       "label": "8",
+      "text": "Assume that you are going to ship by truck 500 pounds of goods (freight class 65) from your town to another town 500 miles away. Your shipment must arrive within three days. Explain in writing:",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -325,6 +415,11 @@
         {
           "id": "3370",
           "label": "a",
+          "text": "How to prepare the shipment",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -350,6 +445,11 @@
         {
           "id": "3371",
           "label": "b",
+          "text": "How to compare at least three carriers for time in transit and rates",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -371,6 +471,11 @@
         {
           "id": "3372",
           "label": "c",
+          "text": "How to choose which carrier to use",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -383,6 +488,11 @@
         {
           "id": "3373",
           "label": "d",
+          "text": "How to insure the shipment for damages",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -402,6 +512,11 @@
     {
       "id": "3374",
       "label": "9",
+      "text": "Explain the following terms: bill of lading, ETA, logbook, intermodal, containers, tariff, shippers, carrier, consignee, drayage, and cartage.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -431,6 +546,11 @@
     {
       "id": "3375",
       "label": "10",
+      "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

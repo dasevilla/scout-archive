@@ -14,6 +14,11 @@
     {
       "id": "12270",
       "label": null,
+      "text": "NOTE: Check out the Digital Resource Guide for the Hiking merit badge HERE for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!",
+      "requirement_path": "item-1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -54,6 +59,11 @@
     {
       "id": "10801",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -65,6 +75,11 @@
         {
           "id": "10802",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -82,6 +97,11 @@
         {
           "id": "10803",
           "label": "b",
+          "text": "Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, and snakebite.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -105,6 +125,11 @@
     {
       "id": "10810",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -116,6 +141,11 @@
         {
           "id": "11248",
           "label": "a",
+          "text": "Explain and, where possible, show the points of good hiking practices including proper outdoor ethics, hiking safety in the daytime and at night, courtesy to others, choice of footwear, and proper care of feet and footwear.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -133,6 +163,11 @@
         {
           "id": "11249",
           "label": "b",
+          "text": "Read aloud or recite the Leave No Trace Seven Principles, and discuss why each is important while hiking.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -154,6 +189,11 @@
         {
           "id": "11250",
           "label": "c",
+          "text": "Read aloud or recite the Outdoor Code, and give examples of how to follow it on a hike.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -173,6 +213,11 @@
     {
       "id": "10811",
       "label": "3",
+      "text": "Explain how hiking is an aerobic activity. Develop a plan for conditioning yourself for 10-mile hikes, and describe how you will increase your fitness for longer hikes.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -194,6 +239,11 @@
     {
       "id": "10804",
       "label": "4",
+      "text": "Take four 10-mile hikes and one 20-mile hike, each on a different day, and each of continuous miles. Prepare a written hike plan before each hike and share it with your counselor or a designee for approval before starting the hike. Include map routes, a clothing and equipment list, and a list of items for a trail lunch. You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period such as overnight.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -210,6 +260,11 @@
         {
           "id": "10805",
           "label": "a",
+          "text": "10-mile hike #1",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -222,6 +277,11 @@
         {
           "id": "10806",
           "label": "b",
+          "text": "10-mile hike #2",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -234,6 +294,11 @@
         {
           "id": "10807",
           "label": "c",
+          "text": "10-mile hike #3",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -246,6 +311,11 @@
         {
           "id": "10808",
           "label": "d",
+          "text": "10-mile hike #4",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -258,6 +328,11 @@
         {
           "id": "10809",
           "label": "e",
+          "text": "20-mile hike",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -272,6 +347,11 @@
     {
       "id": "10812",
       "label": "5",
+      "text": "After each of the hikes (or during each hike if on one continuous trek) in requirement 4, write a short report on your hike. For each hike, give the date and description (or map) of the route covered, the weather, any interesting things you saw, and any challenges you had and how you overcame them. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this with your counselor.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

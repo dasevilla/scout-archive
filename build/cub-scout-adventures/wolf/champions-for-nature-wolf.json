@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discover the difference between renewable natural resources and non-renewable natural resources.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover the difference between renewable natural resources and non-renewable natural resources.",
       "activities": [
         {
           "name": "Conservation Card Game",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Learn about the 3 R’s: Reduce, Reuse, Recycle.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the 3 R’s: Reduce, Reuse, Recycle.",
       "activities": [
         {
           "name": "Compost Jar",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Discover what happens to the recyclables in your community.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover what happens to the recyclables in your community.",
       "activities": [
         {
           "name": "Recycle Plant Tour",
@@ -137,6 +149,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Participate in a conservation project.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -145,7 +162,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Participate in a conservation project.",
       "activities": [
         {
           "name": "Clean Waterways",

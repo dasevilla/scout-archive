@@ -14,6 +14,11 @@
     {
       "id": "10672",
       "label": "1",
+      "text": "Prepare an outline on what a family is and discuss this with your counselor. Tell why families are important to individuals and to society. Discuss how the actions of one member can affect other members.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -35,6 +40,11 @@
     {
       "id": "10673",
       "label": "2",
+      "text": "List several reasons why you are important to your family and discuss this with your parent or guardian and with your counselor.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,6 +62,11 @@
     {
       "id": "10674",
       "label": "3",
+      "text": "Prepare a list of your regular home duties or chores (at least five) and do them for 90 days. Keep a record of how often you do each of them. Discuss with your counselor the effect your chores had on your family.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,6 +100,11 @@
     {
       "id": "10675",
       "label": "4",
+      "text": "With the approval of your parent or guardian and your counselor, decide on and carry out an individual project that you would do around the home that would benefit your family. After completion, discuss the objective or goal and the results of the project with your family and then your counselor.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -106,6 +126,11 @@
     {
       "id": "10657",
       "label": "5",
+      "text": "Plan and carry out a project that involves the participation of your family. After completing the project, discuss the following with your counselor:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -122,6 +147,11 @@
         {
           "id": "10658",
           "label": "a",
+          "text": "The objective or goal of the project",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -134,6 +164,11 @@
         {
           "id": "10659",
           "label": "b",
+          "text": "How individual members of your family participated",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -146,6 +181,11 @@
         {
           "id": "10660",
           "label": "c",
+          "text": "The results of the project",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -160,6 +200,11 @@
     {
       "id": "10661",
       "label": "6",
+      "text": "Do the following:\nNote: Some of the issues surrounding requirement 6 for the family meeting could be considered of a personal nature. Use discretion when reviewing this requirement with the Scout.\nDiscussion of each of these subjects will very likely carry over to more than one family meeting.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -208,6 +253,11 @@
         {
           "id": "10670",
           "label": "a",
+          "text": "Discuss with your counselor how to plan and carry out a family meeting.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -229,6 +279,11 @@
         {
           "id": "10662",
           "label": "b",
+          "text": "Prepare a meeting agenda that includes the following topics, review it with your parent or guardian, and then carry out one or more family meetings:",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -236,155 +291,196 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "10663",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "How living the principles of the Scout Oath and Scout Law contributes to your family life"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Scout Oath and Law (website)",
-              "url": "https://www.scouting.org/about/faq/question10/"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "10664",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "The greatest dangers and addictions facing youth in today's society (examples include mental health challenges, use of tobacco products, alcohol, or drugs and other items such as debts, social media, etc.)"
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Causes Addiction, and Why Is It So Hard to Treat? (video)",
-              "url": "https://youtu.be/hBC7i-vHWsU?si=wpVHlg5gMVe_RLhe"
+              "id": "10663",
+              "label": "1",
+              "text": "How living the principles of the Scout Oath and Scout Law contributes to your family life",
+              "requirement_path": "6.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "How living the principles of the Scout Oath and Scout Law contributes to your family life"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Scout Oath and Law (website)",
+                  "url": "https://www.scouting.org/about/faq/question10/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Teens and Social Media (video)",
-              "url": "https://youtu.be/XE95C5yGKvM?si=mtau10v7S5kwAI1c"
+              "id": "10664",
+              "label": "2",
+              "text": "The greatest dangers and addictions facing youth in today's society (examples include mental health challenges, use of tobacco products, alcohol, or drugs and other items such as debts, social media, etc.)",
+              "requirement_path": "6.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The greatest dangers and addictions facing youth in today's society (examples include mental health challenges, use of tobacco products, alcohol, or drugs and other items such as debts, social media, etc.)"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Causes Addiction, and Why Is It So Hard to Treat? (video)",
+                  "url": "https://youtu.be/hBC7i-vHWsU?si=wpVHlg5gMVe_RLhe"
+                },
+                {
+                  "title": "Teens and Social Media (video)",
+                  "url": "https://youtu.be/XE95C5yGKvM?si=mtau10v7S5kwAI1c"
+                },
+                {
+                  "title": "Electronic Cigarettes and Vaping (video)",
+                  "url": "https://youtu.be/9dZS_Rniak0?si=V6A0VHuwIyUIe8ew"
+                },
+                {
+                  "title": "How to Identify the Signs of an Unhealthy Relationship (podcast)",
+                  "url": "https://youtu.be/nS8snkkUC-U?si=Ts3YDh_yRfjw-d8u"
+                },
+                {
+                  "title": "How Do I Start a Conversation About Mental Health? (podcast)",
+                  "url": "https://youtu.be/cGH95B7c-eM?si=KIWkpoWQIauoa-Eu"
+                },
+                {
+                  "title": "Digital Safety and Online Scouting Activities (website)",
+                  "url": "https://www.scouting.org/health-and-safety/safety-moments/digital-safety-and-online-scouting-activities/"
+                },
+                {
+                  "title": "Bullying Awareness (website)",
+                  "url": "https://www.scouting.org/training/youth/bullying/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Electronic Cigarettes and Vaping (video)",
-              "url": "https://youtu.be/9dZS_Rniak0?si=V6A0VHuwIyUIe8ew"
+              "id": "10665",
+              "label": "3",
+              "text": "Discuss with a parent or guardian how bodily changes can affect the choices you make as you physically and mentally mature.",
+              "requirement_path": "6.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss with a parent or guardian how bodily changes can affect the choices you make as you physically and mentally mature."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "title": "How to Identify the Signs of an Unhealthy Relationship (podcast)",
-              "url": "https://youtu.be/nS8snkkUC-U?si=Ts3YDh_yRfjw-d8u"
+              "id": "10666",
+              "label": "4",
+              "text": "Personal and family finances",
+              "requirement_path": "6.b.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Personal and family finances"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Money Management (video)",
+                  "url": "https://vimeo.com/1114227609"
+                },
+                {
+                  "title": "The 50-30-20 Rule - Budgeting for Needs, Wants, and Savings (video)",
+                  "url": "https://youtu.be/OZQQMYfaBT4?si=1f9kNb_OVcyxd4NB"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How Do I Start a Conversation About Mental Health? (podcast)",
-              "url": "https://youtu.be/cGH95B7c-eM?si=KIWkpoWQIauoa-Eu"
+              "id": "10667",
+              "label": "5",
+              "text": "A crisis situation within your family and whom you can turn to for support during these situations.",
+              "requirement_path": "6.b.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "A crisis situation within your family and whom you can turn to for support during these situations."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Family Bonding (video)",
+                  "url": "https://vimeo.com/1114227697"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Digital Safety and Online Scouting Activities (website)",
-              "url": "https://www.scouting.org/health-and-safety/safety-moments/digital-safety-and-online-scouting-activities/"
+              "id": "10668",
+              "label": "6",
+              "text": "The effect of technology on your family",
+              "requirement_path": "6.b.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The effect of technology on your family"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Evolving Technology: Will Family Life Ever Be the Same Again? (video)",
+                  "url": "https://www.youtube.com/watch?v=sFc_q9-KD8c"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Bullying Awareness (website)",
-              "url": "https://www.scouting.org/training/youth/bullying/"
+              "id": "10669",
+              "label": "7",
+              "text": "Good etiquette and manners",
+              "requirement_path": "6.b.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Good etiquette and manners"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Etiquette (video)",
+                  "url": "https://vimeo.com/1114227718"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "10665",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss with a parent or guardian how bodily changes can affect the choices you make as you physically and mentally mature."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "10666",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Personal and family finances"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Money Management (video)",
-              "url": "https://vimeo.com/1114227609"
-            },
-            {
-              "title": "The 50-30-20 Rule - Budgeting for Needs, Wants, and Savings (video)",
-              "url": "https://youtu.be/OZQQMYfaBT4?si=1f9kNb_OVcyxd4NB"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "10667",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "A crisis situation within your family and whom you can turn to for support during these situations."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Family Bonding (video)",
-              "url": "https://vimeo.com/1114227697"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "10668",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "The effect of technology on your family"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Evolving Technology: Will Family Life Ever Be the Same Again? (video)",
-              "url": "https://www.youtube.com/watch?v=sFc_q9-KD8c"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "10669",
-          "label": "7",
-          "content": [
-            {
-              "type": "text",
-              "value": "Good etiquette and manners"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Etiquette (video)",
-              "url": "https://vimeo.com/1114227718"
-            }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "10676",
       "label": "7",
+      "text": "Discuss with your counselor your understanding of what makes an effective parent or guardian and why, and your thoughts on the parent or guardian's role and responsibilities in the family.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

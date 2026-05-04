@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Pick a kitchen appliance that uses technology to complete the following requirements.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Pick a kitchen appliance that uses technology to complete the following requirements.",
       "activities": [
         {
           "name": "Now we are Cooking with Air",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "With an adult, review the safety guidelines in the owner’s manual and follow all safety guidelines.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With an adult, review the safety guidelines in the owner’s manual and follow all safety guidelines.",
       "activities": [
         {
           "name": "Read Me First",
@@ -77,6 +85,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "With adult supervision, download a cooking app or search online to find a recipe.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With adult supervision, download a cooking app or search online to find a recipe.",
       "activities": [
         {
           "name": "Time for an App-etizer",
@@ -101,6 +113,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "With adult supervision, follow the selected recipe and make the recipe.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -109,7 +126,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With adult supervision, follow the selected recipe and make the recipe.",
       "activities": [
         {
           "name": "It’s Time To Be A Tech Chef",
@@ -125,6 +141,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Think of a way technology can improve the appliance used to make your recipe.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -133,7 +154,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Think of a way technology can improve the appliance used to make your recipe.",
       "activities": [
         {
           "name": "Brainstorming Bear Chefs",

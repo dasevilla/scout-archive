@@ -14,6 +14,11 @@
     {
       "id": "15109",
       "label": "1",
+      "text": "Explain the proper safety procedures to follow when preparing surfaces and applying coatings.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "15104",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "15105",
           "label": "a",
+          "text": "Explain three ways that coatings can improve a surface.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -59,6 +74,11 @@
         {
           "id": "15106",
           "label": "b",
+          "text": "Explain the differences between oil-based paints, acrylic-based paints, and water-based paints.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -80,6 +100,11 @@
         {
           "id": "15107",
           "label": "c",
+          "text": "Explain where you would apply enamel paint, flat paint, wood stain, and varnish, and explain the importance of sheen.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -97,6 +122,11 @@
         {
           "id": "15108",
           "label": "d",
+          "text": "Tell why each is best for these uses.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -111,6 +141,11 @@
     {
       "id": "15110",
       "label": "3",
+      "text": "Prepare and paint two different surfaces using patching materials or caulking and the proper primers and topcoats. Suggested projects include an interior or exterior wall, a door, a piece of furniture, a concrete wall or floor, a porch rail, or a fence. Your counselor must preapprove the projects.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -128,6 +163,11 @@
     {
       "id": "15111",
       "label": "4",
+      "text": "Prepare and paint an item using harmonizing colors that you have selected using the color wheel in the Painting merit badge pamphlet.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -164,6 +204,11 @@
     {
       "id": "15112",
       "label": "5",
+      "text": "Show the right way to use, clean, maintain, and store painting equipment.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -185,6 +230,11 @@
     {
       "id": "15113",
       "label": "6",
+      "text": "Explain the importance of ladder safety, personal hygiene, and the use of personal protective equipment when painting.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -206,6 +256,11 @@
     {
       "id": "15114",
       "label": "7",
+      "text": "Explain some of the environmental and health issues concerning removing paint, applying paint, and discarding old paint.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -227,6 +282,11 @@
     {
       "id": "15115",
       "label": "8",
+      "text": "Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -238,6 +298,11 @@
         {
           "id": "15116",
           "label": "a",
+          "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -259,6 +324,11 @@
         {
           "id": "15117",
           "label": "b",
+          "text": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

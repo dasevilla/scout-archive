@@ -14,6 +14,11 @@
     {
       "id": "13213",
       "label": "1",
+      "text": "Science of and Hazards of Fire. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "13214",
           "label": "a",
+          "text": "Explain the concept of fire.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -48,6 +58,11 @@
         {
           "id": "13215",
           "label": "b",
+          "text": "Name the parts of the fire tetrahedron and the products of combustion.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -60,6 +75,11 @@
         {
           "id": "13216",
           "label": "c",
+          "text": "Describe the life cycle of a fire.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -72,6 +92,11 @@
         {
           "id": "13249",
           "label": "d",
+          "text": "Explain the three methods of heat transfer.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -86,6 +111,11 @@
     {
       "id": "13245",
       "label": "2",
+      "text": "Fire Extinguishers. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -108,6 +138,11 @@
         {
           "id": "13250",
           "label": "a",
+          "text": "Explain the different classes of fires.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -120,6 +155,11 @@
         {
           "id": "13251",
           "label": "b",
+          "text": "Identify the different classes of fire extinguishers and which should be used for each class of fire.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -132,6 +172,11 @@
         {
           "id": "13393",
           "label": "c",
+          "text": "Demonstrate how to use a fire extinguisher and a fire blanket.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -146,6 +191,11 @@
     {
       "id": "13246",
       "label": "3",
+      "text": "Fire-related Injuries. Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -168,6 +218,11 @@
         {
           "id": "13252",
           "label": "a",
+          "text": "Explain and demonstrate the technique of stop, drop, roll, cool, and call.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -180,6 +235,11 @@
         {
           "id": "13253",
           "label": "b",
+          "text": "Describe how clothing fires occur, how to prevent them, and how clothing can prevent or contribute to burn injuries.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -192,6 +252,11 @@
         {
           "id": "13254",
           "label": "c",
+          "text": "Identify the most frequent causes of burn injuries and how to prevent them.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -204,6 +269,11 @@
         {
           "id": "13255",
           "label": "d",
+          "text": "Review the prevention of, symptoms and signs of, and treatment of airway burns and carbon monoxide (CO) poisoning.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -218,6 +288,11 @@
     {
       "id": "13217",
       "label": "4",
+      "text": "Origins of Fires. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -240,6 +315,11 @@
         {
           "id": "13218",
           "label": "a",
+          "text": "Explain the four classifications of fire origin (natural, accidental, incendiary, or undetermined) and give an example of each.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -252,6 +332,11 @@
         {
           "id": "13219",
           "label": "b",
+          "text": "Describe how a fire classified as incendiary might lead to criminal prosecution of a person charged with arson.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -266,6 +351,11 @@
     {
       "id": "13247",
       "label": "5",
+      "text": "Fire Safety at Home. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -288,6 +378,11 @@
         {
           "id": "13256",
           "label": "a",
+          "text": "Describe how to prevent the frequent causes of home fires, including unattended cooking, electricity, smoking, clothes dryers, and rechargeable batteries.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -300,6 +395,11 @@
         {
           "id": "13257",
           "label": "b",
+          "text": "Describe how to prevent frequent causes of seasonal and holiday-related home fires, including fires related to home heating, holiday trees, candles, and fireworks.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -312,6 +412,11 @@
         {
           "id": "13258",
           "label": "c",
+          "text": "Demonstrate how to safely light and extinguish a candle. Discuss with your counselor, then with your family, how to safely use candles.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -324,6 +429,11 @@
         {
           "id": "13259",
           "label": "d",
+          "text": "Using the Home Fire Safety Checklist in the Fire Safety merit badge pamphlet or one approved by your counselor, and with the help of an adult, inspect a home (or a similar building near where you live or at a camp) for fire safety hazards. Present your completed checklist to your counselor and discuss your findings.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -351,6 +461,11 @@
         {
           "id": "13260",
           "label": "e",
+          "text": "Determine if, and what types of, smoke and CO alarms are required in homes in your community. List what types of smoke and CO alarms your home has, their locations, and their expiration dates.",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -363,6 +478,11 @@
         {
           "id": "13261",
           "label": "f",
+          "text": "Demonstrate maintenance of smoke and CO alarms to your counselor and review plans to replace expired alarms.",
+          "requirement_path": "5.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -375,6 +495,11 @@
         {
           "id": "13262",
           "label": "g",
+          "text": "Develop a home fire-escape plan and a fire-drill schedule with your family, draw a floor plan of your home with exits marked and a map showing your family meeting point, and conduct a home fire drill.",
+          "requirement_path": "5.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -387,6 +512,11 @@
         {
           "id": "13263",
           "label": "h",
+          "text": "Explain what to do and what not to do if you smell natural gas and if you smell smoke.",
+          "requirement_path": "5.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -399,6 +529,11 @@
         {
           "id": "13264",
           "label": "i",
+          "text": "Explain how you would report a fire to have the fire department respond.",
+          "requirement_path": "5.i",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -413,6 +548,11 @@
     {
       "id": "13221",
       "label": "6",
+      "text": "Safety with Flammable and Combustible Liquids. Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -435,6 +575,11 @@
         {
           "id": "13222",
           "label": "a",
+          "text": "Explain what flammable and combustible liquids are commonly used in homes and how to safely store them.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -447,6 +592,11 @@
         {
           "id": "13223",
           "label": "b",
+          "text": "Describe the safe way to refuel a liquid-fueled engine, such as a lawn mower, outboard motor, farm machine, or automobile with fuel from an approved container.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -459,6 +609,11 @@
         {
           "id": "13224",
           "label": "c",
+          "text": "Describe the options available for safely disposing of unwanted flammable, combustible, and hazardous substances in your community.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -473,6 +628,11 @@
     {
       "id": "13230",
       "label": "7",
+      "text": "Fire Safety in Public Buildings. Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -495,6 +655,11 @@
         {
           "id": "13231",
           "label": "a",
+          "text": "Explain how public buildings are designed for fire safety.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -507,6 +672,11 @@
         {
           "id": "13232",
           "label": "b",
+          "text": "Explain what fire safety systems and equipment can be found in public buildings.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -519,6 +689,11 @@
         {
           "id": "13233",
           "label": "c",
+          "text": "Explain what fire safety precautions you should take when you are in a public building.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -533,6 +708,11 @@
     {
       "id": "13248",
       "label": "8",
+      "text": "Fire Safety at Camp. Do the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -555,6 +735,11 @@
         {
           "id": "13265",
           "label": "a",
+          "text": "Explain how the Leave No Trace Seven Principles and the Outdoor Code apply to camping fires.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -567,6 +752,11 @@
         {
           "id": "13266",
           "label": "b",
+          "text": "Demonstrate lighting a match safely, the proper way to extinguish it, and to dispose of it. Explain the similarities and differences between safety matches and strike-anywhere matches.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -579,6 +769,11 @@
         {
           "id": "13267",
           "label": "c",
+          "text": "Explain and demonstrate making sparks with flint and steel or with a ferro rod and catching a spark to create a flame. Extinguish the flame safely using one of principles of the fire tetrahedron.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -591,6 +786,11 @@
         {
           "id": "13268",
           "label": "d",
+          "text": "Demonstrate the safe way to start a charcoal fire.",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -603,6 +803,11 @@
         {
           "id": "13269",
           "label": "e",
+          "text": "Describe three common campsite fire lays. Collect, prepare, and set up tinder, kindling, and fuel for a campfire following the Leave No Trace Seven Principles and the Outdoor Code. Ignite your fire lay and safely extinguish your fire.",
+          "requirement_path": "8.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -615,6 +820,11 @@
         {
           "id": "13270",
           "label": "f",
+          "text": "Demonstrate using a camp stove.",
+          "requirement_path": "8.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -627,6 +837,11 @@
         {
           "id": "13271",
           "label": "g",
+          "text": "Explain how to set up and keep a campsite safe from fire.",
+          "requirement_path": "8.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -639,6 +854,11 @@
         {
           "id": "13272",
           "label": "h",
+          "text": "Develop a lesson plan to teach a fire safety skill or topic, such as lighting a candle or a match or a charcoal fire or a lantern or a camp stove or using flint and steel or setting up a fire lay. Review your lesson plan with your counselor. Teach your skill or topic to one or more Scouts using the EDGE method.",
+          "requirement_path": "8.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -653,6 +873,11 @@
     {
       "id": "13234",
       "label": "9",
+      "text": "Wildland Fires. Do the following:",
+      "requirement_path": "9",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -675,6 +900,11 @@
         {
           "id": "13235",
           "label": "a",
+          "text": "List causes of wildland fires and ways to prevent them.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -687,6 +917,11 @@
         {
           "id": "13236",
           "label": "b",
+          "text": "Explain the social, economic, and environmental consequences of wildland fires.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -701,6 +936,11 @@
     {
       "id": "13237",
       "label": "10",
+      "text": "Careers. Do ONE of the following:",
+      "requirement_path": "10",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -723,6 +963,11 @@
         {
           "id": "13238",
           "label": "a",
+          "text": "Visit a fire station in-person. Identify the various types of fire service vehicles. From the firefighters you meet during your visit, learn about the fire prevention activities in your community and about their careers. Discuss with your counselor what you learned during your tour and interviews.",
+          "requirement_path": "10.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -735,6 +980,11 @@
         {
           "id": "13239",
           "label": "b",
+          "text": "Identify three career opportunities that would use skills and knowledge in the field of fire safety. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "10.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

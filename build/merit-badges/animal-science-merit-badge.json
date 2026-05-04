@@ -14,6 +14,11 @@
     {
       "id": "12444",
       "label": "1",
+      "text": "Name two breeds of livestock in each of the following classifications: horses, dairy cattle, beef cattle, sheep, hogs, poultry, and goats. Tell their principal uses and merits. Tell where the breeds originated.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "12445",
       "label": "2",
+      "text": "List two diseases that afflict the animals in each of the classifications in requirement 1. Describe the symptoms of each disease and explain how each is contracted and how it could be prevented.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -38,6 +48,11 @@
     {
       "id": "12446",
       "label": "3",
+      "text": "Draw models of the digestive tracts of ruminants, horses, pigs, and poultry. Explain how the differences in structure and function among these types of digestive tracts affect the nutritional management of these species.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -50,6 +65,11 @@
     {
       "id": "12447",
       "label": "4",
+      "text": "Select one type of animal: beef cow, dairy cow, horse, sheep, goat, or hog, or a poultry flock, and tell how you would properly manage it. Include in your discussion nutritional (feeding) concerns, housing, disease prevention, waste control/removal, breeding programs, and biosecurity as appropriate.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -62,6 +82,11 @@
     {
       "id": "12448",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -73,6 +98,11 @@
         {
           "id": "12450",
           "label": "a",
+          "text": "Explain how agricultural producers make desired improvements to their stock through breeding practices and programs.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -85,6 +115,11 @@
         {
           "id": "12451",
           "label": "b",
+          "text": "Explain the terms pure breeding and cross breeding.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -97,6 +132,11 @@
         {
           "id": "12452",
           "label": "c",
+          "text": "List two modern technologies used in the production of horses, dairy cattle, beef cattle, sheep, hogs, poultry, or goats, and tell what the advantages are of using the technology.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -111,6 +151,11 @@
     {
       "id": "12401",
       "label": "6",
+      "text": "Complete ONE of the following options:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "12402",
           "label": null,
+          "text": "Option A—Beef Cattle. Do ALL of the following:",
+          "requirement_path": "6.option-a",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -140,69 +190,95 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12403",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Visit a farm or ranch where beef cattle are produced under any of these systems: feeding market cattle for harvest, cow/calf operation (producing cattle for sale to commercial feeders), or producing purebred cattle for sale as breeding stock to others."
+              "id": "12403",
+              "label": "1",
+              "text": "Visit a farm or ranch where beef cattle are produced under any of these systems: feeding market cattle for harvest, cow/calf operation (producing cattle for sale to commercial feeders), or producing purebred cattle for sale as breeding stock to others.\nTalk with the operator to learn how the cattle were handled, fed, weighed, and shipped. Describe what you saw and explain what you learned. If you cannot visit a cattle ranch or farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on beef cattle production. Tell about your findings.",
+              "requirement_path": "6.option-a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Visit a farm or ranch where beef cattle are produced under any of these systems: feeding market cattle for harvest, cow/calf operation (producing cattle for sale to commercial feeders), or producing purebred cattle for sale as breeding stock to others."
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "value": " Talk with the operator to learn how the cattle were handled, fed, weighed, and shipped. Describe what you saw and explain what you learned. If you cannot visit a cattle ranch or farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on beef cattle production. Tell about your findings."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
+              "id": "12404",
+              "label": "2",
+              "text": "Sketch a plan of a feedlot to include its forage and grain storage facilities, and loading chute for 30 or more fattening steers; or sketch a corral plan with cutting and loading chutes for handling 50 or more beef cows and their calves at one time.",
+              "requirement_path": "6.option-a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Sketch a plan of a feedlot to include its forage and grain storage facilities, and loading chute for 30 or more fattening steers; or sketch a corral plan with cutting and loading chutes for handling 50 or more beef cows and their calves at one time."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " Talk with the operator to learn how the cattle were handled, fed, weighed, and shipped. Describe what you saw and explain what you learned. If you cannot visit a cattle ranch or farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on beef cattle production. Tell about your findings."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12404",
-          "label": "2",
-          "content": [
+              "id": "12405",
+              "label": "3",
+              "text": "Make a sketch showing the principal wholesale and retail cuts of beef. Tell about the U.S. Department of Agriculture (USDA) dual grading system of beef. Tell the basis of each grade in each system.",
+              "requirement_path": "6.option-a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a sketch showing the principal wholesale and retail cuts of beef. Tell about the U.S. Department of Agriculture (USDA) dual grading system of beef. Tell the basis of each grade in each system."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Sketch a plan of a feedlot to include its forage and grain storage facilities, and loading chute for 30 or more fattening steers; or sketch a corral plan with cutting and loading chutes for handling 50 or more beef cows and their calves at one time."
+              "id": "12406",
+              "label": "4",
+              "text": "Define the following terms: bull, steer, bullock, cow, heifer, freemartin, heiferette, and calf.",
+              "requirement_path": "6.option-a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Define the following terms: bull, steer, bullock, cow, heifer, freemartin, heiferette, and calf."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12405",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Make a sketch showing the principal wholesale and retail cuts of beef. Tell about the U.S. Department of Agriculture (USDA) dual grading system of beef. Tell the basis of each grade in each system."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12406",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Define the following terms: bull, steer, bullock, cow, heifer, freemartin, heiferette, and calf."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "12407",
           "label": null,
+          "text": "Option B—Dairy. Do ALL of the following:",
+          "requirement_path": "6.option-b",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -221,83 +297,119 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12408",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Tell how a cow or a goat converts forage and grain into milk. Explain the differences in feeds typically used for dairy cows versus those fed to beef cows."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12409",
-          "label": "2",
-          "content": [
+              "id": "12408",
+              "label": "1",
+              "text": "Tell how a cow or a goat converts forage and grain into milk. Explain the differences in feeds typically used for dairy cows versus those fed to beef cows.",
+              "requirement_path": "6.option-b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Tell how a cow or a goat converts forage and grain into milk. Explain the differences in feeds typically used for dairy cows versus those fed to beef cows."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Make a chart showing the components in cow's milk or goat's milk. Chart the amount of each component."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12410",
-          "label": "3",
-          "content": [
+              "id": "12409",
+              "label": "2",
+              "text": "Make a chart showing the components in cow's milk or goat's milk. Chart the amount of each component.",
+              "requirement_path": "6.option-b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a chart showing the components in cow's milk or goat's milk. Chart the amount of each component."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Explain the requirements for producing grade A milk. Tell how and why milk is pasteurized."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12411",
-          "label": "4",
-          "content": [
+              "id": "12410",
+              "label": "3",
+              "text": "Explain the requirements for producing grade A milk. Tell how and why milk is pasteurized.",
+              "requirement_path": "6.option-b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the requirements for producing grade A milk. Tell how and why milk is pasteurized."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Tell about the kinds of equipment used for milking and the sanitation standards that must be met on dairy farms."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12412",
-          "label": "5",
-          "content": [
+              "id": "12411",
+              "label": "4",
+              "text": "Tell about the kinds of equipment used for milking and the sanitation standards that must be met on dairy farms.",
+              "requirement_path": "6.option-b.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Tell about the kinds of equipment used for milking and the sanitation standards that must be met on dairy farms."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Define the following terms: bull, cow, steer, heifer, springer, buck, doe, and kid."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12413",
-          "label": "6",
-          "content": [
+              "id": "12412",
+              "label": "5",
+              "text": "Define the following terms: bull, cow, steer, heifer, springer, buck, doe, and kid.",
+              "requirement_path": "6.option-b.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Define the following terms: bull, cow, steer, heifer, springer, buck, doe, and kid."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Visit a dairy farm or a milk processing plant. Describe what you saw and explain what you learned. If you cannot visit a dairy farm or processing plant, view a video from a breed or dairy association, or research the internet (with your parent or guardian's permission) for information on dairying. Tell about your findings."
+              "id": "12413",
+              "label": "6",
+              "text": "Visit a dairy farm or a milk processing plant. Describe what you saw and explain what you learned. If you cannot visit a dairy farm or processing plant, view a video from a breed or dairy association, or research the internet (with your parent or guardian's permission) for information on dairying. Tell about your findings.",
+              "requirement_path": "6.option-b.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Visit a dairy farm or a milk processing plant. Describe what you saw and explain what you learned. If you cannot visit a dairy farm or processing plant, view a video from a breed or dairy association, or research the internet (with your parent or guardian's permission) for information on dairying. Tell about your findings."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "12414",
           "label": null,
+          "text": "Option C—Horse. Do ALL of the following:",
+          "requirement_path": "6.option-c",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -316,71 +428,102 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12415",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Make a sketch of a useful saddle horse barn and exercise yard."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12416",
-          "label": "2",
-          "content": [
+              "id": "12415",
+              "label": "1",
+              "text": "Make a sketch of a useful saddle horse barn and exercise yard.",
+              "requirement_path": "6.option-c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a sketch of a useful saddle horse barn and exercise yard."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Tell about the history of the horse and the benefits it has brought to people. Using the four breeds of horses you chose in requirement 1, discuss the different special uses of each breed."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12417",
-          "label": "3",
-          "content": [
+              "id": "12416",
+              "label": "2",
+              "text": "Tell about the history of the horse and the benefits it has brought to people. Using the four breeds of horses you chose in requirement 1, discuss the different special uses of each breed.",
+              "requirement_path": "6.option-c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Tell about the history of the horse and the benefits it has brought to people. Using the four breeds of horses you chose in requirement 1, discuss the different special uses of each breed."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Define the following terms: mare, stallion, gelding, foal, colt, filly; mustang, quarter horse, draft horse, pacer, trotter; pinto, calico, palomino, roan, overo, and tobiano."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12418",
-          "label": "4",
-          "content": [
+              "id": "12417",
+              "label": "3",
+              "text": "Define the following terms: mare, stallion, gelding, foal, colt, filly; mustang, quarter horse, draft horse, pacer, trotter; pinto, calico, palomino, roan, overo, and tobiano.",
+              "requirement_path": "6.option-c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Define the following terms: mare, stallion, gelding, foal, colt, filly; mustang, quarter horse, draft horse, pacer, trotter; pinto, calico, palomino, roan, overo, and tobiano."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Visit a horse farm. Describe what you saw and explain what you learned. If you cannot visit a horse farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on horses. Tell about your findings."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12419",
-          "label": "5",
-          "content": [
+              "id": "12418",
+              "label": "4",
+              "text": "Visit a horse farm. Describe what you saw and explain what you learned. If you cannot visit a horse farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on horses. Tell about your findings.",
+              "requirement_path": "6.option-c.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Visit a horse farm. Describe what you saw and explain what you learned. If you cannot visit a horse farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on horses. Tell about your findings."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Outline the proper feeding of a horse doing light work. Explain why the amount and kind of feed will change according to the kind of horse and the work it does. Describe what colic is, what can cause it, and its symptoms."
+              "id": "12419",
+              "label": "5",
+              "text": "Outline the proper feeding of a horse doing light work. Explain why the amount and kind of feed will change according to the kind of horse and the work it does. Describe what colic is, what can cause it, and its symptoms.",
+              "requirement_path": "6.option-c.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Outline the proper feeding of a horse doing light work. Explain why the amount and kind of feed will change according to the kind of horse and the work it does. Describe what colic is, what can cause it, and its symptoms."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "12420",
           "label": null,
+          "text": "Option D—Sheep or Goat. Choose one and do ALL of the following based upon the choice:",
+          "requirement_path": "6.option-d",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -399,95 +542,137 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12424",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Make a sketch of a live lamb or goat. Show the location of the various wholesale and retail cuts."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12425",
-          "label": "2",
-          "content": [
+              "id": "12424",
+              "label": "1",
+              "text": "Make a sketch of a live lamb or goat. Show the location of the various wholesale and retail cuts.",
+              "requirement_path": "6.option-d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a sketch of a live lamb or goat. Show the location of the various wholesale and retail cuts."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Discuss how wools are sorted and graded."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12625",
-          "label": "3",
-          "content": [
+              "id": "12425",
+              "label": "2",
+              "text": "Discuss how wools are sorted and graded.",
+              "requirement_path": "6.option-d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss how wools are sorted and graded."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "List products that can be made from the milk."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12421",
-          "label": "4",
-          "content": [
+              "id": "12625",
+              "label": "3",
+              "text": "List products that can be made from the milk.",
+              "requirement_path": "6.option-d.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "List products that can be made from the milk."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Based on your choice, do ONE of the following:"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12422",
-          "label": "a",
-          "content": [
+              "id": "12421",
+              "label": "4",
+              "text": "Based on your choice, do ONE of the following:",
+              "requirement_path": "6.option-d.4",
+              "node_kind": "action_requirement",
+              "is_container": true,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Based on your choice, do ONE of the following:"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "12422",
+                  "label": "a",
+                  "text": "Raise a lamb or goat from weaning to market weight. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review.",
+                  "requirement_path": "6.option-d.4.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Raise a lamb or goat from weaning to market weight. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "12423",
+                  "label": "b",
+                  "text": "Visit a farm or ranch where sheep or goats are raised. Describe what you saw and explain what you learned. If you cannot visit a sheep or goat farm or ranch, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on sheep or goats. Tell about your findings.",
+                  "requirement_path": "6.option-d.4.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Visit a farm or ranch where sheep or goats are raised. Describe what you saw and explain what you learned. If you cannot visit a sheep or goat farm or ranch, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on sheep or goats. Tell about your findings."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                }
+              ]
+            },
             {
-              "type": "text",
-              "value": "Raise a lamb or goat from weaning to market weight. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review."
+              "id": "12427",
+              "label": "5",
+              "text": "Define the following terms for a sheep (wether, ewe, ram, and lamb) OR a goat (doe, nanny, kid, buck, and billy).",
+              "requirement_path": "6.option-d.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Define the following terms for a sheep (wether, ewe, ram, and lamb) OR a goat (doe, nanny, kid, buck, and billy)."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12423",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Visit a farm or ranch where sheep or goats are raised. Describe what you saw and explain what you learned. If you cannot visit a sheep or goat farm or ranch, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on sheep or goats. Tell about your findings."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12427",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Define the following terms for a sheep (wether, ewe, ram, and lamb) OR a goat (doe, nanny, kid, buck, and billy)."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "12428",
           "label": null,
+          "text": "Option E—Hog. Do ALL of the following:",
+          "requirement_path": "6.option-e",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -506,83 +691,120 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12432",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Make a sketch showing the principal wholesale and retail cuts of pork. Tell about the recommended USDA grades of pork. Tell the basis for each grade."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12433",
-          "label": "2",
-          "content": [
+              "id": "12432",
+              "label": "1",
+              "text": "Make a sketch showing the principal wholesale and retail cuts of pork. Tell about the recommended USDA grades of pork. Tell the basis for each grade.",
+              "requirement_path": "6.option-e.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a sketch showing the principal wholesale and retail cuts of pork. Tell about the recommended USDA grades of pork. Tell the basis for each grade."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Outline in writing the proper feeding programs used from the breeding of a gilt or sow through the weaning of the litter. Discuss the feeding programs for the growth and finishing periods."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12429",
-          "label": "3",
-          "content": [
+              "id": "12433",
+              "label": "2",
+              "text": "Outline in writing the proper feeding programs used from the breeding of a gilt or sow through the weaning of the litter. Discuss the feeding programs for the growth and finishing periods.",
+              "requirement_path": "6.option-e.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Outline in writing the proper feeding programs used from the breeding of a gilt or sow through the weaning of the litter. Discuss the feeding programs for the growth and finishing periods."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Do ONE of the following:"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12430",
-          "label": "a",
-          "content": [
+              "id": "12429",
+              "label": "3",
+              "text": "Do ONE of the following:",
+              "requirement_path": "6.option-e.3",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Do ONE of the following:"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "12430",
+                  "label": "a",
+                  "text": "Raise a feeder pig from weaning to market weight. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review.",
+                  "requirement_path": "6.option-e.3.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Raise a feeder pig from weaning to market weight. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "12431",
+                  "label": "b",
+                  "text": "Visit a farm where hogs are produced, or visit a packing plant handling hogs. Describe what you saw and explain what you learned. If you cannot visit a hog production unit or packing plant, view a video from a packer or processor, or research the internet (with your parent or guardian's permission) for information on hogs. Tell about your findings.",
+                  "requirement_path": "6.option-e.3.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Visit a farm where hogs are produced, or visit a packing plant handling hogs. Describe what you saw and explain what you learned. If you cannot visit a hog production unit or packing plant, view a video from a packer or processor, or research the internet (with your parent or guardian's permission) for information on hogs. Tell about your findings."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                }
+              ]
+            },
             {
-              "type": "text",
-              "value": "Raise a feeder pig from weaning to market weight. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review."
+              "id": "12434",
+              "label": "4",
+              "text": "Define the following terms: gilt, sow, barrow, and boar.",
+              "requirement_path": "6.option-e.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Define the following terms: gilt, sow, barrow, and boar."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12431",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Visit a farm where hogs are produced, or visit a packing plant handling hogs. Describe what you saw and explain what you learned. If you cannot visit a hog production unit or packing plant, view a video from a packer or processor, or research the internet (with your parent or guardian's permission) for information on hogs. Tell about your findings."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12434",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Define the following terms: gilt, sow, barrow, and boar."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "12435",
           "label": null,
+          "text": "Option F—Avian. Do ALL of the following:",
+          "requirement_path": "6.option-f",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -601,109 +823,156 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12440",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Make a sketch of a layer house or broiler house showing nests, roosts, feeders, waterers, and means of ventilation. Explain how insulation, ventilation, temperature controls, automatic lights, and other environmental controls are used to protect birds from heat, cold, and bad weather. Explain the importance of light for egg production."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12441",
-          "label": "2",
-          "content": [
+              "id": "12440",
+              "label": "1",
+              "text": "Make a sketch of a layer house or broiler house showing nests, roosts, feeders, waterers, and means of ventilation. Explain how insulation, ventilation, temperature controls, automatic lights, and other environmental controls are used to protect birds from heat, cold, and bad weather. Explain the importance of light for egg production.",
+              "requirement_path": "6.option-f.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a sketch of a layer house or broiler house showing nests, roosts, feeders, waterers, and means of ventilation. Explain how insulation, ventilation, temperature controls, automatic lights, and other environmental controls are used to protect birds from heat, cold, and bad weather. Explain the importance of light for egg production."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Explain why overcrowding is dangerous for poultry flocks."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12442",
-          "label": "3",
-          "content": [
+              "id": "12441",
+              "label": "2",
+              "text": "Explain why overcrowding is dangerous for poultry flocks.",
+              "requirement_path": "6.option-f.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain why overcrowding is dangerous for poultry flocks."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Tell about the grading of eggs. Describe the classes of chicken meat."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12436",
-          "label": "4",
-          "content": [
+              "id": "12442",
+              "label": "3",
+              "text": "Tell about the grading of eggs. Describe the classes of chicken meat.",
+              "requirement_path": "6.option-f.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Tell about the grading of eggs. Describe the classes of chicken meat."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Do ONE of the following:"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12437",
-          "label": "a",
-          "content": [
+              "id": "12436",
+              "label": "4",
+              "text": "Do ONE of the following:",
+              "requirement_path": "6.option-f.4",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Do ONE of the following:"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "12437",
+                  "label": "a",
+                  "text": "Manage an egg-producing flock for five months. Keep records of feed purchased, eggs sold, medication, vaccination, and mortality. Present your records to your counselor for review.",
+                  "requirement_path": "6.option-f.4.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Manage an egg-producing flock for five months. Keep records of feed purchased, eggs sold, medication, vaccination, and mortality. Present your records to your counselor for review."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "12438",
+                  "label": "b",
+                  "text": "Raise five chickens from hatching. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review.",
+                  "requirement_path": "6.option-f.4.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Raise five chickens from hatching. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "12439",
+                  "label": "c",
+                  "text": "Visit a commercial avian production facility. Describe what you saw and explain what you learned. If you cannot visit a commercial facility, view a video from a poultry association, or research the internet (with your parent or guardian's permission) for information on poultry production. Tell about your findings.",
+                  "requirement_path": "6.option-f.4.c",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Visit a commercial avian production facility. Describe what you saw and explain what you learned. If you cannot visit a commercial facility, view a video from a poultry association, or research the internet (with your parent or guardian's permission) for information on poultry production. Tell about your findings."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                }
+              ]
+            },
             {
-              "type": "text",
-              "value": "Manage an egg-producing flock for five months. Keep records of feed purchased, eggs sold, medication, vaccination, and mortality. Present your records to your counselor for review."
+              "id": "12443",
+              "label": "5",
+              "text": "Define the following terms: chick, pullet, hen, cockerel, cock, and capon.",
+              "requirement_path": "6.option-f.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Define the following terms: chick, pullet, hen, cockerel, cock, and capon."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12438",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Raise five chickens from hatching. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12439",
-          "label": "c",
-          "content": [
-            {
-              "type": "text",
-              "value": "Visit a commercial avian production facility. Describe what you saw and explain what you learned. If you cannot visit a commercial facility, view a video from a poultry association, or research the internet (with your parent or guardian's permission) for information on poultry production. Tell about your findings."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12443",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Define the following terms: chick, pullet, hen, cockerel, cock, and capon."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "12449",
       "label": "7",
+      "text": "Find out about three career opportunities in animal science. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

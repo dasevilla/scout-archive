@@ -14,6 +14,11 @@
     {
       "id": "13091",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "13092",
           "label": "a",
+          "text": "Analyze four games you have played, each from a different medium. Identify the medium, player format, objectives, rules, resources, and theme (if relevant). Discuss with your counselor the play experience, what you enjoy in each game, and what you dislike. Make a chart to compare and contrast the games.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "13093",
           "label": "b",
+          "text": "Describe four types of play value and provide an example of a game built around each concept. Discuss with your counselor other reasons people play games.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -51,6 +66,11 @@
     {
       "id": "13116",
       "label": "2",
+      "text": "Discuss with your counselor FIVE of the following 17 game design terms. For each term that you pick, describe how it relates to a specific game: story, setting, characters, play sequence, level design, interface design, difficulty, balance, depth, pace, replay value, age appropriateness, single-player vs. multiplayer, cooperative vs. competitive, turn-based vs. real-time, strategy vs. reflex vs. chance, or abstract vs. thematic.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "13117",
       "label": "3",
+      "text": "Define the term intellectual property. Describe the types of intellectual property associated with the game design industry. Describe how intellectual property is protected and why protection is necessary. Define and give an example of a licensed property.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -75,6 +100,11 @@
     {
       "id": "13094",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -86,6 +116,11 @@
         {
           "id": "13095",
           "label": "a",
+          "text": "Pick a game where the players can change the rules or objectives (examples: basketball, hearts, chess, kickball). Briefly summarize the standard rules and objectives and play through the game normally.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -98,6 +133,11 @@
         {
           "id": "13096",
           "label": "b",
+          "text": "Propose changes to several rules or objectives. Predict how each change will affect gameplay.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +150,11 @@
         {
           "id": "13097",
           "label": "c",
+          "text": "Play the game with one rule or objective change, observing how the players' actions and emotional experiences are affected by the rule change. Repeat this process with two other changes.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "13098",
           "label": "d",
+          "text": "Explain to your counselor how the changes affected the actions and experience of the players. Discuss the accuracy of your predictions.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -136,6 +186,11 @@
     {
       "id": "13099",
       "label": "5",
+      "text": "Design a new game. Any game medium or combination of mediums is acceptable. Record your work in a game design notebook.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -147,6 +202,11 @@
         {
           "id": "13100",
           "label": "a",
+          "text": "Write a vision statement for your game. Identify the medium, player format, objectives, and theme of the game. If suitable, describe the setting, story, and characters.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -159,6 +219,11 @@
         {
           "id": "13101",
           "label": "b",
+          "text": "Describe the reason that someone would want to play your game.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -171,6 +236,11 @@
         {
           "id": "13102",
           "label": "c",
+          "text": "Make a preliminary list of the rules of the game. Define the resources.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -183,6 +253,11 @@
         {
           "id": "13103",
           "label": "d",
+          "text": "Draw the game elements.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -197,6 +272,11 @@
     {
       "id": "13105",
       "label": "6",
+      "text": "Do the following:\nNote: You must have your counselor's approval of your concept before you begin creating the prototype.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -235,6 +315,11 @@
         {
           "id": "13106",
           "label": "a",
+          "text": "Prototype your game from requirement 5. If applicable, demonstrate to your counselor that you have addressed player safety through the rules and equipment. Record your work in your game design notebook.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -247,6 +332,11 @@
         {
           "id": "13107",
           "label": "b",
+          "text": "Test your prototype with as many other people as you need to meet the player format. Compare the play experience to your descriptions from requirement 5(b). Correct unclear rules, holes in the rules, dead ends, and obvious rule exploits. Change at least one rule, mechanic, or objective from your first version of the game, and describe why you are making the change. Play the game again. Record in your game design notebook whether or not your change had the expected effect.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -259,6 +349,11 @@
         {
           "id": "13108",
           "label": "c",
+          "text": "Repeat 6(b) at least two more times and record the results in your game design notebook.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -273,6 +368,11 @@
     {
       "id": "13109",
       "label": "7",
+      "text": "Blind test your game. Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -284,6 +384,11 @@
         {
           "id": "13110",
           "label": "a",
+          "text": "Write an instruction sheet that includes all of the information needed to play the game. Clearly describe how to set up the game, play the game, and end the game. List the game objectives.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -296,6 +401,11 @@
         {
           "id": "13111",
           "label": "b",
+          "text": "Share your prototype from requirement 6 with a group of players that has not played it or witnessed a previous playtest. Provide them with your instruction sheet(s) and any physical components. Watch them play the game, but do not provide them with instruction. Record their feedback in your game design notebook.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -308,6 +418,11 @@
         {
           "id": "13112",
           "label": "c",
+          "text": "Share your game design notebook with your counselor. Discuss the player reactions to your project and what you learned about the game design process. Based on your testing, determine what you like most about your game and suggest one or more changes.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -322,6 +437,11 @@
     {
       "id": "13113",
       "label": "8",
+      "text": "Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -333,6 +453,11 @@
         {
           "id": "13114",
           "label": "a",
+          "text": "With your parent or guardian's permission and your counselor's approval, visit with a professional in the game development industry and ask them about their job and how it fits into the overall development process.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -345,6 +470,11 @@
         {
           "id": "13115",
           "label": "b",
+          "text": "Meet with a professional in game development education and discuss the skills they emphasize in the classroom.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

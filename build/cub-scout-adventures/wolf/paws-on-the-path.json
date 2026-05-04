@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
       "activities": [
         {
           "name": "Cub Scout Six Essentials Clue",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Learn about the buddy system and how it works in the outdoors. Pick a buddy for your walk.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the buddy system and how it works in the outdoors. Pick a buddy for your walk.",
       "activities": [
         {
           "name": "1-2  Buddies",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Identify appropriate clothes and shoes for your walk outside. Do your best to wear them on your walk.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify appropriate clothes and shoes for your walk outside. Do your best to wear them on your walk.",
       "activities": [
         {
           "name": "Clothing Store Visit",
@@ -137,6 +149,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Learn about the Outdoor Code and Leave No Trace Principle for Kids.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -145,7 +162,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the Outdoor Code and Leave No Trace Principle for Kids.",
       "activities": [
         {
           "name": "Outdoor Code and Leave No Trace Booklet",
@@ -179,6 +195,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "With your den, pack, or family, take a walk outside for at least 30 minutes to explore nature in your surroundings. Describe four different animals, domestic or wild, that you could see on your walk.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -187,7 +208,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den, pack, or family, take a walk outside for at least 30 minutes to explore nature in your surroundings. Describe four different animals, domestic or wild, that you could see on your walk.",
       "activities": [
         {
           "name": "Outdoor Scavenger Hunt",

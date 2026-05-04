@@ -14,6 +14,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Safety. Before conducting any experiments, explain to your counselor the safety precautions and personal protective equipment necessary for working with physics-related equipment.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -42,6 +47,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "What is Physics? Define physics in your own words and discuss with your counselor various areas of physics.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -78,6 +88,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Fundamentals of Physics. Explain these key physics concepts: force, motion, energy, and waves. Provide real-world examples demonstrating each principle.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -106,6 +121,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Hands-On Experimentation. Conduct THREE physics experiments, selecting from the following options. Each experiment must include: a hypothesis, materials used, safety precautions, observations, and conclusions based on results. Explain how each experiment demonstrates key physics principles. For each experiment, be sure to try variations/variables to test your hypothesis.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -128,6 +148,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option A: Newton’s Laws in Action: Balloon-Powered Car. Make and test a balloon-powered car to show how force and motion interact.",
+          "requirement_path": "4.option-a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -156,6 +181,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option B: Momentum: Stacked Ball Drop. Drop different-sized stacked balls to show momentum.",
+          "requirement_path": "4.option-b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -188,6 +218,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option C: Centrifugal Force. Make spinning toys to demonstrate centrifugal force.",
+          "requirement_path": "4.option-c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -216,6 +251,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option D: Centripetal Force. Swing a water bucket or tray filled with water glasses to demonstrate centripetal force.",
+          "requirement_path": "4.option-d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -244,6 +284,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option E: Balance. Explore center of gravity, inertia, and harmonic motion using a Tweety Bopper.",
+          "requirement_path": "4.option-e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -272,6 +317,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option F: Visualize Sound. Visualize Chladni patterns using a tonoscope.",
+          "requirement_path": "4.option-f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -304,6 +354,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option G: Cartesian Diver. Demonstrate buoyancy and the ideal gas law with Cartesian divers.",
+          "requirement_path": "4.option-g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -332,6 +387,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option H: Air Pressure: Bernoulli’s principle and the Coandă Effect. Balance different objects in a stream of air.",
+          "requirement_path": "4.option-h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -364,6 +424,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option I: Electromagnet. Make an electromagnet and explore how to increase its strength.",
+          "requirement_path": "4.option-i",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -394,6 +459,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Physics All Around You. Discuss with your counselor:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -416,6 +486,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a)Physics in Everyday Life. Describe FIVE ways physics is applied in daily life, such as in transportation, sports, or household appliances. The Role of Physics in Everyday Life: Shocking Truths Revealed!",
+          "requirement_path": "5.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -463,6 +538,11 @@
         {
           "id": "b",
           "label": null,
+          "text": "(b) Physics in Space Exploration. Describe how physics is used in space travel, satellite technology, or planetary exploration. The Rocket-Less Future of Space Travel | What the Physics?! | NOVA | PBS Why Don’t Satellites Fall Out of the Sky? Future of Space Travel by Dr Michio Kaku #spaceexploration – YouTube (c) Physics in the Environment. Explain how physics contributes to renewable energy, climate science, or environmental conservation. Renewable Energy Resources: Part 1 | GCSE Physics | Doodle Science Renewable Energy Resources: Part 2 | GCSE Physics | Doodle Science How does the climate system work? (d)Physics in Scouting. Explain how physics is found in Scouting, such as knot tying, fire building, cooking, or pioneering. Why Knots? Knot Theory in Three Minutes What Is Fire? Have you ever wondered why smoke follows you around a camp fire? #camping #physics #fire The Physics of Cooking STEM Program Da Vinci Bridges (PDF)",
+          "requirement_path": "5.item-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -782,6 +862,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "The Future of Physics. Physicists try to explain the universe and apply these concepts to novel technologies. Discuss one option with your counselor:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -804,6 +889,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option A: Unsolved Mysteries of Physics. Discuss the following with your counselor:",
+          "requirement_path": "6.option-a",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -826,6 +916,11 @@
             {
               "id": "a",
               "label": "a",
+              "text": "Dark Matter & Dark Energy. Scientists know it exists—but what is it?",
+              "requirement_path": "6.option-a.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
               "content": [
                 {
                   "type": "element",
@@ -854,6 +949,11 @@
             {
               "id": "b",
               "label": "b",
+              "text": "Black Holes & Wormholes. Can we harness their energy or travel through them?",
+              "requirement_path": "6.option-a.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
               "content": [
                 {
                   "type": "element",
@@ -884,6 +984,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option B: Quantum Mechanics & Computing. Discuss the following with your counselor:",
+          "requirement_path": "6.option-b",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -906,6 +1011,11 @@
             {
               "id": "a",
               "label": "a",
+              "text": "Quantum Computers. How can super fast computers be made of atoms instead of microchips?",
+              "requirement_path": "6.option-b.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
               "content": [
                 {
                   "type": "element",
@@ -938,6 +1048,11 @@
             {
               "id": "b",
               "label": "b",
+              "text": "Quantum Entanglement. Can we communicate instantly across space?",
+              "requirement_path": "6.option-b.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
               "content": [
                 {
                   "type": "element",
@@ -968,6 +1083,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option C: Space Exploration & Astrophysics. Discuss the following with your counselor:",
+          "requirement_path": "6.option-c",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -990,6 +1110,11 @@
             {
               "id": "a",
               "label": "a",
+              "text": "Colonizing Mars. How can physics help humans live on other planets?",
+              "requirement_path": "6.option-c.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
               "content": [
                 {
                   "type": "element",
@@ -1018,6 +1143,11 @@
             {
               "id": "b",
               "label": "b",
+              "text": "Interstellar Travel. Can we reach other stars with warp drives or solar sails?",
+              "requirement_path": "6.option-c.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
               "content": [
                 {
                   "type": "element",
@@ -1052,6 +1182,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option D: Advanced Theories & Future Discoveries. Discuss the following with your counselor:",
+          "requirement_path": "6.option-d",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -1074,6 +1209,11 @@
             {
               "id": "a",
               "label": "a",
+              "text": "Time Travel. Is it possible under extreme conditions?",
+              "requirement_path": "6.option-d.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
               "content": [
                 {
                   "type": "element",
@@ -1102,6 +1242,11 @@
             {
               "id": "b",
               "label": "b",
+              "text": "Artificial Gravity. Can we create Earth-like gravity in space stations?",
+              "requirement_path": "6.option-d.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
               "content": [
                 {
                   "type": "element",
@@ -1134,6 +1279,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Engineering and Physics Challenge. Solve a simple engineering problem using physics-based reasoning. Define the problem, allowable materials, and safety constraints. You may enlist friends or family in completing your challenge. All plans must be approved in advance by your counselor. Do ONE of the following options:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -1185,6 +1335,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option A: Fastest Pinewood Derby Car. Build pinewood derby cars using physics principles to get the fastest time on the track.",
+          "requirement_path": "7.option-a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -1217,6 +1372,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option B: Rube Goldberg Machine. Build a machine using household materials to perform a simple task. You can use examples of tasks from the annual Rube Goldberg competition, or you can create your own task:",
+          "requirement_path": "7.option-b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -1245,6 +1405,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option C: Egg Drop Challenge. Explore the physics of energy and momentum by building a structure using household materials to prevent an egg from breaking when dropped from a significant height. The location of the egg drop must be approved by your counselor.",
+          "requirement_path": "7.option-c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -1268,6 +1433,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option D: Water Bottle Rockets. Explore propulsion and Newton’s Third Law. The challenge is to land an air pressured rocket, using water as a propellant, exactly at a specific distance (for example, 70 m) from launch point, three times, with extra points for flight duration.",
+          "requirement_path": "7.option-d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -1291,6 +1461,11 @@
         {
           "id": "",
           "label": null,
+          "text": "Option E: Design your Own Physics Challenge. Create a physics challenge with your counselor’s approval.",
+          "requirement_path": "7.option-e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -1316,6 +1491,11 @@
     {
       "id": "8",
       "label": "8",
+      "text": "Careers Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1338,6 +1518,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Explore careers related to this badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career. Career Options for Physicists 10 Best Entry Level Jobs for Physics Majors (b) Explore how you could use knowledge and skills from this badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this. Physics as a Passion 9 Hobbies Related to Science",
+          "requirement_path": "8.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1444,6 +1629,11 @@
     {
       "id": "9",
       "label": "9",
+      "text": "Complete the survey below to complete the test lab requirements",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",

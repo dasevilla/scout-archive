@@ -14,6 +14,11 @@
     {
       "id": "12821",
       "label": "1",
+      "text": "Understand how coins are made and where the active U.S. Mint facilities are located.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "12822",
       "label": "2",
+      "text": "Explain the following terms: obverse, reverse, reeding, clad, type set, and date set.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -38,6 +48,11 @@
     {
       "id": "12829",
       "label": "3",
+      "text": "Describe three different ways to store a collection, and the benefits, drawbacks, and cost of each method.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -50,6 +65,11 @@
     {
       "id": "12805",
       "label": "4",
+      "text": "Do the following and explain to your counselor the design features, designer name, designer initials, and where to find them for each item:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "12806",
           "label": "a",
+          "text": "Collect a one-cent coin from the year group: 1959-2008 (that is, dated between 1959 and 2008) and a one-cent coin from the year group 2010-present. Explain how and why the one-cent coins issued in 2009 were different from either of the other two year groups.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -73,6 +98,11 @@
         {
           "id": "12807",
           "label": "b",
+          "text": "Collect two five-cent coins, one from each of these year groups: 1959-2003 and 2006-present. Explain how and why the five-cent coins issued in 2004-2005 were different from either of the other two year groups.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -85,6 +115,11 @@
         {
           "id": "12808",
           "label": "c",
+          "text": "Collect a ten-cent coin from 1965-present.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -97,6 +132,11 @@
         {
           "id": "12809",
           "label": "d",
+          "text": "Collect a twenty-five-cent coin from 1965-1998, two examples from the 50-State Quarter® /territories Program 1999-2009, two designs from the America the Beautiful® program 2010-2021 and two designs from the American Woman Quarter® program (2022-2024). Explain the purpose of each of those programs.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -109,6 +149,11 @@
         {
           "id": "12810",
           "label": "e",
+          "text": "Collect a half dollar coin from 1965-present.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -121,6 +166,11 @@
         {
           "id": "12811",
           "label": "f",
+          "text": "Collect a dollar coin from the following design groups: Susan B. Anthony 1979-1981, 1999, Sacagawea 2000-2008, U.S. Presidents 2007-2016, 2020.",
+          "requirement_path": "4.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +185,11 @@
     {
       "id": "12830",
       "label": "5",
+      "text": "Describe and discuss with your counselor the special reverse designs of the quarters, half dollar and dollar coin struck in 1975-1976 to honor the U.S. Bicentennial.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -147,6 +202,11 @@
     {
       "id": "12831",
       "label": "6",
+      "text": "Identify for your counselor the people depicted on current currency: $1, $2, $5, $10, $20, $50, and $100 notes. Explain where United States currency is printed.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -159,6 +219,11 @@
     {
       "id": "12812",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -170,6 +235,11 @@
         {
           "id": "12818",
           "label": "a",
+          "text": "Collect and identify for your counselor 20 different world coins from at least seven different countries. Identify the country, major design elements, and denomination of each.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -182,6 +252,11 @@
         {
           "id": "12819",
           "label": "b",
+          "text": "Collect and identify for your counselor 20 different world paper money from at least 7 different countries. Identify the country, major design elements, and denomination of each.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +269,11 @@
         {
           "id": "12820",
           "label": "c",
+          "text": "Collect and identify for your counselor 20 different tokens and/or medals. Identify the issuer and use of each.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -206,6 +286,11 @@
         {
           "id": "12813",
           "label": "d",
+          "text": "Complete one of the following and report to your counselor what you experienced:",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -213,55 +298,76 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12814",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Attend a coin show."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12815",
-          "label": "2",
-          "content": [
+              "id": "12814",
+              "label": "1",
+              "text": "Attend a coin show.",
+              "requirement_path": "7.d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Attend a coin show."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Attend a coin club meeting."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12816",
-          "label": "3",
-          "content": [
+              "id": "12815",
+              "label": "2",
+              "text": "Attend a coin club meeting.",
+              "requirement_path": "7.d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Attend a coin club meeting."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Tour a U.S. Mint facility or museum."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "12817",
-          "label": "4",
-          "content": [
+              "id": "12816",
+              "label": "3",
+              "text": "Tour a U.S. Mint facility or museum.",
+              "requirement_path": "7.d.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Tour a U.S. Mint facility or museum."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Tour a virtual exhibit (with your parent or guardian's permission) approved by your counselor."
+              "id": "12817",
+              "label": "4",
+              "text": "Tour a virtual exhibit (with your parent or guardian's permission) approved by your counselor.",
+              "requirement_path": "7.d.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Tour a virtual exhibit (with your parent or guardian's permission) approved by your counselor."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     }

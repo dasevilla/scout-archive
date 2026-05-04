@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Learn about three types of fish in your area.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about three types of fish in your area.",
       "activities": [
         {
           "name": "Cast and Catch",
@@ -62,6 +66,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Learn about your local fishing regulations with your den leader or an adult.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -70,7 +79,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about your local fishing regulations with your den leader or an adult.",
       "activities": [
         {
           "name": "Local Fish Expert",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "List three of the regulations you learned about, and one reason each regulation exists.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "List three of the regulations you learned about, and one reason each regulation exists.",
       "activities": [
         {
           "name": "Create Your Own Matching Game",
@@ -128,6 +140,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Become familiar with the safe use of the fishing equipment you will be using on your outing.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -136,7 +153,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Become familiar with the safe use of the fishing equipment you will be using on your outing.",
       "activities": [
         {
           "name": "Bamboo Pole",
@@ -161,6 +177,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Learn the proper way to attach the hook, lure, or fly to the line.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -169,7 +190,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn the proper way to attach the hook, lure, or fly to the line.",
       "activities": [
         {
           "name": "Simple Fishing Knots",
@@ -185,6 +205,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Go on a fishing adventure, and for 30 minutes or more, put into practice the things you learned about fish and fishing equipment.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -193,7 +218,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Go on a fishing adventure, and for 30 minutes or more, put into practice the things you learned about fish and fishing equipment.",
       "activities": [
         {
           "name": "Bear Goes Fishing",

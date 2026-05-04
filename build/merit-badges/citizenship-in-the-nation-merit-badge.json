@@ -14,6 +14,11 @@
     {
       "id": "10141",
       "label": "1",
+      "text": "What is the Constitution of the United States? What does the Constitution do? What principles does it reflect? Why is it important to have a Constitution?",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "10130",
       "label": "2",
+      "text": "List the six purposes for creating the United States Constitution set forth in the Preamble to the Constitution. How do these purposes affect your family and community?",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -38,6 +48,11 @@
     {
       "id": "10145",
       "label": "3",
+      "text": "List the three branches of the United States government. Explain:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "10147",
           "label": "a",
+          "text": "The function of each branch of government",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "10148",
           "label": "b",
+          "text": "Why it is important to divide powers among different branches",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -73,6 +98,11 @@
         {
           "id": "10149",
           "label": "c",
+          "text": "How each branch checks and balances the others",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -85,6 +115,11 @@
         {
           "id": "10150",
           "label": "d",
+          "text": "How citizens can be involved in each branch of government",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -99,6 +134,11 @@
     {
       "id": "10143",
       "label": "4",
+      "text": "Discuss the importance of:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -110,6 +150,11 @@
         {
           "id": "10151",
           "label": "a",
+          "text": "Declaration of Independence",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -129,6 +174,11 @@
         {
           "id": "10152",
           "label": "b",
+          "text": "Bill of Rights (the first 10 Amendments to the Constitution) and the 14th Amendment",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -152,6 +202,11 @@
         {
           "id": "10153",
           "label": "c",
+          "text": "E Pluribus Unum, the traditional United States motto",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -166,6 +221,11 @@
     {
       "id": "10142",
       "label": "5",
+      "text": "Watch the national evening news for five days in a row or read the main stories in a national media organization (e.g., a newspaper or news website) for five days in a row. Discuss the national issues that you learned about with your counselor. Choose one issue and explain how it affects you, your family, and community.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -178,6 +238,11 @@
     {
       "id": "10144",
       "label": "6",
+      "text": "With your counselor's approval, choose a speech of national historical importance. Explain:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -189,6 +254,11 @@
         {
           "id": "10154",
           "label": "a",
+          "text": "Who the author was",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -201,6 +271,11 @@
         {
           "id": "10155",
           "label": "b",
+          "text": "What the historical context was",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -213,6 +288,11 @@
         {
           "id": "10156",
           "label": "c",
+          "text": "What difficulties the nation faced that the author wished to discuss",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -225,6 +305,11 @@
         {
           "id": "10157",
           "label": "d",
+          "text": "What the author said",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -237,6 +322,11 @@
         {
           "id": "10158",
           "label": "e",
+          "text": "Why the speech is important to the nation's history",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -249,6 +339,11 @@
         {
           "id": "10159",
           "label": "f",
+          "text": "Choose a sentence or two from the speech that has significant meaning to you, and tell your counselor why.",
+          "requirement_path": "6.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -263,6 +358,11 @@
     {
       "id": "10136",
       "label": "7",
+      "text": "Do TWO of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -274,6 +374,11 @@
         {
           "id": "10137",
           "label": "a",
+          "text": "Visit a place that is listed as a National Historic Landmark or that is on the National Register of Historic Places. Tell your counselor what you learned about the landmark or site and what you found interesting about it.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -286,6 +391,11 @@
         {
           "id": "10138",
           "label": "b",
+          "text": "Tour your state capitol building or the U.S. Capitol. Tell your counselor what you learned about the capitol, its function, and the history.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -298,6 +408,11 @@
         {
           "id": "10139",
           "label": "c",
+          "text": "Tour a federal facility. Explain to your counselor what you saw and what you learned about its function in the local community and how it serves this nation.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -310,6 +425,11 @@
         {
           "id": "10140",
           "label": "d",
+          "text": "Choose a United States national monument that interests you. Using books, brochures, the internet (with your parent or guardian's permission), and other resources, find out more about the monument. Tell your counselor what you learned, and explain why the monument is important to this country's citizens.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -324,6 +444,11 @@
     {
       "id": "10146",
       "label": "8",
+      "text": "Name your representatives in the United States Congress. Write to your representative in Congress explaining your views on a national issue. Show your correspondence, along with any response you receive, to your counselor.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

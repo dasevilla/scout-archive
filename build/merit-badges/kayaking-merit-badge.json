@@ -14,6 +14,11 @@
     {
       "id": "8978",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "8979",
           "label": "a",
+          "text": "Explain to your counselor the hazards you are most likely to encounter while participating in kayaking activities, including weather and water-related hazards, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "8980",
           "label": "b",
+          "text": "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while kayaking: blisters, cold-water shock and hypothermia, heat-related illnesses, dehydration, sunburn, sprains, and strains.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "8981",
           "label": "c",
+          "text": "Review the Scouting America Safety Afloat policy. Explain to your counselor how this applies to kayaking.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "8982",
       "label": "2",
+      "text": "Before doing requirements 3 through 8, successfully complete the Scouting America swimmer test.\nNote: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -111,6 +136,11 @@
     {
       "id": "8948",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -122,6 +152,11 @@
         {
           "id": "8949",
           "label": "a",
+          "text": "Review the characteristics of life jackets most appropriate for kayaking and understand why one must always be worn while paddling. Then demonstrate how to select and fit a life jacket for kayaking.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -134,6 +169,11 @@
         {
           "id": "8950",
           "label": "b",
+          "text": "Review the importance of safety equipment such as a signal device, extra paddle, sponge, bilge pump, flotation bags, and throw bag.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -148,6 +188,11 @@
     {
       "id": "8951",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -159,6 +204,11 @@
         {
           "id": "8952",
           "label": "a",
+          "text": "Name and point out the major parts of a kayak.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -171,6 +221,11 @@
         {
           "id": "8953",
           "label": "b",
+          "text": "Review the differences in the design between recreational, whitewater, and sea or touring kayaks. Include how length, width, stability, and rocker are involved in the design of each type.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -183,6 +238,11 @@
         {
           "id": "8954",
           "label": "c",
+          "text": "Explain the care, maintenance, and storage of a kayak.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -197,6 +257,11 @@
     {
       "id": "8956",
       "label": "5",
+      "text": "Discuss the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -208,6 +273,11 @@
         {
           "id": "8957",
           "label": "a",
+          "text": "Correct methods for the use of a kayak paddle",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -220,6 +290,11 @@
         {
           "id": "8983",
           "label": "b",
+          "text": "Parts of a paddle",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -232,6 +307,11 @@
         {
           "id": "8958",
           "label": "c",
+          "text": "The care and maintenance of a paddle",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -246,6 +326,11 @@
     {
       "id": "8959",
       "label": "6",
+      "text": "Using a properly equipped kayak with an open cockpit, a sit-on-top, or an inflatable kayak, do the following:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -257,6 +342,11 @@
         {
           "id": "8960",
           "label": "a",
+          "text": "Safely capsize and perform a wet exit.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -269,6 +359,11 @@
         {
           "id": "8961",
           "label": "b",
+          "text": "Reenter the kayak with assistance from a buddy boat.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -281,6 +376,11 @@
         {
           "id": "8962",
           "label": "c",
+          "text": "Demonstrate a kayak-over-kayak rescue.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -293,6 +393,11 @@
         {
           "id": "8963",
           "label": "d",
+          "text": "Demonstrate the HELP position.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -305,6 +410,11 @@
         {
           "id": "8964",
           "label": "e",
+          "text": "Capsize the kayak, swim it and the paddle to shore, and empty water from the kayak with assistance if needed.",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -319,6 +429,11 @@
     {
       "id": "8965",
       "label": "7",
+      "text": "As a solo paddler, use a properly equipped kayak to demonstrate the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -330,6 +445,11 @@
         {
           "id": "8966",
           "label": "a",
+          "text": "Forward stroke",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -342,6 +462,11 @@
         {
           "id": "8967",
           "label": "b",
+          "text": "Backstroke",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -354,6 +479,11 @@
         {
           "id": "8968",
           "label": "c",
+          "text": "Forward sweep",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -366,6 +496,11 @@
         {
           "id": "8969",
           "label": "d",
+          "text": "Reverse sweep",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -378,6 +513,11 @@
         {
           "id": "8970",
           "label": "e",
+          "text": "Draw stroke",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -390,6 +530,11 @@
         {
           "id": "8971",
           "label": "f",
+          "text": "Stern draw",
+          "requirement_path": "7.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -404,6 +549,11 @@
     {
       "id": "8972",
       "label": "8",
+      "text": "As a solo paddler, use a properly equipped kayak to demonstrate the following:",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -415,6 +565,11 @@
         {
           "id": "8973",
           "label": "a",
+          "text": "Paddle a straight line for 15 to 20 boat lengths using appropriate strokes while maintaining trim and balance of the kayak.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -427,6 +582,11 @@
         {
           "id": "8974",
           "label": "b",
+          "text": "Spin or pivot from a stationary position 180 degrees (half circle) to the right and left within two boat lengths.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -439,6 +599,11 @@
         {
           "id": "8975",
           "label": "c",
+          "text": "Move abeam to the right 10 feet and to the left 10 feet.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -451,6 +616,11 @@
         {
           "id": "8976",
           "label": "d",
+          "text": "Stop the boat in one boat length.",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -463,6 +633,11 @@
         {
           "id": "8977",
           "label": "e",
+          "text": "While maintaining forward motion, turn the kayak 90 degrees to the right and left.",
+          "requirement_path": "8.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -475,6 +650,11 @@
         {
           "id": "8984",
           "label": "f",
+          "text": "Move the kayak backward three to four boat lengths using appropriate and effective reverse strokes.",
+          "requirement_path": "8.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -487,6 +667,11 @@
         {
           "id": "8985",
           "label": "g",
+          "text": "Paddle the kayak in a buoyed figure 8 course around markers three to four boat lengths apart.",
+          "requirement_path": "8.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

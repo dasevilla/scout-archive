@@ -14,6 +14,11 @@
     {
       "id": "16010",
       "label": "1",
+      "text": "Tell the purpose of space exploration and include the following:",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "16011",
           "label": "a",
+          "text": "Historical reasons",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -50,6 +60,11 @@
         {
           "id": "16012",
           "label": "b",
+          "text": "Immediate goals in terms of specific knowledge",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -62,6 +77,11 @@
         {
           "id": "16013",
           "label": "c",
+          "text": "Benefits related to Earth resources, technology, and new products",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -87,6 +107,11 @@
         {
           "id": "16014",
           "label": "d",
+          "text": "International relations and cooperation",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -106,6 +131,11 @@
     {
       "id": "16042",
       "label": "2",
+      "text": "Design a collector's card, with a picture on the front and information on the back, about your favorite space pioneer. Share your card and discuss four other space pioneers with your counselor.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -127,6 +157,11 @@
     {
       "id": "16015",
       "label": "3",
+      "text": "Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: Safety Note: Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" chapter of the Space Exploration merit badge pamphlet. Alternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.Identify and explain the following rocket parts:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -192,6 +227,11 @@
         {
           "id": "16016",
           "label": "a",
+          "text": "Body tube",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -204,6 +244,11 @@
         {
           "id": "16017",
           "label": "b",
+          "text": "Engine mount",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -216,6 +261,11 @@
         {
           "id": "16018",
           "label": "c",
+          "text": "Fins",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -228,6 +278,11 @@
         {
           "id": "16019",
           "label": "d",
+          "text": "Igniter",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -240,6 +295,11 @@
         {
           "id": "16020",
           "label": "e",
+          "text": "Launch lug",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -252,6 +312,11 @@
         {
           "id": "16021",
           "label": "f",
+          "text": "Nose cone",
+          "requirement_path": "3.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -264,6 +329,11 @@
         {
           "id": "16022",
           "label": "g",
+          "text": "Payload",
+          "requirement_path": "3.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -276,6 +346,11 @@
         {
           "id": "16023",
           "label": "h",
+          "text": "Recovery system",
+          "requirement_path": "3.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -288,6 +363,11 @@
         {
           "id": "16024",
           "label": "i",
+          "text": "Rocket engine",
+          "requirement_path": "3.i",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -302,6 +382,11 @@
     {
       "id": "16025",
       "label": "4",
+      "text": "Discuss and demonstrate each of the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -318,6 +403,11 @@
         {
           "id": "16026",
           "label": "a",
+          "text": "The law of action-reaction",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -335,6 +425,11 @@
         {
           "id": "16027",
           "label": "b",
+          "text": "How rocket engines work",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -360,6 +455,11 @@
         {
           "id": "16028",
           "label": "c",
+          "text": "How satellites stay in orbit",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -377,6 +477,11 @@
         {
           "id": "16029",
           "label": "d",
+          "text": "How satellite pictures of Earth and pictures of other planets are made and transmitted",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -391,6 +496,11 @@
     {
       "id": "16030",
       "label": "5",
+      "text": "Do TWO of the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -402,6 +512,11 @@
         {
           "id": "16031",
           "label": "a",
+          "text": "Discuss with your counselor a robotic space exploration mission and a historic crewed mission. Tell about each mission's major discoveries, its importance, and what was learned from it about the planets, moons, or regions of space explored.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -431,6 +546,11 @@
         {
           "id": "16032",
           "label": "b",
+          "text": "Using articles from the internet, photographs and text, create a blog, website, or slide show about a current planetary mission or use magazine photographs, news clippings, and articles from the internet to make a scrapbook about a current planetary mission.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -443,6 +563,11 @@
         {
           "id": "16033",
           "label": "c",
+          "text": "Design a robotic mission to another planet, moon, comet, or asteroid that will return samples of its surface to Earth. Name the planet, moon, comet, or asteroid your spacecraft will visit. Show how your design will cope with the conditions of the environments of the planet, moon, comet, or asteroid.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -457,6 +582,11 @@
     {
       "id": "16034",
       "label": "6",
+      "text": "Describe the purpose, operation, and components of ONE of the following:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -468,6 +598,11 @@
         {
           "id": "16035",
           "label": "a",
+          "text": "Space shuttle or any other crewed orbital vehicle, whether government-owned (U.S. or foreign) or commercial",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -497,6 +632,11 @@
         {
           "id": "16036",
           "label": "b",
+          "text": "International Space Station",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -520,6 +660,11 @@
     {
       "id": "16037",
       "label": "7",
+      "text": "Design an inhabited base located within our solar system, such as Titan, asteroids, or other locations that humans might want to explore in person. Make drawings or a model of your base. In your design, consider and plan for the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -536,6 +681,11 @@
         {
           "id": "16038",
           "label": "a",
+          "text": "Source of energy",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -553,6 +703,11 @@
         {
           "id": "16039",
           "label": "b",
+          "text": "How it will be constructed",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -570,6 +725,11 @@
         {
           "id": "16040",
           "label": "c",
+          "text": "Life-support system",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -587,6 +747,11 @@
         {
           "id": "16041",
           "label": "d",
+          "text": "Purpose and function",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -606,6 +771,11 @@
     {
       "id": "16043",
       "label": "8",
+      "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

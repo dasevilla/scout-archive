@@ -14,6 +14,11 @@
     {
       "id": "2531",
       "label": "1",
+      "text": "Do ONE of the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "2532",
           "label": "a",
+          "text": "Show that you have had an average grade of B or higher (80 percent or higher) for one term or semester.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "2535",
           "label": "b",
+          "text": "Show that for one term or semester you have improved your school grades over the previous period.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +76,11 @@
     {
       "id": "2536",
       "label": "2",
+      "text": "Do TWO of the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -72,6 +92,11 @@
         {
           "id": "2537",
           "label": "a",
+          "text": "Make a list of educational places located where you live (other than schools). Visit one, and report on how you used the place for self-education.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -89,6 +114,11 @@
         {
           "id": "2538",
           "label": "b",
+          "text": "With your counselor's and your parent or guardian's approval, interview two professionals (other than teachers or other professionals at your school) with established careers. Find out where they were educated, what training they received, and how their education and training have helped prepare them for the career they have chosen. Find out how they continue to educate themselves. Discuss what you find out with your counselor.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -106,6 +136,11 @@
         {
           "id": "2539",
           "label": "c",
+          "text": "Using a daily planner, show your counselor how you keep track of assignments and activities, and discuss how you manage your time.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -127,6 +162,11 @@
         {
           "id": "2541",
           "label": "d",
+          "text": "Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the internet.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -150,6 +190,11 @@
     {
       "id": "2543",
       "label": "3",
+      "text": "Get a note from the principal of your school (or another school official named by the principal) that states that during the past year your behavior, leadership, and service have been satisfactory.\nNote: If you are home-schooled or your school environment does not include a principal, you may obtain a note from a counterpart such as your parent or guardian.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -189,6 +234,11 @@
     {
       "id": "2544",
       "label": "4",
+      "text": "Do ONE of the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -200,6 +250,11 @@
         {
           "id": "2545",
           "label": "a",
+          "text": "Show that you have taken part in an extracurricular school activity, and discuss with your counselor the benefits of participation and what you learned about the importance of teamwork.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -217,6 +272,11 @@
         {
           "id": "2546",
           "label": "b",
+          "text": "Discuss your participation in a school project during the past semester where you were a part of a team. Tell about the positive contributions you made to the team and the project.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -240,6 +300,11 @@
     {
       "id": "2547",
       "label": "5",
+      "text": "Do ONE of the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -251,6 +316,11 @@
         {
           "id": "2548",
           "label": "a",
+          "text": "Write a report of 250 to 300 words about how the education you receive in school will be of value to you in the future and how you will continue to educate yourself in the future.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -268,6 +338,11 @@
         {
           "id": "2549",
           "label": "b",
+          "text": "Write a report of 250 to 300 words about two careers that interest you and how specific classes and good scholarship in general will help you achieve your career goals.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

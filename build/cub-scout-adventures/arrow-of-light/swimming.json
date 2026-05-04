@@ -11,6 +11,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Explain the meaning of “order of rescue” and demonstrate the reach and throw rescue techniques from land.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explain the meaning of “order of rescue” and demonstrate the reach and throw rescue techniques from land.",
       "activities": [
         {
           "name": "Order of Rescue AOL",
@@ -35,6 +39,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Attempt Scouting America swimmer test.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Attempt Scouting America swimmer test.",
       "activities": [
         {
           "name": "Scouting America Swimmer Test AOL",
@@ -59,6 +67,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Have 30 minutes or more of free swim time during which you practice the buddy system and stay within your ability group. The qualified adult supervision should conduct at least three buddy checks per half hour of swimming.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Have 30 minutes or more of free swim time during which you practice the buddy system and stay within your ability group. The qualified adult supervision should conduct at least three buddy checks per half hour of swimming.",
       "activities": [
         {
           "name": "Go Swimming AOL",

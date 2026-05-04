@@ -14,6 +14,11 @@
     {
       "id": "14046",
       "label": null,
+      "text": "NOTE: Scouts should obey all local fishing regulations and property laws.",
+      "requirement_path": "item-1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -33,6 +38,11 @@
     {
       "id": "9543",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -44,6 +54,11 @@
         {
           "id": "9544",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while participating in fishing activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -65,6 +80,11 @@
         {
           "id": "9545",
           "label": "b",
+          "text": "Discuss the prevention of and treatment for the following health concerns that could occur while fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, and sunburn.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -106,6 +126,11 @@
         {
           "id": "9546",
           "label": "c",
+          "text": "Explain how to remove a barbed hook that is lodged in someone's arm.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -123,6 +148,11 @@
         {
           "id": "9547",
           "label": "d",
+          "text": "Name and explain five safety practices you should always follow while fishing.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -142,6 +172,11 @@
     {
       "id": "9552",
       "label": "2",
+      "text": "Discuss the differences between two types of fishing outfits. Point out and identify the parts of several types of rods and reels. Explain how and when each would be used. Review with your counselor how to care for this equipment.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -163,6 +198,11 @@
     {
       "id": "9553",
       "label": "3",
+      "text": "Demonstrate the proper use of two different types of fishing equipment.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -188,6 +228,11 @@
     {
       "id": "9554",
       "label": "4",
+      "text": "Demonstrate how to tie the following knots: improved clinch knot, Palomar knot, uni knot, uni to uni knot, and arbor knot. Explain how and when each knot is used.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -225,6 +270,11 @@
     {
       "id": "9555",
       "label": "5",
+      "text": "Name and identify five basic artificial lures and five natural baits and explain how to fish with them. Explain why baitfish are not to be released.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -258,6 +308,11 @@
     {
       "id": "9548",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -269,6 +324,11 @@
         {
           "id": "9549",
           "label": "a",
+          "text": "Explain the importance of practicing Leave No Trace Seven Principles and the Outdoor Code. Discuss the positive effects of Leave No Trace Seven Principle and the Outdoor Code on fishing resources.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -290,6 +350,11 @@
         {
           "id": "9550",
           "label": "b",
+          "text": "Discuss the meaning and importance of catch and release. Describe how to properly release a fish safely to the water.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -313,6 +378,11 @@
     {
       "id": "9556",
       "label": "7",
+      "text": "Obtain and review the regulations affecting gamefishing where you live. Explain why they were adopted and what is accomplished by following them.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -330,6 +400,11 @@
     {
       "id": "9557",
       "label": "8",
+      "text": "Explain what good outdoor sportsmanlike behavior is and how it relates to anglers. Tell how the Leave No Trace Seven Principles and the Outdoor Code relate to a fishing sports enthusiast, including the aspects of littering, trespassing, courteous behavior, and obeying fishing regulations.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -347,6 +422,11 @@
     {
       "id": "9558",
       "label": "9",
+      "text": "Catch one fish and identify it.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -372,6 +452,11 @@
     {
       "id": "9551",
       "label": "10",
+      "text": "If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. Note: It is not required that you eat the fish.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

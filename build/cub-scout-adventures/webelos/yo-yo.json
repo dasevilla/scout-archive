@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Learn the safety rules of using a yo-yo and always follow them.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn the safety rules of using a yo-yo and always follow them.",
       "activities": [
         {
           "name": "Yo… Yo… Be Safe",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Discover how to find the proper yo-yo string length for you.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover how to find the proper yo-yo string length for you.",
       "activities": [
         {
           "name": "Aye String",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Explain why it is important to have the correct string length and to be in the right location before throwing a yo-yo.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explain why it is important to have the correct string length and to be in the right location before throwing a yo-yo.",
       "activities": [
         {
           "name": "Right Length",
@@ -83,6 +95,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Demonstrate how to properly string a yo-yo and how to create a slip knot.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -91,7 +108,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how to properly string a yo-yo and how to create a slip knot.",
       "activities": [
         {
           "name": "Oh Knots",
@@ -107,6 +123,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Conduct the pendulum experiment with a yo-yo. Explain what happens to the yo-yo when the string is longer.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -115,7 +136,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Conduct the pendulum experiment with a yo-yo. Explain what happens to the yo-yo when the string is longer.",
       "activities": [
         {
           "name": "Swinging",
@@ -131,6 +151,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Show that you can properly wind a yo-yo.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -139,7 +164,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Show that you can properly wind a yo-yo.",
       "activities": [
         {
           "name": "All Wound Up",
@@ -155,6 +179,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Attempt each of the following: gravity pull, sleeper, breakaway.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -163,7 +192,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Attempt each of the following: gravity pull, sleeper, breakaway.",
       "activities": [
         {
           "name": "Yo-Yo Ninja",

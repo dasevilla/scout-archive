@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Sample 3 different foods that are naturally 3 different colors. The food must be a protein, vegetable, fruit, dairy, or a grain.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Sample 3 different foods that are naturally 3 different colors. The food must be a protein, vegetable, fruit, dairy, or a grain.",
       "activities": [
         {
           "name": "Colorful Snack Plate Challenge",
@@ -62,6 +66,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Demonstrate the proper way to brush your teeth.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -70,7 +79,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate the proper way to brush your teeth.",
       "activities": [
         {
           "name": "A Giant’s Toothbrush",
@@ -104,6 +112,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Be active for 30 minutes with your den or at least 1 other person that includes both stretching and moving.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -112,7 +125,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Be active for 30 minutes with your den or at least 1 other person that includes both stretching and moving.",
       "activities": [
         {
           "name": "Kickball",
@@ -146,6 +158,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Be active for 10 minutes doing personal exercises.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -154,7 +171,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Be active for 10 minutes doing personal exercises.",
       "activities": [
         {
           "name": "Chat with a Personal Trainer",
@@ -188,6 +204,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Do a relaxing activity for 10 minutes.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -196,7 +217,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Do a relaxing activity for 10 minutes.",
       "activities": [
         {
           "name": "Listen to Music",
@@ -221,6 +241,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Review your Scouting America Annual Health and Medical record with your parent or guardian. Discuss your ability to participate in den and pack activities.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -229,7 +254,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Review your Scouting America Annual Health and Medical record with your parent or guardian. Discuss your ability to participate in den and pack activities.",
       "activities": [
         {
           "name": "Scouting America Annual Health and Medical Record Wolf",

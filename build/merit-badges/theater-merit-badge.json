@@ -14,6 +14,11 @@
     {
       "id": "9796",
       "label": "1",
+      "text": "See or read three full-length plays. Write a review of each. Discuss with your counselor the plot or story. If you chose to watch the plays, comment on the acting and the staging. Note: Watching plays on television, video, or as a movie is not permitted.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -46,6 +51,11 @@
     {
       "id": "9797",
       "label": "2",
+      "text": "Write a one-act play that will take at least 10 minutes to perform. The play must have a main character, conflict, and a climax.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -63,6 +73,11 @@
     {
       "id": "9779",
       "label": "3",
+      "text": "Discuss with your counselor the safety precautions that should be practiced when working in a theater to protect the cast and crew. Then do THREE of the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -79,6 +94,11 @@
         {
           "id": "9780",
           "label": "a",
+          "text": "Act a major part in a full-length play; or act a part in three one-act plays.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -91,6 +111,11 @@
         {
           "id": "9781",
           "label": "b",
+          "text": "Direct a play. Cast, rehearse, and stage it. The play must be at least 10 minutes long.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -103,6 +128,11 @@
         {
           "id": "9782",
           "label": "c",
+          "text": "Design the set for a play or a theatrical production. Make a model of it.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -115,6 +145,11 @@
         {
           "id": "9783",
           "label": "d",
+          "text": "Design the costumes for five characters in a theatrical production set in a historical time.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -127,6 +162,11 @@
         {
           "id": "9784",
           "label": "e",
+          "text": "Show skill in hair and makeup design. Make up yourself or a friend as a historical figure, a clown, an extraterrestrial, or a monster as directed.",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -139,6 +179,11 @@
         {
           "id": "9785",
           "label": "f",
+          "text": "With your counselor's approval, help with the building and painting of the scenery for a theatrical production.",
+          "requirement_path": "3.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -151,6 +196,11 @@
         {
           "id": "9786",
           "label": "g",
+          "text": "With your counselor's approval, design the lighting for a play; or help install, focus, color, program, and operate the lighting for a theatrical production.",
+          "requirement_path": "3.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -163,6 +213,11 @@
         {
           "id": "9787",
           "label": "h",
+          "text": "With your counselor's approval, help install, focus, equalize, program, and operate the sound for a theatrical production.",
+          "requirement_path": "3.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -175,6 +230,11 @@
         {
           "id": "9788",
           "label": "i",
+          "text": "Serve as the stage manager for a theatrical production. Document all cues and stage setups in your calling script.",
+          "requirement_path": "3.i",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -187,6 +247,11 @@
         {
           "id": "9799",
           "label": "j",
+          "text": "Serve as musical director for a musical theater production.",
+          "requirement_path": "3.j",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -201,6 +266,11 @@
     {
       "id": "9789",
       "label": "4",
+      "text": "Mime or pantomime any ONE of the following, chosen by your counselor.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -217,6 +287,11 @@
         {
           "id": "9790",
           "label": "a",
+          "text": "You have come into a large room. It is full of pictures, furniture, and other things of interest.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -229,6 +304,11 @@
         {
           "id": "9791",
           "label": "b",
+          "text": "As you are getting on a bus, your books fall into a puddle. By the time you pick them up, the bus has driven off.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -241,6 +321,11 @@
         {
           "id": "9792",
           "label": "c",
+          "text": "You have failed a school test. You are talking with your teacher, who does not buy your story.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -253,6 +338,11 @@
         {
           "id": "9793",
           "label": "d",
+          "text": "You are at camp with a new Scout. You try to help them pass a cooking test. The Scout learns very slowly.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -265,6 +355,11 @@
         {
           "id": "9794",
           "label": "e",
+          "text": "You are at a banquet. The meat is good. You don't like the vegetable. The dessert is ice cream.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -277,6 +372,11 @@
         {
           "id": "9795",
           "label": "f",
+          "text": "You are a circus performer such as a juggler, high-wire artist, or lion tamer doing a routine.",
+          "requirement_path": "4.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -291,6 +391,11 @@
     {
       "id": "9798",
       "label": "5",
+      "text": "Explain the following: proscenium arch, central or arena staging, center stage, stage right, stage left, downstage, upstage, stage crew, flies, portal, cyclorama, stage brace, spotlight, floodlight, lighting control board, sound mixing desk, thrust staging, ground plans, and sightlines.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

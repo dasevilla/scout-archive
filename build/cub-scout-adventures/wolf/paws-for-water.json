@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Learn about the swimming safety rules that you need to follow.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the swimming safety rules that you need to follow.",
       "activities": [
         {
           "name": "Rules Relay",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Demonstrate how to enter the swimming area properly.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how to enter the swimming area properly.",
       "activities": [
         {
           "name": "Swim Area Safety",
@@ -77,6 +85,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Using the buddy system and staying within your ability group, go swimming with your den or family for 30 minutes.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Using the buddy system and staying within your ability group, go swimming with your den or family for 30 minutes.",
       "activities": [
         {
           "name": "Go Swimming",
@@ -101,6 +113,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Attempt at least one swimming stroke: front crawl, restful backstroke, or breaststroke.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -109,7 +126,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Attempt at least one swimming stroke: front crawl, restful backstroke, or breaststroke.",
       "activities": [
         {
           "name": "Swimming Form",
@@ -125,6 +141,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Jump feet first into water that is chest high or deeper.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -133,7 +154,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Jump feet first into water that is chest high or deeper.",
       "activities": [
         {
           "name": "Jump On In",
@@ -149,6 +169,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Demonstrate how to exit the swimming area properly.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -157,7 +182,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how to exit the swimming area properly.",
       "activities": [
         {
           "name": "Getting Out of the Pool",

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Identify a community service project that your patrol or pack could accomplish. Use Scouting America’s SAFE Checklist and develop a plan to conduct the service project safely.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify a community service project that your patrol or pack could accomplish. Use Scouting America’s SAFE Checklist and develop a plan to conduct the service project safely.",
       "activities": [
         {
           "name": "Service Project Planning",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Participate in a service project for a minimum of two hours or multiple service projects for a total of two hours.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Participate in a service project for a minimum of two hours or multiple service projects for a total of two hours.",
       "activities": [
         {
           "name": "10,000 for the Troops – Arrow of Light",

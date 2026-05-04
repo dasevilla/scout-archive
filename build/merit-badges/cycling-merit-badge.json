@@ -14,6 +14,11 @@
     {
       "id": "14461",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -30,6 +35,11 @@
         {
           "id": "14462",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while participating in cycling activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -47,6 +57,11 @@
         {
           "id": "14463",
           "label": "b",
+          "text": "Show that you know first aid for injuries or illnesses that could occur while cycling, including cuts, scratches, concussions, blisters, sunburn, heat exhaustion, heatstroke, hypothermia, frostbite, dehydration, insect stings, tick bites, and snakebite. Explain to your counselor why you should be able to identify the poisonous plants and poisonous animals that are found in your area.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -66,6 +81,11 @@
     {
       "id": "14496",
       "label": "2",
+      "text": "Describe your state and local laws concerning bicycles. Discuss what is the same and what is different from laws applying to motor vehicles. Explain where and how you should ride on roads and streets to include lane position, changing lanes, making left and right turns, and riding through intersections.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -87,6 +107,11 @@
     {
       "id": "14497",
       "label": "3",
+      "text": "Explain the importance of wearing the right clothing and gear while cycling, including a properly sized and fitted helmet. Know the Scouting America Bike Safety Guidelines.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -119,6 +144,11 @@
     {
       "id": "14465",
       "label": "4",
+      "text": "Using a bicycle safety checklist, clean and adjust a bicycle and present it to your counselor for inspection. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -143,6 +173,11 @@
         {
           "id": "14466",
           "label": "a",
+          "text": "Show points that should be checked regularly to make sure the bicycle is safe to ride.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -160,6 +195,11 @@
         {
           "id": "14467",
           "label": "b",
+          "text": "Show how to adjust the saddle and handlebars for a proper fit.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -181,6 +221,11 @@
         {
           "id": "14468",
           "label": "c",
+          "text": "Show how to adjust brakes and gear shifting (derailleurs).",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -198,6 +243,11 @@
         {
           "id": "14469",
           "label": "d",
+          "text": "Show all points that need regular lubrication.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -210,6 +260,11 @@
         {
           "id": "14470",
           "label": "e",
+          "text": "Show how to repair a flat by removing the tire, replacing or patching the tube, and remounting the tire.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -231,6 +286,11 @@
         {
           "id": "14471",
           "label": "f",
+          "text": "Show that the bicycle meets local laws.",
+          "requirement_path": "4.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -250,6 +310,11 @@
     {
       "id": "14498",
       "label": "5",
+      "text": "Demonstrate basic bicycle handling skills to your counselor, to include how to properly mount your bicycle, starting and stopping (to include emergency stops), riding in a straight line, turning, shifting gears, scanning, and signaling.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -275,6 +340,11 @@
     {
       "id": "14472",
       "label": "6",
+      "text": "Using the Scouting America buddy system, complete all of the requirements for ONE of the following options: Road Biking OR Trail or Mixed Surface Biking.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -291,6 +361,11 @@
         {
           "id": "14473",
           "label": null,
+          "text": "A Option A—Road Biking. Do ALL of the following:",
+          "requirement_path": "6.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -323,6 +398,11 @@
         {
           "id": "14474",
           "label": "1",
+          "text": "Take a road safety test with your counselor and demonstrate the following:",
+          "requirement_path": "6.1",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -330,100 +410,131 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14475",
-          "label": "a",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "On an urban street with light traffic, properly execute a left turn from the center of the street; also demonstrate an alternate left-turn technique used during periods of heavy traffic."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Bike Safety | Hand Signals (video)",
-              "url": "https://www.youtube.com/watch?v=v_hRsNHlq8M%20"
+              "id": "14475",
+              "label": "a",
+              "text": "On an urban street with light traffic, properly execute a left turn from the center of the street; also demonstrate an alternate left-turn technique used during periods of heavy traffic.",
+              "requirement_path": "6.1.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "On an urban street with light traffic, properly execute a left turn from the center of the street; also demonstrate an alternate left-turn technique used during periods of heavy traffic."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Bike Safety | Hand Signals (video)",
+                  "url": "https://www.youtube.com/watch?v=v_hRsNHlq8M%20"
+                },
+                {
+                  "title": "Bike Hand Signals (PDF)",
+                  "url": "https://static.nhtsa.gov/nhtsa/downloads/NTI/Responsible_Walk-Bike_Activities/ComboLessons/L3Handouts/8009_HandSignals_122811_v1a.pdf"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Bike Hand Signals (PDF)",
-              "url": "https://static.nhtsa.gov/nhtsa/downloads/NTI/Responsible_Walk-Bike_Activities/ComboLessons/L3Handouts/8009_HandSignals_122811_v1a.pdf"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14476",
-          "label": "b",
-          "content": [
+              "id": "14476",
+              "label": "b",
+              "text": "Properly execute a right turn.",
+              "requirement_path": "6.1.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Properly execute a right turn."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Bike Safety | Hand Signals (video)",
+                  "url": "https://www.youtube.com/watch?v=v_hRsNHlq8M"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Properly execute a right turn."
-            }
-          ],
-          "resources": [
+              "id": "14477",
+              "label": "c",
+              "text": "Demonstrate appropriate actions at a right-turn-only lane when you are continuing straight.",
+              "requirement_path": "6.1.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate appropriate actions at a right-turn-only lane when you are continuing straight."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Bike Safety | Hand Signals (video)",
+                  "url": "https://www.youtube.com/watch?v=v_hRsNHlq8M"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Bike Safety | Hand Signals (video)",
-              "url": "https://www.youtube.com/watch?v=v_hRsNHlq8M"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14477",
-          "label": "c",
-          "content": [
+              "id": "14478",
+              "label": "d",
+              "text": "Show proper curbside and road-edge riding. Show how to ride safely along a row of parked cars.",
+              "requirement_path": "6.1.d",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show proper curbside and road-edge riding. Show how to ride safely along a row of parked cars."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Bike Safety | Hand Signals (video)",
+                  "url": "https://www.youtube.com/watch?v=v_hRsNHlq8M"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Demonstrate appropriate actions at a right-turn-only lane when you are continuing straight."
+              "id": "14479",
+              "label": "e",
+              "text": "Cross railroad tracks properly.",
+              "requirement_path": "6.1.e",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Cross railroad tracks properly."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Cross Railroad Tracks (video)",
+                  "url": "https://www.youtube.com/watch?v=62jc3-6Jgdw%20"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "resources": [
-            {
-              "title": "Bike Safety | Hand Signals (video)",
-              "url": "https://www.youtube.com/watch?v=v_hRsNHlq8M"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14478",
-          "label": "d",
-          "content": [
-            {
-              "type": "text",
-              "value": "Show proper curbside and road-edge riding. Show how to ride safely along a row of parked cars."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Bike Safety | Hand Signals (video)",
-              "url": "https://www.youtube.com/watch?v=v_hRsNHlq8M"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14479",
-          "label": "e",
-          "content": [
-            {
-              "type": "text",
-              "value": "Cross railroad tracks properly."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Cross Railroad Tracks (video)",
-              "url": "https://www.youtube.com/watch?v=62jc3-6Jgdw%20"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14483",
           "label": "2",
+          "text": "Avoiding main highways, take two rides of 10 miles each, two rides of 15 miles each, and two rides of 25 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen on the ride.",
+          "requirement_path": "6.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -445,6 +556,11 @@
         {
           "id": "14480",
           "label": "3",
+          "text": "After completing requirement (2) for the road biking option, do ONE of the following:",
+          "requirement_path": "6.3",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -452,45 +568,61 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14481",
-          "label": "a",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Lay out on a road map a 50-mile trip. Stay away from main highways. Using your map, make this ride in eight hours or less."
-            }
-          ],
-          "resources": [
+              "id": "14481",
+              "label": "a",
+              "text": "Lay out on a road map a 50-mile trip. Stay away from main highways. Using your map, make this ride in eight hours or less.",
+              "requirement_path": "6.3.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Lay out on a road map a 50-mile trip. Stay away from main highways. Using your map, make this ride in eight hours or less."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "MapMyRide (website)",
+                  "url": "https://www.mapmyride.com/"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "MapMyRide (website)",
-              "url": "https://www.mapmyride.com/"
+              "id": "14482",
+              "label": "b",
+              "text": "Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours or less. Afterward, use the tour's cue sheet to make a map of the ride.",
+              "requirement_path": "6.3.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours or less. Afterward, use the tour's cue sheet to make a map of the ride."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Cue Sheets (website)",
+                  "url": "https://lifeisabeautifuldetail.com/blog/cue-sheets"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14482",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours or less. Afterward, use the tour's cue sheet to make a map of the ride."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Cue Sheets (website)",
-              "url": "https://lifeisabeautifuldetail.com/blog/cue-sheets"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14484",
           "label": null,
+          "text": "B Option B—Trail or Mixed Surface Biking Do ALL of the following:\n\nNote: These requirements may be completed using a mountain bike or other properly equipped, manually-powered cycle such as a gravel bike, tandem bike, hand-powered bike, recumbent bike, adult tricycle, or adaptive cycle. If a tandem bike is used, the Scout must actively power the cycle in concert with the other rider.",
+          "requirement_path": "6.item-5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -549,6 +681,11 @@
         {
           "id": "14485",
           "label": "1",
+          "text": "Demonstrate the following mountain bike handling skills to your counselor:",
+          "requirement_path": "6.1-2",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -556,78 +693,99 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14486",
-          "label": "a",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering"
-            }
-          ],
-          "resources": [
-            {
-              "title": "The Basics of Cornering: Berms and Flat Corners (video)",
-              "url": "https://youtu.be/UCWu6zXDjXM?si=akxjbkFYRrChevnX"
+              "id": "14486",
+              "label": "a",
+              "text": "Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering",
+              "requirement_path": "6.1-2.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "The Basics of Cornering: Berms and Flat Corners (video)",
+                  "url": "https://youtu.be/UCWu6zXDjXM?si=akxjbkFYRrChevnX"
+                },
+                {
+                  "title": "Advanced MTB Cornering Techniques: Body Position & Technical Terrain (video)",
+                  "url": "https://www.youtube.com/watch?v=Ammz64zxnhg%20"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Advanced MTB Cornering Techniques: Body Position & Technical Terrain (video)",
-              "url": "https://www.youtube.com/watch?v=Ammz64zxnhg%20"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14487",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Show shifting skills as applicable to climbs and obstacles."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Shifting Skills for Mountain Biking (video)",
-              "url": "https://youtu.be/IxxoU-s-Lws"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14488",
-          "label": "c",
-          "content": [
-            {
-              "type": "text",
-              "value": "Show proper technique for riding up and down hills, including when you would ride seated, crouched, or standing."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Make Climbing Easier With Proper Body Position (video)",
-              "url": "https://youtu.be/aDwqM_ZVSUg?si=5RolaSMGLshbWZzS"
+              "id": "14487",
+              "label": "b",
+              "text": "Show shifting skills as applicable to climbs and obstacles.",
+              "requirement_path": "6.1-2.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show shifting skills as applicable to climbs and obstacles."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Shifting Skills for Mountain Biking (video)",
+                  "url": "https://youtu.be/IxxoU-s-Lws"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Steep & Technical Climbs Made Easy With Proper Gearing & Choice of Line (video)",
-              "url": "https://youtu.be/Rd-wFxmXmsM"
-            },
-            {
-              "title": "How to Climb Any Hill on Your Mountain Bike (video)",
-              "url": "https://youtu.be/4knf7exmrAQ?si=SAiTb_g_6TGj9JbW"
-            },
-            {
-              "title": "Don't Make These Common Climbing Mistakes (video)",
-              "url": "https://youtu.be/k6ewOO9rXXY"
+              "id": "14488",
+              "label": "c",
+              "text": "Show proper technique for riding up and down hills, including when you would ride seated, crouched, or standing.",
+              "requirement_path": "6.1-2.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show proper technique for riding up and down hills, including when you would ride seated, crouched, or standing."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Make Climbing Easier With Proper Body Position (video)",
+                  "url": "https://youtu.be/aDwqM_ZVSUg?si=5RolaSMGLshbWZzS"
+                },
+                {
+                  "title": "Steep & Technical Climbs Made Easy With Proper Gearing & Choice of Line (video)",
+                  "url": "https://youtu.be/Rd-wFxmXmsM"
+                },
+                {
+                  "title": "How to Climb Any Hill on Your Mountain Bike (video)",
+                  "url": "https://youtu.be/4knf7exmrAQ?si=SAiTb_g_6TGj9JbW"
+                },
+                {
+                  "title": "Don't Make These Common Climbing Mistakes (video)",
+                  "url": "https://youtu.be/k6ewOO9rXXY"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14489",
           "label": "2",
+          "text": "Take a trail safety test with your counselor and demonstrate the following:",
+          "requirement_path": "6.2-2",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -635,70 +793,91 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14490",
-          "label": "a",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Show proper trail etiquette to hikers and other cyclists, including when to yield the right-of-way."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Bike Trail Etiquette (video)",
-              "url": "https://youtu.be/gwYBL2zPYXQ"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14491",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate how to correctly cross an obstacle by either going over the obstacle on your bike or dismounting your bike and crossing over or around the obstacle"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Jump a Log on a Mountain Bike (video)",
-              "url": "https://www.youtube.com/watch?v=Hp_jDNN6XfQ"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14492",
-          "label": "c",
-          "content": [
-            {
-              "type": "text",
-              "value": "Cross rocks, gravel, and roots properly"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Navigate Rock Gardens (video)",
-              "url": "https://youtu.be/arh94o3Qm4Y"
+              "id": "14490",
+              "label": "a",
+              "text": "Show proper trail etiquette to hikers and other cyclists, including when to yield the right-of-way.",
+              "requirement_path": "6.2-2.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show proper trail etiquette to hikers and other cyclists, including when to yield the right-of-way."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Bike Trail Etiquette (video)",
+                  "url": "https://youtu.be/gwYBL2zPYXQ"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Ride Roots (video)",
-              "url": "https://youtu.be/0CQesh_kN6k?si=74wVP05bl6ylKk8Y"
+              "id": "14491",
+              "label": "b",
+              "text": "Demonstrate how to correctly cross an obstacle by either going over the obstacle on your bike or dismounting your bike and crossing over or around the obstacle",
+              "requirement_path": "6.2-2.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate how to correctly cross an obstacle by either going over the obstacle on your bike or dismounting your bike and crossing over or around the obstacle"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Jump a Log on a Mountain Bike (video)",
+                  "url": "https://www.youtube.com/watch?v=Hp_jDNN6XfQ"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Ride Loose Gravel (video)",
-              "url": "https://youtu.be/tpLCJLLPTEU?si=JbHCyrG-Md-Q4VIU"
+              "id": "14492",
+              "label": "c",
+              "text": "Cross rocks, gravel, and roots properly",
+              "requirement_path": "6.2-2.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Cross rocks, gravel, and roots properly"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Navigate Rock Gardens (video)",
+                  "url": "https://youtu.be/arh94o3Qm4Y"
+                },
+                {
+                  "title": "How to Ride Roots (video)",
+                  "url": "https://youtu.be/0CQesh_kN6k?si=74wVP05bl6ylKk8Y"
+                },
+                {
+                  "title": "How to Ride Loose Gravel (video)",
+                  "url": "https://youtu.be/tpLCJLLPTEU?si=JbHCyrG-Md-Q4VIU"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14493",
           "label": "3",
+          "text": "Describe the rules of trail riding, including how to know when a trail is unsuitable for riding.",
+          "requirement_path": "6.3-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -724,6 +903,11 @@
         {
           "id": "14494",
           "label": "4",
+          "text": "On mountain biking or multi-use trails approved by your counselor, take two rides of 2 miles each, two rides of 5 miles each, and two rides of 8 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen.",
+          "requirement_path": "6.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -741,6 +925,11 @@
         {
           "id": "14495",
           "label": "5",
+          "text": "After fulfilling the previous requirement, lay out on a trail map a 22-mile trip. You may include multiple trail systems, if needed. Stay away from main highways. Using your map, complete this ride in one day.",
+          "requirement_path": "6.5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

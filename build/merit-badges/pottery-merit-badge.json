@@ -14,6 +14,11 @@
     {
       "id": "2223",
       "label": "1",
+      "text": "Explain to your counselor the precautions that must be followed for the safe use and operation of a potter's tools, equipment, and other materials.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "2224",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "2225",
           "label": "a",
+          "text": "Explain the properties and ingredients of a good clay body for the following:",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -54,35 +69,51 @@
               "url": "https://youtu.be/d2l-Aup2QMM?si=WqEsE2JrVKcD5MIK"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "3085",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Making sculpture using the hand-building method"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "3086",
-          "label": "2",
-          "content": [
+              "id": "3085",
+              "label": "1",
+              "text": "Making sculpture using the hand-building method",
+              "requirement_path": "2.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Making sculpture using the hand-building method"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Throwing on the wheel"
+              "id": "3086",
+              "label": "2",
+              "text": "Throwing on the wheel",
+              "requirement_path": "2.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Throwing on the wheel"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "2228",
           "label": "b",
+          "text": "Tell how three different kinds of potter's wheels work.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -106,6 +137,11 @@
     {
       "id": "2229",
       "label": "3",
+      "text": "Make two drawings of pottery forms, each on an 8½-by-11-inch sheet of paper. One must be a historical pottery style. The other must be of your own design.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -123,6 +159,11 @@
     {
       "id": "2230",
       "label": "4",
+      "text": "Explain the meaning of the following pottery terms: bat, wedging, throwing, leather hard, bone dry, greenware, bisque, terra-cotta, grog, slip, score, earthenware, stoneware, porcelain, pyrometric cone, and glaze.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -144,6 +185,11 @@
     {
       "id": "2231",
       "label": "5",
+      "text": "Do the following: Each piece is to be painted, glazed, or otherwise decorated by you.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -155,6 +201,11 @@
         {
           "id": "2232",
           "label": "a",
+          "text": "Make a slab pot, a coil pot, and a pinch pot.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -180,6 +231,11 @@
         {
           "id": "2233",
           "label": "b",
+          "text": "Make a human or animal figurine or decorative sculpture.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -209,6 +265,11 @@
         {
           "id": "2234",
           "label": "c",
+          "text": "Throw a functional form on a potter's wheel.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -230,6 +291,11 @@
         {
           "id": "2235",
           "label": "d",
+          "text": "Help an experienced adult to load and fire a kiln OR describe in detail how to load and fire a kiln.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -253,6 +319,11 @@
     {
       "id": "2236",
       "label": "6",
+      "text": "Explain the scope of the ceramic industry in the United States. Tell some things made other than craft pottery.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -270,6 +341,11 @@
     {
       "id": "2237",
       "label": "7",
+      "text": "With your parent or guardian's permission and your counselor's approval, do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -281,6 +357,11 @@
         {
           "id": "2238",
           "label": "a",
+          "text": "Visit the kiln yard at a local college or other craft school. Learn how the different kinds of kilns work, including low fire electric, gas or propane high fire, wood or salt/soda, and raku.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -298,6 +379,11 @@
         {
           "id": "2239",
           "label": "b",
+          "text": "Visit a museum, art exhibit, art gallery, artists' co-op, or artist's studio that features pottery. After your visit, share with your counselor what you have learned.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -315,6 +401,11 @@
         {
           "id": "2240",
           "label": "c",
+          "text": "Using resources from the library, magazines, the internet (with your parent or guardian's permission), and other outlets, learn about the historical and cultural importance of pottery. Share what you discovered with your counselor.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -342,6 +433,11 @@
     {
       "id": "2241",
       "label": "8",
+      "text": "Find out about career opportunities in pottery. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Learn about the buddy system and how it works in the outdoors.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the buddy system and how it works in the outdoors.",
       "activities": [
         {
           "name": "Buddy Calls",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Know the Cub Scout Six Essentials.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Know the Cub Scout Six Essentials.",
       "activities": [
         {
           "name": "Cub Scout Six Essentials Kim’s Game",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "In addition to your Cub Scout Six Essentials, list the personal items you need for your campout.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "In addition to your Cub Scout Six Essentials, list the personal items you need for your campout.",
       "activities": [
         {
           "name": "Camping Sit-Upon Bucket",
@@ -128,6 +140,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Attend a council or district Cub Scout overnight camp or attend a campout with your pack.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -136,7 +153,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Attend a council or district Cub Scout overnight camp or attend a campout with your pack.",
       "activities": [
         {
           "name": "Council Camping Wolf",

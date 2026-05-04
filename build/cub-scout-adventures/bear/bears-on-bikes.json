@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Show how to properly wear a bicycle helmet.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Show how to properly wear a bicycle helmet.",
       "activities": [
         {
           "name": "Helmet Relay",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Decide what you should wear when riding a bike.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Decide what you should wear when riding a bike.",
       "activities": [
         {
           "name": "Dress the Cub Scout",
@@ -59,6 +67,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Demonstrate how to adjust saddle height.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how to adjust saddle height.",
       "activities": [
         {
           "name": "Saddle Up",
@@ -83,6 +95,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Demonstrate how to operate brakes.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -91,7 +108,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how to operate brakes.",
       "activities": [
         {
           "name": "Brake Test",
@@ -107,6 +123,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Learn how to use a pump to inflate your tires. Discuss why riding with low-pressure or flat tires is unsafe and can cause damage to your bike.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -115,7 +136,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn how to use a pump to inflate your tires. Discuss why riding with low-pressure or flat tires is unsafe and can cause damage to your bike.",
       "activities": [
         {
           "name": "Pump It Up",
@@ -131,6 +151,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "With your family, den, or pack, follow the buddy system and go on a 30-minute bike ride.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -139,7 +164,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your family, den, or pack, follow the buddy system and go on a 30-minute bike ride.",
       "activities": [
         {
           "name": "Bear Bike Ride",

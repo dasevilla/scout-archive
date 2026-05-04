@@ -14,6 +14,11 @@
     {
       "id": "8577",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "8578",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while participating in geocaching activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "8579",
           "label": "b",
+          "text": "Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in geocaching activities, including cuts, scrapes, snakebite, insect stings, tick bites, exposure to poisonous plants, heat and cold reactions (sunburn, heatstroke, heat exhaustion, hypothermia), and dehydration.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "8580",
           "label": "c",
+          "text": "Discuss how to properly plan an activity that uses GPS, including using the buddy system, sharing your plan with others, and considering the weather, route, and proper attire.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "8581",
       "label": "2",
+      "text": "Discuss the following with your counselor:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -74,6 +99,11 @@
         {
           "id": "8582",
           "label": "a",
+          "text": "Why you should never bury a cache",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -86,6 +116,11 @@
         {
           "id": "8583",
           "label": "b",
+          "text": "How to use proper geocaching etiquette when hiding or seeking a cache, and how to properly hide, post, maintain, and dismantle a geocache",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -98,6 +133,11 @@
         {
           "id": "8584",
           "label": "c",
+          "text": "The Leave No Trace Seven Principles and the Outdoor Code as they apply to geocaching",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -112,6 +152,11 @@
     {
       "id": "8595",
       "label": "3",
+      "text": "Explain the following terms used in geocaching: waypoint, log, cache, accuracy, difficulty and terrain ratings, attributes, and trackable. Choose five additional terms to explain to your counselor.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -124,6 +169,11 @@
     {
       "id": "8596",
       "label": "4",
+      "text": "Explain how the Global Positioning System (GPS) works. Then, using Scouting's EDGE, demonstrate to your counselor the use of a GPS unit. Include marking and editing a waypoint, changing field functions, and changing the coordinate system in the unit.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -136,6 +186,11 @@
     {
       "id": "8585",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -147,6 +202,11 @@
         {
           "id": "8586",
           "label": "a",
+          "text": "Show you know how to use a map and compass and explain why this is important for geocaching.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -159,6 +219,11 @@
         {
           "id": "8587",
           "label": "b",
+          "text": "Explain the similarities and differences between GPS navigation and standard map-reading skills and describe the benefits of each.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -173,6 +238,11 @@
     {
       "id": "8597",
       "label": "6",
+      "text": "Describe to your counselor the four steps to finding your first cache. Then mark and edit a waypoint.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -185,6 +255,11 @@
     {
       "id": "8598",
       "label": "7",
+      "text": "With your parent or guardian's permission, go to www.geocaching.com. Type in your city and state to locate public geocaches in your area. Share with your counselor the posted information about three of those geocaches. Then, pick one of the three and find the cache.\nNote: To fulfill this requirement, you will need to set up a free user account with www.Geocaching.com. Before doing so, ask your parent for permission and help.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -224,6 +299,11 @@
     {
       "id": "8590",
       "label": "8",
+      "text": "Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -235,6 +315,11 @@
         {
           "id": "8591",
           "label": "a",
+          "text": "If a Cache to Eagle® series exists in your council, visit at least three of the locations in the series. Describe the projects that each cache you visit highlights, and explain how the Cache to Eagle® program helps share our Scouting service with the public.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -247,6 +332,11 @@
         {
           "id": "8592",
           "label": "b",
+          "text": "Create a Scouting-related Travel Bug® that promotes one of the values of Scouting. Release your Travel Bug into a public geocache and, with your parent or guardian's permission, monitor its progress at www.geocaching.com for 30 days. Keep a log, and share this with your counselor at the end of the 30-day period.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -259,6 +349,11 @@
         {
           "id": "8593",
           "label": "c",
+          "text": "Set up and hide a public geocache, following the guidelines in the Geocaching merit badge pamphlet. Before doing so, share with your counselor a three-month maintenance plan for the geocache where you are personally responsible for those three months. After setting up the geocache, with your parent or guardian's permission, follow the logs online for 30 days and share them with your counselor. You must archive the geocache when you are no longer maintaining it.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -286,6 +381,11 @@
         {
           "id": "8594",
           "label": "d",
+          "text": "Explain what Cache In Trash Out (CITO) means, and describe how you have practiced CITO at public geocaches or at a CITO event. Then, either create CITO containers to leave at public caches, or host a CITO event for your unit or for the public.",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -300,6 +400,11 @@
     {
       "id": "8599",
       "label": "9",
+      "text": "Plan a geohunt for a youth group such as your troop or a neighboring pack, at school, or your place of worship. Choose a theme, set up a course with at least four waypoints, teach the players how to use a GPS unit, and play the game. Tell your counselor about your experience, and share the materials you used and developed for this event.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

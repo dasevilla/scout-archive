@@ -14,6 +14,11 @@
     {
       "id": "4159",
       "label": "1",
+      "text": "Show that you know first aid for the following types of injuries that could occur while orienteering: cuts, scratches, blisters, snakebite, insect stings, tick bites, heat and cold reactions (sunburn, heatstroke, heat exhaustion, hypothermia), dehydration. Explain to your counselor why you should be able to identify poisonous plants and poisonous animals that are found in your area.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,6 +48,11 @@
     {
       "id": "4161",
       "label": "2",
+      "text": "Explain what orienteering is.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -60,6 +70,11 @@
     {
       "id": "4139",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -71,6 +86,11 @@
         {
           "id": "4140",
           "label": "a",
+          "text": "Explain how a compass works. Describe the features of an orienteering compass.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -88,6 +108,11 @@
         {
           "id": "4141",
           "label": "b",
+          "text": "In the field, show how to take a compass bearing and follow it.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -107,6 +132,11 @@
     {
       "id": "4142",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -123,6 +153,11 @@
         {
           "id": "4143",
           "label": "a",
+          "text": "Explain how a topographic map shows terrain features. Point out and name five terrain features on a map and in the field.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +170,11 @@
         {
           "id": "4144",
           "label": "b",
+          "text": "Point out and name 10 symbols on a topographic map.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -147,6 +187,11 @@
         {
           "id": "4145",
           "label": "c",
+          "text": "Explain the meaning of declination. Tell why you must consider declination when using map and compass together.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -179,6 +224,11 @@
         {
           "id": "4146",
           "label": "d",
+          "text": "Show a topographic map with magnetic north-south lines.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -191,6 +241,11 @@
         {
           "id": "4147",
           "label": "e",
+          "text": "Show how to measure distances on a map using an orienteering compass.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -203,6 +258,11 @@
         {
           "id": "4148",
           "label": "f",
+          "text": "Show how to orient a map using a compass.",
+          "requirement_path": "4.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -217,6 +277,11 @@
     {
       "id": "4162",
       "label": "5",
+      "text": "Set up a 100-meter pace course. Determine your walking and running pace for 100 meters. Tell why it is important to pace-count.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -234,6 +299,11 @@
     {
       "id": "4149",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -245,6 +315,11 @@
         {
           "id": "4150",
           "label": "a",
+          "text": "Identify 20 international control description symbols. Tell the meaning of each symbol.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -262,6 +337,11 @@
         {
           "id": "4151",
           "label": "b",
+          "text": "Show a control description sheet and explain the information provided.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -279,6 +359,11 @@
         {
           "id": "4152",
           "label": "c",
+          "text": "Explain the following terms and tell when you would use them: attack point, collecting feature, catching feature, aiming off, contouring, reading ahead, handrail, relocation, and rough versus fine orienteering.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -298,6 +383,11 @@
     {
       "id": "4153",
       "label": "7",
+      "text": "Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -309,6 +399,11 @@
         {
           "id": "4154",
           "label": "a",
+          "text": "Take part in three orienteering events. One of these must be a cross-country course.\nNote: While orienteering is primarily an individual sport, Scouting America Youth Protection procedures call for using the buddy system. Requirement 7(a) can be completed by pairs or groups of Scouts.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -352,6 +447,11 @@
         {
           "id": "4155",
           "label": "b",
+          "text": "After each event, write a report with (1) a copy of the master map and control description sheet, (2) a copy of the route you took on the course, (3) a discussion of how you could improve your time between control points, and (4) a list of your major weaknesses on this course . Describe what you could do to improve.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -366,6 +466,11 @@
     {
       "id": "4156",
       "label": "8",
+      "text": "Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -377,6 +482,11 @@
         {
           "id": "4157",
           "label": "a",
+          "text": "Set up a cross-country course that is at least 2,000 meters long with at least five control markers. Prepare the master map and control description sheet.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -389,6 +499,11 @@
         {
           "id": "4158",
           "label": "b",
+          "text": "Set up a score orienteering course with at least 12 control points and a time limit of at least 60 minutes. Set point values for each control. Prepare the master map and control description sheet.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -403,6 +518,11 @@
     {
       "id": "4163",
       "label": "9",
+      "text": "Act as an official during an orienteering event. This may be during the running of the course you set up for requirement 8.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -420,6 +540,11 @@
     {
       "id": "4160",
       "label": "10",
+      "text": "Teach orienteering techniques to your patrol, troop or crew.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

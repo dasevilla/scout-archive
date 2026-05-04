@@ -14,6 +14,11 @@
     {
       "id": "11407",
       "label": "1",
+      "text": "Safety. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "11408",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -50,6 +60,11 @@
         {
           "id": "11409",
           "label": "b",
+          "text": "View the Personal Safety Awareness \"Digital Safety\" video (with your parent or guardian's permission).",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -69,6 +84,11 @@
     {
       "id": "11426",
       "label": "2",
+      "text": "Explain how the following elements and terms can affect the quality of a picture:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -89,6 +109,11 @@
         {
           "id": "11427",
           "label": "a",
+          "text": "Light—natural light (ambient/existing), low light (such as at night), and artificial light (such as from a flash)",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -114,6 +139,11 @@
         {
           "id": "11428",
           "label": "b",
+          "text": "Exposure—aperture (f-stops), shutter speed, ISO",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +165,11 @@
         {
           "id": "11429",
           "label": "c",
+          "text": "Depth of field",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -152,6 +187,11 @@
         {
           "id": "11430",
           "label": "d",
+          "text": "Composition—rule of thirds, leading lines, framing, depth",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -177,6 +217,11 @@
         {
           "id": "11431",
           "label": "e",
+          "text": "Angle of view",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +239,11 @@
         {
           "id": "11432",
           "label": "f",
+          "text": "Stop action and blur motion",
+          "requirement_path": "2.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -215,6 +265,11 @@
         {
           "id": "11433",
           "label": "g",
+          "text": "Decisive moment (action or expression captured by the photographer)",
+          "requirement_path": "2.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -234,6 +289,11 @@
     {
       "id": "11438",
       "label": "3",
+      "text": "Explain the basic parts and operation of a camera. Explain how an exposure is made when you take a picture.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -259,6 +319,11 @@
     {
       "id": "11410",
       "label": "4",
+      "text": "Do TWO of the following, then share your work with your counselor.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -270,6 +335,11 @@
         {
           "id": "11411",
           "label": "a",
+          "text": "Photograph one subject from two different angles or perspectives.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -287,6 +357,11 @@
         {
           "id": "11412",
           "label": "b",
+          "text": "Photograph one subject from two different light sources - artificial and natural.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -299,6 +374,11 @@
         {
           "id": "11413",
           "label": "c",
+          "text": "Photograph one subject with two different depth of fields.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -311,6 +391,11 @@
         {
           "id": "11414",
           "label": "d",
+          "text": "Photograph one subject with two different compositional techniques.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -325,6 +410,11 @@
     {
       "id": "11419",
       "label": "5",
+      "text": "Photograph THREE of the following, then share your work with your counselor.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -336,6 +426,11 @@
         {
           "id": "11420",
           "label": "a",
+          "text": "Close-up of a person",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -348,6 +443,11 @@
         {
           "id": "11421",
           "label": "b",
+          "text": "Two to three people interacting",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -360,6 +460,11 @@
         {
           "id": "11422",
           "label": "c",
+          "text": "Action shot",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -372,6 +477,11 @@
         {
           "id": "11423",
           "label": "d",
+          "text": "Animal shot",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -384,6 +494,11 @@
         {
           "id": "11424",
           "label": "e",
+          "text": "Nature shot",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -396,6 +511,11 @@
         {
           "id": "11425",
           "label": "f",
+          "text": "Picture of a person - candid, posed, or camera aware",
+          "requirement_path": "5.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -410,6 +530,11 @@
     {
       "id": "11415",
       "label": "6",
+      "text": "Describe how software allows you to enhance your photograph after it is taken. Select a photo you have taken, then do ONE of the following, and share what you have done with your counselor:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -426,6 +551,11 @@
         {
           "id": "11416",
           "label": "a",
+          "text": "Crop your photograph.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -438,6 +568,11 @@
         {
           "id": "11417",
           "label": "b",
+          "text": "Adjust the exposure or make a color correction.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -450,6 +585,11 @@
         {
           "id": "11418",
           "label": "c",
+          "text": "Show another way you could improve your picture for impact.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -464,6 +604,11 @@
     {
       "id": "11434",
       "label": "7",
+      "text": "Using images other than those created for requirements 4, 5, and 6, produce a visual story to document an event to photograph OR choose a topic that interests you to photograph. Do the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -475,6 +620,11 @@
         {
           "id": "11435",
           "label": "a",
+          "text": "Plan the images you need to photograph for your photo story.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -492,6 +642,11 @@
         {
           "id": "11436",
           "label": "b",
+          "text": "Share your plan with your counselor, and get your counselor's input and approval before you proceed.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -504,6 +659,11 @@
         {
           "id": "11437",
           "label": "c",
+          "text": "Select eight to 12 images that best tell your story. Arrange your images in order and mount the prints on a poster board, OR create an electronic presentation. Share your visual story with your counselor.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -523,6 +683,11 @@
     {
       "id": "11439",
       "label": "8",
+      "text": "Identify three career opportunities in photography. Pick one and explain to your counselor how to prepare for such a career. Discuss what education and training are required, and why this profession might interest you.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

@@ -14,6 +14,11 @@
     {
       "id": "14542",
       "label": "1",
+      "text": "Emergency Situations. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "14565",
           "label": "a",
+          "text": "Discuss with your counselor the aspects of emergency preparedness and include in your discussion the kinds of questions that are important to ask yourself as you consider each of these: prevention, protection, mitigation, response, and recovery.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -53,6 +63,11 @@
         {
           "id": "14543",
           "label": "b",
+          "text": "Using a chart, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 1(a) (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. Discuss your findings with your counselor.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -65,6 +80,11 @@
         {
           "id": "14544",
           "label": "1",
+          "text": "Home stovetop or oven fire",
+          "requirement_path": "1.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -82,6 +102,11 @@
         {
           "id": "14555",
           "label": "2",
+          "text": "Home flammable liquid fire",
+          "requirement_path": "1.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -99,6 +124,11 @@
         {
           "id": "14558",
           "label": "3",
+          "text": "Gas leak in or near a home or with outside cooking",
+          "requirement_path": "1.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -120,6 +150,11 @@
         {
           "id": "14559",
           "label": "4",
+          "text": "Food poisoning",
+          "requirement_path": "1.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -145,6 +180,11 @@
         {
           "id": "14560",
           "label": "5",
+          "text": "Automobile crash",
+          "requirement_path": "1.5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -162,6 +202,11 @@
         {
           "id": "14561",
           "label": "6",
+          "text": "Vehicle stalled in the desert",
+          "requirement_path": "1.6",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -179,6 +224,11 @@
         {
           "id": "14562",
           "label": "7",
+          "text": "Vehicle trapped in a blizzard",
+          "requirement_path": "1.7",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -196,6 +246,11 @@
         {
           "id": "14563",
           "label": "8",
+          "text": "Backcountry injury",
+          "requirement_path": "1.8",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -217,6 +272,11 @@
         {
           "id": "14564",
           "label": "9",
+          "text": "Boating or water accident",
+          "requirement_path": "1.9",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -234,6 +294,11 @@
         {
           "id": "14545",
           "label": "10",
+          "text": "Toxic chemical spills and releases",
+          "requirement_path": "1.10",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -255,6 +320,11 @@
         {
           "id": "14546",
           "label": "11",
+          "text": "Nuclear power plant emergency",
+          "requirement_path": "1.11",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -272,6 +342,11 @@
         {
           "id": "14547",
           "label": "12",
+          "text": "Fire or explosion in a public place",
+          "requirement_path": "1.12",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -293,6 +368,11 @@
         {
           "id": "14548",
           "label": "13",
+          "text": "Violence in a public place",
+          "requirement_path": "1.13",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -310,6 +390,11 @@
         {
           "id": "14549",
           "label": "14",
+          "text": "Wildland fire",
+          "requirement_path": "1.14",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -327,6 +412,11 @@
         {
           "id": "14550",
           "label": "15",
+          "text": "Avalanche (snowslide or rockslide)",
+          "requirement_path": "1.15",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -348,6 +438,11 @@
         {
           "id": "14551",
           "label": "16",
+          "text": "Earthquake",
+          "requirement_path": "1.16",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -365,6 +460,11 @@
         {
           "id": "14552",
           "label": "17",
+          "text": "Tsunami",
+          "requirement_path": "1.17",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -382,6 +482,11 @@
         {
           "id": "14553",
           "label": "18",
+          "text": "Major flooding or a flash flood with water outage",
+          "requirement_path": "1.18",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -399,6 +504,11 @@
         {
           "id": "14554",
           "label": "19",
+          "text": "Hurricane with power outage",
+          "requirement_path": "1.19",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -416,6 +526,11 @@
         {
           "id": "14556",
           "label": "20",
+          "text": "Tornado",
+          "requirement_path": "1.20",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -433,6 +548,11 @@
         {
           "id": "14557",
           "label": "21",
+          "text": "Lightning storm",
+          "requirement_path": "1.21",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -456,6 +576,11 @@
     {
       "id": "14566",
       "label": "2",
+      "text": "Planning for Family Emergencies. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -478,6 +603,11 @@
         {
           "id": "14567",
           "label": "a",
+          "text": "At a family meeting, discuss the situations on the chart you created for requirement 1(b) and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -499,6 +629,11 @@
         {
           "id": "14568",
           "label": "b",
+          "text": "Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -511,6 +646,11 @@
         {
           "id": "14569",
           "label": "c",
+          "text": "Using a checklist in the Emergency Preparedness merit badge pamphlet or one approved by your counselor, prepare or inspect a family disaster kit for sheltering-in-place and for evacuation of your home. Review the needs and uses of the items in a kit with your counselor.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -553,6 +693,11 @@
     {
       "id": "14570",
       "label": "3",
+      "text": "Preventing Accidents and Emergencies. Do ONE of the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -575,6 +720,11 @@
         {
           "id": "14571",
           "label": "a",
+          "text": "Using a home safety checklist included in the Emergency Preparedness merit badge pamphlet or one approved by your counselor, inspect a home (or a similar building near where you live or at a camp) for safety hazards with the help of an adult. Present your completed checklist to and discuss your findings with your counselor.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -607,6 +757,11 @@
         {
           "id": "14572",
           "label": "b",
+          "text": "Develop emergency prevention plans for five family activities outside the home, as approved by your counselor. (Examples are taking a picnic to a park, seeing a movie, attending a worship service, an outing at a beach, traveling to visit a relative, or attending a ball game or concert.) Each plan should include an analysis of possible hazards, proposals to prevent, protect from, mitigate, respond to, and recover from emergencies, and the reasons for the actions that you propose.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -626,6 +781,11 @@
     {
       "id": "14573",
       "label": "4",
+      "text": "Dangerous Situations. Show how you could save a person from the following dangerous situations without putting yourself in danger:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -648,6 +808,11 @@
         {
           "id": "14574",
           "label": "a",
+          "text": "Live household electric wire",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -665,6 +830,11 @@
         {
           "id": "14575",
           "label": "b",
+          "text": "A structure filled with carbon monoxide",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -682,6 +852,11 @@
         {
           "id": "14576",
           "label": "c",
+          "text": "Clothes on fire",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -699,6 +874,11 @@
         {
           "id": "14577",
           "label": "d",
+          "text": "Drowning, using nonswimming rescues (including accidents on ice)",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -722,6 +902,11 @@
     {
       "id": "14578",
       "label": "5",
+      "text": "Signaling for Help. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -744,6 +929,11 @@
         {
           "id": "14579",
           "label": "a",
+          "text": "Show three ways of attracting and communicating with rescue aircraft or drones.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -761,6 +951,11 @@
         {
           "id": "14580",
           "label": "b",
+          "text": "Show ways to attract the attention of searchers on the ground if you are lost in the wilderness.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -778,6 +973,11 @@
         {
           "id": "14581",
           "label": "c",
+          "text": "Show ways to attract the attention of searchers on the water if you are stranded with a capsized or disabled motorboat or sailboat.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -809,6 +1009,11 @@
     {
       "id": "14600",
       "label": "6",
+      "text": "Moving an Injured Person. With another person, show two good ways to transport an injured person out of a remote area using improvised stretchers to conserve the energy of rescuers while ensuring the well-being and protection of the injured person.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -837,6 +1042,11 @@
     {
       "id": "14582",
       "label": "7",
+      "text": "National Incident Management System (NIMS) and Incident Command System (ICS). Do the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -859,6 +1069,11 @@
         {
           "id": "14583",
           "label": "a",
+          "text": "Describe the National Incident Management System (NIMS) and the local Incident Command System (ICS).",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -880,6 +1095,11 @@
         {
           "id": "14584",
           "label": "b",
+          "text": "Find out how your community and its leaders work to manage and to train for disasters. Discuss this information with your counselor.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -892,6 +1112,11 @@
         {
           "id": "14585",
           "label": "c",
+          "text": "Discuss how a Scout troop can help in an emergency situation using ICS.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -906,6 +1131,11 @@
     {
       "id": "14586",
       "label": "8",
+      "text": "Emergency Service. Do the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -928,6 +1158,11 @@
         {
           "id": "14587",
           "label": "a",
+          "text": "Discuss with your counselor the duties that a Scout troop should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -940,79 +1175,105 @@
               "url": "https://youtu.be/P-dPBso2xPM"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14588",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Crowd and traffic control"
-            }
-          ],
-          "resources": [
+              "id": "14588",
+              "label": "1",
+              "text": "Crowd and traffic control",
+              "requirement_path": "8.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Crowd and traffic control"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Guidelines for Managing Crowds (website)",
+                  "url": "https://ehs.cornell.edu/campus-health-safety/event-management/event-crowd-management"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Guidelines for Managing Crowds (website)",
-              "url": "https://ehs.cornell.edu/campus-health-safety/event-management/event-crowd-management"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14589",
-          "label": "2",
-          "content": [
+              "id": "14589",
+              "label": "2",
+              "text": "Messenger service during an incident",
+              "requirement_path": "8.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Messenger service during an incident"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Social Media Messaging for Natural Disasters (website)",
+                  "url": "https://www.epa.gov/natural-disasters/social-media-messages-you-can-use-during-or-after-natural-disaster#hurricane"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Messenger service during an incident"
-            }
-          ],
-          "resources": [
+              "id": "14590",
+              "label": "3",
+              "text": "Collection and distribution services",
+              "requirement_path": "8.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Collection and distribution services"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Food Bank (video)",
+                  "url": "https://youtu.be/zz6sEdM6y_4"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Social Media Messaging for Natural Disasters (website)",
-              "url": "https://www.epa.gov/natural-disasters/social-media-messages-you-can-use-during-or-after-natural-disaster#hurricane"
+              "id": "14591",
+              "label": "4",
+              "text": "Group feeding, shelter, and sanitation",
+              "requirement_path": "8.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Group feeding, shelter, and sanitation"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Feeding LA Wildfire Evacuees (video)",
+                  "url": "https://www.youtube.com/shorts/9zWTauGVX6w"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14590",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Collection and distribution services"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Food Bank (video)",
-              "url": "https://youtu.be/zz6sEdM6y_4"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14591",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Group feeding, shelter, and sanitation"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Feeding LA Wildfire Evacuees (video)",
-              "url": "https://www.youtube.com/shorts/9zWTauGVX6w"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14592",
           "label": "b",
+          "text": "Prepare a written plan for mobilizing your troop when needed to do emergency service. If your troop already has a mobilization plan, present the plan to your counselor and tell your part in making the plan work.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1025,6 +1286,11 @@
         {
           "id": "14593",
           "label": "c",
+          "text": "Using a checklist in the Emergency Preparedness merit badge pamphlet or one approved by your counselor, prepare or inspect a personal emergency service pack for a mobilization call. Explain the needs and uses of the contents to your counselor.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1061,6 +1327,11 @@
         {
           "id": "14594",
           "label": "d",
+          "text": "Take part in an emergency service project, either a real one or a practice exercise, with a Scouting troop or a community agency or at Scout camp or at a school. Review what you learned and practiced with your counselor.",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1080,6 +1351,11 @@
     {
       "id": "14595",
       "label": "9",
+      "text": "First Aid Merit Badge. Earn the First Aid merit badge.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -1103,6 +1379,11 @@
     {
       "id": "14596",
       "label": "10",
+      "text": "Careers. Do ONE of the following:",
+      "requirement_path": "10",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1125,6 +1406,11 @@
         {
           "id": "14597",
           "label": "a",
+          "text": "Interview an emergency services coordinator or a civil servant about their work in disaster management. Learn about how they chose this career and about their duties. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "10.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1142,6 +1428,11 @@
         {
           "id": "14598",
           "label": "b",
+          "text": "Identify three career opportunities that would use skills and knowledge in emergency services. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "10.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1159,6 +1450,11 @@
         {
           "id": "14599",
           "label": "c",
+          "text": "Identify how you might use the skills and knowledge in the field of emergency preparedness to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "10.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

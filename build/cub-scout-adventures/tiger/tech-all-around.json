@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discover technology around your home, meeting place, or neighborhood.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover technology around your home, meeting place, or neighborhood.",
       "activities": [
         {
           "name": "Detective Walk",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Discover ways that digital technology can make life easier.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover ways that digital technology can make life easier.",
       "activities": [
         {
           "name": "Technology Charades",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Identify an item of digital technology you use at home. Demonstrate to your adult partner how you use it safely.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify an item of digital technology you use at home. Demonstrate to your adult partner how you use it safely.",
       "activities": [
         {
           "name": "Be Safe with Technology Tiger",
@@ -110,6 +122,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "With your parent or legal guardian, set up a policy for digital devices.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -118,7 +135,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your parent or legal guardian, set up a policy for digital devices.",
       "activities": [
         {
           "name": "Smart and Safe with Technology",

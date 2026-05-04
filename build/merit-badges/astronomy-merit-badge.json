@@ -14,6 +14,11 @@
     {
       "id": "12656",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "12657",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while participating in astronomy activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "12658",
           "label": "b",
+          "text": "Explain first aid for injuries or illnesses such as heat and cold reactions, dehydration, bites and stings, and damage to your eyes that could occur during observations.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -67,6 +82,11 @@
         {
           "id": "12659",
           "label": "c",
+          "text": "Describe the proper clothing and other precautions for safely making observations at night and in cold weather.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -84,6 +104,11 @@
         {
           "id": "12660",
           "label": "d",
+          "text": "Explain how to safely observe the Sun, objects near the Sun and solar eclipses.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -103,6 +128,11 @@
     {
       "id": "12661",
       "label": "2",
+      "text": "Explain what light pollution is and how it and air pollution affect astronomy.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -132,6 +162,11 @@
     {
       "id": "12626",
       "label": "3",
+      "text": "With the aid of diagrams (or real telescopes if available), do the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -143,6 +178,11 @@
         {
           "id": "12627",
           "label": "a",
+          "text": "Explain why binoculars and telescopes are important astronomical tools. Demonstrate or explain how these tools are used.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -164,6 +204,11 @@
         {
           "id": "12628",
           "label": "b",
+          "text": "Describe the similarities and differences of several types of astronomical telescopes, including at least one that observes light beyond the visible part of the spectrum (i.e., radio, X-ray, ultraviolet, or infrared).",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -193,6 +238,11 @@
         {
           "id": "12629",
           "label": "c",
+          "text": "Explain the purposes of three instruments used with astronomical telescopes.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -222,6 +272,11 @@
         {
           "id": "12630",
           "label": "d",
+          "text": "Describe the proper care and storage of telescopes and binoculars both at home and in the field.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -253,6 +308,11 @@
     {
       "id": "12631",
       "label": "4",
+      "text": "Do the following (if instruction is done in a planetarium, Scouts must still identify the required stars and constellations outside under the natural night sky):",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -264,6 +324,11 @@
         {
           "id": "12632",
           "label": "a",
+          "text": "Identify in the sky 10 constellations, at least four of which are in the zodiac.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -289,6 +354,11 @@
         {
           "id": "12633",
           "label": "b",
+          "text": "Identify in the sky eight conspicuous stars, five of which are of magnitude 1 or brighter.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -310,6 +380,11 @@
         {
           "id": "12634",
           "label": "c",
+          "text": "Make two sketches of the Big Dipper or Cassiopeia from direct observation. In one sketch, show the Big Dipper's or Cassiopeia's orientation in the early evening sky. Make another sketch, showing its position several hours later. In both sketches, show the North Star and the horizon. Record the date and time each sketch was made.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -335,6 +410,11 @@
         {
           "id": "12635",
           "label": "d",
+          "text": "Explain what we see when we look at the Milky Way.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -362,6 +442,11 @@
     {
       "id": "12636",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -373,6 +458,11 @@
         {
           "id": "12637",
           "label": "a",
+          "text": "List the names of the five most visible planets. Explain which ones can appear in phases similar to lunar phases and which ones cannot, and explain why.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -398,6 +488,11 @@
         {
           "id": "12638",
           "label": "b",
+          "text": "Using the internet (with your parent or guardian's permission) and other resources, find out when each of the five most visible planets that you identified in requirement 5(a) will be observable in the evening sky during the next 12 months, then compile this information in the form of a chart or table.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -419,6 +514,11 @@
         {
           "id": "12639",
           "label": "c",
+          "text": "Describe the motion of the planets across the sky.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -440,6 +540,11 @@
         {
           "id": "12640",
           "label": "d",
+          "text": "Observe a planet and describe what you saw.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -467,6 +572,11 @@
     {
       "id": "12641",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -478,6 +588,11 @@
         {
           "id": "12642",
           "label": "a",
+          "text": "Sketch the face of the Moon and indicate five seas and five craters. Label these landmarks.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -507,6 +622,11 @@
         {
           "id": "12643",
           "label": "b",
+          "text": "Sketch the phase and position of the Moon, at the same hour and place, for four nights (or days) within a one-week period by direct observation. Include landmarks on the horizon such as hills, trees, and buildings. Explain the changes you observe.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -532,6 +652,11 @@
         {
           "id": "12644",
           "label": "c",
+          "text": "List the factors that keep the Moon in orbit around Earth.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -557,6 +682,11 @@
         {
           "id": "12645",
           "label": "d",
+          "text": "With the aid of diagrams, explain the relative positions of the Sun, Earth, and the Moon at the times of lunar and solar eclipses, and at the times of new, first-quarter, full, and last-quarter phases of the Moon.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -588,6 +718,11 @@
     {
       "id": "12646",
       "label": "7",
+      "text": "Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -599,6 +734,11 @@
         {
           "id": "12647",
           "label": "a",
+          "text": "Describe the composition of the Sun, its relationship to other stars, and some effects of its radiation on Earth's weather and communications.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -620,6 +760,11 @@
         {
           "id": "12648",
           "label": "b",
+          "text": "Define sunspots and describe some of the effects they may have on solar radiation.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -645,6 +790,11 @@
         {
           "id": "12649",
           "label": "c",
+          "text": "Identify at least one red star, one blue star, and one yellow star (other than the Sun). Explain the meaning of these colors.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -668,6 +818,11 @@
     {
       "id": "12650",
       "label": "8",
+      "text": "With your counselor's approval and guidance, do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -679,6 +834,11 @@
         {
           "id": "12651",
           "label": "a",
+          "text": "Visit a planetarium or astronomical observatory. Submit a written report, a scrapbook, OR a video presentation afterward to your counselor that includes the following information: activities occurring there, exhibits and displays you saw, telescopes and other instruments being used, and celestial objects you observed.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -700,6 +860,11 @@
         {
           "id": "12652",
           "label": "b",
+          "text": "Plan and participate in an observation session that includes using binoculars or a telescope and includes at least 10 celestial objects beyond those observed in requirement 4. These might be lunar features, Messier objects, additional constellations or planets, or artificial satellites including the International Space Station. List the celestial objects you want to observe and find each in a star chart, guidebook or by using an app. Prepare a log or notebook. Discuss with your counselor what you hope to observe prior to your observation session. Review your log or notebook with your counselor afterward.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -712,6 +877,11 @@
         {
           "id": "12653",
           "label": "c",
+          "text": "Plan and host a star party for your Scout troop or other group such as your class at school. Use binoculars or a telescope to show and explain celestial objects to the group.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -737,6 +907,11 @@
         {
           "id": "12654",
           "label": "d",
+          "text": "Help an astronomy club in your community hold a star party that is open to the public.",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -762,6 +937,11 @@
         {
           "id": "12655",
           "label": "e",
+          "text": "Personally take a series of photographs or digital images of the movement of the Moon, a planet, an asteroid, meteor, or a comet. In your visual display, label each image and include the date and time it was taken. Show all positions on a star chart or map. Show your display at school or at a troop meeting. Explain the changes you observed.",
+          "requirement_path": "8.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -779,6 +959,11 @@
         {
           "id": "12663",
           "label": "f",
+          "text": "With your parent or guardian's and counselor's approval, use online observing opportunities such as SkyNet to observe planets, comets, galaxies, and/or the sun. Describe your experience to your counselor.",
+          "requirement_path": "8.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -798,6 +983,11 @@
     {
       "id": "12662",
       "label": "9",
+      "text": "Do ONE of the following:",
+      "requirement_path": "9",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -809,6 +999,11 @@
         {
           "id": "12664",
           "label": "a",
+          "text": "Identify three career opportunities that would use skills and knowledge in astronomy. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -830,6 +1025,11 @@
         {
           "id": "12665",
           "label": "b",
+          "text": "Identify how you might use the skills and knowledge in astronomy to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

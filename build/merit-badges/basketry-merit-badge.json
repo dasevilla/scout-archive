@@ -14,6 +14,11 @@
     {
       "id": "5831",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "5832",
           "label": "a",
+          "text": "Explain to your counselor the hazards you are most likely to encounter while using basketry tools and materials, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -50,6 +60,11 @@
         {
           "id": "5833",
           "label": "b",
+          "text": "Discuss the prevention of and first-aid treatment for injuries, including cuts, scratches, and scrapes, that could occur while working with basketry tools and materials.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -69,6 +84,11 @@
     {
       "id": "5824",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -80,6 +100,11 @@
         {
           "id": "5825",
           "label": "a",
+          "text": "Show your counselor that you are able to identify the following types of baskets: plaited, coiled, ribbed, and wicker.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -101,6 +126,11 @@
         {
           "id": "5826",
           "label": "b",
+          "text": "Describe three different types of weaves to your counselor.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -128,6 +158,11 @@
     {
       "id": "5827",
       "label": "3",
+      "text": "Plan and weave the following projects:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -139,6 +174,11 @@
         {
           "id": "5828",
           "label": "a",
+          "text": "Square basket",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -156,6 +196,11 @@
         {
           "id": "5829",
           "label": "b",
+          "text": "Round basket",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -181,6 +226,11 @@
         {
           "id": "5830",
           "label": "c",
+          "text": "Campstool seat",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

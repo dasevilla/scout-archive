@@ -14,6 +14,11 @@
     {
       "id": "13207",
       "label": "1",
+      "text": "Give a short history of fingerprinting. Tell the difference between civil and criminal identification.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -39,6 +44,11 @@
     {
       "id": "13208",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -50,6 +60,11 @@
         {
           "id": "13210",
           "label": "a",
+          "text": "Explain the difference between the automated fingerprint identification systems (AFIS) now used by law enforcement agencies and the biometric fingerprint systems used to control access to computers and places like buildings and airports.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -67,6 +82,11 @@
         {
           "id": "13211",
           "label": "b",
+          "text": "Discuss how our society uses identification systems based on tokens, passwords, and biometrics.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -98,6 +118,11 @@
     {
       "id": "13200",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -109,6 +134,11 @@
         {
           "id": "13201",
           "label": "a",
+          "text": "Name the surfaces of the body where friction or papillary ridges are found.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -126,6 +156,11 @@
         {
           "id": "13202",
           "label": "b",
+          "text": "Name the two basic principles supporting the science of fingerprints and give a brief explanation of each principle.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -147,6 +182,11 @@
         {
           "id": "13203",
           "label": "c",
+          "text": "Explain what it takes to positively identify a person using fingerprints.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -166,6 +206,11 @@
     {
       "id": "13204",
       "label": "4",
+      "text": "Take a clear set of prints using ONE of the following methods:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -177,6 +222,11 @@
         {
           "id": "13205",
           "label": "a",
+          "text": "Make both rolled and plain impressions. Make these on an 8-by-8-inch fingerprint identification card, available from your local police department or your counselor.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +244,11 @@
         {
           "id": "13206",
           "label": "b",
+          "text": "Using clear adhesive tape, a pencil, and plain paper, record your own fingerprints or those of another person.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -213,6 +268,11 @@
     {
       "id": "13209",
       "label": "5",
+      "text": "Show your counselor you can identify the three basic types of fingerprint patterns and their subcategories. Using your own hand, identify the types of patterns you see.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -230,6 +290,11 @@
     {
       "id": "13212",
       "label": "6",
+      "text": "Identify three career opportunities that would use skills and knowledge in the areas of biometrics and/or fingerprinting. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Make trail mix using trail mix math.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Make trail mix using trail mix math.",
       "activities": [
         {
           "name": "Bear Trail Mix Math",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Identify an animal that has a pattern to its physical appearance. Investigate how the animal uses its pattern.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify an animal that has a pattern to its physical appearance. Investigate how the animal uses its pattern.",
       "activities": [
         {
           "name": "Patterns in the Animal World",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Find examples of bilateral symmetry in nature.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Find examples of bilateral symmetry in nature.",
       "activities": [
         {
           "name": "Bilateral Symmetry Hunt",
@@ -92,6 +104,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Find examples of radial symmetry in nature.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -100,7 +117,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Find examples of radial symmetry in nature.",
       "activities": [
         {
           "name": "Radial Symmetry Hunt",

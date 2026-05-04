@@ -14,6 +14,11 @@
     {
       "id": "14400",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "14401",
           "label": "a",
+          "text": "Discuss with your counselor the history of the game of chess.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "14402",
           "label": "b",
+          "text": "Research a famous chess player and what accomplishments made him or her famous. Discuss with your counselor.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -51,6 +66,11 @@
     {
       "id": "14377",
       "label": "2",
+      "text": "Discuss with your counselor the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -62,6 +82,11 @@
         {
           "id": "14378",
           "label": "a",
+          "text": "Why chess is considered a game of planning and strategy.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -74,6 +99,11 @@
         {
           "id": "14379",
           "label": "b",
+          "text": "The benefits of playing chess, including developing critical thinking skills, concentration skills, and decision-making skills, and how these skills can help you in other areas of your life.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -86,6 +116,11 @@
         {
           "id": "14403",
           "label": "c",
+          "text": "Sportsmanship and chess etiquette",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -100,6 +135,11 @@
     {
       "id": "14380",
       "label": "3",
+      "text": "Demonstrate to your counselor that you know each of the following. Then, using Scouting EDGE to teach someone who does not know how to play chess:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -111,6 +151,11 @@
         {
           "id": "14381",
           "label": "a",
+          "text": "The name of each chess piece",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -123,6 +168,11 @@
         {
           "id": "14382",
           "label": "b",
+          "text": "How to set up a chessboard",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +185,11 @@
         {
           "id": "14383",
           "label": "c",
+          "text": "How each chess piece moves and captures, including: four rules of castling, en passant captures, pawn promotion, check, ways to get out of check, and checkmate.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -147,6 +202,11 @@
         {
           "id": "14404",
           "label": "d",
+          "text": "The five ways a game can end in a draw",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -161,6 +221,11 @@
     {
       "id": "14384",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -172,6 +237,11 @@
         {
           "id": "14385",
           "label": "a",
+          "text": "Demonstrate scorekeeping using the algebraic system of chess notation.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -184,6 +254,11 @@
         {
           "id": "14386",
           "label": "b",
+          "text": "Discuss the differences between the opening, the middle game, and the endgame.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -196,6 +271,11 @@
         {
           "id": "14387",
           "label": "c",
+          "text": "Explain four opening principles. Demonstrate for your counselor the first five moves of the following openings: Ruy Lopez, French Defense, Queen's Gambit Declined, Sicilian Defense.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -208,6 +288,11 @@
         {
           "id": "14388",
           "label": "d",
+          "text": "On a chessboard, demonstrate Scholar's Mate, Fool's Mate, Légal Mate, Fried Liver Attack, and Noah's Ark Trap.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -222,6 +307,11 @@
     {
       "id": "14391",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -233,6 +323,11 @@
         {
           "id": "14392",
           "label": "a",
+          "text": "Explain four of the following elements of chess strategy: exploiting weaknesses, force, king safety, pawn structure, space, tempo, and clock management.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -245,6 +340,11 @@
         {
           "id": "14393",
           "label": "b",
+          "text": "Explain any five of these chess tactics: clearance sacrifice, decoy, discovered attack, double check, double attack, fork, interposing, overloading, overprotecting, pin, skewer, remove the defender, zwischenzug, and zugzwang.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -257,6 +357,11 @@
         {
           "id": "14394",
           "label": "c",
+          "text": "Set up a chessboard as follows and with White to move first, demonstrate how to force checkmate on the Black king:",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -269,6 +374,11 @@
         {
           "id": "14405",
           "label": "1",
+          "text": "White on e1, the White rooks on a1 and h1, and the Black king on e5.",
+          "requirement_path": "5.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -341,6 +451,11 @@
         {
           "id": "14406",
           "label": "2",
+          "text": "White King on e1, White queen on d1, Black king on e5.",
+          "requirement_path": "5.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -398,6 +513,11 @@
         {
           "id": "14407",
           "label": "3",
+          "text": "White king on e1, White rook on a1, Black king on e5.",
+          "requirement_path": "5.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -455,6 +575,11 @@
         {
           "id": "14395",
           "label": "d",
+          "text": "With White king on d4, White pawn on e3, and Black king on e6:",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -512,6 +637,11 @@
         {
           "id": "14408",
           "label": "1",
+          "text": "With White to move, demonstrate how White can force Black to allow his pawn to reach the last rank and be promoted to a queen.",
+          "requirement_path": "5.1-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -524,6 +654,11 @@
         {
           "id": "14409",
           "label": "2",
+          "text": "With Black to move, demonstrate how Black can force a draw.",
+          "requirement_path": "5.2-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -536,6 +671,11 @@
         {
           "id": "14410",
           "label": "e",
+          "text": "Set up and solve five direct-mate problems provided by your counselor.",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -550,6 +690,11 @@
     {
       "id": "14396",
       "label": "6",
+      "text": "Explain to your counselor how chess tournaments are run, including the Swiss system tournament format, the round robin tournament format, pairings for each round, time controls, touch move, scoring, and chess ratings.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -562,6 +707,11 @@
     {
       "id": "14411",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -573,6 +723,11 @@
         {
           "id": "14412",
           "label": "a",
+          "text": "Play at least three games of chess with other Scouts and/or your counselor. Replay the games from your score sheets and discuss with your counselor how you might have played each game differently.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -585,6 +740,11 @@
         {
           "id": "14413",
           "label": "b",
+          "text": "Play in a scholastic (youth) chess tournament and use your score sheets from that tournament to replay your games with your counselor. Discuss with your counselor how you might have played each game differently.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -597,6 +757,11 @@
         {
           "id": "14414",
           "label": "c",
+          "text": "Organize and run a chess tournament with at least four players, plus you. Have each competitor play at least two games.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

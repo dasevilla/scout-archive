@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Familiarize yourself with the flag of the United States of America including the history, demonstrating how to raise and lower the flag, how to properly fold and display, and the United States etiquette.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Familiarize yourself with the flag of the United States of America including the history, demonstrating how to raise and lower the flag, how to properly fold and display, and the United States etiquette.",
       "activities": [
         {
           "name": "Outdoor Flag Ceremony",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Identify 3 symbols that represent the United States. Pick your favorite and make a model, work of art, or other craft that depicts the symbol.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify 3 symbols that represent the United States. Pick your favorite and make a model, work of art, or other craft that depicts the symbol.",
       "activities": [
         {
           "name": "Paint the Flag",
@@ -104,6 +112,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Learn about the mission of any non-profit. Find out how they fund their activities and how volunteers are used to help.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -112,7 +125,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the mission of any non-profit. Find out how they fund their activities and how volunteers are used to help.",
       "activities": [
         {
           "name": "Groups That Help",
@@ -137,6 +149,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Participate in a service project.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -145,7 +162,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Participate in a service project.",
       "activities": [
         {
           "name": "10,000 for the Troops – Bear",

@@ -14,6 +14,11 @@
     {
       "id": "16079",
       "label": "1",
+      "text": "Discuss with your counselor the roles a veterinarian plays in the following:",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "16080",
           "label": "a",
+          "text": "Companion or small animal medicine, and equine medicine",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "16081",
           "label": "b",
+          "text": "Food animal or large animal medicine",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "16082",
           "label": "c",
+          "text": "Exotic animal medicine",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "16083",
           "label": "d",
+          "text": "Marine animal medicine (mammal and fish)",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -73,6 +98,11 @@
         {
           "id": "16084",
           "label": "e",
+          "text": "Poultry medicine",
+          "requirement_path": "1.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -85,6 +115,11 @@
         {
           "id": "16085",
           "label": "f",
+          "text": "Wildlife medicine and aquaculture medicine",
+          "requirement_path": "1.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -99,6 +134,11 @@
     {
       "id": "16086",
       "label": "2",
+      "text": "Discuss with your counselor the roles a veterinarian plays in the following:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -110,6 +150,11 @@
         {
           "id": "16087",
           "label": "a",
+          "text": "Public health medicine and zoonotic disease surveillance and control",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "16088",
           "label": "b",
+          "text": "The military",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -134,6 +184,11 @@
         {
           "id": "16089",
           "label": "c",
+          "text": "Food safety and inspection",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -146,6 +201,11 @@
         {
           "id": "16090",
           "label": "d",
+          "text": "Laboratory animal medicine and research",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -158,6 +218,11 @@
         {
           "id": "16091",
           "label": "e",
+          "text": "Teaching and government",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -172,6 +237,11 @@
     {
       "id": "16095",
       "label": "3",
+      "text": "Describe the training required to become a veterinarian. Where is the veterinary medical college in your state or nearest to you? Describe the prerequisites for applying to veterinary school.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -184,6 +254,11 @@
     {
       "id": "16096",
       "label": "4",
+      "text": "Tell your counselor what a registered veterinary technician (R.V.T.) or animal health technician (A.H.T.) is. Describe the training required to become an R.V.T. or A.H.T. Where is the school or facility for R.V.T. or A.H.T training in your state or nearest to you? Describe the role an R.V.T. or A.H.T. would play in assisting a veterinarian working in three of the practice types listed in requirement 1.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -196,6 +271,11 @@
     {
       "id": "16097",
       "label": "5",
+      "text": "Discuss with your counselor the role a veterinarian plays in the human-animal bond.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -208,6 +288,11 @@
     {
       "id": "16092",
       "label": "6",
+      "text": "Do ONE of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -219,6 +304,11 @@
         {
           "id": "16093",
           "label": "a",
+          "text": "Visit a veterinary clinic, hospital, or veterinary referral teaching hospital that does work in one of the practices listed in requirement 1. Spend as much time as you can observing the veterinarians and their staff. Prepare a presentation on what you observed and learned at the facility and share with your counselor.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -231,6 +321,11 @@
         {
           "id": "16094",
           "label": "b",
+          "text": "Spend as much time as possible with a veterinarian who works in one of the fields listed in requirement 2. Learn what special training beyond veterinary medical school may have been required for that position. Learn about any special or unusual activities required of this position. Prepare a presentation and share what you have learned about this field of veterinary medicine with your counselor. Include how this field serves the needs of the general public.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -245,6 +340,11 @@
     {
       "id": "16098",
       "label": "7",
+      "text": "Select one career from any of the lists in requirements 1 or 2. Discuss the following with your counselor:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -256,6 +356,11 @@
         {
           "id": "16099",
           "label": "a",
+          "text": "Why would one choose this particular career field?",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -268,6 +373,11 @@
         {
           "id": "16100",
           "label": "b",
+          "text": "What would you like about this job?",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -280,6 +390,11 @@
         {
           "id": "16101",
           "label": "c",
+          "text": "What would be the biggest challenges in doing this job?",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -292,6 +407,11 @@
         {
           "id": "16102",
           "label": "d",
+          "text": "What to you has been the most surprising aspect of this job?",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -304,6 +424,11 @@
         {
           "id": "16103",
           "label": "e",
+          "text": "What continuing education requirements are required to maintain certification for this job?",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

@@ -14,6 +14,11 @@
     {
       "id": "13583",
       "label": "1",
+      "text": "Read the safety rules for metalwork. Discuss how to be safe while working with metal. Discuss with your counselor the additional safety rules that apply to the metalwork option you choose for requirement 5.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "13542",
       "label": "2",
+      "text": "Explain the following terms: native metal, malleable, metallurgy, alloy, nonferrous, and ferrous. Then do the following:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -47,6 +57,11 @@
         {
           "id": "13543",
           "label": "a",
+          "text": "Name two nonferrous alloys used by pre-Iron Age metalworkers. Name the metals that are combined to form these alloys.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -68,6 +83,11 @@
         {
           "id": "13544",
           "label": "b",
+          "text": "Name three ferrous alloys used by modern metalworkers.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -85,6 +105,11 @@
         {
           "id": "13545",
           "label": "c",
+          "text": "Describe how to work-harden a metal.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -106,6 +131,11 @@
         {
           "id": "13546",
           "label": "d",
+          "text": "Describe how to anneal a nonferrous and a ferrous metal.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -133,6 +163,11 @@
     {
       "id": "13547",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -144,6 +179,11 @@
         {
           "id": "13548",
           "label": "a",
+          "text": "Work-harden a piece of 26- or 28-gauge sheet brass or sheet copper. Put a 45-degree bend in the metal, then heavily peen the area along the bend line to work-harden it. Note the amount of effort that is required to overcome the yield point in this unworked piece of metal.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -161,6 +201,11 @@
         {
           "id": "13549",
           "label": "b",
+          "text": "Soften the work-hardened piece from requirement 3(a) by annealing it, and then try to remove the 45-degree bend. Note the amount of effort that is required to overcome the yield point.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -173,6 +218,11 @@
         {
           "id": "13550",
           "label": "c",
+          "text": "Make a temper color index from a flat piece of steel. Using hand tools, make and temper a center punch of medium-carbon or high-carbon steel.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -192,6 +242,11 @@
     {
       "id": "13584",
       "label": "4",
+      "text": "Do ONE of the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -203,6 +258,11 @@
         {
           "id": "13585",
           "label": "a",
+          "text": "Identify three career opportunities that would use skills and knowledge in metalworking. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -232,6 +292,11 @@
         {
           "id": "13586",
           "label": "b",
+          "text": "Identify how you might use the skills and knowledge in metalworking to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -259,6 +324,11 @@
     {
       "id": "13551",
       "label": "5",
+      "text": "After completing the first four requirements, complete ONE of the following options:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -270,6 +340,11 @@
         {
           "id": "13552",
           "label": null,
+          "text": "Option A—Sheet Metal Mechanic/Tinsmith. Do ALL of the following:",
+          "requirement_path": "5.option-a",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -288,86 +363,117 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13556",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Name and describe the use of the basic sheet metalworking tools."
-            }
-          ],
-          "resources": [
+              "id": "13556",
+              "label": "1",
+              "text": "Name and describe the use of the basic sheet metalworking tools.",
+              "requirement_path": "5.option-a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Name and describe the use of the basic sheet metalworking tools."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Essential Metal Fabrication Tools for Beginners: Tips and How I Use Them! (video)",
+                  "url": "https://youtu.be/I6Sliu42IJw"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Essential Metal Fabrication Tools for Beginners: Tips and How I Use Them! (video)",
-              "url": "https://youtu.be/I6Sliu42IJw"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13557",
-          "label": "2",
-          "content": [
+              "id": "13557",
+              "label": "2",
+              "text": "Create a sketch of two objects to make from sheet metal. Include each component's dimensions on your sketch, which need not be to scale.",
+              "requirement_path": "5.option-a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Create a sketch of two objects to make from sheet metal. Include each component's dimensions on your sketch, which need not be to scale."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Create a sketch of two objects to make from sheet metal. Include each component's dimensions on your sketch, which need not be to scale."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13553",
-          "label": "3",
-          "content": [
+              "id": "13553",
+              "label": "3",
+              "text": "Make two objects out of 24- or 26-gauge sheet metal. Use patterns either provided by your counselor or made by you and approved by your counselor. Construct these objects using a metal that is appropriate to the object's ultimate purpose, and using cutting, bending, edging, and either soldering or brazing.",
+              "requirement_path": "5.option-a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make two objects out of 24- or 26-gauge sheet metal. Use patterns either provided by your counselor or made by you and approved by your counselor. Construct these objects using a metal that is appropriate to the object's ultimate purpose, and using cutting, bending, edging, and either soldering or brazing."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Make a Sheet Metal Box (video)",
+                  "url": "https://youtu.be/XtiYADl3PEo"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Make two objects out of 24- or 26-gauge sheet metal. Use patterns either provided by your counselor or made by you and approved by your counselor. Construct these objects using a metal that is appropriate to the object's ultimate purpose, and using cutting, bending, edging, and either soldering or brazing."
-            }
-          ],
-          "resources": [
+              "id": "13554",
+              "label": "a",
+              "text": "One object also must include at least one riveted component.",
+              "requirement_path": "5.option-a.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "One object also must include at least one riveted component."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "title": "How To Make a Sheet Metal Box (video)",
-              "url": "https://youtu.be/XtiYADl3PEo"
+              "id": "13555",
+              "label": "b",
+              "text": "If you do not make your objects from zinc-plated sheet steel or tin-plated sheet steel, preserve your work from oxidation.",
+              "requirement_path": "5.option-a.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "If you do not make your objects from zinc-plated sheet steel or tin-plated sheet steel, preserve your work from oxidation."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Prevent Rust (video)",
+                  "url": "https://youtu.be/_-Gfwzc5ASE"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13554",
-          "label": "a",
-          "content": [
-            {
-              "type": "text",
-              "value": "One object also must include at least one riveted component."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13555",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "If you do not make your objects from zinc-plated sheet steel or tin-plated sheet steel, preserve your work from oxidation."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How To Prevent Rust (video)",
-              "url": "https://youtu.be/_-Gfwzc5ASE"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13558",
           "label": null,
+          "text": "Option B—Silversmith. Do ALL of the following:",
+          "requirement_path": "5.option-b",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -386,108 +492,144 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13563",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Name and describe the use of a silversmith's basic tools."
-            }
-          ],
-          "resources": [
+              "id": "13563",
+              "label": "1",
+              "text": "Name and describe the use of a silversmith's basic tools.",
+              "requirement_path": "5.option-b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Name and describe the use of a silversmith's basic tools."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Silversmithing Tools for Beginners | All You Need to get Started Making Jewelry! (video)",
+                  "url": "https://youtu.be/vRd5YcRpyig"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Silversmithing Tools for Beginners | All You Need to get Started Making Jewelry! (video)",
-              "url": "https://youtu.be/vRd5YcRpyig"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13564",
-          "label": "2",
-          "content": [
+              "id": "13564",
+              "label": "2",
+              "text": "Create a sketch of two objects to make from sheet silver. Include each component's dimensions on your sketch, which need not be to scale.",
+              "requirement_path": "5.option-b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Create a sketch of two objects to make from sheet silver. Include each component's dimensions on your sketch, which need not be to scale."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Create a sketch of two objects to make from sheet silver. Include each component's dimensions on your sketch, which need not be to scale."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13559",
-          "label": "3",
-          "content": [
+              "id": "13559",
+              "label": "3",
+              "text": "Make two objects out of 18- or 20-gauge sheet copper. Use patterns either provided by your counselor or made by you and approved by your counselor. Both objects must include a soldered joint. If you have prior silversmithing experience, you may substitute sterling silver, nickel silver, or lead-free pewter.",
+              "requirement_path": "5.option-b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make two objects out of 18- or 20-gauge sheet copper. Use patterns either provided by your counselor or made by you and approved by your counselor. Both objects must include a soldered joint. If you have prior silversmithing experience, you may substitute sterling silver, nickel silver, or lead-free pewter."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "The Basics of Soldering | Jewelry 101 (video)",
+                  "url": "https://youtu.be/Q_gejiVEClE"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Make two objects out of 18- or 20-gauge sheet copper. Use patterns either provided by your counselor or made by you and approved by your counselor. Both objects must include a soldered joint. If you have prior silversmithing experience, you may substitute sterling silver, nickel silver, or lead-free pewter."
-            }
-          ],
-          "resources": [
+              "id": "13560",
+              "label": "a",
+              "text": "At least one object must include a sawed component you have made yourself.",
+              "requirement_path": "5.option-b.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "At least one object must include a sawed component you have made yourself."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Step-by-Step Guide to Sawing for Handmade Jewelry (video)",
+                  "url": "https://youtu.be/KfA9HlzyAHU"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "The Basics of Soldering | Jewelry 101 (video)",
-              "url": "https://youtu.be/Q_gejiVEClE"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13560",
-          "label": "a",
-          "content": [
+              "id": "13561",
+              "label": "b",
+              "text": "At least one object must include a sunken part you have made yourself.",
+              "requirement_path": "5.option-b.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "At least one object must include a sunken part you have made yourself."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Basic Sinking & Planishing (video)",
+                  "url": "https://youtu.be/_kGPPtUYuI4"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "At least one object must include a sawed component you have made yourself."
+              "id": "13562",
+              "label": "c",
+              "text": "Clean and polish your objects.",
+              "requirement_path": "5.option-b.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Clean and polish your objects."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How I Clean & Polish Jewelry RIGHT After Casting | Step By Step (video)",
+                  "url": "https://youtu.be/A-NTbRUhASQ"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "resources": [
-            {
-              "title": "Step-by-Step Guide to Sawing for Handmade Jewelry (video)",
-              "url": "https://youtu.be/KfA9HlzyAHU"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13561",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "At least one object must include a sunken part you have made yourself."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Basic Sinking & Planishing (video)",
-              "url": "https://youtu.be/_kGPPtUYuI4"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13562",
-          "label": "c",
-          "content": [
-            {
-              "type": "text",
-              "value": "Clean and polish your objects."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How I Clean & Polish Jewelry RIGHT After Casting | Step By Step (video)",
-              "url": "https://youtu.be/A-NTbRUhASQ"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13565",
           "label": null,
+          "text": "Option C—Founder. Do ALL of the following:",
+          "requirement_path": "5.option-c",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -506,96 +648,127 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13569",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Name and describe the use of the basic parts of a two-piece mold. Name at least three different types of molds."
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Are the Common Types of Metal Casting Process in Engineering and Industry (video)",
-              "url": "https://youtu.be/VveT7Ve7IeQ"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13570",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Create a sketch of two objects to cast in metal. Include each component's dimensions on your sketch, which need not be to scale."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13566",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Make two molds, one using a pattern provided by your counselor and another one you have made yourself that has been approved by your counselor. Position the pouring gate and vents yourself. "
-            },
-            {
-              "type": "element",
-              "tag": "b",
-              "attrs": {},
-              "children": [
+              "id": "13569",
+              "label": "1",
+              "text": "Name and describe the use of the basic parts of a two-piece mold. Name at least three different types of molds.",
+              "requirement_path": "5.option-c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
                   "type": "text",
-                  "value": "Note:"
+                  "value": "Name and describe the use of the basic parts of a two-piece mold. Name at least three different types of molds."
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "What Are the Common Types of Metal Casting Process in Engineering and Industry (video)",
+                  "url": "https://youtu.be/VveT7Ve7IeQ"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " Do not use copyrighted materials as patterns."
-            }
-          ],
-          "resources": [
+              "id": "13570",
+              "label": "2",
+              "text": "Create a sketch of two objects to cast in metal. Include each component's dimensions on your sketch, which need not be to scale.",
+              "requirement_path": "5.option-c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Create a sketch of two objects to cast in metal. Include each component's dimensions on your sketch, which need not be to scale."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "title": "Sand Casting Lesson for Beginners - Step-by-Step (video)",
-              "url": "https://youtu.be/XlRK_SMWX7Y"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13567",
-          "label": "a",
-          "content": [
+              "id": "13566",
+              "label": "3",
+              "text": "Make two molds, one using a pattern provided by your counselor and another one you have made yourself that has been approved by your counselor. Position the pouring gate and vents yourself. Note: Do not use copyrighted materials as patterns.",
+              "requirement_path": "5.option-c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make two molds, one using a pattern provided by your counselor and another one you have made yourself that has been approved by your counselor. Position the pouring gate and vents yourself. "
+                },
+                {
+                  "type": "element",
+                  "tag": "b",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Note:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Do not use copyrighted materials as patterns."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Sand Casting Lesson for Beginners - Step-by-Step (video)",
+                  "url": "https://youtu.be/XlRK_SMWX7Y"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Using lead-free pewter, make a casting using a mold provided by your counselor."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13568",
-          "label": "b",
-          "content": [
+              "id": "13567",
+              "label": "a",
+              "text": "Using lead-free pewter, make a casting using a mold provided by your counselor.",
+              "requirement_path": "5.option-c.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Using lead-free pewter, make a casting using a mold provided by your counselor."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Using lead-free pewter, make a casting using the mold that you have made."
+              "id": "13568",
+              "label": "b",
+              "text": "Using lead-free pewter, make a casting using the mold that you have made.",
+              "requirement_path": "5.option-c.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Using lead-free pewter, make a casting using the mold that you have made."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13571",
           "label": "d",
+          "text": "Option D—Blacksmith. Do ALL of the following:",
+          "requirement_path": "5.d",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -614,213 +787,270 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13581",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Name and describe the use of a blacksmith's basic tools."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Basic Blacksmithing Tools (video)",
-              "url": "https://youtu.be/dw3rSK7L1Aw?si=DGyYJl6q65MdrVNY"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13582",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Make a sketch of two objects to hot-forge. Include each component's dimensions on your sketch, which need not be to scale."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13572",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Using low-carbon steel at least 1/4 inch thick, perform the following exercises:"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13573",
-          "label": "a",
-          "content": [
-            {
-              "type": "text",
-              "value": "Draw out by forging a taper."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Blacksmith Basics: How to Draw Out a Taper  (video)",
-              "url": "https://youtu.be/xUPM9emeOZU?si=s3kZQxvw4G2aXI3u"
-            },
-            {
-              "title": "Tapering for Beginners (video)",
-              "url": "https://youtu.be/U363Q8UxrJA"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13574",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Use the horn of the anvil by forging a "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "13581",
+              "label": "1",
+              "text": "Name and describe the use of a blacksmith's basic tools.",
+              "requirement_path": "5.d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
                   "type": "text",
-                  "value": "U"
+                  "value": "Name and describe the use of a blacksmith's basic tools."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Basic Blacksmithing Tools (video)",
+                  "url": "https://youtu.be/dw3rSK7L1Aw?si=DGyYJl6q65MdrVNY"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "13582",
+              "label": "2",
+              "text": "Make a sketch of two objects to hot-forge. Include each component's dimensions on your sketch, which need not be to scale.",
+              "requirement_path": "5.d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a sketch of two objects to hot-forge. Include each component's dimensions on your sketch, which need not be to scale."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "13572",
+              "label": "3",
+              "text": "Using low-carbon steel at least 1/4 inch thick, perform the following exercises:",
+              "requirement_path": "5.d.3",
+              "node_kind": "action_requirement",
+              "is_container": true,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Using low-carbon steel at least 1/4 inch thick, perform the following exercises:"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "13573",
+                  "label": "a",
+                  "text": "Draw out by forging a taper.",
+                  "requirement_path": "5.d.3.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Draw out by forging a taper."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Blacksmith Basics: How to Draw Out a Taper  (video)",
+                      "url": "https://youtu.be/xUPM9emeOZU?si=s3kZQxvw4G2aXI3u"
+                    },
+                    {
+                      "title": "Tapering for Beginners (video)",
+                      "url": "https://youtu.be/U363Q8UxrJA"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "13574",
+                  "label": "b",
+                  "text": "Use the horn of the anvil by forging a U -shaped bend.",
+                  "requirement_path": "5.d.3.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Use the horn of the anvil by forging a "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "U"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " -shaped bend."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Blacksmithing For Beginners - Working On The Horn Of The Anvil (video)",
+                      "url": "https://youtu.be/-ESejG0pcGs?si=tmuAxFac5Ki45E-D"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "13575",
+                  "label": "c",
+                  "text": "Form a decorative twist in a piece of square steel.",
+                  "requirement_path": "5.d.3.c",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Form a decorative twist in a piece of square steel."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Blacksmithing for Beginners - Twisting Bar Stock (video)",
+                      "url": "https://youtu.be/PINugkxOues?si=XuDneyIAtlTuzb78"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "13576",
+                  "label": "d",
+                  "text": "Use the edge of the anvil to bend metal by forging an L -shaped bend.",
+                  "requirement_path": "5.d.3.d",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Use the edge of the anvil to bend metal by forging an "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "L"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " -shaped bend."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Fundamentals of Blacksmithing - Bending (video)",
+                      "url": "https://youtu.be/Rudy5ZNGp1A?si=p_11xuWq6tk_Nq6M"
+                    }
+                  ],
+                  "sub_requirements": []
                 }
               ]
             },
             {
-              "type": "text",
-              "value": " -shaped bend."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Blacksmithing For Beginners - Working On The Horn Of The Anvil (video)",
-              "url": "https://youtu.be/-ESejG0pcGs?si=tmuAxFac5Ki45E-D"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13575",
-          "label": "c",
-          "content": [
-            {
-              "type": "text",
-              "value": "Form a decorative twist in a piece of square steel."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Blacksmithing for Beginners - Twisting Bar Stock (video)",
-              "url": "https://youtu.be/PINugkxOues?si=XuDneyIAtlTuzb78"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13576",
-          "label": "d",
-          "content": [
-            {
-              "type": "text",
-              "value": "Use the edge of the anvil to bend metal by forging an "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "13577",
+              "label": "4",
+              "text": "Using low-carbon steel at least 1/4 inch thick, make the two objects you sketched that require hot-forging. Be sure you have your counselor's approval before you begin.",
+              "requirement_path": "5.d.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
                   "type": "text",
-                  "value": "L"
+                  "value": "Using low-carbon steel at least 1/4 inch thick, make the two objects you sketched that require hot-forging. Be sure you have your counselor's approval before you begin."
                 }
-              ]
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " -shaped bend."
-            }
-          ],
-          "resources": [
+              "id": "13578",
+              "label": "a",
+              "text": "Include a decorative twist on one object.",
+              "requirement_path": "5.d.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Include a decorative twist on one object."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Blacksmithing for Beginners - Twisting Bar Stock (video)",
+                  "url": "https://youtu.be/PINugkxOues?si=XuDneyIAtlTuzb78"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Fundamentals of Blacksmithing - Bending (video)",
-              "url": "https://youtu.be/Rudy5ZNGp1A?si=p_11xuWq6tk_Nq6M"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13577",
-          "label": "4",
-          "content": [
+              "id": "13579",
+              "label": "b",
+              "text": "Include a hammer-riveted joint in one object.",
+              "requirement_path": "5.d.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Include a hammer-riveted joint in one object."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Forging Red Hot Rivet on This Awesome Anvil (video)",
+                  "url": "https://youtube.com/shorts/A73-0yq-XKQ?si=KfdUqcsa5E1Q-NBS"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Using low-carbon steel at least 1/4 inch thick, make the two objects you sketched that require hot-forging. Be sure you have your counselor's approval before you begin."
+              "id": "13580",
+              "label": "c",
+              "text": "Preserve your work from oxidation.",
+              "requirement_path": "5.d.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Preserve your work from oxidation."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Preventing Rust The Old Fashioned Way And Protecting Some Gifts (video)",
+                  "url": "https://youtu.be/xIvjVN7bk5w?si=QWPSQ_-ghLJ1hi45"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13578",
-          "label": "a",
-          "content": [
-            {
-              "type": "text",
-              "value": "Include a decorative twist on one object."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Blacksmithing for Beginners - Twisting Bar Stock (video)",
-              "url": "https://youtu.be/PINugkxOues?si=XuDneyIAtlTuzb78"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13579",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "Include a hammer-riveted joint in one object."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Forging Red Hot Rivet on This Awesome Anvil (video)",
-              "url": "https://youtube.com/shorts/A73-0yq-XKQ?si=KfdUqcsa5E1Q-NBS"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13580",
-          "label": "c",
-          "content": [
-            {
-              "type": "text",
-              "value": "Preserve your work from oxidation."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Preventing Rust The Old Fashioned Way And Protecting Some Gifts (video)",
-              "url": "https://youtu.be/xIvjVN7bk5w?si=QWPSQ_-ghLJ1hi45"
-            }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     }

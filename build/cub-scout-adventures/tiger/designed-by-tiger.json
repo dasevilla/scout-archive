@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Think about something that you would like to build. Draw a picture of what the final project should look like.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Think about something that you would like to build. Draw a picture of what the final project should look like.",
       "activities": [
         {
           "name": "My Project Plan Drawing",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Using your drawing as a guide, build the project.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Using your drawing as a guide, build the project.",
       "activities": [
         {
           "name": "Crossing the River",
@@ -68,6 +76,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "When completed, discuss with your Tiger adult partner what could be done to improve your project.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -76,7 +89,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "When completed, discuss with your Tiger adult partner what could be done to improve your project.",
       "activities": [
         {
           "name": "Room For Improvement",
@@ -92,6 +104,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Make the improvement to your project.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -100,7 +117,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Make the improvement to your project.",
       "activities": [
         {
           "name": "Making it Better",
@@ -116,6 +132,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Make a drawing of your final project.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -124,7 +145,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Make a drawing of your final project.",
       "activities": [
         {
           "name": "Comparing Start to Finish",

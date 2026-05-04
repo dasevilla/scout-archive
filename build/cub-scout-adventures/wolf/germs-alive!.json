@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Wash your hands with soap and water while singing the “Happy Birthday” song two times.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Wash your hands with soap and water while singing the “Happy Birthday” song two times.",
       "activities": [
         {
           "name": "Happy Birthday Hand Washing",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Play Germ Magnet with our den or your family. Wash your hands afterward.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play Germ Magnet with our den or your family. Wash your hands afterward.",
       "activities": [
         {
           "name": "Glitter Germ Magnet",
@@ -68,6 +76,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Grow a mold culture. Show what formed at a den or pack meeting.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -76,7 +89,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Grow a mold culture. Show what formed at a den or pack meeting.",
       "activities": [
         {
           "name": "Germy Bread Investigation",

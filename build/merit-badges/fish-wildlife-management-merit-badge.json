@@ -14,6 +14,11 @@
     {
       "id": "13408",
       "label": "1",
+      "text": "Describe the meaning and purposes of fish and wildlife conservation and management.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "13409",
       "label": "2",
+      "text": "List and discuss at least three major problems that continue to threaten your state's fish and wildlife resources.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -48,6 +58,11 @@
     {
       "id": "13410",
       "label": "3",
+      "text": "Describe some ways in which everyone can help with fish and wildlife conservation.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -65,6 +80,11 @@
     {
       "id": "13411",
       "label": "4",
+      "text": "List and describe five major fish and wildlife management practices used by managers in your state.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -82,6 +102,11 @@
     {
       "id": "13394",
       "label": "5",
+      "text": "Do ONE of the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -93,6 +118,11 @@
         {
           "id": "13395",
           "label": "a",
+          "text": "Construct, erect, and check regularly at least two artificial nest boxes (wood duck, bluebird, squirrel, etc.) and keep written records for one nesting season.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +140,11 @@
         {
           "id": "13396",
           "label": "b",
+          "text": "Construct, erect, and check regularly bird feeders and keep written records daily over a two-week period of the kinds of birds visiting the feeders.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -127,6 +162,11 @@
         {
           "id": "13397",
           "label": "c",
+          "text": "Develop and implement a fishery improvement project or a backyard wildlife habitat improvement project. Share the results with your counselor.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -144,6 +184,11 @@
         {
           "id": "13398",
           "label": "d",
+          "text": "Design and construct a wildlife blind near a game trail, water hole, salt lick, bird feeder, or birdbath and take good photographs or make sketches from the blind of any combination of 10 wild birds, mammals, reptiles, or amphibians.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -163,6 +208,11 @@
     {
       "id": "13399",
       "label": "6",
+      "text": "Do ONE of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -174,6 +224,11 @@
         {
           "id": "13400",
           "label": "a",
+          "text": "Observe and record 25 species of wildlife. Your list may include mammals, birds, reptiles, amphibians, and fish. Write down when and where each animal was seen.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -186,6 +241,11 @@
         {
           "id": "13401",
           "label": "b",
+          "text": "List the wildlife species in your state that are classified as endangered, threatened, exotic, non-native, game species, furbearers, or migratory game birds. Discuss with your counselor management practices in place or being developed for at least three of these species.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -203,6 +263,11 @@
         {
           "id": "13402",
           "label": "c",
+          "text": "Start a scrapbook of North American fish and wildlife. Insert markers to divide the book into separate parts for mammals, birds, reptiles, amphibians, and fish. Collect articles on such subjects as life histories, habitat, behavior, and feeding habits on all of the five categories and place them in your notebook accordingly. Articles and pictures may be taken from newspapers or science, nature, and outdoor magazines, or from other sources including the internet (with your parent or guardian's permission). Enter at least five articles on mammals, five on birds, five on reptiles, five on amphibians, and five on fish. Put each animal on a separate sheet in alphabetical order. Include pictures whenever possible.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -222,6 +287,11 @@
     {
       "id": "13403",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -233,6 +303,11 @@
         {
           "id": "13404",
           "label": "a",
+          "text": "Determine the age of five species of fish from scale samples or identify various age classes of one species in a lake and report the results.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -250,6 +325,11 @@
         {
           "id": "13405",
           "label": "b",
+          "text": "Conduct a creel census on a small lake to estimate catch per unit effort and report the results to your counselor.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -267,6 +347,11 @@
         {
           "id": "13406",
           "label": "c",
+          "text": "Examine the stomach contents of three fish and record the findings. It is not necessary to catch any fish for this option.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -284,6 +369,11 @@
         {
           "id": "13407",
           "label": "d",
+          "text": "Make a freshwater aquarium. Include at least four species of native plants and four species of animal life, such as whirligig beetles, freshwater shrimp, tadpoles, water snails, and golden shiners. After 60 days of observation, discuss with your counselor the life cycles, food chains, and management needs you have recognized. Before completing this requirement, check local laws on releasing these organisms back into the wild, and follow your counselor's direction in disposing of these organisms humanely and safely.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -303,6 +393,11 @@
     {
       "id": "13412",
       "label": "8",
+      "text": "Identify three career opportunities that would use skills and knowledge by fish and wildlife professionals. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

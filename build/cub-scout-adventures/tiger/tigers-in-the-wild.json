@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
       "activities": [
         {
           "name": "Grab the Six Essentials",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "With your den leader or Tiger adult partner, learn about the Outdoor Code.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den leader or Tiger adult partner, learn about the Outdoor Code.",
       "activities": [
         {
           "name": "Outdoor Code Puzzle",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials. While outside, identify things that you see with your Tiger adult partner that are natural and things that are manmade.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials. While outside, identify things that you see with your Tiger adult partner that are natural and things that are manmade.",
       "activities": [
         {
           "name": "5 Step Seek",
@@ -128,6 +140,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Identify common animals that are found where you live. Learn which of those animals is domesticated and which animal is wild. Draw a picture of your favorite animal.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -136,7 +153,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify common animals that are found where you live. Learn which of those animals is domesticated and which animal is wild. Draw a picture of your favorite animal.",
       "activities": [
         {
           "name": "Animals I know",
@@ -179,6 +195,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Look for a tree where you live. Describe how this tree is helpful.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -187,7 +208,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Look for a tree where you live. Describe how this tree is helpful.",
       "activities": [
         {
           "name": "Leaf and Bark Rubbing",

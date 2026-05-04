@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Make a Lion using only squares, triangles, and circles.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Make a Lion using only squares, triangles, and circles.",
       "activities": [
         {
           "name": "Clay Lion",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Play a game with your Lion adult partner or den that is based on counting or numbers.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play a game with your Lion adult partner or den that is based on counting or numbers.",
       "activities": [
         {
           "name": "Hop to it Lion",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Organize a group of items based on shape, then based on color, and one other category. Count how many different shapes are in each category. After organizing them build anything using only one category.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Organize a group of items based on shape, then based on color, and one other category. Count how many different shapes are in each category. After organizing them build anything using only one category.",
       "activities": [
         {
           "name": "Count the Shapes in My Face",

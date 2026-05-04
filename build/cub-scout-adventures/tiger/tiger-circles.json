@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "With your parent or legal guardian talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Draw a picture of your favorite family’s faith tradition holiday or celebration.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your parent or legal guardian talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Draw a picture of your favorite family’s faith tradition holiday or celebration.",
       "activities": [
         {
           "name": "My Family Celebrations",
@@ -62,6 +66,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "With your family, attend a religious service **OR** other gathering that shows how your family expresses Family & Reverence.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +94,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your family, attend a religious service **OR** other gathering that shows how your family expresses Family & Reverence.",
       "activities": [
         {
           "name": "Tiger Religious Celebration",
@@ -119,6 +127,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Carry out an act of kindness.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -127,7 +140,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Carry out an act of kindness.",
       "activities": [
         {
           "name": "Tiger A Note of Kindness",

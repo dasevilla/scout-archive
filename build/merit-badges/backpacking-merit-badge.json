@@ -14,6 +14,11 @@
     {
       "id": "11461",
       "label": "1",
+      "text": "Discuss the prevention of and treatment for the health concerns that could occur while backpacking, including hypothermia, heat reactions, frostbite, dehydration, insect stings, tick bites, snakebite, and blisters.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -39,6 +44,11 @@
     {
       "id": "11462",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -50,6 +60,11 @@
         {
           "id": "11463",
           "label": "a",
+          "text": "List the 10 Scout Basic Essentials to be carried on any backpacking trek and explain why each item is necessary.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -67,6 +82,11 @@
         {
           "id": "11464",
           "label": "b",
+          "text": "Describe 10 ways you can limit the weight and bulk to be carried in your pack without jeopardizing your health or safety.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -86,6 +106,11 @@
     {
       "id": "11465",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -97,6 +122,11 @@
         {
           "id": "11467",
           "label": "a",
+          "text": "Define limits on the number of backpackers appropriate for a trek crew.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -118,6 +148,11 @@
         {
           "id": "11468",
           "label": "b",
+          "text": "Describe how a trek crew should be organized.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +170,11 @@
         {
           "id": "11469",
           "label": "c",
+          "text": "Tell how you would minimize risk on a backpacking trek.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -147,6 +187,11 @@
         {
           "id": "11470",
           "label": "d",
+          "text": "Explain the purpose of an emergency response plan.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -166,6 +211,11 @@
     {
       "id": "11466",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -177,6 +227,11 @@
         {
           "id": "11471",
           "label": "a",
+          "text": "Describe the importance of following the Leave No Trace Seven Principles and the Outdoor Code while backpacking, and at least five ways you can lessen the crew's impact on the environment.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +249,11 @@
         {
           "id": "11472",
           "label": "b",
+          "text": "Describe proper methods of handling human and other wastes while on a backpacking trek. Describe the importance of and means to assure personal cleanliness while on a backpacking trek.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -211,6 +271,11 @@
         {
           "id": "11473",
           "label": "c",
+          "text": "Tell what factors are important in choosing a campsite.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -230,6 +295,11 @@
     {
       "id": "11474",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -241,6 +311,11 @@
         {
           "id": "11475",
           "label": "a",
+          "text": "Demonstrate two ways to treat water and tell why water treatment is essential.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -258,6 +333,11 @@
         {
           "id": "11476",
           "label": "b",
+          "text": "Explain to your counselor the importance of staying well-hydrated during a trek.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -277,6 +357,11 @@
     {
       "id": "11477",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -288,6 +373,11 @@
         {
           "id": "11478",
           "label": "a",
+          "text": "Demonstrate that you can read topographic maps.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -305,6 +395,11 @@
         {
           "id": "11479",
           "label": "b",
+          "text": "While on a trek, use a map and compass to establish your position on the ground at three different locations, OR use a GPS receiver to establish your position on a topographic map and on the ground at three different locations.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -322,6 +417,11 @@
         {
           "id": "11480",
           "label": "c",
+          "text": "Explain how to stay found, and what to do if you get lost.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -341,6 +441,11 @@
     {
       "id": "11481",
       "label": "7",
+      "text": "Tell how to properly prepare for and deal with inclement weather.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -358,6 +463,11 @@
     {
       "id": "11482",
       "label": "8",
+      "text": "Do the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -369,6 +479,11 @@
         {
           "id": "11483",
           "label": "a",
+          "text": "Explain the advantages and disadvantages of the different types of backpacking stoves using at least three different types of fuel.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -386,6 +501,11 @@
         {
           "id": "11484",
           "label": "b",
+          "text": "Demonstrate that you know how to operate a backpacking stove safely and to handle liquid fuel safely.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -398,6 +518,11 @@
         {
           "id": "11485",
           "label": "c",
+          "text": "Prepare three meals using a stove and fuel you can carry in a backpack.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -410,6 +535,11 @@
         {
           "id": "11486",
           "label": "d",
+          "text": "Demonstrate that you know how to keep cooking and eating gear clean and sanitary, and that you practice proper methods for food storage while on a backpacking trek.",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -429,6 +559,11 @@
     {
       "id": "11487",
       "label": "9",
+      "text": "Do the following:",
+      "requirement_path": "9",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -440,6 +575,11 @@
         {
           "id": "11488",
           "label": "a",
+          "text": "Write a plan that includes a schedule for a patrol/crew backpacking hike of at least 2 miles.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -457,6 +597,11 @@
         {
           "id": "11489",
           "label": "b",
+          "text": "Conduct a prehike inspection of the patrol and its equipment.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -478,6 +623,11 @@
         {
           "id": "11490",
           "label": "c",
+          "text": "Show that you know how to properly pack your personal gear and your share of the crew's gear and food.",
+          "requirement_path": "9.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -495,6 +645,11 @@
         {
           "id": "11491",
           "label": "d",
+          "text": "Show you can properly shoulder your pack and adjust it for proper wear.",
+          "requirement_path": "9.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -512,6 +667,11 @@
         {
           "id": "11492",
           "label": "e",
+          "text": "While using the plan you developed for requirement 9(a), carry your fully loaded pack to complete a hike of at least 2 miles.",
+          "requirement_path": "9.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -526,6 +686,11 @@
     {
       "id": "11493",
       "label": "10",
+      "text": "Following the Leave No Trace Seven Principles and the Outdoor Code, participate in at least three backpacking treks of at least three days each and at least 15 miles each, and using at least two different campsites on each trek. Carry everything you will need throughout the trek.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -547,6 +712,11 @@
     {
       "id": "11494",
       "label": "11",
+      "text": "Do the following:",
+      "requirement_path": "11",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -558,6 +728,11 @@
         {
           "id": "11495",
           "label": "a",
+          "text": "Write a plan for a backpacking trek of at least five days using at least three different campsites and covering at least 30 miles. Your plan must include a description of and route to the trek area, a schedule (including a daily schedule), a list of food and equipment needs, a safety and emergency plan, and a budget.",
+          "requirement_path": "11.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -570,6 +745,11 @@
         {
           "id": "11496",
           "label": "b",
+          "text": "Following the Leave No Trace Seven Principles and the Outdoor Code, take the trek as planned in requirement 11(a) that is at least five full days, covering at least 30 miles and utilizing at least three different campsites. While on trek, complete at least one service project approved by your counselor.",
+          "requirement_path": "11.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -591,6 +771,11 @@
         {
           "id": "11497",
           "label": "c",
+          "text": "Keep a daily journal during the trek that includes a day-by-day description of your activities, including notes about what worked well and thoughts about improvements that could be made for the next trek.",
+          "requirement_path": "11.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

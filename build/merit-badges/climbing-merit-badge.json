@@ -14,6 +14,11 @@
     {
       "id": "12783",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "12784",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while participating in climbing and rappelling activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "12785",
           "label": "b",
+          "text": "Show that you know first aid for and how to prevent injuries or illnesses that could occur during climbing activities, including heat and cold reactions, dehydration, stopped breathing, sprains, abrasions, fractures, rope burns, blisters, snakebite, concussions, and insect bites or stings.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "12786",
           "label": "c",
+          "text": "Identify the conditions that must exist before performing CPR on a person.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "12795",
       "label": "2",
+      "text": "Learn the Leave No Trace Seven Principles and the Outdoor Code and explain what they mean.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -75,6 +100,11 @@
     {
       "id": "12796",
       "label": "3",
+      "text": "Present yourself properly dressed for belaying, climbing, and rappelling. Explain why you are wearing each piece of gear and discuss qualities of easy movement, entanglement free and good weather protection and comfort.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -87,6 +117,11 @@
     {
       "id": "12757",
       "label": "4",
+      "text": "Location. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -109,6 +144,11 @@
         {
           "id": "12758",
           "label": "a",
+          "text": "Explain how the difficulty of climbs is classified, and apply classifications to the rock faces or walls where you will demonstrate your climbing skills.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -121,6 +161,11 @@
         {
           "id": "12759",
           "label": "b",
+          "text": "Explain the following: top-rope climbing, lead climbing, and bouldering.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -133,6 +178,11 @@
         {
           "id": "12760",
           "label": "c",
+          "text": "Evaluate the safety of a particular climbing area. Consider weather, visibility, the condition of the climbing surface, and any other environmental hazards.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -145,6 +195,11 @@
         {
           "id": "12761",
           "label": "d",
+          "text": "Determine how to summon aid to the climbing area in case of an emergency. Discuss what medical training is needed for your group when climbing and rappelling in remote areas.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -159,6 +214,11 @@
     {
       "id": "12762",
       "label": "5",
+      "text": "Verbal signals. Explain the importance of using verbal signals during every climb and rappel, and while bouldering. With the help of the counselor or another Scout, demonstrate the verbal signals used by each of the following:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -181,6 +241,11 @@
         {
           "id": "12763",
           "label": "a",
+          "text": "Climbers",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -193,6 +258,11 @@
         {
           "id": "12764",
           "label": "b",
+          "text": "Rappellers",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -205,6 +275,11 @@
         {
           "id": "12765",
           "label": "c",
+          "text": "Belayers",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -217,6 +292,11 @@
         {
           "id": "12766",
           "label": "d",
+          "text": "Boulderers and their spotters",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -231,6 +311,11 @@
     {
       "id": "12767",
       "label": "6",
+      "text": "Rope. Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -253,6 +338,11 @@
         {
           "id": "12768",
           "label": "a",
+          "text": "Describe the kinds of rope acceptable for use in climbing and rappelling.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -265,6 +355,11 @@
         {
           "id": "12769",
           "label": "b",
+          "text": "Show how to examine a rope for signs of wear or damage.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -277,6 +372,11 @@
         {
           "id": "12770",
           "label": "c",
+          "text": "Discuss ways to prevent a rope from being damaged.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -289,6 +389,11 @@
         {
           "id": "12771",
           "label": "d",
+          "text": "Explain when and how a rope should be retired.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -301,6 +406,11 @@
         {
           "id": "12772",
           "label": "e",
+          "text": "Properly coil a rope.",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -315,6 +425,11 @@
     {
       "id": "12773",
       "label": "7",
+      "text": "Knots. Demonstrate the ability to tie each of the following knots. Give at least one example of how each knot is used in belaying, climbing, or rappelling.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -337,6 +452,11 @@
         {
           "id": "12774",
           "label": "a",
+          "text": "Figure eight on a bight",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -349,6 +469,11 @@
         {
           "id": "12775",
           "label": "b",
+          "text": "Figure eight follow-through",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -361,6 +486,11 @@
         {
           "id": "12776",
           "label": "c",
+          "text": "Water knot",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -373,6 +503,11 @@
         {
           "id": "12777",
           "label": "d",
+          "text": "Double fisherman's knot (grapevine knot)",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -385,6 +520,11 @@
         {
           "id": "12778",
           "label": "e",
+          "text": "Prusik hitch applied to rope",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -399,6 +539,11 @@
     {
       "id": "12797",
       "label": "8",
+      "text": "Harness, Helmet & Gloves. Explain the purpose of each of the following and demonstrate how to put them on correctly.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -421,6 +566,11 @@
         {
           "id": "12799",
           "label": "a",
+          "text": "Commercially made climbing harness",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -433,6 +583,11 @@
         {
           "id": "12800",
           "label": "b",
+          "text": "Climbing helmet",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -445,6 +600,11 @@
         {
           "id": "12801",
           "label": "c",
+          "text": "Climbing or rappelling gloves",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -459,6 +619,11 @@
     {
       "id": "12802",
       "label": "9",
+      "text": "Identify the elements of the CHECK system and describe the meaning of each one to your counselor.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -471,6 +636,11 @@
     {
       "id": "12779",
       "label": "10",
+      "text": "Belaying. Do the following:",
+      "requirement_path": "10",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -493,6 +663,11 @@
         {
           "id": "12780",
           "label": "a",
+          "text": "Explain the importance of belaying climbers and rappellers and when it is necessary.",
+          "requirement_path": "10.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -505,6 +680,11 @@
         {
           "id": "12781",
           "label": "b",
+          "text": "Belay three different climbers on three different routes.",
+          "requirement_path": "10.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -517,6 +697,11 @@
         {
           "id": "12782",
           "label": "c",
+          "text": "Serve as a backup belayer on three different climbs.",
+          "requirement_path": "10.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -529,6 +714,11 @@
         {
           "id": "12803",
           "label": "d",
+          "text": "Belay three different rappellers on three different routes.",
+          "requirement_path": "10.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -541,6 +731,11 @@
         {
           "id": "12804",
           "label": "e",
+          "text": "Serve as a backup belayer on three different rappels.",
+          "requirement_path": "10.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -555,6 +750,11 @@
     {
       "id": "12787",
       "label": "11",
+      "text": "Climbing. Do the following:",
+      "requirement_path": "11",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -577,6 +777,11 @@
         {
           "id": "12788",
           "label": "a",
+          "text": "Show the correct way to directly tie a belay rope to your harness.",
+          "requirement_path": "11.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -589,6 +794,11 @@
         {
           "id": "12789",
           "label": "b",
+          "text": "Climb at least three different routes on a rock face or climbing wall, demonstrating good technique and using verbal signals with a belayer.",
+          "requirement_path": "11.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -603,6 +813,11 @@
     {
       "id": "12790",
       "label": "12",
+      "text": "Rappelling. Do the following:",
+      "requirement_path": "12",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -625,6 +840,11 @@
         {
           "id": "12791",
           "label": "a",
+          "text": "Show the correct way to directly tie a belay rope to your harness.",
+          "requirement_path": "12.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -637,6 +857,11 @@
         {
           "id": "12792",
           "label": "b",
+          "text": "Using a carabiner and a rappel device, attach a rappel rope to your harness.",
+          "requirement_path": "12.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -649,6 +874,11 @@
         {
           "id": "12793",
           "label": "c",
+          "text": "Rappel down three different rock faces or three rappel routes on a climbing wall. Use verbal signals to communicate with a belayer, and demonstrate good rappelling technique.",
+          "requirement_path": "12.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -663,6 +893,11 @@
     {
       "id": "12794",
       "label": "13",
+      "text": "Demonstrate ways to store rope, hardware, and other gear used for climbing, rappelling, and belaying.",
+      "requirement_path": "13",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

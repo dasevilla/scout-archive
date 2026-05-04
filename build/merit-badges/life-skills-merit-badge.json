@@ -14,6 +14,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Health. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -32,6 +37,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Describe the steps to make a doctor’s appointment.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -44,6 +54,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Locate the hospital or urgent care center closest to your home.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -56,6 +71,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Explain what health insurance is and why it is important to have.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -68,6 +88,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Identify 5 ways to practice medication safety at home.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -80,6 +105,11 @@
         {
           "id": "E",
           "label": "E",
+          "text": "Describe what information should be included in your personal health record and create one for yourself.",
+          "requirement_path": "1.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -92,6 +122,11 @@
         {
           "id": "F",
           "label": "F",
+          "text": "Identify 5 everyday situations where first aid would be required and what to do when first aid is needed.",
+          "requirement_path": "1.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -106,6 +141,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Household. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -132,6 +172,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry.\nHow to Do Laundry",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -184,6 +229,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing.\nIroning 101: Everything You Need to Know About Ironing Clothes",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -236,6 +286,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants.\nYouTube: How to Sew a Button by Hand YouTube: How to Sew On your Badges",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -316,6 +371,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen.\nEssential Home Maintenance Cleaning at Home",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -396,6 +456,11 @@
         {
           "id": "E",
           "label": "E",
+          "text": "Demonstrate how to set a casual dining table and a formal dining table.\nHow to Set a Table: Basic, Casual, and Formal Table Settings How to Set a Formal Dinner Table, According to Etiquette Experts",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -470,6 +535,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Money. Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -488,6 +558,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Explain what is required to open a bank account and compare the differences between a traditional bank, an online bank, and a credit union.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -500,6 +575,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Explain the importance of saving money.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -512,6 +592,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Explain what online bill pay is and compare the pros and cons of paying your bills online.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -524,6 +609,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Describe how a credit card works, the reasons to get a credit card, the costs you may incur by using a credit card, and how to use a credit card effectively.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -538,6 +628,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Social. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -564,6 +659,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Demonstrate how to properly introduce yourself in a social situation.\nHow to Introduce Yourself in Any Situation",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -616,6 +716,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Explain what social etiquette means and how to practice it.\nWhat Is Social Etiquette?",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -668,6 +773,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Explain what it means to set personal boundaries and what to do when those boundaries are crossed.\n10 Steps to Set Healthy Boundaries",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -720,6 +830,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Give six examples of appropriate table manners\nTop Table Manners Tips For Kids",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -766,6 +881,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Self-Care. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -792,6 +912,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Explain what self-respect means and how you can demonstrate it.\n20 Ways to Respect Yourself and Why It Matters",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -844,6 +969,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Explain to your counselor what might cause stress and how to manage it. Stress Management",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -892,6 +1022,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Explain the importance of good personal hygiene and give examples of how to practice it.\nThe Importance Of Good Hygiene",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -944,6 +1079,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Explain the benefits of exercise and demonstrate three types of exercise found in the fitness section of your Scouts BSA handbook.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -958,6 +1098,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Employment. Do THREE of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -976,6 +1121,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Create a resume and review it with your counselor.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -988,6 +1138,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Write a cover letter for a job posting and review it with your counselor.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1000,6 +1155,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Describe how to make a great impression during a job interview and give 5 examples of questions that you would ask during an interview.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1012,6 +1172,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Explain why it is essential to write professional emails. Write a professional email thanking someone for interviewing you for a job. Share your email with your counselor.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1024,6 +1189,11 @@
         {
           "id": "E",
           "label": "E",
+          "text": "Demonstrate how to leave a professional voicemail message.",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1036,6 +1206,11 @@
         {
           "id": "F",
           "label": "F",
+          "text": "Explain how posts to social media can affect you when applying for a job.",
+          "requirement_path": "6.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1050,6 +1225,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Transportation. Do TWO of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1068,6 +1248,11 @@
         {
           "id": "A",
           "label": "A",
+          "text": "Explain what to do if you are involved in a car accident.\nWhat to do after a car accident: a step-by-step guide",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1120,6 +1305,11 @@
         {
           "id": "B",
           "label": "B",
+          "text": "Describe the steps on jumpstarting a car battery.\nHow to Jump-Start a Car in 6 Steps",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1172,6 +1362,11 @@
         {
           "id": "C",
           "label": "C",
+          "text": "Explain the benefits of regular car maintenance.\nThe Benefits of Regular Car Maintenance",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1224,6 +1419,11 @@
         {
           "id": "D",
           "label": "D",
+          "text": "Compare the differences between leasing versus buying a new car.\nLeasing vs. Buying a New Car",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1268,6 +1468,11 @@
         {
           "id": "E",
           "label": "E",
+          "text": "On a map of your community or using an electronic device, locate and point out the public transportation infrastructure. Plan how to get to a friend’s home or shopping center from your house. Explain the route and cost of the roundtrip to your counselor.",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1282,6 +1487,11 @@
     {
       "id": "8",
       "label": "8",
+      "text": "Complete the survey below to complete the test lab requirements",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",

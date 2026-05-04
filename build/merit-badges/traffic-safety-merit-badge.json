@@ -14,6 +14,11 @@
     {
       "id": "16045",
       "label": "1",
+      "text": "Preventing Impaired Driving. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "16046",
           "label": "a",
+          "text": "Explain why a distracted driver must not operate a motor vehicle. List five common distractions, explain how driver distractions contribute to traffic accidents, and tell how drivers can minimize distractions.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -53,6 +63,11 @@
         {
           "id": "16047",
           "label": "b",
+          "text": "Explain why a driver impaired by alcohol, drugs, or other substances must not operate a motor vehicle. Describe how alcohol, cold medications, and prescription and illegal drugs affect driving abilities. For the state where you live, find out what is the legal blood alcohol concentration and what are the consequences for driving while intoxicated or driving under the influence. Find out what the open-container law is in your state.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -74,6 +89,11 @@
         {
           "id": "16048",
           "label": "c",
+          "text": "Explain why a fatigued driver must not operate a motor vehicle. Describe how drivers must plan to be alert for safely transporting families, friends, Scouts, and themselves.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -95,6 +115,11 @@
         {
           "id": "16049",
           "label": "d",
+          "text": "Describe mistakes that new drivers make, how those mistakes increase their risk of collisions, how drivers can reduce this risk, and how driving behavior affects automobile insurance rates.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -118,6 +143,11 @@
     {
       "id": "16050",
       "label": "2",
+      "text": "Vehicle Safety. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -140,6 +170,11 @@
         {
           "id": "16051",
           "label": "a",
+          "text": "Demonstrate how to wear a lap and shoulder belt properly. Explain why it is important for the driver and all passengers, including children sitting in age-appropriate seats, to always wear their seat belts.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -161,6 +196,11 @@
         {
           "id": "16052",
           "label": "b",
+          "text": "List five safety features found in motor vehicles besides occupant restraint systems. Describe each safety feature, how each works, and how each contributes to safety.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -180,6 +220,11 @@
     {
       "id": "16053",
       "label": "3",
+      "text": "Auto Maintenance and Safety Checkups. With adult supervision and using a vehicle that you have access to, do the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -202,6 +247,11 @@
         {
           "id": "16054",
           "label": "a",
+          "text": "Demonstrate that all driving lights and signaling lights are clear and operational. Show where the switches are for these lights. Explain how drivers use lights to drive safely and courteously and to communicate with other drivers.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -219,6 +269,11 @@
         {
           "id": "16055",
           "label": "b",
+          "text": "Explain issues that might affect the driver's ability to see through the front, rear, and side windows. Demonstrate with a smear-and-clear test if the windshield wiper blades will clear the windshield completely or need to be replaced. Describe instances in good and bad weather when windshield wipers are important to safe driving.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -236,6 +291,11 @@
         {
           "id": "16056",
           "label": "c",
+          "text": "Demonstrate how to find the vehicle's recommended tire pressures, how to check tire pressures, and how to check for adequate tire tread depth. Explain why proper tire pressure and tread depth are important to traction, stopping distances, tire wear, and fuel economy.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -253,6 +313,11 @@
         {
           "id": "16057",
           "label": "d",
+          "text": "Check the vehicle for tools needed to change a flat tire or to use tire sealant to fix a puncture. Demonstrate you know how to change a flat tire and how to use tire sealant.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -270,6 +335,11 @@
         {
           "id": "16067",
           "label": "e",
+          "text": "In a location away from traffic hazards, mark off the reaction distances and braking distances that a car will travel as it makes an emergency stop at 25, 55, and 70 miles per hour on level dry and level wet pavement. Discuss how these distances change for normal and impaired drivers, for day and night driving, and for weather conditions. Note: Use the graphics template in the Traffic Safety merit badge pamphlet or one approved by your counselor to set up this demonstration.",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -327,6 +397,11 @@
     {
       "id": "16058",
       "label": "4",
+      "text": "Traffic Safety and the Law. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -349,6 +424,11 @@
         {
           "id": "16059",
           "label": "a",
+          "text": "Describe at least three examples of traffic laws that apply to drivers of motor vehicles and to bicyclists.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -366,6 +446,11 @@
         {
           "id": "16060",
           "label": "b",
+          "text": "Explain procedures and etiquette a driver should follow if a law enforcement officer stops their vehicle.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -383,6 +468,11 @@
         {
           "id": "16061",
           "label": "c",
+          "text": "Explain procedures that drivers should follow if they are involved in a car accident.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -400,6 +490,11 @@
         {
           "id": "16062",
           "label": "d",
+          "text": "Name the three documents that drivers are required by law to carry whenever they operate a motor vehicle.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -419,6 +514,11 @@
     {
       "id": "16063",
       "label": "5",
+      "text": "Road Designs and Signs. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -441,6 +541,11 @@
         {
           "id": "16064",
           "label": "a",
+          "text": "Explain how road designs for intersections, medians, and road shoulders contribute to traffic safety. Discuss safety features of interstate highways.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -458,6 +563,11 @@
         {
           "id": "16065",
           "label": "b",
+          "text": "Explain how color and shape help drivers recognize and understand the information presented on traffic and roadway signs. Explain the purpose of different types of signs, signals, and pavement markings.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -485,6 +595,11 @@
     {
       "id": "16068",
       "label": "6",
+      "text": "Sharing the Road. Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -507,6 +622,11 @@
         {
           "id": "16069",
           "label": "a",
+          "text": "Describe the difference in nighttime visibility between a properly lit bicycle and rider (or a pedestrian) wearing reflective material and a bicycle and rider with no lights (or a pedestrian) dressed in dark clothing without reflective material.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -532,6 +652,11 @@
         {
           "id": "16070",
           "label": "b",
+          "text": "Name at least four safety measures that pedestrians, including hikers, should follow as they walk along or across streets or roadways.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -549,6 +674,11 @@
         {
           "id": "16071",
           "label": "c",
+          "text": "Name at least four safety measures that drivers of motor vehicles should follow if they approach a school bus making its stops at pick-up and drop-off locations.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -566,6 +696,11 @@
         {
           "id": "16072",
           "label": "d",
+          "text": "Discuss the risks associated with blind spots on cars and trucks and how drivers can prevent lane change crashes.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -589,6 +724,11 @@
     {
       "id": "16073",
       "label": "7",
+      "text": "Traffic, Your Community, and You. Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -611,6 +751,11 @@
         {
           "id": "16074",
           "label": "a",
+          "text": "Interview a traffic law enforcement officer or a traffic safety professional in your community to identify what three traffic safety problems the officer is most concerned about. Discuss with your counselor possible ways to solve one of those problems.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -632,6 +777,11 @@
         {
           "id": "16075",
           "label": "b",
+          "text": "Write a personal traffic safety pledge, addressing three of your most concerning issues relating to traffic safety. Discuss your pledge with your counselor.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -653,6 +803,11 @@
         {
           "id": "16076",
           "label": "c",
+          "text": "Initiate and organize an activity or event to demonstrate the importance of traffic safety.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -672,6 +827,11 @@
     {
       "id": "16077",
       "label": "8",
+      "text": "Careers. Explore careers related to traffic safety. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",

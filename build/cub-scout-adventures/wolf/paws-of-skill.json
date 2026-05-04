@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "With your den, discuss sportsmanship and what it means to be a good sport. Make the connection between sportsmanship and the Scout Oath and the Scout Law.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den, discuss sportsmanship and what it means to be a good sport. Make the connection between sportsmanship and the Scout Oath and the Scout Law.",
       "activities": [
         {
           "name": "Good Sport Challenge",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Learn the rules of a team sport that you can play with your den, pack, family, or friends. After learning the rules, play the game for 30 minutes.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn the rules of a team sport that you can play with your den, pack, family, or friends. After learning the rules, play the game for 30 minutes.",
       "activities": [
         {
           "name": "Basketball",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Visit or watch a team sporting event with your family or den. Look for ways the team works together and share with your family or den.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Visit or watch a team sporting event with your family or den. Look for ways the team works together and share with your family or den.",
       "activities": [
         {
           "name": "Scouting in the Stands",

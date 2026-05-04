@@ -698,8 +698,13 @@ class SemanticProcessor:
         grouped: List[SemanticRequirement] = []
         current_option: Optional[SemanticRequirement] = None
 
-        for requirement in requirements:
-            if self._is_option_container_candidate(requirement):
+        for index, requirement in enumerate(requirements):
+            next_requirement = (
+                requirements[index + 1] if index + 1 < len(requirements) else None
+            )
+            if self._is_option_container_candidate(
+                requirement
+            ) or self._starts_flat_option_group(requirement, next_requirement):
                 grouped.append(requirement)
                 current_option = requirement
                 continue
@@ -732,7 +737,10 @@ class SemanticProcessor:
             if (
                 label_kind == "lower-alpha"
                 and current_numeric is not None
-                and self._is_list_intro_requirement(current_numeric)
+                and (
+                    self._is_list_intro_requirement(current_numeric)
+                    or self._is_section_heading_requirement(current_numeric)
+                )
             ):
                 current_numeric.sub_requirements.append(requirement)
                 current_alpha = requirement
@@ -768,6 +776,48 @@ class SemanticProcessor:
         if text.endswith(":") and re.search(r"\bfollowing\b", text, re.I):
             return True
         return bool(re.search(r"\bthe following(?:\s+options?)?:?$", text, re.I))
+
+    def _starts_flat_option_group(
+        self,
+        requirement: SemanticRequirement,
+        next_requirement: Optional[SemanticRequirement],
+    ) -> bool:
+        if not self._is_option_heading_requirement(requirement):
+            return False
+        return next_requirement is not None and self._label_kind(
+            next_requirement.label
+        ) in {"numeric", "lower-alpha"}
+
+    def _is_option_heading_requirement(self, requirement: SemanticRequirement) -> bool:
+        text = self._clean_plain_text(self._plain_text(requirement.content))
+        if not self.OPTION_PREFIX_RE.match(text):
+            return False
+        if len(re.findall(r"[.!?]", text)) > 1:
+            return False
+        return self._is_section_heading_requirement(requirement)
+
+    def _is_section_heading_requirement(self, requirement: SemanticRequirement) -> bool:
+        text = self._clean_plain_text(self._plain_text(requirement.content))
+        if not text or len(text.split()) > 8:
+            return False
+        if re.search(r"[.!?]\s+\w", text):
+            return False
+        return self._has_bold_heading_content(requirement.content)
+
+    def _has_bold_heading_content(self, nodes: List[RawNode]) -> bool:
+        has_heading_text = False
+        for node in nodes:
+            if isinstance(node, RawTextNode):
+                if node.value.strip():
+                    return False
+                continue
+            if node.tag not in {"b", "strong"}:
+                if self._clean_plain_text(self._node_text(node)):
+                    return False
+                continue
+            if self._clean_plain_text(self._node_text(node)):
+                has_heading_text = True
+        return has_heading_text
 
     def _pop_resumed_alpha_siblings(
         self, requirement: SemanticRequirement
@@ -974,8 +1024,19 @@ class SemanticProcessor:
         text = self._clean_plain_text(self._plain_text(requirement.content))
         if not text:
             return True
+        if self._is_section_heading_requirement(requirement):
+            return True
         lower_text = text.lower()
         if lower_text.endswith(":") and len(text.split()) <= 8:
+            return True
+        if re.search(
+            r"^(?:do|complete|choose|show|discuss|explain|identify|list|tell|"
+            r"make|draw|select)\s+"
+            r"(?:all|one|two|three|four|five|six|seven|eight|nine|ten|"
+            r"\d+)?\s*(?:of\s+)?the following(?:\s+options?)?\b",
+            text,
+            re.IGNORECASE,
+        ):
             return True
         return bool(
             re.fullmatch(

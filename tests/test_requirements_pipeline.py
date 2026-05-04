@@ -148,6 +148,57 @@ class SemanticProcessorTest(unittest.TestCase):
         self.assertEqual(children[0].requirement_path, "4.option-a")
         self.assertEqual(children[1].requirement_path, "4.option-b")
 
+    def test_groups_flat_option_headings_with_section_tasks(self) -> None:
+        html = """
+        <div class="mb-requirement-container">
+          <div class="mb-requirement-item">
+            <div class="mb-requirement-parent mb-requirement-id-4">
+              <span class="mb-requirement-listnumber">4.</span>
+              Complete ALL of the following for the option you selected:
+            </div>
+            <ul class="mb-requirement-children-list">
+              <li class="mb-requirement-child"><strong>Option A&mdash;Triathlon.</strong></li>
+              <li class="mb-requirement-child">1. <b>Swimming</b></li>
+              <li class="mb-requirement-child">(a) Earn the Swimming merit badge.</li>
+              <li class="mb-requirement-child">(b) Explain Safe Swim Defense.</li>
+              <li class="mb-requirement-child">2. <b>Biking</b></li>
+              <li class="mb-requirement-child">(a) Explain how to ride predictably.</li>
+              <li class="mb-requirement-child"><strong>Option B&mdash;Duathlon.</strong></li>
+              <li class="mb-requirement-child">1. <b>Biking</b></li>
+              <li class="mb-requirement-child">(a) Check bicycle safety.</li>
+            </ul>
+          </div>
+        </div>
+        """
+
+        requirements = self.processor.process(self.extractor.extract(html))
+
+        parent = requirements[0]
+        self.assertEqual(parent.node_kind, "instruction_container")
+        self.assertEqual(parent.requires_response, False)
+        self.assertEqual(
+            [child.requirement_path for child in parent.sub_requirements],
+            ["4.option-a", "4.option-b"],
+        )
+
+        option_a = parent.sub_requirements[0]
+        self.assertEqual(option_a.node_kind, "option_container")
+        self.assertEqual(option_a.requires_response, False)
+        self.assertEqual(
+            [child.requirement_path for child in option_a.sub_requirements],
+            ["4.option-a.1", "4.option-a.2"],
+        )
+        self.assertEqual(
+            option_a.sub_requirements[0].node_kind, "instruction_container"
+        )
+        self.assertEqual(
+            [
+                child.requirement_path
+                for child in option_a.sub_requirements[0].sub_requirements
+            ],
+            ["4.option-a.1.a", "4.option-a.1.b"],
+        )
+
     def test_promotes_link_only_support_children_to_resources(self) -> None:
         parent = RawRequirementItem(
             id="7",

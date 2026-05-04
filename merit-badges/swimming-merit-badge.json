@@ -14,6 +14,11 @@
     {
       "id": "12179",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "12180",
           "label": "a",
+          "text": "Review with your counselor how Scouting America's Safe Swim Defense guidelines anticipates and deals with common drowning situations such as unfenced residential pools, nonswimmers entering deep water, risky behaviors, medical impairment in the water, drop-offs, cold water, murky water, river currents, rip currents, and surf.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "12181",
           "label": "b",
+          "text": "Discuss the prevention and treatment of health concerns that could occur while swimming, including hypothermia, dehydration, sunburn, heat exhaustion, heatstroke, muscle cramps, hyperventilation, spinal injury, stings and bites, and cuts and scrapes.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -51,6 +66,11 @@
     {
       "id": "12182",
       "label": "2",
+      "text": "Before doing the following requirements, successfully complete the Scouting America swimmer test, found in the Swimming merit badge pamphlet.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -78,6 +98,11 @@
     {
       "id": "12183",
       "label": "3",
+      "text": "Correctly perform the following strokes:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -89,6 +114,11 @@
         {
           "id": "12184",
           "label": "a",
+          "text": "Demonstrate the front crawl or the trudgen using good form.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -101,6 +131,11 @@
         {
           "id": "12185",
           "label": "b",
+          "text": "Demonstrate the back crawl using good form.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -113,6 +148,11 @@
         {
           "id": "12186",
           "label": "c",
+          "text": "Demonstrate the sidestroke using good form.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -125,6 +165,11 @@
         {
           "id": "12187",
           "label": "d",
+          "text": "Demonstrate the breaststroke using good form.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -137,6 +182,11 @@
         {
           "id": "12188",
           "label": "e",
+          "text": "Demonstrate the elementary backstroke using good form.",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -151,6 +201,11 @@
     {
       "id": "12189",
       "label": "4",
+      "text": "Swim continuously for 150 yards in a strong manner using each of the following strokes in any order; front crawl or trudgen (25 yards); back crawl (25 yards); sidestroke (25 yards); breaststroke (25 yards); and elementary backstroke (50 yards).",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -163,6 +218,11 @@
     {
       "id": "12190",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -174,6 +234,11 @@
         {
           "id": "12191",
           "label": "a",
+          "text": "Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects. Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible, and explain why and how a rescue swimmer should avoid contact with the victim.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -186,6 +251,11 @@
         {
           "id": "12192",
           "label": "b",
+          "text": "With a helper and a practice victim, show a line rescue both as tender and as rescuer. The practice victim should be approximately 30 feet from shore in deep water.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -200,6 +270,11 @@
     {
       "id": "12193",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -211,6 +286,11 @@
         {
           "id": "12194",
           "label": "a",
+          "text": "Float faceup in a resting position for at least three minutes with minimal movement.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -223,6 +303,11 @@
         {
           "id": "12195",
           "label": "b",
+          "text": "Demonstrate survival floating for at least five minutes.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -235,6 +320,11 @@
         {
           "id": "12196",
           "label": "c",
+          "text": "While wearing a properly fitted U.S. Coast Guard-approved life jacket, demonstrate the HELP and huddle positions. Explain their purposes.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -247,6 +337,11 @@
         {
           "id": "12197",
           "label": "d",
+          "text": "Explain why swimming or survival floating will hasten the onset of hypothermia in cold water.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -261,6 +356,11 @@
     {
       "id": "12198",
       "label": "7",
+      "text": "In water over your head, but not to exceed 10 feet, do the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -272,6 +372,11 @@
         {
           "id": "12199",
           "label": "a",
+          "text": "Use the feetfirst method of surface diving and bring an object up from the bottom.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -284,6 +389,11 @@
         {
           "id": "12200",
           "label": "b",
+          "text": "Do a headfirst surface dive (pike or tuck), and bring the object up again.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -296,6 +406,11 @@
         {
           "id": "12201",
           "label": "c",
+          "text": "Do a headfirst surface dive to a depth of at least 5 feet and swim underwater for three strokes. Come to the surface, take a breath, and repeat the sequence twice.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -310,6 +425,11 @@
     {
       "id": "12202",
       "label": "8",
+      "text": "Following the guidelines set in the Scouting America Safe Swim Defense guidelines, in water at least 7 feet deep, show a standing headfirst dive from a dock or pool deck. Show a long shallow dive, also from the dock or pool deck.\nNote: If your state, city, or local community requires a water depth greater than 7 feet, it is important to abide by that mandate.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -349,6 +469,11 @@
     {
       "id": "12203",
       "label": "9",
+      "text": "Explain the health benefits of regular aerobic exercise, and discuss why swimming is favored as both fitness and therapeutic exercise.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

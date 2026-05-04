@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Read, understand, and promise to abide by the “Cub Scout Knife Safety Rules.”",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Read, understand, and promise to abide by the “Cub Scout Knife Safety Rules.”",
       "activities": [
         {
           "name": "Knife Safety Rules Bear",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Demonstrate the knife safety circle.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate the knife safety circle.",
       "activities": [
         {
           "name": "Knife Safety Circle Bear",
@@ -68,6 +76,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Demonstrate that you know how to care for and use your pocketknife safely.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -76,7 +89,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate that you know how to care for and use your pocketknife safely.",
       "activities": [
         {
           "name": "Pocketknife Sharpening Practice Bear",
@@ -92,6 +104,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Make two carvings with a pocketknife.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -100,7 +117,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Make two carvings with a pocketknife.",
       "activities": [
         {
           "name": "Potato Printing Press",

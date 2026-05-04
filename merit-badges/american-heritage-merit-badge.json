@@ -14,6 +14,11 @@
     {
       "id": "4669",
       "label": "1",
+      "text": "Read the Declaration of Independence. Pay close attention to the section that begins with \"We hold these truths to be self-evident\" and ends with \"to provide new Guards for their future security.\" Rewrite that section in your own words, making it as easy to understand as possible. Then, share your writing with your counselor and discuss the importance of the Declaration to all Americans.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "4650",
       "label": "2",
+      "text": "Do TWO of the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "4651",
           "label": "a",
+          "text": "Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "4652",
           "label": "b",
+          "text": "With your counselor's approval, choose an organization that has promoted some type of positive change in American society. Find out why the organization believed this change was necessary and how it helped to accomplish the change. Discuss how this organization is related to events or situations from America's past.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "4653",
           "label": "c",
+          "text": "With your counselor's approval, interview two veterans of the U.S. military. Find out what their experiences were like. Ask the veterans what they believe they accomplished.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -73,6 +98,11 @@
         {
           "id": "4654",
           "label": "d",
+          "text": "With your counselor's approval, interview three people in your community of different ages and occupations. Ask these people what America means to them, what they think is special about this country, and what American traditions they feel are important to preserve.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -87,6 +117,11 @@
     {
       "id": "4655",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -98,6 +133,11 @@
         {
           "id": "4656",
           "label": "a",
+          "text": "Select a topic related to the United States that is currently in the news. Describe to your counselor what is happening. Explain how today's events are related to or affected by the events and values of America's past.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +150,11 @@
         {
           "id": "4657",
           "label": "b",
+          "text": "For the following, describe its adoption, tell about any changes since its adoption, and explain how each one continues to influence Americans today: the flag, the Pledge of Allegiance, the Great Seal of the United States, the motto, and the national anthem.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "4658",
           "label": "c",
+          "text": "Research your family's history. Find out how various events and situations in American history affected your family. If your family immigrated to America, tell the reasons why. Share what you find with your counselor.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -136,6 +186,11 @@
     {
       "id": "4659",
       "label": "4",
+      "text": "Do TWO of the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -147,6 +202,11 @@
         {
           "id": "4660",
           "label": "a",
+          "text": "Explain the National Register of Historic Places and how a property becomes eligible for listing in the National Register of Historic Places. Make a map of your local area, marking the points of historical interest. Tell about any National Register properties in your area. Share the map with your counselor, and describe the historical points you have indicated.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -159,6 +219,11 @@
         {
           "id": "4661",
           "label": "b",
+          "text": "Research an event of historical importance that took place in or near your area. If possible, visit the place. Tell your counselor about the event and how it affected local history. Describe how the area looked then and what it now looks like.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -171,6 +236,11 @@
         {
           "id": "4662",
           "label": "c",
+          "text": "Find out when, why, and how your town or neighborhood started, and what ethnic, national, or racial groups played a part. Find out how the area has changed over the past 50 years and try to explain why.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -183,6 +253,11 @@
         {
           "id": "4663",
           "label": "d",
+          "text": "Take an active part in a program about an event or person in American history. Report to your counselor about the program, the part you took, and the subject.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -195,6 +270,11 @@
         {
           "id": "4664",
           "label": "e",
+          "text": "Visit a historic trail or walk in your area. After your visit, share with your counselor what you have learned. Discuss the importance of this location and explain why you think it might qualify for National Register listing.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -209,6 +289,11 @@
     {
       "id": "4665",
       "label": "5",
+      "text": "Do ONE of the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -220,6 +305,11 @@
         {
           "id": "4666",
           "label": "a",
+          "text": "Watch two motion pictures (with the approval and permission of your counselor and parent or guardian) that are set in some period of American history. Describe to your counselor how accurate each film is with regard to the historical events depicted and also with regard to the way the characters are portrayed.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -232,6 +322,11 @@
         {
           "id": "4667",
           "label": "b",
+          "text": "Read a biography (with your counselor's approval) of someone who has made a contribution to America's heritage. Tell some things you admire about this individual and some things you do not admire. Explain why you think this person has made a positive or a negative contribution to America's heritage.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -244,6 +339,11 @@
         {
           "id": "4668",
           "label": "c",
+          "text": "Listen to recordings of popular songs from various periods of American history. Share five of these songs with your counselor, and describe how each song reflects the way people felt about the period in which it was popular. If a recording is not available, have a copy of the lyrics available.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -258,6 +358,11 @@
     {
       "id": "4670",
       "label": "6",
+      "text": "Discuss with your counselor the career opportunities in American heritage. Pick one that interests you and explain how to prepare for this career. Discuss what education and training are required for this career.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

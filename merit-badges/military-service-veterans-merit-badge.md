@@ -28,9 +28,8 @@
         **[Atoms For Peace Speech Eisenhower (11 Min) (video)](https://www.youtube.com/watch?v=2DxeLeginUQ)**
         **[Atoms for Peace Overview (website) [Eisenhower Library]](https://www.eisenhowerlibrary.gov/research/online-documents/atoms-peace)**
         **[International Atomic Energy Agency (website) [IAEA]](http://www.iaea.org/)**
-    - (a)
-      - (a) Explain the role of the United Nations in promoting peace and resolving international disputes.
-        **[United Nations Peacekeeping (website)](https://peacekeeping.un.org/en)**
+    - (a) Explain the role of the United Nations in promoting peace and resolving international disputes.
+      **[United Nations Peacekeeping (website)](https://peacekeeping.un.org/en)**
   - (c) Reflect on the human and societal costs of war and share the lessons that can be learned from major conflicts.
     **[The Impact of War on Civilians: Understanding the Human Cost of Conflict (2.5 Min) (video)](https://www.youtube.com/watch?v=bi_dbJBqNUA)**
 
@@ -60,13 +59,13 @@
     **[Famous American Medal of Honor Recipients (13 Min) (video)](https://www.youtube.com/watch?v=M_t1_fzFSOI)**
     **[Medal of Honor Recipients (website) [Congressional Medal of Honor Society]](https://www.cmohs.org/recipients)**
 
-- **5. Military Uniforms and Insignia.** Do the following:
+- (5) **Military Uniforms and Insignia.** Do the following:
   - (a) Learn about the purpose and history of military uniforms and insignia.
     **[https://www.war.gov/Resources/Insignias/#officer-insignia](https://www.war.gov/Resources/Insignias/#officer-insignia)**
     **[https://en.wikipedia.org/wiki/Uniforms_of_the_United_States_Armed_Forces](https://en.wikipedia.org/wiki/Uniforms_of_the_United_States_Armed_Forces)** (b) Identify the different uniforms worn by members of the U.S. Army, Navy, Marine Corps, Air Force, Space Force, and Coast Guard. (c) Learn to identify and describe the rank insignia for all enlisted and officer ranks from one branch of the U.S. Armed Forces.
     [**U.S. Military Ranks & Pay Grade by Branch (website) [Veterans.com]**](https://veteran.com/military-ranks-insignia-charts/) (d) Explain how rank and insignia show respect, order, and responsibility within the military.
 
-- **6. Reflect on Symbols of Service.** Do the following:
+- (6) **Reflect on Symbols of Service.** Do the following:
   - (a) Discuss with an active-duty member, reservist, or veteran what their uniform and the American Flag mean to them as a military member. Share what you learned with your counselor. Describe what proper respect for the flag means to them. (b) Discuss with your counselor what your uniform and troop flag mean to you.
 
 - (7) **Honor Veterans.** Do the following:
@@ -74,7 +73,7 @@
     **[Bet You Didn’t Know: Veterans Day | History (2 Min) (video)](https://www.youtube.com/watch?v=mWD4Oy6fKlo&t=2s)**
     [**History of Veterans Day (website) [Veterans Affairs]**](https://department.va.gov/veterans-day/history-of-veterans-day/) (b) Discuss with your counselor what role you played and what you learned from the experience. (c) Visit a veterans’ organization, military museum, memorial, or cemetery. Discuss with your counselor what you learned about service, sacrifice, and remembrance.
 
-- **8. Military Academies.** Do the following:
+- (8) **Military Academies.** Do the following:
   - (a) Learn about the purpose and history of TWO of the U.S. military academies: the U.S. Military Academy at West Point, the U.S. Naval Academy, the U.S. Air Force Academy, the U.S. Coast Guard Academy, and the U.S. Merchant Marine Academy.
     [**All US Military Academies Explained (7 Min) (video)**](https://www.youtube.com/watch?v=-Puh39QSVRI) (b) Explain the general requirements for admission to one of these academies.
     [**A Guide to the US Military Service Academies (website)**](https://www.collegeessayguy.com/blog/us-military-service-academies-guide) (c) Describe how attending a service academy prepares a person for military leadership and service to the nation. (d) Discuss with your counselor how the values of Scouting align with those of the military academies.
@@ -93,8 +92,8 @@
     [**20 Project Ideas for Serving Veterans (PDF)**](https://elks.org/SharedElksOrg/enf/files/TwentyProjectIdeasforServingVeterans.pdf)
 
 - (10) **Careers.** Explore careers related to this military service. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
-  - **[U.S. Air Force – Own the Sky](https://youtu.be/LbNP0FUItjI?si=ldSxlAsuMOHw9JsA)****[First Jump | Be All You Can Be | U.S. Army](https://youtu.be/luc9saxt_YQ?si=ta-_QOTrZeoW_HF4)****[Coast Guard – What Makes a Life?](https://youtu.be/_CfGZ_TvTeI?si=ASAIOSsOIspLd9CT)****[My Why | U.S. Marine Corps](https://youtu.be/L2ljqUpkC1c)**[**Strong Enough – US Navy**](https://youtu.be/b_FL2yiCJSE?si=bRzZSvPec2qhy3MZ)
-    [**U.S. Space Force – Origins**](https://youtu.be/R9bzFKHrQoo?si=U_qkxxjK66zMCAXl)
+
+  **Resources:** [U.S. Air Force – Own the Sky](https://youtu.be/LbNP0FUItjI?si=ldSxlAsuMOHw9JsA), [First Jump | Be All You Can Be | U.S. Army](https://youtu.be/luc9saxt_YQ?si=ta-_QOTrZeoW_HF4), [Coast Guard – What Makes a Life?](https://youtu.be/_CfGZ_TvTeI?si=ASAIOSsOIspLd9CT), [My Why | U.S. Marine Corps](https://youtu.be/L2ljqUpkC1c), [Strong Enough – US Navy](https://youtu.be/b_FL2yiCJSE?si=bRzZSvPec2qhy3MZ), [U.S. Space Force – Origins](https://youtu.be/R9bzFKHrQoo?si=U_qkxxjK66zMCAXl)
 
 - (11) **Complete the survey below to complete the test lab requirements**
 

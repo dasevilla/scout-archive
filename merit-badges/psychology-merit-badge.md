@@ -50,7 +50,8 @@
   **Resources:** [Hope Theory – Make your life better](https://www.youtube.com/watch?v=ZuHZhi1B4T4), [Fostering-resilience-with-a-culture-of-hope](https://www.solutiontree.com/blog/fostering-resilience-with-a-culture-of-hope/), [Hope-simplicity-and-nurturing-a-community-mindset](https://blog.searchinstitute.org/krista-mehari-on-hope-simplicity-and-nurturing-a-community-mindset), [Duty to God: A core value in Scouting](https://www.scout.org/node/2956), [Why-scouting](https://www.scouting.org/about/why-scouting/), [Scouting Mission & Vision](https://www.scouting.org/legal/mission/)
 
 - (7) **Identify three career opportunities that would use skills and knowledge in psychology. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals related to this career. Discuss what you learned with your counselor and whether you might be interested in this career.**
-  - **[U.S. Bureau of Labor Statistics – Psychologists](https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm)** **[Psychology.org/psychology/careers/](https://www.psychology.org/psychology/careers/)** **[80+ Jobs in Psychology to Consider](https://www.verywellmind.com/a-list-of-psychology-careers-2794917)** **[https://psychologyjobs.com/](https://psychologyjobs.com/)**
+
+  **Resources:** [U.S. Bureau of Labor Statistics – Psychologists](https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm), [Psychology.org/psychology/careers/](https://www.psychology.org/psychology/careers/), [80+ Jobs in Psychology to Consider](https://www.verywellmind.com/a-list-of-psychology-careers-2794917), [https://psychologyjobs.com/](https://psychologyjobs.com/)
 
 - (8) **Complete the survey below to complete the test lab requirements**
 

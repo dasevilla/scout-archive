@@ -21,24 +21,24 @@ Moviemaking is a way to tell stories visually through the art and science of mot
 
     **Resources:** [What Is a Storyboard and Why Is It Important? Pre-Production Filmmaking (video)](https://youtu.be/yPtqHdQcOOw?si=24Rdiz36nJTayneu)
   - (c) Demonstrate the following motion picture shooting techniques:
-  - (1) Using a tripod
+    - (1) Using a tripod
 
-    **Resources:** [7 Tripod Tricks for Filmaking (video)](https://youtu.be/pAvn034VcCg)
-  - (2) Panning a camera
+      **Resources:** [7 Tripod Tricks for Filmaking (video)](https://youtu.be/pAvn034VcCg)
+    - (2) Panning a camera
 
-    **Resources:** [Camera Panning (video)](https://youtu.be/Km7Rfpda_Lw)
-  - (3) Framing a shot
+      **Resources:** [Camera Panning (video)](https://youtu.be/Km7Rfpda_Lw)
+    - (3) Framing a shot
 
-    **Resources:** [Reverse Shot (video)](https://youtu.be/5UE3jz_O_EM), [Frame it Right Essential Framing (short video)](https://www.youtube.com/shorts/DAwz2Wnrr90?feature=share)
-  - (4) Selecting an angle
+      **Resources:** [Reverse Shot (video)](https://youtu.be/5UE3jz_O_EM), [Frame it Right Essential Framing (short video)](https://www.youtube.com/shorts/DAwz2Wnrr90?feature=share)
+    - (4) Selecting an angle
 
-    **Resources:** [Filmmaking 101: 5 Camera Angles (video)](https://youtu.be/nfHvSnILXl0?si=9ObCi1MwUvu3CHyW), [12 CAMERA ANGLES to Enhance Your Films (video)](https://youtu.be/SlNviMsi0K0)
-  - (5) Selecting proper lighting
+      **Resources:** [Filmmaking 101: 5 Camera Angles (video)](https://youtu.be/nfHvSnILXl0?si=9ObCi1MwUvu3CHyW), [12 CAMERA ANGLES to Enhance Your Films (video)](https://youtu.be/SlNviMsi0K0)
+    - (5) Selecting proper lighting
 
-    **Resources:** [Ultimate Guide to Cinematic Lighting (video)](https://youtu.be/r2nD_knsNrc), [Zack Snyder Justice League Martian Man Hunter Meets Lois (video)](https://youtu.be/zdZ2zza5WbY?si=m3eF-8tZrS-NaOC5)
-  - (6) Handheld shooting
+      **Resources:** [Ultimate Guide to Cinematic Lighting (video)](https://youtu.be/r2nD_knsNrc), [Zack Snyder Justice League Martian Man Hunter Meets Lois (video)](https://youtu.be/zdZ2zza5WbY?si=m3eF-8tZrS-NaOC5)
+    - (6) Handheld shooting
 
-    **Resources:** [5 Tips for Shooting Handheld Videos (video)](https://youtu.be/LuJdvwm8-0k), [Birdman: Anatomy of a Scene (video)](https://youtu.be/PVmaJAmQ3yQ)
+      **Resources:** [5 Tips for Shooting Handheld Videos (video)](https://youtu.be/LuJdvwm8-0k), [Birdman: Anatomy of a Scene (video)](https://youtu.be/PVmaJAmQ3yQ)
   - (d) Using motion picture shooting techniques, plan ONE of the following programs. Start with a treatment and complete the requirement by presenting this program to a pack or your troop, patrol, or class.
   - (1) Film a court of honor and show it to an audience.
 

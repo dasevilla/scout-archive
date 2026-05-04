@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Show how to properly wear a bicycle helmet. Show you can take off and put on without help.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Show how to properly wear a bicycle helmet. Show you can take off and put on without help.",
       "activities": [
         {
           "name": "Helmet Fitting",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Decide what you should wear when riding a bike.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Decide what you should wear when riding a bike.",
       "activities": [
         {
           "name": "Gear Check",
@@ -68,6 +76,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Learn about different types of bikes and when/where you might ride these different types.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -76,7 +89,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about different types of bikes and when/where you might ride these different types.",
       "activities": [
         {
           "name": "Types of Bikes",
@@ -92,6 +104,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Demonstrate you can start and stop your bicycle without help.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -100,7 +117,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate you can start and stop your bicycle without help.",
       "activities": [
         {
           "name": "Red light, Green light",
@@ -134,6 +150,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "With your den, pack, or family, follow the buddy system and take a bike ride.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -142,7 +163,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den, pack, or family, follow the buddy system and take a bike ride.",
       "activities": [
         {
           "name": "Let’s Go Ride A Bike",

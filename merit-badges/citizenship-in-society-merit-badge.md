@@ -35,9 +35,9 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
 - (6) With your parent or guardian's approval, connect with another Scout or youth your own age who has an identity that's different from yours. (This means a trait, belief, or characteristic different from you.)
   - (a) Share with each other what makes the different aspects of your identity meaningful/special to you
   - (b) Share with each other ONE of the following options:
-  - (1) **Option 1—** A time you felt excluded from a group: What was the situation? How did it make you feel? What did you do? Did anyone stand up for you? What did you learn? Would you do anything differently today?
-  - (2) **Option 2—** This imaginary situation: You're attending a new school and don't know anyone there yet. You notice they dress very differently than you do. At lunchtime, you decide you'll try to sit with a group to get to know other students. People at two tables tell you there is someone sitting at the currently empty seat at their table, so you end up eating by yourself. Discuss:
-    How would that make you feel? What could the students have done? If that happened at your school, what would you do?
+    - (1) **Option 1—** A time you felt excluded from a group: What was the situation? How did it make you feel? What did you do? Did anyone stand up for you? What did you learn? Would you do anything differently today?
+    - (2) **Option 2—** This imaginary situation: You're attending a new school and don't know anyone there yet. You notice they dress very differently than you do. At lunchtime, you decide you'll try to sit with a group to get to know other students. People at two tables tell you there is someone sitting at the currently empty seat at their table, so you end up eating by yourself. Discuss:
+      How would that make you feel? What could the students have done? If that happened at your school, what would you do?
   - (c) Discuss with your counselor what you learned from the discussion with the other Scout or youth.
 
 - (7) Identify and interview an individual in your community, school, and/or Scouting who has had a significant positive impact in promoting diversity, equity, and inclusion. If you feel your community, school, or local Scouting group does not have such an individual, then research a historical figure who meets these criteria, and discuss that person with your counselor.

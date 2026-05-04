@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "With permission from your parent or legal guardian, watch the ”Protect Yourself Rules” video for the Wolf rank.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With permission from your parent or legal guardian, watch the ”Protect Yourself Rules” video for the Wolf rank.",
       "activities": [
         {
           "name": "Protect Yourself Video Wolf",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Discuss “safe touch” as seen in the Protect Yourself Rules video.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discuss “safe touch” as seen in the Protect Yourself Rules video.",
       "activities": [
         {
           "name": "I Know What to Say",
@@ -77,6 +85,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Learn about the buddy system and demonstrate how it works.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the buddy system and demonstrate how it works.",
       "activities": [
         {
           "name": "Buddy Check Game",
@@ -119,6 +131,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Review common safety rules and demonstrate the proper use of playground equipment.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -127,7 +144,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Review common safety rules and demonstrate the proper use of playground equipment.",
       "activities": [
         {
           "name": "Heads Down, Thumbs Up",

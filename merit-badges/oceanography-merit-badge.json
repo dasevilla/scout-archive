@@ -14,6 +14,11 @@
     {
       "id": "15093",
       "label": "1",
+      "text": "Name four branches of oceanography. Describe at least five reasons why it is important for people to learn about the oceans.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "15094",
       "label": "2",
+      "text": "Explain the following terms: salinity, temperature, and density. Describe how these important properties of seawater are measured by an oceanographer. Discuss the circulation and currents of the ocean. Describe the effects of the oceans on weather and climate.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -60,6 +70,11 @@
     {
       "id": "15095",
       "label": "3",
+      "text": "Describe the characteristics of ocean waves and do the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -76,6 +91,11 @@
         {
           "id": "15099",
           "label": "a",
+          "text": "Point out the differences among the storm surge, tsunami, tidal wave, and tidal bore.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -97,6 +117,11 @@
         {
           "id": "15100",
           "label": "b",
+          "text": "Explain the difference between sea, swell, and surf.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -122,6 +147,11 @@
         {
           "id": "15101",
           "label": "c",
+          "text": "Explain how breakers are formed.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -139,6 +169,11 @@
         {
           "id": "15102",
           "label": "d",
+          "text": "Explain what a rip current is, how to avoid them, and what to do if you are caught in one.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -158,6 +193,11 @@
     {
       "id": "15076",
       "label": "4",
+      "text": "Draw a cross-section of underwater topography. Name and put on your drawing the following: seamount, guyot, rift valley, canyon, trench, and oceanic ridge. Compare the depths in the oceans with the heights of mountains on land. Show what is meant by:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -182,6 +222,11 @@
         {
           "id": "15077",
           "label": "a",
+          "text": "Continental shelf",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +239,11 @@
         {
           "id": "15078",
           "label": "b",
+          "text": "Continental slope",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -206,6 +256,11 @@
         {
           "id": "15079",
           "label": "c",
+          "text": "Abyssal plain",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -220,6 +275,11 @@
     {
       "id": "15096",
       "label": "5",
+      "text": "List the main salts, gases, and nutrients in seawater. Describe some important properties of water. Tell how the animals and plants of the ocean affect the chemical composition of seawater. Explain how differences in evaporation and precipitation affect the salt content of the oceans.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -241,6 +301,11 @@
     {
       "id": "15097",
       "label": "6",
+      "text": "Describe some of the biologically important properties of seawater. Define benthos, nekton, and plankton. Name some of the plants and animals that make up each of these groups. Describe the place and importance of phytoplankton in the oceanic food chain.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -270,6 +335,11 @@
     {
       "id": "15080",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -281,6 +351,11 @@
         {
           "id": "15081",
           "label": "a",
+          "text": "Make a plankton net. Tow the net by a dock, wade with it, hold it in a current, or tow it from a rowboat. Do this for about 20 minutes. Save the sample. Examine it under a microscope or high-power glass. Identify the three most common types of plankton in the sample.Note: May be done in lakes or streams.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -317,6 +392,11 @@
         {
           "id": "15082",
           "label": "b",
+          "text": "Make a series of models (clay or plaster and wood) of a volcanic island. Show the growth of an atoll from a fringing reef through a barrier reef. Describe the Darwinian theory of coral reef formation.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -338,6 +418,11 @@
         {
           "id": "15083",
           "label": "c",
+          "text": "Measure the water temperature at the surface, midwater, and bottom of a body of water four times daily for five consecutive days. You may measure depth with a rock tied to a line. Make a Secchi disk to measure turbidity (how much suspended sedimentation is in the water). Measure the air temperature. Note the cloud cover and roughness of the water. Show your findings (air and water temperature, turbidity) on a graph. Tell how the water temperature changes with air temperature.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -355,6 +440,11 @@
         {
           "id": "15084",
           "label": "d",
+          "text": "Make a model showing the inshore sediment movement by littoral currents, tidal movement, and wave action. Include such formations as high and low waterlines, low-tide terrace, berm, and coastal cliffs. Show how offshore bars are built up and torn down.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -372,6 +462,11 @@
         {
           "id": "15085",
           "label": "e",
+          "text": "Make a wave generator. Show reflection and refraction of waves. Show how groins, jetties, and breakwaters affect these patterns.",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -405,6 +500,11 @@
         {
           "id": "15086",
           "label": "f",
+          "text": "With your counselor's and parent or guardian's approval and permission, track and monitor satellite images available on the internet for a specific location for three weeks. Describe what you have learned to your counselor.",
+          "requirement_path": "7.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -424,6 +524,11 @@
     {
       "id": "15087",
       "label": "8",
+      "text": "Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -435,6 +540,11 @@
         {
           "id": "15091",
           "label": "a",
+          "text": "Write a 500-word report on a book about oceanography approved by your counselor.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -447,6 +557,11 @@
         {
           "id": "15088",
           "label": "b",
+          "text": "Visit one of the following and write a 500-word report about your visit.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -459,6 +574,11 @@
         {
           "id": "15089",
           "label": "1",
+          "text": "Oceanographic research ship",
+          "requirement_path": "8.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -476,6 +596,11 @@
         {
           "id": "15090",
           "label": "2",
+          "text": "Oceanographic institute, marine laboratory, or marine aquarium",
+          "requirement_path": "8.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -497,6 +622,11 @@
         {
           "id": "15092",
           "label": "c",
+          "text": "Explain to your troop, in a five-minute prepared speech \"Why Oceanography Is Important,\" or describe \"Career Opportunities in Oceanography.\" (Before making your speech, show your speech outline to your counselor for approval.)",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -520,6 +650,11 @@
     {
       "id": "15098",
       "label": "9",
+      "text": "Describe four methods that marine scientists use to investigate the ocean, underlying geology, and organisms living in the water.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

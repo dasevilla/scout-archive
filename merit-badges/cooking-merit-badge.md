@@ -29,9 +29,11 @@ The Cooking merit badge introduces principles of cooking that can be used both a
     **Resources:** [10 Rules for Reading a Food Label (video)](https://youtu.be/R-o-83k8dP0?si=67Y3d8V1j407TPAn)
 
 - (2) **Nutrition.** Do the following:
-  - (a) Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size: (1) Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy
+  - (a) Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:
 
     **Resources:** [MyPlate Food Groups (website)](https://www.myplate.gov/eat-healthy/what-is-myplate)
+
+    - (1) Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy
   - (b) Explain why you should limit your intake of oils and sugars.
 
     **Resources:** [Tips for Limiting Sugar in Your Diet (video)](https://youtu.be/rvEVY6SCEUg?si=rzAoy8sQR3eLK4QI)

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Determine your walking pace by walking ¼ mile. Make a projection on how long it would take you to walk 2 miles.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Determine your walking pace by walking ¼ mile. Make a projection on how long it would take you to walk 2 miles.",
       "activities": [
         {
           "name": "Timing a Quarter Mile Indoor",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Walk 2 miles and record the time it took you to complete the two miles.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Walk 2 miles and record the time it took you to complete the two miles.",
       "activities": [
         {
           "name": "Timing 2 Miles Indoor",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Make a projection on how long it would take you to hike a 20-mile trail over two days. List all the factors to consider for your projection.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Make a projection on how long it would take you to hike a 20-mile trail over two days. List all the factors to consider for your projection.",
       "activities": [
         {
           "name": "If I could walk 20 miles",

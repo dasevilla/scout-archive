@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discover the basic components of a computer.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover the basic components of a computer.",
       "activities": [
         {
           "name": "Computer Components Fidget Spinner",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Determine how to properly dispose of computer components.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Determine how to properly dispose of computer components.",
       "activities": [
         {
           "name": "Do You Want To Build A Robot",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Using a digital device application of your choice, create a story that you can share with others.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Using a digital device application of your choice, create a story that you can share with others.",
       "activities": [
         {
           "name": "Digital Story Building",
@@ -119,6 +131,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "With your parent or legal guardian, set up a policy for safely using digital devices.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -127,7 +144,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your parent or legal guardian, set up a policy for safely using digital devices.",
       "activities": [
         {
           "name": "Digital Safety Pledge",

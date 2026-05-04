@@ -34,13 +34,13 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
 
 - (4) Do the following:
   - (a) Discuss each of the following with your counselor:
-  - (1) How to use electronics for a control purpose.
+    - (1) How to use electronics for a control purpose.
 
-    **Resources:** [Inputs, Outputs and Controllers (video)](https://www.youtube.com/shorts/oxNmKS6etGM)
-  - (2) Explain the basic principles of digital logic.
+      **Resources:** [Inputs, Outputs and Controllers (video)](https://www.youtube.com/shorts/oxNmKS6etGM)
+    - (2) Explain the basic principles of digital logic.
 
-    **Resources:** [Understanding Logic Gates (video)](https://youtu.be/INEtYZqtjTo)
-  - (3) How to use electronics for three different analog applications.
+      **Resources:** [Understanding Logic Gates (video)](https://youtu.be/INEtYZqtjTo)
+    - (3) How to use electronics for three different analog applications.
   - (b) Show how to change three decimal numbers into binary numbers and three binary numbers into decimal numbers.
 
     **Resources:** [How to Convert Binary to Decimal (video)](https://youtu.be/a2FpnU9Mm3E), [Convert Decimal to Binary (video)](https://www.youtube.com/shorts/OYP0pa50a0Q)

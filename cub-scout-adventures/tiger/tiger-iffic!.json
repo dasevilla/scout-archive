@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Play at least two different games by yourself; one may be a video game.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play at least two different games by yourself; one may be a video game.",
       "activities": [
         {
           "name": "Disc Golf and Soccer Golf",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Play a board game or another inside game with one or more members of your den or family.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play a board game or another inside game with one or more members of your den or family.",
       "activities": [
         {
           "name": "Catch Them All!",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "With other members of your den or family, invent a game, or change the rules of a game you know, and play the game.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With other members of your den or family, invent a game, or change the rules of a game you know, and play the game.",
       "activities": [
         {
           "name": "Checkers with a Twist",
@@ -128,6 +140,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Play a team game with your den or family.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -136,7 +153,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play a team game with your den or family.",
       "activities": [
         {
           "name": "Let’s Bowl!",

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discuss with your parent or legal guardian your family’s faith traditions or one of your choosing. Choose a view or value of that faith tradition that is related to the Scout Law. Discuss with your family how each family member demonstrates this value.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discuss with your parent or legal guardian your family’s faith traditions or one of your choosing. Choose a view or value of that faith tradition that is related to the Scout Law. Discuss with your family how each family member demonstrates this value.",
       "activities": [
         {
           "name": "Family Traditions & Scout Values Discussion",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Meet with a representative of a faith-based organization in your local community who provides a service that assists people in crisis regardless of their faith. Identify who they help and how.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Meet with a representative of a faith-based organization in your local community who provides a service that assists people in crisis regardless of their faith. Identify who they help and how.",
       "activities": [
         {
           "name": "Faith-based Guest Speaker",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Discuss with your parent, legal guardian, or an adult leader what “Duty to God” means to you. Tell how you practice your Duty to God in your daily life.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discuss with your parent, legal guardian, or an adult leader what “Duty to God” means to you. Tell how you practice your Duty to God in your daily life.",
       "activities": [
         {
           "name": "Reverence Discussion",

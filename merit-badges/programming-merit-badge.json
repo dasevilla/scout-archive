@@ -14,6 +14,11 @@
     {
       "id": "15368",
       "label": "1",
+      "text": "Safety. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "15369",
           "label": "a",
+          "text": "View the Personal Safety Awareness \"Digital Safety\" video (with your parent or guardian's permission.)",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -70,6 +80,11 @@
         {
           "id": "15370",
           "label": "b",
+          "text": "Discuss first aid and prevention for the types of injuries that could occur during programming activities, including repetitive stress injuries and eyestrain.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -97,6 +112,11 @@
     {
       "id": "15382",
       "label": "2",
+      "text": "History. Discuss with your counselor the history of programming and the evolution of programming languages, including at least three milestones related to the advancement or development of programming over time.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -137,6 +157,11 @@
     {
       "id": "15371",
       "label": "3",
+      "text": "General Knowledge. Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -159,6 +184,11 @@
         {
           "id": "15372",
           "label": "a",
+          "text": "Create a list of five popular programming languages in use today and describe which industry or industries they are primarily used in and why.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -176,6 +206,11 @@
         {
           "id": "15373",
           "label": "b",
+          "text": "Describe three different programmed devices you rely on every day.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -190,6 +225,11 @@
     {
       "id": "15374",
       "label": "4",
+      "text": "Intellectual Property. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -212,6 +252,11 @@
         {
           "id": "15375",
           "label": "a",
+          "text": "Explain the four types of intellectual property used to protect computer programs.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -229,6 +274,11 @@
         {
           "id": "15376",
           "label": "b",
+          "text": "Describe the difference between licensing and owning software.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -246,6 +296,11 @@
         {
           "id": "15377",
           "label": "c",
+          "text": "Describe the differences between freeware, open source, and commercial software, and why it is important to respect the terms of use of each.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -269,6 +324,11 @@
     {
       "id": "15378",
       "label": "5",
+      "text": "Project. With your counselor's guidance, select three different programming languages and development environments. For each sub-requirement below, do the following: Write or modify a program using the indicated programming language and development environment. The program must take input and produce output based on computations and decisions made on the input. Debug and demonstrate the program to your counselor. Explain how each program processes inputs, makes decisions based on those inputs, and provides outputs based on computations and decision making.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -291,6 +351,11 @@
         {
           "id": "15379",
           "label": "a",
+          "text": "In the first language and environment, write or modify a program, debug and demonstrate, and explain as above.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -303,6 +368,11 @@
         {
           "id": "15380",
           "label": "b",
+          "text": "In the second language and environment, write or modify a program, debug and demonstrate, and explain as above.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -320,6 +390,11 @@
         {
           "id": "15381",
           "label": "c",
+          "text": "In the third language and environment, write or modify a program, debug and demonstrate, and explain as above.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -339,6 +414,11 @@
     {
       "id": "15383",
       "label": "6",
+      "text": "Careers. Do ONE of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -361,6 +441,11 @@
         {
           "id": "15384",
           "label": "a",
+          "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -373,6 +458,11 @@
         {
           "id": "15385",
           "label": "b",
+          "text": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

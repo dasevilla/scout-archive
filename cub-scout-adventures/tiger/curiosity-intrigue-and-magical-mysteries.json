@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Learn a magic trick. Practice the trick. Share the trick with you den or family members.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn a magic trick. Practice the trick. Share the trick with you den or family members.",
       "activities": [
         {
           "name": "Coin Through a Neckerchief",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Demonstrate how a magic trick works to your den, family or Tiger adult partner.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate how a magic trick works to your den, family or Tiger adult partner.",
       "activities": [
         {
           "name": "Magic Show",
@@ -77,6 +85,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Write your name in secret code.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Write your name in secret code.",
       "activities": [
         {
           "name": "Computer Name",
@@ -119,6 +131,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Write a message with the code. Challenge your den, family or Tiger adult partner to read your coded message.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -127,7 +144,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Write a message with the code. Challenge your den, family or Tiger adult partner to read your coded message.",
       "activities": [
         {
           "name": "My Secret Code Part 2",

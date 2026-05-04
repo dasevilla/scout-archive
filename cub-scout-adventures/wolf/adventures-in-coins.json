@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Identify different parts of a coin.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify different parts of a coin.",
       "activities": [
         {
           "name": "Coin Designer Challenge",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Find the mint mark on a coin and identify the mint facility where it was made and the year it was made.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Find the mint mark on a coin and identify the mint facility where it was made and the year it was made.",
       "activities": [
         {
           "name": "Mint City Showdown",
@@ -95,6 +103,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Choose a coin that interests you and make a coin rubbing. List information next to the coin detailing the pictures on it, the year it was made, and the mint where it was made.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Choose a coin that interests you and make a coin rubbing. List information next to the coin detailing the pictures on it, the year it was made, and the mint where it was made.",
       "activities": [
         {
           "name": "Coin Rubbings",

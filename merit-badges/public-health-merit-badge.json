@@ -14,6 +14,11 @@
     {
       "id": "15444",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "15448",
           "label": "a",
+          "text": "Explain what public health is.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "15449",
           "label": "b",
+          "text": "Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "15450",
           "label": "c",
+          "text": "Choose any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, or lead poisoning.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "15451",
           "label": "d",
+          "text": "For all 10 diseases from 1(c), explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread of infection, and available treatments.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -75,6 +100,11 @@
     {
       "id": "15418",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -86,6 +116,11 @@
         {
           "id": "15419",
           "label": "a",
+          "text": "Explain the meaning of immunization.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -109,6 +144,11 @@
         {
           "id": "15420",
           "label": "b",
+          "text": "Name eight diseases against which a young child should be immunized, two diseases against which everyone should be reimmunized periodically, and one immunization everyone should receive annually.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -121,6 +161,11 @@
         {
           "id": "15421",
           "label": "c",
+          "text": "Using the list of diseases and conditions in requirement 1, discuss with your counselor those which currently have no immunization available.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +180,11 @@
     {
       "id": "15445",
       "label": "3",
+      "text": "Discuss the importance of safe drinking water in terms of the spread of disease. Then, demonstrate two ways for making water safe to drink that can be used while at camp. In your demonstration, explain how dishes and utensils should be washed, dried, and kept sanitary at home and in camp.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -147,6 +197,11 @@
     {
       "id": "15446",
       "label": "4",
+      "text": "Explain what a vector is and how insects and rodents can be controlled in your home, in your community, and at camp. Tell why this is important. In your discussion, explain which vectors can be easily controlled by individuals and which ones require long-term, collective action.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -159,6 +214,11 @@
     {
       "id": "15422",
       "label": "5",
+      "text": "With your parent or guardian's and counselor's approval, do ONE of the following:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -170,6 +230,11 @@
         {
           "id": "15423",
           "label": "a",
+          "text": "Visit a municipal wastewater treatment facility or a solid-waste management operation in your community.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -182,6 +247,11 @@
         {
           "id": "15424",
           "label": "1",
+          "text": "Describe how the facility safely treats and disposes of sewage or solid waste.",
+          "requirement_path": "5.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +264,11 @@
         {
           "id": "15425",
           "label": "2",
+          "text": "Discuss your visit and what you learned with your counselor.",
+          "requirement_path": "5.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -206,6 +281,11 @@
         {
           "id": "15426",
           "label": "3",
+          "text": "Describe how sewage and solid waste should be disposed of under wilderness camping conditions.",
+          "requirement_path": "5.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -218,6 +298,11 @@
         {
           "id": "15427",
           "label": "b",
+          "text": "Visit a food service facility, such as a restaurant or school cafeteria.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -230,6 +315,11 @@
         {
           "id": "15428",
           "label": "1",
+          "text": "Observe food preparation, handling, and storage. Learn how the facility keeps food from becoming contaminated.",
+          "requirement_path": "5.1-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -242,6 +332,11 @@
         {
           "id": "15429",
           "label": "2",
+          "text": "Find out what conditions allow microorganisms to multiply in food, what can be done to help prevent them from growing and spreading, and how to kill them.",
+          "requirement_path": "5.2-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -254,6 +349,11 @@
         {
           "id": "15430",
           "label": "3",
+          "text": "Discuss the importance of using a thermometer to check food temperatures.",
+          "requirement_path": "5.3-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -266,6 +366,11 @@
         {
           "id": "15431",
           "label": "4",
+          "text": "Discuss your visit and what you learned with your counselor.",
+          "requirement_path": "5.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -280,6 +385,11 @@
     {
       "id": "15432",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -291,6 +401,11 @@
         {
           "id": "15433",
           "label": "a",
+          "text": "Describe the health dangers from air, water, and noise pollution.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -303,6 +418,11 @@
         {
           "id": "15434",
           "label": "b",
+          "text": "Describe health dangers from tobacco use and alcohol and drug abuse.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -315,6 +435,11 @@
         {
           "id": "15435",
           "label": "c",
+          "text": "Describe the health dangers from abusing illegal and prescription drugs.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -329,6 +454,11 @@
     {
       "id": "15436",
       "label": "7",
+      "text": "With your parent or guardian's and counselor's approval, do the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -340,6 +470,11 @@
         {
           "id": "15452",
           "label": "a",
+          "text": "Do ONE of the following",
+          "requirement_path": "7.a",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",
@@ -347,35 +482,51 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15453",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Visit your city, county, state or federal public health agency."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15454",
-          "label": "2",
-          "content": [
+              "id": "15453",
+              "label": "1",
+              "text": "Visit your city, county, state or federal public health agency.",
+              "requirement_path": "7.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Visit your city, county, state or federal public health agency."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Familiarize yourself with your city, county, state, or a federal health agency's website."
+              "id": "15454",
+              "label": "2",
+              "text": "Familiarize yourself with your city, county, state, or a federal health agency's website.",
+              "requirement_path": "7.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Familiarize yourself with your city, county, state, or a federal health agency's website."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15440",
           "label": "b",
+          "text": "After completing either 7(a) do the following:",
+          "requirement_path": "7.b",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",
@@ -383,49 +534,70 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15441",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15442",
-          "label": "2",
-          "content": [
+              "id": "15441",
+              "label": "1",
+              "text": "Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death.",
+              "requirement_path": "7.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Explain the role of your health agency as it relates to the outbreak of diseases."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15443",
-          "label": "3",
-          "content": [
+              "id": "15442",
+              "label": "2",
+              "text": "Explain the role of your health agency as it relates to the outbreak of diseases.",
+              "requirement_path": "7.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the role of your health agency as it relates to the outbreak of diseases."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Discuss the kinds of public assistance the agency is able to provide in case of disasters such as floods, storms, tornadoes, earthquakes, and other acts of destruction. Your discussion can include the cleanup necessary after the disaster."
+              "id": "15443",
+              "label": "3",
+              "text": "Discuss the kinds of public assistance the agency is able to provide in case of disasters such as floods, storms, tornadoes, earthquakes, and other acts of destruction. Your discussion can include the cleanup necessary after the disaster.",
+              "requirement_path": "7.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss the kinds of public assistance the agency is able to provide in case of disasters such as floods, storms, tornadoes, earthquakes, and other acts of destruction. Your discussion can include the cleanup necessary after the disaster."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "15447",
       "label": "8",
+      "text": "Pick a profession in the public health sector that interests you. Find out the education, training, and experience required to work in this profession. Discuss what you learn with your counselor.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

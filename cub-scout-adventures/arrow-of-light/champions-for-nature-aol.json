@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Identify foods grown or processed in your state.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify foods grown or processed in your state.",
       "activities": [
         {
           "name": "Farmer’s Market Trip",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Determine the benefits of purchasing food that is locally grown or processed.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Determine the benefits of purchasing food that is locally grown or processed.",
       "activities": [
         {
           "name": "Food for Miles and Miles",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Explore the concept of a food desert.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explore the concept of a food desert.",
       "activities": [
         {
           "name": "Am I in a Food Desert?",
@@ -119,6 +131,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Explore the concept of a food oasis.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -127,7 +144,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explore the concept of a food oasis.",
       "activities": [
         {
           "name": "Am I in a Food Oasis?",
@@ -152,6 +168,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Learn how individuals can reduce food waste.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -160,7 +181,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn how individuals can reduce food waste.",
       "activities": [
         {
           "name": "Food Preservation",
@@ -194,6 +214,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Participate in a conservation service project.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -202,7 +227,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Participate in a conservation service project.",
       "activities": [
         {
           "name": "Clean Waterways",

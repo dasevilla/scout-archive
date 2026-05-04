@@ -32,10 +32,10 @@ Coin collecting is one of the oldest of all hobbies. Hoards of ancient coins fou
   - (b) Collect and identify for your counselor 20 different world paper money from at least 7 different countries. Identify the country, major design elements, and denomination of each.
   - (c) Collect and identify for your counselor 20 different tokens and/or medals. Identify the issuer and use of each.
   - (d) Complete one of the following and report to your counselor what you experienced:
-  - (1) Attend a coin show.
-  - (2) Attend a coin club meeting.
-  - (3) Tour a U.S. Mint facility or museum.
-  - (4) Tour a virtual exhibit (with your parent or guardian's permission) approved by your counselor.
+    - (1) Attend a coin show.
+    - (2) Attend a coin club meeting.
+    - (3) Tour a U.S. Mint facility or museum.
+    - (4) Tour a virtual exhibit (with your parent or guardian's permission) approved by your counselor.
 
 ## Resources
 

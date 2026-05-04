@@ -14,6 +14,11 @@
     {
       "id": "13163",
       "label": "1",
+      "text": "Describe the safety precautions you must exercise when using, building, altering, or repairing electronic devices.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "13142",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "13143",
           "label": "a",
+          "text": "Draw a simple schematic diagram. It must show resistors, capacitors, and transistors or integrated circuits. Use the correct symbols. Label all parts.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +78,11 @@
         {
           "id": "13144",
           "label": "b",
+          "text": "Tell the purpose of each part.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -86,6 +106,11 @@
     {
       "id": "13145",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -97,6 +122,11 @@
         {
           "id": "13146",
           "label": "a",
+          "text": "Show the right way to solder and desolder.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -118,6 +148,11 @@
         {
           "id": "13147",
           "label": "b",
+          "text": "Show how to avoid heat damage to electronic components.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +170,11 @@
         {
           "id": "13148",
           "label": "c",
+          "text": "Tell about the function of a printed circuit board. Tell what precautions should be observed when soldering printed circuit boards.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -154,6 +194,11 @@
     {
       "id": "13149",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -165,6 +210,11 @@
         {
           "id": "13150",
           "label": "a",
+          "text": "Discuss each of the following with your counselor:",
+          "requirement_path": "4.a",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",
@@ -172,57 +222,78 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13151",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "How to use electronics for a control purpose."
-            }
-          ],
-          "resources": [
+              "id": "13151",
+              "label": "1",
+              "text": "How to use electronics for a control purpose.",
+              "requirement_path": "4.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "How to use electronics for a control purpose."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Inputs, Outputs and Controllers (video)",
+                  "url": "https://www.youtube.com/shorts/oxNmKS6etGM"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Inputs, Outputs and Controllers (video)",
-              "url": "https://www.youtube.com/shorts/oxNmKS6etGM"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13152",
-          "label": "2",
-          "content": [
+              "id": "13152",
+              "label": "2",
+              "text": "Explain the basic principles of digital logic.",
+              "requirement_path": "4.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the basic principles of digital logic."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Understanding Logic Gates (video)",
+                  "url": "https://youtu.be/INEtYZqtjTo"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Explain the basic principles of digital logic."
+              "id": "13153",
+              "label": "3",
+              "text": "How to use electronics for three different analog applications.",
+              "requirement_path": "4.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "How to use electronics for three different analog applications."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [
-            {
-              "title": "Understanding Logic Gates (video)",
-              "url": "https://youtu.be/INEtYZqtjTo"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13153",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "How to use electronics for three different analog applications."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13158",
           "label": "b",
+          "text": "Show how to change three decimal numbers into binary numbers and three binary numbers into decimal numbers.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -244,6 +315,11 @@
         {
           "id": "13154",
           "label": "c",
+          "text": "Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -261,6 +337,11 @@
         {
           "id": "13155",
           "label": "1",
+          "text": "A control device",
+          "requirement_path": "4.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -273,6 +354,11 @@
         {
           "id": "13156",
           "label": "2",
+          "text": "A digital circuit",
+          "requirement_path": "4.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -285,6 +371,11 @@
         {
           "id": "13157",
           "label": "3",
+          "text": "An analog circuit",
+          "requirement_path": "4.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -299,6 +390,11 @@
     {
       "id": "13159",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -310,6 +406,11 @@
         {
           "id": "13160",
           "label": "a",
+          "text": "Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -331,6 +432,11 @@
         {
           "id": "13161",
           "label": "b",
+          "text": "Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -348,6 +454,11 @@
         {
           "id": "13162",
           "label": "c",
+          "text": "Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -365,6 +476,11 @@
         {
           "id": "13165",
           "label": "d",
+          "text": "Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -384,6 +500,11 @@
     {
       "id": "13164",
       "label": "6",
+      "text": "Identify three career opportunities that would use skills and knowledge in electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

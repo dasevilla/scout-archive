@@ -14,6 +14,11 @@
     {
       "id": "14840",
       "label": "1",
+      "text": "Explain the following terms: animal, invertebrate, vertebrate, and mammal. Name three characteristics that distinguish mammals from all other animals.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,6 +48,11 @@
     {
       "id": "14841",
       "label": "2",
+      "text": "Explain how the animal kingdom is classified. Explain where mammals fit in the classification of animals. Classify three mammals from phylum through species.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -72,6 +82,11 @@
     {
       "id": "14828",
       "label": "3",
+      "text": "Do ONE of the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -83,6 +98,11 @@
         {
           "id": "14829",
           "label": "a",
+          "text": "Spend three hours in two different kinds of natural habitats or at different elevations for a total of 6 hours. List the different mammal species and how many of each you identified by sight or sign. Tell why all mammals do not live in the same kind of habitat.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -104,6 +124,11 @@
         {
           "id": "14830",
           "label": "b",
+          "text": "Spend three hours on five different days in at least a 4-acre area (about the size of 3 football fields) for a total of 15 hours. List the mammal species you identified by sight or sign.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -116,6 +141,11 @@
         {
           "id": "14831",
           "label": "c",
+          "text": "From study and reading, write a simple life history of one nongame mammal that lives in your area. Tell how this mammal lived before its habitat was affected in any way by humans. Tell how it reproduces, what it eats, and its natural habitat. Describe its dependency upon plants and other animals (including humans), and how they depend upon it. Describe how humans have benefited from the mammal you have chosen and whether the mammal has benefited from association with humankind.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -130,6 +160,11 @@
     {
       "id": "14832",
       "label": "4",
+      "text": "Do ONE of the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -141,6 +176,11 @@
         {
           "id": "14833",
           "label": "a",
+          "text": "Under the guidance of a nature center or natural history museum, make two study skins of rats or mice. Tell the uses of study skins and mounted specimens respectively.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -166,6 +206,11 @@
         {
           "id": "14834",
           "label": "b",
+          "text": "Take good pictures of two kinds of mammals in the wild. Record the date(s), time of day, weather conditions, approximate distance from the animal, habitat conditions, and any other factors you feel may have influenced the animal's activity and behavior.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -195,6 +240,11 @@
         {
           "id": "14835",
           "label": "c",
+          "text": "Write a life history of a native game mammal that lives in your area, covering the points outlined in requirement 3(c). List sources for this information.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -207,6 +257,11 @@
         {
           "id": "14836",
           "label": "d",
+          "text": "Make and bait a tracking pit. Report what mammals and other animals came to the bait.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -232,6 +287,11 @@
         {
           "id": "14837",
           "label": "e",
+          "text": "Visit a natural history museum. Report on how specimens are prepared and cataloged. Explain the purposes of museums.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -249,6 +309,11 @@
         {
           "id": "14838",
           "label": "f",
+          "text": "Write a report of 500 words on a book about a mammal species.",
+          "requirement_path": "4.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -261,6 +326,11 @@
         {
           "id": "14839",
           "label": "g",
+          "text": "Trace two possible food chains of carnivorous mammals from the soil through four stages to the mammal.",
+          "requirement_path": "4.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -288,6 +358,11 @@
     {
       "id": "14842",
       "label": "5",
+      "text": "Working with your counselor, select and carry out one project that will influence the numbers of one or more mammals.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -313,6 +388,11 @@
     {
       "id": "14843",
       "label": "6",
+      "text": "Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code as they relate to Mammal Study. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code while in natural areas during field observation, specimen collection, and identification.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -334,6 +414,11 @@
     {
       "id": "14844",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -345,6 +430,11 @@
         {
           "id": "14845",
           "label": "a",
+          "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -362,6 +452,11 @@
         {
           "id": "14846",
           "label": "b",
+          "text": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

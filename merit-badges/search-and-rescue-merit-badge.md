@@ -57,18 +57,18 @@ A search is an emergency situation requiring a team of trained searchers to loca
   - (c) Explain the importance of effective communication in SAR operations.
   - (d) Explain how predictions of "lost person behavior" determine SAR search plans for a young child, a teenager, and an adult.
   - (e) Explain the following terms:
-  - (1) Evaluating search urgency
-  - (2) Establishing confinement
-  - (3) Scent item
-  - (4) Area air scent dog
-  - (5) Briefing and debriefing
-  - (6) Clue awareness
-  - (7) Evidence preservation
-  - (8) Tracking a subject
-  - (9) Locating a subject using attraction
-  - (10) Hasty search
-  - (11) Trail sweep search
-  - (12) Grid search
+    - (1) Evaluating search urgency
+    - (2) Establishing confinement
+    - (3) Scent item
+    - (4) Area air scent dog
+    - (5) Briefing and debriefing
+    - (6) Clue awareness
+    - (7) Evidence preservation
+    - (8) Tracking a subject
+    - (9) Locating a subject using attraction
+    - (10) Hasty search
+    - (11) Trail sweep search
+    - (12) Grid search
 
 - (7) **Plan and Complete a Search.** Do the following with a team of Scouts, friends, or family to execute a practice SAR exercise:
   - (a) Choose a hypothetical SAR scenario, either one presented in the *Search and Rescue* merit badge pamphlet or one approved by your counselor.

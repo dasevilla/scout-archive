@@ -14,6 +14,11 @@
     {
       "id": "15562",
       "label": "1",
+      "text": "Safety. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "15563",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -53,6 +63,11 @@
         {
           "id": "15564",
           "label": "b",
+          "text": "Discuss first aid and prevention for the types of injuries that could occur while participating in robotics activities and competitions, including cuts, eye injuries, and burns (chemical or heat).",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -72,6 +87,11 @@
     {
       "id": "15565",
       "label": "2",
+      "text": "Robotics Industry. Discuss the following with your counselor:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -94,6 +114,11 @@
         {
           "id": "15566",
           "label": "a",
+          "text": "The kinds of things robots can do and how robots are best used today.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -111,6 +136,11 @@
         {
           "id": "15567",
           "label": "b",
+          "text": "The similarities and differences between remote-control vehicles, telerobots, and autonomous robots.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -132,6 +162,11 @@
         {
           "id": "15568",
           "label": "c",
+          "text": "Three different methods robots can use to move themselves other than wheels or tracks. Describe when it would be appropriate to use each method.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -151,6 +186,11 @@
     {
       "id": "15583",
       "label": "3",
+      "text": "General Knowledge. Discuss with your counselor three of the five major fields of robotics (human-robot interface, mobility, manipulation, programming, sensors) and their importance to robotics development. Discuss either the three fields as they relate to a single robot system OR talk about each field in general. Find pictures or at least one video to aid your discussion.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -179,6 +219,11 @@
     {
       "id": "15569",
       "label": "4",
+      "text": "Design, Build, Program, Test. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -214,6 +259,11 @@
         {
           "id": "15573",
           "label": "a",
+          "text": "With your counselor's approval, choose a task for the robot or robotic subsystem that you plan to build. Include sensor feedback and programming in the task. Document this information in your robot engineering notebook.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -226,6 +276,11 @@
         {
           "id": "15574",
           "label": "b",
+          "text": "Design your robot. The robot design should use sensors and programming and have at least 2 degrees of freedom. Document the design in your robot engineering notebook using drawings and a written description.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -238,6 +293,11 @@
         {
           "id": "15575",
           "label": "c",
+          "text": "Build a robot or robotic subsystem of your original design to accomplish the task you chose for requirement 4(a).",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -250,6 +310,11 @@
         {
           "id": "15570",
           "label": "d",
+          "text": "Discuss with your counselor the programming options available for your robot. Then do ONE of the following:",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -257,49 +322,65 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15571",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook."
-            }
-          ],
-          "resources": [
-            {
-              "title": "VEXcode VR (website)",
-              "url": "https://www.vexrobotics.com/vexcode/vr?srsltid=AfmBOopvcCE5uFUVB__bxV0UiLP20ZZQwq0WrNHHJWuIQUDXmLAwl8UL%5C"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15572",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook."
-            }
-          ],
-          "resources": [
-            {
-              "title": "General Guide to Creating Flowcharts (video)",
-              "url": "https://youtu.be/SWRDqTx8d4k"
+              "id": "15571",
+              "label": "1",
+              "text": "Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook.",
+              "requirement_path": "4.d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "VEXcode VR (website)",
+                  "url": "https://www.vexrobotics.com/vexcode/vr?srsltid=AfmBOopvcCE5uFUVB__bxV0UiLP20ZZQwq0WrNHHJWuIQUDXmLAwl8UL%5C"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Flowchart Tutorial for Beginners (video)",
-              "url": "https://youtu.be/c8asK8iCaRk"
+              "id": "15572",
+              "label": "2",
+              "text": "Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook.",
+              "requirement_path": "4.d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "General Guide to Creating Flowcharts (video)",
+                  "url": "https://youtu.be/SWRDqTx8d4k"
+                },
+                {
+                  "title": "Flowchart Tutorial for Beginners (video)",
+                  "url": "https://youtu.be/c8asK8iCaRk"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15576",
           "label": "e",
+          "text": "Test your robot and record the results in your robot engineering notebook. Include suggestions on how you could improve your robot, as well as pictures or sketches of your finished robot.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -314,6 +395,11 @@
     {
       "id": "15577",
       "label": "5",
+      "text": "Demonstrate. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -336,6 +422,11 @@
         {
           "id": "15578",
           "label": "a",
+          "text": "Demonstrate for your counselor the robot you built in requirement 4.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -348,6 +439,11 @@
         {
           "id": "15579",
           "label": "b",
+          "text": "Share your robot engineering notebook with your counselor. Talk about how well your robot accomplished the task, the improvements you would make in your next design, and what you learned about the design process.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -362,6 +458,11 @@
     {
       "id": "15580",
       "label": "6",
+      "text": "Competitions. Do ONE of the following.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -393,6 +494,11 @@
         {
           "id": "15581",
           "label": "a",
+          "text": "Attend a robotics competition and report to your counselor what you saw and learned about the competition and how teams are organized and managed.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -405,6 +511,11 @@
         {
           "id": "15582",
           "label": "b",
+          "text": "Learn about three youth robotics competitions. Tell your counselor about these, including the type of competition, time commitment, age of the participants, and how many teams are involved.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -419,6 +530,11 @@
     {
       "id": "15584",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -430,6 +546,11 @@
         {
           "id": "15585",
           "label": "a",
+          "text": "Identify three career opportunities that would use skills and knowledge in Robotics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -451,6 +572,11 @@
         {
           "id": "15586",
           "label": "b",
+          "text": "Identify how you might use the skills and knowledge in robotics to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

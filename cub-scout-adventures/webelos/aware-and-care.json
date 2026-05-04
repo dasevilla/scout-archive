@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Do an activity that shows the challenges of a being visually impaired.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Do an activity that shows the challenges of a being visually impaired.",
       "activities": [
         {
           "name": "Can We Get There?",
@@ -62,6 +66,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Do an activity that shows the challenges of being hearing impaired.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -70,7 +79,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Do an activity that shows the challenges of being hearing impaired.",
       "activities": [
         {
           "name": "Listen Carefully",
@@ -104,6 +112,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Meet someone who has a disability or someone who works with people with disabilities about what obstacles they must overcome and how they do it.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -112,7 +125,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Meet someone who has a disability or someone who works with people with disabilities about what obstacles they must overcome and how they do it.",
       "activities": [
         {
           "name": "How Do People Help?",

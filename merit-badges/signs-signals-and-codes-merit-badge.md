@@ -21,8 +21,8 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
   - (a) Give your counselor a brief explanation about semaphore, why it is used, how it is used, and where it is used.
   - (b) Explain to your counselor the difference between semaphore flags and nautical flags.
   - (c) After 4(a) and 4(b) have been completed, do the following:
-  - (1) Spell your first name using semaphore. Send or receive a message of six to 10 words using semaphore.
-  - (2) Using illustrations or photographs, identify 10 examples of nautical flags and discuss their importance.
+    - (1) Spell your first name using semaphore. Send or receive a message of six to 10 words using semaphore.
+    - (2) Using illustrations or photographs, identify 10 examples of nautical flags and discuss their importance.
 
 - (5) Explain the braille reading technique and how it helps individuals with sight impairment to communicate. Then do the following:
   - (a) Either by sight or by touch, identify the letters of the braille alphabet that spell your name. By sight or touch, decode a braille message at least six words long.

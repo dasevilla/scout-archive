@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Learn what modular design is and identify three things that use modular design in their construction.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn what modular design is and identify three things that use modular design in their construction.",
       "activities": [
         {
           "name": "Modular",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Using modular-based building pieces, build a model without a set of instructions.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Using modular-based building pieces, build a model without a set of instructions.",
       "activities": [
         {
           "name": "Let’s Build It",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Using the model made in requirement 2, create a set of step-by-step instructions on how to make your model.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Using the model made in requirement 2, create a set of step-by-step instructions on how to make your model.",
       "activities": [
         {
           "name": "Draw It Out",
@@ -101,6 +113,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Have someone make your model using your instructions.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -109,7 +126,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Have someone make your model using your instructions.",
       "activities": [
         {
           "name": "Following Instructions",
@@ -125,6 +141,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Using the same modular pieces used in requirement 2, build another model of something different.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -133,7 +154,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Using the same modular pieces used in requirement 2, build another model of something different.",
       "activities": [
         {
           "name": "My Build",
@@ -149,6 +169,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "With your parent or legal guardian’s permission, watch a video demonstrating how something was built using modular design.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -157,7 +182,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your parent or legal guardian’s permission, watch a video demonstrating how something was built using modular design.",
       "activities": [
         {
           "name": "It’s Real",

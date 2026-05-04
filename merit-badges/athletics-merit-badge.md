@@ -63,66 +63,69 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
   - **Option A—Sprinting.** Do ALL of the following:
 
     **Resources:** [How to Sprint (video)](https://youtu.be/2twa8CAFPls?si=TFVD802jIvX0kmMW)
-  - (1) 100-meter dash
-  - (2) 200-meter dash
+
+    - (1) 100-meter dash
+    - (2) 200-meter dash
   - **Option B—Long-Distance Running.** Do ALL of the following:
 
     **Resources:** [Improving Your Running Form (video)](https://youtu.be/ZKCwpW-l_wU?si=3L7szs0IGkQdhTYR)
-  - (1) 3k run
-  - (2) 5k run
+
+    - (1) 3k run
+    - (2) 5k run
   - **Option C—Long Jump OR High Jump.** Do ALL of the following:
-  - (1) Running long jump OR running high jump (best of three tries)
+    - (1) Running long jump OR running high jump (best of three tries)
 
-    **Resources:** [Running Long Jump (video)](https://youtu.be/PeC29LbR94U?si=XUrZ1NjVmZetRdxl), [Running High Jump (video)](https://youtu.be/NLufVXI7HOQ?si=vC_x2Ym1yWiTh_H8)
-  - (2) Standing long jump OR standing high jump (best of three tries)
+      **Resources:** [Running Long Jump (video)](https://youtu.be/PeC29LbR94U?si=XUrZ1NjVmZetRdxl), [Running High Jump (video)](https://youtu.be/NLufVXI7HOQ?si=vC_x2Ym1yWiTh_H8)
+    - (2) Standing long jump OR standing high jump (best of three tries)
 
-    **Resources:** [Standing Long Jump (video)](https://youtu.be/dVgtvAXeBQw?si=nHxJ6Hm9bjzLS5pF), [Standing High Jump (video)](https://youtu.be/Q6mxzUBF1_Q?si=XJFxXuwaOeVRxi9A)
+      **Resources:** [Standing Long Jump (video)](https://youtu.be/dVgtvAXeBQw?si=nHxJ6Hm9bjzLS5pF), [Standing High Jump (video)](https://youtu.be/Q6mxzUBF1_Q?si=XJFxXuwaOeVRxi9A)
   - **Option D—Swimming.** Do ALL of the following:
-  - (1) 100-meter swim
+    - (1) 100-meter swim
 
-    **Resources:** [How to Swim Laps (video)](https://youtu.be/G-Gy76-tGLE?si=ZApjnanynnuBlUWJ)
-  - (2) 200-meter swim
+      **Resources:** [How to Swim Laps (video)](https://youtu.be/G-Gy76-tGLE?si=ZApjnanynnuBlUWJ)
+    - (2) 200-meter swim
 
-    **Resources:** [Best Way to Swim a 200m (video)](https://youtu.be/libZMpLYfEM?si=_nSxrUPF1rA317sr)
+      **Resources:** [Best Way to Swim a 200m (video)](https://youtu.be/libZMpLYfEM?si=_nSxrUPF1rA317sr)
   - **Option E—Pull-Ups AND Push-Ups.** Do ALL of the following:
-  - (1) Pull-ups in two minutes
+    - (1) Pull-ups in two minutes
 
-    **Resources:** [How to Do a Pull-Up (video)](https://youtu.be/eSPO3E7Qoy4?si=1gK0noTZ_uAteC2P)
-  - (2) Push-ups in two minutes
+      **Resources:** [How to Do a Pull-Up (video)](https://youtu.be/eSPO3E7Qoy4?si=1gK0noTZ_uAteC2P)
+    - (2) Push-ups in two minutes
 
-    **Resources:** [How to Do a Push-Up (video)](https://youtu.be/x-bWOeFFQvk?si=uR2OS3C6KUvyjuSJ)
+      **Resources:** [How to Do a Push-Up (video)](https://youtu.be/x-bWOeFFQvk?si=uR2OS3C6KUvyjuSJ)
   - **Option F—Baseball Throw.** Do ALL of the following:
 
     **Resources:** [How to Throw a Baseball (video)](https://youtu.be/UHRU973uu2c?si=eu9KwMfgqkKxrSCK)
-  - (1) Baseball throw for accuracy, 10 throws at a target (distance to be determined by age): ages 11 to 12, 20 feet; ages 13 to 15, 30 feet; ages 16 to 17, 40 feet
-  - (2) Baseball throw for distance, five throws (total distance)
-  - **Option G—Basketball Shooting.** Do ALL the following:
 
-    **Resources:** [How to Shoot a Free Throw (video)](https://youtu.be/iW2VFzBiaQo?si=OcW1PTb8DR3ZtR6y), [How to Shoot a Layup (video)](https://youtu.be/q4IqeXob_qg?si=or8nQWc5bXpIOEQe), [How to Shoot a Basketball (video)](https://youtu.be/UcnB9e5O5NY?si=dlC30TAj-AyuKca9)
-  - (1) Basketball shot for accuracy, 10 free-throw shots
-  - (2) Basketball throw for skill and agility, the following shots:
-  - (a) Left-side layup
-  - (b) Right-side layup
-  - (c) Left side of hoop, along the key line
-  - (d) Right side of hoop, along the key line
-  - (e) Where key line and free-throw line meet, left side
-  - (f) Where key line and free-throw line meet, left side
-  - (g) Top of the key
-  - (h) Another spot along the three-point line
+    - (1) Baseball throw for accuracy, 10 throws at a target (distance to be determined by age): ages 11 to 12, 20 feet; ages 13 to 15, 30 feet; ages 16 to 17, 40 feet
+    - (2) Baseball throw for distance, five throws (total distance)
+    - **Option G—Basketball Shooting.** Do ALL the following:
+
+      **Resources:** [How to Shoot a Free Throw (video)](https://youtu.be/iW2VFzBiaQo?si=OcW1PTb8DR3ZtR6y), [How to Shoot a Layup (video)](https://youtu.be/q4IqeXob_qg?si=or8nQWc5bXpIOEQe), [How to Shoot a Basketball (video)](https://youtu.be/UcnB9e5O5NY?si=dlC30TAj-AyuKca9)
+    - (1) Basketball shot for accuracy, 10 free-throw shots
+    - (2) Basketball throw for skill and agility, the following shots:
+      - (a) Left-side layup
+      - (b) Right-side layup
+      - (c) Left side of hoop, along the key line
+      - (d) Right side of hoop, along the key line
+      - (e) Where key line and free-throw line meet, left side
+      - (f) Where key line and free-throw line meet, left side
+      - (g) Top of the key
+      - (h) Another spot along the three-point line
   - **Option H—Football Kick OR Soccer Kick.** Do ALL of the following:
-  - (1) Goals from the 10-yard line, eight kicks
+    - (1) Goals from the 10-yard line, eight kicks
 
-    **Resources:** [Shooting a Soccer Free Kick (video)](https://youtu.be/ROZXyk98Oto?si=D68RBCQ6GDI2_kP9)
-  - (2) Football kick or soccer kick for distance, five kicks (total distance)
+      **Resources:** [Shooting a Soccer Free Kick (video)](https://youtu.be/ROZXyk98Oto?si=D68RBCQ6GDI2_kP9)
+    - (2) Football kick or soccer kick for distance, five kicks (total distance)
 
-    **Resources:** [Kick a Football Field Goal (video)](https://youtu.be/vJ3BHM9U-S0?si=xCzYWo3YkxdOXkfu)
+      **Resources:** [Kick a Football Field Goal (video)](https://youtu.be/vJ3BHM9U-S0?si=xCzYWo3YkxdOXkfu)
   - **Option I—Weight Training.** Do ALL of the following:
-  - (1) Chest/bench press, two sets of 15 repetitions each
+    - (1) Chest/bench press, two sets of 15 repetitions each
 
-    **Resources:** [How to Bench Press (video)](https://youtu.be/bt-yRU4HEZ4?si=Jw0QKVOvUsgcIKGa)
-  - (2) Leg curls, two sets of 15 repetitions each
+      **Resources:** [How to Bench Press (video)](https://youtu.be/bt-yRU4HEZ4?si=Jw0QKVOvUsgcIKGa)
+    - (2) Leg curls, two sets of 15 repetitions each
 
-    **Resources:** [How to Do Leg Curls (video)](https://youtu.be/UAod62tMmhk?si=zXLVoKYT_8HPRbgp)
+      **Resources:** [How to Do Leg Curls (video)](https://youtu.be/UAod62tMmhk?si=zXLVoKYT_8HPRbgp)
 
 - (6) Do the following:
   - (a) Prepare plans for conducting a sports meet or field day that includes 10 activities, at least five of which must come from the groups mentioned in requirement 5. Outline the duties of each official needed and list the equipment the meet will require.

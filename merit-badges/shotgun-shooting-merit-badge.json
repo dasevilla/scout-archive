@@ -14,6 +14,11 @@
     {
       "id": "16237",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "16241",
           "label": "a",
+          "text": "Explain what a projectile is, and why any device that shoots a projectile at high speed must be handled with care and respect, and used only in approved locations.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "16242",
           "label": "b",
+          "text": "Explain the basic rules of safe gun handling that apply to all firearms.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "16243",
           "label": "c",
+          "text": "Describe how you would react if a friend visiting your home asked to see your or your family's firearm.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "16244",
           "label": "d",
+          "text": "Explain the need for, types, and use of eye protection and hearing protection.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -73,6 +98,11 @@
         {
           "id": "16245",
           "label": "e",
+          "text": "Explain the main points of the laws for owning and using guns in your community and state.",
+          "requirement_path": "1.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -85,6 +115,11 @@
         {
           "id": "16246",
           "label": "f",
+          "text": "Explain how hunting is related to the wise use of renewable wildlife resources.",
+          "requirement_path": "1.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -97,6 +132,11 @@
         {
           "id": "16238",
           "label": "g",
+          "text": "Successfully complete a state hunter education course, or obtain a copy of the hunting laws for your state, then do the following:",
+          "requirement_path": "1.g",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -104,35 +144,51 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16239",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Explain the main points of hunting laws in your state, and any special laws on the use of guns and ammunition, AND"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16240",
-          "label": "2",
-          "content": [
+              "id": "16239",
+              "label": "1",
+              "text": "Explain the main points of hunting laws in your state, and any special laws on the use of guns and ammunition, AND",
+              "requirement_path": "1.g.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the main points of hunting laws in your state, and any special laws on the use of guns and ammunition, AND"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "List the kinds of wildlife that can be legally hunted in your state."
+              "id": "16240",
+              "label": "2",
+              "text": "List the kinds of wildlife that can be legally hunted in your state.",
+              "requirement_path": "1.g.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "List the kinds of wildlife that can be legally hunted in your state."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "16247",
           "label": "h",
+          "text": "Explain to your counselor the proper hygienic guidelines followed while shooting.",
+          "requirement_path": "1.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -145,6 +201,11 @@
         {
           "id": "16248",
           "label": "i",
+          "text": "List and explain three shotgun sports. Identify places in your community where you could practice these sports, and explain how you can join or be a part of range and target activities.",
+          "requirement_path": "1.i",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -157,6 +218,11 @@
         {
           "id": "16249",
           "label": "j",
+          "text": "Discuss with your counselor a list of sources you could contact for information on firearms and their use.",
+          "requirement_path": "1.j",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -171,6 +237,11 @@
     {
       "id": "16250",
       "label": "2",
+      "text": "Working under the supervision of a certified National Rifle Association (NRA) Shotgun instructor and a certified range safety officer, at a nationally authorized camp property or at a commercial firearm range (as defined in the Scouting America National Range and Target Activities Manual), do ONE of the following options:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -197,6 +268,11 @@
         {
           "id": "16251",
           "label": null,
+          "text": "Option A—Shotgun Shooting (Modern Shotshell Type). Do ALL of the following:",
+          "requirement_path": "2.option-a",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -215,162 +291,218 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16252",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Identify and explain the principal parts of a shotgun, action types, and how they function."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16254",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify and demonstrate the rules for safely storing and handling a shotgun."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16255",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify the parts of a shotgun shell and their functions."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16256",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify the various gauges of shotguns. Explain which you would choose for a particular use and why."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16257",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify the causes of a shotgun's failure to fire, and explain what a misfire, hangfire, and squib fire are. Explain and demonstrate proper preventive measures, and the procedures to follow in response to each."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16258",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate the knowledge, skills, and attitude necessary to safely shoot a shotgun on a range, including understanding and following range procedures and commands."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16259",
-          "label": "7",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain the basic safety rules for cleaning a shotgun, and identify the materials needed."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16260",
-          "label": "8",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate how to clean a shotgun properly and safely."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16261",
-          "label": "9",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss what points you would consider in selecting a shotgun."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16253",
-          "label": "10",
-          "content": [
-            {
-              "type": "text",
-              "value": "Shoot a moving target with a shotgun using the four fundamentals of firing a shot—position, mount, vision, and movement. Shooting score required: Hit at least 12 out of 25 targets (48 percent) in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired. "
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": "Shooting skill rules: Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter. All targets should be thrown at a reasonable speed and in the same direction. Targets should be generally thrown so as to climb in the air after leaving the trap. Scores may be fired at any time, either in formal competition or in practice, but only under approved supervision and at an approved range as noted in the "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
+              "id": "16252",
+              "label": "1",
+              "text": "Identify and explain the principal parts of a shotgun, action types, and how they function.",
+              "requirement_path": "2.option-a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
                   "type": "text",
-                  "value": "Scouting America National Range and Target Activities Manual."
+                  "value": "Identify and explain the principal parts of a shotgun, action types, and how they function."
                 }
-              ]
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": "Modern, age-appropriate, target shotgun models, 12-, 16- or 20-gauge, may be used. Only commercially manufactured ammunition may be used. Reloads may not be used in Scouting America range and target activities. Shooters must shoot in rounds of 25. Rounds need not be shot continuously or on the same day. The term \"round\" refers to a single series of 25 shots. If using a trap field, shoot station 3 with traps set to throw straightaway targets. If using a skeet field, shoot station 7 low house."
+              "id": "16254",
+              "label": "2",
+              "text": "Identify and demonstrate the rules for safely storing and handling a shotgun.",
+              "requirement_path": "2.option-a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify and demonstrate the rules for safely storing and handling a shotgun."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16255",
+              "label": "3",
+              "text": "Identify the parts of a shotgun shell and their functions.",
+              "requirement_path": "2.option-a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify the parts of a shotgun shell and their functions."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16256",
+              "label": "4",
+              "text": "Identify the various gauges of shotguns. Explain which you would choose for a particular use and why.",
+              "requirement_path": "2.option-a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify the various gauges of shotguns. Explain which you would choose for a particular use and why."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16257",
+              "label": "5",
+              "text": "Identify the causes of a shotgun's failure to fire, and explain what a misfire, hangfire, and squib fire are. Explain and demonstrate proper preventive measures, and the procedures to follow in response to each.",
+              "requirement_path": "2.option-a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify the causes of a shotgun's failure to fire, and explain what a misfire, hangfire, and squib fire are. Explain and demonstrate proper preventive measures, and the procedures to follow in response to each."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16258",
+              "label": "6",
+              "text": "Demonstrate the knowledge, skills, and attitude necessary to safely shoot a shotgun on a range, including understanding and following range procedures and commands.",
+              "requirement_path": "2.option-a.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the knowledge, skills, and attitude necessary to safely shoot a shotgun on a range, including understanding and following range procedures and commands."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16259",
+              "label": "7",
+              "text": "Explain the basic safety rules for cleaning a shotgun, and identify the materials needed.",
+              "requirement_path": "2.option-a.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the basic safety rules for cleaning a shotgun, and identify the materials needed."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16260",
+              "label": "8",
+              "text": "Demonstrate how to clean a shotgun properly and safely.",
+              "requirement_path": "2.option-a.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate how to clean a shotgun properly and safely."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16261",
+              "label": "9",
+              "text": "Discuss what points you would consider in selecting a shotgun.",
+              "requirement_path": "2.option-a.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss what points you would consider in selecting a shotgun."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16253",
+              "label": "10",
+              "text": "Shoot a moving target with a shotgun using the four fundamentals of firing a shot—position, mount, vision, and movement. Shooting score required: Hit at least 12 out of 25 targets (48 percent) in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired.\nShooting skill rules: Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter. All targets should be thrown at a reasonable speed and in the same direction. Targets should be generally thrown so as to climb in the air after leaving the trap. Scores may be fired at any time, either in formal competition or in practice, but only under approved supervision and at an approved range as noted in the Scouting America National Range and Target Activities Manual.Modern, age-appropriate, target shotgun models, 12-, 16- or 20-gauge, may be used. Only commercially manufactured ammunition may be used. Reloads may not be used in Scouting America range and target activities. Shooters must shoot in rounds of 25. Rounds need not be shot continuously or on the same day. The term \"round\" refers to a single series of 25 shots. If using a trap field, shoot station 3 with traps set to throw straightaway targets. If using a skeet field, shoot station 7 low house.",
+              "requirement_path": "2.option-a.10",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Shoot a moving target with a shotgun using the four fundamentals of firing a shot—position, mount, vision, and movement. Shooting score required: Hit at least 12 out of 25 targets (48 percent) in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired. "
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "value": "Shooting skill rules: Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter. All targets should be thrown at a reasonable speed and in the same direction. Targets should be generally thrown so as to climb in the air after leaving the trap. Scores may be fired at any time, either in formal competition or in practice, but only under approved supervision and at an approved range as noted in the "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Scouting America National Range and Target Activities Manual."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "Modern, age-appropriate, target shotgun models, 12-, 16- or 20-gauge, may be used. Only commercially manufactured ammunition may be used. Reloads may not be used in Scouting America range and target activities. Shooters must shoot in rounds of 25. Rounds need not be shot continuously or on the same day. The term \"round\" refers to a single series of 25 shots. If using a trap field, shoot station 3 with traps set to throw straightaway targets. If using a skeet field, shoot station 7 low house."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "16262",
           "label": null,
+          "text": "Option B—Muzzleloading Shotgun Shooting. Do ALL of the following:",
+          "requirement_path": "2.option-b",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -389,200 +521,271 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16263",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Discuss with your counselor a brief history of the development of the muzzleloading shotgun."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16268",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify principal parts of muzzleloading shotguns and discuss how they function."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16269",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify and demonstrate the rules for safely storing and handling a muzzleloading shotgun."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16270",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify the various grades of black powder and explain their proper and safe use."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16271",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss proper safety procedures pertaining to black powder storage."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16272",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss proper components of a load."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16273",
-          "label": "7",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify proper procedures and accessories used for safely loading a muzzleloading shotgun."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16274",
-          "label": "8",
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify the causes of a muzzleloading shotgun's failure to fire, and explain what a misfire, hangfire, and squib fire are. Explain and demonstrate proper preventive measures, and the procedures to follow in response to each."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16275",
-          "label": "9",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate the knowledge, skills, and attitude necessary to safely shoot a muzzleloading shotgun on a range, including understanding and following range procedures and commands."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16264",
-          "label": "10",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain the basic safety rules for cleaning a muzzleloading shotgun, and identify the materials needed."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16265",
-          "label": "11",
-          "content": [
-            {
-              "type": "text",
-              "value": "Demonstrate how to clean a muzzleloading shotgun properly and safely."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16266",
-          "label": "12",
-          "content": [
-            {
-              "type": "text",
-              "value": "Discuss what points you would consider in selecting a muzzleloading shotgun."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16267",
-          "label": "13",
-          "content": [
-            {
-              "type": "text",
-              "value": "Shoot a moving target with a muzzleloading shotgun using the four fundamentals of firing a shot—position, mount, vision, and movement. Shooting score required: Hit at least 5 out of 15 targets in each of two 15-target groups. The two groups need not be shot in consecutive order. A minimum of 30 shots must be fired. "
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": "Shooting skill rules: Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter. All targets should be thrown at a reasonable speed and in the same direction. Targets should be generally thrown so as to climb in the air after leaving the trap. Scores may be fired at any time, either in formal competition or in practice, but only under approved supervision and at an approved range as noted in the "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
+              "id": "16263",
+              "label": "1",
+              "text": "Discuss with your counselor a brief history of the development of the muzzleloading shotgun.",
+              "requirement_path": "2.option-b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
                   "type": "text",
-                  "value": "Scouting America National Range and Target Activities Manual."
+                  "value": "Discuss with your counselor a brief history of the development of the muzzleloading shotgun."
                 }
-              ]
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": "A 10 gauge or smaller muzzleloading rifle in appropriate size for the participant may be used. Matchlock, wheellock, or flintlock firearms are not approved. Standard clay targets customarily used for trap and skeet are to be used. On a standard trap field, the shooter should be positioned 8 yards behind the trap house. The trap should be set to throw only straightaway targets. If using a skeet field, shoot station 7 low house."
+              "id": "16268",
+              "label": "2",
+              "text": "Identify principal parts of muzzleloading shotguns and discuss how they function.",
+              "requirement_path": "2.option-b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify principal parts of muzzleloading shotguns and discuss how they function."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16269",
+              "label": "3",
+              "text": "Identify and demonstrate the rules for safely storing and handling a muzzleloading shotgun.",
+              "requirement_path": "2.option-b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify and demonstrate the rules for safely storing and handling a muzzleloading shotgun."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16270",
+              "label": "4",
+              "text": "Identify the various grades of black powder and explain their proper and safe use.",
+              "requirement_path": "2.option-b.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify the various grades of black powder and explain their proper and safe use."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16271",
+              "label": "5",
+              "text": "Discuss proper safety procedures pertaining to black powder storage.",
+              "requirement_path": "2.option-b.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss proper safety procedures pertaining to black powder storage."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16272",
+              "label": "6",
+              "text": "Discuss proper components of a load.",
+              "requirement_path": "2.option-b.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss proper components of a load."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16273",
+              "label": "7",
+              "text": "Identify proper procedures and accessories used for safely loading a muzzleloading shotgun.",
+              "requirement_path": "2.option-b.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify proper procedures and accessories used for safely loading a muzzleloading shotgun."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16274",
+              "label": "8",
+              "text": "Identify the causes of a muzzleloading shotgun's failure to fire, and explain what a misfire, hangfire, and squib fire are. Explain and demonstrate proper preventive measures, and the procedures to follow in response to each.",
+              "requirement_path": "2.option-b.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify the causes of a muzzleloading shotgun's failure to fire, and explain what a misfire, hangfire, and squib fire are. Explain and demonstrate proper preventive measures, and the procedures to follow in response to each."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16275",
+              "label": "9",
+              "text": "Demonstrate the knowledge, skills, and attitude necessary to safely shoot a muzzleloading shotgun on a range, including understanding and following range procedures and commands.",
+              "requirement_path": "2.option-b.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the knowledge, skills, and attitude necessary to safely shoot a muzzleloading shotgun on a range, including understanding and following range procedures and commands."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16264",
+              "label": "10",
+              "text": "Explain the basic safety rules for cleaning a muzzleloading shotgun, and identify the materials needed.",
+              "requirement_path": "2.option-b.10",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the basic safety rules for cleaning a muzzleloading shotgun, and identify the materials needed."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16265",
+              "label": "11",
+              "text": "Demonstrate how to clean a muzzleloading shotgun properly and safely.",
+              "requirement_path": "2.option-b.11",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate how to clean a muzzleloading shotgun properly and safely."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16266",
+              "label": "12",
+              "text": "Discuss what points you would consider in selecting a muzzleloading shotgun.",
+              "requirement_path": "2.option-b.12",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss what points you would consider in selecting a muzzleloading shotgun."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "16267",
+              "label": "13",
+              "text": "Shoot a moving target with a muzzleloading shotgun using the four fundamentals of firing a shot—position, mount, vision, and movement. Shooting score required: Hit at least 5 out of 15 targets in each of two 15-target groups. The two groups need not be shot in consecutive order. A minimum of 30 shots must be fired.\nShooting skill rules: Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter. All targets should be thrown at a reasonable speed and in the same direction. Targets should be generally thrown so as to climb in the air after leaving the trap. Scores may be fired at any time, either in formal competition or in practice, but only under approved supervision and at an approved range as noted in the Scouting America National Range and Target Activities Manual.A 10 gauge or smaller muzzleloading rifle in appropriate size for the participant may be used. Matchlock, wheellock, or flintlock firearms are not approved. Standard clay targets customarily used for trap and skeet are to be used. On a standard trap field, the shooter should be positioned 8 yards behind the trap house. The trap should be set to throw only straightaway targets. If using a skeet field, shoot station 7 low house.",
+              "requirement_path": "2.option-b.13",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Shoot a moving target with a muzzleloading shotgun using the four fundamentals of firing a shot—position, mount, vision, and movement. Shooting score required: Hit at least 5 out of 15 targets in each of two 15-target groups. The two groups need not be shot in consecutive order. A minimum of 30 shots must be fired. "
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "value": "Shooting skill rules: Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter. All targets should be thrown at a reasonable speed and in the same direction. Targets should be generally thrown so as to climb in the air after leaving the trap. Scores may be fired at any time, either in formal competition or in practice, but only under approved supervision and at an approved range as noted in the "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Scouting America National Range and Target Activities Manual."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "A 10 gauge or smaller muzzleloading rifle in appropriate size for the participant may be used. Matchlock, wheellock, or flintlock firearms are not approved. Standard clay targets customarily used for trap and skeet are to be used. On a standard trap field, the shooter should be positioned 8 yards behind the trap house. The trap should be set to throw only straightaway targets. If using a skeet field, shoot station 7 low house."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "16276",
       "label": "3",
+      "text": "Identify how you could apply the skills and knowledge of safe and responsible use of firearms you learned in this merit badge to pursue a career or personal hobby. Research the additional training and experience you would need, expenses you may incur, and the affiliation with organizations that could help you maximize the positive impact and enjoyment you gain from it. Discuss what you learned with your counselor, and share what short-term and long-term goals you might have if you pursued this.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

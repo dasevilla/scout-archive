@@ -28,15 +28,15 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
 
 - (4) Do ONE of the following:
   - **Option A—Tandem Canoest.** Do ALL of the following strokes and techniques on calm water:
-  - (1) Demonstrate the following strokes in the bow: cross forward, bow draw, cross bow draw, bow pry, and sculling draw.
-  - (2) Demonstrate the following strokes in the stern: stern draw, stern pry, sculling draw, and forward with stern pry.
-  - (3) Demonstrate a high brace, low brace, and righting pry.
+    - (1) Demonstrate the following strokes in the bow: cross forward, bow draw, cross bow draw, bow pry, and sculling draw.
+    - (2) Demonstrate the following strokes in the stern: stern draw, stern pry, sculling draw, and forward with stern pry.
+    - (3) Demonstrate a high brace, low brace, and righting pry.
   - **Option B—Solo Canoest.** Do ALL of the following strokes and techniques on calm water:
-  - (1) Demonstrate the following strokes: cross forward, bow draw, cross bow draw, stern draw, pry, stern pry, sculling draw, and forward with stern pry.
-  - (2) Demonstrate a high brace, low brace, and righting pry.
+    - (1) Demonstrate the following strokes: cross forward, bow draw, cross bow draw, stern draw, pry, stern pry, sculling draw, and forward with stern pry.
+    - (2) Demonstrate a high brace, low brace, and righting pry.
   - **Option C—Solo Kayaker.** Do ALL of the following strokes and techniques on calm water:
-  - (1) Demonstrate the following strokes: bow draw, rudder, and sculling draw.
-  - (2) Demonstrate a high brace and low brace.
+    - (1) Demonstrate the following strokes: bow draw, rudder, and sculling draw.
+    - (2) Demonstrate a high brace and low brace.
 
 - (5) Do the following:
   - (a) Explain the International Scale of River Difficulty and apply the scale to the stretch of river approved by your counselor.

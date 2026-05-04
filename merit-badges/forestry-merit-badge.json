@@ -14,6 +14,11 @@
     {
       "id": "14639",
       "label": "1",
+      "text": "Prepare a field notebook, make a collection, and identify 15 species of trees, wild shrubs, or vines in a local forested area. Write a description in which you identify and discuss the following:",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -34,6 +39,11 @@
         {
           "id": "14640",
           "label": "a",
+          "text": "The characteristics of leaf, twig, cone, or fruiting bodies",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -46,6 +56,11 @@
         {
           "id": "14641",
           "label": "b",
+          "text": "The habitat in which these trees, shrubs, or vines are found.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -58,6 +73,11 @@
         {
           "id": "14642",
           "label": "c",
+          "text": "The important ways each tree, shrub, or vine is used by humans or wildlife and whether the species is native or was introduced to the area. If it is not native, explain whether it is considered invasive or potentially invasive.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -72,6 +92,11 @@
     {
       "id": "14643",
       "label": "2",
+      "text": "Do ONE of the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -83,6 +108,11 @@
         {
           "id": "14644",
           "label": "a",
+          "text": "Collect and identify wood samples of 10 species of trees. List several ways the wood of each species can be used.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -104,6 +134,11 @@
         {
           "id": "14645",
           "label": "b",
+          "text": "Find and examine three stumps, logs, or core samples that show variations in the growth rate of their ring patterns. In the field notebook you prepared for requirement 1, describe the location or origin of each example (including elevation, aspect, slope, and the position on the slope), and discuss possible reasons for the variations in growth rate. Photograph or sketch each example.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -125,6 +160,11 @@
         {
           "id": "14646",
           "label": "c",
+          "text": "Find and examine two types of animal, insect, or disease damage to trees. In the field notebook you prepared for requirement 1, identify the damage, explain how the damage was caused, and describe the effects of the damage on the trees. Photograph or sketch each example.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -152,6 +192,11 @@
     {
       "id": "14647",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -172,6 +217,11 @@
         {
           "id": "14648",
           "label": "a",
+          "text": "Describe the contributions forests make to:",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -184,6 +234,11 @@
         {
           "id": "14649",
           "label": "1",
+          "text": "Our economy in the form of products",
+          "requirement_path": "3.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -196,6 +251,11 @@
         {
           "id": "14650",
           "label": "2",
+          "text": "Our social well-being, including recreation",
+          "requirement_path": "3.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -208,6 +268,11 @@
         {
           "id": "14651",
           "label": "3",
+          "text": "Soil protection and increased fertility",
+          "requirement_path": "3.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -220,6 +285,11 @@
         {
           "id": "14652",
           "label": "4",
+          "text": "Clean water",
+          "requirement_path": "3.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -232,6 +302,11 @@
         {
           "id": "14653",
           "label": "5",
+          "text": "Clean air (carbon cycling, sequestration)",
+          "requirement_path": "3.5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -244,6 +319,11 @@
         {
           "id": "14654",
           "label": "6",
+          "text": "Wildlife habitat",
+          "requirement_path": "3.6",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -256,6 +336,11 @@
         {
           "id": "14655",
           "label": "7",
+          "text": "Fisheries habitat",
+          "requirement_path": "3.7",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -268,6 +353,11 @@
         {
           "id": "14656",
           "label": "8",
+          "text": "Threatened and endangered species of plants and animals",
+          "requirement_path": "3.8",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -280,6 +370,11 @@
         {
           "id": "14657",
           "label": "b",
+          "text": "Tell which watershed or other source your community relies on for its water supply.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -299,6 +394,11 @@
     {
       "id": "14658",
       "label": "4",
+      "text": "Describe what forest management means, including the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -310,6 +410,11 @@
         {
           "id": "14659",
           "label": "a",
+          "text": "Multiple-use management",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -327,6 +432,11 @@
         {
           "id": "14660",
           "label": "b",
+          "text": "Sustainable forest management",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -344,6 +454,11 @@
         {
           "id": "14661",
           "label": "c",
+          "text": "Even-aged and uneven-aged management and the silvicultural systems associated with each",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -361,6 +476,11 @@
         {
           "id": "14662",
           "label": "d",
+          "text": "Intermediate cuttings",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -378,6 +498,11 @@
         {
           "id": "14663",
           "label": "e",
+          "text": "The role of prescribed burning and related forest-management practices",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -401,6 +526,11 @@
     {
       "id": "14664",
       "label": "5",
+      "text": "With your parent or guardian's and counselor's approval, do ONE of the following:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -412,6 +542,11 @@
         {
           "id": "14665",
           "label": "a",
+          "text": "Visit a managed public or private forest area with the manager or a forester who is familiar with it. Write a brief report describing the type of forest, the management objectives, and the forestry techniques used to achieve the objectives.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -429,6 +564,11 @@
         {
           "id": "14666",
           "label": "b",
+          "text": "With a knowledgeable individual, visit a current or past logging operation or wood-using manufacturing plant. Write a brief report describing the following:",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -441,95 +581,136 @@
               "url": "https://youtu.be/OBlcDZxHKXY"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14674",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "The species and size of trees harvested or used."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14675",
-          "label": "2",
-          "content": [
+              "id": "14674",
+              "label": "1",
+              "text": "The species and size of trees harvested or used.",
+              "requirement_path": "5.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The species and size of trees harvested or used."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "The origin of the forest or stands of trees utilized (e.g., planted or natural)"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14676",
-          "label": "3",
-          "content": [
+              "id": "14675",
+              "label": "2",
+              "text": "The origin of the forest or stands of trees utilized (e.g., planted or natural)",
+              "requirement_path": "5.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The origin of the forest or stands of trees utilized (e.g., planted or natural)"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "The forest's successional stage. What is its future? If it is a past logging operation, note the regeneration that is occurring either planted or natural."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14677",
-          "label": "4",
-          "content": [
+              "id": "14676",
+              "label": "3",
+              "text": "The forest's successional stage. What is its future? If it is a past logging operation, note the regeneration that is occurring either planted or natural.",
+              "requirement_path": "5.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The forest's successional stage. What is its future? If it is a past logging operation, note the regeneration that is occurring either planted or natural."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant)."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14678",
-          "label": "5",
-          "content": [
+              "id": "14677",
+              "label": "4",
+              "text": "Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant).",
+              "requirement_path": "5.b.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant)."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "The products that are made from the trees."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14679",
-          "label": "6",
-          "content": [
+              "id": "14678",
+              "label": "5",
+              "text": "The products that are made from the trees.",
+              "requirement_path": "5.b.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The products that are made from the trees."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "How the products are made and used."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14680",
-          "label": "7",
-          "content": [
+              "id": "14679",
+              "label": "6",
+              "text": "How the products are made and used.",
+              "requirement_path": "5.b.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "How the products are made and used."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized."
+              "id": "14680",
+              "label": "7",
+              "text": "How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized.",
+              "requirement_path": "5.b.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14667",
           "label": "c",
+          "text": "Take part in a forest-fire prevention campaign in cooperation with your local fire warden, state wildfire agency, forester, or counselor. Write a brief report describing the campaign, how it will help prevent wildfires, and your part in it.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -549,6 +730,11 @@
     {
       "id": "14672",
       "label": "6",
+      "text": "In your camp, local recreation area (park or equivalent), or neighborhood, do ONE of the following:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -565,6 +751,11 @@
         {
           "id": "14681",
           "label": "a",
+          "text": "Inventory the trees within a specific area above (campsite, road, trail, street, etc.) that may be a hazard to structures or people. Note the species and hazardous condition, and suggest a remedy (removal or trimming). Make your list available to the proper authority or agency.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -577,6 +768,11 @@
         {
           "id": "14682",
           "label": "b",
+          "text": "Review a hazardous tree report done by a professional for this area and visit those trees and the results of the prescription to prune or remove them.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -591,6 +787,11 @@
     {
       "id": "14668",
       "label": "7",
+      "text": "Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -602,6 +803,11 @@
         {
           "id": "14669",
           "label": "a",
+          "text": "Describe the consequences to forests that result from FIVE of the following elements: wildfire, absence of fire, destructive insects, loss of pollinating insect population, tree diseases, air pollution, overgrazing, deer or other wildlife overpopulation, improper harvest, and urbanization.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -643,6 +849,11 @@
         {
           "id": "14670",
           "label": "b",
+          "text": "Explain what can be done to reduce the consequences you discussed in 7(a).",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -655,6 +866,11 @@
         {
           "id": "14671",
           "label": "c",
+          "text": "Describe what you should do if you discover a forest fire and how a professional firefighting crew might control it. Name your state or local wildfire control agency.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -674,6 +890,11 @@
     {
       "id": "14673",
       "label": "8",
+      "text": "Visit one or more local foresters and write a brief report about the person (or persons) OR write about a forester's occupation including the education, qualifications, career opportunities, and duties related to forestry.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

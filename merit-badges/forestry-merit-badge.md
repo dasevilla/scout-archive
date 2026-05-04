@@ -69,13 +69,14 @@ In working through the Forestry merit badge requirements, Scouts will explore th
   - (b) With a knowledgeable individual, visit a current or past logging operation or wood-using manufacturing plant. Write a brief report describing the following:
 
     **Resources:** [A Possible Virtual Tour: Big Logging Equipment in Action (video)](https://youtu.be/OBlcDZxHKXY)
-  - (1) The species and size of trees harvested or used.
-  - (2) The origin of the forest or stands of trees utilized (e.g., planted or natural)
-  - (3) The forest's successional stage. What is its future? If it is a past logging operation, note the regeneration that is occurring either planted or natural.
-  - (4) Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant).
-  - (5) The products that are made from the trees.
-  - (6) How the products are made and used.
-  - (7) How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized.
+
+    - (1) The species and size of trees harvested or used.
+    - (2) The origin of the forest or stands of trees utilized (e.g., planted or natural)
+    - (3) The forest's successional stage. What is its future? If it is a past logging operation, note the regeneration that is occurring either planted or natural.
+    - (4) Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant).
+    - (5) The products that are made from the trees.
+    - (6) How the products are made and used.
+    - (7) How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized.
   - (c) Take part in a forest-fire prevention campaign in cooperation with your local fire warden, state wildfire agency, forester, or counselor. Write a brief report describing the campaign, how it will help prevent wildfires, and your part in it.
 
     **Resources:** [Your Home Can Survive a Wildfire (video)](https://youtu.be/vL_syp1ZScM)

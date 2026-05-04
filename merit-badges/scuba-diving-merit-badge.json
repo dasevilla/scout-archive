@@ -14,6 +14,11 @@
     {
       "id": "2557",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "2558",
           "label": "a",
+          "text": "Show that you know first aid for injuries or illnesses that could occur while scuba diving, including hypothermia, hyperventilation, squeezes, decompression illness, nitrogen narcosis, motion sickness, fatigue, overexertion, heat reactions, dehydration, injuries by aquatic life, and cuts and scrapes.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "2562",
           "label": "b",
+          "text": "Identify the conditions that must exist before performing CPR on a person, and explain how to recognize such conditions. Demonstrate the proper technique for performing CPR using a training device approved by your counselor.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -51,6 +66,11 @@
     {
       "id": "2565",
       "label": "2",
+      "text": "Before completing requirements 3 through 6, earn the Swimming merit badge.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "2567",
       "label": "3",
+      "text": "Discuss the Scuba Diver's Code with your counselor, and explain the importance of each guideline to a scuba diver's safety.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -75,6 +100,11 @@
     {
       "id": "2568",
       "label": "4",
+      "text": "Earn an Open Water Diver Certification from a scuba organization recognized by the Scouting America scuba policy.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -87,6 +117,11 @@
     {
       "id": "2569",
       "label": "5",
+      "text": "Explain what an ecosystem is, and describe four aquatic ecosystems a diver might experience.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -99,6 +134,11 @@
     {
       "id": "2570",
       "label": "6",
+      "text": "Find out about three career opportunities in the scuba industry. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

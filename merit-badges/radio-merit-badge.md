@@ -16,13 +16,13 @@ Radio is a way to send information, or communications, from one place to another
 
 - (2) **Radio Fundamentals.** Do the following:
   - (a) Do the following:
-  - (1) Draw a chart of the electromagnetic spectrum covering 300 kilohertz (kHz) to 3,000 Megahertz (MHz).
-  - (2) Label the MF, HF, VHF, UHF, and microwave portions of the spectrum on your diagram.
-  - (3) Locate on your chart at least eight radio services, such as AM and FM commercial broadcast, citizens band (CB), television, amateur radio (at least four amateur radio bands), public service (police and fire), cellular, Wi-Fi, and Bluetooth.
+    - (1) Draw a chart of the electromagnetic spectrum covering 300 kilohertz (kHz) to 3,000 Megahertz (MHz).
+    - (2) Label the MF, HF, VHF, UHF, and microwave portions of the spectrum on your diagram.
+    - (3) Locate on your chart at least eight radio services, such as AM and FM commercial broadcast, citizens band (CB), television, amateur radio (at least four amateur radio bands), public service (police and fire), cellular, Wi-Fi, and Bluetooth.
   - (b) Discuss the following topics with your counselor:
-  - (1) The definition of radio
-  - (2) The differences between broadcast radio and two-way radio
-  - (3) The differences between commercial broadcast radio and hobby radio
+    - (1) The definition of radio
+    - (2) The differences between broadcast radio and two-way radio
+    - (3) The differences between commercial broadcast radio and hobby radio
 
 - (3) **How Radio Waves Travel.** Do the following:
   - (a) Sketch a diagram showing how different radio wavelengths can travel locally or around the world.
@@ -56,42 +56,42 @@ Radio is a way to send information, or communications, from one place to another
 
 - (8) **Amateur and Professional Radio.** Do ONE of the following options:
   - **Option A—Amateur Radio.** Do ALL of the following:
-  - (1) Tell why the FCC has an amateur radio service. Describe activities that amateur radio operators can do on the air, once they have earned an amateur radio license.
-  - (2) Explain differences between the Technician, General, and Extra Class license requirements and privileges. Explain who administers amateur radio exams.
-  - (3) Explain at least five Q signals or amateur radio terms.
-  - (4) Explain how you would make an emergency call on voice or Morse code.
-  - (5) Explain the differences between handheld, mobile, and base station transceivers and their uses. Explain the use of amateur radio repeaters.
-  - (6) Using proper call signs, Q signals, and abbreviations, carry on a 10-minute real or simulated amateur radio contact using voice, Morse code, or digital mode. Properly log the real or simulated amateur radio contact, and record the signal report.
-    **Note:** Licensed amateur radio operators may substitute five QSL cards as evidence of contacts with five amateur radio operators.
+    - (1) Tell why the FCC has an amateur radio service. Describe activities that amateur radio operators can do on the air, once they have earned an amateur radio license.
+    - (2) Explain differences between the Technician, General, and Extra Class license requirements and privileges. Explain who administers amateur radio exams.
+    - (3) Explain at least five Q signals or amateur radio terms.
+    - (4) Explain how you would make an emergency call on voice or Morse code.
+    - (5) Explain the differences between handheld, mobile, and base station transceivers and their uses. Explain the use of amateur radio repeaters.
+    - (6) Using proper call signs, Q signals, and abbreviations, carry on a 10-minute real or simulated amateur radio contact using voice, Morse code, or digital mode. Properly log the real or simulated amateur radio contact, and record the signal report.
+      **Note:** Licensed amateur radio operators may substitute five QSL cards as evidence of contacts with five amateur radio operators.
   - **Option B—Radio Broadcasting.** Do ALL of the following:
-  - (1) Discuss with your counselor FCC broadcast regulations. Include power levels, frequencies, and the regulations for low-power stations.
-  - (2) Prepare a program schedule for radio station "KBSA" of exactly one-half hour, including music, news, commercials, and proper station identification. Record your program on audiotape or in a digital audio format, using proper techniques.
-  - (3) Listen to and properly log 15 broadcast stations. Determine the program format and target audience for five of these stations.
-  - (4) Explain to your counselor at least eight terms used in commercial broadcasting, such as segue, cut, fade, continuity, remote, Emergency Alert System, network, cue, dead air, PSA, and playlist.
-  - (5) Discuss with your counselor alternative radio platforms such as internet streaming, satellite radio, and podcasts.
+    - (1) Discuss with your counselor FCC broadcast regulations. Include power levels, frequencies, and the regulations for low-power stations.
+    - (2) Prepare a program schedule for radio station "KBSA" of exactly one-half hour, including music, news, commercials, and proper station identification. Record your program on audiotape or in a digital audio format, using proper techniques.
+    - (3) Listen to and properly log 15 broadcast stations. Determine the program format and target audience for five of these stations.
+    - (4) Explain to your counselor at least eight terms used in commercial broadcasting, such as segue, cut, fade, continuity, remote, Emergency Alert System, network, cue, dead air, PSA, and playlist.
+    - (5) Discuss with your counselor alternative radio platforms such as internet streaming, satellite radio, and podcasts.
   - **Option C—Shortwave and Medium-Wave Listening.** Do ALL of the following:
-  - (1) Listen across several shortwave bands for four one-hour periods-at least one period during daylight hours and at least one period at night. Log the stations properly and locate them geographically on a map, globe, or web-based mapping service.
-  - (2) Listen to several medium-wave stations for two one-hour periods, one period during daylight hours and one period at night. Log the stations properly and locate them on a map, globe, or web-based mapping service.
-  - (3) Compare your daytime and nighttime logs; note the frequencies on which your selected stations were loudest during each session. Explain differences in the signal strength from one period to the next.
-  - (4) Compare your medium-wave broadcast station logs and explain why some distant stations are heard at your location only during the night.
-  - (5) Demonstrate listening to a radio broadcast using a smartphone/cell phone. Include international broadcasts in your demonstration.
+    - (1) Listen across several shortwave bands for four one-hour periods-at least one period during daylight hours and at least one period at night. Log the stations properly and locate them geographically on a map, globe, or web-based mapping service.
+    - (2) Listen to several medium-wave stations for two one-hour periods, one period during daylight hours and one period at night. Log the stations properly and locate them on a map, globe, or web-based mapping service.
+    - (3) Compare your daytime and nighttime logs; note the frequencies on which your selected stations were loudest during each session. Explain differences in the signal strength from one period to the next.
+    - (4) Compare your medium-wave broadcast station logs and explain why some distant stations are heard at your location only during the night.
+    - (5) Demonstrate listening to a radio broadcast using a smartphone/cell phone. Include international broadcasts in your demonstration.
   - **Option D—Amateur Radio Direction Finding.** Do ALL of the following:
-  - (1) Describe amateur radio direction finding and explain why direction finding is important as both an activity and in competition.
-  - (2) Describe what frequencies and equipment are used for ARDF or fox hunting.
-  - (3) Build a simple directional antenna for either of the two frequencies used in ARDF.
-  - (4) Participate in a simple fox hunt using your antenna along with a provided receiver.
-  - (5) Show, on a map, how you located the "fox" using your receiver.
+    - (1) Describe amateur radio direction finding and explain why direction finding is important as both an activity and in competition.
+    - (2) Describe what frequencies and equipment are used for ARDF or fox hunting.
+    - (3) Build a simple directional antenna for either of the two frequencies used in ARDF.
+    - (4) Participate in a simple fox hunt using your antenna along with a provided receiver.
+    - (5) Show, on a map, how you located the "fox" using your receiver.
   - **Option E—Family Radio Service (FRS) & General Mobile Radio Service (GMRS) Walkie Talkies.** Do ALL of the following:
-  - (1) Explain what the Family Radio Service (FRS) and General Mobile Radio Service (GMRS) are and how they are different from each other, from other commercial two-way radios, and from Citizens Band (CB) & Amateur Radio (HAM).
-  - (2) Explain each of the following for using a FRS radio or GMRS walkie talkie:
-  - (a) Is any type of license needed to use these radios? If so: what kind?
-  - (b) What radio frequencies are used and how is information encoded?
-  - (c) How much power can be used when transmitting?
-  - (d) What type of antenna can be used?
-  - (e) What is the effective range and what limits it?
-  - (f) What are common everyday uses for these radios?
-  - (g) How can these radios be useful in an emergency?
-  - (3) Use the FRS radios or GMRS walkie talkies with family, friends, or Scouts on a hike, at an event, or in a team game. Discuss what you learned with your counselor.
+    - (1) Explain what the Family Radio Service (FRS) and General Mobile Radio Service (GMRS) are and how they are different from each other, from other commercial two-way radios, and from Citizens Band (CB) & Amateur Radio (HAM).
+    - (2) Explain each of the following for using a FRS radio or GMRS walkie talkie:
+      - (a) Is any type of license needed to use these radios? If so: what kind?
+      - (b) What radio frequencies are used and how is information encoded?
+      - (c) How much power can be used when transmitting?
+      - (d) What type of antenna can be used?
+      - (e) What is the effective range and what limits it?
+      - (f) What are common everyday uses for these radios?
+      - (g) How can these radios be useful in an emergency?
+    - (3) Use the FRS radios or GMRS walkie talkies with family, friends, or Scouts on a hike, at an event, or in a team game. Discuss what you learned with your counselor.
 
 - (9) **Careers.** Do ONE of the following.
   - (a) Explore careers related to radio. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and advancement. With permission of your parent or guardian, your research methods may include an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work or train. Discuss your findings and career interest with your counselor.

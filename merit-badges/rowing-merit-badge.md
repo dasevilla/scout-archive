@@ -20,11 +20,11 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
 
 - (4) Do ONE of the following:
   - (a) Alone or with a passenger, do the following in either a fixed-seat or sliding-seat rowboat:
-  - (1) Launch.
-  - (2) Row in a straight line for 100 yards. Stop, pivot, and return to the starting point.
-  - (3) Backwater in a straight line for 25 yards. Make a turn underway and return to the starting point.
-  - (4) Land and moor or rack your craft.
-  - (5) Tie the following mooring knots—clove hitch, roundturn with two half-hitches, bowline, Wellman's knot, and mooring hitch.
+    - (1) Launch.
+    - (2) Row in a straight line for 100 yards. Stop, pivot, and return to the starting point.
+    - (3) Backwater in a straight line for 25 yards. Make a turn underway and return to the starting point.
+    - (4) Land and moor or rack your craft.
+    - (5) Tie the following mooring knots—clove hitch, roundturn with two half-hitches, bowline, Wellman's knot, and mooring hitch.
   - (b) Participate as a rowing team member in a competitive rowing meet. The team may be sponsored by a school, club, or Scout unit. The meet must include competition between two or more teams with different sponsors. Complete at least 10 hours of team practice prior to the meet.
 
 - (5) Do ONE of the following:

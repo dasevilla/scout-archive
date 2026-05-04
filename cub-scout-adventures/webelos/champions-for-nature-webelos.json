@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discover the four components that make up a habitat: food, water, shelter, space.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover the four components that make up a habitat: food, water, shelter, space.",
       "activities": [
         {
           "name": "Local Habitat Hunt Game",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Pick an animal that is currently threatened or endangered to complete requirements 3, 4, and 5.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Pick an animal that is currently threatened or endangered to complete requirements 3, 4, and 5.",
       "activities": [
         {
           "name": "Pick an Animal",
@@ -68,6 +76,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Identify the characteristics that classify an animal as a threatened or endangered species.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -76,7 +89,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify the characteristics that classify an animal as a threatened or endangered species.",
       "activities": [
         {
           "name": "Think Like a Conservationist",
@@ -92,6 +104,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Explore what caused this animal to be threatened or endangered.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -100,7 +117,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explore what caused this animal to be threatened or endangered.",
       "activities": [
         {
           "name": "Endangered Animal Charades",
@@ -116,6 +132,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Research what is currently being done to protect the animal.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -124,7 +145,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Research what is currently being done to protect the animal.",
       "activities": [
         {
           "name": "Animal Protection Comic Strip",
@@ -140,6 +160,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Participate in a conservation service project.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -148,7 +173,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Participate in a conservation service project.",
       "activities": [
         {
           "name": "Air Bee n’ Bee",

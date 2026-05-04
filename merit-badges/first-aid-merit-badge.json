@@ -14,6 +14,11 @@
     {
       "id": "13324",
       "label": "1",
+      "text": "Handling a First Aid Emergency. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "13331",
           "label": "a",
+          "text": "Explain the steps necessary to assess and handle a first aid emergency, including a safety evaluation of the scene.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -57,6 +67,11 @@
         {
           "id": "13332",
           "label": "b",
+          "text": "Tell how you would obtain emergency medical assistance from your home and from a remote location on a wilderness camping trip.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -86,6 +101,11 @@
         {
           "id": "13333",
           "label": "c",
+          "text": "Demonstrate the precautions you must take to reduce the risk of transmitting an infection between you and the victim while administering first aid, including the safe disposal of used first aid supplies.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -111,6 +131,11 @@
         {
           "id": "13334",
           "label": "d",
+          "text": "Demonstrate evaluation of and management of a patient's airway and breathing.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -132,6 +157,11 @@
         {
           "id": "13335",
           "label": "e",
+          "text": "Demonstrate a thorough examination of an accident victim.",
+          "requirement_path": "1.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -149,6 +179,11 @@
         {
           "id": "13336",
           "label": "f",
+          "text": "Discuss why shock is an emergency.",
+          "requirement_path": "1.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -174,6 +209,11 @@
         {
           "id": "13337",
           "label": "g",
+          "text": "Define the term triage and describe examples of triage situations that you may encounter.",
+          "requirement_path": "1.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -197,6 +237,11 @@
     {
       "id": "13273",
       "label": "2",
+      "text": "Preparing for First Aid Emergencies. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -219,6 +264,11 @@
         {
           "id": "13274",
           "label": "a",
+          "text": "Obtain a copy of the Scout Annual Health and Medical Record and discuss the importance of the form including information on immunizations, allergies, medications, health history, and medical examinations to providing first aid at Scouting events.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -236,6 +286,11 @@
         {
           "id": "13275",
           "label": "b",
+          "text": "Using checklists provided in the First Aid merit badge pamphlet or ones approved by your counselor, do the following:",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -258,46 +313,62 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13338",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Assemble a personal first-aid kit for hiking and backpacking. Demonstrate the proper use of each item in your first-aid kit to your counselor."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Personal, Family, and Troop First Aid Kit Checklist (PDF)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf"
+              "id": "13338",
+              "label": "1",
+              "text": "Assemble a personal first-aid kit for hiking and backpacking. Demonstrate the proper use of each item in your first-aid kit to your counselor.",
+              "requirement_path": "2.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Assemble a personal first-aid kit for hiking and backpacking. Demonstrate the proper use of each item in your first-aid kit to your counselor."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Personal, Family, and Troop First Aid Kit Checklist (PDF)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf"
+                },
+                {
+                  "title": "First Aid KIt Checklists (website)",
+                  "url": "https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "First Aid KIt Checklists (website)",
-              "url": "https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/"
+              "id": "13339",
+              "label": "2",
+              "text": "With your counselor, inspect a unit, home, vehicle, or camp first-aid kit and discuss your findings.",
+              "requirement_path": "2.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "With your counselor, inspect a unit, home, vehicle, or camp first-aid kit and discuss your findings."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13339",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "With your counselor, inspect a unit, home, vehicle, or camp first-aid kit and discuss your findings."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "13328",
       "label": "3",
+      "text": "Wounds with No External Bleeding. Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -333,6 +404,11 @@
         {
           "id": "13340",
           "label": "a",
+          "text": "Closed wounds, such as a bruise (contusion) or a hematoma",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -362,6 +438,11 @@
         {
           "id": "13341",
           "label": "b",
+          "text": "Superficial, partial thickness, and full thickness thermal (heat) burns or scalds",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -383,6 +464,11 @@
         {
           "id": "13342",
           "label": "c",
+          "text": "Chemical burns",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -400,6 +486,11 @@
         {
           "id": "13343",
           "label": "d",
+          "text": "Electrical burns",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -417,6 +508,11 @@
         {
           "id": "13344",
           "label": "e",
+          "text": "Sunburn",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -438,6 +534,11 @@
         {
           "id": "13345",
           "label": "f",
+          "text": "Snow blindness",
+          "requirement_path": "3.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -455,6 +556,11 @@
         {
           "id": "13346",
           "label": "g",
+          "text": "Immersion foot, frostnip, frostbite, and ice burns",
+          "requirement_path": "3.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -484,6 +590,11 @@
         {
           "id": "13347",
           "label": "h",
+          "text": "Abrasions, such as chafing and rope burns",
+          "requirement_path": "3.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -505,6 +616,11 @@
         {
           "id": "13348",
           "label": "i",
+          "text": "Blisters on the hands, feet, buttocks, and shoulders",
+          "requirement_path": "3.i",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -522,6 +638,11 @@
         {
           "id": "13349",
           "label": "j",
+          "text": "Puncture wounds from splinters, rope splinters, nails, and fish hooks",
+          "requirement_path": "3.j",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -551,6 +672,11 @@
         {
           "id": "13350",
           "label": "k",
+          "text": "Rash from poisonous plants",
+          "requirement_path": "3.k",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -572,6 +698,11 @@
         {
           "id": "13351",
           "label": "l",
+          "text": "Bug bites of chiggers, ticks, mosquitoes, and biting gnats",
+          "requirement_path": "3.l",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -601,6 +732,11 @@
         {
           "id": "13352",
           "label": "m",
+          "text": "Bee stings",
+          "requirement_path": "3.m",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -626,6 +762,11 @@
         {
           "id": "13353",
           "label": "n",
+          "text": "Bites of spiders",
+          "requirement_path": "3.n",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -647,6 +788,11 @@
         {
           "id": "13354",
           "label": "o",
+          "text": "Sting of a scorpion",
+          "requirement_path": "3.o",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -668,6 +814,11 @@
         {
           "id": "13355",
           "label": "p",
+          "text": "Bite of a pet or wild mammal or human",
+          "requirement_path": "3.p",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -685,6 +836,11 @@
         {
           "id": "13356",
           "label": "q",
+          "text": "Bite of a venomous snake",
+          "requirement_path": "3.q",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -712,6 +868,11 @@
     {
       "id": "13329",
       "label": "4",
+      "text": "Bleeding Wounds. Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -734,6 +895,11 @@
         {
           "id": "13357",
           "label": "a",
+          "text": "A nosebleed.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -751,6 +917,11 @@
         {
           "id": "13358",
           "label": "b",
+          "text": "An open wound with mild or moderate bleeding, such as a scratch or a scrape (abrasions), or a shallow cut (laceration).",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -768,6 +939,11 @@
         {
           "id": "13359",
           "label": "c",
+          "text": "An open wound with severe bleeding such as a deep cut on an arm or leg.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -785,6 +961,11 @@
         {
           "id": "13360",
           "label": "d",
+          "text": "Explain when it is appropriate and is not appropriate to use one or more tourniquets. List some of the benefits and dangers of using a tourniquet. Demonstrate the application of a tourniquet without tightening it.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -808,6 +989,11 @@
     {
       "id": "13276",
       "label": "5",
+      "text": "Breathing Emergencies. Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions affecting breathing:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -830,6 +1016,11 @@
         {
           "id": "13277",
           "label": "a",
+          "text": "Choking",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -851,6 +1042,11 @@
         {
           "id": "13278",
           "label": "b",
+          "text": "Asthmatic attack",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -876,6 +1072,11 @@
         {
           "id": "13361",
           "label": "c",
+          "text": "Anaphylaxis from an insect bite or sting or from food or product allergy",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -897,6 +1098,11 @@
         {
           "id": "13362",
           "label": "d",
+          "text": "Inhalation injuries",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -918,6 +1124,11 @@
         {
           "id": "13363",
           "label": "e",
+          "text": "Altitude sickness",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -937,6 +1148,11 @@
     {
       "id": "13279",
       "label": "6",
+      "text": "Loss of Consciousness. Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions causing loss of consciousness:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -959,6 +1175,11 @@
         {
           "id": "13280",
           "label": "a",
+          "text": "Fainting",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -976,6 +1197,11 @@
         {
           "id": "13281",
           "label": "b",
+          "text": "Hypoglycemia",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -993,6 +1219,11 @@
         {
           "id": "13282",
           "label": "c",
+          "text": "Seizure",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1010,6 +1241,11 @@
         {
           "id": "13364",
           "label": "d",
+          "text": "Drug overdose and alcohol poisoning",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1031,6 +1267,11 @@
         {
           "id": "13365",
           "label": "e",
+          "text": "Underwater hypoxic blackout",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1048,6 +1289,11 @@
         {
           "id": "13366",
           "label": "f",
+          "text": "Cold water shock and drowning",
+          "requirement_path": "6.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1069,6 +1315,11 @@
         {
           "id": "13367",
           "label": "g",
+          "text": "Lightning strike and electric shock",
+          "requirement_path": "6.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1088,6 +1339,11 @@
     {
       "id": "13283",
       "label": "7",
+      "text": "Heart Attack. Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1110,6 +1366,11 @@
         {
           "id": "13284",
           "label": "a",
+          "text": "Explain what a heart attack is.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1131,6 +1392,11 @@
         {
           "id": "13285",
           "label": "b",
+          "text": "Describe the symptoms and signs of a heart attack and first aid for this condition.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1148,6 +1414,11 @@
         {
           "id": "13286",
           "label": "c",
+          "text": "Describe the conditions that must exist before performing CPR on a person.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1165,6 +1436,11 @@
         {
           "id": "13287",
           "label": "d",
+          "text": "Demonstrate proper CPR technique using a training device approved by your counselor.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1182,6 +1458,11 @@
         {
           "id": "13288",
           "label": "e",
+          "text": "Explain the use of an automated external defibrillator (AED).",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1199,6 +1480,11 @@
         {
           "id": "13368",
           "label": "f",
+          "text": "Demonstrate or simulate the proper use of an AED, using an AED training device if available.",
+          "requirement_path": "7.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1216,6 +1502,11 @@
         {
           "id": "13369",
           "label": "g",
+          "text": "Identify the typical location(s) of one or more AED(s) at public facilities in your community, such as, your school, place of worship, unit meeting place, sports facilities, and/or camp or by using a smart phone app. Discuss the reasons for choosing locations like these.",
+          "requirement_path": "7.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1235,6 +1526,11 @@
     {
       "id": "13289",
       "label": "8",
+      "text": "Muscle and Bone Injuries. Do the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1257,6 +1553,11 @@
         {
           "id": "13290",
           "label": "a",
+          "text": "Explain the similarities and differences in a strain, a muscle tear, a tendon rupture, a sprain, a dislocation, a simple fracture, and a compound fracture.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1282,6 +1583,11 @@
         {
           "id": "13291",
           "label": "b",
+          "text": "Describe the symptoms and signs of and first aid for a muscle strain, a muscle tear, and a tendon rupture.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1299,6 +1605,11 @@
         {
           "id": "13292",
           "label": "c",
+          "text": "Describe the symptoms and signs of, and potential complications of, a sprain, a fracture, and a dislocation.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1316,6 +1627,11 @@
         {
           "id": "13293",
           "label": "d",
+          "text": "Demonstrate bandages for these injuries:",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1328,6 +1644,11 @@
         {
           "id": "13370",
           "label": "1",
+          "text": "Arm slings for forearm or upper arm or collarbone fractures",
+          "requirement_path": "8.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1345,6 +1666,11 @@
         {
           "id": "13371",
           "label": "2",
+          "text": "Elastic wrap and cravat bandages for ankle sprain",
+          "requirement_path": "8.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1362,6 +1688,11 @@
         {
           "id": "13372",
           "label": "3",
+          "text": "Elastic wrap and cravat bandages for wrist sprain or hand injury.",
+          "requirement_path": "8.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1379,6 +1710,11 @@
         {
           "id": "13373",
           "label": "e",
+          "text": "Demonstrate the proper procedures for handling and splinting of suspected closed or open fractures or dislocations of the:",
+          "requirement_path": "8.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1391,6 +1727,11 @@
         {
           "id": "13374",
           "label": "1",
+          "text": "Finger and toe",
+          "requirement_path": "8.1-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1408,6 +1749,11 @@
         {
           "id": "13375",
           "label": "2",
+          "text": "Forearm or wrist",
+          "requirement_path": "8.2-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1425,6 +1771,11 @@
         {
           "id": "13376",
           "label": "3",
+          "text": "Upper leg",
+          "requirement_path": "8.3-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1442,6 +1793,11 @@
         {
           "id": "13377",
           "label": "4",
+          "text": "Lower leg or ankle",
+          "requirement_path": "8.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1461,6 +1817,11 @@
     {
       "id": "13330",
       "label": "9",
+      "text": "Head and Spine Injuries. Do the following:",
+      "requirement_path": "9",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1483,6 +1844,11 @@
         {
           "id": "13378",
           "label": "a",
+          "text": "Describe the symptoms and signs of, relationships between, possible complications of, and prevention of head, neck, and back injuries.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1504,6 +1870,11 @@
         {
           "id": "13379",
           "label": "b",
+          "text": "Describe the symptoms and signs of and first aid for a concussion.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1525,6 +1896,11 @@
         {
           "id": "13380",
           "label": "c",
+          "text": "Demonstrate first aid for an open head wound with a triangular or other bandage.",
+          "requirement_path": "9.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1542,6 +1918,11 @@
         {
           "id": "13381",
           "label": "d",
+          "text": "Demonstrate first aid for someone with a suspected neck or back injury.",
+          "requirement_path": "9.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1561,6 +1942,11 @@
     {
       "id": "13325",
       "label": "10",
+      "text": "Moving a Patient. Do the following:",
+      "requirement_path": "10",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1583,6 +1969,11 @@
         {
           "id": "13382",
           "label": "a",
+          "text": "Describe the conditions under which an injured person should and should not be moved.",
+          "requirement_path": "10.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1600,6 +1991,11 @@
         {
           "id": "13383",
           "label": "b",
+          "text": "If a sick or an injured person must be moved, tell how you would decide the best method. Demonstrate these methods.",
+          "requirement_path": "10.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1617,6 +2013,11 @@
         {
           "id": "13384",
           "label": "c",
+          "text": "By yourself and with a partner, demonstrate how to transport a person from a smoke-filled room.",
+          "requirement_path": "10.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1634,6 +2035,11 @@
         {
           "id": "13385",
           "label": "d",
+          "text": "By yourself and with a partner, demonstrate how to transport a person with a sprained ankle for at least 25 yards.",
+          "requirement_path": "10.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1651,6 +2057,11 @@
         {
           "id": "13386",
           "label": "e",
+          "text": "With helpers under your supervision, improvise a stretcher and move a presumably unconscious person for at least 25 yards.",
+          "requirement_path": "10.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1670,6 +2081,11 @@
     {
       "id": "13294",
       "label": "11",
+      "text": "Heat- and Cold-Related Conditions. Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions associated with exertion and/or heat or cold exposure:",
+      "requirement_path": "11",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -1692,6 +2108,11 @@
         {
           "id": "13295",
           "label": "a",
+          "text": "Dehydration and over-hydration",
+          "requirement_path": "11.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1713,6 +2134,11 @@
         {
           "id": "13296",
           "label": "b",
+          "text": "Heat cramps and muscle pain after exertion",
+          "requirement_path": "11.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1734,6 +2160,11 @@
         {
           "id": "13297",
           "label": "c",
+          "text": "Heat exhaustion",
+          "requirement_path": "11.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1751,6 +2182,11 @@
         {
           "id": "13298",
           "label": "d",
+          "text": "Heat stroke",
+          "requirement_path": "11.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1768,6 +2204,11 @@
         {
           "id": "13299",
           "label": "e",
+          "text": "Chest pains associated with cold exposure",
+          "requirement_path": "11.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1785,6 +2226,11 @@
         {
           "id": "13300",
           "label": "f",
+          "text": "Hypothermia",
+          "requirement_path": "11.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1816,6 +2262,11 @@
     {
       "id": "13326",
       "label": "12",
+      "text": "Mental Health Conditions. Describe the following:",
+      "requirement_path": "12",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1838,6 +2289,11 @@
         {
           "id": "13387",
           "label": "a",
+          "text": "Reactions associated with at least three stressful situations, such as mountain backpacking, rappelling, a ropes course, speaking before an audience, making a phone call to an adult, taking a swim test, missing home, lighting a match, trying out for a sports team, meeting someone for the first time, or other stressful circumstances.",
+          "requirement_path": "12.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1867,6 +2323,11 @@
         {
           "id": "13388",
           "label": "b",
+          "text": "The actions that you and others should take to prepare for and manage these situations.",
+          "requirement_path": "12.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1896,6 +2357,11 @@
         {
           "id": "13389",
           "label": "c",
+          "text": "The indications that someone might be a danger to themselves or others.",
+          "requirement_path": "12.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1908,6 +2374,11 @@
         {
           "id": "13390",
           "label": "d",
+          "text": "The actions that you should take if you suspect that someone might be a danger to themselves or others.",
+          "requirement_path": "12.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1922,6 +2393,11 @@
     {
       "id": "13301",
       "label": "13",
+      "text": "Miscellaneous Conditions. Describe the symptoms and signs of, show first aid for, and explain prevention of the following conditions:",
+      "requirement_path": "13",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -1944,6 +2420,11 @@
         {
           "id": "13302",
           "label": "a",
+          "text": "Object in the eye",
+          "requirement_path": "13.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1965,6 +2446,11 @@
         {
           "id": "13303",
           "label": "b",
+          "text": "Broken, chipped, loosened, or knocked out tooth",
+          "requirement_path": "13.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1986,6 +2472,11 @@
         {
           "id": "13304",
           "label": "c",
+          "text": "Vomiting and diarrhea associated with food poisoning",
+          "requirement_path": "13.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -2003,6 +2494,11 @@
         {
           "id": "13305",
           "label": "d",
+          "text": "Abdominal pain",
+          "requirement_path": "13.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -2028,6 +2524,11 @@
         {
           "id": "13306",
           "label": "e",
+          "text": "Stroke",
+          "requirement_path": "13.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -2059,6 +2560,11 @@
     {
       "id": "13317",
       "label": "14",
+      "text": "With guidance from your counselor, develop a plan to teach a first-aid skill or topic using the EDGE method. Discuss your skill, topic, and plan with your counselor, and then teach your skill or topic to your family or to one or more Scouts.",
+      "requirement_path": "14",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -2076,6 +2582,11 @@
     {
       "id": "13321",
       "label": "15",
+      "text": "Do ONE of the following:",
+      "requirement_path": "15",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -2087,6 +2598,11 @@
         {
           "id": "13322",
           "label": "a",
+          "text": "Visit an emergency medical station house or training center in person. From the medical first responders that you meet during your visit, learn about how they serve their community and about their careers. Discuss with your counselor what you learned during your tour and interviews.",
+          "requirement_path": "15.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -2104,6 +2620,11 @@
         {
           "id": "13323",
           "label": "b",
+          "text": "Interview an emergency medical services professional about their work. Learn about how they chose this career and about their duties. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "15.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -2129,6 +2650,11 @@
         {
           "id": "13391",
           "label": "c",
+          "text": "Identify three career opportunities that would use skills and knowledge in emergency medical services. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "15.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -2146,6 +2672,11 @@
         {
           "id": "13392",
           "label": "d",
+          "text": "Identify how you might use the skills and knowledge in the field of emergency medical services to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "15.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

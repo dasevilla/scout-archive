@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Learn about the Scout Basic Essentials.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the Scout Basic Essentials.",
       "activities": [
         {
           "name": "Scout Basic Essentials",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Determine what you will bring on an overnight campout — including a tent and sleeping bag/gear — and how you will carry your gear.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Determine what you will bring on an overnight campout — including a tent and sleeping bag/gear — and how you will carry your gear.",
       "activities": [
         {
           "name": "IOLS Shakedown",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Review the four points of Scouting America’s SAFE Checklist and how you will apply them. on the campout.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Review the four points of Scouting America’s SAFE Checklist and how you will apply them. on the campout.",
       "activities": [
         {
           "name": "Scouting America’s SAFE Checklist",
@@ -110,6 +122,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Locate the campsite where you will be camping on a map.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -118,7 +135,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Locate the campsite where you will be camping on a map.",
       "activities": [
         {
           "name": "Digital Map",
@@ -143,6 +159,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "With your patrol or a Scouting America troop, participate in a campout.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -151,7 +172,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your patrol or a Scouting America troop, participate in a campout.",
       "activities": [
         {
           "name": "Den Campout",
@@ -176,6 +196,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Upon arrival at the campout determine where to set up your campsite: kitchen, eating area, tents, and firepit. Help the patrol set up the patrol gear before setting up your own tent.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -184,7 +209,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Upon arrival at the campout determine where to set up your campsite: kitchen, eating area, tents, and firepit. Help the patrol set up the patrol gear before setting up your own tent.",
       "activities": [
         {
           "name": "Campsite Setup",
@@ -200,6 +224,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Explain how to keep food safe and the kitchen area sanitary at the campsite. Demonstrate your knowledge during the campout.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -208,7 +237,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explain how to keep food safe and the kitchen area sanitary at the campsite. Demonstrate your knowledge during the campout.",
       "activities": [
         {
           "name": "Safe Food Handling and Clean Up",
@@ -224,6 +252,11 @@
     {
       "id": "8",
       "label": "8",
+      "text": "After your campout, discuss with your patrol what went well and what you would do differently next time. Include how you followed the Outdoor Code and Leave No Trace Principles for Kids.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -232,7 +265,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "After your campout, discuss with your patrol what went well and what you would do differently next time. Include how you followed the Outdoor Code and Leave No Trace Principles for Kids.",
       "activities": [
         {
           "name": "Start, Stop, Continue",

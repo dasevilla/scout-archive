@@ -14,6 +14,11 @@
     {
       "id": "7229",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -30,6 +35,11 @@
         {
           "id": "7230",
           "label": "a",
+          "text": "Explain to your counselor the hazards you are most likely to encounter while using leatherwork tools and materials, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -47,6 +57,11 @@
         {
           "id": "7231",
           "label": "b",
+          "text": "Show that you know first aid for injuries or illnesses that could occur while working with leather, including minor cuts and scratches, puncture wounds, ingested poisoning, and reactions from exposure to chemicals such as dyes, cements, and finishes used in leatherworking.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -74,6 +89,11 @@
     {
       "id": "7210",
       "label": "2",
+      "text": "Explain the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -85,6 +105,11 @@
         {
           "id": "7211",
           "label": "a",
+          "text": "Where leather comes from",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -102,6 +127,11 @@
         {
           "id": "7212",
           "label": "b",
+          "text": "Kinds of hides that are used to make leather",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -123,6 +153,11 @@
         {
           "id": "7213",
           "label": "c",
+          "text": "Five types of leather",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -140,6 +175,11 @@
         {
           "id": "7214",
           "label": "d",
+          "text": "Best uses for each type of leather",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -163,6 +203,11 @@
     {
       "id": "7215",
       "label": "3",
+      "text": "Make one or more articles of leather that use at least five of the following steps:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -174,6 +219,11 @@
         {
           "id": "7216",
           "label": "a",
+          "text": "Pattern layout and transfer",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -195,6 +245,11 @@
         {
           "id": "7217",
           "label": "b",
+          "text": "Cutting leather",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -212,6 +267,11 @@
         {
           "id": "7218",
           "label": "c",
+          "text": "Punching holes",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -233,6 +293,11 @@
         {
           "id": "7219",
           "label": "d",
+          "text": "Carving or stamping surface designs",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -254,6 +319,11 @@
         {
           "id": "7220",
           "label": "e",
+          "text": "Applying dye or stain and finish to the project",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -271,6 +341,11 @@
         {
           "id": "7221",
           "label": "f",
+          "text": "Assembly by lacing or stitching",
+          "requirement_path": "3.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -300,6 +375,11 @@
         {
           "id": "7222",
           "label": "g",
+          "text": "Setting snaps and rivets",
+          "requirement_path": "3.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -325,6 +405,11 @@
         {
           "id": "7223",
           "label": "h",
+          "text": "Dressing edges",
+          "requirement_path": "3.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -344,6 +429,11 @@
     {
       "id": "7232",
       "label": "4",
+      "text": "Braid or plait an article out of leather, vinyl lace, or paracord.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -365,6 +455,11 @@
     {
       "id": "7224",
       "label": "5",
+      "text": "Do ONE of the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -376,6 +471,11 @@
         {
           "id": "7225",
           "label": "a",
+          "text": "Learn about the commercial tanning process. Report about it to your counselor.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -393,6 +493,11 @@
         {
           "id": "7226",
           "label": "b",
+          "text": "Tan the skin of a small animal. Describe the safety precautions you will take and the tanning method that you used.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -410,6 +515,11 @@
         {
           "id": "7227",
           "label": "c",
+          "text": "Recondition or show that you can take proper care of your shoes, a baseball glove, a saddle, furniture, or other articles of leather. Discuss with your counselor the advantages or disadvantages of leather vs. synthetic materials.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -439,6 +549,11 @@
         {
           "id": "7228",
           "label": "d",
+          "text": "Visit a leather-related business. This could be a leathercraft supply company, a tannery, a leather goods or shoe factory, or a saddle shop. Report on your visit to your counselor.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

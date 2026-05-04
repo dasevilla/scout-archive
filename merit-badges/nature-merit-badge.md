@@ -25,68 +25,68 @@ There is a very close connection between the soil, the plants, and all animal li
 
 - (4) Do all the requirements in FIVE of the following fields:
   - (a) **Birds.** Do ALL of the following:
-  - (1) In the field, identify eight species of birds.
+    - (1) In the field, identify eight species of birds.
 
-    **Resources:** [How to Identify Birds [TOP 10 BACKYARD BIRDS] (video)](https://www.youtube.com/watch?v=HtBcOk8ICpA), [Merlin Bird ID (website)](https://merlin.allaboutbirds.org/)
-  - (2) Make and set out a birdhouse OR a feeding station OR a birdbath. List what birds used it during a period of one month.
+      **Resources:** [How to Identify Birds [TOP 10 BACKYARD BIRDS] (video)](https://www.youtube.com/watch?v=HtBcOk8ICpA), [Merlin Bird ID (website)](https://merlin.allaboutbirds.org/)
+    - (2) Make and set out a birdhouse OR a feeding station OR a birdbath. List what birds used it during a period of one month.
 
-    **Resources:** [DIY Birdhouse (video)](https://www.youtube.com/watch?v=u4iAhnbWpz8), [How to Pick (or Build) the Right Bird Bath for Your Garden (video)](https://www.youtube.com/watch?v=yZl2N2XlHDA), [Build a Bird House for Under $5 in Under 5 Minutes (video)](https://www.youtube.com/watch?v=j0werPvrrPI)
+      **Resources:** [DIY Birdhouse (video)](https://www.youtube.com/watch?v=u4iAhnbWpz8), [How to Pick (or Build) the Right Bird Bath for Your Garden (video)](https://www.youtube.com/watch?v=yZl2N2XlHDA), [Build a Bird House for Under $5 in Under 5 Minutes (video)](https://www.youtube.com/watch?v=j0werPvrrPI)
   - (b) **Mammals.** Do ALL of the following:
-  - (1) In the field, identify three species of wild mammals.
+    - (1) In the field, identify three species of wild mammals.
 
-    **Resources:** [How to Find Mammal Signs (video)](https://www.youtube.com/watch?v=x8DfP0Nh7kA), [Mammals (website)](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals)
-  - (2) Make plaster casts of the tracks of a wild mammal.
+      **Resources:** [How to Find Mammal Signs (video)](https://www.youtube.com/watch?v=x8DfP0Nh7kA), [Mammals (website)](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals)
+    - (2) Make plaster casts of the tracks of a wild mammal.
 
-    **Resources:** [How to Make Plaster Casts of an Animal Track (video)](https://www.youtube.com/watch?v=Y4WTmgo4zeA), [How to Make Your Own Animal Track Cast (video)](https://www.youtube.com/watch?v=A_ksi4Ih_wU)
+      **Resources:** [How to Make Plaster Casts of an Animal Track (video)](https://www.youtube.com/watch?v=Y4WTmgo4zeA), [How to Make Your Own Animal Track Cast (video)](https://www.youtube.com/watch?v=A_ksi4Ih_wU)
   - (c) **Reptiles and Amphibians.** Do ALL of the following:
-  - (1) Show that you can recognize the venomous snakes in your area.
+    - (1) Show that you can recognize the venomous snakes in your area.
 
-    **Resources:** [How to Tell if a Snake Is Venomous (website)](https://urbanjunglewildliferemoval.com/blog/how-to-tell-venomous-snake/), [Zoologist Explains Snake Venom - Poisonous vs Venomous (video)](https://youtu.be/KxXfWrI6bB4?si=6TMzt9gUfQdxCvWc)
-  - (2) In the field, identify three species of reptiles or amphibians.
+      **Resources:** [How to Tell if a Snake Is Venomous (website)](https://urbanjunglewildliferemoval.com/blog/how-to-tell-venomous-snake/), [Zoologist Explains Snake Venom - Poisonous vs Venomous (video)](https://youtu.be/KxXfWrI6bB4?si=6TMzt9gUfQdxCvWc)
+    - (2) In the field, identify three species of reptiles or amphibians.
 
-    **Resources:** [Reptiles of the United States (website)](https://www.inaturalist.org/places/united-states#taxon=26036), [Amphibians of the United States (website)](https://www.inaturalist.org/places/united-states#taxon=20978)
-  - (3) Recognize one species of toad or frog by voice; OR identify one reptile or amphibian by eggs, den, burrow, or other signs.
+      **Resources:** [Reptiles of the United States (website)](https://www.inaturalist.org/places/united-states#taxon=26036), [Amphibians of the United States (website)](https://www.inaturalist.org/places/united-states#taxon=20978)
+    - (3) Recognize one species of toad or frog by voice; OR identify one reptile or amphibian by eggs, den, burrow, or other signs.
 
-    **Resources:** [Reptiles vs. Amphibians (video)](https://www.youtube.com/watch?v=6MsTbQi19SA), [Frog Sounds: Why They Make Them (Examples) (video)](https://youtu.be/74-vaZv54s8?si=7ClcX_Akwhjh0A_T)
+      **Resources:** [Reptiles vs. Amphibians (video)](https://www.youtube.com/watch?v=6MsTbQi19SA), [Frog Sounds: Why They Make Them (Examples) (video)](https://youtu.be/74-vaZv54s8?si=7ClcX_Akwhjh0A_T)
   - (d) **Insects and Spiders.** Do ALL of the following:
-  - (1) Collect and identify either in the field or through photographs 10 species of insects or spiders. Photos may be taken with your own equipment or gathered from other sources.
+    - (1) Collect and identify either in the field or through photographs 10 species of insects or spiders. Photos may be taken with your own equipment or gathered from other sources.
 
-    **Resources:** [How to Start a Bug Collection (video)](https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz)
-  - (2) Hatch an insect from the pupa or cocoon; OR hatch adults from nymphs; OR keep larvae until they form pupae or cocoons; OR keep a colony of ants or bees through one season.
+      **Resources:** [How to Start a Bug Collection (video)](https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz)
+    - (2) Hatch an insect from the pupa or cocoon; OR hatch adults from nymphs; OR keep larvae until they form pupae or cocoons; OR keep a colony of ants or bees through one season.
 
-    **Resources:** [Hatch and Raise Monarch Butterflies (video)](https://www.youtube.com/watch?v=XC_O2MN4iOk), [How to Raise an Ant Colony 101 | The Ultimate Guide to Keeping Pet Ants (video)](https://www.youtube.com/watch?v=o1421IyFKuU), [How to Raise a Caterpillar Into a Butterfly (video)](https://www.youtube.com/watch?v=G-nriWdyR5w)
+      **Resources:** [Hatch and Raise Monarch Butterflies (video)](https://www.youtube.com/watch?v=XC_O2MN4iOk), [How to Raise an Ant Colony 101 | The Ultimate Guide to Keeping Pet Ants (video)](https://www.youtube.com/watch?v=o1421IyFKuU), [How to Raise a Caterpillar Into a Butterfly (video)](https://www.youtube.com/watch?v=G-nriWdyR5w)
   - (e) **Fish.** Do ALL of the following:
-  - (1) Identify two species of fish native to your area.
+    - (1) Identify two species of fish native to your area.
 
-    **Resources:** [Game Fish Identification Reference Guides (website)](https://igfa.org/game-fish-database/)
-  - (2) Collect four kinds of animal food eaten by fish in the wild.
+      **Resources:** [Game Fish Identification Reference Guides (website)](https://igfa.org/game-fish-database/)
+    - (2) Collect four kinds of animal food eaten by fish in the wild.
 
-    **Resources:** [What Do Fish Eat? (video)](https://www.youtube.com/watch?v=LVTGIn4gnTw)
+      **Resources:** [What Do Fish Eat? (video)](https://www.youtube.com/watch?v=LVTGIn4gnTw)
   - (f) **Mollusks and Crustaceans.** Do ALL of the following:
-  - (1) Identify five species of mollusks and crustaceans.
+    - (1) Identify five species of mollusks and crustaceans.
 
-    **Resources:** [All About Mollusks (video)](https://www.youtube.com/watch?v=G_GJH1t7VVM), [Crustaceans Facts (video)](https://youtu.be/nfTQUX-GMjc?si=uWRRlR9ez4Tc5ymm)
-  - (2) Collect, mount, and label six shells.
+      **Resources:** [All About Mollusks (video)](https://www.youtube.com/watch?v=G_GJH1t7VVM), [Crustaceans Facts (video)](https://youtu.be/nfTQUX-GMjc?si=uWRRlR9ez4Tc5ymm)
+    - (2) Collect, mount, and label six shells.
 
-    **Resources:** [Organizing My Massive Seashell Collection. Identifying Similar Shells & Comparing Shells to Critters (video)](https://youtu.be/MMkynhuI_1w?si=ZC4ur2DlM9Sl2IFw), [Organizing a Shell Collection (website)](https://conchologistsofamerica.org/organizing-a-shell-collection/)
+      **Resources:** [Organizing My Massive Seashell Collection. Identifying Similar Shells & Comparing Shells to Critters (video)](https://youtu.be/MMkynhuI_1w?si=ZC4ur2DlM9Sl2IFw), [Organizing a Shell Collection (website)](https://conchologistsofamerica.org/organizing-a-shell-collection/)
   - (g) **Plants.** Do ALL of the following:
-  - (1) In the field, identify 15 species of wild plants.
+    - (1) In the field, identify 15 species of wild plants.
 
-    **Resources:** [How to Identify Wild Plants - A Guide To Botanical Terms (video)](https://www.youtube.com/watch?v=5Aj82u2he6s)
-  - (2) Do ONE of the following:
-  - (a) Collect and label the seeds of six plants OR the leaves of 12 plants.
+      **Resources:** [How to Identify Wild Plants - A Guide To Botanical Terms (video)](https://www.youtube.com/watch?v=5Aj82u2he6s)
+    - (2) Do ONE of the following:
+      - (a) Collect and label the seeds of six plants OR the leaves of 12 plants.
 
-    **Resources:** [Science at Play: Preserving Fall Leaves (video)](https://www.youtube.com/watch?v=06nhKenT410), [Harvesting & Saving Seeds! (video)](https://www.youtube.com/watch?v=QqIoGe-m2OM)
-  - (b) Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.
+        **Resources:** [Science at Play: Preserving Fall Leaves (video)](https://www.youtube.com/watch?v=06nhKenT410), [Harvesting & Saving Seeds! (video)](https://www.youtube.com/watch?v=QqIoGe-m2OM)
+      - (b) Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.
 
-    **Resources:** [Plant Photography for Beginners (video)](https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv), [How I Shot My First Plant Time-Lapse (video)](https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH)
-  - (h) **Soils and Rocks.** Do ALL of the following:
-  - (1) Collect and identify three different types of soil that represent soils high in sand, clay and humus.
+        **Resources:** [Plant Photography for Beginners (video)](https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv), [How I Shot My First Plant Time-Lapse (video)](https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH)
+      - (h) **Soils and Rocks.** Do ALL of the following:
+        - (1) Collect and identify three different types of soil that represent soils high in sand, clay and humus.
 
-    **Resources:** [Layers of Soil | Soil Profile Formation (video)](https://www.youtube.com/watch?v=VTuL5Pa0gC0)
-  - (2) Collect and identify five different types of rocks from your area.
+          **Resources:** [Layers of Soil | Soil Profile Formation (video)](https://www.youtube.com/watch?v=VTuL5Pa0gC0)
+        - (2) Collect and identify five different types of rocks from your area.
 
-    **Resources:** [Rockhounding 101: What to Look for on Your Next Adventure! (video)](https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno), [Rock & Mineral Identification | It Can Be Easier Than You Think (video)](https://www.youtube.com/watch?v=mgld5jeYR04)
+          **Resources:** [Rockhounding 101: What to Look for on Your Next Adventure! (video)](https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno), [Rock & Mineral Identification | It Can Be Easier Than You Think (video)](https://www.youtube.com/watch?v=mgld5jeYR04)
 
 - (5) Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code and how they relate to nature. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code while in natural areas during field observation, specimen collection, and identification.
 

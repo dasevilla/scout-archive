@@ -14,6 +14,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Explore Military Heritage. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Learn about Robert Baden-Powell’s military service. Discuss with your counselor what he learned about people, values, and culture through his military service and how it influenced the founding of Scouting.\nRobert Baden Powell (6 Min) (video)\nRobert Baden-Powell (website) [Britannica] (b) Select a historical military conflict. Discuss with your counselor what caused it and how leadership, planning, or values affected its outcome, how it was resolved, and discuss what lessons can be learned from it.\nAmerican Revolution American Revolutionary War – Timelines and Maps – Animated US History (9 Min) (video) History of the American Revolution (Website) [Library of Congress]\nCivil War The American Civil War Explained (3 Min) (video) History of the US Civil War (website) [Library of Congress]\nWorld War I How Did WW I Start? (9 Min) (video) U.S. Participation in World War I (website) [Library of Congress]\nWorld War II World War II – Explained (5 Min) (video) World War II (website) [Library of Congress]\nKorean War The Korean War: 5 Things to Know (4 Min) (video) Korea War Overview (website) [Stanford University]\nVietnam War Vietnam War explained (3 Min) (video) Vietnam War Overview (website) [Vassar]\nGulf War What Happened in the Persian Gulf War? (4 Min) (video) Gulf War Overview (website) [History.com]",
+          "requirement_path": "1.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -505,6 +515,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Understand the Cost of War and the Value of Peace. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -527,6 +542,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Discuss with your counselor why military conflict should be a last resort. (b) Do ONE of the following:",
+          "requirement_path": "2.item-1",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -538,12 +558,22 @@
             {
               "id": "1",
               "label": "1",
+              "text": "",
+              "requirement_path": "2.item-1.1",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
               "content": [],
               "resources": [],
               "sub_requirements": [
                 {
                   "id": "a",
                   "label": "a",
+                  "text": "Read or listen to President Dwight D. Eisenhower’s “Atoms for Peace” speech and explain the objectives and role of the International Atomic Energy Agency (IAEA) in promoting peaceful uses of nuclear energy.\nAtoms For Peace Speech Eisenhower (11 Min) (video)\nAtoms for Peace Overview (website) [Eisenhower Library]\nInternational Atomic Energy Agency (website) [IAEA]",
+                  "requirement_path": "2.item-1.1.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
                   "content": [
                     {
                       "type": "text",
@@ -636,58 +666,60 @@
             {
               "id": "a",
               "label": "a",
-              "content": [],
-              "resources": [],
-              "sub_requirements": [
+              "text": "Explain the role of the United Nations in promoting peace and resolving international disputes.\nUnited Nations Peacekeeping (website)",
+              "requirement_path": "2.item-1.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
-                  "id": "a",
-                  "label": "a",
-                  "content": [
-                    {
-                      "type": "text",
-                      "value": "Explain the role of the United Nations in promoting peace and resolving international disputes."
-                    },
+                  "type": "text",
+                  "value": "Explain the role of the United Nations in promoting peace and resolving international disputes."
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
                     {
                       "type": "element",
-                      "tag": "br",
-                      "attrs": {},
-                      "children": []
-                    },
-                    {
-                      "type": "element",
-                      "tag": "strong",
-                      "attrs": {},
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://peacekeeping.un.org/en"
+                      },
                       "children": [
                         {
-                          "type": "element",
-                          "tag": "a",
-                          "attrs": {
-                            "href": "https://peacekeeping.un.org/en"
-                          },
-                          "children": [
-                            {
-                              "type": "text",
-                              "value": "United Nations Peacekeeping (website)"
-                            }
-                          ]
+                          "type": "text",
+                          "value": "United Nations Peacekeeping (website)"
                         }
                       ]
                     }
-                  ],
-                  "resources": [],
-                  "sub_requirements": []
+                  ]
                 }
-              ]
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
           ]
         },
         {
           "id": "c",
-          "label": null,
+          "label": "c",
+          "text": "Reflect on the human and societal costs of war and share the lessons that can be learned from major conflicts.\nThe Impact of War on Civilians: Understanding the Human Cost of Conflict (2.5 Min) (video)",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
-              "value": "(c) Reflect on the human and societal costs of war and share the lessons that can be learned from major conflicts."
+              "value": "Reflect on the human and societal costs of war and share the lessons that can be learned from major conflicts."
             },
             {
               "type": "element",
@@ -724,6 +756,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "United States Armed Forces. Do ONE of the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -746,6 +783,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Choose one of the branches of service of the United States and research its history, its mission, and its organization. Explain to your counselor what you learned.\nUS Air Force The EPIC History of the U.S. Air Force (4.5 Min) (video) History of the US Air Force (website) [Clemson University]\nUS Army\nCenter of Military History (5 Min) (video) US Army Structure EXPLAINED! (4 Min) (video) History of the US Army (website)\nUS Coast Guard United States Coast Guard – 1790 to Today – A Short History (4 Min) (video) History of the US Coast Guard (website) [The Grace]\nUS Marine Corps Short History of the Marines (4.5 Min) (video) Summarized History of the USMC (website)\nUS Navy The History of the United States Navy (6 Min) (video)\nEvery US Navy Fleet Explained (9 Min) (video) History of the United States Navy (website) [Britannica]\nUS Space Force Exploring the United States Space Force: History, Mission, and Capabilities (6 Min) (video) Britannica Space Force Article (website) (b) Learn about the Veterans History Project organized by the Library of Congress. Conduct and record an interview of a veteran using those guidelines. Share your recording with your counselor and the veteran. With the veteran’s permission, share it with the Library of Congress.\nYouth Participation and Guidelines (website)\nCustomized Guidance for Scouts (PDF)\nLibrary of Congress Project Aims to Save Veterans’ Stories (2.5 Min) (video)",
+          "requirement_path": "3.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1207,6 +1249,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Understand Military Recognition. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1229,6 +1276,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Explain the history and significance of the Medal of Honor and the Purple Heart.\nIn Their Own Words: An Introduction to the Medal of Honor and Its Recipients (10 Min) (video)\nMedal of Honor History & Recipients (website) [Veteran Affairs]\nThe Purple Heart (1 Min) (video)\nThe History of the Purple Heart (Website) [National WWII Museum] (b) Describe the qualifications for receiving each award.\nThe INTENSE Process of Awarding a Medal of Honor: Step by Step (5 Min) (video)\nHow is the Medal of Honor Awarded? (website) [Medal of Honor Foundation]\nWhat Is the Criteria for Receiving a Purple Heart?(3.5 Min) (video) Understanding Purple Heart Qualifications (website) (c) Research a Medal of Honor recipient and share their story with your counselor. Explain why their actions were recognized.\nFamous American Medal of Honor Recipients (13 Min) (video)\nMedal of Honor Recipients (website) [Congressional Medal of Honor Society]",
+          "requirement_path": "4.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1501,14 +1553,13 @@
     },
     {
       "id": "5",
-      "label": null,
+      "label": "5",
+      "text": "Military Uniforms and Insignia. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
         {
           "type": "element",
           "tag": "strong",
@@ -1516,7 +1567,7 @@
           "children": [
             {
               "type": "text",
-              "value": "5. Military Uniforms and Insignia."
+              "value": "Military Uniforms and Insignia."
             }
           ]
         },
@@ -1530,6 +1581,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Learn about the purpose and history of military uniforms and insignia.\nhttps://www.war.gov/Resources/Insignias/#officer-insignia\nhttps://en.wikipedia.org/wiki/Uniforms_of_the_United_States_Armed_Forces (b) Identify the different uniforms worn by members of the U.S. Army, Navy, Marine Corps, Air Force, Space Force, and Coast Guard. (c) Learn to identify and describe the rank insignia for all enlisted and officer ranks from one branch of the U.S. Armed Forces.\nU.S. Military Ranks & Pay Grade by Branch (website) [Veterans.com] (d) Explain how rank and insignia show respect, order, and responsibility within the military.",
+          "requirement_path": "5.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1629,14 +1685,13 @@
     },
     {
       "id": "6",
-      "label": null,
+      "label": "6",
+      "text": "Reflect on Symbols of Service. Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
         {
           "type": "element",
           "tag": "strong",
@@ -1644,7 +1699,7 @@
           "children": [
             {
               "type": "text",
-              "value": "6. Reflect on Symbols of Service."
+              "value": "Reflect on Symbols of Service."
             }
           ]
         },
@@ -1658,6 +1713,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Discuss with an active-duty member, reservist, or veteran what their uniform and the American Flag mean to them as a military member. Share what you learned with your counselor. Describe what proper respect for the flag means to them. (b) Discuss with your counselor what your uniform and troop flag mean to you.",
+          "requirement_path": "6.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1672,6 +1732,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Honor Veterans. Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1694,6 +1759,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Participate in a Veterans Day, Memorial Day, or other event that honors veterans in your community, school, or place of worship.\nBet You Didn’t Know: Veterans Day | History (2 Min) (video)\nHistory of Veterans Day (website) [Veterans Affairs] (b) Discuss with your counselor what role you played and what you learned from the experience. (c) Visit a veterans’ organization, military museum, memorial, or cemetery. Discuss with your counselor what you learned about service, sacrifice, and remembrance.",
+          "requirement_path": "7.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1763,14 +1833,13 @@
     },
     {
       "id": "8",
-      "label": null,
+      "label": "8",
+      "text": "Military Academies. Do the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
         {
           "type": "element",
           "tag": "strong",
@@ -1778,7 +1847,7 @@
           "children": [
             {
               "type": "text",
-              "value": "8. Military Academies."
+              "value": "Military Academies."
             }
           ]
         },
@@ -1792,6 +1861,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Learn about the purpose and history of TWO of the U.S. military academies: the U.S. Military Academy at West Point, the U.S. Naval Academy, the U.S. Air Force Academy, the U.S. Coast Guard Academy, and the U.S. Merchant Marine Academy.\nAll US Military Academies Explained (7 Min) (video) (b) Explain the general requirements for admission to one of these academies.\nA Guide to the US Military Service Academies (website) (c) Describe how attending a service academy prepares a person for military leadership and service to the nation. (d) Discuss with your counselor how the values of Scouting align with those of the military academies.\nhttps://westpoint.edu\nhttps://www.usna.edu/homepage.php\nhttps://www.usafa.edu\nhttps://uscga.edu\nhttps://www.usmma.edu",
+          "requirement_path": "8.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -2008,6 +2082,11 @@
     {
       "id": "9",
       "label": "9",
+      "text": "Inspire Service and Leadership. Do the following:",
+      "requirement_path": "9",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -2030,6 +2109,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Discuss how learning about veterans and military service can inspire youth to serve their community and country.\nScoutmaster Talks About How Military Life Affects Scouting (2.5 Min) 21 Strengths Arising From Military Experience (PDF) (b) List two ways you can demonstrate courage, service, or leadership in your daily life.\nThe BEST Place to Find Courage (2 Min) (video)\n6 Ways Students can Demonstrate Leadership (website) [University of Colorado] (c) Research service projects in your area that honor veterans or support those currently serving. Share what you learned with your counselor.\nHonoring Heroes: 10 Eagle Scout Projects Dedicated to Veterans (1 min) (video)\n20 Project Ideas for Serving Veterans (PDF)",
+          "requirement_path": "9.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -2199,6 +2283,11 @@
     {
       "id": "10",
       "label": "10",
+      "text": "Careers. Explore careers related to this military service. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -2216,163 +2305,42 @@
           "value": " Explore careers related to this military service. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
         }
       ],
-      "resources": [],
-      "sub_requirements": [
+      "resources": [
         {
-          "id": "U",
-          "label": null,
-          "content": [
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/LbNP0FUItjI?si=ldSxlAsuMOHw9JsA"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "U.S. Air Force – Own the Sky"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                }
-              ]
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/luc9saxt_YQ?si=ta-_QOTrZeoW_HF4"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "First Jump | Be All You Can Be | U.S. Army"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                }
-              ]
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/_CfGZ_TvTeI?si=ASAIOSsOIspLd9CT"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Coast Guard – What Makes a Life?"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                }
-              ]
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/L2ljqUpkC1c"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "My Why | U.S. Marine Corps"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                }
-              ]
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://youtu.be/b_FL2yiCJSE?si=bRzZSvPec2qhy3MZ"
-              },
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "strong",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Strong Enough – US Navy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://youtu.be/R9bzFKHrQoo?si=U_qkxxjK66zMCAXl"
-              },
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "strong",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "U.S. Space Force – Origins"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          "title": "U.S. Air Force – Own the Sky",
+          "url": "https://youtu.be/LbNP0FUItjI?si=ldSxlAsuMOHw9JsA"
+        },
+        {
+          "title": "First Jump | Be All You Can Be | U.S. Army",
+          "url": "https://youtu.be/luc9saxt_YQ?si=ta-_QOTrZeoW_HF4"
+        },
+        {
+          "title": "Coast Guard – What Makes a Life?",
+          "url": "https://youtu.be/_CfGZ_TvTeI?si=ASAIOSsOIspLd9CT"
+        },
+        {
+          "title": "My Why | U.S. Marine Corps",
+          "url": "https://youtu.be/L2ljqUpkC1c"
+        },
+        {
+          "title": "Strong Enough – US Navy",
+          "url": "https://youtu.be/b_FL2yiCJSE?si=bRzZSvPec2qhy3MZ"
+        },
+        {
+          "title": "U.S. Space Force – Origins",
+          "url": "https://youtu.be/R9bzFKHrQoo?si=U_qkxxjK66zMCAXl"
         }
-      ]
+      ],
+      "sub_requirements": []
     },
     {
       "id": "11",
       "label": "11",
+      "text": "Complete the survey below to complete the test lab requirements",
+      "requirement_path": "11",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",

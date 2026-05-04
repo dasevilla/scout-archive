@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Sample food from three of the following food groups: protein, vegetables, fruits, dairy, and grains.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Sample food from three of the following food groups: protein, vegetables, fruits, dairy, and grains.",
       "activities": [
         {
           "name": "Apple Delights",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Be active for 30 minutes with your den or at least one other person that includes both stretching and moving.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Be active for 30 minutes with your den or at least one other person that includes both stretching and moving.",
       "activities": [
         {
           "name": "Basketball Challenge",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Be active for 15 minutes doing personal exercises that include cardio, muscular strength, and flexibility.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Be active for 15 minutes doing personal exercises that include cardio, muscular strength, and flexibility.",
       "activities": [
         {
           "name": "Dance Memory Grooves",
@@ -137,6 +149,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Do a relaxing activity for 10 minutes.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -145,7 +162,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Do a relaxing activity for 10 minutes.",
       "activities": [
         {
           "name": "Listening to Music",
@@ -179,6 +195,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Review your Scouting America Annual Health and Medical record with your parent or guardian. Discuss your ability to participate in den and pack activities.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -187,7 +208,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Review your Scouting America Annual Health and Medical record with your parent or guardian. Discuss your ability to participate in den and pack activities.",
       "activities": [
         {
           "name": "Scouting America Health & Medical Record Review Bear",

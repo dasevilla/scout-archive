@@ -14,6 +14,11 @@
     {
       "id": "16136",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "16137",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while participating in whitewater activities, including branches and trees in water along a shore and stretching across the stream, rocks, hydraulics over ledges or lowhead dams, strong wind, low water or air temperature, and thunder and lightning storms. Explain what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "16138",
           "label": "b",
+          "text": "Review with your counselor the prevention, symptoms, and first aid treatment for the following injuries or illnesses that could occur while participating in whitewater activities including cold-water shock; hypothermia; head, neck, and back injuries; heat-related illnesses; sunburn; dehydration; blisters; bruises; cuts; sprains and strains; shoulder dislocation; and submersion injuries.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "16139",
           "label": "c",
+          "text": "Discuss with your counselor the Scouting America Safety Afloat policy and the American Whitewater safety guidelines, including the use of helmet and life jackets.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "16140",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -74,6 +99,11 @@
         {
           "id": "16141",
           "label": "a",
+          "text": "Demonstrate understanding of the following river features by drawing lines to show the flow of water: upstream V, downstream V, riffle, eddy with an eddy line, ledge, river bend, shallows, current at different depths, drop, horizon line, and hydraulic.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -86,6 +116,11 @@
         {
           "id": "16142",
           "label": "b",
+          "text": "Describe how waves form including standing waves and wave trains.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -98,6 +133,11 @@
         {
           "id": "16143",
           "label": "c",
+          "text": "Explain how to tilt or edge the boat without leaning your body",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +150,11 @@
         {
           "id": "16189",
           "label": "1",
+          "text": "When entering and exiting an eddy.",
+          "requirement_path": "2.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "16190",
           "label": "2",
+          "text": "When ferrying in downstream and upstream directions.",
+          "requirement_path": "2.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -134,6 +184,11 @@
         {
           "id": "16144",
           "label": "d",
+          "text": "Explain when, why, and how you should scout a river while ashore, while on the river, and when you should portage your boat.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -148,6 +203,11 @@
     {
       "id": "16145",
       "label": "3",
+      "text": "Before doing requirements 4 through 12, earn the Canoeing merit badge if you will be using a canoe to earn this merit badge. If you will be using a kayak, earn the Kayaking merit badge. Then do ONE of the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -159,6 +219,11 @@
         {
           "id": "16146",
           "label": "a",
+          "text": "If you will be using a canoe to earn this merit badge, demonstrate strokes and maneuvers from the Canoeing merit badge to the satisfaction of your counselor.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -171,6 +236,11 @@
         {
           "id": "16147",
           "label": "b",
+          "text": "If you will be using a kayak to earn this merit badge, demonstrate strokes and maneuvers from the Kayaking merit badge to the satisfaction of your counselor.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -185,6 +255,11 @@
     {
       "id": "16148",
       "label": "4",
+      "text": "Do ONE of the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -196,6 +271,11 @@
         {
           "id": "16149",
           "label": null,
+          "text": "Option A—Tandem Canoest. Do ALL of the following strokes and techniques on calm water:",
+          "requirement_path": "4.option-a",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -214,47 +294,68 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16150",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Demonstrate the following strokes in the bow: cross forward, bow draw, cross bow draw, bow pry, and sculling draw."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16151",
-          "label": "2",
-          "content": [
+              "id": "16150",
+              "label": "1",
+              "text": "Demonstrate the following strokes in the bow: cross forward, bow draw, cross bow draw, bow pry, and sculling draw.",
+              "requirement_path": "4.option-a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the following strokes in the bow: cross forward, bow draw, cross bow draw, bow pry, and sculling draw."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Demonstrate the following strokes in the stern: stern draw, stern pry, sculling draw, and forward with stern pry."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16152",
-          "label": "3",
-          "content": [
+              "id": "16151",
+              "label": "2",
+              "text": "Demonstrate the following strokes in the stern: stern draw, stern pry, sculling draw, and forward with stern pry.",
+              "requirement_path": "4.option-a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the following strokes in the stern: stern draw, stern pry, sculling draw, and forward with stern pry."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Demonstrate a high brace, low brace, and righting pry."
+              "id": "16152",
+              "label": "3",
+              "text": "Demonstrate a high brace, low brace, and righting pry.",
+              "requirement_path": "4.option-a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate a high brace, low brace, and righting pry."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "16153",
           "label": null,
+          "text": "Option B—Solo Canoest. Do ALL of the following strokes and techniques on calm water:",
+          "requirement_path": "4.option-b",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -273,35 +374,51 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16154",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Demonstrate the following strokes: cross forward, bow draw, cross bow draw, stern draw, pry, stern pry, sculling draw, and forward with stern pry."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16155",
-          "label": "2",
-          "content": [
+              "id": "16154",
+              "label": "1",
+              "text": "Demonstrate the following strokes: cross forward, bow draw, cross bow draw, stern draw, pry, stern pry, sculling draw, and forward with stern pry.",
+              "requirement_path": "4.option-b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the following strokes: cross forward, bow draw, cross bow draw, stern draw, pry, stern pry, sculling draw, and forward with stern pry."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Demonstrate a high brace, low brace, and righting pry."
+              "id": "16155",
+              "label": "2",
+              "text": "Demonstrate a high brace, low brace, and righting pry.",
+              "requirement_path": "4.option-b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate a high brace, low brace, and righting pry."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "16156",
           "label": null,
+          "text": "Option C—Solo Kayaker. Do ALL of the following strokes and techniques on calm water:",
+          "requirement_path": "4.option-c",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -320,37 +437,53 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16157",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Demonstrate the following strokes: bow draw, rudder, and sculling draw."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "16158",
-          "label": "2",
-          "content": [
+              "id": "16157",
+              "label": "1",
+              "text": "Demonstrate the following strokes: bow draw, rudder, and sculling draw.",
+              "requirement_path": "4.option-c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the following strokes: bow draw, rudder, and sculling draw."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Demonstrate a high brace and low brace."
+              "id": "16158",
+              "label": "2",
+              "text": "Demonstrate a high brace and low brace.",
+              "requirement_path": "4.option-c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate a high brace and low brace."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "16159",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -362,6 +495,11 @@
         {
           "id": "16160",
           "label": "a",
+          "text": "Explain the International Scale of River Difficulty and apply the scale to the stretch of river approved by your counselor.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -374,6 +512,11 @@
         {
           "id": "16161",
           "label": "b",
+          "text": "Identify the specific characteristics of the river that are factors in your classification according to the International Scale.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -386,6 +529,11 @@
         {
           "id": "16162",
           "label": "c",
+          "text": "Discuss how the level of flow changes a river from one class to another and what effects different flow rates have on the features of a river and its hazards.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -400,6 +548,11 @@
     {
       "id": "16186",
       "label": "6",
+      "text": "Explain the importance of communication during every whitewater outing. Demonstrate knowledge and ability to use the following American Whitewater Universal River Signals, both visual and auditory: \"Stop,\" \"Are you OK?,\" \"Help/emergency,\" \"Run river right,\" \"Run river left,\" and \"All clear—come ahead.\"",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -412,6 +565,11 @@
     {
       "id": "16163",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -423,6 +581,11 @@
         {
           "id": "16164",
           "label": "a",
+          "text": "If completing this merit badge in a canoe, describe the various types of canoes used on moving water and how they differ in design, materials, and purpose.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -435,6 +598,11 @@
         {
           "id": "16165",
           "label": "b",
+          "text": "If completing this merit badge in a kayak, describe the various types of kayaks used on moving water and explain how they differ in design, materials, and purpose.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -449,6 +617,11 @@
     {
       "id": "16187",
       "label": "8",
+      "text": "Review with your counselor the personal and group equipment necessary for a safe whitewater outing and how and why it is used.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -461,6 +634,11 @@
     {
       "id": "16188",
       "label": "9",
+      "text": "Demonstrate your ability to read a Class II section of river approved by your counselor. Describe the most desirable paths or lines of travel as well as alternative routes and options. Point out how to use the existing water features to your advantage, and explain how to best avoid the hazards present.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -473,6 +651,11 @@
     {
       "id": "16166",
       "label": "10",
+      "text": "Wearing a proper life jacket and being appropriately dressed for the weather and water conditions, perform the following skills in moving water in a properly equipped whitewater craft of your choice (tandem canoe, solo canoe, or solo kayak). If a tandem canoe is used, the skills must be demonstrated from both the bow and stern positions.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -484,6 +667,11 @@
         {
           "id": "16167",
           "label": "a",
+          "text": "Launch and land.",
+          "requirement_path": "10.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -496,6 +684,11 @@
         {
           "id": "16168",
           "label": "b",
+          "text": "Paddle forward in a straight line at least 10 boat lengths.",
+          "requirement_path": "10.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -508,6 +701,11 @@
         {
           "id": "16169",
           "label": "c",
+          "text": "Backpaddle in a straight line at least five boat lengths.",
+          "requirement_path": "10.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -520,6 +718,11 @@
         {
           "id": "16170",
           "label": "d",
+          "text": "Ferry upstream from both sides of the river.",
+          "requirement_path": "10.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -532,6 +735,11 @@
         {
           "id": "16171",
           "label": "e",
+          "text": "Ferry downstream from both sides of the river.",
+          "requirement_path": "10.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -544,6 +752,11 @@
         {
           "id": "16172",
           "label": "f",
+          "text": "Eddy turn from both sides of an eddy.",
+          "requirement_path": "10.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -556,6 +769,11 @@
         {
           "id": "16173",
           "label": "g",
+          "text": "Peel out from both sides of an eddy.",
+          "requirement_path": "10.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -570,6 +788,11 @@
     {
       "id": "16174",
       "label": "11",
+      "text": "Explain and demonstrate the following to your counselor:",
+      "requirement_path": "11",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -581,6 +804,11 @@
         {
           "id": "16175",
           "label": "a",
+          "text": "Self-rescue and procedures when capsized in moving water, including a wet exit if necessary",
+          "requirement_path": "11.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -593,6 +821,11 @@
         {
           "id": "16176",
           "label": "b",
+          "text": "Proper use of a throw rope to rescue a swimmer in whitewater",
+          "requirement_path": "11.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -605,6 +838,11 @@
         {
           "id": "16177",
           "label": "c",
+          "text": "Proper technique for receiving a throw rope as a swimmer",
+          "requirement_path": "11.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -617,6 +855,11 @@
         {
           "id": "16178",
           "label": "d",
+          "text": "Portaging-where portaging would be appropriate, and when and how to do it",
+          "requirement_path": "11.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -629,6 +872,11 @@
         {
           "id": "16179",
           "label": "e",
+          "text": "The whitewater buddy system using at least three persons and three craft",
+          "requirement_path": "11.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -643,6 +891,11 @@
     {
       "id": "16180",
       "label": "12",
+      "text": "Participate in one or more whitewater trips using either a canoe or kayak on a Class I and/or Class II river. The trip(s) must involve at least six hours of paddling time. For each trip:",
+      "requirement_path": "12",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -654,6 +907,11 @@
         {
           "id": "16181",
           "label": "a",
+          "text": "Help to prepare a written plan, specifying the route (put-ins and takeouts), schedule, equipment, safety precautions, and emergency procedures.",
+          "requirement_path": "12.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -666,6 +924,11 @@
         {
           "id": "16182",
           "label": "b",
+          "text": "Determine local rules and obtain permission from landowners and land managers in advance.",
+          "requirement_path": "12.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -678,6 +941,11 @@
         {
           "id": "16183",
           "label": "c",
+          "text": "Explain what steps have been taken to comply with Scouting America Safety Afloat and the American Whitewater safety guidelines.",
+          "requirement_path": "12.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -690,6 +958,11 @@
         {
           "id": "16184",
           "label": "d",
+          "text": "Show how to protect personal and group equipment from water and how to load and secure the containers in boats to be used in the trip. Execute the plans with other paddlers.",
+          "requirement_path": "12.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -702,6 +975,11 @@
         {
           "id": "16185",
           "label": "e",
+          "text": "Explain to your counselor how well your plans worked for each trip taken.",
+          "requirement_path": "12.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

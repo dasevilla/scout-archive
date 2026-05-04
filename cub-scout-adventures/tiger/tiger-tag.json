@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Play an active game with your den. Share with your Tiger adult partner or your den why you like this game.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play an active game with your den. Share with your Tiger adult partner or your den why you like this game.",
       "activities": [
         {
           "name": "Tiger Blob Tag",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Play a relay game with your den. Share with your Tiger adult partner or your den why you like this game.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play a relay game with your den. Share with your Tiger adult partner or your den why you like this game.",
       "activities": [
         {
           "name": "Tiger Dress Up Relay",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Discuss what it means to be a good sport in a game with your Tiger adult partner or other Tigers.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discuss what it means to be a good sport in a game with your Tiger adult partner or other Tigers.",
       "activities": [
         {
           "name": "Referee Visit",

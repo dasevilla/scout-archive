@@ -14,6 +14,11 @@
     {
       "id": "14755",
       "label": null,
+      "text": "NOTE: A parent, guardian, or the counselor may supervise the Scout's work on any Home Repairs requirements.",
+      "requirement_path": "item-1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -33,6 +38,11 @@
     {
       "id": "14757",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -44,6 +54,11 @@
         {
           "id": "14758",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while working on home repairs and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working on home repairs.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -65,6 +80,11 @@
         {
           "id": "14759",
           "label": "b",
+          "text": "Discuss general precautions related to home repairs. Name at least 10 safe practices that every home repairer should exercise.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -84,6 +104,11 @@
     {
       "id": "14760",
       "label": "2",
+      "text": "Under the supervision of your parent, guardian, or counselor, do THREE of the following:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -95,6 +120,11 @@
         {
           "id": "14761",
           "label": "a",
+          "text": "Maintain or recondition a yard tool and show that you know how to clean up and properly store this equipment.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -112,6 +142,11 @@
         {
           "id": "14762",
           "label": "b",
+          "text": "Weather strip a window or door.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -129,6 +164,11 @@
         {
           "id": "14763",
           "label": "c",
+          "text": "Caulk cracks or joints open to the weather.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -146,6 +186,11 @@
         {
           "id": "14764",
           "label": "d",
+          "text": "Repair a break in a concrete or asphalt surface.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -167,6 +212,11 @@
         {
           "id": "14765",
           "label": "e",
+          "text": "Repair or replace the screen in a window or door.",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -184,6 +234,11 @@
         {
           "id": "14766",
           "label": "f",
+          "text": "Replace a pane of glass.",
+          "requirement_path": "2.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -203,6 +258,11 @@
     {
       "id": "14769",
       "label": "3",
+      "text": "Under the supervision of your parent, guardian, or counselor, do THREE of the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -214,6 +274,11 @@
         {
           "id": "14770",
           "label": "a",
+          "text": "Install or build equipment for storing tools.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -235,6 +300,11 @@
         {
           "id": "14771",
           "label": "b",
+          "text": "Build a workbench.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -252,6 +322,11 @@
         {
           "id": "14772",
           "label": "c",
+          "text": "Repair a piece of furniture.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -273,6 +348,11 @@
         {
           "id": "14773",
           "label": "d",
+          "text": "Paint or varnish a piece of furniture, a door, or trim on a house.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -294,6 +374,11 @@
         {
           "id": "14774",
           "label": "e",
+          "text": "Repair a sagging door or gate.",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -311,6 +396,11 @@
         {
           "id": "14775",
           "label": "f",
+          "text": "Repair a loose step or railing.",
+          "requirement_path": "3.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -332,6 +422,11 @@
         {
           "id": "14776",
           "label": "g",
+          "text": "Repair a fence.",
+          "requirement_path": "3.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -351,6 +446,11 @@
     {
       "id": "14777",
       "label": "4",
+      "text": "Under the supervision of your parent, guardian, or counselor, do TWO of the following:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -362,6 +462,11 @@
         {
           "id": "14778",
           "label": "a",
+          "text": "Locate a main electrical switch box and know how to replace a fuse or reset a circuit breaker.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -383,6 +488,11 @@
         {
           "id": "14779",
           "label": "b",
+          "text": "Replace an electrical cord or repair a plug or lamp socket.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -400,6 +510,11 @@
         {
           "id": "14780",
           "label": "c",
+          "text": "Install a single-pole light switch.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -417,6 +532,11 @@
         {
           "id": "14781",
           "label": "d",
+          "text": "Replace an electrical wall outlet.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -436,6 +556,11 @@
     {
       "id": "14782",
       "label": "5",
+      "text": "Under the supervision of your parent, guardian, or counselor, locate and know how to turn off the main water source, including well pumps, and do TWO of the following:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -460,6 +585,11 @@
         {
           "id": "14783",
           "label": "a",
+          "text": "Clear a clogged drain or trap.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -477,6 +607,11 @@
         {
           "id": "14784",
           "label": "b",
+          "text": "Repair a leaky water faucet.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -494,6 +629,11 @@
         {
           "id": "14785",
           "label": "c",
+          "text": "Repair a flush toilet.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -515,6 +655,11 @@
         {
           "id": "14786",
           "label": "d",
+          "text": "Repair a leaky hose or connector.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -532,6 +677,11 @@
         {
           "id": "14787",
           "label": "e",
+          "text": "Clean or replace a sprinkler head.",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -555,6 +705,11 @@
     {
       "id": "14788",
       "label": "6",
+      "text": "Under the supervision of your parent, guardian, or counselor, do THREE of the following:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -566,6 +721,11 @@
         {
           "id": "14789",
           "label": "a",
+          "text": "Paint a wall or ceiling.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -583,6 +743,11 @@
         {
           "id": "14790",
           "label": "b",
+          "text": "Repair or replace damaged tile, linoleum, or vinyl flooring.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -600,6 +765,11 @@
         {
           "id": "14791",
           "label": "c",
+          "text": "Install drapery or curtain rods and then hang drapes or curtains.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -617,6 +787,11 @@
         {
           "id": "14792",
           "label": "d",
+          "text": "Repair a hole in drywall.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -634,6 +809,11 @@
         {
           "id": "14793",
           "label": "e",
+          "text": "Secure a picture, plant hanger, or other object approved by your parent or guardian to drywall using anchors.",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -651,6 +831,11 @@
         {
           "id": "14794",
           "label": "f",
+          "text": "Reinforce a picture frame.",
+          "requirement_path": "6.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -672,6 +857,11 @@
         {
           "id": "14795",
           "label": "g",
+          "text": "Mend an object made of china, glass, or pottery.",
+          "requirement_path": "6.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -693,6 +883,11 @@
         {
           "id": "14796",
           "label": "h",
+          "text": "Fix a drawer slide or fix/replace cabinet pulls.",
+          "requirement_path": "6.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -716,6 +911,11 @@
     {
       "id": "14797",
       "label": "7",
+      "text": "Do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -727,6 +927,11 @@
         {
           "id": "14798",
           "label": "a",
+          "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -744,6 +949,11 @@
         {
           "id": "14799",
           "label": "b",
+          "text": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

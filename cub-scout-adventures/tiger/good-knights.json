@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discuss with your den or Tiger adult partner what it means to have courteous behavior, how a knight behaves. Tell another Tiger which points of the Scout Law help you to have the same Knightly behavior.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discuss with your den or Tiger adult partner what it means to have courteous behavior, how a knight behaves. Tell another Tiger which points of the Scout Law help you to have the same Knightly behavior.",
       "activities": [
         {
           "name": "Courteous Knights",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Create a shield that can be for your den or a personal shield.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Create a shield that can be for your den or a personal shield.",
       "activities": [
         {
           "name": "Den Shield",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Using recycled and other materials, design and build a small castle in your den or at home.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Using recycled and other materials, design and build a small castle in your den or at home.",
       "activities": [
         {
           "name": "Building Sandcastles",

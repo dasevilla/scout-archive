@@ -61,54 +61,54 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 
     **Resources:** [Advanced Techniques for Urban Riding | Produced by Scouting America (video)](https://vimeo.com/1125028086)
   - (1) Take a road safety test with your counselor and demonstrate the following:
-  - (a) On an urban street with light traffic, properly execute a left turn from the center of the street; also demonstrate an alternate left-turn technique used during periods of heavy traffic.
+    - (a) On an urban street with light traffic, properly execute a left turn from the center of the street; also demonstrate an alternate left-turn technique used during periods of heavy traffic.
 
-    **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M%20), [Bike Hand Signals (PDF)](https://static.nhtsa.gov/nhtsa/downloads/NTI/Responsible_Walk-Bike_Activities/ComboLessons/L3Handouts/8009_HandSignals_122811_v1a.pdf)
-  - (b) Properly execute a right turn.
+      **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M%20), [Bike Hand Signals (PDF)](https://static.nhtsa.gov/nhtsa/downloads/NTI/Responsible_Walk-Bike_Activities/ComboLessons/L3Handouts/8009_HandSignals_122811_v1a.pdf)
+    - (b) Properly execute a right turn.
 
-    **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
-  - (c) Demonstrate appropriate actions at a right-turn-only lane when you are continuing straight.
+      **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
+    - (c) Demonstrate appropriate actions at a right-turn-only lane when you are continuing straight.
 
-    **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
-  - (d) Show proper curbside and road-edge riding. Show how to ride safely along a row of parked cars.
+      **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
+    - (d) Show proper curbside and road-edge riding. Show how to ride safely along a row of parked cars.
 
-    **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
-  - (e) Cross railroad tracks properly.
+      **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
+    - (e) Cross railroad tracks properly.
 
-    **Resources:** [How to Cross Railroad Tracks (video)](https://www.youtube.com/watch?v=62jc3-6Jgdw%20)
+      **Resources:** [How to Cross Railroad Tracks (video)](https://www.youtube.com/watch?v=62jc3-6Jgdw%20)
   - (2) Avoiding main highways, take two rides of 10 miles each, two rides of 15 miles each, and two rides of 25 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen on the ride.
 
     **Resources:** [Bikeability Checklist (PDF)](https://www.nhtsa.gov/sites/nhtsa.gov/files/bikabilitychecklist1.pdf), [MapMyRide (website)](https://www.mapmyride.com/)
   - (3) After completing requirement (2) for the road biking option, do ONE of the following:
-  - (a) Lay out on a road map a 50-mile trip. Stay away from main highways. Using your map, make this ride in eight hours or less.
+    - (a) Lay out on a road map a 50-mile trip. Stay away from main highways. Using your map, make this ride in eight hours or less.
 
-    **Resources:** [MapMyRide (website)](https://www.mapmyride.com/)
-  - (b) Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours or less. Afterward, use the tour's cue sheet to make a map of the ride.
+      **Resources:** [MapMyRide (website)](https://www.mapmyride.com/)
+    - (b) Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours or less. Afterward, use the tour's cue sheet to make a map of the ride.
 
-    **Resources:** [Cue Sheets (website)](https://lifeisabeautifuldetail.com/blog/cue-sheets)
+      **Resources:** [Cue Sheets (website)](https://lifeisabeautifuldetail.com/blog/cue-sheets)
   - B **Option B—Trail or Mixed Surface Biking** Do ALL of the following:
 
     **Note:** These requirements may be completed using a mountain bike or other properly equipped, manually-powered cycle such as a gravel bike, tandem bike, hand-powered bike, recumbent bike, adult tricycle, or adaptive cycle. If a tandem bike is used, the Scout must actively power the cycle in concert with the other rider.
   - (1) Demonstrate the following mountain bike handling skills to your counselor:
-  - (a) Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering
+    - (a) Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering
 
-    **Resources:** [The Basics of Cornering: Berms and Flat Corners (video)](https://youtu.be/UCWu6zXDjXM?si=akxjbkFYRrChevnX), [Advanced MTB Cornering Techniques: Body Position & Technical Terrain (video)](https://www.youtube.com/watch?v=Ammz64zxnhg%20)
-  - (b) Show shifting skills as applicable to climbs and obstacles.
+      **Resources:** [The Basics of Cornering: Berms and Flat Corners (video)](https://youtu.be/UCWu6zXDjXM?si=akxjbkFYRrChevnX), [Advanced MTB Cornering Techniques: Body Position & Technical Terrain (video)](https://www.youtube.com/watch?v=Ammz64zxnhg%20)
+    - (b) Show shifting skills as applicable to climbs and obstacles.
 
-    **Resources:** [Shifting Skills for Mountain Biking (video)](https://youtu.be/IxxoU-s-Lws)
-  - (c) Show proper technique for riding up and down hills, including when you would ride seated, crouched, or standing.
+      **Resources:** [Shifting Skills for Mountain Biking (video)](https://youtu.be/IxxoU-s-Lws)
+    - (c) Show proper technique for riding up and down hills, including when you would ride seated, crouched, or standing.
 
-    **Resources:** [Make Climbing Easier With Proper Body Position (video)](https://youtu.be/aDwqM_ZVSUg?si=5RolaSMGLshbWZzS), [Steep & Technical Climbs Made Easy With Proper Gearing & Choice of Line (video)](https://youtu.be/Rd-wFxmXmsM), [How to Climb Any Hill on Your Mountain Bike (video)](https://youtu.be/4knf7exmrAQ?si=SAiTb_g_6TGj9JbW), [Don't Make These Common Climbing Mistakes (video)](https://youtu.be/k6ewOO9rXXY)
+      **Resources:** [Make Climbing Easier With Proper Body Position (video)](https://youtu.be/aDwqM_ZVSUg?si=5RolaSMGLshbWZzS), [Steep & Technical Climbs Made Easy With Proper Gearing & Choice of Line (video)](https://youtu.be/Rd-wFxmXmsM), [How to Climb Any Hill on Your Mountain Bike (video)](https://youtu.be/4knf7exmrAQ?si=SAiTb_g_6TGj9JbW), [Don't Make These Common Climbing Mistakes (video)](https://youtu.be/k6ewOO9rXXY)
   - (2) Take a trail safety test with your counselor and demonstrate the following:
-  - (a) Show proper trail etiquette to hikers and other cyclists, including when to yield the right-of-way.
+    - (a) Show proper trail etiquette to hikers and other cyclists, including when to yield the right-of-way.
 
-    **Resources:** [Bike Trail Etiquette (video)](https://youtu.be/gwYBL2zPYXQ)
-  - (b) Demonstrate how to correctly cross an obstacle by either going over the obstacle on your bike or dismounting your bike and crossing over or around the obstacle
+      **Resources:** [Bike Trail Etiquette (video)](https://youtu.be/gwYBL2zPYXQ)
+    - (b) Demonstrate how to correctly cross an obstacle by either going over the obstacle on your bike or dismounting your bike and crossing over or around the obstacle
 
-    **Resources:** [How to Jump a Log on a Mountain Bike (video)](https://www.youtube.com/watch?v=Hp_jDNN6XfQ)
-  - (c) Cross rocks, gravel, and roots properly
+      **Resources:** [How to Jump a Log on a Mountain Bike (video)](https://www.youtube.com/watch?v=Hp_jDNN6XfQ)
+    - (c) Cross rocks, gravel, and roots properly
 
-    **Resources:** [How to Navigate Rock Gardens (video)](https://youtu.be/arh94o3Qm4Y), [How to Ride Roots (video)](https://youtu.be/0CQesh_kN6k?si=74wVP05bl6ylKk8Y), [How to Ride Loose Gravel (video)](https://youtu.be/tpLCJLLPTEU?si=JbHCyrG-Md-Q4VIU)
+      **Resources:** [How to Navigate Rock Gardens (video)](https://youtu.be/arh94o3Qm4Y), [How to Ride Roots (video)](https://youtu.be/0CQesh_kN6k?si=74wVP05bl6ylKk8Y), [How to Ride Loose Gravel (video)](https://youtu.be/tpLCJLLPTEU?si=JbHCyrG-Md-Q4VIU)
   - (3) Describe the rules of trail riding, including how to know when a trail is unsuitable for riding.
 
     **Resources:** [Sharing Our Trails (website)](https://trailetiquette.org/), [Trail Manners (website)](https://www.tfnu.org/trail-etiquette/), [Tread Lightly (website)](https://treadlightly.org/learn/recreation-tips/sharing-our-trails/%20)

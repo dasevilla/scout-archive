@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "With your parent or legal guardian, talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft, work of art, or a food item that is part of your family’s faith traditions.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your parent or legal guardian, talk about your family’s faith traditions. Identify three holidays or celebrations that are part of your family’s faith traditions. Make a craft, work of art, or a food item that is part of your family’s faith traditions.",
       "activities": [
         {
           "name": "Multimedia Collage",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Carry out an act of kindness.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Carry out an act of kindness.",
       "activities": [
         {
           "name": "A Dish of Kindness",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "With your parent or legal guardian identify a religion or faith that is different from your own. Identify two things that it has in common with your family’s beliefs.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your parent or legal guardian identify a religion or faith that is different from your own. Identify two things that it has in common with your family’s beliefs.",
       "activities": [
         {
           "name": "Exploring Faith",
@@ -110,6 +122,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Discuss with our parent or legal guardian what it means to be reverent. Tell how you practice being reverent in your daily life.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -118,7 +135,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discuss with our parent or legal guardian what it means to be reverent. Tell how you practice being reverent in your daily life.",
       "activities": [
         {
           "name": "Reverence Reflection",

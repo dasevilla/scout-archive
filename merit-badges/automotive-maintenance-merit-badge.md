@@ -44,15 +44,16 @@ Modern automobiles are important to many aspects of American life. Those who ser
   - (a) Demonstrate how to check the following:
 
     **Resources:** [Your Car's Fluids (video)](https://youtu.be/RaxZUGP1Zr0?si=_Z1CMmzpR5nAPJkp)
-  - (1) Brake fluid
-  - (2) Engine oil
-  - (3) Coolant
-  - (4) Power steering fluid
-  - (5) Windshield washer fluid
-  - (6) Transmission fluid
-  - (7) Battery fluid (if possible) and condition of the battery terminals
 
-    **Resources:** [How to Care for Your Automotive Battery (video)](https://youtu.be/-dWtk08fMfw?si=AfrX0oKSRi6fCKoe&t=14), [How to Check & Properly Fill Water Levels in a Car Battery (video)](https://youtu.be/ytg2TCC6IKw?si=XBSt8SXU0YENVL7J)
+    - (1) Brake fluid
+    - (2) Engine oil
+    - (3) Coolant
+    - (4) Power steering fluid
+    - (5) Windshield washer fluid
+    - (6) Transmission fluid
+    - (7) Battery fluid (if possible) and condition of the battery terminals
+
+      **Resources:** [How to Care for Your Automotive Battery (video)](https://youtu.be/-dWtk08fMfw?si=AfrX0oKSRi6fCKoe&t=14), [How to Check & Properly Fill Water Levels in a Car Battery (video)](https://youtu.be/ytg2TCC6IKw?si=XBSt8SXU0YENVL7J)
   - (b) Locate the fuse boxes; determine the type and size of fuses. Demonstrate the proper replacement of burned-out fuses.
 
     **Resources:** [How to Check Car Fuses (video)](https://youtu.be/PF5G4llnvQs?si=TTLfI1ev6g2UtMw-)
@@ -123,15 +124,16 @@ Modern automobiles are important to many aspects of American life. Those who ser
   - (a) Diagram and explain the parts of one of the following electrical systems:
 
     **Resources:** [Car Electrical System Explained (video)](https://youtu.be/XO-3nCYHeFQ?si=eNmJgO9ya1a2jzJP)
-  - (1) Starting/charging system
 
-    **Resources:** [Automotive Starting and Charging System (video)](https://youtu.be/IixqxkWpT5M?si=iTXN07OTcbwFCpzB)
-  - (2) Hybrid or electric vehicle inverter
+    - (1) Starting/charging system
 
-    **Resources:** [The Role of Inverters for EV Propulsion Systems (video)](https://youtu.be/wbfOoQgg7Tk?si=CK1dIlvuJJDSXKlC)
-  - (3) Lighting system
+      **Resources:** [Automotive Starting and Charging System (video)](https://youtu.be/IixqxkWpT5M?si=iTXN07OTcbwFCpzB)
+    - (2) Hybrid or electric vehicle inverter
 
-    **Resources:** [Automotive Lighting Circuits (video)](https://youtu.be/ST5nz8M9Lcg?si=yIgLMjiU5VL_Gu1_)
+      **Resources:** [The Role of Inverters for EV Propulsion Systems (video)](https://youtu.be/wbfOoQgg7Tk?si=CK1dIlvuJJDSXKlC)
+    - (3) Lighting system
+
+      **Resources:** [Automotive Lighting Circuits (video)](https://youtu.be/ST5nz8M9Lcg?si=yIgLMjiU5VL_Gu1_)
   - (b) Explain the engine's firing order.
 
     **Resources:** [Explain Engine Firing Order | Automobile Engineering (video)](https://youtu.be/ss0GMKBYCks?si=jlPZT5HiIhDtQKQw)

@@ -135,18 +135,19 @@ Scouts are often called upon to help because they know first aid and they know a
   - (a) Discuss with your counselor the duties that a Scout troop should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:
 
     **Resources:** [Agency Cooperation in an ICS (video)](https://youtu.be/P-dPBso2xPM)
-  - (1) Crowd and traffic control
 
-    **Resources:** [Guidelines for Managing Crowds (website)](https://ehs.cornell.edu/campus-health-safety/event-management/event-crowd-management)
-  - (2) Messenger service during an incident
+    - (1) Crowd and traffic control
 
-    **Resources:** [Social Media Messaging for Natural Disasters (website)](https://www.epa.gov/natural-disasters/social-media-messages-you-can-use-during-or-after-natural-disaster#hurricane)
-  - (3) Collection and distribution services
+      **Resources:** [Guidelines for Managing Crowds (website)](https://ehs.cornell.edu/campus-health-safety/event-management/event-crowd-management)
+    - (2) Messenger service during an incident
 
-    **Resources:** [Food Bank (video)](https://youtu.be/zz6sEdM6y_4)
-  - (4) Group feeding, shelter, and sanitation
+      **Resources:** [Social Media Messaging for Natural Disasters (website)](https://www.epa.gov/natural-disasters/social-media-messages-you-can-use-during-or-after-natural-disaster#hurricane)
+    - (3) Collection and distribution services
 
-    **Resources:** [Feeding LA Wildfire Evacuees (video)](https://www.youtube.com/shorts/9zWTauGVX6w)
+      **Resources:** [Food Bank (video)](https://youtu.be/zz6sEdM6y_4)
+    - (4) Group feeding, shelter, and sanitation
+
+      **Resources:** [Feeding LA Wildfire Evacuees (video)](https://www.youtube.com/shorts/9zWTauGVX6w)
   - (b) Prepare a written plan for mobilizing your troop when needed to do emergency service. If your troop already has a mobilization plan, present the plan to your counselor and tell your part in making the plan work.
   - (c) Using a checklist in the *Emergency Preparedness* merit badge pamphlet or one approved by your counselor, prepare or inspect a personal emergency service pack for a mobilization call. Explain the needs and uses of the contents to your counselor.
 

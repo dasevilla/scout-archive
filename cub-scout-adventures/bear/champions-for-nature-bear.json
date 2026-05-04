@@ -11,6 +11,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Discover what happens to the wastewater in your community.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover what happens to the wastewater in your community.",
       "activities": [
         {
           "name": "Water Conservation Charades",
@@ -53,6 +57,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Participate in a conservation project.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Participate in a conservation project.",
       "activities": [
         {
           "name": "Bears Plant Trees",

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Decide on gear and supplies you should bring for a long bike ride.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Decide on gear and supplies you should bring for a long bike ride.",
       "activities": [
         {
           "name": "All We Need",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Discover how multi-gear bicycles work and how they benefit a rider .",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover how multi-gear bicycles work and how they benefit a rider .",
       "activities": [
         {
           "name": "Webelos Gear Guidance",
@@ -68,6 +76,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Practice how to lubricate a chain.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -76,7 +89,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Practice how to lubricate a chain.",
       "activities": [
         {
           "name": "Webelos Chain Maintenance",
@@ -92,6 +104,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Pick a bicycle lock that you will use. Demonstrate how it locks and unlocks, how it secures your bicycle, and how you carry it while you are riding your bicycle.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -100,7 +117,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Pick a bicycle lock that you will use. Demonstrate how it locks and unlocks, how it secures your bicycle, and how you carry it while you are riding your bicycle.",
       "activities": [
         {
           "name": "Webelos Lock It Up",
@@ -116,6 +132,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "With your family, den, or pack, use a map and plan a bicycle ride that is at least 5 miles.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -124,7 +145,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your family, den, or pack, use a map and plan a bicycle ride that is at least 5 miles.",
       "activities": [
         {
           "name": "Webelos Map The Ride",
@@ -140,6 +160,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "With your den, pack, or family and using the buddy system, go on a bicycle ride that is a minimum of 5 miles.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -148,7 +173,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den, pack, or family and using the buddy system, go on a bicycle ride that is a minimum of 5 miles.",
       "activities": [
         {
           "name": "Webelos Bike Ride",

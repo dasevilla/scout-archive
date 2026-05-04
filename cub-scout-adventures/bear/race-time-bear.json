@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "With an adult, build either a Pinewood Derby® car or a Raingutter Regatta™ boat.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With an adult, build either a Pinewood Derby® car or a Raingutter Regatta™ boat.",
       "activities": [
         {
           "name": "Pinewood Derby® Car Build Day Bear",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Learn the rules of the race for the vehicle chosen in requirement 1.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn the rules of the race for the vehicle chosen in requirement 1.",
       "activities": [
         {
           "name": "Pinewood Derby® Rules Bear",
@@ -77,6 +85,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Identify how you could increase the speed of your chosen vehicle.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify how you could increase the speed of your chosen vehicle.",
       "activities": [
         {
           "name": "Boat Fine Tune",
@@ -110,6 +122,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Before the race, discuss with your den how you will demonstrate good sportsmanship during the race.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -118,7 +135,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Before the race, discuss with your den how you will demonstrate good sportsmanship during the race.",
       "activities": [
         {
           "name": "Team Player",
@@ -134,6 +150,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Participate in a Pinewood Derby® or a Raingutter Regatta™.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -142,7 +163,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Participate in a Pinewood Derby® or a Raingutter Regatta™.",
       "activities": [
         {
           "name": "Pinewood Derby® Race Bear",

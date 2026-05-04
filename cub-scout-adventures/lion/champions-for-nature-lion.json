@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discover the difference between natural resources and man-made items.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover the difference between natural resources and man-made items.",
       "activities": [
         {
           "name": "Match Natural and Man-made",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Discover the difference between organic, paper, plastic, metal and glass waste.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover the difference between organic, paper, plastic, metal and glass waste.",
       "activities": [
         {
           "name": "Types of Trash",
@@ -77,6 +85,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Participate in a conservation service project.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Participate in a conservation service project.",
       "activities": [
         {
           "name": "Clean Waterways",

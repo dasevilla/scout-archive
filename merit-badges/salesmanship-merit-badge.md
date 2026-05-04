@@ -47,17 +47,17 @@ By studying salesmanship, Scouts can learn self-confidence, motivation, friendli
   **Resources:** [How to Conduct an Interview (video)](https://youtu.be/kO9WcdINoRk)
 
   - (a) Interview a salesperson and learn the following:
-  - (1) What made the person choose sales as a profession?
-  - (2) What are the most important things to remember when talking to customers?
-  - (3) How is the product sold?
-  - (4) Include your own questions.
+    - (1) What made the person choose sales as a profession?
+    - (2) What are the most important things to remember when talking to customers?
+    - (3) How is the product sold?
+    - (4) Include your own questions.
   - (b) Interview a retail store owner and learn the following:
-  - (1) How often is the owner approached by a sales representative?
-  - (2) What good traits should a sales representative have? What habits should the sales representative avoid?
+    - (1) How often is the owner approached by a sales representative?
+    - (2) What good traits should a sales representative have? What habits should the sales representative avoid?
 
-    **Resources:** [Top 5 Traits of Great Sales People (video)](https://youtu.be/OjCnfTSrq1s)
-  - (3) What does the owner consider when deciding whether to establish an account with a sales representative?
-  - (4) Include at least two of your own questions.
+      **Resources:** [Top 5 Traits of Great Sales People (video)](https://youtu.be/OjCnfTSrq1s)
+    - (3) What does the owner consider when deciding whether to establish an account with a sales representative?
+    - (4) Include at least two of your own questions.
 
 - (7) Investigate and report on career opportunities in sales, then do the following:
 

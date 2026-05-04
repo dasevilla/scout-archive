@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Learn about the buddy system and how it works in the outdoors.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the buddy system and how it works in the outdoors.",
       "activities": [
         {
           "name": "Back to Back Buddies",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Before going on the overnight campout, discuss what type of weather is expected and what type of clothes you should wear.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Before going on the overnight campout, discuss what type of weather is expected and what type of clothes you should wear.",
       "activities": [
         {
           "name": "Dress the Paper Cub Scout",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Pack up your Cub Scout Six Essentials for the campout.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Pack up your Cub Scout Six Essentials for the campout.",
       "activities": [
         {
           "name": "Six Essentials Scavenger Hunt",
@@ -128,6 +140,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Attend a council or district Cub Scout overnight camp or attend a campout with your pack.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -136,7 +153,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Attend a council or district Cub Scout overnight camp or attend a campout with your pack.",
       "activities": [
         {
           "name": "Council Camping Tiger",

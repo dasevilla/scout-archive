@@ -14,6 +14,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "a",
           "label": "a",
+          "text": "Define psychology in your own words and explain its impact on daily life.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -65,6 +75,11 @@
         {
           "id": "b",
           "label": "b",
+          "text": "Identify two famous psychologists and describe their contributions to the field.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -92,6 +107,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -114,6 +134,11 @@
         {
           "id": "a",
           "label": "a",
+          "text": "Write a script for a short (1–2 minute) skit that demonstrates how a leader might apply the study of psychology to better lead a group. Share your script with your counselor.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -147,6 +172,11 @@
         {
           "id": "b",
           "label": "b",
+          "text": "With the help of others, rehearse and perform your skit for your counselor (in-person or by recorded video). Explain to your counselor the plot and discuss the connections between psychology and leadership that are shown in your skit.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -173,6 +203,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -199,6 +234,11 @@
         {
           "id": "a",
           "label": "a",
+          "text": "In your own words, define mental health.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -224,6 +264,11 @@
         {
           "id": "b",
           "label": "b",
+          "text": "Discuss with your counselor the concepts of protective factors, risk factors, and resilience for the mental health of youth close to your age in your community. Share ideas about how your community could strengthen the resilience of young people.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -263,6 +308,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -289,6 +339,11 @@
         {
           "id": "a",
           "label": "a",
+          "text": "For two weeks, create a tracking log and record daily how you spend your time at school, in Scouting, and at each of your other activities with your friends, family, and others close to you. Think about how these things made you feel and draw your own emoji next to each entry to summarize your feelings from each experience.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -301,6 +356,11 @@
         {
           "id": "b",
           "label": "b",
+          "text": "Review your two-week tracking log with your counselor and discuss the trends you notice about the activities you did and the emotions you felt.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -320,6 +380,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -338,6 +403,11 @@
         {
           "id": "a",
           "label": "a",
+          "text": "In your own words, define empathy and give examples of how you might show empathy to others.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -355,6 +425,11 @@
         {
           "id": "b",
           "label": "b",
+          "text": "Discuss the importance of resilience and how Scouting experiences develop resilience.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -382,6 +457,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Describe how the Scout Oath and Law help create a community of hope and support in Scouting. Write a short personal oath or law that expresses how you can create hope and support in your troop or community. Explain to your counselor why you chose those words.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -426,6 +506,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Identify three career opportunities that would use skills and knowledge in psychology. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals related to this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -439,113 +524,34 @@
           ]
         }
       ],
-      "resources": [],
-      "sub_requirements": [
+      "resources": [
         {
-          "id": "U",
-          "label": null,
-          "content": [
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "U.S. Bureau of Labor Statistics – Psychologists"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.psychology.org/psychology/careers/"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Psychology.org/psychology/careers/"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.verywellmind.com/a-list-of-psychology-careers-2794917"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "80+ Jobs in Psychology to Consider"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://psychologyjobs.com/"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "https://psychologyjobs.com/"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          "title": "U.S. Bureau of Labor Statistics – Psychologists",
+          "url": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
+        },
+        {
+          "title": "Psychology.org/psychology/careers/",
+          "url": "https://www.psychology.org/psychology/careers/"
+        },
+        {
+          "title": "80+ Jobs in Psychology to Consider",
+          "url": "https://www.verywellmind.com/a-list-of-psychology-careers-2794917"
+        },
+        {
+          "title": "https://psychologyjobs.com/",
+          "url": "https://psychologyjobs.com/"
         }
-      ]
+      ],
+      "sub_requirements": []
     },
     {
       "id": "8",
       "label": "8",
+      "text": "Complete the survey below to complete the test lab requirements",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",

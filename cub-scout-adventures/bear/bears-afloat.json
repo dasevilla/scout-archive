@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Before attempting requirements 6 and 7 for this Adventure, you must pass Scouting America swimmer test.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Before attempting requirements 6 and 7 for this Adventure, you must pass Scouting America swimmer test.",
       "activities": [
         {
           "name": "Swimmers Test",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Pick a paddle craft you’ll use to complete all requirements: canoe, kayak, or stand-up paddleboard.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Pick a paddle craft you’ll use to complete all requirements: canoe, kayak, or stand-up paddleboard.",
       "activities": [
         {
           "name": "Picking Paddle Craft",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "With your den or an adult, discuss the role of qualified adult supervision at a paddle craft activity.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den or an adult, discuss the role of qualified adult supervision at a paddle craft activity.",
       "activities": [
         {
           "name": "Qualified Supervision",
@@ -83,6 +95,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Explain the safety rules to follow when safely using a paddle craft.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -91,7 +108,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explain the safety rules to follow when safely using a paddle craft.",
       "activities": [
         {
           "name": "Paddling Safely Rule Game",
@@ -107,6 +123,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Discover how to tell if a life jacket is the correct size and approved for your paddle craft activity. Demonstrate how to wear it.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -115,7 +136,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover how to tell if a life jacket is the correct size and approved for your paddle craft activity. Demonstrate how to wear it.",
       "activities": [
         {
           "name": "Life Jacket Education",
@@ -131,6 +151,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Explore how your paddle craft responds as you move your paddle through the water from different places.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -139,7 +164,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explore how your paddle craft responds as you move your paddle through the water from different places.",
       "activities": [
         {
           "name": "Paddle Practice",
@@ -155,6 +179,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -163,7 +192,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time.",
       "activities": [
         {
           "name": "Paddling Around for Fun",

@@ -43,18 +43,18 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
 
     **Resources:** [Edgar Robinson (video)](https://www.youtube.com/watch?v=PuIILshyM2k)
   - (b) Discuss the significance to Scouting of any TWO of the following:
-  - (1) Brownsea Island
+    - (1) Brownsea Island
 
-    **Resources:** [Artifact of the Week - Brownsea Island (video)](https://www.youtube.com/watch?v=HWPZkK5YL2k)
-  - (2) The First World Scout Jamboree
+      **Resources:** [Artifact of the Week - Brownsea Island (video)](https://www.youtube.com/watch?v=HWPZkK5YL2k)
+    - (2) The First World Scout Jamboree
 
-    **Resources:** [Artifact of the Week - World Scout Jamborees Part 01 (video)](https://www.youtube.com/watch?v=8p-SalnhA4Q), [Artifact of the Week - World Scout Jamborees Part 02 (video)](https://www.youtube.com/watch?v=JjdgmAKqUS4)
-  - (3) *Scouts BSA Handbook*
+      **Resources:** [Artifact of the Week - World Scout Jamborees Part 01 (video)](https://www.youtube.com/watch?v=8p-SalnhA4Q), [Artifact of the Week - World Scout Jamborees Part 02 (video)](https://www.youtube.com/watch?v=JjdgmAKqUS4)
+    - (3) *Scouts BSA Handbook*
 
-    **Resources:** [NSM History of the Scout Handbook (video)](https://www.youtube.com/watch?v=X2njF0Sv5q8&t=2s), [Artifact of the Week - First Scout Handbook (video)](https://www.youtube.com/watch?v=JaGjYXkcyLU&t=2s)
-  - (4) *Scout Life* magazine (formerly *Boys' Life*)
+      **Resources:** [NSM History of the Scout Handbook (video)](https://www.youtube.com/watch?v=X2njF0Sv5q8&t=2s), [Artifact of the Week - First Scout Handbook (video)](https://www.youtube.com/watch?v=JaGjYXkcyLU&t=2s)
+    - (4) *Scout Life* magazine (formerly *Boys' Life*)
 
-    **Resources:** [Artifact of the Week - Boys' Life to Scout Life (video)](https://www.youtube.com/watch?v=R55NMMY21TM), [The Story of Boys' Life / Scout Life (video)](https://www.youtube.com/watch?v=OIyZwBnlF5c)
+      **Resources:** [Artifact of the Week - Boys' Life to Scout Life (video)](https://www.youtube.com/watch?v=R55NMMY21TM), [The Story of Boys' Life / Scout Life (video)](https://www.youtube.com/watch?v=OIyZwBnlF5c)
 
 - (3) Discuss with your counselor how Scouting's programs have developed over time and been adapted to fit different age groups and interests (Cub Scouting, Scouts BSA, Exploring, Venturing).
 

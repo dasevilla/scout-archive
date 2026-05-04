@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "With permission from your parent or legal guardian watch the Protect Yourself Rules video for the Tiger rank.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With permission from your parent or legal guardian watch the Protect Yourself Rules video for the Tiger rank.",
       "activities": [
         {
           "name": "Protect Yourself Rules Video Tiger",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "With your Tiger adult partner, demonstrate Shout, Run, Tell as explained in the Protect Yourself Rules video.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your Tiger adult partner, demonstrate Shout, Run, Tell as explained in the Protect Yourself Rules video.",
       "activities": [
         {
           "name": "Shout, Run, Tell Relay",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "With your Tiger adult partner, demonstrate how to access emergency services.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your Tiger adult partner, demonstrate how to access emergency services.",
       "activities": [
         {
           "name": "Emergency Services 911 Relay Race",
@@ -101,6 +113,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "With your Tiger adult partner, demonstrate that you know what to do if you get lost or separated.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -109,7 +126,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your Tiger adult partner, demonstrate that you know what to do if you get lost or separated.",
       "activities": [
         {
           "name": "Emergency Whistle Testing",

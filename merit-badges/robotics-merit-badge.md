@@ -40,12 +40,12 @@ Build your own working robot with the Robotics Merit Badge. Learn about the robo
   - (b) Design your robot. The robot design should use sensors and programming and have at least 2 degrees of freedom. Document the design in your robot engineering notebook using drawings and a written description.
   - (c) Build a robot or robotic subsystem of your original design to accomplish the task you chose for requirement 4(a).
   - (d) Discuss with your counselor the programming options available for your robot. Then do ONE of the following:
-  - (1) Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook.
+    - (1) Program your robot to perform the task you chose for your robot in 4(a). Include a sample of your program's source code in your robot engineering notebook.
 
-    **Resources:** [VEXcode VR (website)](https://www.vexrobotics.com/vexcode/vr?srsltid=AfmBOopvcCE5uFUVB__bxV0UiLP20ZZQwq0WrNHHJWuIQUDXmLAwl8UL%5C)
-  - (2) Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook.
+      **Resources:** [VEXcode VR (website)](https://www.vexrobotics.com/vexcode/vr?srsltid=AfmBOopvcCE5uFUVB__bxV0UiLP20ZZQwq0WrNHHJWuIQUDXmLAwl8UL%5C)
+    - (2) Prepare a flowchart of the desired steps to program your robot for accomplishing the task in 4(a). Include procedures that show activities based on sensor inputs. Place this in your robot engineering notebook.
 
-    **Resources:** [General Guide to Creating Flowcharts (video)](https://youtu.be/SWRDqTx8d4k), [Flowchart Tutorial for Beginners (video)](https://youtu.be/c8asK8iCaRk)
+      **Resources:** [General Guide to Creating Flowcharts (video)](https://youtu.be/SWRDqTx8d4k), [Flowchart Tutorial for Beginners (video)](https://youtu.be/c8asK8iCaRk)
   - (e) Test your robot and record the results in your robot engineering notebook. Include suggestions on how you could improve your robot, as well as pictures or sketches of your finished robot.
 
 - (5) **Demonstrate.** Do the following:

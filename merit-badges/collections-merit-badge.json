@@ -14,6 +14,11 @@
     {
       "id": "13829",
       "label": null,
+      "text": "NOTE: Stamp and coin collecting are excluded from eligibility for this merit badge. Scouts must remember to follow the Leave No Trace Seven Principles and the Outdoor Code while on field trips and when collecting specimens. Make sure you have permission of the land manager prior to taking any samples for your collection. Collecting is prohibited in most National and State Parks. Pictures or sketches may suffice for a collection and limit impacted disturbances.",
+      "requirement_path": "item-1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -41,6 +46,11 @@
     {
       "id": "9427",
       "label": "1",
+      "text": "Prepare a short written report or outline for your counselor, giving a detailed description of your collection, including a short history, why you enjoy your collection, and what you have learned from collecting. Be sure to include why you chose that particular type of collection/collecting method.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -66,6 +76,11 @@
     {
       "id": "9428",
       "label": "2",
+      "text": "Explain the growth and development of your collection.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -95,6 +110,11 @@
     {
       "id": "9412",
       "label": "3",
+      "text": "Demonstrate your knowledge of preserving and displaying your collection.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -106,6 +126,11 @@
         {
           "id": "9413",
           "label": "a",
+          "text": "Explain the precautions you need to take to preserve your collection, including handling, cleaning, and storage.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -139,6 +164,11 @@
         {
           "id": "9414",
           "label": "b",
+          "text": "Explain how best to display your collection, keeping in mind preserving as discussed above.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -164,6 +194,11 @@
         {
           "id": "9415",
           "label": "c",
+          "text": "Explain to your counselor the events available for a hobbyist of this collection, including shows, seminars, conventions, contests, and museum programs and exhibits.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -181,6 +216,11 @@
         {
           "id": "9433",
           "label": "d",
+          "text": "Explain to your counselor how you keep track of your collection. Describe your cataloging method.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -212,6 +252,11 @@
     {
       "id": "9416",
       "label": "4",
+      "text": "Demonstrate your knowledge of collecting and investing. Discuss with your counselor:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -232,6 +277,11 @@
         {
           "id": "9417",
           "label": "a",
+          "text": "How investing and speculation would apply to your collection",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -253,6 +303,11 @@
         {
           "id": "9418",
           "label": "b",
+          "text": "What you would look for in purchasing other collections similar to yours",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -265,6 +320,11 @@
         {
           "id": "9419",
           "label": "c",
+          "text": "What you would expect in return value if you decided to sell all or part of the collection",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -284,6 +344,11 @@
     {
       "id": "9420",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -295,6 +360,11 @@
         {
           "id": "9421",
           "label": "a",
+          "text": "Discuss with your counselor at least 10 terms commonly used to describe your collection and be prepared to discuss the definition of each.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -312,6 +382,11 @@
         {
           "id": "9422",
           "label": "b",
+          "text": "Show your counselor any two groups from your collection. Explain how you organized your collection and why you chose that method. (Note: if your collection is too large to transport and your counselor is unable to view your collection directly, photographs should be available to share.)",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -324,6 +399,11 @@
         {
           "id": "9423",
           "label": "c",
+          "text": "Explain the monetary value of your collection and where you learned about those values.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -345,6 +425,11 @@
         {
           "id": "9424",
           "label": "d",
+          "text": "Explain how your collection is graded for value, physical defects, size, and age. Show the various classifications or ratings used in your collection.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -362,6 +447,11 @@
         {
           "id": "9425",
           "label": "e",
+          "text": "List the national, state, or local association(s) related to or associated with your collection.",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -379,6 +469,11 @@
         {
           "id": "9426",
           "label": "f",
+          "text": "Explain to your counselor the purpose of and reason for the identification number (if applicable), series, brand name (if any), and any other special identification marks.",
+          "requirement_path": "5.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -393,6 +488,11 @@
     {
       "id": "9429",
       "label": "6",
+      "text": "Discuss with your counselor the plans you have to continue with the collection in the future.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -405,6 +505,11 @@
     {
       "id": "9431",
       "label": "7",
+      "text": "Find out about career opportunities in collecting. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

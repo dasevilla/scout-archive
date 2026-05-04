@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Identify five different types of boats.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify five different types of boats.",
       "activities": [
         {
           "name": "Color the Boats",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Identify five things that float and five things that do not float.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify five things that float and five things that do not float.",
       "activities": [
         {
           "name": "Floating or Sinking?",
@@ -77,6 +85,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Build or create a model boat and float it on the water. This can be made from recycled materials or other items.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Build or create a model boat and float it on the water. This can be made from recycled materials or other items.",
       "activities": [
         {
           "name": "Crafty Boat",
@@ -119,6 +131,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Show that you can put on and fasten a life jacket correctly and learn when it is safe to enter a boat.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -127,7 +144,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Show that you can put on and fasten a life jacket correctly and learn when it is safe to enter a boat.",
       "activities": [
         {
           "name": "Life Jacket Relay",

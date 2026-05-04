@@ -14,6 +14,11 @@
     {
       "id": "4575",
       "label": "1",
+      "text": "In your own words, define entrepreneurship. Explain to your counselor how entrepreneurs impact the U.S. economy.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "4576",
       "label": "2",
+      "text": "Explain to your counselor why having good skills in the following areas are important for an entrepreneur: communication, planning, organization, problem solving, decision making, basic math, adaptability, technical and social skills, teamwork, and leadership.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -38,6 +48,11 @@
     {
       "id": "4569",
       "label": "3",
+      "text": "Identify and interview an individual who has started a business. Learn about this person's educational background, early work experiences, where the idea for the business came from, and what was involved in starting the business. Find out how the entrepreneur raised the capital (money) to start the business, examples of successes and challenges faced, and how the business is currently doing (if applicable). Discuss with your counselor what you have learned.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -50,6 +65,11 @@
     {
       "id": "4577",
       "label": "4",
+      "text": "Think of as many ideas for a business as you can, and write them down. From your list, select three ideas you believe represent the best opportunities. Choose one of these and explain to your counselor why you selected it and why you feel it can be successful.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -62,6 +82,11 @@
     {
       "id": "4564",
       "label": "5",
+      "text": "Create a written business plan for your idea that includes all of the following:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -73,6 +98,11 @@
         {
           "id": "4584",
           "label": "a",
+          "text": "Product or Service",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -92,6 +122,11 @@
         {
           "id": "4585",
           "label": "1",
+          "text": "Describe the product or service to be offered.",
+          "requirement_path": "5.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -104,6 +139,11 @@
         {
           "id": "4586",
           "label": "2",
+          "text": "Identify goals for your business.",
+          "requirement_path": "5.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -116,6 +156,11 @@
         {
           "id": "4587",
           "label": "3",
+          "text": "Explain how you can make enough of the product or perform the service to meet your goals.",
+          "requirement_path": "5.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -128,6 +173,11 @@
         {
           "id": "4588",
           "label": "4",
+          "text": "Identify and describe the potential liability risks for your product or service.",
+          "requirement_path": "5.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -140,6 +190,11 @@
         {
           "id": "4589",
           "label": "5",
+          "text": "Determine what type of license, if any, you might need in order to sell or make your product or service.",
+          "requirement_path": "5.5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -152,6 +207,11 @@
         {
           "id": "4590",
           "label": "b",
+          "text": "Market Analysis",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -171,6 +231,11 @@
         {
           "id": "4591",
           "label": "1",
+          "text": "Identify the types of people who would buy your product or service.",
+          "requirement_path": "5.1-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -183,6 +248,11 @@
         {
           "id": "4592",
           "label": "2",
+          "text": "Identify your business's competitors, and describe their strengths and weaknesses.",
+          "requirement_path": "5.2-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -195,6 +265,11 @@
         {
           "id": "4593",
           "label": "3",
+          "text": "Describe what makes your product or service unique.",
+          "requirement_path": "5.3-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -207,6 +282,11 @@
         {
           "id": "4594",
           "label": "c",
+          "text": "Financial",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -226,6 +306,11 @@
         {
           "id": "4595",
           "label": "1",
+          "text": "Determine how much money you will need to start your business, and identify how you will obtain the money.",
+          "requirement_path": "5.1-3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -238,6 +323,11 @@
         {
           "id": "4596",
           "label": "2",
+          "text": "Determine the cost of offering your product or service and the price you will charge in order to make a profit.",
+          "requirement_path": "5.2-3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -250,6 +340,11 @@
         {
           "id": "4597",
           "label": "3",
+          "text": "Describe what will happen with the money you make from the sales of your product or service.",
+          "requirement_path": "5.3-3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -262,6 +357,11 @@
         {
           "id": "4598",
           "label": "d",
+          "text": "Personnel",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -281,6 +381,11 @@
         {
           "id": "4599",
           "label": "1",
+          "text": "Determine what parts of the business you will handle yourself, and describe your qualifications.",
+          "requirement_path": "5.1-4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -293,6 +398,11 @@
         {
           "id": "4600",
           "label": "2",
+          "text": "Determine whether you will need additional help to operate your business. If you will need help, describe the responsibilities and qualifications needed for the personnel who will fill each role.",
+          "requirement_path": "5.2-4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -305,6 +415,11 @@
         {
           "id": "4601",
           "label": "e",
+          "text": "Promotion and Marketing",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -324,6 +439,11 @@
         {
           "id": "4602",
           "label": "1",
+          "text": "Describe the methods you will use to promote your business to potential customers.",
+          "requirement_path": "5.1-5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -336,6 +456,11 @@
         {
           "id": "4603",
           "label": "2",
+          "text": "Explain how you will utilize the internet and social media to increase awareness of your product or service.",
+          "requirement_path": "5.2-5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -348,6 +473,11 @@
         {
           "id": "4604",
           "label": "3",
+          "text": "Design a promotional flyer or poster for your product or service.",
+          "requirement_path": "5.3-4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -362,6 +492,11 @@
     {
       "id": "4583",
       "label": "6",
+      "text": "When you believe your business idea is feasible, imagine your business idea is now up and running. What successes and problems might you experience? How would you overcome any failures? Discuss with your counselor any ethical questions you might face and how you would deal with them.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

@@ -14,6 +14,11 @@
     {
       "id": "7207",
       "label": "1",
+      "text": "Go to a completed landscape project that a landscape architect has designed. Before you visit the site, obtain a plan of the design from the landscape architect if one is available.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "7198",
       "label": "2",
+      "text": "After completing requirement 1, discuss the following with your counselor:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "7199",
           "label": "a",
+          "text": "Tell whether the design had separate spaces, a defined point of entry, a clear path system, and sun and shade variety.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -54,6 +69,11 @@
         {
           "id": "7200",
           "label": "b",
+          "text": "Discuss how any structures, the designated seating, eating, or parking areas suited the overall design.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -71,6 +91,11 @@
         {
           "id": "7201",
           "label": "c",
+          "text": "Explain how the design reflected consideration for the comfort, shelter, and security of the users.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -88,6 +113,11 @@
         {
           "id": "7202",
           "label": "d",
+          "text": "Discuss how the choice of trees, shrubs, and ground covers used in the project contributed to its appeal and function.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -107,6 +137,11 @@
     {
       "id": "7208",
       "label": "3",
+      "text": "Identify five shrubs, five trees, and one ground cover, being sure that you select examples of different shapes, sizes, and textures. With the help of your counselor or a local nursery, choose plants that will grow in your area. Bring pictures of the different planting materials or, if possible, examples of their branches, leaves, or flowers to a group such as your troop or class at school. Be prepared to tell how you might use each in the design of a landscape and the maintenance that would follow.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -124,6 +159,11 @@
     {
       "id": "7203",
       "label": "4",
+      "text": "After obtaining permission from the appropriate authority, look at and study a place of worship, school grounds, or a public building and identify where most people arrive by bus or car. Then do the following:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -135,6 +175,11 @@
         {
           "id": "7204",
           "label": "a",
+          "text": "Using a measuring tape, measure and draw the main site entry and its nearby area. Define the scale of your drawing. Be sure to include the driveway and sidewalk or path that leads to the building's main entry. Indicate any sidewalks, structures, trees and plants, lights, drains, utilities, or other site furnishings within the study area. Make two copies of this plan and save the original, then do 4(b) and 4(c) using the copies.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -152,6 +197,11 @@
         {
           "id": "7205",
           "label": "b",
+          "text": "On one copy of your site plan, use directional arrows to indicate where the water drains across the site, where ditches occur, and where water stands for a longer period of time.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -164,6 +214,11 @@
         {
           "id": "7206",
           "label": "c",
+          "text": "Decide how you can make the place safer and more comfortable for those using it. Redesign the area on another copy of the plan. You may want to include new walks, covered waiting areas, benches, space-defining plantings of trees and shrubs, and drainage structures.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -178,6 +233,11 @@
     {
       "id": "7209",
       "label": "5",
+      "text": "Identify three career opportunities that would use skills and knowledge in landscape architecture. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

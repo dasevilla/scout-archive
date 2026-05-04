@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Explain that choices have consequences.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Explain that choices have consequences.",
       "activities": [
         {
           "name": "Catch a Lion by the Tic-Tac-Toe",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Perform a Good Turn for another person.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Perform a Good Turn for another person.",
       "activities": [
         {
           "name": "Lion Helping At Home",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Learn the basic rules of a game and play the game.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn the basic rules of a game and play the game.",
       "activities": [
         {
           "name": "Guess What I Am",

@@ -14,6 +14,11 @@
     {
       "id": "14367",
       "label": "1",
+      "text": "Explain the need for bird study and why birds are useful indicators of the quality of the environment. Describe how birds are part of the ecosystem.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -35,6 +40,11 @@
     {
       "id": "14320",
       "label": "2",
+      "text": "Show that you are familiar with the terms used to describe birds by doing the following:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -46,6 +56,11 @@
         {
           "id": "14321",
           "label": "a",
+          "text": "Sketch or trace a perched bird and then label 15 different parts of the bird.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +78,11 @@
         {
           "id": "14322",
           "label": "b",
+          "text": "Sketch or trace an extended wing and label six types of wing feathers.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -86,6 +106,11 @@
     {
       "id": "14323",
       "label": "3",
+      "text": "Demonstrate that you know how to properly use and care for binoculars, a spotting scope, or a monocular.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -97,6 +122,11 @@
         {
           "id": "14324",
           "label": "a",
+          "text": "Explain what the specification numbers mean on binoculars, a spotting scope, or a monocular.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -114,6 +144,11 @@
         {
           "id": "14325",
           "label": "b",
+          "text": "Show how to adjust the eyepiece and how to focus for proper viewing.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +170,11 @@
         {
           "id": "14326",
           "label": "c",
+          "text": "Show how to properly care for and clean the lenses.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -152,6 +192,11 @@
         {
           "id": "14327",
           "label": "d",
+          "text": "Describe when and where each type of viewing device would be most effective.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -171,6 +216,11 @@
     {
       "id": "14328",
       "label": "4",
+      "text": "Demonstrate that you know how to use a bird field guide. Show your counselor that you are able to understand a range map by locating in the book and pointing out the wintering range, the breeding range, and/or the year-round range of one species of each of the following types of birds:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -191,6 +241,11 @@
         {
           "id": "14329",
           "label": "a",
+          "text": "Seabird",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -203,6 +258,11 @@
         {
           "id": "14330",
           "label": "b",
+          "text": "Plover",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -215,6 +275,11 @@
         {
           "id": "14331",
           "label": "c",
+          "text": "Falcon or hawk",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -227,6 +292,11 @@
         {
           "id": "14332",
           "label": "d",
+          "text": "Warbler or vireo",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -239,6 +309,11 @@
         {
           "id": "14333",
           "label": "e",
+          "text": "Heron or egret",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -251,6 +326,11 @@
         {
           "id": "14334",
           "label": "f",
+          "text": "Sparrow",
+          "requirement_path": "4.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -265,6 +345,11 @@
     {
       "id": "14335",
       "label": "5",
+      "text": "Observe and be able to identify 20 species of wild birds. Prepare a field notebook, making a separate entry for each species, and record the following information from your field observations and other references.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -281,6 +366,11 @@
         {
           "id": "14336",
           "label": "a",
+          "text": "Note the date and time.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -293,6 +383,11 @@
         {
           "id": "14337",
           "label": "b",
+          "text": "Note the location and habitat.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -305,6 +400,11 @@
         {
           "id": "14338",
           "label": "c",
+          "text": "Describe the bird's main feeding habitat and list two types of food that the bird is likely to eat.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -317,6 +417,11 @@
         {
           "id": "14339",
           "label": "d",
+          "text": "Note whether the bird is a migrant or a summer, winter, or year-round resident of your area.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -331,6 +436,11 @@
     {
       "id": "14340",
       "label": "6",
+      "text": "Describe to your counselor how certain orders of birds are uniquely adapted to a specific habitat. In your description, include characteristics such as the size and shape of the following:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -342,6 +452,11 @@
         {
           "id": "14341",
           "label": "a",
+          "text": "Beak",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -363,6 +478,11 @@
         {
           "id": "14342",
           "label": "b",
+          "text": "Body",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -384,6 +504,11 @@
         {
           "id": "14343",
           "label": "c",
+          "text": "Leg and foot",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -401,6 +526,11 @@
         {
           "id": "14344",
           "label": "d",
+          "text": "Feathers/plumage.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -428,6 +558,11 @@
     {
       "id": "14370",
       "label": "7",
+      "text": "Explain the function of a bird's song. Be able to identify five of the 20 species in your field notebook by song or call alone. Explain the difference between songs and calls. For each of these five species, enter a description of the song or call, and note the behavior of the bird making the sound. Note why you think the bird was making the call or song that you heard.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -449,6 +584,11 @@
     {
       "id": "14345",
       "label": "8",
+      "text": "Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -460,6 +600,11 @@
         {
           "id": "14346",
           "label": "a",
+          "text": "Go on a field trip with a local club or with others who are knowledgeable about birds in your area.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -472,6 +617,11 @@
         {
           "id": "14347",
           "label": "1",
+          "text": "Keep a list or fill out a checklist of all the birds your group observed during the field trip.",
+          "requirement_path": "8.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -484,6 +634,11 @@
         {
           "id": "14348",
           "label": "2",
+          "text": "Tell your counselor which birds your group saw and why some species were common and some were present in small numbers.",
+          "requirement_path": "8.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -496,6 +651,11 @@
         {
           "id": "14349",
           "label": "3",
+          "text": "Tell your counselor what makes the area you visited good for finding birds.",
+          "requirement_path": "8.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -508,6 +668,11 @@
         {
           "id": "14350",
           "label": "b",
+          "text": "By using a public library, the internet, or contacting the National Audubon Society, find the name and location of the Christmas Bird Count nearest your home and obtain the results of a recent count.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -529,6 +694,11 @@
         {
           "id": "14351",
           "label": "1",
+          "text": "Explain what kinds of information are collected during the annual event.",
+          "requirement_path": "8.1-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -541,6 +711,11 @@
         {
           "id": "14352",
           "label": "2",
+          "text": "Tell your counselor which species are most common, and explain why these birds are abundant.",
+          "requirement_path": "8.2-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -553,6 +728,11 @@
         {
           "id": "14353",
           "label": "3",
+          "text": "Tell your counselor which species are uncommon, and explain why these were present in small numbers. If the number of birds of these species is decreasing, explain why, and what, if anything, could be done to reverse their decline.",
+          "requirement_path": "8.3-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -565,6 +745,11 @@
         {
           "id": "14354",
           "label": "c",
+          "text": "Participate in a bird banding program with an approved federal or state agency, university researcher, bird observatory, or certified private individual.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -582,6 +767,11 @@
         {
           "id": "14355",
           "label": "1",
+          "text": "Explain who is able to band birds and why.",
+          "requirement_path": "8.1-3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -594,6 +784,11 @@
         {
           "id": "14356",
           "label": "2",
+          "text": "Explain why birds get banded.",
+          "requirement_path": "8.2-3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -606,6 +801,11 @@
         {
           "id": "14357",
           "label": "3",
+          "text": "Explain what kinds of birds get banded.",
+          "requirement_path": "8.3-3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -618,6 +818,11 @@
         {
           "id": "14358",
           "label": "4",
+          "text": "Tell how the birds were captured, the number of bird species recorded during your visit, and your role in the program.",
+          "requirement_path": "8.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -632,6 +837,11 @@
     {
       "id": "14359",
       "label": "9",
+      "text": "Do ONE of the following. For the item you choose, describe what birds you hope to attract, and why. Describe the necessary maintenance required with the item that you choose.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -643,6 +853,11 @@
         {
           "id": "14360",
           "label": "a",
+          "text": "Build a bird feeder and put it in an appropriate place in your yard or another location.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -664,6 +879,11 @@
         {
           "id": "14361",
           "label": "b",
+          "text": "Build a birdbath and put it in an appropriate place.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -685,6 +905,11 @@
         {
           "id": "14362",
           "label": "c",
+          "text": "Build a backyard sanctuary for birds by planting trees and shrubs for food and cover.",
+          "requirement_path": "9.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -710,6 +935,11 @@
         {
           "id": "14363",
           "label": "d",
+          "text": "Build a nest box for a species of your choice using plans approved by your counselor.",
+          "requirement_path": "9.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -731,6 +961,11 @@
         {
           "id": "14371",
           "label": "e",
+          "text": "Describe the elements of a backyard bird habitat for a given area and draw a plan for one, including lists of birds you hope to attract, appropriate plantings for food, cover, and nesting.",
+          "requirement_path": "9.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -750,6 +985,11 @@
     {
       "id": "14364",
       "label": "10",
+      "text": "Do the following:",
+      "requirement_path": "10",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -761,6 +1001,11 @@
         {
           "id": "14365",
           "label": "a",
+          "text": "Explain the differences between extinct, endangered, and threatened.",
+          "requirement_path": "10.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -778,6 +1023,11 @@
         {
           "id": "14366",
           "label": "b",
+          "text": "Identify a bird species that is on the endangered or threatened list. Explain what caused their decline. Discuss with your counselor what can be done to reverse this trend and what can be done to help remove the species from the endangered or threatened list.",
+          "requirement_path": "10.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -795,6 +1045,11 @@
         {
           "id": "14372",
           "label": "c",
+          "text": "Explain how we can address birds that are in decline before they get to an endangered or threatened list. List how we can protect habitat. Identify threats that migratory birds face and how to protect food supply for birds.",
+          "requirement_path": "10.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -814,6 +1069,11 @@
     {
       "id": "14368",
       "label": "11",
+      "text": "Identify a non-native bird (introduced to North America from a foreign country since 1800). Describe how non-native birds may become damaging to the ecosystem.",
+      "requirement_path": "11",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -835,6 +1095,11 @@
     {
       "id": "14369",
       "label": "12",
+      "text": "Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code as they relate to bird study. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code while in natural areas during field observation, specimen collection, and identification.",
+      "requirement_path": "12",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -856,6 +1121,11 @@
     {
       "id": "14373",
       "label": "13",
+      "text": "Do ONE of the following:",
+      "requirement_path": "13",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -867,6 +1137,11 @@
         {
           "id": "14374",
           "label": "a",
+          "text": "Identify three career opportunities that would use skills and knowledge in Bird Study. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "13.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -888,6 +1163,11 @@
         {
           "id": "14375",
           "label": "b",
+          "text": "Identify how you might use the skills and knowledge in Bird Study to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "13.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Play a dinosaur game that shows what you know about them.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Play a dinosaur game that shows what you know about them.",
       "activities": [
         {
           "name": "Dino Detective",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Create an imaginary dinosaur. Share with your den or family its name, what it eats, its size, and where it lives.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Create an imaginary dinosaur. Share with your den or family its name, what it eats, its size, and where it lives.",
       "activities": [
         {
           "name": "Dino Clay Creations",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Be a paleontologist and dig through a dinosaur dig.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Be a paleontologist and dig through a dinosaur dig.",
       "activities": [
         {
           "name": "Dino Dig",

@@ -14,6 +14,11 @@
     {
       "id": "15456",
       "label": "1",
+      "text": "Radio Safety. Explain the safety precautions for working with radio gear, including:",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "15457",
           "label": "a",
+          "text": "Grounding for direct and alternating current circuits, power outlets, antennas, and lightning.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -48,6 +58,11 @@
         {
           "id": "15458",
           "label": "b",
+          "text": "Preventing and treating electrical burns",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -60,6 +75,11 @@
         {
           "id": "15459",
           "label": "c",
+          "text": "Preventing lithium-ion battery fires in cell phones and other devices.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -74,6 +94,11 @@
     {
       "id": "15461",
       "label": "2",
+      "text": "Radio Fundamentals. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -96,6 +121,11 @@
         {
           "id": "15462",
           "label": "a",
+          "text": "Do the following:",
+          "requirement_path": "2.a",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",
@@ -103,47 +133,68 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15532",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Draw a chart of the electromagnetic spectrum covering 300 kilohertz (kHz) to 3,000 Megahertz (MHz)."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15533",
-          "label": "2",
-          "content": [
+              "id": "15532",
+              "label": "1",
+              "text": "Draw a chart of the electromagnetic spectrum covering 300 kilohertz (kHz) to 3,000 Megahertz (MHz).",
+              "requirement_path": "2.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Draw a chart of the electromagnetic spectrum covering 300 kilohertz (kHz) to 3,000 Megahertz (MHz)."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Label the MF, HF, VHF, UHF, and microwave portions of the spectrum on your diagram."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15534",
-          "label": "3",
-          "content": [
+              "id": "15533",
+              "label": "2",
+              "text": "Label the MF, HF, VHF, UHF, and microwave portions of the spectrum on your diagram.",
+              "requirement_path": "2.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Label the MF, HF, VHF, UHF, and microwave portions of the spectrum on your diagram."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Locate on your chart at least eight radio services, such as AM and FM commercial broadcast, citizens band (CB), television, amateur radio (at least four amateur radio bands), public service (police and fire), cellular, Wi-Fi, and Bluetooth."
+              "id": "15534",
+              "label": "3",
+              "text": "Locate on your chart at least eight radio services, such as AM and FM commercial broadcast, citizens band (CB), television, amateur radio (at least four amateur radio bands), public service (police and fire), cellular, Wi-Fi, and Bluetooth.",
+              "requirement_path": "2.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Locate on your chart at least eight radio services, such as AM and FM commercial broadcast, citizens band (CB), television, amateur radio (at least four amateur radio bands), public service (police and fire), cellular, Wi-Fi, and Bluetooth."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15464",
           "label": "b",
+          "text": "Discuss the following topics with your counselor:",
+          "requirement_path": "2.b",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",
@@ -151,49 +202,70 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15506",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "The definition of radio"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15507",
-          "label": "2",
-          "content": [
+              "id": "15506",
+              "label": "1",
+              "text": "The definition of radio",
+              "requirement_path": "2.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The definition of radio"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "The differences between broadcast radio and two-way radio"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15508",
-          "label": "3",
-          "content": [
+              "id": "15507",
+              "label": "2",
+              "text": "The differences between broadcast radio and two-way radio",
+              "requirement_path": "2.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The differences between broadcast radio and two-way radio"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "The differences between commercial broadcast radio and hobby radio"
+              "id": "15508",
+              "label": "3",
+              "text": "The differences between commercial broadcast radio and hobby radio",
+              "requirement_path": "2.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The differences between commercial broadcast radio and hobby radio"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "15466",
       "label": "3",
+      "text": "How Radio Waves Travel. Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -216,6 +288,11 @@
         {
           "id": "15467",
           "label": "a",
+          "text": "Sketch a diagram showing how different radio wavelengths can travel locally or around the world.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -228,6 +305,11 @@
         {
           "id": "15468",
           "label": "b",
+          "text": "Explain how the radio stations WWV and WWVH can be used to help determine what you can expect to hear when you listen to a shortwave radio.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -240,6 +322,11 @@
         {
           "id": "15469",
           "label": "c",
+          "text": "Explain the difference between a distant (DX) and a local station.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -254,6 +341,11 @@
     {
       "id": "15502",
       "label": "4",
+      "text": "Information by Radio. Discuss the following with your counselor:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -276,6 +368,11 @@
         {
           "id": "15535",
           "label": "a",
+          "text": "How radio waves carry information using continuous wave (CW) Morse Code transmission, amplitude modulation (AM), frequency modulation (FM), single sideband (SSB) transmission, and frequency hopping.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -288,6 +385,11 @@
         {
           "id": "15536",
           "label": "b",
+          "text": "How digitized radio standards including Bluetooth, Wi-Fi, and 5G can offer more reliable data transmission and reception than analog standards.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -300,6 +402,11 @@
         {
           "id": "15537",
           "label": "c",
+          "text": "How the effective range varies for different methods of information encoding.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -312,6 +419,11 @@
         {
           "id": "15538",
           "label": "d",
+          "text": "How the maximum data rate from a Wi-Fi radio system compares to a hard-wired or fiber-optic system.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -326,6 +438,11 @@
     {
       "id": "15470",
       "label": "5",
+      "text": "Radio Hardware and Services. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -348,6 +465,11 @@
         {
           "id": "15471",
           "label": "a",
+          "text": "Explain the differences between a block diagram and a schematic diagram.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -360,6 +482,11 @@
         {
           "id": "15472",
           "label": "b",
+          "text": "Draw a block diagram for a radio station that shows a microphone, speaker, transceiver, transmitter, receiver, amplifier, feedline, and antenna and discuss the function of these components.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -372,6 +499,11 @@
         {
           "id": "15473",
           "label": "c",
+          "text": "List consumer devices and services that use analog or digital radio communications.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -384,6 +516,11 @@
         {
           "id": "15474",
           "label": "d",
+          "text": "Explain how NOAA Weather Radio (NWR) can alert you to danger.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -396,6 +533,11 @@
         {
           "id": "15475",
           "label": "e",
+          "text": "Explain how RFID works and what are some of its uses in everyday life.",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -410,6 +552,11 @@
     {
       "id": "15503",
       "label": "6",
+      "text": "Radio Regulation. Discuss the following with your counselor:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -432,6 +579,11 @@
         {
           "id": "15539",
           "label": "a",
+          "text": "What the Federal Communications Commission (FCC) does and how it is different from the International Telecommunication Union (ITU).",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -444,6 +596,11 @@
         {
           "id": "15540",
           "label": "b",
+          "text": "How radio station call signs are used in broadcast radio and amateur radio.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -456,6 +613,11 @@
         {
           "id": "15541",
           "label": "c",
+          "text": "How the phonetic alphabet is used to communicate clearly.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -470,6 +632,11 @@
     {
       "id": "15504",
       "label": "7",
+      "text": "Cell Phones Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -492,6 +659,11 @@
         {
           "id": "15542",
           "label": "a",
+          "text": "Explain how cellular systems differ from broadcast and hobby radio.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -504,6 +676,11 @@
         {
           "id": "15543",
           "label": "b",
+          "text": "Explain what Airplane Mode is and why it is important.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -516,6 +693,11 @@
         {
           "id": "15544",
           "label": "c",
+          "text": "Explain how cell phones keep the correct time and show locations and elevations.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -528,6 +710,11 @@
         {
           "id": "15545",
           "label": "d",
+          "text": "Explain the benefits and limitations of cell phones in emergencies.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -540,6 +727,11 @@
         {
           "id": "15546",
           "label": "e",
+          "text": "Explain wireless charging for cell phones and other devices.",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -554,6 +746,11 @@
     {
       "id": "15476",
       "label": "8",
+      "text": "Amateur and Professional Radio. Do ONE of the following options:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -576,6 +773,11 @@
         {
           "id": "15477",
           "label": null,
+          "text": "Option A—Amateur Radio. Do ALL of the following:",
+          "requirement_path": "8.option-a",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -594,104 +796,140 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15478",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Tell why the FCC has an amateur radio service. Describe activities that amateur radio operators can do on the air, once they have earned an amateur radio license."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15479",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain differences between the Technician, General, and Extra Class license requirements and privileges. Explain who administers amateur radio exams."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15480",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain at least five Q signals or amateur radio terms."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15481",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain how you would make an emergency call on voice or Morse code."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15482",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain the differences between handheld, mobile, and base station transceivers and their uses. Explain the use of amateur radio repeaters."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15483",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "Using proper call signs, Q signals, and abbreviations, carry on a 10-minute real or simulated amateur radio contact using voice, Morse code, or digital mode. Properly log the real or simulated amateur radio contact, and record the signal report. "
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "element",
-              "tag": "b",
-              "attrs": {},
-              "children": [
+              "id": "15478",
+              "label": "1",
+              "text": "Tell why the FCC has an amateur radio service. Describe activities that amateur radio operators can do on the air, once they have earned an amateur radio license.",
+              "requirement_path": "8.option-a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
                 {
                   "type": "text",
-                  "value": "Note:"
+                  "value": "Tell why the FCC has an amateur radio service. Describe activities that amateur radio operators can do on the air, once they have earned an amateur radio license."
                 }
-              ]
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " Licensed amateur radio operators may substitute five QSL cards as evidence of contacts with five amateur radio operators."
+              "id": "15479",
+              "label": "2",
+              "text": "Explain differences between the Technician, General, and Extra Class license requirements and privileges. Explain who administers amateur radio exams.",
+              "requirement_path": "8.option-a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain differences between the Technician, General, and Extra Class license requirements and privileges. Explain who administers amateur radio exams."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "15480",
+              "label": "3",
+              "text": "Explain at least five Q signals or amateur radio terms.",
+              "requirement_path": "8.option-a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain at least five Q signals or amateur radio terms."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "15481",
+              "label": "4",
+              "text": "Explain how you would make an emergency call on voice or Morse code.",
+              "requirement_path": "8.option-a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain how you would make an emergency call on voice or Morse code."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "15482",
+              "label": "5",
+              "text": "Explain the differences between handheld, mobile, and base station transceivers and their uses. Explain the use of amateur radio repeaters.",
+              "requirement_path": "8.option-a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the differences between handheld, mobile, and base station transceivers and their uses. Explain the use of amateur radio repeaters."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "15483",
+              "label": "6",
+              "text": "Using proper call signs, Q signals, and abbreviations, carry on a 10-minute real or simulated amateur radio contact using voice, Morse code, or digital mode. Properly log the real or simulated amateur radio contact, and record the signal report.\nNote: Licensed amateur radio operators may substitute five QSL cards as evidence of contacts with five amateur radio operators.",
+              "requirement_path": "8.option-a.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Using proper call signs, Q signals, and abbreviations, carry on a 10-minute real or simulated amateur radio contact using voice, Morse code, or digital mode. Properly log the real or simulated amateur radio contact, and record the signal report. "
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "type": "element",
+                  "tag": "b",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Note:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Licensed amateur radio operators may substitute five QSL cards as evidence of contacts with five amateur radio operators."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15484",
           "label": null,
+          "text": "Option B—Radio Broadcasting. Do ALL of the following:",
+          "requirement_path": "8.option-b",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -710,71 +948,102 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15485",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Discuss with your counselor FCC broadcast regulations. Include power levels, frequencies, and the regulations for low-power stations."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15486",
-          "label": "2",
-          "content": [
+              "id": "15485",
+              "label": "1",
+              "text": "Discuss with your counselor FCC broadcast regulations. Include power levels, frequencies, and the regulations for low-power stations.",
+              "requirement_path": "8.option-b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss with your counselor FCC broadcast regulations. Include power levels, frequencies, and the regulations for low-power stations."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Prepare a program schedule for radio station \"KBSA\" of exactly one-half hour, including music, news, commercials, and proper station identification. Record your program on audiotape or in a digital audio format, using proper techniques."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15487",
-          "label": "3",
-          "content": [
+              "id": "15486",
+              "label": "2",
+              "text": "Prepare a program schedule for radio station \"KBSA\" of exactly one-half hour, including music, news, commercials, and proper station identification. Record your program on audiotape or in a digital audio format, using proper techniques.",
+              "requirement_path": "8.option-b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Prepare a program schedule for radio station \"KBSA\" of exactly one-half hour, including music, news, commercials, and proper station identification. Record your program on audiotape or in a digital audio format, using proper techniques."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Listen to and properly log 15 broadcast stations. Determine the program format and target audience for five of these stations."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15488",
-          "label": "4",
-          "content": [
+              "id": "15487",
+              "label": "3",
+              "text": "Listen to and properly log 15 broadcast stations. Determine the program format and target audience for five of these stations.",
+              "requirement_path": "8.option-b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Listen to and properly log 15 broadcast stations. Determine the program format and target audience for five of these stations."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Explain to your counselor at least eight terms used in commercial broadcasting, such as segue, cut, fade, continuity, remote, Emergency Alert System, network, cue, dead air, PSA, and playlist."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15489",
-          "label": "5",
-          "content": [
+              "id": "15488",
+              "label": "4",
+              "text": "Explain to your counselor at least eight terms used in commercial broadcasting, such as segue, cut, fade, continuity, remote, Emergency Alert System, network, cue, dead air, PSA, and playlist.",
+              "requirement_path": "8.option-b.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain to your counselor at least eight terms used in commercial broadcasting, such as segue, cut, fade, continuity, remote, Emergency Alert System, network, cue, dead air, PSA, and playlist."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Discuss with your counselor alternative radio platforms such as internet streaming, satellite radio, and podcasts."
+              "id": "15489",
+              "label": "5",
+              "text": "Discuss with your counselor alternative radio platforms such as internet streaming, satellite radio, and podcasts.",
+              "requirement_path": "8.option-b.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss with your counselor alternative radio platforms such as internet streaming, satellite radio, and podcasts."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15490",
           "label": null,
+          "text": "Option C—Shortwave and Medium-Wave Listening. Do ALL of the following:",
+          "requirement_path": "8.option-c",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -793,71 +1062,102 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15491",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Listen across several shortwave bands for four one-hour periods-at least one period during daylight hours and at least one period at night. Log the stations properly and locate them geographically on a map, globe, or web-based mapping service."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15492",
-          "label": "2",
-          "content": [
+              "id": "15491",
+              "label": "1",
+              "text": "Listen across several shortwave bands for four one-hour periods-at least one period during daylight hours and at least one period at night. Log the stations properly and locate them geographically on a map, globe, or web-based mapping service.",
+              "requirement_path": "8.option-c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Listen across several shortwave bands for four one-hour periods-at least one period during daylight hours and at least one period at night. Log the stations properly and locate them geographically on a map, globe, or web-based mapping service."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Listen to several medium-wave stations for two one-hour periods, one period during daylight hours and one period at night. Log the stations properly and locate them on a map, globe, or web-based mapping service."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15493",
-          "label": "3",
-          "content": [
+              "id": "15492",
+              "label": "2",
+              "text": "Listen to several medium-wave stations for two one-hour periods, one period during daylight hours and one period at night. Log the stations properly and locate them on a map, globe, or web-based mapping service.",
+              "requirement_path": "8.option-c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Listen to several medium-wave stations for two one-hour periods, one period during daylight hours and one period at night. Log the stations properly and locate them on a map, globe, or web-based mapping service."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Compare your daytime and nighttime logs; note the frequencies on which your selected stations were loudest during each session. Explain differences in the signal strength from one period to the next."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15494",
-          "label": "4",
-          "content": [
+              "id": "15493",
+              "label": "3",
+              "text": "Compare your daytime and nighttime logs; note the frequencies on which your selected stations were loudest during each session. Explain differences in the signal strength from one period to the next.",
+              "requirement_path": "8.option-c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Compare your daytime and nighttime logs; note the frequencies on which your selected stations were loudest during each session. Explain differences in the signal strength from one period to the next."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Compare your medium-wave broadcast station logs and explain why some distant stations are heard at your location only during the night."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15495",
-          "label": "5",
-          "content": [
+              "id": "15494",
+              "label": "4",
+              "text": "Compare your medium-wave broadcast station logs and explain why some distant stations are heard at your location only during the night.",
+              "requirement_path": "8.option-c.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Compare your medium-wave broadcast station logs and explain why some distant stations are heard at your location only during the night."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Demonstrate listening to a radio broadcast using a smartphone/cell phone. Include international broadcasts in your demonstration."
+              "id": "15495",
+              "label": "5",
+              "text": "Demonstrate listening to a radio broadcast using a smartphone/cell phone. Include international broadcasts in your demonstration.",
+              "requirement_path": "8.option-c.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate listening to a radio broadcast using a smartphone/cell phone. Include international broadcasts in your demonstration."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15496",
           "label": null,
+          "text": "Option D—Amateur Radio Direction Finding. Do ALL of the following:",
+          "requirement_path": "8.option-d",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -876,71 +1176,102 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15497",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Describe amateur radio direction finding and explain why direction finding is important as both an activity and in competition."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15498",
-          "label": "2",
-          "content": [
+              "id": "15497",
+              "label": "1",
+              "text": "Describe amateur radio direction finding and explain why direction finding is important as both an activity and in competition.",
+              "requirement_path": "8.option-d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Describe amateur radio direction finding and explain why direction finding is important as both an activity and in competition."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Describe what frequencies and equipment are used for ARDF or fox hunting."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15499",
-          "label": "3",
-          "content": [
+              "id": "15498",
+              "label": "2",
+              "text": "Describe what frequencies and equipment are used for ARDF or fox hunting.",
+              "requirement_path": "8.option-d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Describe what frequencies and equipment are used for ARDF or fox hunting."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Build a simple directional antenna for either of the two frequencies used in ARDF."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15500",
-          "label": "4",
-          "content": [
+              "id": "15499",
+              "label": "3",
+              "text": "Build a simple directional antenna for either of the two frequencies used in ARDF.",
+              "requirement_path": "8.option-d.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Build a simple directional antenna for either of the two frequencies used in ARDF."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Participate in a simple fox hunt using your antenna along with a provided receiver."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15501",
-          "label": "5",
-          "content": [
+              "id": "15500",
+              "label": "4",
+              "text": "Participate in a simple fox hunt using your antenna along with a provided receiver.",
+              "requirement_path": "8.option-d.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Participate in a simple fox hunt using your antenna along with a provided receiver."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Show, on a map, how you located the \"fox\" using your receiver."
+              "id": "15501",
+              "label": "5",
+              "text": "Show, on a map, how you located the \"fox\" using your receiver.",
+              "requirement_path": "8.option-d.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Show, on a map, how you located the \"fox\" using your receiver."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15547",
           "label": null,
+          "text": "Option E—Family Radio Service (FRS) & General Mobile Radio Service (GMRS) Walkie Talkies. Do ALL of the following:",
+          "requirement_path": "8.option-e",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "element",
@@ -959,133 +1290,190 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15548",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Explain what the Family Radio Service (FRS) and General Mobile Radio Service (GMRS) are and how they are different from each other, from other commercial two-way radios, and from Citizens Band (CB) & Amateur Radio (HAM)."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15549",
-          "label": "2",
-          "content": [
+              "id": "15548",
+              "label": "1",
+              "text": "Explain what the Family Radio Service (FRS) and General Mobile Radio Service (GMRS) are and how they are different from each other, from other commercial two-way radios, and from Citizens Band (CB) & Amateur Radio (HAM).",
+              "requirement_path": "8.option-e.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain what the Family Radio Service (FRS) and General Mobile Radio Service (GMRS) are and how they are different from each other, from other commercial two-way radios, and from Citizens Band (CB) & Amateur Radio (HAM)."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Explain each of the following for using a FRS radio or GMRS walkie talkie:"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15550",
-          "label": "a",
-          "content": [
+              "id": "15549",
+              "label": "2",
+              "text": "Explain each of the following for using a FRS radio or GMRS walkie talkie:",
+              "requirement_path": "8.option-e.2",
+              "node_kind": "action_requirement",
+              "is_container": true,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain each of the following for using a FRS radio or GMRS walkie talkie:"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "15550",
+                  "label": "a",
+                  "text": "Is any type of license needed to use these radios? If so: what kind?",
+                  "requirement_path": "8.option-e.2.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Is any type of license needed to use these radios? If so: what kind?"
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15551",
+                  "label": "b",
+                  "text": "What radio frequencies are used and how is information encoded?",
+                  "requirement_path": "8.option-e.2.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "What radio frequencies are used and how is information encoded?"
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15552",
+                  "label": "c",
+                  "text": "How much power can be used when transmitting?",
+                  "requirement_path": "8.option-e.2.c",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "How much power can be used when transmitting?"
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15553",
+                  "label": "d",
+                  "text": "What type of antenna can be used?",
+                  "requirement_path": "8.option-e.2.d",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "What type of antenna can be used?"
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15554",
+                  "label": "e",
+                  "text": "What is the effective range and what limits it?",
+                  "requirement_path": "8.option-e.2.e",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "What is the effective range and what limits it?"
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15555",
+                  "label": "f",
+                  "text": "What are common everyday uses for these radios?",
+                  "requirement_path": "8.option-e.2.f",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "What are common everyday uses for these radios?"
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15556",
+                  "label": "g",
+                  "text": "How can these radios be useful in an emergency?",
+                  "requirement_path": "8.option-e.2.g",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "How can these radios be useful in an emergency?"
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                }
+              ]
+            },
             {
-              "type": "text",
-              "value": "Is any type of license needed to use these radios? If so: what kind?"
+              "id": "15557",
+              "label": "3",
+              "text": "Use the FRS radios or GMRS walkie talkies with family, friends, or Scouts on a hike, at an event, or in a team game. Discuss what you learned with your counselor.",
+              "requirement_path": "8.option-e.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Use the FRS radios or GMRS walkie talkies with family, friends, or Scouts on a hike, at an event, or in a team game. Discuss what you learned with your counselor."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15551",
-          "label": "b",
-          "content": [
-            {
-              "type": "text",
-              "value": "What radio frequencies are used and how is information encoded?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15552",
-          "label": "c",
-          "content": [
-            {
-              "type": "text",
-              "value": "How much power can be used when transmitting?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15553",
-          "label": "d",
-          "content": [
-            {
-              "type": "text",
-              "value": "What type of antenna can be used?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15554",
-          "label": "e",
-          "content": [
-            {
-              "type": "text",
-              "value": "What is the effective range and what limits it?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15555",
-          "label": "f",
-          "content": [
-            {
-              "type": "text",
-              "value": "What are common everyday uses for these radios?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15556",
-          "label": "g",
-          "content": [
-            {
-              "type": "text",
-              "value": "How can these radios be useful in an emergency?"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15557",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Use the FRS radios or GMRS walkie talkies with family, friends, or Scouts on a hike, at an event, or in a team game. Discuss what you learned with your counselor."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
     {
       "id": "15558",
       "label": "9",
+      "text": "Careers. Do ONE of the following.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -1108,6 +1496,11 @@
         {
           "id": "15559",
           "label": "a",
+          "text": "Explore careers related to radio. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and advancement. With permission of your parent or guardian, your research methods may include an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work or train. Discuss your findings and career interest with your counselor.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1120,6 +1513,11 @@
         {
           "id": "15560",
           "label": "b",
+          "text": "Explore how you could use radio knowledge and skills to develop a hobby or to serve as a volunteer. If possible, with permission of your parent or guardian, interview a radio hobbyist or volunteer. Research training and licensing needed, expenses, and organizations that promote or support your objectives. Discuss with your counselor what short-term and long-term goals you might have if you pursue this.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

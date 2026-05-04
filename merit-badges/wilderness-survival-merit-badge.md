@@ -71,21 +71,21 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 
 - (5) **Shelter.** Do the following:
   - (a) Describe the steps you would take to survive in the following exposure conditions:
-  - (1) Cold and snowy
+    - (1) Cold and snowy
 
-    **Resources:** [Cold Weather Survival Skills (video)](https://youtu.be/EsoobhiExJY), [Winter Survival Skills (website)](https://www.wildwoodsurvival.com/survival/winter/index.html)
-  - (2) Wet
+      **Resources:** [Cold Weather Survival Skills (video)](https://youtu.be/EsoobhiExJY), [Winter Survival Skills (website)](https://www.wildwoodsurvival.com/survival/winter/index.html)
+    - (2) Wet
 
-    **Resources:** [Building Fire in the Rain (video)](https://youtu.be/MmHkiHeoI3U?si=Q306ujTfQ3V2QHP4), [Staying Warm and Dry in Wind and Rain (video)](https://youtu.be/t9NLAIxlWgE?si=prPrtr-kxSBLOsOH), [Camping in the Rain (video)](https://www.youtube.com/watch?v=jzTHvpgHqCo)
-  - (3) Hot and dry
+      **Resources:** [Building Fire in the Rain (video)](https://youtu.be/MmHkiHeoI3U?si=Q306ujTfQ3V2QHP4), [Staying Warm and Dry in Wind and Rain (video)](https://youtu.be/t9NLAIxlWgE?si=prPrtr-kxSBLOsOH), [Camping in the Rain (video)](https://www.youtube.com/watch?v=jzTHvpgHqCo)
+    - (3) Hot and dry
 
-    **Resources:** [10 Desert Survival Tips (video)](https://www.youtube.com/watch?v=lIHczx_QlH8)
-  - (4) Windy
+      **Resources:** [10 Desert Survival Tips (video)](https://www.youtube.com/watch?v=lIHczx_QlH8)
+    - (4) Windy
 
-    **Resources:** [Danger of Wind Chill (video)](https://youtu.be/f4VC0fNMaQc?si=HyjdNU_CeDcZfjSS), [Wind Chill Safety: 5 Tips to Prevent Frostbite (video)](https://youtu.be/Syqj_hZLMlA?si=m-n-6rHoP4fauLIR)
-  - (5) At or on the water
+      **Resources:** [Danger of Wind Chill (video)](https://youtu.be/f4VC0fNMaQc?si=HyjdNU_CeDcZfjSS), [Wind Chill Safety: 5 Tips to Prevent Frostbite (video)](https://youtu.be/Syqj_hZLMlA?si=m-n-6rHoP4fauLIR)
+    - (5) At or on the water
 
-    **Resources:** [What to do if Your Boat Capsizes (website)](https://www.boat-ed.com/indiana/studyGuide/Ending-Up-in-the-Water-Unexpectedly/10101602_35417/)
+      **Resources:** [What to do if Your Boat Capsizes (website)](https://www.boat-ed.com/indiana/studyGuide/Ending-Up-in-the-Water-Unexpectedly/10101602_35417/)
   - (b) Show that you know the proper clothing to wear while in the outdoors during extremely hot and cold weather and during wet conditions.
 
     **Resources:** [Packing Lists for Hot and Cold Weather Camping (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/)

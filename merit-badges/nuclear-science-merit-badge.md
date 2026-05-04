@@ -41,8 +41,9 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
   - (b) Do ONE of the following:
 
     **Resources:** [Lawrence Berkeley National Laboratory Nuclear Science Division (video)](https://youtu.be/N3i6CgUHSoc?si=tXJzA1pfqwIYRlXE), [Inside the World's Largest Science Experiment (video)](https://youtu.be/nrXhK3Gh5EE?si=kH7N_aBRmhyZOkpJ)
-  - (1) Visit an accelerator, research lab, or university and discuss with a scientist how they study the properties of the nucleus or nucleons.
-  - (2) List three particle accelerators and describe several experiments conducted and their associated basic science and practical applications.
+
+    - (1) Visit an accelerator, research lab, or university and discuss with a scientist how they study the properties of the nucleus or nucleons.
+    - (2) List three particle accelerators and describe several experiments conducted and their associated basic science and practical applications.
 
 - (4) **Classic Experiments.** Do TWO of the following:
 

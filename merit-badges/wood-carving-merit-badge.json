@@ -14,6 +14,11 @@
     {
       "id": "5967",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "5968",
           "label": "a",
+          "text": "Explain to your counselor the hazards you are most likely to encounter while wood carving, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "5969",
           "label": "b",
+          "text": "Show that you know first aid for injuries that could occur while wood carving, including minor cuts and scratches and splinters.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -51,6 +66,11 @@
     {
       "id": "5956",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -62,6 +82,11 @@
         {
           "id": "5957",
           "label": "a",
+          "text": "Earn the Totin' Chip recognition.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -74,6 +99,11 @@
         {
           "id": "5958",
           "label": "b",
+          "text": "Discuss with your counselor your understanding of the Safety Checklist for Carving.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -93,6 +123,11 @@
     {
       "id": "5959",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -104,6 +139,11 @@
         {
           "id": "5960",
           "label": "a",
+          "text": "Explain to your counselor, orally or in writing, the care and use of five types of tools that you may use in a carving project.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -116,6 +156,11 @@
         {
           "id": "5961",
           "label": "b",
+          "text": "Tell your counselor how to care for and use several types of sharpening devices, then demonstrate that you know how to use these devices.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -130,6 +175,11 @@
     {
       "id": "5962",
       "label": "4",
+      "text": "Using a piece of scrap wood or a project on which you are working, show your counselor that you know how to do the following:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -141,6 +191,11 @@
         {
           "id": "5963",
           "label": "a",
+          "text": "Paring cut",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -153,6 +208,11 @@
         {
           "id": "5964",
           "label": "b",
+          "text": "Basic cut and push cut",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -165,6 +225,11 @@
         {
           "id": "5965",
           "label": "c",
+          "text": "\"V\" cut",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -177,6 +242,11 @@
         {
           "id": "5966",
           "label": "d",
+          "text": "Stop cut or score line",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -191,6 +261,11 @@
     {
       "id": "5970",
       "label": "5",
+      "text": "Tell why different woods are used for different projects. Explain why you chose the type of wood you did for your projects in requirements 6 and 7.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -203,6 +278,11 @@
     {
       "id": "5971",
       "label": "6",
+      "text": "Plan your own or select a project from the Wood Carving merit badge pamphlet and complete a simple carving in the round.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -230,6 +310,11 @@
     {
       "id": "5972",
       "label": "7",
+      "text": "Complete a simple low-relief OR a chip carving project.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

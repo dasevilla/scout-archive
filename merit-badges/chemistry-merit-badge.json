@@ -14,6 +14,11 @@
     {
       "id": "12699",
       "label": "1",
+      "text": "Chemistry and Safety. Do the following and discuss with your counselor:",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "12700",
           "label": "a",
+          "text": "Obtain safety data sheets (SDS) for sucrose (sugar), isopropyl alcohol (rubbing alcohol), and a waterproofing spray. Compare their properties and potential hazard(s), including handling and disposal guidelines and toxicity information.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -53,6 +63,11 @@
         {
           "id": "12701",
           "label": "b",
+          "text": "What types of personal protective equipment (PPE) are recommended for each, and why? How does the recommended PPE change with toxicity and route of exposure?",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -70,6 +85,11 @@
         {
           "id": "12702",
           "label": "c",
+          "text": "Review the pictograms in Section 2 of each SDS. What do they mean, and how do you see them used in your community?",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -87,6 +107,11 @@
         {
           "id": "12703",
           "label": "d",
+          "text": "Discuss the safe storage of chemicals. How does the safe storage of chemicals apply to your home, school, community, and the environment?",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +135,11 @@
     {
       "id": "12704",
       "label": "2",
+      "text": "Chemistry and First Aid. After successfully completing requirement 1, do the following:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -132,6 +162,11 @@
         {
           "id": "12705",
           "label": "a",
+          "text": "Discuss with your counselor why you think soap and alcohol are used to clean cuts and scrapes. Discuss how you could test your hypotheses with your counselor.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -149,6 +184,11 @@
         {
           "id": "12706",
           "label": "b",
+          "text": "Coat your hands with a mixture of cooking oil and a nontoxic powder, such as sand or cocoa. Wash your hands with water and observe what happens. Coat your hands again, then wash with soap and water. Discuss the differences with your counselor.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -166,6 +206,11 @@
         {
           "id": "12707",
           "label": "c",
+          "text": "Perform an experiment to demonstrate how rubbing alcohol affects microbial growth using baker's yeast. Discuss the results with your counselor.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -185,6 +230,11 @@
     {
       "id": "12724",
       "label": "3",
+      "text": "Chemistry and Cooking. After successfully completing requirement 1, do EACH of the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -207,6 +257,11 @@
         {
           "id": "12726",
           "label": "a",
+          "text": "Perform a Maillard, or browning, reaction. Discuss with your counselor whether a physical or chemical change has occurred, and what happened to molecules in the food during the cooking process.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -232,6 +287,11 @@
         {
           "id": "12727",
           "label": "b",
+          "text": "Prepare and use red cabbage indicator to measure the pH of five common household liquids, including water. Discuss your observations with your counselor.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -259,6 +319,11 @@
     {
       "id": "12708",
       "label": "4",
+      "text": "Chemistry and Camping. After successfully completing requirement 1, do TWO of the following:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -281,6 +346,11 @@
         {
           "id": "12709",
           "label": "a",
+          "text": "Design and conduct an experiment to compare at least two different types of waterproofing. Discuss with your counselor which one you would prefer to use on your tent and which one you would prefer to use on your boots, and why.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -306,6 +376,11 @@
         {
           "id": "12710",
           "label": "b",
+          "text": "Describe the four classes of fires, and the four classes of fire extinguishers. Discuss with your counselor how sand, baking soda, and the four classes of extinguishers work to put out fires.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -327,6 +402,11 @@
         {
           "id": "12711",
           "label": "c",
+          "text": "Under your counselor's supervision and/or the supervision of a knowledgeable adult approved in advance by your counselor, conduct flame tests of at least five elements using a kitchen or propane torch.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -344,6 +424,11 @@
         {
           "id": "12728",
           "label": "d",
+          "text": "Under your counselor's supervision and/or the supervision of a knowledgeable adult approved in advance by your counselor, synthesize nylon (may be from a kit).",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -363,6 +448,11 @@
     {
       "id": "12725",
       "label": "5",
+      "text": "Describe how chemistry can be used to reduce the environmental impacts of single-use items, such as water bottles, bags, straws, or batteries.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -388,6 +478,11 @@
     {
       "id": "12712",
       "label": "6",
+      "text": "Identify five fields of chemistry. Briefly describe each, tell how each applies to your life and how they interact.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -405,6 +500,11 @@
     {
       "id": "12719",
       "label": "7",
+      "text": "Identify three government agencies that oversee or provide guidance on the use of chemicals for personal, pharmaceutical, commercial, or industrial use, and discuss the agencies' history and responsibilities with your counselor.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -434,6 +534,11 @@
     {
       "id": "12729",
       "label": "8",
+      "text": "Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -445,6 +550,11 @@
         {
           "id": "12730",
           "label": "a",
+          "text": "Visit a research laboratory, and discuss the research performed there with a chemist or chemical technician. Learn what education and training they received.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -457,6 +567,11 @@
         {
           "id": "12731",
           "label": "b",
+          "text": "Visit a company or plant that makes chemical products or uses chemical processes. Learn about their products or processes, and talk with someone who works there. Learn what they do, and what education and training they received.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -469,6 +584,11 @@
         {
           "id": "12732",
           "label": "c",
+          "text": "Identify three career opportunities that would use skills and knowledge in chemistry. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

@@ -14,6 +14,11 @@
     {
       "id": "14249",
       "label": null,
+      "text": "NOTE: You will need access to a car or truck and its owner's manual to meet some requirements for this merit badge. If you do not have your own vehicle, you should work with your counselor or other trusted adult to obtain access to a vehicle and the owner's manual for that vehicle.",
+      "requirement_path": "item-1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -33,6 +38,11 @@
     {
       "id": "14251",
       "label": "1",
+      "text": "Safety and Registration. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -55,6 +65,11 @@
         {
           "id": "14252",
           "label": "a",
+          "text": "Explain to your counselor the hazards you are most likely to encounter during automotive maintenance activities, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -72,6 +87,11 @@
         {
           "id": "14253",
           "label": "b",
+          "text": "Discuss with your counselor the safety equipment, tools, and clothing used while checking or repairing a motor vehicle. Use this equipment, tools, and/or clothing (when needed or called for) in meeting the requirements for this merit badge.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -89,6 +109,11 @@
         {
           "id": "14254",
           "label": "c",
+          "text": "Explain the different ways motor vehicles are powered.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -118,6 +143,11 @@
         {
           "id": "14255",
           "label": "d",
+          "text": "Explain the safety considerations when performing maintenance on a vehicle equipped with a high-voltage electrical system.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -135,6 +165,11 @@
         {
           "id": "14256",
           "label": "e",
+          "text": "Review the maintenance chart in the vehicle owner's manual. Explain the requirements and time limits.",
+          "requirement_path": "1.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -152,6 +187,11 @@
         {
           "id": "14257",
           "label": "f",
+          "text": "Explain the purpose, importance, and limitations of safety belts and passive restraints.",
+          "requirement_path": "1.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -177,6 +217,11 @@
         {
           "id": "14258",
           "label": "g",
+          "text": "Find out the requirements for your state's emissions and safety inspections (as applicable), including how often a vehicle needs to be inspected.",
+          "requirement_path": "1.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -194,6 +239,11 @@
         {
           "id": "14259",
           "label": "h",
+          "text": "Explain the importance of registering a vehicle and find out the annual registration fee for renewing your family car's registration.",
+          "requirement_path": "1.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -213,6 +263,11 @@
     {
       "id": "14260",
       "label": "2",
+      "text": "General Maintenance. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -240,6 +295,11 @@
         {
           "id": "14261",
           "label": "a",
+          "text": "Demonstrate how to check the following:",
+          "requirement_path": "2.a",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",
@@ -252,104 +312,145 @@
               "url": "https://youtu.be/RaxZUGP1Zr0?si=_Z1CMmzpR5nAPJkp"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14312",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Brake fluid"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14313",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Engine oil"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14314",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Coolant"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14315",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Power steering fluid"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14316",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Windshield washer fluid"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14317",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "Transmission fluid"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14318",
-          "label": "7",
-          "content": [
-            {
-              "type": "text",
-              "value": "Battery fluid (if possible) and condition of the battery terminals"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Care for Your Automotive Battery (video)",
-              "url": "https://youtu.be/-dWtk08fMfw?si=AfrX0oKSRi6fCKoe&t=14"
+              "id": "14312",
+              "label": "1",
+              "text": "Brake fluid",
+              "requirement_path": "2.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Brake fluid"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "title": "How to Check & Properly Fill Water Levels in a Car Battery (video)",
-              "url": "https://youtu.be/ytg2TCC6IKw?si=XBSt8SXU0YENVL7J"
+              "id": "14313",
+              "label": "2",
+              "text": "Engine oil",
+              "requirement_path": "2.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Engine oil"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "14314",
+              "label": "3",
+              "text": "Coolant",
+              "requirement_path": "2.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Coolant"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "14315",
+              "label": "4",
+              "text": "Power steering fluid",
+              "requirement_path": "2.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Power steering fluid"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "14316",
+              "label": "5",
+              "text": "Windshield washer fluid",
+              "requirement_path": "2.a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Windshield washer fluid"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "14317",
+              "label": "6",
+              "text": "Transmission fluid",
+              "requirement_path": "2.a.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Transmission fluid"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "14318",
+              "label": "7",
+              "text": "Battery fluid (if possible) and condition of the battery terminals",
+              "requirement_path": "2.a.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Battery fluid (if possible) and condition of the battery terminals"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Care for Your Automotive Battery (video)",
+                  "url": "https://youtu.be/-dWtk08fMfw?si=AfrX0oKSRi6fCKoe&t=14"
+                },
+                {
+                  "title": "How to Check & Properly Fill Water Levels in a Car Battery (video)",
+                  "url": "https://youtu.be/ytg2TCC6IKw?si=XBSt8SXU0YENVL7J"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14262",
           "label": "b",
+          "text": "Locate the fuse boxes; determine the type and size of fuses. Demonstrate the proper replacement of burned-out fuses.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -367,6 +468,11 @@
         {
           "id": "14263",
           "label": "c",
+          "text": "Demonstrate how to check the condition and tension of belts and hoses.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -392,6 +498,11 @@
         {
           "id": "14264",
           "label": "d",
+          "text": "Check the vehicle for proper operation of its lights, including the interior overhead lights, instrument lights, warning lights, and exterior bulbs.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -413,6 +524,11 @@
         {
           "id": "14265",
           "label": "e",
+          "text": "Locate and check the air filter(s).",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -432,6 +548,11 @@
     {
       "id": "14266",
       "label": "3",
+      "text": "Dashboard/Driver Information Center. Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -454,6 +575,11 @@
         {
           "id": "14267",
           "label": "a",
+          "text": "Explain the function of the fuel gauge, speedometer, tachometer, oil pressure, and engine temperature gauge. Point each one out on the instrument cluster.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -471,6 +597,11 @@
         {
           "id": "14268",
           "label": "b",
+          "text": "Explain the symbols that light up on the dashboard and the difference between the yellow and red symbols. Explain each of the indicators on the dashboard, using the owner's manual if necessary.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -488,6 +619,11 @@
         {
           "id": "14269",
           "label": "c",
+          "text": "Explain the messages and alerts that may be displayed on the dashboard/ driver information center including maintenance-related reminders.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -502,6 +638,11 @@
     {
       "id": "14270",
       "label": "4",
+      "text": "Tires. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -524,6 +665,11 @@
         {
           "id": "14271",
           "label": "a",
+          "text": "Explain the difference between tire manufacturer's and vehicle manufacturer's specifications and show where to find them.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -541,6 +687,11 @@
         {
           "id": "14272",
           "label": "b",
+          "text": "Demonstrate how to check tire pressure and properly inflate a tire. Check the spare tire and make sure it is ready for use.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -558,6 +709,11 @@
         {
           "id": "14273",
           "label": "c",
+          "text": "Explain why wheel alignment is important to the life of a tire. Explain caster, camber, and toe-in adjustments on wheel alignment.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -575,6 +731,11 @@
         {
           "id": "14274",
           "label": "d",
+          "text": "Explain the purpose of the lateral-wear bar indicator.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -596,6 +757,11 @@
         {
           "id": "14275",
           "label": "e",
+          "text": "Explain how to dispose of old tires in accordance with local laws and regulations.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -615,6 +781,11 @@
     {
       "id": "14276",
       "label": "5",
+      "text": "Engine. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -637,6 +808,11 @@
         {
           "id": "14277",
           "label": "a",
+          "text": "Explain how an internal combustion engine operates. Tell the differences between gasoline and diesel engines. Explain how a gasoline-electric hybrid vehicle is powered.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -662,6 +838,11 @@
         {
           "id": "14278",
           "label": "b",
+          "text": "Discuss the purpose of engine oil. Explain the API service code, the SAE number, and the viscosity rating.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -683,6 +864,11 @@
         {
           "id": "14279",
           "label": "c",
+          "text": "Explain where to find the recommended oil type and the amount of oil to be used in the vehicle engine.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -702,6 +888,11 @@
     {
       "id": "14280",
       "label": "6",
+      "text": "Cooling System. Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -724,6 +915,11 @@
         {
           "id": "14281",
           "label": "a",
+          "text": "Explain the need for coolant in the cooling system, and the importance of selecting the correct coolant type for a given vehicle.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -741,6 +937,11 @@
         {
           "id": "14282",
           "label": "b",
+          "text": "Explain how to flush and change the engine coolant in the vehicle, and how to properly dispose of the used coolant.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -760,6 +961,11 @@
     {
       "id": "14283",
       "label": "7",
+      "text": "Fuel System. Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -782,6 +988,11 @@
         {
           "id": "14284",
           "label": "a",
+          "text": "Explain how the air and fuel systems work together and why it is necessary to have an air filter and fuel filter.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -803,6 +1014,11 @@
         {
           "id": "14285",
           "label": "b",
+          "text": "Explain how a how a fuel injection system works and how an onboard computer works with the fuel injection system.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -822,6 +1038,11 @@
     {
       "id": "14286",
       "label": "8",
+      "text": "Ignition and Electrical Systems. Do the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -844,6 +1065,11 @@
         {
           "id": "14287",
           "label": "a",
+          "text": "Diagram and explain the parts of one of the following electrical systems:",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -856,62 +1082,83 @@
               "url": "https://youtu.be/XO-3nCYHeFQ?si=eNmJgO9ya1a2jzJP"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14288",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Starting/charging system"
-            }
-          ],
-          "resources": [
+              "id": "14288",
+              "label": "1",
+              "text": "Starting/charging system",
+              "requirement_path": "8.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Starting/charging system"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Automotive Starting and Charging System (video)",
+                  "url": "https://youtu.be/IixqxkWpT5M?si=iTXN07OTcbwFCpzB"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Automotive Starting and Charging System (video)",
-              "url": "https://youtu.be/IixqxkWpT5M?si=iTXN07OTcbwFCpzB"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14289",
-          "label": "2",
-          "content": [
+              "id": "14289",
+              "label": "2",
+              "text": "Hybrid or electric vehicle inverter",
+              "requirement_path": "8.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Hybrid or electric vehicle inverter"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "The Role of Inverters for EV Propulsion Systems (video)",
+                  "url": "https://youtu.be/wbfOoQgg7Tk?si=CK1dIlvuJJDSXKlC"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Hybrid or electric vehicle inverter"
+              "id": "14290",
+              "label": "3",
+              "text": "Lighting system",
+              "requirement_path": "8.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Lighting system"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Automotive Lighting Circuits (video)",
+                  "url": "https://youtu.be/ST5nz8M9Lcg?si=yIgLMjiU5VL_Gu1_"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "resources": [
-            {
-              "title": "The Role of Inverters for EV Propulsion Systems (video)",
-              "url": "https://youtu.be/wbfOoQgg7Tk?si=CK1dIlvuJJDSXKlC"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14290",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Lighting system"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Automotive Lighting Circuits (video)",
-              "url": "https://youtu.be/ST5nz8M9Lcg?si=yIgLMjiU5VL_Gu1_"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14291",
           "label": "b",
+          "text": "Explain the engine's firing order.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -929,6 +1176,11 @@
         {
           "id": "14292",
           "label": "c",
+          "text": "Explain the purpose of the spark gap.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -946,6 +1198,11 @@
         {
           "id": "14293",
           "label": "d",
+          "text": "Demonstrate how to safely connect jumper cables to your car battery.",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -967,6 +1224,11 @@
         {
           "id": "14294",
           "label": "e",
+          "text": "Discuss with your counselor what factors can affect range on an electrified vehicle. Explain the procedure for recharging an electric or plug-in hybrid vehicle.",
+          "requirement_path": "8.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -984,6 +1246,11 @@
         {
           "id": "14295",
           "label": "f",
+          "text": "Explain what other vehicle systems are dependent on a reliable electrical system.",
+          "requirement_path": "8.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1003,6 +1270,11 @@
     {
       "id": "14296",
       "label": "9",
+      "text": "Drive Train. Do the following:",
+      "requirement_path": "9",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1025,6 +1297,11 @@
         {
           "id": "14297",
           "label": "a",
+          "text": "Diagram the drive train and explain the different parts.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1042,6 +1319,11 @@
         {
           "id": "14298",
           "label": "b",
+          "text": "Explain the difference between automatic and standard transmissions.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1059,6 +1341,11 @@
         {
           "id": "14299",
           "label": "c",
+          "text": "Explain the types of automatic transmission fluid.",
+          "requirement_path": "9.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1076,6 +1363,11 @@
         {
           "id": "14300",
           "label": "d",
+          "text": "Explain the types of lubricants used in a standard transmission, and in the differential and transfer case.",
+          "requirement_path": "9.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1093,6 +1385,11 @@
         {
           "id": "14301",
           "label": "e",
+          "text": "Explain the difference between front-wheel, rear- wheel, and four-wheel drive.",
+          "requirement_path": "9.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1112,6 +1409,11 @@
     {
       "id": "14302",
       "label": "10",
+      "text": "Brake System. Do the following:",
+      "requirement_path": "10",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1134,6 +1436,11 @@
         {
           "id": "14303",
           "label": "a",
+          "text": "Explain the brake system (including antilock systems) and how it operates.",
+          "requirement_path": "10.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1151,6 +1458,11 @@
         {
           "id": "14304",
           "label": "b",
+          "text": "Explain the differences between disc and drum brake systems.",
+          "requirement_path": "10.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1168,6 +1480,11 @@
         {
           "id": "14305",
           "label": "c",
+          "text": "Demonstrate how to check the condition of a vehicle's brake system. After checking, make recommendations for repairs (if necessary).",
+          "requirement_path": "10.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1187,6 +1504,11 @@
     {
       "id": "14306",
       "label": "11",
+      "text": "Do TWO of the following:",
+      "requirement_path": "11",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -1198,6 +1520,11 @@
         {
           "id": "14307",
           "label": "a",
+          "text": "Determine the value of three different vehicles you are interested in purchasing. One must be new and one must be used; the third vehicle can be new or used. For each vehicle, find out the requirements and cost of automobile insurance to include basic liability and options for collision, comprehensive, towing, and rental car. Using the three vehicles you chose and with your counselor's assistance, complete the operation/maintenance chart provided in the Automotive Maintenance merit badge pamphlet. Use this information to determine the operating cost per mile for each vehicle, and discuss what you learn with your counselor.",
+          "requirement_path": "11.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1230,6 +1557,11 @@
         {
           "id": "14308",
           "label": "b",
+          "text": "Choose a car cleaner and wax product for a vehicle you want to clean. Explain clear-coat paint and the precautions necessary for care. Clean the vehicle, both inside and out, and wax the exterior. Use a vinyl and rubber protectant (on vinyl tops, rubber door seals, sidewalls, etc.) and explain the importance of this protectant.",
+          "requirement_path": "11.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1247,6 +1579,11 @@
         {
           "id": "14309",
           "label": "c",
+          "text": "Locate the manufacturer's jack. Use the jack to demonstrate how to engage the jack correctly on the vehicle, then change a tire correctly.",
+          "requirement_path": "11.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1264,6 +1601,11 @@
         {
           "id": "14310",
           "label": "d",
+          "text": "Perform an oil filter and oil change on a vehicle. Explain how to properly dispose of the used oil and filter.",
+          "requirement_path": "11.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -1283,6 +1625,11 @@
     {
       "id": "14311",
       "label": "12",
+      "text": "Find out about three career opportunities in the automotive industry. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
+      "requirement_path": "12",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

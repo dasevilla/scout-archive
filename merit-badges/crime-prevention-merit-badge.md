@@ -57,12 +57,12 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
 
 - (4) **Home and Neighborhood Crime Prevention.** Do the following:
   - (a) Discuss the following with your counselor:
-  - (1) How participation in activities of families, churches, sports teams, and clubs prevents crime.
+    - (1) How participation in activities of families, churches, sports teams, and clubs prevents crime.
 
-    **Resources:** [Church members Escape Crime-Ridden Lives (video)](https://youtu.be/GG5UkPNxBHU?si=4vsdLjvlfQEauAOD), [How Can Boxing Clubs Help Prevent Crime (video)](https://youtu.be/oEJoZnsgUZA?si=eaTS6FuXVW2mndEo)
-  - (2) How designs of houses, neighborhoods, public buildings, stores, streets, and parks prevent crime.
+      **Resources:** [Church members Escape Crime-Ridden Lives (video)](https://youtu.be/GG5UkPNxBHU?si=4vsdLjvlfQEauAOD), [How Can Boxing Clubs Help Prevent Crime (video)](https://youtu.be/oEJoZnsgUZA?si=eaTS6FuXVW2mndEo)
+    - (2) How designs of houses, neighborhoods, public buildings, stores, streets, and parks prevent crime.
 
-    **Resources:** [What is CPTED? (video)](https://youtu.be/p3UY1w1O3PA), [Designing Out Crime: CPTED (video)](https://youtu.be/CZ5sVtt9-8I)
+      **Resources:** [What is CPTED? (video)](https://youtu.be/p3UY1w1O3PA), [Designing Out Crime: CPTED (video)](https://youtu.be/CZ5sVtt9-8I)
   - (b) Conduct a security survey of a home, a neighborhood, a park, or a camp building with adult supervision and following youth protection guidelines using a security checklist in the *Crime Prevention* merit badge pamphlet or one approved by your counselor.
 
     **Resources:** [Home Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf), [Camp Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Camp%20Security%20Checklists%20%231%20%232%2001%202026.pdf)

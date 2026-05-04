@@ -14,6 +14,11 @@
     {
       "id": "14907",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "14908",
           "label": "a",
+          "text": "Discuss with your counselor the following hazards you might encounter while motorboating: flammable fuel; carbon monoxide; propellers; collisions; falls overboard; capsize; or running aground. Explain what you should do to anticipate, prevent, mitigate and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "14909",
           "label": "b",
+          "text": "Explain first aid for injuries or illnesses that could occur while motorboating, including hypothermia, heat reactions, dehydration, motion sickness, bug bites, blisters.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "14910",
           "label": "c",
+          "text": "Discuss the Scouting America Safety Afloat policy. Tell how it applies to motorboating activities.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "14911",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -74,6 +99,11 @@
         {
           "id": "14912",
           "label": "a",
+          "text": "Before doing requirement 5, successfully complete the Scouting America swimmer test.\nNote: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -128,6 +158,11 @@
         {
           "id": "14913",
           "label": "b",
+          "text": "Name the different types of personal flotation devices (PFDs), and explain when each type should be used. Show how to choose and properly fit a PFD.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -142,6 +177,11 @@
     {
       "id": "14914",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -153,6 +193,11 @@
         {
           "id": "14915",
           "label": "a",
+          "text": "Explain inboard, outboard, and inboard/outboard motors, and the uses and advantages of each.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -165,6 +210,11 @@
         {
           "id": "14916",
           "label": "b",
+          "text": "Explain the safety procedures and precautions involving handling fuel and engine servicing, and equipment storage and placement.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -177,6 +227,11 @@
         {
           "id": "14917",
           "label": "c",
+          "text": "Explain how to winterize a boat motor and tell why this procedure is necessary.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -189,6 +244,11 @@
         {
           "id": "14918",
           "label": "d",
+          "text": "Explain the safety procedures and precautions involving swimmers and skiers in the water, passenger positions underway, and boat wakes.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -203,6 +263,11 @@
     {
       "id": "14919",
       "label": "4",
+      "text": "Show you know safety guidelines for motorboating by doing the following:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -214,6 +279,11 @@
         {
           "id": "14920",
           "label": "a",
+          "text": "Review how each item of the Scouting America Safety Afloat policy applies, including checking the weather prior to and during time on the water, confirming all required equipment is present and functional, and following a float plan.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -226,6 +296,11 @@
         {
           "id": "14921",
           "label": "b",
+          "text": "Explain the rules or laws that apply to recreational boating in your area or state. Have a permit to operate a motorboat, if required by the laws of your state. Discuss how you would find information regarding the boating laws in different states.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -238,6 +313,11 @@
         {
           "id": "14922",
           "label": "c",
+          "text": "Discuss how hazards of weather and heavy water conditions can affect safety and performance in motorboating.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -250,6 +330,11 @@
         {
           "id": "14923",
           "label": "d",
+          "text": "Promise that you will follow Scouting America Safety Afloat guidelines. Explain the meaning of each point.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -262,6 +347,11 @@
         {
           "id": "14924",
           "label": "e",
+          "text": "Explain and show the correct use of equipment required by both state and federal regulations to be carried aboard a motorboat.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -274,6 +364,11 @@
         {
           "id": "14925",
           "label": "f",
+          "text": "Explain federal and state rules for a ventilation system, and tell why these rules are required",
+          "requirement_path": "4.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -286,6 +381,11 @@
         {
           "id": "14926",
           "label": "g",
+          "text": "Explain the use of lights (sight signals) and sound signals on motorboats.",
+          "requirement_path": "4.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -298,6 +398,11 @@
         {
           "id": "14927",
           "label": "h",
+          "text": "Discuss the common types of anchors used in motorboating and under what conditions each would be preferred. Explain proper anchoring techniques.",
+          "requirement_path": "4.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -312,6 +417,11 @@
     {
       "id": "14928",
       "label": "5",
+      "text": "With your counselor or other adults on board, demonstrate proper boat-handling procedures and skills by doing the following:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -323,6 +433,11 @@
         {
           "id": "14929",
           "label": "a",
+          "text": "Board and assist others in boarding. Confirm that all passengers on board are wearing properly fitted life jackets.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -335,6 +450,11 @@
         {
           "id": "14930",
           "label": "b",
+          "text": "Fuel the boat and complete a safety check.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -347,6 +467,11 @@
         {
           "id": "14931",
           "label": "c",
+          "text": "If equipped, attach the engine cut-off switch link and safely start the motor. Get underway from dockside or from a beach launch.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -359,6 +484,11 @@
         {
           "id": "14932",
           "label": "d",
+          "text": "Run a course for at least a mile, showing procedures for overtaking and passing slower vessels, yielding right-of-way, passing oncoming traffic, making turns, reversing direction, and using navigation aids.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -371,6 +501,11 @@
         {
           "id": "14933",
           "label": "e",
+          "text": "Stop and secure the boat in position on the open water using anchors. Raise and stow the anchor and get underway.",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -383,6 +518,11 @@
         {
           "id": "14934",
           "label": "f",
+          "text": "Land or dock the boat, disembark, and assist others in doing the same.",
+          "requirement_path": "5.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -395,6 +535,11 @@
         {
           "id": "14935",
           "label": "g",
+          "text": "Moor, dock, or beach the boat and secure all gear.",
+          "requirement_path": "5.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -407,6 +552,11 @@
         {
           "id": "14936",
           "label": "h",
+          "text": "Demonstrate knots used in boating: cleating hitch, bowline, clove hitch, anchor bend, sheet bend.",
+          "requirement_path": "5.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

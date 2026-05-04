@@ -14,6 +14,11 @@
     {
       "id": "12015",
       "label": "1",
+      "text": "Describe the meaning of sustainability in your own words. Explain the importance of sustainability to society and how you can contribute to fulfilling the needs of current generations without compromising the needs of future generations.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -35,6 +40,11 @@
     {
       "id": "12082",
       "label": "2",
+      "text": "Water. Do ONE of the following and discuss with your counselor:",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -66,6 +76,11 @@
         {
           "id": "12084",
           "label": "a",
+          "text": "Evaluate your household water usage. If available, review water bills from the past year and evaluate the seasonal changes in water use. Identify three ways to help reduce water consumption.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -83,6 +98,11 @@
         {
           "id": "12085",
           "label": "b",
+          "text": "Explain why water is necessary in our lives. Create a diagram to show how your household gets its clean water from a natural source and what happens with the water after you use it. Tell two ways to preserve your community's access to clean water in the future.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -104,6 +124,11 @@
         {
           "id": "12086",
           "label": "c",
+          "text": "Different areas of the world are affected by either too much (flooding) or too little (drought) water. Explore whether either or both affect where you live. Identify three water conservation or flood mitigation practices (successful or unsuccessful) that have been tried where you live or in an area of the world that interests you.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -131,6 +156,11 @@
     {
       "id": "12083",
       "label": "3",
+      "text": "Food. Do ONE of the following and discuss with your counselor:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -162,6 +192,11 @@
         {
           "id": "12152",
           "label": "a",
+          "text": "Explore the sustainability of different types of plant-based, animal-based and aquaculture food. Identify where four different foods (such as milk, eggs, tuna fish, avocados, or ketchup) come from and how they are processed and transported from the source to you.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -187,6 +222,11 @@
         {
           "id": "12153",
           "label": "b",
+          "text": "Identify four factors that limit the availability of food in different regions of the world. Discuss how each factor influences the sustainability of worldwide food supplies. Share three ways individuals, families, or your community can create their own food sources.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -208,6 +248,11 @@
         {
           "id": "12154",
           "label": "c",
+          "text": "Develop a plan to reduce your household food waste in a sustainable manner. Establish a baseline and then track and record your results for two weeks.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -231,6 +276,11 @@
     {
       "id": "12155",
       "label": "4",
+      "text": "Community. Do ONE of the following and discuss with your counselor:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -262,6 +312,11 @@
         {
           "id": "12156",
           "label": "a",
+          "text": "Create a sketch depicting how you would design a sustainable community and be prepared to explain how the housing, work locations, shops, schools, and transportation systems affect energy, pollution, natural resources, and the economy of the community.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -283,6 +338,11 @@
         {
           "id": "12157",
           "label": "b",
+          "text": "Identify one unsustainable practice in your community and develop a written plan to fix it.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -304,6 +364,11 @@
         {
           "id": "12158",
           "label": "c",
+          "text": "Identify five sustainability factors in housing and rate your own home's sustainability against these factors.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -323,6 +388,11 @@
     {
       "id": "12159",
       "label": "5",
+      "text": "Energy. Do ONE of the following and discuss with your counselor:",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -350,6 +420,11 @@
         {
           "id": "12160",
           "label": "a",
+          "text": "Learn about the sustainability of different energy sources, including coal, gas, geothermal, hydro power, nuclear, petroleum, solar, and wind. Identify three common energy sources in the United States and describe how the production and consumption of each of these energy sources affects sustainability.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -371,6 +446,11 @@
         {
           "id": "12161",
           "label": "b",
+          "text": "List eight ways your family consumes energy, such as gas appliances, electricity, heating systems or cooling systems, and transportation. For one home- and one transportation-related energy use, list three ways to help reduce consumption, reduce your carbon footprint, and be a better steward of this resource.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -388,6 +468,11 @@
         {
           "id": "12162",
           "label": "c",
+          "text": "List five ways you and your family could reduce energy consumption in your home, such as adjusting your thermostat, window shades, opening windows, reducing hot-water temperature, and minimizing water consumption. Identify the benefits and risks of each idea and implement if possible.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -407,6 +492,11 @@
     {
       "id": "12163",
       "label": "6",
+      "text": "Stuff. Do ONE of the following and discuss with your counselor:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -438,6 +528,11 @@
         {
           "id": "12164",
           "label": "a",
+          "text": "Create a list of 15 items of your personal \"stuff.\" Classify each item as an essential need (such as soap) or a desirable want (such as a video game). Identify any excess \"stuff\" you no longer need, working with your family, if possible. Donate, repurpose, or recycle those items you can.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -450,6 +545,11 @@
         {
           "id": "12165",
           "label": "b",
+          "text": "List five ways having too much \"stuff\" affects you, your family, your community, AND the world. For each of the five ways, consider the following aspects: the financial impact, time spent, maintenance, health, storage, and waste generation. Identify practices that can be used to avoid accumulating too much \"stuff.\"",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -462,6 +562,11 @@
         {
           "id": "12166",
           "label": "c",
+          "text": "Research the impact waste has on the environment (land, water, air). Find out what the trash vortex is and how it was formed. Explain the number system for plastic recyclables and which plastics are more commonly recycled. Identify the average lifespan of one electronic device in your household, and whether it can be recycled in whole or part.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -489,6 +594,11 @@
     {
       "id": "12167",
       "label": "7",
+      "text": "Do TWO of the following and discuss with your counselor:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -500,6 +610,11 @@
         {
           "id": "12168",
           "label": "a",
+          "text": "The United Nations lists 17 Sustainable Development Goals. These include Zero Hunger, Clean Water and Sanitation, Affordable and Clean Energy, Sustainable Cities and Community, Responsible Consumption and Production, Climate Action, Life Below Water, and Life on Land. Pick one of these eight and summarize the goal and its current and future impact on you, your family, community, and the world.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -525,6 +640,11 @@
         {
           "id": "12169",
           "label": "b",
+          "text": "Identify how the planetary life-support systems (soil, climate, freshwater, atmospheric, nutrient, oceanic, ecosystems, and species) support life on Earth and interact with one another. Share what happens to the planet's sustainability when these systems are disrupted by natural events or human activity.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -550,6 +670,11 @@
         {
           "id": "12170",
           "label": "c",
+          "text": "Identify how product life cycles (the cycle of design, sourcing, production, use, and disposal or reuse) influence current and future sustainability. Choose one common product to demonstrate how the full product life cycle would apply.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -575,6 +700,11 @@
         {
           "id": "12171",
           "label": "d",
+          "text": "Learn how the world's population affects the sustainability of Earth. Discuss three human activities that may contribute to putting Earth at risk, now and in the future.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -600,6 +730,11 @@
         {
           "id": "12172",
           "label": "e",
+          "text": "Explain the term species (plant or animal) decline. Share the human activities that contribute to species decline, what can be done to help reverse the decline, and its impact on a sustainable environment.",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -625,6 +760,11 @@
         {
           "id": "12173",
           "label": "f",
+          "text": "Find a world map that shows the pattern of temperature change for a period of at least 100 years. Identify three factors that scientists believe affect the global weather and temperature. Discuss how climate change impacts sustainability of food, water, or other resources.",
+          "requirement_path": "7.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -652,6 +792,11 @@
     {
       "id": "12174",
       "label": "8",
+      "text": "Do the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -663,6 +808,11 @@
         {
           "id": "12175",
           "label": "a",
+          "text": "On a campout or other outdoor Scouting activity that you attend, make notes on the sustainability practices you and your fellow Scouts practice. Observe transportation, forestry, soil conservation, water resources, habitat, buildings, campsites, and sanitation. Share what you observed and learned with your counselor.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -684,6 +834,11 @@
         {
           "id": "12176",
           "label": "b",
+          "text": "Discuss with your counselor how living by the Scout Oath, Scout Law, Leave No Trace Seven Principles and the Outdoor Code in your daily life helps promote sustainability.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -705,6 +860,11 @@
         {
           "id": "12177",
           "label": "c",
+          "text": "Identify 5 behavioral changes that you and your family can make to improve the sustainability of your household. Share and discuss each with your counselor.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -728,6 +888,11 @@
     {
       "id": "12178",
       "label": "9",
+      "text": "Learn about career opportunities in the sustainability field. Pick one and find out the education, training, and experience required. Discuss what you have learned with your counselor and explain why this career might interest you.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

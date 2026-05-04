@@ -14,6 +14,11 @@
     {
       "id": "13667",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "13668",
           "label": "a",
+          "text": "Describe how a properly working plumbing system protects your family's health and safety.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "13669",
           "label": "b",
+          "text": "List five important local health regulations related to plumbing and tell how they protect health and safety.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -54,6 +69,11 @@
         {
           "id": "13670",
           "label": "c",
+          "text": "Describe the safety precautions you must take when making home plumbing repairs.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -73,6 +93,11 @@
     {
       "id": "13671",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -89,6 +114,11 @@
         {
           "id": "13672",
           "label": "a",
+          "text": "Make a drawing and explain how a home hot- and cold-water supply system works. Tell how you would make it safe from freezing.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -101,6 +131,11 @@
         {
           "id": "13673",
           "label": "b",
+          "text": "Make a drawing and explain the drainage system of the plumbing in a house. Show and explain the use of drains and vents.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -115,6 +150,11 @@
     {
       "id": "13677",
       "label": "3",
+      "text": "Show how to use five important plumber's tools.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -132,6 +172,11 @@
     {
       "id": "13678",
       "label": "4",
+      "text": "Identify and explain the following terms: washer, retaining nut, plunger (rubber force cup), solder, flux, elbow, tee, nipple, coupling, plug, union, trap, drainpipe, and water meter.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -144,6 +189,11 @@
     {
       "id": "13679",
       "label": "5",
+      "text": "Name the kinds of pipe that are used most often in a plumbing system. Explain why these pipes are used.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -161,6 +211,11 @@
     {
       "id": "13680",
       "label": "6",
+      "text": "Do FOUR of the following, each under the supervision of a knowledgeable adult:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -172,6 +227,11 @@
         {
           "id": "13682",
           "label": "a",
+          "text": "Visit the plumbing section of a hardware store or home center and identify:",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -184,6 +244,11 @@
         {
           "id": "13683",
           "label": "1",
+          "text": "PVC pipe and fittings",
+          "requirement_path": "6.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -196,6 +261,11 @@
         {
           "id": "13684",
           "label": "2",
+          "text": "CPVC pipe and fittings",
+          "requirement_path": "6.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -208,6 +278,11 @@
         {
           "id": "13685",
           "label": "3",
+          "text": "PEX pipe and fittings",
+          "requirement_path": "6.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -220,6 +295,11 @@
         {
           "id": "13686",
           "label": "4",
+          "text": "Copper pipe and fittings",
+          "requirement_path": "6.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -232,6 +312,11 @@
         {
           "id": "13687",
           "label": "5",
+          "text": "Steel pipe and fittings",
+          "requirement_path": "6.5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -244,6 +329,11 @@
         {
           "id": "13688",
           "label": "6",
+          "text": "Specialty plumbing tools",
+          "requirement_path": "6.6",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -256,6 +346,11 @@
         {
           "id": "13689",
           "label": "b",
+          "text": "Cut, clean (debur), PVC or CPVC pipe; solvent weld at least three connections to include a coupling, tee, and elbow.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -273,6 +368,11 @@
         {
           "id": "13690",
           "label": "c",
+          "text": "Cut PEX pipe; make at least one connection using either a quick-connect fitting or a crimp fitting (using specialized tools).",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -290,6 +390,11 @@
         {
           "id": "13691",
           "label": "d",
+          "text": "Solder a copper connection using a gas torch.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -307,6 +412,11 @@
         {
           "id": "13692",
           "label": "e",
+          "text": "Replace a kitchen or lavatory faucet.",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -324,6 +434,11 @@
         {
           "id": "13693",
           "label": "f",
+          "text": "Remove, clean or replace, and reinstall a sink or lavatory drain trap.",
+          "requirement_path": "6.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -341,6 +456,11 @@
         {
           "id": "13694",
           "label": "g",
+          "text": "Properly apply pipe thread tape to a pipe or a plumbing connector.",
+          "requirement_path": "6.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -360,6 +480,11 @@
     {
       "id": "13695",
       "label": "7",
+      "text": "Identify three career opportunities that would use skills and knowledge in plumbing. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

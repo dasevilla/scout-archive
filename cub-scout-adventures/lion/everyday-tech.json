@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discover technology around your home, meeting place, or neighborhood.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover technology around your home, meeting place, or neighborhood.",
       "activities": [
         {
           "name": "“I Spy” Technology",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Discover ways that digital technology can make life easier.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover ways that digital technology can make life easier.",
       "activities": [
         {
           "name": "Grocery Shopping Tech",
@@ -86,6 +94,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Identify an item of digital technology you use at home. Demonstrate to your Lion adult partner how you use it safely.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify an item of digital technology you use at home. Demonstrate to your Lion adult partner how you use it safely.",
       "activities": [
         {
           "name": "Be Safe with Technology Lion",

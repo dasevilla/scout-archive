@@ -37,10 +37,10 @@ First aid—caring for injured or ill persons until they can receive professiona
 
     **Resources:** [Scout Health Forms (website)](https://www.scouting.org/health-and-safety/safety-moments/annual-health-and-medical-record/)
   - (b) Using checklists provided in the *First Aid* merit badge pamphlet or ones approved by your counselor, do the following:
-  - (1) Assemble a personal first-aid kit for hiking and backpacking. Demonstrate the proper use of each item in your first-aid kit to your counselor.
+    - (1) Assemble a personal first-aid kit for hiking and backpacking. Demonstrate the proper use of each item in your first-aid kit to your counselor.
 
-    **Resources:** [Personal, Family, and Troop First Aid Kit Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf), [First Aid KIt Checklists (website)](https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/)
-  - (2) With your counselor, inspect a unit, home, vehicle, or camp first-aid kit and discuss your findings.
+      **Resources:** [Personal, Family, and Troop First Aid Kit Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf), [First Aid KIt Checklists (website)](https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/)
+    - (2) With your counselor, inspect a unit, home, vehicle, or camp first-aid kit and discuss your findings.
 
 - (3) **Wounds with No External Bleeding.** Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:
 

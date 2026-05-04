@@ -14,6 +14,11 @@
     {
       "id": "9474",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "9475",
           "label": "a",
+          "text": "Explain and discuss with your counselor the following disabilities awareness terms: disability, accessibility, adaptation, accommodation, invisible disability, and person-first language.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -50,6 +60,11 @@
         {
           "id": "9476",
           "label": "b",
+          "text": "Explain why proper disability etiquette is important, and how it may differ depending on the specific disability. Give three examples.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -81,6 +96,11 @@
     {
       "id": "9498",
       "label": "2",
+      "text": "Visit an agency that works with people with physical, mental, emotional, or educational disabilities. Collect and read information about the agency's activities. Learn about opportunities its members have for training, employment, and education. Discuss what you have learned with your counselor.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -106,6 +126,11 @@
     {
       "id": "9477",
       "label": "3",
+      "text": "Do TWO of the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -117,6 +142,11 @@
         {
           "id": "9478",
           "label": "a",
+          "text": "Talk with a Scout who has a disability and learn about the Scout's experiences taking part in Scouting activities and earning different merit badges. Discuss what you have learned with your counselor.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -138,6 +168,11 @@
         {
           "id": "9479",
           "label": "b",
+          "text": "Talk with an individual who has a disability and learn about this person's experiences and the activities in which this person likes to participate. Discuss what you have learned with your counselor.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -159,6 +194,11 @@
         {
           "id": "9480",
           "label": "c",
+          "text": "Learn how people with disabilities take part in a particular adaptive sport or recreational activity. Discuss what you have learned with your counselor.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -184,6 +224,11 @@
         {
           "id": "9481",
           "label": "d",
+          "text": "Learn about independent living aids such as service animals, canes, and augmentative communication devices such as captioned telephones and videophones. Discuss with your counselor how people use such aids.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -217,6 +262,11 @@
         {
           "id": "9482",
           "label": "e",
+          "text": "Plan or participate in an activity that helps others understand what a person with a visible or invisible disability experiences. Discuss what you have learned with your counselor.",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -244,6 +294,11 @@
     {
       "id": "9483",
       "label": "4",
+      "text": "Do ONE of the following options:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -255,6 +310,11 @@
         {
           "id": "9484",
           "label": null,
+          "text": "Option A—Access.. Visit TWO of the following locations and take notes about the accessibility to people with disabilities. In your notes, give examples of five things that could be done to improve upon the site and five things about the site that make it friendly to people with disabilities. Discuss your observations with your counselor.",
+          "requirement_path": "4.option-a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -287,6 +347,11 @@
         {
           "id": "9485",
           "label": "1",
+          "text": "Your school",
+          "requirement_path": "4.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -299,6 +364,11 @@
         {
           "id": "9486",
           "label": "2",
+          "text": "Your place of worship",
+          "requirement_path": "4.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -311,6 +381,11 @@
         {
           "id": "9487",
           "label": "3",
+          "text": "A Scouting event or campsite",
+          "requirement_path": "4.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -323,6 +398,11 @@
         {
           "id": "9488",
           "label": "4",
+          "text": "A public exhibit or attraction (such as a theater, museum, or park)",
+          "requirement_path": "4.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -335,6 +415,11 @@
         {
           "id": "9489",
           "label": null,
+          "text": "Option B—Accommodation. Visit TWO of the following locations and take notes while observing features and methods that are used to accommodate people with invisible disabilities. While there, ask staff members to explain any accommodation features that may not be obvious. Note anything you think could be done to better accommodate people who have invisible disabilities. Discuss your observations with your counselor.",
+          "requirement_path": "4.option-b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -363,6 +448,11 @@
         {
           "id": "9490",
           "label": "1",
+          "text": "Your school",
+          "requirement_path": "4.1-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -375,6 +465,11 @@
         {
           "id": "9491",
           "label": "2",
+          "text": "Your place of worship",
+          "requirement_path": "4.2-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -387,6 +482,11 @@
         {
           "id": "9492",
           "label": "3",
+          "text": "A Scouting event or campsite",
+          "requirement_path": "4.3-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -399,6 +499,11 @@
         {
           "id": "9493",
           "label": "4",
+          "text": "A public exhibit or attraction (such as a theater, museum, or park)",
+          "requirement_path": "4.4-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -413,6 +518,11 @@
     {
       "id": "9494",
       "label": "5",
+      "text": "Explain what advocacy is. Do ONE of the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -424,6 +534,11 @@
         {
           "id": "9495",
           "label": "a",
+          "text": "Present a counselor-approved disabilities awareness program to a Cub Scout pack or other group. During your presentation, explain and use person-first language.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -441,6 +556,11 @@
         {
           "id": "9496",
           "label": "b",
+          "text": "Find out about disabilities awareness education programs in your school or school system, or contact a disability advocacy agency. Volunteer with a program or agency for eight hours.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -458,6 +578,11 @@
         {
           "id": "9497",
           "label": "c",
+          "text": "Using resources such as disability advocacy agencies, government agencies, the internet (with your parent or guardian's permission), and news magazines, learn about myths and misconceptions that influence the general public's understanding of people with disabilities. List 10 myths and misconceptions about people with disabilities and learn the facts about each myth. Share your list with your counselor, then use it to make a presentation to a Cub Scout pack or other group.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -477,6 +602,11 @@
     {
       "id": "9499",
       "label": "6",
+      "text": "Make a commitment to your counselor describing what you will do to show a positive attitude about and toward people with disabilities and to encourage positive attitudes among others. Discuss how your awareness has changed as a result of what you have learned.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -502,6 +632,11 @@
     {
       "id": "9500",
       "label": "7",
+      "text": "Name five professions that provide services to people with disabilities. Pick one that interests you and find out the education, training, and experience required for this profession. Discuss what you learn with your counselor, and tell why this profession interests you.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

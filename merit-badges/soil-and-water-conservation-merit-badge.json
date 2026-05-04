@@ -14,6 +14,11 @@
     {
       "id": "8731",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "8732",
           "label": "a",
+          "text": "Tell what soil is. Tell how it is formed.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -46,6 +56,11 @@
         {
           "id": "8733",
           "label": "b",
+          "text": "Describe three kinds of soil. Tell how they are different.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +78,11 @@
         {
           "id": "8734",
           "label": "c",
+          "text": "Name the three main plant nutrients in fertile soil. Tell how they can be put back when used up.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -82,6 +102,11 @@
     {
       "id": "8735",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -93,6 +118,11 @@
         {
           "id": "8736",
           "label": "a",
+          "text": "Define soil erosion.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +140,11 @@
         {
           "id": "8737",
           "label": "b",
+          "text": "Tell why soil erosion is important and how it affects you.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -127,6 +162,11 @@
         {
           "id": "8738",
           "label": "c",
+          "text": "Name three kinds of soil erosion. Describe each.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -139,6 +179,11 @@
         {
           "id": "8739",
           "label": "d",
+          "text": "Take pictures of or draw two kinds of soil erosion.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -158,6 +203,11 @@
     {
       "id": "8740",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -174,6 +224,11 @@
         {
           "id": "8741",
           "label": "a",
+          "text": "Tell what is meant by conservation practices.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -186,6 +241,11 @@
         {
           "id": "8742",
           "label": "b",
+          "text": "Describe the effect of three kinds of erosion-control practices.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -198,6 +258,11 @@
         {
           "id": "8743",
           "label": "c",
+          "text": "Take pictures of or draw three kinds of erosion-control practices.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -217,6 +282,11 @@
     {
       "id": "8744",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -228,6 +298,11 @@
         {
           "id": "8745",
           "label": "a",
+          "text": "Explain what a watershed is.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -253,6 +328,11 @@
         {
           "id": "8746",
           "label": "b",
+          "text": "Outline the smallest watershed that you can find on a contour map.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -265,6 +345,11 @@
         {
           "id": "8747",
           "label": "c",
+          "text": "Outline, as far as the map will allow, the next larger watershed that also has the smallest one in it.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -277,6 +362,11 @@
         {
           "id": "8748",
           "label": "d",
+          "text": "Explain what a river basin is. Tell why all people living in a river basin should be concerned about land and water use in the basin.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -294,6 +384,11 @@
         {
           "id": "8776",
           "label": "e",
+          "text": "Explain what an aquifer is and why it can be important to communities.",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -313,6 +408,11 @@
     {
       "id": "8749",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -324,6 +424,11 @@
         {
           "id": "8750",
           "label": "a",
+          "text": "Make a drawing to show the hydrologic cycle.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -341,6 +446,11 @@
         {
           "id": "8751",
           "label": "b",
+          "text": "Demonstrate at least two of the following actions of water in relation to soil: percolation, capillary action, precipitation, evaporation, and transpiration.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -366,6 +476,11 @@
         {
           "id": "8752",
           "label": "c",
+          "text": "Explain how removal of vegetation will affect the way water runs off a watershed.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -383,6 +498,11 @@
         {
           "id": "8753",
           "label": "d",
+          "text": "Tell how uses of forest, range, and farmland affect usable water supply.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -400,6 +520,11 @@
         {
           "id": "8754",
           "label": "e",
+          "text": "Explain how industrial use affects water supply.",
+          "requirement_path": "5.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -419,6 +544,11 @@
     {
       "id": "8755",
       "label": "6",
+      "text": "Do the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -439,6 +569,11 @@
         {
           "id": "8756",
           "label": "a",
+          "text": "Tell what is meant by water pollution.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -451,6 +586,11 @@
         {
           "id": "8757",
           "label": "b",
+          "text": "Describe common sources of water pollution and explain the effects of each.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -463,6 +603,11 @@
         {
           "id": "8758",
           "label": "c",
+          "text": "Explain the terms: primary water treatment, secondary waste treatment, and biochemical oxygen demand.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -480,6 +625,11 @@
         {
           "id": "8759",
           "label": "d",
+          "text": "Make a drawing showing the principles of complete waste treatment.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -494,6 +644,11 @@
     {
       "id": "8760",
       "label": "7",
+      "text": "Do TWO of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -505,6 +660,11 @@
         {
           "id": "8761",
           "label": "a",
+          "text": "Make a trip to TWO of the following places. Write a report of more than 500 words about the soil and water and energy conservation practices you saw.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -517,6 +677,11 @@
         {
           "id": "8762",
           "label": "1",
+          "text": "An agricultural experiment",
+          "requirement_path": "7.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -534,6 +699,11 @@
         {
           "id": "8763",
           "label": "2",
+          "text": "A managed forest or woodlot, range, or pasture",
+          "requirement_path": "7.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -551,6 +721,11 @@
         {
           "id": "8764",
           "label": "3",
+          "text": "A wildlife refuge or a fish or game management area",
+          "requirement_path": "7.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -568,6 +743,11 @@
         {
           "id": "8765",
           "label": "4",
+          "text": "A conservation-managed farm or ranch",
+          "requirement_path": "7.4",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -580,6 +760,11 @@
         {
           "id": "8766",
           "label": "5",
+          "text": "A managed watershed",
+          "requirement_path": "7.5",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -597,6 +782,11 @@
         {
           "id": "8767",
           "label": "6",
+          "text": "A waste-treatment plant",
+          "requirement_path": "7.6",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -614,6 +804,11 @@
         {
           "id": "8768",
           "label": "7",
+          "text": "A public drinking water treatment plant",
+          "requirement_path": "7.7",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -626,6 +821,11 @@
         {
           "id": "8769",
           "label": "8",
+          "text": "An industry water use installation",
+          "requirement_path": "7.8",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -647,6 +847,11 @@
         {
           "id": "8770",
           "label": "9",
+          "text": "A desalinization plant",
+          "requirement_path": "7.9",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -664,6 +869,11 @@
         {
           "id": "8771",
           "label": "b",
+          "text": "Plant 100 trees, bushes, and/or vines for a good purpose.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -676,6 +886,11 @@
         {
           "id": "8772",
           "label": "c",
+          "text": "Seed an area of at least one-fifth acre for some worthwhile conservation purposes, using suitable grasses or legumes alone or in a mixture.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -688,6 +903,11 @@
         {
           "id": "8773",
           "label": "d",
+          "text": "Study a soil survey report. Describe the things in it. Using tracing paper and a pen, trace over any of the soil maps, and outline an area with three or more different kinds of soil. List each kind of soil by full name and map symbol.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -705,6 +925,11 @@
         {
           "id": "8774",
           "label": "e",
+          "text": "Make a list of places in your neighborhood, camps, school ground, or park that have erosion, sedimentation, or pollution problems. Describe how these could be corrected through individual or group action.",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -717,6 +942,11 @@
         {
           "id": "8775",
           "label": "f",
+          "text": "Carry out any other soil and water conservation project approved by your counselor.",
+          "requirement_path": "7.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

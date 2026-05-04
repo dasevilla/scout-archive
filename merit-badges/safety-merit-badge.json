@@ -14,6 +14,11 @@
     {
       "id": "15588",
       "label": "1",
+      "text": "Safety and Hazards. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "15589",
           "label": "a",
+          "text": "Explain what safety is and what it means to be safe.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -57,6 +67,11 @@
         {
           "id": "15590",
           "label": "b",
+          "text": "Explain what hazards are and how people manage hazards to reduce risks of harm and to improve safety.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -76,6 +91,11 @@
     {
       "id": "15593",
       "label": "2",
+      "text": "Family and Home Safety. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -98,6 +118,11 @@
         {
           "id": "15594",
           "label": "a",
+          "text": "Explain common causes of and prevention of home injuries.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -119,6 +144,11 @@
         {
           "id": "15595",
           "label": "b",
+          "text": "Discuss the dangers involved with the use of fireworks.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -140,6 +170,11 @@
         {
           "id": "15596",
           "label": "c",
+          "text": "Explain common causes of and prevention of home fires.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -157,6 +192,11 @@
         {
           "id": "15597",
           "label": "d",
+          "text": "Using the Home Safety Checklist in the Safety merit badge pamphlet, or one approved by your counselor, inspect your home or a similar building for hazards with an adult. Review your checklist and findings with your counselor.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -189,6 +229,11 @@
         {
           "id": "15598",
           "label": "e",
+          "text": "Develop a fire-escape plan for your home or for a similar building. Include in your drawings exit routes from each room and a meeting place outside. Conduct a fire-escape drill. Review your plan and your drill with your counselor.",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -210,6 +255,11 @@
         {
           "id": "15609",
           "label": "f",
+          "text": "Develop a family emergency action plan for evacuation because of weather or other natural disasters that occur in your area. Using a checklist in the Safety merit badge pamphlet or one approved by your counselor, assemble or inspect an emergency supplies kit. Explain to your counselor how a family would use the plan and the kit supplies in an emergency.",
+          "requirement_path": "2.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -256,6 +306,11 @@
     {
       "id": "15599",
       "label": "3",
+      "text": "Safety from Crime. Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -278,6 +333,11 @@
         {
           "id": "15600",
           "label": "a",
+          "text": "Explain common types of crimes that can affect teens.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -290,6 +350,11 @@
         {
           "id": "15601",
           "label": "b",
+          "text": "Using a Home Security Checklist in the Safety merit badge pamphlet or one approved by your counselor, inspect your home or a similar building for crime security measures with an adult. Review your checklist and findings with your counselor.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -324,6 +389,11 @@
     {
       "id": "15604",
       "label": "4",
+      "text": "Safety in Public Places. Explain each of the following to your counselor:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -346,6 +416,11 @@
         {
           "id": "15610",
           "label": "a",
+          "text": "How a person would safely exit from public buildings, a hotel, and a stadium in an emergency",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -367,6 +442,11 @@
         {
           "id": "15611",
           "label": "b",
+          "text": "How and why Scouts would take shelter at camp",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -388,6 +468,11 @@
         {
           "id": "15612",
           "label": "c",
+          "text": "How should Scouts respond to an active shooter",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -405,6 +490,11 @@
         {
           "id": "15613",
           "label": "d",
+          "text": "The meaning of this saying: \"If You See Something, Say Something®\"",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -424,6 +514,11 @@
     {
       "id": "15605",
       "label": "5",
+      "text": "Safeguarding Youth. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -446,6 +541,11 @@
         {
           "id": "15614",
           "label": "a",
+          "text": "Discuss Scouting America's Safeguarding Youth guidelines that adults and Scouts must follow so that everyone is safe at Scouting activities.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -463,6 +563,11 @@
         {
           "id": "15615",
           "label": "b",
+          "text": "Discuss with your counselor what situations and behaviors would prompt you to Recognize, Resist, and Report a possible abuse situation.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -475,6 +580,11 @@
         {
           "id": "15616",
           "label": "c",
+          "text": "Discuss how you, other Scouts, leaders, and anyone can report situations suspicious for abuse through the Scouts First Helpline and other means.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -489,6 +599,11 @@
     {
       "id": "15606",
       "label": "6",
+      "text": "Safety from Assault. Explain how to avoid or prevent:",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -511,6 +626,11 @@
         {
           "id": "15617",
           "label": "a",
+          "text": "Assault on a street",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -528,6 +648,11 @@
         {
           "id": "15618",
           "label": "b",
+          "text": "Assault at a restaurant event",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -540,6 +665,11 @@
         {
           "id": "15619",
           "label": "c",
+          "text": "Sexual assault at a party or on a date",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -554,6 +684,11 @@
     {
       "id": "15607",
       "label": "7",
+      "text": "Online Safety. Discuss the following with your counselor:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -576,6 +711,11 @@
         {
           "id": "15620",
           "label": "a",
+          "text": "How to avoid being the victim of online crimes",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -597,6 +737,11 @@
         {
           "id": "15621",
           "label": "b",
+          "text": "Common online financial scams",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -618,6 +763,11 @@
         {
           "id": "15622",
           "label": "c",
+          "text": "Effective online security",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -635,6 +785,11 @@
         {
           "id": "15623",
           "label": "d",
+          "text": "Identity theft and how to prevent it",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -652,6 +807,11 @@
         {
           "id": "15624",
           "label": "e",
+          "text": "How criminals use social media to target victims",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -669,6 +829,11 @@
         {
           "id": "15625",
           "label": "f",
+          "text": "How bullying, texting, and sharing photos can become crimes",
+          "requirement_path": "7.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -683,6 +848,11 @@
     {
       "id": "15608",
       "label": "8",
+      "text": "Travel Safety. Explain guidelines for traveling safely:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -705,6 +875,11 @@
         {
           "id": "15626",
           "label": "a",
+          "text": "As a pedestrian in a city",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -722,6 +897,11 @@
         {
           "id": "15627",
           "label": "b",
+          "text": "In a friend's car or truck",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -739,6 +919,11 @@
         {
           "id": "15628",
           "label": "c",
+          "text": "In a rideshare vehicle",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -760,6 +945,11 @@
         {
           "id": "15629",
           "label": "d",
+          "text": "On a bus",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -781,6 +971,11 @@
         {
           "id": "15631",
           "label": "e",
+          "text": "On a subway or train",
+          "requirement_path": "8.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -798,6 +993,11 @@
         {
           "id": "15630",
           "label": "f",
+          "text": "On a commercial airplane",
+          "requirement_path": "8.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -817,6 +1017,11 @@
     {
       "id": "15632",
       "label": "9",
+      "text": "Careers. Do ONE of the following:",
+      "requirement_path": "9",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -839,6 +1044,11 @@
         {
           "id": "15633",
           "label": "a",
+          "text": "Explore careers related to Safety merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. With permission of your parent or guardian, your research methods may include an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -860,6 +1070,11 @@
         {
           "id": "15634",
           "label": "b",
+          "text": "Explore how you could use knowledge and skills related to safety to pursue a hobby, lifestyle, or service as a volunteer. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursue this.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

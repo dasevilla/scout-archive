@@ -41,25 +41,25 @@ The family is the basic unit of society and is important to both individuals and
 
     **Resources:** [Family Meeting (video)](https://vimeo.com/1114227645), [How to Hold a Family Meeting (video)](https://youtu.be/PsIHViDoi80?si=S_ul6VtJsaydr5si)
   - (b) Prepare a meeting agenda that includes the following topics, review it with your parent or guardian, and then carry out one or more family meetings:
-  - (1) How living the principles of the Scout Oath and Scout Law contributes to your family life
+    - (1) How living the principles of the Scout Oath and Scout Law contributes to your family life
 
-    **Resources:** [Scout Oath and Law (website)](https://www.scouting.org/about/faq/question10/)
-  - (2) The greatest dangers and addictions facing youth in today's society (examples include mental health challenges, use of tobacco products, alcohol, or drugs and other items such as debts, social media, etc.)
+      **Resources:** [Scout Oath and Law (website)](https://www.scouting.org/about/faq/question10/)
+    - (2) The greatest dangers and addictions facing youth in today's society (examples include mental health challenges, use of tobacco products, alcohol, or drugs and other items such as debts, social media, etc.)
 
-    **Resources:** [What Causes Addiction, and Why Is It So Hard to Treat? (video)](https://youtu.be/hBC7i-vHWsU?si=wpVHlg5gMVe_RLhe), [Teens and Social Media (video)](https://youtu.be/XE95C5yGKvM?si=mtau10v7S5kwAI1c), [Electronic Cigarettes and Vaping (video)](https://youtu.be/9dZS_Rniak0?si=V6A0VHuwIyUIe8ew), [How to Identify the Signs of an Unhealthy Relationship (podcast)](https://youtu.be/nS8snkkUC-U?si=Ts3YDh_yRfjw-d8u), [How Do I Start a Conversation About Mental Health? (podcast)](https://youtu.be/cGH95B7c-eM?si=KIWkpoWQIauoa-Eu), [Digital Safety and Online Scouting Activities (website)](https://www.scouting.org/health-and-safety/safety-moments/digital-safety-and-online-scouting-activities/), [Bullying Awareness (website)](https://www.scouting.org/training/youth/bullying/)
-  - (3) Discuss with a parent or guardian how bodily changes can affect the choices you make as you physically and mentally mature.
-  - (4) Personal and family finances
+      **Resources:** [What Causes Addiction, and Why Is It So Hard to Treat? (video)](https://youtu.be/hBC7i-vHWsU?si=wpVHlg5gMVe_RLhe), [Teens and Social Media (video)](https://youtu.be/XE95C5yGKvM?si=mtau10v7S5kwAI1c), [Electronic Cigarettes and Vaping (video)](https://youtu.be/9dZS_Rniak0?si=V6A0VHuwIyUIe8ew), [How to Identify the Signs of an Unhealthy Relationship (podcast)](https://youtu.be/nS8snkkUC-U?si=Ts3YDh_yRfjw-d8u), [How Do I Start a Conversation About Mental Health? (podcast)](https://youtu.be/cGH95B7c-eM?si=KIWkpoWQIauoa-Eu), [Digital Safety and Online Scouting Activities (website)](https://www.scouting.org/health-and-safety/safety-moments/digital-safety-and-online-scouting-activities/), [Bullying Awareness (website)](https://www.scouting.org/training/youth/bullying/)
+    - (3) Discuss with a parent or guardian how bodily changes can affect the choices you make as you physically and mentally mature.
+    - (4) Personal and family finances
 
-    **Resources:** [Money Management (video)](https://vimeo.com/1114227609), [The 50-30-20 Rule - Budgeting for Needs, Wants, and Savings (video)](https://youtu.be/OZQQMYfaBT4?si=1f9kNb_OVcyxd4NB)
-  - (5) A crisis situation within your family and whom you can turn to for support during these situations.
+      **Resources:** [Money Management (video)](https://vimeo.com/1114227609), [The 50-30-20 Rule - Budgeting for Needs, Wants, and Savings (video)](https://youtu.be/OZQQMYfaBT4?si=1f9kNb_OVcyxd4NB)
+    - (5) A crisis situation within your family and whom you can turn to for support during these situations.
 
-    **Resources:** [Family Bonding (video)](https://vimeo.com/1114227697)
-  - (6) The effect of technology on your family
+      **Resources:** [Family Bonding (video)](https://vimeo.com/1114227697)
+    - (6) The effect of technology on your family
 
-    **Resources:** [Evolving Technology: Will Family Life Ever Be the Same Again? (video)](https://www.youtube.com/watch?v=sFc_q9-KD8c)
-  - (7) Good etiquette and manners
+      **Resources:** [Evolving Technology: Will Family Life Ever Be the Same Again? (video)](https://www.youtube.com/watch?v=sFc_q9-KD8c)
+    - (7) Good etiquette and manners
 
-    **Resources:** [Etiquette (video)](https://vimeo.com/1114227718)
+      **Resources:** [Etiquette (video)](https://vimeo.com/1114227718)
 
 - (7) Discuss with your counselor your understanding of what makes an effective parent or guardian and why, and your thoughts on the parent or guardian's role and responsibilities in the family.
 

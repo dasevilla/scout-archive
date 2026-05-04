@@ -11,6 +11,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Use household materials to create a useful object.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Use household materials to create a useful object.",
       "activities": [
         {
           "name": "2 Liter Bird Feeder",

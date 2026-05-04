@@ -14,6 +14,11 @@
     {
       "id": "15670",
       "label": "1",
+      "text": "Explain to your counselor the precautions that must be followed for the safe use and operation of a sculptor's tools, equipment, and other materials.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -35,6 +40,11 @@
     {
       "id": "15666",
       "label": "2",
+      "text": "Do TWO of the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -46,6 +56,11 @@
         {
           "id": "15667",
           "label": "a",
+          "text": "Model in clay a life-size human head. Then sculpt in modeling clay, carve in wood or plaster, or use 3D modeling software to make a small-scale model of an animal or person. Explain to your counselor the method and tools you used to sculpt the figure.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -71,6 +86,11 @@
         {
           "id": "15668",
           "label": "b",
+          "text": "Make a plaster mold of a fruit or vegetable. In this mold, make a copy of the fruit or vegetable. Explain to your counselor the method and tools you used to make the copy.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -92,6 +112,11 @@
         {
           "id": "15669",
           "label": "c",
+          "text": "With your parent or guardian's permission and your counselor's approval, visit a museum, art exhibit, art gallery, artists' co-op, or artist's studio. After your visit, share with your counselor what you have learned. Discuss the importance of visual arts and how it strengthens social tolerance and helps stimulate cultural, intellectual, and personal development.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -111,6 +136,11 @@
     {
       "id": "15671",
       "label": "3",
+      "text": "Do ONE of the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -122,6 +152,11 @@
         {
           "id": "15672",
           "label": "a",
+          "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -147,6 +182,11 @@
         {
           "id": "15673",
           "label": "b",
+          "text": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

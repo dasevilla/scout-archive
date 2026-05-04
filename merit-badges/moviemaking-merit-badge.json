@@ -14,6 +14,11 @@
     {
       "id": "14955",
       "label": "1",
+      "text": "Discuss and demonstrate the proper elements of a good motion picture. In your discussion, include visual storytelling, rhythm, the 180-axis rule, camera movement, framing and composition of camera shots, and lens selection.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "14938",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "14950",
           "label": "a",
+          "text": "In a three- or four-paragraph treatment, tell the story you plan to produce, making sure that the treatment conveys a visual picture.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -59,6 +74,11 @@
         {
           "id": "14951",
           "label": "b",
+          "text": "Prepare a storyboard for your motion picture. Note: This can be done with rough sketches and stick figures.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -91,6 +111,11 @@
         {
           "id": "14939",
           "label": "c",
+          "text": "Demonstrate the following motion picture shooting techniques:",
+          "requirement_path": "2.c",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",
@@ -98,129 +123,165 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14940",
-          "label": "1",
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Using a tripod"
-            }
-          ],
-          "resources": [
-            {
-              "title": "7 Tripod Tricks for Filmaking (video)",
-              "url": "https://youtu.be/pAvn034VcCg"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14941",
-          "label": "2",
-          "content": [
-            {
-              "type": "text",
-              "value": "Panning a camera"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Camera Panning (video)",
-              "url": "https://youtu.be/Km7Rfpda_Lw"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14942",
-          "label": "3",
-          "content": [
-            {
-              "type": "text",
-              "value": "Framing a shot"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Reverse Shot (video)",
-              "url": "https://youtu.be/5UE3jz_O_EM"
+              "id": "14940",
+              "label": "1",
+              "text": "Using a tripod",
+              "requirement_path": "2.c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Using a tripod"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "7 Tripod Tricks for Filmaking (video)",
+                  "url": "https://youtu.be/pAvn034VcCg"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Frame it Right Essential Framing (short video)",
-              "url": "https://www.youtube.com/shorts/DAwz2Wnrr90?feature=share"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14943",
-          "label": "4",
-          "content": [
-            {
-              "type": "text",
-              "value": "Selecting an angle"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Filmmaking 101: 5 Camera Angles (video)",
-              "url": "https://youtu.be/nfHvSnILXl0?si=9ObCi1MwUvu3CHyW"
+              "id": "14941",
+              "label": "2",
+              "text": "Panning a camera",
+              "requirement_path": "2.c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Panning a camera"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Camera Panning (video)",
+                  "url": "https://youtu.be/Km7Rfpda_Lw"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "12 CAMERA ANGLES to Enhance Your Films (video)",
-              "url": "https://youtu.be/SlNviMsi0K0"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14944",
-          "label": "5",
-          "content": [
-            {
-              "type": "text",
-              "value": "Selecting proper lighting"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Ultimate Guide to Cinematic Lighting (video)",
-              "url": "https://youtu.be/r2nD_knsNrc"
+              "id": "14942",
+              "label": "3",
+              "text": "Framing a shot",
+              "requirement_path": "2.c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Framing a shot"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Reverse Shot (video)",
+                  "url": "https://youtu.be/5UE3jz_O_EM"
+                },
+                {
+                  "title": "Frame it Right Essential Framing (short video)",
+                  "url": "https://www.youtube.com/shorts/DAwz2Wnrr90?feature=share"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Zack Snyder Justice League Martian Man Hunter Meets Lois (video)",
-              "url": "https://youtu.be/zdZ2zza5WbY?si=m3eF-8tZrS-NaOC5"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14945",
-          "label": "6",
-          "content": [
-            {
-              "type": "text",
-              "value": "Handheld shooting"
-            }
-          ],
-          "resources": [
-            {
-              "title": "5 Tips for Shooting Handheld Videos (video)",
-              "url": "https://youtu.be/LuJdvwm8-0k"
+              "id": "14943",
+              "label": "4",
+              "text": "Selecting an angle",
+              "requirement_path": "2.c.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Selecting an angle"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Filmmaking 101: 5 Camera Angles (video)",
+                  "url": "https://youtu.be/nfHvSnILXl0?si=9ObCi1MwUvu3CHyW"
+                },
+                {
+                  "title": "12 CAMERA ANGLES to Enhance Your Films (video)",
+                  "url": "https://youtu.be/SlNviMsi0K0"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Birdman: Anatomy of a Scene (video)",
-              "url": "https://youtu.be/PVmaJAmQ3yQ"
+              "id": "14944",
+              "label": "5",
+              "text": "Selecting proper lighting",
+              "requirement_path": "2.c.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Selecting proper lighting"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Ultimate Guide to Cinematic Lighting (video)",
+                  "url": "https://youtu.be/r2nD_knsNrc"
+                },
+                {
+                  "title": "Zack Snyder Justice League Martian Man Hunter Meets Lois (video)",
+                  "url": "https://youtu.be/zdZ2zza5WbY?si=m3eF-8tZrS-NaOC5"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14945",
+              "label": "6",
+              "text": "Handheld shooting",
+              "requirement_path": "2.c.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Handheld shooting"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "5 Tips for Shooting Handheld Videos (video)",
+                  "url": "https://youtu.be/LuJdvwm8-0k"
+                },
+                {
+                  "title": "Birdman: Anatomy of a Scene (video)",
+                  "url": "https://youtu.be/PVmaJAmQ3yQ"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14946",
           "label": "d",
+          "text": "Using motion picture shooting techniques, plan ONE of the following programs. Start with a treatment and complete the requirement by presenting this program to a pack or your troop, patrol, or class.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -233,6 +294,11 @@
         {
           "id": "14947",
           "label": "1",
+          "text": "Film a court of honor and show it to an audience.",
+          "requirement_path": "2.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -250,6 +316,11 @@
         {
           "id": "14948",
           "label": "2",
+          "text": "Create a short feature of your own design, using the techniques you learned.",
+          "requirement_path": "2.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -267,6 +338,11 @@
         {
           "id": "14949",
           "label": "3",
+          "text": "Shoot a vignette that could be used to train a new Scout in a Scouting skill.",
+          "requirement_path": "2.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -286,6 +362,11 @@
     {
       "id": "14952",
       "label": "3",
+      "text": "Do ONE of the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -297,6 +378,11 @@
         {
           "id": "14953",
           "label": "a",
+          "text": "With your parent or guardian's permission and your counselor's approval, visit a film set or television production studio and watch how production work is done.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -314,6 +400,11 @@
         {
           "id": "14954",
           "label": "b",
+          "text": "Explain to your counselor the elements of the zoom lens and three important parts.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -337,6 +428,11 @@
     {
       "id": "14956",
       "label": "4",
+      "text": "Do ONE of the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -348,6 +444,11 @@
         {
           "id": "14957",
           "label": "a",
+          "text": "Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -365,6 +466,11 @@
         {
           "id": "14958",
           "label": "b",
+          "text": "Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

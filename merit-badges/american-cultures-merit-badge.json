@@ -14,6 +14,11 @@
     {
       "id": "11313",
       "label": null,
+      "text": "NOTE: Choose THREE groups that have different racial, cultural, national, or ethnic backgrounds, one of which comes from your own background. Use these groups to meet requirements 1, 2, and 3.",
+      "requirement_path": "item-1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -33,6 +38,11 @@
     {
       "id": "57",
       "label": "1",
+      "text": "Do TWO of the following, choosing a different group for each:",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -44,6 +54,11 @@
         {
           "id": "62",
           "label": "a",
+          "text": "Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -56,6 +71,11 @@
         {
           "id": "63",
           "label": "b",
+          "text": "Go to a place of worship, school, or other institution identified with one of the groups. Report on what you see and learn.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -68,6 +88,11 @@
         {
           "id": "64",
           "label": "c",
+          "text": "Talk with a person from one of the groups about the heritage and traditions of the group. Report on what you learn.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -80,6 +105,11 @@
         {
           "id": "65",
           "label": "d",
+          "text": "Learn a song, dance, poem, or story that is traditional to one group, and teach it to a group of your friends.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -92,6 +122,11 @@
         {
           "id": "66",
           "label": "e",
+          "text": "Go to a library or museum to see a program or exhibit featuring one group's traditions. Report on what you see and learn.",
+          "requirement_path": "1.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -106,6 +141,11 @@
     {
       "id": "58",
       "label": "2",
+      "text": "Imagine that one of the groups had always lived alone in a city or country to which no other groups ever came. Tell what you think the city or country might be like today. Now tell what you think it might be like if the three groups you chose lived there at the same time.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -118,6 +158,11 @@
     {
       "id": "59",
       "label": "3",
+      "text": "Tell about some differences between the religious and social customs of the three groups. Tell about some ideas or ways of doing things that are similar in the three groups.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -130,6 +175,11 @@
     {
       "id": "60",
       "label": "4",
+      "text": "Tell about a contribution made to our country by three different people, each from a different racial, ethnic, or religious background.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -142,6 +192,11 @@
     {
       "id": "61",
       "label": "5",
+      "text": "Give a talk to your Scout unit or class at school on how people from different groups have gotten along together. Lead a discussion on what can be done to help various groups understand one another better.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

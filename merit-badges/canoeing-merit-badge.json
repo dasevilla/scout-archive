@@ -14,6 +14,11 @@
     {
       "id": "11595",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "11596",
           "label": "a",
+          "text": "Review with your counselor the most likely hazards you may encounter while participating in canoeing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "11597",
           "label": "b",
+          "text": "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that could occur while canoeing: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, and strains.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "11598",
           "label": "c",
+          "text": "Discuss the Scouting America Safety Afloat policy. Tell how it applies to canoeing activities.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "11599",
       "label": "2",
+      "text": "Before doing the following requirements, successfully complete the Scouting America swimmer test, found in the Swimming merit badge pamphlet.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -90,6 +115,11 @@
     {
       "id": "11600",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -101,6 +131,11 @@
         {
           "id": "11601",
           "label": "a",
+          "text": "Name and point out the major parts of a canoe.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -113,6 +148,11 @@
         {
           "id": "11602",
           "label": "b",
+          "text": "Describe how the length and shape of a canoe affect its performance.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -127,6 +167,11 @@
     {
       "id": "11603",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -138,6 +183,11 @@
         {
           "id": "11604",
           "label": "a",
+          "text": "Name and point out the parts of a paddle.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -150,6 +200,11 @@
         {
           "id": "11605",
           "label": "b",
+          "text": "Demonstrate how to correctly size a paddle for a paddler in a sitting position and a kneeling position.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -164,6 +219,11 @@
     {
       "id": "11606",
       "label": "5",
+      "text": "Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -175,6 +235,11 @@
         {
           "id": "11607",
           "label": "a",
+          "text": "Review with your counselor the characteristics of life jackets most appropriate for canoeing and tell why a life jacket must always be worn while paddling.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -187,6 +252,11 @@
         {
           "id": "11608",
           "label": "b",
+          "text": "Demonstrate how to select and properly fit the correct size life jacket.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -199,6 +269,11 @@
         {
           "id": "11609",
           "label": "c",
+          "text": "Review the importance of safety and rescue equipment such as a sound signal device, extra paddle, sponge, bailer, bilge pump, rescue sling, ropes, and throw bag.",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -213,6 +288,11 @@
     {
       "id": "11610",
       "label": "6",
+      "text": "Review with your counselor the general care and maintenance of canoes, paddles, and other canoeing equipment.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -225,6 +305,11 @@
     {
       "id": "11611",
       "label": "7",
+      "text": "With a companion, use a properly equipped canoe to demonstrate the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -236,6 +321,11 @@
         {
           "id": "11612",
           "label": "a",
+          "text": "Safely carry and launch the canoe from a dock or shore (both, if possible).",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -248,6 +338,11 @@
         {
           "id": "11613",
           "label": "b",
+          "text": "Safely land the canoe on a dock or shore (both, if possible) and return it to its proper storage location.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -260,6 +355,11 @@
         {
           "id": "11614",
           "label": "c",
+          "text": "Demonstrate kneeling and sitting positions in a canoe and explain the proper use for each position.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -272,6 +372,11 @@
         {
           "id": "11616",
           "label": "d",
+          "text": "Change places while afloat in the canoe.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -286,6 +391,11 @@
     {
       "id": "11615",
       "label": "8",
+      "text": "With a companion, use a properly equipped canoe to demonstrate the following:",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -297,6 +407,11 @@
         {
           "id": "11617",
           "label": "a",
+          "text": "Safely exit the canoe in deep water without losing contact with the canoe. Reenter the canoe with the assistance of the other paddler without capsizing the boat.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -309,6 +424,11 @@
         {
           "id": "11618",
           "label": "b",
+          "text": "Safely perform a controlled capsize of the canoe and demonstrate how staying with a capsized canoe will support both paddlers.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -321,6 +441,11 @@
         {
           "id": "11619",
           "label": "c",
+          "text": "Swim, tow, or push a swamped canoe 50 feet to shallow water. In the shallow water, empty the swamped canoe and reenter it.",
+          "requirement_path": "8.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -333,6 +458,11 @@
         {
           "id": "11620",
           "label": "d",
+          "text": "In deep water, rescue a swamped canoe and its paddlers. After checking that those in the water do not need immediate assistance, empty the swamped canoe and help the paddlers safely reenter their boat without capsizing.",
+          "requirement_path": "8.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -345,6 +475,11 @@
         {
           "id": "11621",
           "label": "e",
+          "text": "Perform a canoe rescue of a conscious swimmer.",
+          "requirement_path": "8.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -357,6 +492,11 @@
         {
           "id": "11622",
           "label": "f",
+          "text": "Using a rescue (throw) bag from shore, lay the line within 3 feet of a conscious swimmer 30 feet away. Show how to repack the bag when done.",
+          "requirement_path": "8.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -371,6 +511,11 @@
     {
       "id": "11623",
       "label": "9",
+      "text": "With a companion, using a properly equipped canoe to demonstrate the following tandem maneuvers while paddling in unison on opposite sides and without changing sides. Each paddler must demonstrate these maneuvers in both the bow and stern and on both sides of the canoe while maintaining trim and balance of the canoe:",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -382,6 +527,11 @@
         {
           "id": "11624",
           "label": "a",
+          "text": "Pivot (spin) the canoe 180° (half circle) to the right from a stationary position, stop, and return to the starting position by pivoting to the left using draw and pushaway strokes or using forward and reverse sweeps staying within 2 boat lengths of the starting position.",
+          "requirement_path": "9.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -394,6 +544,11 @@
         {
           "id": "11625",
           "label": "b",
+          "text": "Move a canoe sideways (abeam) in one direction for 10 feet and then return to the starting position using the draw and pushaway strokes.",
+          "requirement_path": "9.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -406,6 +561,11 @@
         {
           "id": "11626",
           "label": "c",
+          "text": "While in forward motion, stop the canoe within two boat lengths using the backstroke.",
+          "requirement_path": "9.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -418,6 +578,11 @@
         {
           "id": "11627",
           "label": "d",
+          "text": "While in the stern position and without assistance from the bow paddler, paddle in a straight line 15-20 boat lengths using an appropriate steering stroke, e.g., the J-stroke or thumb-down rudder stroke with or without a stern pry.",
+          "requirement_path": "9.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -430,6 +595,11 @@
         {
           "id": "11628",
           "label": "e",
+          "text": "Move the canoe in a straight line 15-20 boat lengths with the bow paddler using as necessary the forward stroke, draw stroke or forward sweep and the stern paddler using an appropriate steering stroke, e.g., the J-stroke or thumbdown rudder stroke with or without a stern pry.",
+          "requirement_path": "9.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -442,6 +612,11 @@
         {
           "id": "11629",
           "label": "f",
+          "text": "While maintaining forward motion, turn the canoe 90° in an arc to the right in 5-10 boat lengths with the bow paddler using as necessary either the draw stroke or forward sweep and the stern paddler using only the forward stroke. Repeat the maneuver turning the canoe 90° to the left.",
+          "requirement_path": "9.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -454,6 +629,11 @@
         {
           "id": "11630",
           "label": "g",
+          "text": "Move the canoe backwards in a straight line 3-4 boat lengths using as necessary the back stroke, reverse sweep or draw stroke in the bow or the stern.",
+          "requirement_path": "9.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -466,6 +646,11 @@
         {
           "id": "11631",
           "label": "h",
+          "text": "Complete a figure of 8 course around markers 3-4 boat lengths apart using appropriate strokes including the draw stroke, and the forward and reverse sweeps.",
+          "requirement_path": "9.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

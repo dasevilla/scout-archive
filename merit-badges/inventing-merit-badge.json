@@ -14,6 +14,11 @@
     {
       "id": "11288",
       "label": "1",
+      "text": "In your own words, define inventing. Then do the following:",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -30,6 +35,11 @@
         {
           "id": "11289",
           "label": "a",
+          "text": "Explain to your counselor the role of inventors and their inventions in the economic development of the United States.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -51,6 +61,11 @@
         {
           "id": "11290",
           "label": "b",
+          "text": "List three inventions and state how they have helped humankind.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -74,6 +89,11 @@
     {
       "id": "11291",
       "label": "2",
+      "text": "Do ONE of the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -85,6 +105,11 @@
         {
           "id": "11292",
           "label": "a",
+          "text": "With your parent or guardian's permission and counselor's approval, interview an adult who has invented a useful item or process. Report what you learned to your counselor.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -102,6 +127,11 @@
         {
           "id": "11293",
           "label": "b",
+          "text": "Read about three inventors. Select the one you find most interesting and tell your counselor what you learned.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -116,6 +146,11 @@
     {
       "id": "11294",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -127,6 +162,11 @@
         {
           "id": "11295",
           "label": "a",
+          "text": "Define the term intellectual property. Explain which government agencies oversee the protection of intellectual property, the types of intellectual property that can be protected, how such property is protected, and why protection is necessary.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -152,6 +192,11 @@
         {
           "id": "11296",
           "label": "b",
+          "text": "Explain the components of a patent and the different types of patents available.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -169,6 +214,11 @@
         {
           "id": "11297",
           "label": "c",
+          "text": "Examine your Scouting gear and find a patent number on a camping item you have used. With your parent or guardian's permission, use the internet to find out more about that patent. Compare the finished item with the claims and drawings in the patent. Report what you learned to your counselor.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -186,6 +236,11 @@
         {
           "id": "11298",
           "label": "d",
+          "text": "Explain to your counselor the term patent infringement.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -205,6 +260,11 @@
     {
       "id": "11306",
       "label": "4",
+      "text": "Discuss with your counselor the types of inventions that are appropriate to share with others, and explain why. Tell your counselor about one unpatented invention and its impact on society.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -222,6 +282,11 @@
     {
       "id": "11307",
       "label": "5",
+      "text": "Choose a commercially available product that you have used on an overnight camping trip with your troop. Make recommendations for improving the product, and make a sketch that shows your recommendations. Discuss your recommendations with your counselor.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -234,6 +299,11 @@
     {
       "id": "11299",
       "label": "6",
+      "text": "Think of an item you would like to invent that would solve a problem for your family, troop, chartered organization, community, or a special-interest group. Then do the following, while keeping a notebook to record your progress.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -258,6 +328,11 @@
         {
           "id": "11300",
           "label": "a",
+          "text": "Talk to potential users of your invention and determine their needs. Then, based on what you have learned, write a statement describing the invention and how it would help solve a problem. This statement should include a detailed sketch of the invention.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -283,6 +358,11 @@
         {
           "id": "11301",
           "label": "b",
+          "text": "Create a model of the invention using clay, cardboard, or any other readily available material. List the materials necessary to build a working prototype of the invention.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -300,6 +380,11 @@
         {
           "id": "11302",
           "label": "c",
+          "text": "Share the idea and the model with your counselor and potential users of your invention. Record their feedback in your notebook.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -314,6 +399,11 @@
     {
       "id": "11308",
       "label": "7",
+      "text": "Build a working prototype of the item you invented for requirement 6. Test and evaluate the invention. Among the aspects to consider in your evaluation are cost, usefulness, marketability, appearance, and function. Describe how your original vision and expectations for your invention are similar or dissimilar to the prototype you built. Have your counselor evaluate and critique your prototype.Note: Before you begin building the prototype, you must have your counselor's approval, based on the design and building plans you have already shared.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -346,6 +436,11 @@
     {
       "id": "11303",
       "label": "8",
+      "text": "Do ONE of the following:",
+      "requirement_path": "8",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -357,6 +452,11 @@
         {
           "id": "11304",
           "label": "a",
+          "text": "Participate with a club or team (robotics team, science club, or engineering club) that builds a useful item. Share your experience with your counselor.",
+          "requirement_path": "8.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -378,6 +478,11 @@
         {
           "id": "11305",
           "label": "b",
+          "text": "Visit a museum or exhibit dedicated to an inventor or invention, and create a presentation of your visit to share with a group such as your troop or patrol.",
+          "requirement_path": "8.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -409,6 +514,11 @@
     {
       "id": "11309",
       "label": "9",
+      "text": "Discuss with your counselor the diverse skills, education, training, and experience it takes to be an inventor. Discuss how you can prepare yourself to be creative and inventive to solve problems at home, in school, and in your community. Discuss three career fields that might utilize the skills of an inventor.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

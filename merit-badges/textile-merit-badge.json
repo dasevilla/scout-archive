@@ -14,6 +14,11 @@
     {
       "id": "3293",
       "label": "1",
+      "text": "Discuss with your counselor the importance of textiles. Explain the terms fiber, fabric, and textile. Give examples of textiles you use every day.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "3294",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "3295",
           "label": "a",
+          "text": "Get swatches of two natural fiber fabrics (100 percent cotton, linen, wool or silk; no blends). Get swatches of two synthetic fiber fabrics (nylon, polyester, acrylic, olefin, or spandex). Get a sample of one cellulosic fabric (rayon, acetate or lyocell).",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -54,6 +69,11 @@
         {
           "id": "3296",
           "label": "b",
+          "text": "Give the origin, major characteristics, and general content of each type of fiber obtained for 2(a). Explain the difference between a cellulosic manufactured fiber and a synthetic manufactured fiber.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -71,6 +91,11 @@
         {
           "id": "3297",
           "label": "c",
+          "text": "Describe the main steps in making raw fiber into yarn, and yarn into fabric.",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -100,6 +125,11 @@
         {
           "id": "3298",
           "label": "d",
+          "text": "Assume you will soon buy a new garment or other textile item. Tell your counselor what fiber or blend of fibers you want the item to be, and give reasons for your choice.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -114,6 +144,11 @@
     {
       "id": "3299",
       "label": "3",
+      "text": "Do TWO of the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -125,6 +160,11 @@
         {
           "id": "3300",
           "label": "a",
+          "text": "Visit a textile plant, textile products manufacturer or textile school or college. Report on what you saw and learned.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -137,6 +177,11 @@
         {
           "id": "3301",
           "label": "b",
+          "text": "Weave a belt, headband, place mat or wall hanging. Use a simple loom that you have made yourself.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -154,6 +199,11 @@
         {
           "id": "3302",
           "label": "c",
+          "text": "With a magnifying glass, examine a woven fabric, a nonwoven fabric, and a knitted fabric. Sketch what you see. Explain how the three constructions are different.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -171,6 +221,11 @@
         {
           "id": "3303",
           "label": "d",
+          "text": "Make a piece of felt.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -188,6 +243,11 @@
         {
           "id": "3304",
           "label": "e",
+          "text": "Make two natural dyes and use them to dye a garment or a piece of fabric.",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -213,6 +273,11 @@
         {
           "id": "3305",
           "label": "f",
+          "text": "Waterproof a fabric.",
+          "requirement_path": "3.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -234,6 +299,11 @@
         {
           "id": "3306",
           "label": "g",
+          "text": "Demonstrate how to identify fibers, using microscope identification or the breaking test.",
+          "requirement_path": "3.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -253,6 +323,11 @@
     {
       "id": "3307",
       "label": "4",
+      "text": "Explain the meaning of 10 of the following terms: warp, harness, heddle, shed, aramid, spandex, sliver, yarn, spindle, distaff, loom, cellulose, sericulture, extrusion, carbon fibers, spinneret, staple, worsted, nonwoven, and greige goods.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -270,6 +345,11 @@
     {
       "id": "3308",
       "label": "5",
+      "text": "List the advantages and disadvantages of natural plant fibers, natural animal fibers, cellulosic manufactured fibers, and synthetic manufactured fibers. Identify and discuss at least four ecological concerns regarding the production and care of textiles.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -287,6 +367,11 @@
     {
       "id": "3309",
       "label": "6",
+      "text": "Explain to your counselor, either verbally or in a written report, five career possibilities in the textile industry. Tell about two positions that interest you the most and the education, cost of training and specific duties those positions require.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

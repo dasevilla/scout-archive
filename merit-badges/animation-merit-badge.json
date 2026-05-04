@@ -14,6 +14,11 @@
     {
       "id": "5974",
       "label": "1",
+      "text": "General Knowledge. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -36,6 +41,11 @@
         {
           "id": "5975",
           "label": "a",
+          "text": "In your own words, describe to your counselor what animation is.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -53,6 +63,11 @@
         {
           "id": "5976",
           "label": "b",
+          "text": "Discuss with your counselor a brief history of animation.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -76,6 +91,11 @@
     {
       "id": "5977",
       "label": "2",
+      "text": "Principles of Animation. Choose five of the following 12 principles of animation, and discuss how each one makes an animation appear more believable: squash and stretch, anticipation, staging, straight ahead action and pose to pose, follow through and overlapping action, slow in and slow out, arcs, secondary action, timing, exaggeration, solid drawing, and appeal.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -108,6 +128,11 @@
     {
       "id": "5978",
       "label": "3",
+      "text": "Projects. With your counselor's approval, choose two animation techniques and do the following for each:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -130,6 +155,11 @@
         {
           "id": "5979",
           "label": "a",
+          "text": "Technique 1",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -162,6 +192,11 @@
         {
           "id": "5981",
           "label": "1",
+          "text": "Plan your animation using thumbnail sketches and/or layout drawings either on paper or using an animation software program.",
+          "requirement_path": "3.1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -174,6 +209,11 @@
         {
           "id": "5982",
           "label": "2",
+          "text": "Create the animation.",
+          "requirement_path": "3.2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -186,6 +226,11 @@
         {
           "id": "5983",
           "label": "3",
+          "text": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made.",
+          "requirement_path": "3.3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -198,6 +243,11 @@
         {
           "id": "5980",
           "label": "b",
+          "text": "Technique 2",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "element",
@@ -230,6 +280,11 @@
         {
           "id": "5984",
           "label": "1",
+          "text": "Plan your animation using thumbnail sketches and/or layout drawings.",
+          "requirement_path": "3.1-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -242,6 +297,11 @@
         {
           "id": "5985",
           "label": "2",
+          "text": "Create the animation.",
+          "requirement_path": "3.2-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -254,6 +314,11 @@
         {
           "id": "5986",
           "label": "3",
+          "text": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made.",
+          "requirement_path": "3.3-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -268,6 +333,11 @@
     {
       "id": "5987",
       "label": "4",
+      "text": "Animation in our World. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -290,6 +360,11 @@
         {
           "id": "5988",
           "label": "a",
+          "text": "Tour an animation studio or a business where animation is used, either in person, via video, or via the internet. Share what you have learned with your counselor.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -319,6 +394,11 @@
         {
           "id": "5989",
           "label": "b",
+          "text": "Discuss with your counselor how animation might be used in the future to make your life more enjoyable and productive.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -342,6 +422,11 @@
     {
       "id": "5990",
       "label": "5",
+      "text": "Careers. Learn about three career opportunities in animation. Pick one and find out about the education, training, and experience required for this profession. Discuss your findings with your counselor. Explain why this profession might interest you.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",

@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Read, understand, and promise to follow the “Cub Scout Knife Safety Rules.”",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Read, understand, and promise to follow the “Cub Scout Knife Safety Rules.”",
       "activities": [
         {
           "name": "Knife Safety Rules Crossword",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Demonstrate the knife safety circle.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate the knife safety circle.",
       "activities": [
         {
           "name": "Webelos Knife Safety Circle",
@@ -59,6 +67,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Demonstrate that you know how to care for and use a kitchen knife safely.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -67,7 +80,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate that you know how to care for and use a kitchen knife safely.",
       "activities": [
         {
           "name": "Webelos Kitchen Knife Care and Use",
@@ -83,6 +95,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Choose the correct cooking knife and demonstrate how to properly slice, dice, and mince.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -91,7 +108,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Choose the correct cooking knife and demonstrate how to properly slice, dice, and mince.",
       "activities": [
         {
           "name": "Make Fruit Salad",

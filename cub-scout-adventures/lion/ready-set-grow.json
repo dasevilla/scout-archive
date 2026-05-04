@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Discover where the food we eat comes from.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Discover where the food we eat comes from.",
       "activities": [
         {
           "name": "Ground, Tree, Vine, Farm",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Plant a small garden outside or in a container.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Plant a small garden outside or in a container.",
       "activities": [
         {
           "name": "Alright, Alright, Alright, It’s Avocado Time",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Visit with an individual who can demonstrate different ways to garden (outside, greenhouse, container, etc.) and the basic skills needed to garden.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Visit with an individual who can demonstrate different ways to garden (outside, greenhouse, container, etc.) and the basic skills needed to garden.",
       "activities": [
         {
           "name": "Lions Garden Like a Pro",

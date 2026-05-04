@@ -14,6 +14,11 @@
     {
       "id": "11903",
       "label": "1",
+      "text": "Identify the different American Indian cultural areas. Explain what makes them each unique.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "11904",
       "label": "2",
+      "text": "Research an American Indian tribe, group, or nation. Tell your counselor about traditional dwellings, way of life, tribal government, religious beliefs, family and clan relationships, language, clothing styles, arts and crafts, food cultivation, foraging and preparation, means of getting around, games, customs in warfare, and where and how they live today.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -38,6 +48,11 @@
     {
       "id": "11905",
       "label": "3",
+      "text": "Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "11906",
           "label": "a",
+          "text": "Learn 10 common terms in an American Indian language and their meanings.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "11907",
           "label": "b",
+          "text": "Identify the meaning of 10 place names of American Indian origin in the United States.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -73,6 +98,11 @@
         {
           "id": "11908",
           "label": "c",
+          "text": "Name five well-known American Indian leaders, either from the past or people of today. Give their tribes or nations. Describe what they did or do now that makes them notable.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -87,6 +117,11 @@
     {
       "id": "11909",
       "label": "4",
+      "text": "Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -98,6 +133,11 @@
         {
           "id": "11910",
           "label": "a",
+          "text": "Describe how life might have been different for the European settlers if there had been no Native Americans to meet them when they came to this continent.",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +150,11 @@
         {
           "id": "11911",
           "label": "b",
+          "text": "Describe eight things adopted by others from American Indians.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "11912",
           "label": "c",
+          "text": "Learn a game played by a group or tribe. Teach and lead it with a Scout group.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -136,6 +186,11 @@
     {
       "id": "11913",
       "label": "5",
+      "text": "Do ONE of the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -147,6 +202,11 @@
         {
           "id": "11914",
           "label": "a",
+          "text": "Visit a museum either in-person or virtually to see American Indian exhibitions and collections. Discuss with your counselor what you observed or learned from two exhibitions and identify 10 artifacts by tribe or nation, their shape, size, and use.",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -159,6 +219,11 @@
         {
           "id": "11915",
           "label": "b",
+          "text": "Attend a contemporary American Indian gathering. Discuss with your counselor proper etiquette for attending as well as what you learned and observed during your visit.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

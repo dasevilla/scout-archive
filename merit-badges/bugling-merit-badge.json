@@ -14,6 +14,11 @@
     {
       "id": "13828",
       "label": null,
+      "text": "NOTE: A bugle, trumpet, or cornet may be used to meet these requirements.",
+      "requirement_path": "item-1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -33,6 +38,11 @@
     {
       "id": "8831",
       "label": "1",
+      "text": "Give a brief history of the bugle.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -54,6 +64,11 @@
     {
       "id": "8828",
       "label": "2",
+      "text": "Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -65,6 +80,11 @@
         {
           "id": "8829",
           "label": "a",
+          "text": "Explain and demonstrate how the bugle makes sound, and explain how the bugle is related to other brass wind instruments.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -82,6 +102,11 @@
         {
           "id": "8830",
           "label": "b",
+          "text": "Compose a bugle call for your troop or patrol to signal a common group activity, such as assembling for mealtime or striking a campsite. Play the call that you have composed before your unit or patrol.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -96,6 +121,11 @@
     {
       "id": "8832",
       "label": "3",
+      "text": "Sound 10 of the following bugle calls: \"First Call,\" \"Reveille,\" \"Assembly,\" \"Mess,\" \"Drill,\" \"Fatigue,\" \"Officers,\" \"Recall,\" \"Church,\" \"Swimming,\" \"Fire,\" \"Retreat,\" \"To the Colors,\" \"Call to Quarters,\" and \"Taps.\"",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -169,6 +199,11 @@
     {
       "id": "8833",
       "label": "4",
+      "text": "Explain when each of the calls in requirement 3 is used.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -186,6 +221,11 @@
     {
       "id": "8834",
       "label": "5",
+      "text": "Explain how to care for, clean, and maintain a bugle.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -203,6 +243,11 @@
     {
       "id": "8835",
       "label": "6",
+      "text": "Serve as bugler in your troop for three months.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

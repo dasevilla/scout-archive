@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Visit an area with trees and plants and conduct a tree inventory. Select one tree and complete the remaining requirements based on that tree.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Visit an area with trees and plants and conduct a tree inventory. Select one tree and complete the remaining requirements based on that tree.",
       "activities": [
         {
           "name": "Tree Inventory",
@@ -35,6 +39,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Determine if your tree is deciduous or evergreen.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -43,7 +52,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Determine if your tree is deciduous or evergreen.",
       "activities": [
         {
           "name": "Leaf Rubbing",
@@ -77,6 +85,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Determine if your tree is native or was introduced to your area.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -85,7 +98,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Determine if your tree is native or was introduced to your area.",
       "activities": [
         {
           "name": "Native, Introduced, Or Invasive",
@@ -101,6 +113,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Find out how your tree deals with wildfire.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -109,7 +126,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Find out how your tree deals with wildfire.",
       "activities": [
         {
           "name": "Burning Questions",
@@ -134,6 +150,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Learn how wildlife uses your tree.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -142,7 +163,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn how wildlife uses your tree.",
       "activities": [
         {
           "name": "Trees As Habitats",

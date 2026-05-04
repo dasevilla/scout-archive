@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
       "activities": [
         {
           "name": "Guess the Cub Scout Six Essential",
@@ -44,6 +48,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials. While outside, identify things that you see with your Lion adult partner that are natural and things that are manmade.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -52,7 +61,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials. While outside, identify things that you see with your Lion adult partner that are natural and things that are manmade.",
       "activities": [
         {
           "name": "A Different Point of View",
@@ -86,6 +94,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Identify common animals that are found where you live. Separate those animals into domesticated and wild.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -94,7 +107,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify common animals that are found where you live. Separate those animals into domesticated and wild.",
       "activities": [
         {
           "name": "Animal Craft",

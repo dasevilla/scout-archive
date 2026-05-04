@@ -56,12 +56,12 @@ In earning the Insect Study merit badge, Scouts will glance into the strange and
 
     **Resources:** [Social Insects (website)](https://genent.cals.ncsu.edu/bug-bytes/social-insects/), [What Are Social Insects? (website)](https://www.thoughtco.com/what-are-social-insects-1968157)
   - (b) Do ONE of the following:
-  - (1) Observe an ant colony in a formicarium (ant farm). Find the queen and worker ants. Explain to your counselor the different chambers found within an ant colony.
+    - (1) Observe an ant colony in a formicarium (ant farm). Find the queen and worker ants. Explain to your counselor the different chambers found within an ant colony.
 
-    **Resources:** [Inside the Ant Colony ( video)](https://www.youtube.com/watch?v=vG-QZOTc5_Q)
-  - (2) Study a hive of bees. Remove the combs and find the queen. Estimate the amount of brood and count the number of queen cells. Explain how to determine the amount of honey in the hive. (If you are allergic to bee stings, pick option (1) above.)
+      **Resources:** [Inside the Ant Colony ( video)](https://www.youtube.com/watch?v=vG-QZOTc5_Q)
+    - (2) Study a hive of bees. Remove the combs and find the queen. Estimate the amount of brood and count the number of queen cells. Explain how to determine the amount of honey in the hive. (If you are allergic to bee stings, pick option (1) above.)
 
-    **Resources:** [Beekeeping 101 ( video)](https://youtu.be/C2h4fYL73_M?si=GSvoxnXeVd8E9MA4)
+      **Resources:** [Beekeeping 101 ( video)](https://youtu.be/C2h4fYL73_M?si=GSvoxnXeVd8E9MA4)
 
 - (6) **Ecology.** Do the following:
   - (a) Tell how insects fit in the food web of other insects, fish, birds, and mammals.

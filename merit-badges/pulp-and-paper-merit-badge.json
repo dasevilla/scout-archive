@@ -14,6 +14,11 @@
     {
       "id": "5284",
       "label": "1",
+      "text": "Tell the history of papermaking. Describe the part paper products play in our society and economy.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -31,6 +36,11 @@
     {
       "id": "5291",
       "label": "2",
+      "text": "Learn about the pulp and paper industry.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -42,6 +52,11 @@
         {
           "id": "5292",
           "label": "a",
+          "text": "Describe the ways the industry plants, grows, and harvests trees.",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -59,6 +74,11 @@
         {
           "id": "5293",
           "label": "b",
+          "text": "Explain how the industry manages its forests so that the supply of trees keeps pace with the demand.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -76,6 +96,11 @@
         {
           "id": "5294",
           "label": "c",
+          "text": "Tell how the industry has incorporated the concepts of sustainable forest management (SFM).",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -93,6 +118,11 @@
         {
           "id": "5295",
           "label": "d",
+          "text": "Describe two ways the papermaking industry has addressed pollution.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -112,6 +142,11 @@
     {
       "id": "5296",
       "label": "3",
+      "text": "Name at least four types of trees that are major sources of papermaking fibers. Then do the following:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -128,6 +163,11 @@
         {
           "id": "5297",
           "label": "a",
+          "text": "Discuss what other uses are made of the trees and the forestland owned by the pulp and paper industry.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -145,6 +185,11 @@
         {
           "id": "5298",
           "label": "b",
+          "text": "Describe two ways of getting fibers from wood, and explain the major differences between them.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -162,6 +207,11 @@
         {
           "id": "5299",
           "label": "c",
+          "text": "Tell why some pulps are bleached, and describe the process.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -181,6 +231,11 @@
     {
       "id": "5287",
       "label": "4",
+      "text": "Describe how paper is made. Discuss how paper is recycled. Make a sheet of paper by hand.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -206,6 +261,11 @@
     {
       "id": "5288",
       "label": "5",
+      "text": "Explain what coated paper is and why it is coated. Describe the major uses for different kinds of coated papers. Describe one other way that paper is changed by chemical or mechanical means to make new uses possible.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -223,6 +283,11 @@
     {
       "id": "5289",
       "label": "6",
+      "text": "Make a list of 15 pulp or paper products found in your home. Share examples of 10 such products with your counselor.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -235,6 +300,11 @@
     {
       "id": "5278",
       "label": "7",
+      "text": "With your parent or guardian's and counselor's approval, do ONE of the following:",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -246,6 +316,11 @@
         {
           "id": "5279",
           "label": "a",
+          "text": "Visit a pulp mill. Describe how the mill converts wood to cellulose fibers.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -263,6 +338,11 @@
         {
           "id": "5280",
           "label": "b",
+          "text": "Visit a paper mill and get a sample of the paper made there. Describe the processes used for making this paper. Tell how it will be used.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -275,6 +355,11 @@
         {
           "id": "5281",
           "label": "c",
+          "text": "Visit a container plant or box plant. Describe how the plant's products are made.",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -292,6 +377,11 @@
         {
           "id": "5282",
           "label": "d",
+          "text": "Visit a recycled paper collection or sorting facility. Describe the operations there.",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -317,6 +407,11 @@
         {
           "id": "5283",
           "label": "e",
+          "text": "Using books, magazines, your local library, the internet (with your parent or guardian's permission), and any other suitable research tool, find out how paper products are developed. Find out what role research and development play in the papermaking industry. Share what you learned with your counselor.",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -340,6 +435,11 @@
     {
       "id": "5290",
       "label": "8",
+      "text": "Find out about three career opportunities in the papermaking industry that interest you. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

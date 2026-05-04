@@ -14,6 +14,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Preventing Injury. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -35,11 +40,16 @@
       "sub_requirements": [
         {
           "id": "a",
-          "label": null,
+          "label": "a",
+          "text": "Explain to your counselor how you can prevent injuries while participating in dancing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Explain what you need to take into consideration before trying potentially dangerous moves including but not limited to jumps, flips, and lifts.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
-              "value": "(a) Explain to your counselor how you can prevent injuries while participating in dancing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Explain what you need to take into consideration before trying potentially dangerous moves including but not limited to jumps, flips, and lifts."
+              "value": "Explain to your counselor how you can prevent injuries while participating in dancing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Explain what you need to take into consideration before trying potentially dangerous moves including but not limited to jumps, flips, and lifts."
             }
           ],
           "resources": [
@@ -75,6 +85,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Elements of Dance. Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -107,6 +122,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Styles of Dance. Name and briefly describe SIX types or styles of dancing from the following list, noting if this is a dance that may be performed alone, if the dance generally requires a partner or group, or if it could be either a solo or partner dance.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -128,11 +148,16 @@
       "sub_requirements": [
         {
           "id": "a",
-          "label": null,
+          "label": "a",
+          "text": "Acrobatics/Acro Dance",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
-              "value": "(a) Acrobatics/Acro Dance"
+              "value": "Acrobatics/Acro Dance"
             }
           ],
           "resources": [
@@ -240,6 +265,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Research. Research TWO of the types of dance you learned about in requirement 3 by doing the following for EACH type of dance you chose:",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "element",
@@ -262,6 +292,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Give a brief history, including its origin, how it came to be in the United States if it originated elsewhere, and where in the world/country it is most often performed. (b) Name/describe different variations of this style of dancing, if any. (c) Name some specific types of dance steps/moves particular to this type of dance. Does this dance tell a story through movement? If so, please describe. (d) Include information on at least one person who became well-known performing, teaching, or choreographing this type of dance. (e) Note if anyone with a physical disability (such a person with hearing or sight impairment or a person who uses a wheelchair) could participate in this type of dancing. What accommodations would that person need to participate? (f) Locate and share a place near you/in your state where you could watch or participate in this type of dance as a part of a performance, competition, or class. Find out when and where this is offered and what the cost would be to watch or participate. (g) Watch a performance of this type of dance and discuss with your counselor. (While viewing an in-person performance is preferable, a recorded performance may also be permitted.)",
+          "requirement_path": "4.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -276,6 +311,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "Learn and Perform a Dance. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -298,6 +338,11 @@
         {
           "id": "a",
           "label": null,
+          "text": "(a) Learn a dance. Use at least THREE types of warm-ups prior to your routine to prepare different muscle groups for the exercise. The dance may be solo, group, or partner dance and can use a memorized choreographed routine or an improvised dance. It should be a minimum of 2 minutes long or several shorter dances that add up to at least 2 minutes. The dance should demonstrate at least three different dance moves/steps and should contain music with Scout-appropriate lyrics, if applicable. (b) Perform the dance for your counselor or submit a video of your performance to your counselor. Describe to your counselor what precautions you took to avoid injury before and during your performance. Name or describe the 3 different dance moves that you learned, the 3 different warm-ups you chose, and the 5 Elements of Dance in your routine.",
+          "requirement_path": "5.item-1",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -353,6 +398,11 @@
     {
       "id": "6",
       "label": "6",
+      "text": "Careers. Do ONE of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -374,11 +424,16 @@
       "sub_requirements": [
         {
           "id": "a",
-          "label": null,
+          "label": "a",
+          "text": "Explore careers related to Dance. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
-              "value": "(a) Explore careers related to Dance. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+              "value": "Explore careers related to Dance. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
             }
           ],
           "resources": [
@@ -410,6 +465,11 @@
     {
       "id": "7",
       "label": "7",
+      "text": "Complete the survey below to complete the test lab requirements",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "element",

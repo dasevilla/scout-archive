@@ -14,6 +14,11 @@
     {
       "id": "11386",
       "label": "1",
+      "text": "Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -25,6 +30,11 @@
         {
           "id": "11387",
           "label": "a",
+          "text": "Explain to your counselor the most likely hazards you may encounter while participating in fly-fishing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Name and explain five safety practices you should always follow while fly-fishing.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "11388",
           "label": "b",
+          "text": "Discuss the prevention of and treatment for the following health concerns that could occur while fly-fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, and sunburn.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "11389",
           "label": "c",
+          "text": "Explain how to remove a hook that has lodged in someone's arm.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -63,6 +83,11 @@
     {
       "id": "11401",
       "label": "2",
+      "text": "Demonstrate how to match a fly rod, line, and leader to achieve a balanced system. Discuss several types of fly lines, and explain how and when each would be used. Review with your counselor how to care for this equipment.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -75,6 +100,11 @@
     {
       "id": "11390",
       "label": "3",
+      "text": "Demonstrate how to tie proper knots to prepare a fly rod for fishing:",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -86,6 +116,11 @@
         {
           "id": "11391",
           "label": "a",
+          "text": "Tie backing to the arbor of a fly reel spool using an arbor knot.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -98,6 +133,11 @@
         {
           "id": "11392",
           "label": "b",
+          "text": "Tie backing to the fly line using a nail (tube) knot.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -110,6 +150,11 @@
         {
           "id": "11393",
           "label": "c",
+          "text": "Attach a leader to the fly line using a nail (tube) knot or a loop-to-loop connection.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "11394",
           "label": "d",
+          "text": "Add a tippet to a leader using a surgeon's knot or a loop-to-loop connection.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -134,6 +184,11 @@
         {
           "id": "11395",
           "label": "e",
+          "text": "Tie a fly onto the terminal end of the leader using an improved clinch knot.",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -148,6 +203,11 @@
     {
       "id": "11402",
       "label": "4",
+      "text": "Explain how and when each of the following types of flies is used: dry flies, wet flies, nymphs, streamers, bass bugs, poppers, and saltwater flies. Tell what each one imitates. Tie at least two types of the flies mentioned in this requirement.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -160,6 +220,11 @@
     {
       "id": "11403",
       "label": "5",
+      "text": "Demonstrate the ability to cast a fly 30 feet consistently and accurately using both overhead and roll cast techniques.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -172,6 +237,11 @@
     {
       "id": "11404",
       "label": "6",
+      "text": "Go to a suitable fishing location and observe what fish may be eating both above and beneath the water's surface. Explain the importance of matching the hatch.",
+      "requirement_path": "6",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -184,6 +254,11 @@
     {
       "id": "11396",
       "label": "7",
+      "text": "Do the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -195,6 +270,11 @@
         {
           "id": "11397",
           "label": "a",
+          "text": "Explain the importance of practicing Leave No Trace Seven Principles and the Outdoor Code. Discuss the positive effects of the Leave No Trace Seven Principles and the Outdoor Code on fly-fishing resources.",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -207,6 +287,11 @@
         {
           "id": "11398",
           "label": "b",
+          "text": "Discuss the meaning and importance of catch and release. Describe how to properly release a fish safely to the water.",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -221,6 +306,11 @@
     {
       "id": "11405",
       "label": "8",
+      "text": "Obtain and review a copy of the regulations affecting game fishing where you live or where you plan to fish. Explain why they were adopted and what is accomplished by following them.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -233,6 +323,11 @@
     {
       "id": "11406",
       "label": "9",
+      "text": "Explain what good outdoor sportsmanlike behavior is and how it relates to anglers. Tell how the Leave No Trace Seven Principles and the Outdoor Code relate to a fishing sports enthusiast, including the aspects of littering, trespassing, courteous behavior, and obeying fishing regulations.",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -245,6 +340,11 @@
     {
       "id": "11399",
       "label": "10",
+      "text": "Catch one fish on a fly and identify it.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -257,6 +357,11 @@
     {
       "id": "11400",
       "label": "11",
+      "text": "If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired.\nNote: It is not required that you eat the fish.",
+      "requirement_path": "11",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",

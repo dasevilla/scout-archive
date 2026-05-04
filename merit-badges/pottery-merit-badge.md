@@ -17,8 +17,9 @@ The Pottery merit badge provides an introduction to pottery making, enabling Sco
   - (a) Explain the properties and ingredients of a good clay body for the following:
 
     **Resources:** [Best Clay for Pottery: Hand-Building, Wheel Throwing & Sculpting Explained (video)](https://youtu.be/d2l-Aup2QMM?si=WqEsE2JrVKcD5MIK)
-  - (1) Making sculpture using the hand-building method
-  - (2) Throwing on the wheel
+
+    - (1) Making sculpture using the hand-building method
+    - (2) Throwing on the wheel
   - (b) Tell how three different kinds of potter's wheels work.
 
     **Resources:** [Selecting a Potter's Wheel (PDF)](https://select.schoolspecialty.com/wcsstore/SSICatalogAssetStore/ideas-resources/V2182323.pdf), [Pottery Wheels - a Buyers Guide (website)](https://ceramic.school/pottery-wheels/)

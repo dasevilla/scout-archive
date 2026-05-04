@@ -14,6 +14,11 @@
     {
       "id": "13494",
       "label": "1",
+      "text": "Define law. Tell some of its sources. Describe the functions it serves.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -26,6 +31,11 @@
     {
       "id": "13477",
       "label": "2",
+      "text": "Discuss TWO of the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -37,6 +47,11 @@
         {
           "id": "13478",
           "label": "a",
+          "text": "Justinian's Code, the Code of Hammurabi, and the Magna Carta",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -49,6 +64,11 @@
         {
           "id": "13479",
           "label": "b",
+          "text": "The development of the jury system",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -61,6 +81,11 @@
         {
           "id": "13480",
           "label": "c",
+          "text": "Two famous trials in history",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -75,6 +100,11 @@
     {
       "id": "13496",
       "label": "3",
+      "text": "Tell what civil law is; tell what criminal law is. Tell the main differences between them. Give examples of each.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -87,6 +117,11 @@
     {
       "id": "13497",
       "label": "4",
+      "text": "Ask five people (not more than one from your immediate family) about the role of law enforcement officers in our society. Discuss their answers with them. Report your findings to your counselor.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -99,6 +134,11 @@
     {
       "id": "13498",
       "label": "5",
+      "text": "Discuss with your counselor several laws that were passed to protect the consumer and the seller. Describe several organizations that provide help to consumers and sellers.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -111,6 +151,11 @@
     {
       "id": "13481",
       "label": "6",
+      "text": "Do ONE of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -122,6 +167,11 @@
         {
           "id": "13482",
           "label": "a",
+          "text": "Attend a session of a civil or criminal court. Write 250 words or more on what you saw.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -134,6 +184,11 @@
         {
           "id": "13483",
           "label": "b",
+          "text": "Plan and conduct a mock trial with your troop or school class or other group. After the trial is over, discuss it with the group.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -148,6 +203,11 @@
     {
       "id": "13499",
       "label": "7",
+      "text": "Arrange a visit with a lawyer who works for a business, bank, title company, or government agency. Find out his or her duties and responsibilities. Report what you have learned.",
+      "requirement_path": "7",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -160,6 +220,11 @@
     {
       "id": "13500",
       "label": "8",
+      "text": "Explain the requirements for becoming a lawyer in your state. Describe how judges are selected in your state.",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -172,6 +237,11 @@
     {
       "id": "13501",
       "label": "9",
+      "text": "Make a list of 15 jobs that deal with some aspects of law or legal processes. Tell which you prefer. Why?",
+      "requirement_path": "9",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -184,6 +254,11 @@
     {
       "id": "13495",
       "label": "10",
+      "text": "Tell where people can go to obtain the help of a lawyer if they are unable to pay for one. Tell what you can do if you can afford a lawyer but do not know of any in your area.",
+      "requirement_path": "10",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -196,6 +271,11 @@
     {
       "id": "13484",
       "label": "11",
+      "text": "Discuss with your counselor the importance in our society of TWO of the following areas of the law or process:",
+      "requirement_path": "11",
+      "node_kind": "action_requirement",
+      "is_container": true,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -207,6 +287,11 @@
         {
           "id": "13485",
           "label": "a",
+          "text": "Administrative",
+          "requirement_path": "11.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -219,6 +304,11 @@
         {
           "id": "13502",
           "label": "b",
+          "text": "Alternative Dispute Resolution",
+          "requirement_path": "11.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -231,6 +321,11 @@
         {
           "id": "13486",
           "label": "c",
+          "text": "Bankruptcy",
+          "requirement_path": "11.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -243,6 +338,11 @@
         {
           "id": "13503",
           "label": "d",
+          "text": "Biotechnology",
+          "requirement_path": "11.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -255,6 +355,11 @@
         {
           "id": "13487",
           "label": "e",
+          "text": "Environmental",
+          "requirement_path": "11.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -267,6 +372,11 @@
         {
           "id": "13488",
           "label": "f",
+          "text": "Family",
+          "requirement_path": "11.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -279,6 +389,11 @@
         {
           "id": "13489",
           "label": "g",
+          "text": "Immigration",
+          "requirement_path": "11.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -291,6 +406,11 @@
         {
           "id": "13490",
           "label": "h",
+          "text": "Information Technology",
+          "requirement_path": "11.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -303,6 +423,11 @@
         {
           "id": "13491",
           "label": "i",
+          "text": "Intellectual Property, (Copyright, Patents and Trademarks)",
+          "requirement_path": "11.i",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -315,6 +440,11 @@
         {
           "id": "13492",
           "label": "j",
+          "text": "International",
+          "requirement_path": "11.j",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
@@ -327,6 +457,11 @@
         {
           "id": "13493",
           "label": "k",
+          "text": "Privacy",
+          "requirement_path": "11.k",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",

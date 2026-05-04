@@ -11,6 +11,11 @@
     {
       "id": "1",
       "label": "1",
+      "text": "Identify the type of water you will be fishing in and what type of fish live in the water.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -19,7 +24,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Identify the type of water you will be fishing in and what type of fish live in the water.",
       "activities": [
         {
           "name": "Fish Name Game",
@@ -53,6 +57,11 @@
     {
       "id": "2",
       "label": "2",
+      "text": "Learn about the different types of bait used to attract fish.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -61,7 +70,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn about the different types of bait used to attract fish.",
       "activities": [
         {
           "name": "Bait-ology Bonanza",
@@ -95,6 +103,11 @@
     {
       "id": "3",
       "label": "3",
+      "text": "Demonstrate a proper cast for the pole or rod you are using.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -103,7 +116,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Demonstrate a proper cast for the pole or rod you are using.",
       "activities": [
         {
           "name": "Cast & Learn",
@@ -137,6 +149,11 @@
     {
       "id": "4",
       "label": "4",
+      "text": "Learn the rules of fishing safely.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -145,7 +162,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Learn the rules of fishing safely.",
       "activities": [
         {
           "name": "Bait and Switch Safety Rules Game",
@@ -179,6 +195,11 @@
     {
       "id": "5",
       "label": "5",
+      "text": "With your den, pack, or family, go fishing.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         {
           "type": "text",
@@ -187,7 +208,6 @@
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "With your den, pack, or family, go fishing.",
       "activities": [
         {
           "name": "Go Fish",

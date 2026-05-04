@@ -107,6 +107,9 @@ HTML
   - Extracts and normalizes resources into a list.
   - Cleans attributes to a controlled HTML subset.
   - Normalizes whitespace and inline spacing.
+  - Repairs flattened option/list sequences without badge-specific rules.
+  - Adds downstream metadata such as `text`, `requirement_path`, `node_kind`,
+    `is_container`, and `requires_response`.
 
 - **MarkdownGenerator**
   - Renders labels as `(1)` style markers.

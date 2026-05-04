@@ -37,6 +37,11 @@ EAGLE_REQUIRED_BADGES = [
 ]
 
 ALLOWED_NODE_TAGS = {"b", "strong", "i", "em", "a", "br"}
+ALLOWED_NODE_KINDS = {
+    "action_requirement",
+    "instruction_container",
+    "option_container",
+}
 
 
 def _node_text(nodes):
@@ -97,6 +102,29 @@ def _validate_requirement_tree(requirements, path, errors, warnings):
                 errors.append(f"{req_path} label is not a string")
             elif label.endswith(".") or label.startswith("(") or label.endswith(")"):
                 warnings.append(f"{req_path} label not normalized: '{label}'")
+
+        text = req.get("text")
+        if text is None:
+            errors.append(f"{req_path} missing text")
+        elif not isinstance(text, str):
+            errors.append(f"{req_path} text is not a string")
+
+        requirement_path = req.get("requirement_path")
+        if not requirement_path:
+            errors.append(f"{req_path} missing requirement_path")
+        elif not isinstance(requirement_path, str):
+            errors.append(f"{req_path} requirement_path is not a string")
+
+        node_kind = req.get("node_kind")
+        if node_kind not in ALLOWED_NODE_KINDS:
+            errors.append(f"{req_path} invalid node_kind '{node_kind}'")
+
+        if not isinstance(req.get("is_container"), bool):
+            errors.append(f"{req_path} is_container is not a boolean")
+
+        if not isinstance(req.get("requires_response"), bool):
+            errors.append(f"{req_path} requires_response is not a boolean")
+
         content = req.get("content")
         if content is None:
             errors.append(f"{req_path} missing content")

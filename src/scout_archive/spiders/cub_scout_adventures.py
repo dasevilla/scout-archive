@@ -371,6 +371,7 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         semantic_requirement = self._requirements_processor.process([raw_item])[0]
         if not semantic_requirement.label:
             semantic_requirement.label = req_number
+        semantic_requirement.requirement_path = semantic_requirement.label or req_number
 
         req_text = self._requirements_generator.render_content(
             semantic_requirement.content

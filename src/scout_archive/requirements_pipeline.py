@@ -37,6 +37,13 @@ class Resource(BaseModel):
 class SemanticRequirement(BaseModel):
     id: str
     label: Optional[str] = None
+    text: str = ""
+    requirement_path: str = ""
+    node_kind: Literal[
+        "action_requirement", "instruction_container", "option_container"
+    ] = "action_requirement"
+    is_container: bool = False
+    requires_response: bool = True
     content: List[RawNode] = Field(default_factory=list)
     resources: List[Resource] = Field(default_factory=list)
     sub_requirements: List["SemanticRequirement"] = Field(default_factory=list)
@@ -157,6 +164,8 @@ class SemanticProcessor:
     INLINE_SPACE_TAGS = {"a", "b", "em", "i", "strong"}
     RESOURCE_LABEL_TAGS = {"b", "em", "i", "span", "strong"}
     TEXT_LABEL_RE = re.compile(r"^\s*(\([A-Za-z0-9]+\)|[A-Za-z0-9]+[.)]+)\s*")
+    INLINE_LABEL_RE = re.compile(r"(\([a-z]\)|\([0-9]+\))\s+")
+    OPTION_PREFIX_RE = re.compile(r"^\s*Option\s+([A-Za-z0-9]+)\b", re.IGNORECASE)
     EXCLUDED_NOTE_RE = re.compile(
         r"\bthe official merit badge pamphlets are now free and downloadable\b",
         re.IGNORECASE,
@@ -168,6 +177,12 @@ class SemanticProcessor:
             if self._is_excluded_requirement(item):
                 continue
             processed.append(self._process_item(item))
+        processed = self._split_inline_labeled_requirements(processed)
+        processed = self._repair_requirement_hierarchy(processed)
+        processed = self._promote_resource_only_children(processed)
+        processed = self._collapse_empty_passthrough_requirements(processed)
+        processed = self._drop_empty_requirements(processed)
+        self._annotate_requirements(processed)
         return processed
 
     def _process_item(self, item: RawRequirementItem) -> SemanticRequirement:
@@ -209,17 +224,19 @@ class SemanticProcessor:
                     continue
             cleaned.append(node)
         if label:
-            return label, cleaned
+            return label, self._drop_leading_ignorable_nodes(cleaned)
 
-        if cleaned:
-            first = cleaned[0]
+        cleaned = self._drop_leading_ignorable_nodes(cleaned)
+        first_index = self._first_meaningful_node_index(cleaned)
+        if first_index is not None:
+            first = cleaned[first_index]
             if isinstance(first, RawElementNode) and first.tag in {"b", "strong"}:
                 label, updated = self._extract_label_from_element(first)
                 if label:
                     if updated is None:
-                        cleaned = cleaned[1:]
+                        del cleaned[first_index]
                     else:
-                        cleaned[0] = updated
+                        cleaned[first_index] = updated
                     return label, cleaned
             if isinstance(first, RawTextNode):
                 match = self.TEXT_LABEL_RE.match(first.value)
@@ -227,9 +244,9 @@ class SemanticProcessor:
                     label = self._normalize_label(match.group(1))
                     remainder = first.value[match.end() :]
                     if remainder:
-                        cleaned[0] = RawTextNode(value=remainder)
+                        cleaned[first_index] = RawTextNode(value=remainder)
                     else:
-                        cleaned = cleaned[1:]
+                        del cleaned[first_index]
         return label, cleaned
 
     def _extract_label_from_element(
@@ -237,7 +254,10 @@ class SemanticProcessor:
     ) -> tuple[Optional[str], Optional[RawElementNode]]:
         if not node.children:
             return None, node
-        first = node.children[0]
+        children = self._drop_leading_ignorable_nodes(list(node.children))
+        if not children:
+            return None, None
+        first = children[0]
         if not isinstance(first, RawTextNode):
             return None, node
         match = self.TEXT_LABEL_RE.match(first.value)
@@ -245,7 +265,7 @@ class SemanticProcessor:
             return None, node
         label = self._normalize_label(match.group(1))
         remainder = first.value[match.end() :]
-        new_children = list(node.children)
+        new_children = list(children)
         if remainder.strip():
             new_children[0] = RawTextNode(value=remainder)
         else:
@@ -255,6 +275,27 @@ class SemanticProcessor:
         return label, RawElementNode(
             tag=node.tag, attrs=node.attrs, children=new_children
         )
+
+    def _first_meaningful_node_index(self, nodes: List[RawNode]) -> Optional[int]:
+        for index, node in enumerate(nodes):
+            if not self._is_ignorable_node(node):
+                return index
+        return None
+
+    def _drop_leading_ignorable_nodes(self, nodes: List[RawNode]) -> List[RawNode]:
+        while nodes and self._is_ignorable_node(nodes[0]):
+            nodes.pop(0)
+        return nodes
+
+    def _is_ignorable_node(self, node: RawNode) -> bool:
+        if isinstance(node, RawTextNode):
+            return not node.value.strip()
+        if isinstance(node, RawElementNode):
+            if node.tag == "br":
+                return True
+            if node.tag in {"b", "strong", "i", "em", "span"}:
+                return not self._node_text(node).strip()
+        return False
 
     def _normalize_label(self, label: str) -> Optional[str]:
         cleaned = label.strip()
@@ -492,6 +533,503 @@ class SemanticProcessor:
 
     def _nodes_text(self, nodes: List[RawNode]) -> str:
         return "".join(self._node_text(node) for node in nodes)
+
+    def _split_inline_labeled_requirements(
+        self, requirements: List[SemanticRequirement]
+    ) -> List[SemanticRequirement]:
+        expanded: List[SemanticRequirement] = []
+        for requirement in requirements:
+            requirement.sub_requirements = self._split_inline_labeled_requirements(
+                requirement.sub_requirements
+            )
+            expanded.extend(self._split_inline_labeled_requirement(requirement))
+        return expanded
+
+    def _split_inline_labeled_requirement(
+        self, requirement: SemanticRequirement
+    ) -> List[SemanticRequirement]:
+        if requirement.sub_requirements:
+            return [requirement]
+
+        segments = self._split_nodes_on_inline_labels(
+            requirement.content, initial_label=requirement.label
+        )
+        if len(segments) == 1 and requirement.label is None:
+            label, content = segments[0]
+            normalized_label = self._normalize_label(label)
+            if normalized_label:
+                requirement.id = requirement.id or normalized_label
+                requirement.label = normalized_label
+                requirement.content = self._normalize_text(content)
+            return [requirement]
+
+        if len(segments) <= 1:
+            return [requirement]
+
+        split_requirements: List[SemanticRequirement] = []
+        for index, (label, content) in enumerate(segments):
+            normalized_label = self._normalize_label(label)
+            if not normalized_label:
+                return [requirement]
+            split_requirements.append(
+                SemanticRequirement(
+                    id=normalized_label,
+                    label=normalized_label,
+                    content=self._normalize_text(content),
+                    resources=requirement.resources if index == 0 else [],
+                    sub_requirements=[],
+                )
+            )
+
+        if requirement.sub_requirements:
+            split_requirements[-1].sub_requirements = requirement.sub_requirements
+        return split_requirements
+
+    def _split_nodes_on_inline_labels(
+        self, nodes: List[RawNode], initial_label: Optional[str] = None
+    ) -> List[tuple[str, List[RawNode]]]:
+        segments: List[tuple[str, List[RawNode]]] = []
+        current_label: Optional[str] = initial_label
+        current_nodes: List[RawNode] = []
+        prefix_nodes: List[RawNode] = []
+        seen_label = initial_label is not None
+        found_inline_label = False
+
+        def append_text(value: str) -> None:
+            if not value:
+                return
+            target = current_nodes if seen_label else prefix_nodes
+            target.append(RawTextNode(value=value))
+
+        def start_segment(label: str) -> None:
+            nonlocal current_label, current_nodes, seen_label, found_inline_label
+            if seen_label and current_label is not None:
+                segments.append((current_label, current_nodes))
+            current_label = label
+            current_nodes = []
+            seen_label = True
+            found_inline_label = True
+
+        for node in nodes:
+            if isinstance(node, RawTextNode):
+                position = 0
+                for match in self.INLINE_LABEL_RE.finditer(node.value):
+                    if not self._is_inline_label_boundary(
+                        node.value, match.start(), position
+                    ):
+                        continue
+                    if not self._is_inline_label_transition_allowed(
+                        current_label, match.group(1)
+                    ):
+                        return []
+                    before = node.value[position : match.start()]
+                    if not seen_label and before.strip():
+                        return []
+                    append_text(before)
+                    start_segment(match.group(1))
+                    position = match.end()
+                append_text(node.value[position:])
+                continue
+
+            if seen_label:
+                current_nodes.append(node)
+            else:
+                prefix_nodes.append(node)
+
+        if not seen_label or current_label is None or not found_inline_label:
+            return []
+        if initial_label is None and any(
+            not self._is_ignorable_node(node) for node in prefix_nodes
+        ):
+            return []
+        segments.append((current_label, current_nodes))
+        return segments
+
+    def _is_inline_label_boundary(
+        self, value: str, match_start: int, segment_start: int
+    ) -> bool:
+        prefix = value[segment_start:match_start]
+        stripped = prefix.rstrip()
+        if not stripped:
+            return True
+        return stripped.endswith((".", ":", ";", "?", "!"))
+
+    def _is_inline_label_transition_allowed(
+        self, current_label: Optional[str], next_label: str
+    ) -> bool:
+        normalized_next = self._normalize_label(next_label)
+        if not normalized_next:
+            return False
+        if current_label is None:
+            return True
+
+        current_kind = self._label_kind(current_label)
+        next_kind = self._label_kind(normalized_next)
+        if current_kind == "numeric" and next_kind == "lower-alpha":
+            return True
+        if current_kind == "lower-alpha" and next_kind == "numeric":
+            return normalized_next == "1"
+        if current_kind != next_kind:
+            return False
+        if current_kind == "numeric":
+            return int(normalized_next) > int(current_label)
+        if current_kind == "lower-alpha":
+            return normalized_next > current_label
+        return False
+
+    def _repair_requirement_hierarchy(
+        self, requirements: List[SemanticRequirement]
+    ) -> List[SemanticRequirement]:
+        grouped = self._group_option_containers(requirements)
+        nested = self._nest_labeled_descendants(grouped)
+        repaired: List[SemanticRequirement] = []
+        for requirement in nested:
+            requirement.sub_requirements = self._repair_requirement_hierarchy(
+                requirement.sub_requirements
+            )
+            promoted_siblings = self._pop_resumed_alpha_siblings(requirement)
+            repaired.append(requirement)
+            repaired.extend(promoted_siblings)
+        return repaired
+
+    def _group_option_containers(
+        self, requirements: List[SemanticRequirement]
+    ) -> List[SemanticRequirement]:
+        grouped: List[SemanticRequirement] = []
+        current_option: Optional[SemanticRequirement] = None
+
+        for requirement in requirements:
+            if self._is_option_container_candidate(requirement):
+                grouped.append(requirement)
+                current_option = requirement
+                continue
+
+            if current_option is not None:
+                current_option.sub_requirements.append(requirement)
+                continue
+
+            grouped.append(requirement)
+        return grouped
+
+    def _nest_labeled_descendants(
+        self, requirements: List[SemanticRequirement]
+    ) -> List[SemanticRequirement]:
+        nested: List[SemanticRequirement] = []
+        current_numeric: Optional[SemanticRequirement] = None
+        current_alpha: Optional[SemanticRequirement] = None
+        current_alpha_parent_numeric: Optional[SemanticRequirement] = None
+
+        for requirement in requirements:
+            label_kind = self._label_kind(requirement.label)
+            if (
+                label_kind == "numeric"
+                and current_alpha is not None
+                and self._is_list_intro_requirement(current_alpha)
+            ):
+                current_alpha.sub_requirements.append(requirement)
+                current_numeric = requirement
+                continue
+            if (
+                label_kind == "lower-alpha"
+                and current_numeric is not None
+                and self._is_list_intro_requirement(current_numeric)
+            ):
+                current_numeric.sub_requirements.append(requirement)
+                current_alpha = requirement
+                current_alpha_parent_numeric = current_numeric
+                continue
+            if label_kind == "lower-alpha" and current_alpha_parent_numeric is not None:
+                current_alpha_parent_numeric.sub_requirements.append(requirement)
+                current_alpha = requirement
+                current_numeric = None
+                continue
+            if label_kind == "lower-roman" and current_alpha is not None:
+                current_alpha.sub_requirements.append(requirement)
+                continue
+
+            nested.append(requirement)
+            if label_kind == "numeric":
+                current_numeric = requirement
+                current_alpha = None
+                current_alpha_parent_numeric = None
+            elif label_kind == "lower-alpha":
+                current_alpha = requirement
+                current_numeric = None
+                current_alpha_parent_numeric = None
+            elif label_kind not in {"lower-alpha", "lower-roman"}:
+                current_numeric = None
+                current_alpha = None
+                current_alpha_parent_numeric = None
+
+        return nested
+
+    def _is_list_intro_requirement(self, requirement: SemanticRequirement) -> bool:
+        text = self._clean_plain_text(self._plain_text(requirement.content))
+        if text.endswith(":") and re.search(r"\bfollowing\b", text, re.I):
+            return True
+        return bool(re.search(r"\bthe following(?:\s+options?)?:?$", text, re.I))
+
+    def _pop_resumed_alpha_siblings(
+        self, requirement: SemanticRequirement
+    ) -> List[SemanticRequirement]:
+        if self._label_kind(requirement.label) != "lower-alpha":
+            return []
+
+        kept_children: List[SemanticRequirement] = []
+        promoted_siblings: List[SemanticRequirement] = []
+        promote_rest = False
+        for child in requirement.sub_requirements:
+            if (
+                not promote_rest
+                and self._label_kind(child.label) == "lower-alpha"
+                and child.label is not None
+                and requirement.label is not None
+                and child.label > requirement.label
+            ):
+                promote_rest = True
+
+            if promote_rest:
+                promoted_siblings.append(child)
+            else:
+                kept_children.append(child)
+
+        requirement.sub_requirements = kept_children
+        return promoted_siblings
+
+    def _promote_resource_only_children(
+        self, requirements: List[SemanticRequirement]
+    ) -> List[SemanticRequirement]:
+        promoted: List[SemanticRequirement] = []
+        for requirement in requirements:
+            requirement.sub_requirements = self._promote_resource_only_children(
+                requirement.sub_requirements
+            )
+            kept_children: List[SemanticRequirement] = []
+            for child in requirement.sub_requirements:
+                child_resources = self._resources_from_link_only_requirement(child)
+                if child_resources:
+                    self._extend_unique_resources(
+                        requirement.resources, child_resources
+                    )
+                else:
+                    kept_children.append(child)
+            requirement.sub_requirements = kept_children
+            promoted.append(requirement)
+        return promoted
+
+    def _drop_empty_requirements(
+        self, requirements: List[SemanticRequirement]
+    ) -> List[SemanticRequirement]:
+        kept: List[SemanticRequirement] = []
+        for requirement in requirements:
+            requirement.sub_requirements = self._drop_empty_requirements(
+                requirement.sub_requirements
+            )
+            has_text = bool(
+                self._clean_plain_text(self._plain_text(requirement.content))
+            )
+            if (
+                not has_text
+                and not requirement.resources
+                and not requirement.sub_requirements
+            ):
+                continue
+            kept.append(requirement)
+        return kept
+
+    def _collapse_empty_passthrough_requirements(
+        self, requirements: List[SemanticRequirement]
+    ) -> List[SemanticRequirement]:
+        collapsed: List[SemanticRequirement] = []
+        for requirement in requirements:
+            requirement.sub_requirements = (
+                self._collapse_empty_passthrough_requirements(
+                    requirement.sub_requirements
+                )
+            )
+            has_text = bool(
+                self._clean_plain_text(self._plain_text(requirement.content))
+            )
+            if (
+                not has_text
+                and not requirement.resources
+                and len(requirement.sub_requirements) == 1
+                and (
+                    requirement.label is None
+                    or requirement.label == requirement.sub_requirements[0].label
+                )
+            ):
+                collapsed.extend(requirement.sub_requirements)
+                continue
+            collapsed.append(requirement)
+        return collapsed
+
+    def _resources_from_link_only_requirement(
+        self, requirement: SemanticRequirement
+    ) -> List[Resource]:
+        if requirement.label or requirement.sub_requirements or requirement.resources:
+            return []
+        links = self._collect_links(requirement.content)
+        if not links:
+            return []
+        non_link_text = self._text_without_links(requirement.content).strip()
+        if non_link_text:
+            return []
+        return links
+
+    def _collect_links(self, nodes: List[RawNode]) -> List[Resource]:
+        resources: List[Resource] = []
+        for node in nodes:
+            if isinstance(node, RawElementNode):
+                if node.tag == "a":
+                    title = self._plain_text(node.children).strip()
+                    url = node.attrs.get("href", "").strip()
+                    if title and url:
+                        resources.append(Resource(title=title, url=url))
+                resources.extend(self._collect_links(node.children))
+        return resources
+
+    def _text_without_links(self, nodes: List[RawNode]) -> str:
+        parts: List[str] = []
+        for node in nodes:
+            if isinstance(node, RawTextNode):
+                parts.append(node.value)
+            elif isinstance(node, RawElementNode):
+                if node.tag == "a":
+                    continue
+                if node.tag == "br":
+                    parts.append(" ")
+                else:
+                    parts.append(self._text_without_links(node.children))
+        return "".join(parts)
+
+    def _extend_unique_resources(
+        self, resources: List[Resource], additions: List[Resource]
+    ) -> None:
+        seen = {(resource.title, resource.url) for resource in resources}
+        for resource in additions:
+            key = (resource.title, resource.url)
+            if key in seen:
+                continue
+            resources.append(resource)
+            seen.add(key)
+
+    def _annotate_requirements(
+        self, requirements: List[SemanticRequirement], parent_path: str = ""
+    ) -> None:
+        seen_segments: Dict[str, int] = {}
+        for index, requirement in enumerate(requirements):
+            requirement.text = self._clean_plain_text(
+                self._plain_text(requirement.content)
+            )
+            base_segment = self._requirement_path_segment(requirement, index)
+            count = seen_segments.get(base_segment, 0) + 1
+            seen_segments[base_segment] = count
+            segment = base_segment if count == 1 else f"{base_segment}-{count}"
+            requirement.requirement_path = (
+                f"{parent_path}.{segment}" if parent_path else segment
+            )
+            requirement.is_container = bool(requirement.sub_requirements)
+            requirement.node_kind = self._classify_requirement(requirement)
+            requirement.requires_response = (
+                requirement.node_kind == "action_requirement"
+            )
+            self._annotate_requirements(
+                requirement.sub_requirements, requirement.requirement_path
+            )
+
+    def _requirement_path_segment(
+        self, requirement: SemanticRequirement, index: int
+    ) -> str:
+        if requirement.label:
+            return self._slugify_path_segment(requirement.label)
+        option_key = self._option_key(requirement)
+        if option_key:
+            return f"option-{self._slugify_path_segment(option_key)}"
+        return f"item-{index + 1}"
+
+    def _classify_requirement(
+        self, requirement: SemanticRequirement
+    ) -> Literal["action_requirement", "instruction_container", "option_container"]:
+        if self._is_option_container_candidate(requirement):
+            return "option_container"
+        if self._is_instruction_container(requirement):
+            return "instruction_container"
+        return "action_requirement"
+
+    def _is_option_container_candidate(self, requirement: SemanticRequirement) -> bool:
+        text = self._clean_plain_text(self._plain_text(requirement.content))
+        if not self.OPTION_PREFIX_RE.match(text):
+            return False
+        if requirement.sub_requirements:
+            return True
+        return bool(
+            re.search(r"\bdo\s+(?:all|one|two|three)?\s*of the following\b", text, re.I)
+            or re.search(r"\bfollowing\s+options?:\s*$", text, re.I)
+        )
+
+    def _is_instruction_container(self, requirement: SemanticRequirement) -> bool:
+        if not requirement.sub_requirements:
+            return False
+        text = self._clean_plain_text(self._plain_text(requirement.content))
+        if not text:
+            return True
+        lower_text = text.lower()
+        if lower_text.endswith(":") and len(text.split()) <= 8:
+            return True
+        return bool(
+            re.fullmatch(
+                r"(?:[A-Z][A-Za-z0-9 ,&/'-]{1,80}\.\s*)?"
+                r"(?:do|complete|choose|show|discuss|explain|identify|list|tell|"
+                r"make|draw|select)\s+"
+                r"(?:all|one|two|three|four|five|six|seven|eight|nine|ten|"
+                r"\d+)?\s*(?:of\s+)?the following(?:\s+options?)?:?",
+                text,
+                re.IGNORECASE,
+            )
+        )
+
+    def _option_key(self, requirement: SemanticRequirement) -> Optional[str]:
+        text = self._clean_plain_text(self._plain_text(requirement.content))
+        match = self.OPTION_PREFIX_RE.match(text)
+        if not match:
+            return None
+        return match.group(1)
+
+    def _label_kind(self, label: Optional[str]) -> Optional[str]:
+        if not label:
+            return None
+        if re.fullmatch(r"\d+", label):
+            return "numeric"
+        if re.fullmatch(r"[a-z]", label):
+            return "lower-alpha"
+        if re.fullmatch(r"[ivxlcdm]{2,}", label):
+            return "lower-roman"
+        return None
+
+    def _plain_text(self, nodes: List[RawNode]) -> str:
+        parts: List[str] = []
+        for node in nodes:
+            if isinstance(node, RawTextNode):
+                parts.append(node.value)
+                continue
+            if node.tag == "br":
+                parts.append("\n")
+            else:
+                parts.append(self._plain_text(node.children))
+        return "".join(parts)
+
+    def _clean_plain_text(self, text: str) -> str:
+        text = text.replace("\xa0", " ")
+        text = re.sub(r"[ \t\r\f\v]+", " ", text)
+        text = re.sub(r" *\n+ *", "\n", text)
+        return text.strip()
+
+    def _slugify_path_segment(self, value: str) -> str:
+        segment = value.strip().lower()
+        segment = re.sub(r"[^a-z0-9]+", "-", segment)
+        segment = segment.strip("-")
+        return segment or "item"
 
 
 class LabRequirementsExtractor:

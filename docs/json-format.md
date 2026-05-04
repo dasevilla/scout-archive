@@ -31,6 +31,15 @@ Requirement object (semantic tree):
   this may match the displayed requirement number. Do **not** treat this as a
   stable identifier.
 - `label` (string | null): Normalized display label (e.g., `"1"`, `"a"`).
+- `text` (string): Flattened plain-text content for display, search, and
+  downstream renderers. This excludes child requirement text and resource links.
+- `requirement_path` (string): Stable best-effort semantic path derived from
+  the visible hierarchy (e.g., `"1"`, `"1.a"`, `"2.option-a.3.b"`).
+- `node_kind` (string): One of `"action_requirement"`,
+  `"instruction_container"`, or `"option_container"`.
+- `is_container` (boolean): True when the node owns child requirements.
+- `requires_response` (boolean): True when the node is an answerable/action
+  requirement; false for pure instruction and option containers.
 - `content` (array): Requirement content as a semantic HTML node list.
 - `resources` (array): Resource links (see below).
 - `sub_requirements` (array): Child requirements.
@@ -69,6 +78,11 @@ Example (truncated):
     {
       "id": "123",
       "label": "1",
+      "text": "Discuss...",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
       "content": [
         { "type": "text", "value": "Discuss..." }
       ],
@@ -77,6 +91,11 @@ Example (truncated):
         {
           "id": "124",
           "label": "a",
+          "text": "Explain...",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
           "content": [
             { "type": "text", "value": "Explain..." }
           ],
@@ -107,10 +126,17 @@ Requirement object:
 
 - `id` (string): Requirement number from the page (e.g., `"1"`).
 - `label` (string | null): Display label (typically the same as `id`).
+- `text` (string): Flattened text version for quick display/search.
+- `requirement_path` (string): Stable best-effort semantic path derived from
+  the visible hierarchy.
+- `node_kind` (string): One of `"action_requirement"`,
+  `"instruction_container"`, or `"option_container"`.
+- `is_container` (boolean): True when the node owns child requirements.
+- `requires_response` (boolean): True when the node is an answerable/action
+  requirement; false for pure instruction and option containers.
 - `content` (array): Requirement content as a semantic HTML node list.
 - `resources` (array): Resource links.
 - `sub_requirements` (array): Child requirements.
-- `text` (string): Flattened text version for quick display/search.
 - `activities` (array): Activity list (see below). May be empty.
 
 Activity object:
@@ -139,12 +165,16 @@ Example (truncated):
     {
       "id": "1",
       "label": "1",
+      "text": "Show you are prepared...",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
       "content": [
         { "type": "text", "value": "Show you are prepared..." }
       ],
       "resources": [],
       "sub_requirements": [],
-      "text": "Show you are prepared...",
       "activities": [
         {
           "name": "Trail Safety Check",

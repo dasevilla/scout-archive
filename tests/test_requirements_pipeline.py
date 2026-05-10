@@ -6,6 +6,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 from scout_archive.requirements_pipeline import (
     HtmlExtractor,
+    MarkdownGenerator,
     RawRequirementItem,
     SemanticProcessor,
 )
@@ -197,6 +198,47 @@ class SemanticProcessorTest(unittest.TestCase):
                 for child in option_a.sub_requirements[0].sub_requirements
             ],
             ["4.option-a.1.a", "4.option-a.1.b"],
+        )
+
+    def test_markdown_escapes_resource_link_labels_and_cleans_url(self) -> None:
+        html = """
+        <div class="mb-requirement-container">
+          <div class="mb-requirement-item">
+            <div class="mb-requirement-parent mb-requirement-id-1">
+              <span class="mb-requirement-listnumber">1.</span>
+              Explain what you learned.<br>
+              <i>Resources:</i>
+              <a href="https://example.com/Requirement%20Resources/file.pdf%20%20">Bike Safety | Hand Signals [video]</a>
+            </div>
+          </div>
+        </div>
+        """
+
+        requirements = self.processor.process(self.extractor.extract(html))
+        markdown = MarkdownGenerator().generate(requirements)
+
+        self.assertEqual(
+            requirements[0].resources[0].url,
+            "https://example.com/Requirement%20Resources/file.pdf",
+        )
+        self.assertIn(
+            "[Bike Safety \\| Hand Signals \\[video\\]](https://example.com/Requirement%20Resources/file.pdf)",
+            markdown,
+        )
+
+    def test_markdown_escapes_inline_link_labels_and_cleans_url(self) -> None:
+        parent = RawRequirementItem(
+            id="1",
+            content_nodes=self.extractor.extract_nodes(
+                '<a href="https://youtu.be/v_hRsNHlq8M?%20">Bike Safety | Hand Signals [video]</a>'
+            ),
+        )
+        requirements = self.processor.process([parent])
+        markdown = MarkdownGenerator().generate(requirements)
+
+        self.assertIn(
+            "- [Bike Safety \\| Hand Signals \\[video\\]](https://youtu.be/v_hRsNHlq8M)",
+            markdown,
         )
 
     def test_promotes_link_only_support_children_to_resources(self) -> None:

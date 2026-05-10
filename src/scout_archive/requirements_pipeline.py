@@ -54,6 +54,10 @@ RawRequirementItem.model_rebuild()
 SemanticRequirement.model_rebuild()
 
 
+def _normalize_url(url: str) -> str:
+    return re.sub(r"(?i)(?:%20)+$", "", url.strip()).rstrip("?#")
+
+
 class HtmlExtractor:
     def __init__(self) -> None:
         self._adapter = TypeAdapter(List[RawRequirementItem])
@@ -362,7 +366,7 @@ class SemanticProcessor:
             if node.tag == "a":
                 if in_resources:
                     title = self._node_text(node).strip()
-                    url = node.attrs.get("href", "")
+                    url = _normalize_url(node.attrs.get("href", ""))
                     if title and url:
                         resources.append(Resource(title=title, url=url))
                     return None, True, False
@@ -484,7 +488,7 @@ class SemanticProcessor:
                     children = inline_children
                 attrs = {}
                 if "href" in node.attrs:
-                    attrs["href"] = node.attrs["href"]
+                    attrs["href"] = _normalize_url(node.attrs["href"])
 
                 if node.tag not in {"b", "strong", "i", "em", "br", "a"}:
                     cleaned.extend(children)
@@ -933,7 +937,7 @@ class SemanticProcessor:
             if isinstance(node, RawElementNode):
                 if node.tag == "a":
                     title = self._plain_text(node.children).strip()
-                    url = node.attrs.get("href", "").strip()
+                    url = _normalize_url(node.attrs.get("href", ""))
                     if title and url:
                         resources.append(Resource(title=title, url=url))
                 resources.extend(self._collect_links(node.children))
@@ -1442,7 +1446,7 @@ class MarkdownGenerator:
         if requirement.resources:
             lines.append("")
             resources_text = ", ".join(
-                f"[{resource.title}]({resource.url})"
+                f"[{self._escape_link_label(resource.title)}]({resource.url})"
                 for resource in requirement.resources
             )
             lines.append(continuation_indent + f"**Resources:** {resources_text}")
@@ -1460,6 +1464,14 @@ class MarkdownGenerator:
             return ""
         return f"({cleaned})"
 
+    def _escape_link_label(self, label: str) -> str:
+        return (
+            label.replace("\\", "\\\\")
+            .replace("[", "\\[")
+            .replace("]", "\\]")
+            .replace("|", "\\|")
+        )
+
     def _render_nodes(self, nodes: List[RawNode]) -> str:
         parts: List[str] = []
         for node in nodes:
@@ -1476,9 +1488,9 @@ class MarkdownGenerator:
                     inner = inner.strip()
                     parts.append(f"*{inner}*")
                 elif node.tag == "a":
-                    href = node.attrs.get("href", "").strip()
+                    href = _normalize_url(node.attrs.get("href", ""))
                     if href:
-                        parts.append(f"[{inner}]({href})")
+                        parts.append(f"[{self._escape_link_label(inner)}]({href})")
                     else:
                         parts.append(inner)
                 elif node.tag == "br":

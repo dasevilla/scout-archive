@@ -367,9 +367,9 @@
       "label": "3",
       "text": "Choose ONE of the following options and complete each requirement:",
       "requirement_path": "3",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -2433,7 +2433,7 @@
         {
           "id": "a",
           "label": null,
-          "text": "(a) Identify three career opportunities that would use skills and knowledge in sewing and/or needlework. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Jobs For Sewing Career – Needleworker (b) Identify how you might use the skills and knowledge in sewing and/or needlework to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this. 14 THINGS YOU NEED TO KNOW ABOUT SEWING BEFORE YOU START! – What this sewing hobby REALLY is?? What is Slow Stitching? Mindful Stitch Project Ideas",
+          "text": "(a) Identify three career opportunities that would use skills and knowledge in sewing and/or needlework. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Jobs For Sewing Jobs For Quilters Jobs For Knitters Jobs For Crocheters (b) Identify how you might use the skills and knowledge in sewing and/or needlework to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this. 14 THINGS YOU NEED TO KNOW ABOUT SEWING BEFORE YOU START! – What this sewing hobby REALLY is?? What is Slow Stitching? Mindful Stitch Project Ideas",
           "requirement_path": "6.item-1",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -2476,12 +2476,60 @@
                   "type": "element",
                   "tag": "a",
                   "attrs": {
-                    "href": "https://theartcareerproject.com/careers/needlework/"
+                    "href": "https://interviewguy.com/jobs-for-quilters/"
                   },
                   "children": [
                     {
                       "type": "text",
-                      "value": "Career – Needleworker"
+                      "value": "Jobs For Quilters"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://interviewguy.com/jobs-for-knitters/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Jobs For Knitters"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://interviewguy.com/jobs-for-crocheters/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Jobs For Crocheters"
                     }
                   ]
                 }

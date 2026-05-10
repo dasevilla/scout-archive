@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/American-Cultures.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/American-Cultures.docx",
   "shop_url": "https://www.scoutshop.org/american-cultures-merit-badge-pamphlet-655136.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/AmericanCultures-qjjk7nbqjdp20a8bkyxk52eqcw9x9weiflmucyyp28.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/AmericanCultures.png",
   "image_filename": "american-cultures-merit-badge.jpg",
   "requirements": [
     {
@@ -40,16 +40,29 @@
       "label": "1",
       "text": "Do TWO of the following, choosing a different group for each:",
       "requirement_path": "1",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
           "value": "Do TWO of the following, choosing a different group for each:"
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Race, Ethnicity, and Culture (video)",
+          "url": "https://youtu.be/N8Yb_4dFTEg"
+        },
+        {
+          "title": "Jellybean—Defining Race, Ethnicity, and Nationality (video)",
+          "url": "https://youtu.be/cKsqfn8aH8k"
+        },
+        {
+          "title": "Learn a New Culture (video)",
+          "url": "https://youtu.be/GhA9eypocE0"
+        }
+      ],
       "sub_requirements": [
         {
           "id": "62",
@@ -133,7 +146,12 @@
               "value": "Go to a library or museum to see a program or exhibit featuring one group's traditions. Report on what you see and learn."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Find a Museum (website)",
+              "url": "https://whichmuseum.com/place/united-states-2682"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -169,7 +187,20 @@
           "value": "Tell about some differences between the religious and social customs of the three groups. Tell about some ideas or ways of doing things that are similar in the three groups."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Cultural Diversity in Communication (video)",
+          "url": "https://youtu.be/TyqSdmJeCro"
+        },
+        {
+          "title": "What Is Cross-Cultural Communication? (video)",
+          "url": "https://youtu.be/45BRrYjsBfc"
+        },
+        {
+          "title": "How To Master Cross-Cultural Communication? (video)",
+          "url": "https://youtu.be/APVZn8u0S-0"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -186,7 +217,16 @@
           "value": "Tell about a contribution made to our country by three different people, each from a different racial, ethnic, or religious background."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Black History Heroes (video)",
+          "url": "https://youtu.be/Hgu67o9AOAE"
+        },
+        {
+          "title": "Famous Americans for Kids | Pioneers, Artists, Authors, and Inventors (video)",
+          "url": "https://youtu.be/vvm7nFwuCHA"
+        }
+      ],
       "sub_requirements": []
     },
     {

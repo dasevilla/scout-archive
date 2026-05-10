@@ -42,6 +42,15 @@
           "energy_level": "2",
           "supply_list": "2",
           "prep_time": "1"
+        },
+        {
+          "name": "Send Me a Letter",
+          "url": "https://www.scouting.org/cub-scout-activities/send-me-a-letter/",
+          "description": "Cub Scouts learn their address so they can mail themselves a letter.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "3"
         }
       ]
     },
@@ -72,6 +81,15 @@
           "prep_time": "1"
         },
         {
+          "name": "Match my Number",
+          "url": "https://www.scouting.org/cub-scout-activities/match-my-number/",
+          "description": "Cub Scouts unscramble numbers written on index cards to make their phone number.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
           "name": "Sing a Phone Song",
           "url": "https://www.scouting.org/cub-scout-activities/sing-a-phone-song/",
           "description": "Cub Scouts learn to memorize their phone number through a song.",
@@ -99,6 +117,24 @@
       "resources": [],
       "sub_requirements": [],
       "activities": [
+        {
+          "name": "Fire Tag",
+          "url": "https://www.scouting.org/cub-scout-activities/fire-tag/",
+          "description": "Cub Scouts practice “Stop, Drop, and Roll” while playing a game of tag.",
+          "location": "Indoor",
+          "energy_level": "5",
+          "supply_list": "1",
+          "prep_time": "1"
+        },
+        {
+          "name": "Stop Drop and Roll Crown",
+          "url": "https://www.scouting.org/cub-scout-activities/stop-drop-and-roll-crown/",
+          "description": "Cub Scouts will practice Stop, Drop, and Roll and then color a crown to wear.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "3"
+        },
         {
           "name": "Stop Drop and Roll Relay",
           "url": "https://www.scouting.org/cub-scout-activities/stop-drop-and-roll-relay/",
@@ -209,6 +245,24 @@
           "energy_level": "4",
           "supply_list": "1",
           "prep_time": "1"
+        },
+        {
+          "name": "Stop, Don’t Touch, Tell an Adult",
+          "url": "https://www.scouting.org/cub-scout-activities/stop-dont-touch-tell-an-adult/",
+          "description": "Cub Scouts will play a game where they stop, don’t touch, and tell an adult if they see matches or a lighter.",
+          "location": "Indoor",
+          "energy_level": "4",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Visit a Fire Station",
+          "url": "https://www.scouting.org/cub-scout-activities/visit-a-fire-station/",
+          "description": "Cub Scouts visit a fire station to learn about why matches and lighters should be used only by responsible adults.",
+          "location": "Travel",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "5"
         }
       ]
     },

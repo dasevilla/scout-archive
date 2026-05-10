@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Skating.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Skating.docx",
   "shop_url": "https://www.scoutshop.org/skating-merit-badge-pamphlet-650744.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/Skating-qjjk7o9kq7qcbw6yfhc6pk66ya5ahli8rqabu8xaw0.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2023/01/Skating.png",
   "image_filename": "skating-merit-badge.jpg",
   "requirements": [
     {
@@ -116,11 +116,11 @@
           ],
           "resources": [
             {
-              "title": "How to Play Figure Skating (video)",
+              "title": "How To Figure Skate (video)",
               "url": "https://youtu.be/-53axkfHUHk"
             },
             {
-              "title": "How to Ice Skate (video)",
+              "title": "How To Ice Skate (video)",
               "url": "https://youtu.be/8uDfC7sZ7ag"
             }
           ],
@@ -139,7 +139,12 @@
                   "value": "Explain the general safety and courtesy guidelines for ice skating."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Safe Skating Rules (website)",
+                  "url": "https://cdn3.sportngin.com/attachments/document/39da-1736379/Getting_Started.pdf"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -212,7 +217,12 @@
                   "value": "Describe the proper way to carry ice skates at the rink and for travel."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "How To Carry Ice Skates (PDF)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/how_to_carry_ice_skates.pdf"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -230,10 +240,6 @@
                 }
               ],
               "resources": [
-                {
-                  "title": "How Do I Store My Skates Correctly? (video)",
-                  "url": "https://youtu.be/xCibThdzynI"
-                },
                 {
                   "title": "Care for Your Ice Skates (website)",
                   "url": "https://www.skatepro.ca/en/a65.htm"
@@ -258,7 +264,7 @@
               "resources": [
                 {
                   "title": "Snowplow Stop (video)",
-                  "url": "https://youtu.be/rhQY1_bTjVs"
+                  "url": "https://youtu.be/rhQY1_bTjVs&t=10"
                 }
               ],
               "sub_requirements": []
@@ -280,7 +286,7 @@
               "resources": [
                 {
                   "title": "Forward Stroking (video)",
-                  "url": "https://youtu.be/-7QqRz2EZAM"
+                  "url": "https://youtu.be/-7QqRz2EZAM&t=10"
                 }
               ],
               "sub_requirements": []
@@ -324,7 +330,7 @@
               "resources": [
                 {
                   "title": "Skate Backward (video)",
-                  "url": "https://youtu.be/dZsfWfYxqzw"
+                  "url": "https://youtu.be/dZsfWfYxqzw&t=10"
                 }
               ],
               "sub_requirements": []
@@ -384,8 +390,12 @@
               ],
               "resources": [
                 {
+                  "title": "How To Do Front Crossovers in a Figure 8 (video)",
+                  "url": "https://youtu.be/kiixg2aczH4&t=16"
+                },
+                {
                   "title": "How To Do Back Crossovers in a Figure 8 (video)",
-                  "url": "https://youtu.be/krBVgF52z8M"
+                  "url": "https://youtu.be/krBVgF52z8M&t=10"
                 }
               ],
               "sub_requirements": []
@@ -756,7 +766,12 @@
                   "value": "Explain the general safety rules and courtesy guidelines for in-line skating."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "In-Line Skating Safety Rules and Etiquette (PDF)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/safety_rules_and_etiquette%20-%20inline_skating.pdf"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -1049,7 +1064,12 @@
                   "value": "Describe how to pass a pedestrian or another skater from behind."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Passing Another Skater (PDF)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/passing_another_skater.pdf"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -1206,7 +1226,7 @@
                   "url": "https://youtu.be/Yw9bBDZ2kUo"
                 },
                 {
-                  "title": "How to Ride Skateparks for Beginners (video)",
+                  "title": "How To Ride Skateparks for Beginners (video)",
                   "url": "https://youtu.be/zTVb4bmoiw0"
                 },
                 {
@@ -1214,8 +1234,12 @@
                   "url": "https://youtu.be/qrq6KlaIe8Y?si=4ljJ-qZ2IAeG-tPe"
                 },
                 {
-                  "title": "How to Ride Safely on a Skateboard (video)",
+                  "title": "How To Ride Safely on a Skateboard (video)",
                   "url": "https://player.vimeo.com/video/903371803"
+                },
+                {
+                  "title": "Passing Another Skateboarder (PDF)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/passing_another_skateboarder.pdf"
                 }
               ],
               "sub_requirements": []
@@ -1297,8 +1321,12 @@
               ],
               "resources": [
                 {
-                  "title": "How to Assemble a Skateboard (video)",
+                  "title": "How To Assemble a Skateboard (video)",
                   "url": "https://youtu.be/A6E403WMOXk"
+                },
+                {
+                  "title": "Parts of a Skateboard (video)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/parts_of_a_skateboard.jpg"
                 }
               ],
               "sub_requirements": []

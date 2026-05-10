@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Small-Boat-Sailing.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Small-Boat-Sailing.docx",
   "shop_url": "https://www.scoutshop.org/bsa-small-boat-sailing-merit-badge-pamphlet-661049.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/SmallBoatSailing-qjjk7p7ex1rmni5l9zqta1xnjo0npalz3uxtbivwps.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/SmallBoatSailing.png",
   "image_filename": "small-boat-sailing-merit-badge.jpg",
   "requirements": [
     {
@@ -41,7 +41,12 @@
               "value": "Explain to your counselor the most likely hazards you may encounter while participating in small-boat sailing activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Environment, Rules Afloat and General Safety (video)",
+              "url": "https://youtu.be/BmjUXXB_3UY"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -58,7 +63,28 @@
               "value": "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while sailing: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, and strains."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Cold Water Shock (video)",
+              "url": "https://youtu.be/rH3gZuSr6Y8"
+            },
+            {
+              "title": "What Happens if You Don't Drink Enough Water? (video)",
+              "url": "https://youtu.be/EmNieKLjmH4"
+            },
+            {
+              "title": "Dangers of Heat-Related Illnesses (video)",
+              "url": "https://youtu.be/Rz6Wxiv4aRAK"
+            },
+            {
+              "title": "What Causes Sunburns? (video)",
+              "url": "https://youtu.be/9aFm087_XWg"
+            },
+            {
+              "title": "Sprain Care With RICE Method (video)",
+              "url": "https://youtu.be/z1gbB_peVDQ"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -75,7 +101,12 @@
               "value": "Discuss the Scouting America Safety Afloat policy. Tell how it applies to small-boat sailing activities."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Safety Afloat (website)",
+              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -83,7 +114,7 @@
     {
       "id": "11242",
       "label": "2",
-      "text": "Before doing the following requirements, successfully complete the Scouting America swimmer test.\nNote: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
+      "text": "Before doing the following requirements, successfully complete the Scouting America swimmer test. Note: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
       "requirement_path": "2",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -92,18 +123,6 @@
         {
           "type": "text",
           "value": "Before doing the following requirements, successfully complete the Scouting America swimmer test. "
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
         },
         {
           "type": "element",
@@ -136,13 +155,18 @@
           "value": " merit badge pamphlet for details about the Scouting America swimmer test."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Swimming Merit Badge Pamphlet (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
+        }
+      ],
       "sub_requirements": []
     },
     {
       "id": "11243",
       "label": "3",
-      "text": "Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts.\nNote: The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward.",
+      "text": "Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts. Note: The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward.",
       "requirement_path": "3",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -151,18 +175,6 @@
         {
           "type": "text",
           "value": "Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts. "
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
         },
         {
           "type": "element",
@@ -180,7 +192,12 @@
           "value": " The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Sailboat Parts Explained: Overview and Names (video)",
+          "url": "https://youtu.be/hJHkil8HOHo"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -213,7 +230,12 @@
               "value": "Discuss the nine points of the Scouting America Safety Afloat plan."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Safety Afloat (website)",
+              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -230,7 +252,12 @@
               "value": "Explain the rules of the road in general and any specific rules or laws that apply to your area or state."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Steering Rules: Crossing, Meeting & Overtaking (video)",
+              "url": "https://youtu.be/bFPRfYCUYY8"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -264,7 +291,20 @@
               "value": "Discuss the warning signs of inclement weather and what to do should heavy winds develop or a storm approach."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How To Prepare for Heavy Weather Conditions (website)",
+              "url": "https://thenauticalnomad.com/sailing-basics/safety-at-sea/how-to-prepare-for-heavy-weather-conditions/"
+            },
+            {
+              "title": "Science of Sailing | Level 3 | Clouds and Breezes (video)",
+              "url": "https://youtu.be/vAqM9g7Chgg"
+            },
+            {
+              "title": "How To Read Clouds (video)",
+              "url": "https://youtu.be/OEWQzUl1jQc"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -281,7 +321,16 @@
               "value": "Prepare a typical float plan."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Filing a Float Plan (video)",
+              "url": "https://youtu.be/AZHZzy25E-8"
+            },
+            {
+              "title": "How To Complete a Float Plan (website)",
+              "url": "https://floatplancentral.cgaux.org/classroom/preparation.htm"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -298,7 +347,12 @@
               "value": "Discuss the proper clothing, footwear, and personal gear required for small-boat sailing in warm weather and in cool weather. Explain how choosing the proper clothing, footwear, and personal gear will help keep you comfortable and safe while sailing."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "What To Wear for Dinghy Sailing (video)",
+              "url": "https://youtu.be/vzmPjHBZ--g"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -317,7 +371,12 @@
           "value": "Discuss with your counselor how to identify the wind direction and wind indicators. Explain the importance of this task before setting sail."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Wind Awareness (video)",
+          "url": "https://youtu.be/tIlZv-l9qcQ"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -367,7 +426,12 @@
               "value": "Get underway from a dock, mooring, or beach."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Beach Launching a Single Handed Boat (video)",
+              "url": "https://youtu.be/JBdvAG6Ham0"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -384,7 +448,24 @@
               "value": "Properly set sails for a round-trip course approved by your counselor that will include running, beating, and reaching-the basic points of sail. While sailing, demonstrate good helmsmanship skills."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Points of Sail (video)",
+              "url": "https://youtu.be/Ow-P45DpHj8"
+            },
+            {
+              "title": "Close-Hauled (Sailing Towards the Wind) (video)",
+              "url": "https://youtu.be/mTtKGr_4vYg"
+            },
+            {
+              "title": "Reaching (Sailing Across the Wind) (video)",
+              "url": "https://youtu.be/DsmH7XuMJbw"
+            },
+            {
+              "title": "Running (Sailing Away From the Wind) (video)",
+              "url": "https://youtu.be/FI-9JeVzsK0"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -401,7 +482,16 @@
               "value": "Change direction by tacking; change direction by jibing."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How To Tack (Turn Around) a One Person Sailboat (video)",
+              "url": "https://youtu.be/gMEOex9GQWU"
+            },
+            {
+              "title": "How To Jib a Single Person Sailboat (Turning Away From the Wind) (video)",
+              "url": "https://youtu.be/LVQyaWa4riw"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -441,7 +531,7 @@
         {
           "id": "11235",
           "label": "g",
-          "text": "Demonstrate capsize procedures and the rescue of a person overboard.\nNote: Capsize procedures should be conducted under the close supervision of the counselor. A rescue boat should be standing by to assist, if necessary, and to tow the capsized craft to shore. Self-bailing boats are acceptable for this requirement. Extreme care should be taken to avoid personal injury and damage to the boat or equipment.",
+          "text": "Demonstrate capsize procedures and the rescue of a person overboard. Note: Capsize procedures should be conducted under the close supervision of the counselor. A rescue boat should be standing by to assist, if necessary, and to tow the capsized craft to shore. Self-bailing boats are acceptable for this requirement. Extreme care should be taken to avoid personal injury and damage to the boat or equipment.",
           "requirement_path": "6.g",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -450,18 +540,6 @@
             {
               "type": "text",
               "value": "Demonstrate capsize procedures and the rescue of a person overboard. "
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
             },
             {
               "type": "element",
@@ -479,7 +557,12 @@
               "value": " Capsize procedures should be conducted under the close supervision of the counselor. A rescue boat should be standing by to assist, if necessary, and to tow the capsized craft to shore. Self-bailing boats are acceptable for this requirement. Extreme care should be taken to avoid personal injury and damage to the boat or equipment."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Capsize a Single Handed Sailboat (video)",
+              "url": "https://youtu.be/0flyv_GPwwc"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -496,7 +579,12 @@
               "value": "Demonstrate the procedure to take after running aground."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "What To Do When You Run Aground (website)",
+              "url": "https://www.cruisingworld.com/how/what-do-when-you-run-aground/"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -565,7 +653,16 @@
               "value": "Show how to tie a square (reef) knot, clove hitch, two half hitches, bowline, cleat hitch, and figure-eight knot. Demonstrate the use of each."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Essential Sailing Knots (video)",
+              "url": "https://youtu.be/L-SWGGN3nsM"
+            },
+            {
+              "title": "Overhand Knot (video)",
+              "url": "https://www.youtube.com/watch?v=0-eDYx3lkC8"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -582,7 +679,16 @@
               "value": "Show how to heave a line, coil a line, and fake down a line."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How To Coil a Rope (video)",
+              "url": "https://youtu.be/b14m_BGixK0"
+            },
+            {
+              "title": "How To Flake and Heave a Line (video)",
+              "url": "https://youtu.be/X6QWotYflG0"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -599,7 +705,12 @@
               "value": "Discuss the kinds of lines used on sailboats and the types of fibers used in their manufacture. Explain the advantages and disadvantages of each."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Lines and Usages for Sailing (website)",
+              "url": "https://www.sailboat-cruising.com/marine-cordage.html"
+            }
+          ],
           "sub_requirements": []
         }
       ]

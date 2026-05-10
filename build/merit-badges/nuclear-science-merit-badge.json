@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Nuclear-Science.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Nuclear-Science.docx",
   "shop_url": "https://www.scoutshop.org/nuclear-science-merit-badge-pamphlet-662411.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/NuclearScience-qjjk7p7ex1rmni5l9zqta1xnjo0npalz3uxtbivwps.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/NuclearScience.png",
   "image_filename": "nuclear-science-merit-badge.jpg",
   "requirements": [
     {
@@ -264,9 +264,9 @@
       "label": "3",
       "text": "Modern Particle Physics.",
       "requirement_path": "3",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",

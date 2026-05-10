@@ -685,7 +685,7 @@
         {
           "id": "a",
           "label": null,
-          "text": "(a) Read two credible articles describing positive aspects of video gaming and two describing negative aspects. Create a chart showing where the articles agree or disagree. Positive aspects\nThe surprising benefits of video games\nAre Video Games Good for You? Your Brain Thinks So\nHow Video Games Can Level Up the Way You Learn\nWelcome to Blink Land Negative aspects\nHow Video Games Affect Kids’ Behavioral Health: The Hidden Risks\nEffects Of Video Games On Teen Mental Health\nWhat is the link between screen time and ADHD? (b) Track the amount of gaming you do each day for two weeks. Record and summarize your results.\nScreen Time Tracker (c) Track your daily physical activity for the same two weeks. Compare your results to the CDC recommendation of one hour of moderate-to-vigorous activity per day for youth ages 6–17.\nMy Physical Activity Diary (d) Track your daily sleep for the same two weeks. Compare your results to the CDC recommendation of 9–12 hours for ages 6–12 and 8–10 hours for ages 13–18.\nTeen Sleep Diary (e) After completing 3b, 3c, and 3d, create a one-week balanced schedule that includes healthy sleep, physical activity, and agreed-upon gaming time. Follow this schedule and summarize your results.\nWeekly Activity Schedule",
+          "text": "(a) Read two credible articles describing positive aspects of video gaming and two describing negative aspects. Create a chart showing where the articles agree or disagree. Positive aspects\nThe surprising benefits of video games\nAre Video Games Good for You? Your Brain Thinks So\nHow Video Games Can Level Up the Way You Learn\nWelcome to Blink Land Negative aspects\nHow Video Games Affect Kids’ Behavioral Health: The Hidden Risks\nEffects Of Video Games On Teen Mental Health\nWhat is the link between screen time and ADHD? (b) Track the amount of gaming you do each day for two weeks. Record and summarize your results. Apple Screen Time Tracker Digital Wellbeing | Android\nActivityWatch (c) Track your daily physical activity for the same two weeks. Compare your results to the CDC recommendation of one hour of moderate-to-vigorous activity per day for youth ages 6–17.\nMy Physical Activity Diary (d) Track your daily sleep for the same two weeks. Compare your results to the CDC recommendation of 9–12 hours for ages 6–12 and 8–10 hours for ages 13–18.\nTeen Sleep Diary (e) After completing 3b, 3c, and 3d, create a one-week balanced schedule that includes healthy sleep, physical activity, and agreed-upon gaming time. Follow this schedule and summarize your results.\nWeekly Activity Schedule",
           "requirement_path": "3.item-1",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -883,7 +883,51 @@
             },
             {
               "type": "text",
-              "value": " (b) Track the amount of gaming you do each day for two weeks. Record and summarize your results."
+              "value": " (b) Track the amount of gaming you do each day for two weeks. Record and summarize your results. "
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://support.apple.com/en-ph/guide/iphone/iphb0c7313c9/ios"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Apple Screen Time Tracker"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.android.com/digital-wellbeing/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Digital Wellbeing | Android"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "type": "element",
@@ -900,12 +944,12 @@
                   "type": "element",
                   "tag": "a",
                   "attrs": {
-                    "href": "https://wordunited.com/free-resources/screen-time-tracker/"
+                    "href": "https://cas5-0-urlprotect.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2factivitywatch.net&umid=0108a1d7-22e4-4ab6-8ca6-27e523f3133b&rct=1778091346&auth=203ecf89f7cd4098d9eaa5656305d334dc98bd7e-706491d4e45aaf62efafd37aeefb6e6b4692f5ae"
                   },
                   "children": [
                     {
                       "type": "text",
-                      "value": "Screen Time Tracker"
+                      "value": "ActivityWatch"
                     }
                   ]
                 }

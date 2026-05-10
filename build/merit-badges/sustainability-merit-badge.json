@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Sustainability.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Sustainability.docx",
   "shop_url": "https://www.scoutshop.org/sustainability-merit-badge-pamphlet-662441.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/Sustainability-qjjk7p7ex1rmni5l9zqta1xnjo0npalz3uxtbivwps.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/Sustainability.png",
   "image_filename": "sustainability-merit-badge.jpg",
   "requirements": [
     {
@@ -111,10 +111,6 @@
           ],
           "resources": [
             {
-              "title": "How Do We Get Clean Drinking Water? (video)",
-              "url": "https://youtu.be/PEKXB3N6g3I?si=bSEBW551c3IzPidg"
-            },
-            {
               "title": "Facts About Water (video)",
               "url": "https://www.youtube.com/watch?v=paUYby1kbMs"
             }
@@ -181,11 +177,11 @@
       "resources": [
         {
           "title": "Matter and Energy in Food Webs (video)",
-          "url": "https://youtu.be/qIgL05zOx5U?si=T5n5awJMxxmXV0Hw"
+          "url": "https://youtu.be/qIgL05zOx5U"
         },
         {
           "title": "Food and Energy in Organisms (video)",
-          "url": "https://youtu.be/wPhjCn9kq5M?si=Bo_JNmkBG0G63dyi"
+          "url": "https://youtu.be/wPhjCn9kq5M"
         }
       ],
       "sub_requirements": [
@@ -596,9 +592,9 @@
       "label": "7",
       "text": "Do TWO of the following and discuss with your counselor:",
       "requirement_path": "7",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -714,15 +710,11 @@
           "resources": [
             {
               "title": "Population Affects Resources (video)",
-              "url": "https://www.youtube.com/watch?v=V2_LxCLwO2E&t=18s"
+              "url": "https://youtu.be/V2_LxCLwO2E"
             },
             {
               "title": "How Population Growth Impacts the Planet (video)",
-              "url": "https://www.youtube.com/watch?v=mRcxGJcBDVo"
-            },
-            {
-              "title": "Population affects Sustainability (video)",
-              "url": "https://www.youtube.com/watch?v=evp4qGJIqEs"
+              "url": "https://youtu.be/mRcxGJcBDVo"
             }
           ],
           "sub_requirements": []
@@ -848,11 +840,11 @@
           "resources": [
             {
               "title": "Camping Tricks: The Scout Turn Around Rule LNT (video)",
-              "url": "https://www.youtube.com/watch?v=kc59VSGN-dg"
+              "url": "https://youtu.be/kc59VSGN-dg"
             },
             {
-              "title": "Leave No Trace - and There's a Song! (video)",
-              "url": "https://www.youtube.com/watch?v=6_jz421duVg%20"
+              "title": "Leave No Trace—And There's a Song! (video)",
+              "url": "https://youtu.be/6_jz421duVgd"
             }
           ],
           "sub_requirements": []

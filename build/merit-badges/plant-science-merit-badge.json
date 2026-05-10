@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Plant-Science.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Plant-Science.docx",
   "shop_url": "https://www.scoutshop.org/bsa-plant-science-merit-badge-pamphlet-boy-scouts-of-america-660055.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/PlantScience-qjjk7p7ex1rmni5l9zqta1xnjo0npalz3uxtbivwps.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/PlantScience.png",
   "image_filename": "plant-science-merit-badge.jpg",
   "requirements": [
     {
@@ -270,9 +270,9 @@
       "label": "8",
       "text": "Choose ONE of the following options and complete each requirement:",
       "requirement_path": "8",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -1856,10 +1856,6 @@
                 {
                   "title": "Rare Plant Profiles (website)",
                   "url": "https://www.fs.usda.gov/wildflowers/Rare_Plants/profiles/index.php"
-                },
-                {
-                  "title": "Find Rare Plants Near You (website)",
-                  "url": "https://saveplants.org/rare-plants-near-me/"
                 }
               ],
               "sub_requirements": []

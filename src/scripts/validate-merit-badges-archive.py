@@ -204,6 +204,8 @@ def validate_badge_content(file_path):
     for field in required_fields:
         if field not in data:
             errors.append(f"Missing required field: {field}")
+        elif field in {"name", "url"} and not str(data.get(field) or "").strip():
+            errors.append(f"Empty required field: {field}")
 
     # Check requirements data
     if "requirements" in data:

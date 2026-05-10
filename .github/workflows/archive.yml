@@ -41,7 +41,9 @@ jobs:
           python-version-file: ".python-version"
 
       - name: Run archive process
-        run: make archive-merit-badges archive-cub-adventures -j2
+        run: |
+          make archive-merit-badges
+          make archive-cub-adventures
 
       - name: Build the index
         run: make index-merit-badges index-cub-adventures

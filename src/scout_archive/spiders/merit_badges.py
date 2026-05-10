@@ -216,21 +216,13 @@ class MeritBadgesSpider(scrapy.Spider):
         item = MeritBadgeItem()
         item["is_lab"] = is_lab
 
-        # Get badge name
-        badge_name_raw = response.css("h1.elementor-heading-title::text").get()
-        item["badge_name"] = (
-            badge_name_raw.replace("Merit Badge", "").strip() if badge_name_raw else ""
-        )
+        item["badge_name"] = self._extract_badge_name(response, is_lab=is_lab)
+        if not is_lab and not item["badge_name"]:
+            raise CloseSpider(
+                f"Unable to extract merit badge name from standard badge page: {response.url}"
+            )
 
-        # Get badge overview
-        # Extract the text content of the badge overview section
-        # The xpath locates the h3 element containing 'Merit Badge Overview',
-        # then navigates to its following sibling div, and extracts the text from
-        # the div with class 'elementor-widget-container' :-(
-        overview_text = response.xpath(
-            "//h3[contains(text(), 'Merit Badge Overview')]/../../following-sibling::div[1]//div[@class='elementor-widget-container']/text()"
-        ).getall()
-        item["badge_overview"] = "".join(overview_text).strip()
+        item["badge_overview"] = self._extract_badge_overview(response)
 
         # Get badge URL
         item["badge_url"] = response.url
@@ -238,30 +230,22 @@ class MeritBadgesSpider(scrapy.Spider):
         # Get badge URL slug
         item["badge_url_slug"] = response.url.split("/")[-2]
 
-        # Get badge PDF URL
-        pdf_url = response.xpath(
-            "//a[.//span[contains(text(), 'Download the Free Pamphlet')]]/@href"
-        ).get()
+        pdf_url = self._extract_pdf_url(response)
         item["badge_pdf_url"] = pdf_url or ""
         item["file_urls"] = [pdf_url] if pdf_url else []
 
-        # Get badge shop URL
-        item["badge_shop_url"] = response.xpath(
-            "//a[.//span[contains(text(), 'Shop Now')]]/@href"
-        ).get()
+        if is_lab:
+            item["badge_shop_url"] = response.xpath(
+                "//a[.//span[contains(text(), 'Shop Now')]]/@href"
+            ).get()
+        else:
+            item["badge_shop_url"] = self._extract_shop_url(response)
 
         # Get badge image URL
         if is_lab:
             image_url = self._extract_lab_image_url(response)
         else:
-            image_url = response.xpath(
-                '//*[@id="page"]/div/section[1]/div/div/div/div[4]/div/div/div/section/div/div[2]/div/div/div/img/@src'
-            ).get()
-            # if image_url is an svg or None, use the data-src attribute instead
-            if not image_url or image_url.startswith("data:"):
-                image_url = response.xpath(
-                    '//*[@id="page"]/div/section[1]/div/div/div/div[4]/div/div/div/section/div/div[2]/div/div/div/img/@data-src'
-                ).get()
+            image_url = self._extract_standard_image_url(response)
         item["badge_image_url"] = image_url or ""
         item["image_urls"] = [image_url] if image_url else []
 
@@ -294,10 +278,7 @@ class MeritBadgesSpider(scrapy.Spider):
                 item["workbook_pdf_url"] = None
                 item["workbook_docx_url"] = None
 
-        # Check if the badge is Eagle-required by looking for "Eagle Required" in a <h2> element
-        item["is_eagle_required"] = bool(
-            response.xpath("//h2[contains(text(), 'Eagle Required')]")
-        )
+        item["is_eagle_required"] = self._extract_is_eagle_required(response)
 
         if is_lab:
             lab_blocks = self._extract_lab_requirements_blocks(response)
@@ -327,6 +308,217 @@ class MeritBadgesSpider(scrapy.Spider):
         )
 
         yield item
+
+    def _extract_badge_name(self, response, is_lab=False):
+        if is_lab:
+            legacy_name = self._clean_badge_name(
+                response.css("h1.elementor-heading-title::text").get()
+            )
+            if legacy_name:
+                return legacy_name
+
+        for title in (
+            response.css("meta[property='og:title']::attr(content)").get(),
+            response.css("title::text").get(),
+        ):
+            name = self._name_from_title(title)
+            if name:
+                return name
+
+        heading_texts = self._elementor_heading_texts(response)
+        for index, heading_text in enumerate(heading_texts):
+            if heading_text.lower() == "merit badge" and index > 0:
+                name = self._clean_badge_name(heading_texts[index - 1])
+                if name:
+                    return name
+
+        return self._clean_badge_name(
+            response.css("h1.elementor-heading-title::text").get()
+        )
+
+    def _extract_badge_overview(self, response):
+        heading_xpath = (
+            "//*[self::h2 or self::h3]"
+            "[contains(translate(normalize-space(string(.)), "
+            "'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'), "
+            "'MERIT BADGE OVERVIEW')]"
+        )
+        heading = response.xpath(heading_xpath)
+        if heading:
+            overview_text = (
+                heading[0]
+                .xpath(
+                    "following::div[contains(@class, 'elementor-widget-text-editor')][1]"
+                    "//div[contains(@class, 'elementor-widget-container')]//text()"
+                )
+                .getall()
+            )
+            overview = " ".join(text.strip() for text in overview_text if text.strip())
+            if overview:
+                return overview
+
+        legacy_text = response.xpath(
+            "//h3[contains(text(), 'Merit Badge Overview')]/../../following-sibling::div[1]"
+            "//div[@class='elementor-widget-container']/text()"
+        ).getall()
+        return "".join(legacy_text).strip()
+
+    def _extract_pdf_url(self, response):
+        fallback_url = None
+        for link in response.css("a[href]"):
+            href = link.attrib.get("href", "")
+            absolute = response.urljoin(href)
+            text = self._normalize_space(link.xpath("string(.)").get())
+            text_lower = text.lower()
+            href_lower = absolute.lower()
+            if (
+                "download free pamphlet" in text_lower
+                or "download the free pamphlet" in text_lower
+            ):
+                return absolute
+            if (
+                "filestore.scouting.org" in href_lower
+                and "/pamphlets/" in href_lower
+                and href_lower.endswith(".pdf")
+            ):
+                fallback_url = fallback_url or absolute
+        return fallback_url
+
+    def _extract_shop_url(self, response):
+        shop_url = response.xpath(
+            "//a[.//span[contains(text(), 'Shop Now')]]/@href"
+        ).get()
+        if shop_url:
+            return response.urljoin(shop_url)
+
+        pamphlet_shop_url = response.xpath(
+            "//div[contains(@class, 'mb-scoutshop-pamphlet')]"
+            "//a[contains(@href, 'scoutshop.org')]/@href"
+        ).get()
+        if pamphlet_shop_url:
+            return response.urljoin(pamphlet_shop_url)
+
+        for href in response.css("a[href*='scoutshop.org']::attr(href)").getall():
+            href_lower = href.lower()
+            if "merit-badge-pamphlet" in href_lower:
+                return response.urljoin(href)
+        return ""
+
+    def _extract_is_eagle_required(self, response):
+        overview_heading = response.xpath(
+            "//*[contains(@class, 'elementor-heading-title')]"
+            "[contains(translate(normalize-space(string(.)), "
+            "'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'), "
+            "'MERIT BADGE OVERVIEW')]"
+        )
+        if overview_heading:
+            header_text = " ".join(
+                self._normalize_space(text)
+                for text in overview_heading[0]
+                .xpath(
+                    "preceding::*[contains(@class, 'elementor-heading-title')]//text()"
+                )
+                .getall()
+            )
+            return "Eagle Required" in header_text
+
+        header_text = " ".join(self._elementor_heading_texts(response)[:8])
+        if header_text:
+            return "Eagle Required" in header_text
+
+        return bool(response.xpath("//h2[contains(text(), 'Eagle Required')]"))
+
+    def _extract_standard_image_url(self, response):
+        legacy_image = response.xpath(
+            '//*[@id="page"]/div/section[1]/div/div/div/div[4]/div/div/div/section/div/div[2]/div/div/div/img/@src'
+        ).get()
+        if not self._is_placeholder_image_url(legacy_image):
+            return response.urljoin(legacy_image)
+
+        legacy_lazy_image = response.xpath(
+            '//*[@id="page"]/div/section[1]/div/div/div/div[4]/div/div/div/section/div/div[2]/div/div/div/img/@data-src'
+        ).get()
+        if not self._is_placeholder_image_url(legacy_lazy_image):
+            return response.urljoin(legacy_lazy_image)
+
+        merit_badge_heading = response.xpath(
+            "//*[contains(@class, 'elementor-heading-title')]"
+            "[translate(normalize-space(string(.)), "
+            "'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ') = 'MERIT BADGE']"
+        )
+        if merit_badge_heading:
+            image_url = self._first_real_image_url(
+                merit_badge_heading[0].xpath(
+                    "./ancestor::div[contains(@class, 'e-con')][1]"
+                    "/preceding-sibling::*[1]//img"
+                ),
+                response,
+            )
+            if image_url:
+                return image_url
+
+        overview_heading = response.xpath(
+            "//*[contains(@class, 'elementor-heading-title')]"
+            "[contains(translate(normalize-space(string(.)), "
+            "'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'), "
+            "'MERIT BADGE OVERVIEW')]"
+        )
+        if overview_heading:
+            image_url = self._first_real_image_url(
+                overview_heading[0].xpath("preceding::img"), response
+            )
+            if image_url:
+                return image_url
+
+        return None
+
+    def _first_real_image_url(self, images, response):
+        for image in images:
+            for attr in ("data-src", "src"):
+                image_url = image.attrib.get(attr)
+                if not self._is_placeholder_image_url(image_url):
+                    return response.urljoin(image_url)
+        return None
+
+    def _is_placeholder_image_url(self, image_url):
+        if not image_url:
+            return True
+        image_url_lower = image_url.lower()
+        return (
+            image_url_lower.startswith("data:")
+            or "eagle_scout_logo" in image_url_lower
+            or "eagle-scout-logo" in image_url_lower
+            or "prepared-for-life-logo" in image_url_lower
+            or "scouting-america-prepared" in image_url_lower
+        )
+
+    def _elementor_heading_texts(self, response):
+        return [
+            text
+            for text in (
+                self._normalize_space(heading.xpath("string(.)").get())
+                for heading in response.css(".elementor-heading-title")
+            )
+            if text
+        ]
+
+    def _name_from_title(self, title):
+        if not title:
+            return ""
+        normalized = self._normalize_space(title)
+        normalized = normalized.split("|", 1)[0].strip()
+        match = re.match(r"^(.+?)\s+Merit Badge$", normalized, flags=re.IGNORECASE)
+        if match:
+            return self._clean_badge_name(match.group(1))
+        return ""
+
+    def _clean_badge_name(self, name):
+        if not name:
+            return ""
+        return self._normalize_space(name).replace("Merit Badge", "").strip()
+
+    def _normalize_space(self, text):
+        return " ".join(text.split()) if text else ""
 
     def _extract_lab_image_url(self, response):
         image_url = response.xpath(

@@ -232,7 +232,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     **Resources:** [Lifts and Carries (website)](https://www.cert-la.com/cert-training-education/lifts-carries/)
   - (c) By yourself and with a partner, demonstrate how to transport a person from a smoke-filled room.
 
-    **Resources:** [Fire and EMS Training | Moving a Victim | Moving a Patient (video)](https://youtu.be/dC8dC8-ZAoU?si=wQlOwOobpXhJD_3_)
+    **Resources:** [Fire and EMS Training \| Moving a Victim \| Moving a Patient (video)](https://youtu.be/dC8dC8-ZAoU?si=wQlOwOobpXhJD_3_)
   - (d) By yourself and with a partner, demonstrate how to transport a person with a sprained ankle for at least 25 yards.
 
     **Resources:** [Human Crutch Techniques (video)](https://youtu.be/U0yDJ0udMkg?si=dB8YruPw7vFL8YC4)
@@ -266,7 +266,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     **Resources:** [3 Tools for Situational Anxiety (video)](https://youtu.be/_H5QFfiU0s0), [Overcoming Social Anxiety (video)](https://youtu.be/BmX6GXDvlLM), [Power of Self-Confidence (video)](https://www.youtube.com/watch?v=gTd6Lq1M9Tc), [Getting Ready for Tryouts (video)](https://youtu.be/a_dVK2EEWKE)
   - (b) The actions that you and others should take to prepare for and manage these situations.
 
-    **Resources:** [Techniques to Manage Stress (video)](https://youtu.be/h2zWopNUUJE), [Box Breathing | The Breathing Exercise Used By Navy SEALs (video)](https://youtu.be/UC6HUrneIWI), [Tips for Overcoming Phone Anxiety (video)](https://youtu.be/QcKbxaGpwf4), [How To STOP Letting Social Anxiety Control You (video)](https://youtu.be/wbroM1Di-bI)
+    **Resources:** [Techniques to Manage Stress (video)](https://youtu.be/h2zWopNUUJE), [Box Breathing \| The Breathing Exercise Used By Navy SEALs (video)](https://youtu.be/UC6HUrneIWI), [Tips for Overcoming Phone Anxiety (video)](https://youtu.be/QcKbxaGpwf4), [How To STOP Letting Social Anxiety Control You (video)](https://youtu.be/wbroM1Di-bI)
   - (c) The indications that someone might be a danger to themselves or others.
   - (d) The actions that you should take if you suspect that someone might be a danger to themselves or others.
 

@@ -27,7 +27,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 
 - (5) Tell how to propagate plants by seeds, roots, cuttings, tubers, and grafting. Grow a plant by ONE of these methods.
 
-  **Resources:** [How to Propagate Plants (video)](https://youtu.be/szcExpxPyXc), [How to Propagate Any Plant | Multiply Your Plants for Free! (video)](https://youtu.be/_taBmwyRSyc?si=j4U-9tDMrbONry6u)
+  **Resources:** [How to Propagate Plants (video)](https://youtu.be/szcExpxPyXc), [How to Propagate Any Plant \| Multiply Your Plants for Free! (video)](https://youtu.be/_taBmwyRSyc?si=j4U-9tDMrbONry6u)
 
 - (6) List by common name at least 10 native plants and 10 cultivated plants that grow near your home. List five invasive non-native plants in your area and tell how they may be harmful. Tell how the spread of invasive plants may be avoided or controlled in ways that are not damaging to humans, wildlife, and the environment.
 
@@ -86,17 +86,17 @@ Plant scientists use their curiosity and knowledge to develop questions about th
       **Resources:** [USDA - National Agricultural Statistics Service - Charts and Maps - Field Crops (website)](https://www.nass.usda.gov/Charts_and_Maps/Field_Crops/index.php)
     - (2) Help in harvesting a crop of grain. Tell how to reduce harvesting losses and about modern methods of growing one small grain crop.
 
-      **Resources:** [Growing and Harvesting Wheat on a Small Scale (video)](https://youtu.be/RYn_yUUpwSQ), [Reducing Soybean Harvest Losses | Michigan Soybean | Harvest Demonstration Video (video)](https://youtu.be/PEgONTJko6s)
+      **Resources:** [Growing and Harvesting Wheat on a Small Scale (video)](https://youtu.be/RYn_yUUpwSQ), [Reducing Soybean Harvest Losses \| Michigan Soybean \| Harvest Demonstration Video (video)](https://youtu.be/PEgONTJko6s)
     - (3) Visit a grain elevator, flour mill, cereal plant, feed or seed company. Talk with the operator. Take notes, and describe the processes used and tell your patrol, troop, or class about your visit.
 
       **Resources:** [The Journey: Wheat into Flour (video)](https://youtu.be/PYP6AnNQjNo?si=mL4eQyG6nOPebuk5), [Everything About Grain Bins (Farmers are Geniuses) (video)](https://youtu.be/ywBV6M7VOFU?si=ngV-w_iXGlnwjTox), [How Does a Seed Company Work? (video)](https://youtu.be/zFzQE7kKAck?si=TaPtU3MhtTWMCv_Q)
     - (e) **Oil Crops**
     - (1) Grow a plot of soybeans and have your plot inspected by your counselor.
 
-      **Resources:** [How to Produce Millions Of Tons Of Soybeans | Modern Agricultural Technology | Soy milk Processing (video)](https://youtu.be/1olmtb3MpME)
+      **Resources:** [How to Produce Millions Of Tons Of Soybeans \| Modern Agricultural Technology \| Soy milk Processing (video)](https://youtu.be/1olmtb3MpME)
     - (2) Tell about modern methods of growing soybeans on a commercial scale, and discuss the contributions soybeans make to our food supply.
 
-      **Resources:** [Soybeans and Oil Crops - Oil Crops Sector at a Glance | Economic Research Service (website)](https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/oil-crops-sector-at-a-glance)
+      **Resources:** [Soybeans and Oil Crops - Oil Crops Sector at a Glance \| Economic Research Service (website)](https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/oil-crops-sector-at-a-glance)
     - (3) Explain why a hard frost can be dangerous to soybeans just after emergence.
 
       **Resources:** [Soybean School: Assessing the Impact of Frost (video)](https://youtu.be/x86tt8PPwiA)
@@ -116,7 +116,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
         **Resources:** [How to Transplant Seedlings to Bigger Pots (video)](https://youtu.be/60jGd-9RP3E?si=sNCzM86umQrpvytg)
       - (c) Demonstrate good pruning techniques and tell why pruning is important.
 
-        **Resources:** [Everything You Need to Know to Start Pruning | Gardening 101 (video)](https://youtu.be/nuF411tf1x0?si=yc53pSsJi6z2aQF7)
+        **Resources:** [Everything You Need to Know to Start Pruning \| Gardening 101 (video)](https://youtu.be/nuF411tf1x0?si=yc53pSsJi6z2aQF7)
       - (d) After obtaining permission, plant a tree or shrub properly in an appropriate site.
 
         **Resources:** [How to Properly Plant a Tree (video)](https://youtu.be/z30jQa8-Lvg?si=FJ4sW01BFP8g6kBH)
@@ -152,7 +152,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
       **Resources:** [How Plant Grafting Actually Works and Why It's So Cool (video)](https://youtu.be/NN1Y_giTMeE?si=NHHCKRuR32-NH0pa)
     - (4) Describe how one fruit, nut, or berry crop is processed for use.
 
-      **Resources:** [How Pecans Are Manufactured | How It's Made (video)](https://youtu.be/EhqW-eZ9Vtg?si=HBV3u_RDnqeAiGbI), [How Are Raisins Made - Sun-Dried or Machine-Made? (video)](https://youtu.be/QfyUcGuc8ww?si=1hEFDzcQt-kf2uBA)
+      **Resources:** [How Pecans Are Manufactured \| How It's Made (video)](https://youtu.be/EhqW-eZ9Vtg?si=HBV3u_RDnqeAiGbI), [How Are Raisins Made - Sun-Dried or Machine-Made? (video)](https://youtu.be/QfyUcGuc8ww?si=1hEFDzcQt-kf2uBA)
     - (c) **Woody Ornamentals**
     - (1) Plant five or more trees or shrubs in a landscape setting. Take full care of the trees or shrubs you have planted for one growing season.
     - (2) Prune a tree or shrub properly. Explain why pruning is necessary.
@@ -168,16 +168,16 @@ Plant scientists use their curiosity and knowledge to develop questions about th
     - (d) **Home Gardening**
     - (1) Design and plant a garden or landscape that is at least 10 by 10 feet.
 
-      **Resources:** [How to Design the Perfect Landscape | Landscape Design 101 (video)](https://youtu.be/e-wO-LqEQb4?si=_RjhdI1Bh7eIlgd-), [10 Plants for a Bird-Friendly Yard | Audubon (website)](https://www.audubon.org/news/10-plants-bird-friendly-yard)
+      **Resources:** [How to Design the Perfect Landscape \| Landscape Design 101 (video)](https://youtu.be/e-wO-LqEQb4?si=_RjhdI1Bh7eIlgd-), [10 Plants for a Bird-Friendly Yard \| Audubon (website)](https://www.audubon.org/news/10-plants-bird-friendly-yard)
     - (2) Plant 10 or more different types of plants in your garden. Tell why you selected particular varieties of vegetables and flowers. Take care of the plants in your garden for one season.
 
-      **Resources:** [Caring for a Vegetable Garden | HowStuffWorks (website)](https://home.howstuffworks.com/caring-for-a-vegetable-garden.htm)
+      **Resources:** [Caring for a Vegetable Garden \| HowStuffWorks (website)](https://home.howstuffworks.com/caring-for-a-vegetable-garden.htm)
     - (3) Demonstrate soil preparation, staking, watering, weeding, mulching, composting, fertilizing, pest management, and pruning. Tell why each technique is used.
 
-      **Resources:** [Remove Weeds Using These Effective Methods | Gardening 101 (video)](https://youtu.be/3zNij-aGpVw?si=_alv-L6QxChk5Ukk), [How to Mulch Your Garden: A Step-by-Step Guide (video)](https://youtu.be/gy6q5f75O7k?si=HJltpHrtGxdpt2i_), [Composting For Beginners (video)](https://youtu.be/1LZzgi1k9aA?si=8UAYVwjNPRBB90g5)
+      **Resources:** [Remove Weeds Using These Effective Methods \| Gardening 101 (video)](https://youtu.be/3zNij-aGpVw?si=_alv-L6QxChk5Ukk), [How to Mulch Your Garden: A Step-by-Step Guide (video)](https://youtu.be/gy6q5f75O7k?si=HJltpHrtGxdpt2i_), [Composting For Beginners (video)](https://youtu.be/1LZzgi1k9aA?si=8UAYVwjNPRBB90g5)
     - (4) Tell four types of things you could provide to make your home landscape or park a better place for birds and wildlife. List the common and scientific names of 10 kinds of native plants that are beneficial to birds and wildlife in your area.
 
-      **Resources:** [Get to Know These 20 Common Types of Native Plants (website)](https://www.audubon.org/news/get-know-these-20-common-types-native-plants), [Native Plant Recommendations | United States Botanic Garden (website)](https://www.usbg.gov/native-plant-recommendations)
+      **Resources:** [Get to Know These 20 Common Types of Native Plants (website)](https://www.audubon.org/news/get-know-these-20-common-types-native-plants), [Native Plant Recommendations \| United States Botanic Garden (website)](https://www.usbg.gov/native-plant-recommendations)
   - **Option C—Field Botany.** Do ALL of the following:
     - (1) Visit a park, forest, Scout camp, or other natural area near your home. While you are there:
     - (a) Determine which species of plants are the largest and which are the most abundant. Note whether they cast shade on other plants.
@@ -187,7 +187,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
     - (c) Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad.
     - (2) Select a study site that is at least 100 by 100 feet. Make a list of 10 woody plants (trees and shrubs) and 10 non-woody plants in the study site. Find out which of these are native plants and which are exotic (or non-native).
 
-      **Resources:** [Native Plants vs Exotic Plants | Which Are More Beneficial to the Ecosystem (video)](https://youtu.be/Af80dnhp2QY)
+      **Resources:** [Native Plants vs Exotic Plants \| Which Are More Beneficial to the Ecosystem (video)](https://youtu.be/Af80dnhp2QY)
     - (3) Tell how an identification key works and use a simple key to identify 10 kinds of plants (in addition to those in general requirement 5 above). Tell the difference between common and scientific names and tell why scientific names are important.
 
       **Resources:** [Scientific vs Common Names (video)](https://youtu.be/WVaxMwcPVEY), [How to Key Out a Plant (video)](https://youtu.be/AAx3ZsNfoIM?si=3DATJ-glDsjVHJjM)
@@ -220,7 +220,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
     - (a) Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)
     - (b) Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas.
 
-      **Resources:** [Tree Identification | Ask the Arborist (video)](https://youtu.be/7M4PUM_eIIQ)
+      **Resources:** [Tree Identification \| Ask the Arborist (video)](https://youtu.be/7M4PUM_eIIQ)
     - (c) Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot.
       **Note:** If individual plants like ferns, grasses and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot.
     - (d) **Herbarium Visit**

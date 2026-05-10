@@ -69,19 +69,19 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
     **Resources:** [Aircraft Carrier's Crew Hand Signals Explained—Preflight and Launch (video)](https://youtu.be/As7zQPkkv8c)
   - (d) Cyclist's hand signals
 
-    **Resources:** [How To Use Hand Signals While Cycling | Essential Group Ride Communication for Bike Riders (video)](https://youtu.be/prYMM7D2qF8&t=41)
+    **Resources:** [How To Use Hand Signals While Cycling \| Essential Group Ride Communication for Bike Riders (video)](https://youtu.be/prYMM7D2qF8&t=41)
   - (e) An activity selected by you and your counselor
 
 - (9) Share with your counselor 10 examples of symbols used in everyday life. Design your own symbol. Share it with your counselor and explain what it means. Then do the following:
   - (a) Show examples of 10 traffic signs and explain their meaning.
 
-    **Resources:** [Understanding Road Signs || Traffic Signs (video)](https://youtu.be/JU0PXiLPw3U), [Learning Traffic Signs/Road Signs With Their Meanings (video)](https://youtu.be/fMIGRMVY4nQ)
+    **Resources:** [Understanding Road Signs \|\| Traffic Signs (video)](https://youtu.be/JU0PXiLPw3U), [Learning Traffic Signs/Road Signs With Their Meanings (video)](https://youtu.be/fMIGRMVY4nQ)
   - (b) Using a topographical map, explain what a map legend is and discuss its importance. Point out 10 map symbols and explain the meaning of each.
 
     **Resources:** [How To Read a Topo Map (video)](https://youtu.be/CoVcRxza8nI)
   - (c) Discuss text-message symbols and why they are commonly used. Give examples of your favorite 10 text symbols or emoticons. Then see if your parent, guardian, or counselor can identify the meaning or usage of each symbol.
 
-    **Resources:** [What Do Emojis Mean? | Understanding Emoji Meanings and Usage (video)](https://youtu.be/TKzw4Y_7f_At)
+    **Resources:** [What Do Emojis Mean? \| Understanding Emoji Meanings and Usage (video)](https://youtu.be/TKzw4Y_7f_At)
 
 - (10) Briefly discuss the history of secret code writing (cryptography). Make up your own secret code and write a message of up to 25 words using this code. Share the message with a friend or fellow Scout. Then share the message and code key with your counselor and discuss the effectiveness of your code.
 

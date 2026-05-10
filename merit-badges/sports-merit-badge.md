@@ -36,7 +36,7 @@ Millions of people participate in sports every year. For some the appeal is the 
     **Resources:** [Stretching and Warming Up (video)](https://youtu.be/XeEIoGMldyc)
   - (b) The importance of weight training
 
-    **Resources:** [Benefits of Strength Training (website)](https://www.uhhospitals.org/blog/articles/2024/01/the-benefits-of-strength-training-for-young-athletes%20)
+    **Resources:** [Benefits of Strength Training (website)](https://www.uhhospitals.org/blog/articles/2024/01/the-benefits-of-strength-training-for-young-athletes)
   - (c) What an amateur athlete is and the differences between an amateur and a professional athlete
 
     **Resources:** [What Is an Amateur   (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Sports/amateur_vs_professional.pdf)
@@ -49,14 +49,14 @@ Millions of people participate in sports every year. For some the appeal is the 
 - (5) Do the following:
   - (a) With guidance from your counselor, establish a suitable personal training program that you will follow throughout your competition season (or for three months).
 
-    **Resources:** [How To PUSH UP (video)](https://youtu.be/x-bWOeFFQvk), [How To PULL UP (video)](https://youtu.be/eSPO3E7Qoy4), [How To SQUAT (video)](https://youtu.be/GD2F5sqsK1o?)
+    **Resources:** [How To PUSH UP (video)](https://youtu.be/x-bWOeFFQvk), [How To PULL UP (video)](https://youtu.be/eSPO3E7Qoy4), [How To SQUAT (video)](https://youtu.be/GD2F5sqsK1o)
   - (b) Create a chart or other tracking system, and document your training, practice, and development during this time.
 
-    **Resources:** [7 Powerful Journaling Ideas for Youth Sports Athletes (website)](https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/%20)
+    **Resources:** [7 Powerful Journaling Ideas for Youth Sports Athletes (website)](https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/)
   - (c) Demonstrate proper technique to play each sport effectively and avoid injury.
   - (d) List and describe the equipment needed for each sport, including protective equipment and any specialized clothing.
 
-    **Resources:** [Equipment Needed To Play Various Sports (website)](https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports%20)
+    **Resources:** [Equipment Needed To Play Various Sports (website)](https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports)
   - (e) List and explain the rules and proper etiquette of each sport.
 
     **Resources:** [Rules of Basketball (video)](https://youtu.be/oyjYgmsM00Q), [How To Play Golf (video)](https://youtu.be/99nN7WWNF1Q), [Rules of Soccer (video)](https://youtu.be/nT5qyrxoqsA), [How To Participate in Cheerleading Competitions (video)](https://youtu.be/MgzNVaubBNM), [Baseball Basics (video)](https://youtu.be/daiZtbGFdDM), [Rules of Fencing (video)](https://youtu.be/Q6-aH-op4g4), [American Football Rules (video)](https://youtu.be/OFiDged4Z2s), [How To Play Volleyball (video)](https://youtu.be/907TGg-CXYc), [Rules of Ice Hockey (video)](https://youtu.be/H_70vAiyyXM?si=nSUq-mVrpdq-trgs)

@@ -24,7 +24,7 @@ In Animation merit badge you’ll learn how to create animations, the ways in wh
 - (3) **Projects.** With your counselor's approval, choose two animation techniques and do the following for each:
   - (a) **Technique 1**
 
-    **Resources:** [Pencil2D | Learn 2D Animation Tutorial Overview (video)](https://youtu.be/QPqap-onmv8?si=R7BiYvl5Ku2fcf6I), [OpenToonz (video)](https://youtu.be/r9XieJu5s8Y?si=zsPzqgpeuMP5Yz5U), [StoryBoarder (video)](https://youtu.be/gPurQv4rC1E?si=VvVgSOBGPVPSOZTF)
+    **Resources:** [Pencil2D \| Learn 2D Animation Tutorial Overview (video)](https://youtu.be/QPqap-onmv8?si=R7BiYvl5Ku2fcf6I), [OpenToonz (video)](https://youtu.be/r9XieJu5s8Y?si=zsPzqgpeuMP5Yz5U), [StoryBoarder (video)](https://youtu.be/gPurQv4rC1E?si=VvVgSOBGPVPSOZTF)
   - (1) Plan your animation using thumbnail sketches and/or layout drawings either on paper or using an animation software program.
   - (2) Create the animation.
   - (3) Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made.

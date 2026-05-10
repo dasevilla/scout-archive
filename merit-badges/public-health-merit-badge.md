@@ -18,7 +18,7 @@ The field of public health deals with maintaining and monitoring the health of c
     **Resources:** [Food Safety: Avoiding E. coli (video)](https://youtu.be/Zw7oWOvOjiQ), [What Is Tetanus and How Do You Get It? (video)](https://youtu.be/g0cd6iVfNbw), [Salmonella (video)](https://youtu.be/7XT8dBmJdMo), [5 Tips to Prevent Tick Bites and Getting Lyme Disease (video)](https://youtu.be/ENmVXtwsKE8), [How the COVID-19 Virus Is Transmitted (video)](https://youtu.be/oqFn6AHoJZQ)
   - (c) Choose any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, or lead poisoning.
 
-    **Resources:** [West Nile Story (West Nile Virus Prevention Rap) (video)](https://youtu.be/AL6V4eB-mbI), [6 Types of Botulism: Food, Infant, Wound & More Explained! (video)](https://youtu.be/2v3dgup6n7c), [How Does the Flu Spread? (video)](https://youtu.be/qq8tq4AEpxU), [Emphysema, Explained in 90 Seconds (video)](https://youtu.be/Zc6MSB622SE), [The Signs and Symptoms of Meningitis (video)](https://youtu.be/FHLWnlrmKNg), [Why Lead Poisoning Is a Danger to Your Child's Health | UNICEF (video)](https://youtu.be/L-crRQLn_p0)
+    **Resources:** [West Nile Story (West Nile Virus Prevention Rap) (video)](https://youtu.be/AL6V4eB-mbI), [6 Types of Botulism: Food, Infant, Wound & More Explained! (video)](https://youtu.be/2v3dgup6n7c), [How Does the Flu Spread? (video)](https://youtu.be/qq8tq4AEpxU), [Emphysema, Explained in 90 Seconds (video)](https://youtu.be/Zc6MSB622SE), [The Signs and Symptoms of Meningitis (video)](https://youtu.be/FHLWnlrmKNg), [Why Lead Poisoning Is a Danger to Your Child's Health \| UNICEF (video)](https://youtu.be/L-crRQLn_p0)
   - (d) For all 10 diseases from 1(c), explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread of infection, and available treatments.
 
     **Resources:** [How West Nile Virus Is Transmitted (video)](https://youtu.be/uNc99BEaJLs), [What Is Botulism? (video)](https://youtu.be/rI9ysEaJzVs), [Flu Virus 101 (video)](https://youtu.be/WSZEcpti2i0), [About COPD or Emphysema (website)](https://www.cdc.gov/copd/about/index.html), [Meningitis (website)](https://www.cdc.gov/meningitis/about/index.html), [Lead Poisoning (website)](https://www.cdc.gov/lead-prevention/about/index.html)
@@ -26,7 +26,7 @@ The field of public health deals with maintaining and monitoring the health of c
 - (2) Do the following:
   - (a) Explain the meaning of *immunization.*
 
-    **Resources:** [Vaccines 101: How Vaccines Work (video)](https://youtu.be/4SKmAlQtAj8), [How mRNA Vaccines Actually Work | Inside the Vaccine (video)](https://youtu.be/z0kfdZ8o_j4)
+    **Resources:** [Vaccines 101: How Vaccines Work (video)](https://youtu.be/4SKmAlQtAj8), [How mRNA Vaccines Actually Work \| Inside the Vaccine (video)](https://youtu.be/z0kfdZ8o_j4)
   - (b) Name eight diseases against which a young child should be immunized, two diseases against which everyone should be reimmunized periodically, and one immunization everyone should receive annually.
 
     **Resources:** [What You Need To Know About Childhood Immunizations (podcast)](https://youtu.be/zaXVO4hHld8), [Vaccines for Children Program: 30 Years of Protecting Children (video)](https://youtu.be/1yf7uEnEU6o)
@@ -34,7 +34,7 @@ The field of public health deals with maintaining and monitoring the health of c
 
 - (3) Discuss the importance of safe drinking water in terms of the spread of disease. Then, demonstrate two ways for making water safe to drink that can be used while at camp. In your demonstration, explain how dishes and utensils should be washed, dried, and kept sanitary at home and in camp.
 
-  **Resources:** [Waterborne Diseases | Waterborne Pathogens | Public Health and Water Safety | Prevention & Control (video)](https://youtu.be/GlTdIRxpxAQ), [The Best Way to Filter Water While Backpacking (video)](https://youtu.be/DIZz3iiZ2TY), [How to Wash Dishes at Camp (video)](https://youtu.be/4tNLdcjBlQc)
+  **Resources:** [Waterborne Diseases \| Waterborne Pathogens \| Public Health and Water Safety \| Prevention & Control (video)](https://youtu.be/GlTdIRxpxAQ), [The Best Way to Filter Water While Backpacking (video)](https://youtu.be/DIZz3iiZ2TY), [How to Wash Dishes at Camp (video)](https://youtu.be/4tNLdcjBlQc)
 
 - (4) Explain what a vector is and how insects and rodents can be controlled in your home, in your community, and at camp. Tell why this is important. In your discussion, explain which vectors can be easily controlled by individuals and which ones require long-term, collective action.
 
@@ -85,7 +85,7 @@ The field of public health deals with maintaining and monitoring the health of c
 
 - (8) Pick a profession in the public health sector that interests you. Find out the education, training, and experience required to work in this profession. Discuss what you learn with your counselor.
 
-  **Resources:** [Career in Public Health| Everything You Need to Know Public Health Careers| Healthcare Management (video)](https://youtu.be/FvN1rfxYKIo), [Public Health Careers at the CDC (video)](https://youtu.be/QpaOGYDMe38), [Why Study Public Health? | College Majors | College Degrees (video)](https://youtu.be/l-wciIH4FcQ)
+  **Resources:** [Career in Public Health\| Everything You Need to Know Public Health Careers\| Healthcare Management (video)](https://youtu.be/FvN1rfxYKIo), [Public Health Careers at the CDC (video)](https://youtu.be/QpaOGYDMe38), [Why Study Public Health? \| College Majors \| College Degrees (video)](https://youtu.be/l-wciIH4FcQ)
 
 ## Resources
 

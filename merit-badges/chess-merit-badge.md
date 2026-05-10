@@ -40,7 +40,7 @@ Chess is among the oldest board games in the world, and it ranks among the most 
     **Resources:** [How to Set Up the Chess Board (video)](https://youtu.be/NPyuNpYfrDc)
   - (c) How each chess piece moves and captures, including: four rules of castling, en passant captures, pawn promotion, check, ways to get out of check, and checkmate.
 
-    **Resources:** [How to Move the Chess Pieces? (video)](https://youtu.be/RpbQjiJ5ops), [Chess: Castling and En Passant (video)](https://youtu.be/1Ut3Zw61v9M), [Check! | Chess Term (video)](https://youtu.be/C6bqDvAZVTk), [Checkmate | Chess Terms (video)](https://youtu.be/Svswkqslr9I)
+    **Resources:** [How to Move the Chess Pieces? (video)](https://youtu.be/RpbQjiJ5ops), [Chess: Castling and En Passant (video)](https://youtu.be/1Ut3Zw61v9M), [Check! \| Chess Term (video)](https://youtu.be/C6bqDvAZVTk), [Checkmate \| Chess Terms (video)](https://youtu.be/Svswkqslr9I)
   - (d) The five ways a game can end in a draw
 
     **Resources:** [Draw and Stalemate in Chess Explained (video)](https://youtu.be/rjHCE3UQY8w)

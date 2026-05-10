@@ -11,7 +11,7 @@ Every Scout swears to an oath that includes duty to his country. A better unders
 
 - (1) Read the Declaration of Independence. Pay close attention to the section that begins with "We hold these truths to be self-evident" and ends with "to provide new Guards for their future security." Rewrite that section in your own words, making it as easy to understand as possible. Then, share your writing with your counselor and discuss the importance of the Declaration to all Americans.
 
-  **Resources:** [Declaration of Independence—Full Transcript (website)](https://www.archives.gov/founding-docs/declaration-transcript), [The Declaration of Independence | Journey to American Democracy (video)](https://youtu.be/gkFxD-CMlZM)
+  **Resources:** [Declaration of Independence—Full Transcript (website)](https://www.archives.gov/founding-docs/declaration-transcript), [The Declaration of Independence \| Journey to American Democracy (video)](https://youtu.be/gkFxD-CMlZM)
 
 - (2) Do TWO of the following:
   - (a) Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage.
@@ -27,7 +27,7 @@ Every Scout swears to an oath that includes duty to his country. A better unders
   - (a) Select a topic related to the United States that is currently in the news. Describe to your counselor what is happening. Explain how today's events are related to or affected by the events and values of America's past.
   - (b) For the following, describe its adoption, tell about any changes since its adoption, and explain how each one continues to influence Americans today: the flag, the Pledge of Allegiance, the Great Seal of the United States, the motto, and the national anthem.
 
-    **Resources:** [The Pledge of Allegiance History (video)](https://youtu.be/BPoPVo1-nnE), [Why America Chose the Bald Eagle | The Story Behind the Great Seal (1782) (video)](https://youtu.be/KOHDAWOd5Ac), [US National Motto (video)](https://youtu.be/Idy_lsX6m7c), [How "The Star-Spangled Banner" Became the National Anthem (video)](https://youtu.be/H2Iwgq1baks)
+    **Resources:** [The Pledge of Allegiance History (video)](https://youtu.be/BPoPVo1-nnE), [Why America Chose the Bald Eagle \| The Story Behind the Great Seal (1782) (video)](https://youtu.be/KOHDAWOd5Ac), [US National Motto (video)](https://youtu.be/Idy_lsX6m7c), [How "The Star-Spangled Banner" Became the National Anthem (video)](https://youtu.be/H2Iwgq1baks)
   - (c) Research your family's history. Find out how various events and situations in American history affected your family. If your family immigrated to America, tell the reasons why. Share what you find with your counselor.
 
     **Resources:** [Genealogy Merit Badge (website)](https://www.scouting.org/merit-badges/genealogy/), [The Perfect Way To Start Finding Your Family Tree (video)](https://youtu.be/RuNvBXyYEJk)
@@ -46,7 +46,7 @@ Every Scout swears to an oath that includes duty to his country. A better unders
 - (5) Do ONE of the following:
   - (a) Watch two motion pictures (with the approval and permission of your counselor and parent or guardian) that are set in some period of American history. Describe to your counselor how accurate each film is with regard to the historical events depicted and also with regard to the way the characters are portrayed.
 
-    **Resources:** [Gettysburg (1993) Official Trailer (video)](https://youtu.be/9Vz5f9NOVuk), [Remember the Titans Official Trailer (video)](https://youtu.be/35MvdHBWjwU), [Tora! Tora! Tora! Theatrical Movie Trailer (video)](https://youtu.be/2QwaNhalGcQ), [Hidden Figures | Official Trailer (video)](https://youtu.be/5wfrDhgUMGI), [A League of Their Own—Official Trailer | Prime Video (video)](https://youtu.be/H8qMhtkB18k)
+    **Resources:** [Gettysburg (1993) Official Trailer (video)](https://youtu.be/9Vz5f9NOVuk), [Remember the Titans Official Trailer (video)](https://youtu.be/35MvdHBWjwU), [Tora! Tora! Tora! Theatrical Movie Trailer (video)](https://youtu.be/2QwaNhalGcQ), [Hidden Figures \| Official Trailer (video)](https://youtu.be/5wfrDhgUMGI), [A League of Their Own—Official Trailer \| Prime Video (video)](https://youtu.be/H8qMhtkB18k)
   - (b) Read a biography (with your counselor's approval) of someone who has made a contribution to America's heritage. Tell some things you admire about this individual and some things you do not admire. Explain why you think this person has made a positive or a negative contribution to America's heritage.
 
     **Resources:** [America250 Reading List: A Journey Through Stories That Shaped a Nation (video)](https://youtu.be/FCL5cIfkvrA)

@@ -15,13 +15,13 @@ Earning the American Business Merit Badge can help Scouts learn practical busine
     **Resources:** [What Is the Free Enterprise System? (video)](https://youtu.be/AvvPKwTpGqE), [What Is the Difference Between Freedom and Liberty (video)](https://youtu.be/nKLUfmIcO5c)
   - (b) Describe the Industrial Revolution and tell about the major developments that marked the start of the modern industrial era in the United States. Discuss three people who had a great influence on business or industry in the United States and describe what each did.
 
-    **Resources:** [The Industrial Revolution: Crash Course History of Science #21 (video)](https://youtu.be/FCpqN7GmLYk), [Ford, Cars, and a New Revolution: Crash Course History of Science #28 (video)](https://youtu.be/UPvwpYeOJnI), [Man of Steel: Andrew Carnegie | The Gilded Age (video)](https://youtu.be/vmbRtjN0gAk), [Who Was: Henry Ford | Encyclopaedia Britannica (video)](https://youtu.be/wupQUvrmQjA), [How JP Morgan Built It's Empire (video)](https://youtu.be/M9LnW09fvHE), [Steve Jobs—Apple CEO (video)](https://youtu.be/tvXUHY4z0As)
+    **Resources:** [The Industrial Revolution: Crash Course History of Science #21 (video)](https://youtu.be/FCpqN7GmLYk), [Ford, Cars, and a New Revolution: Crash Course History of Science #28 (video)](https://youtu.be/UPvwpYeOJnI), [Man of Steel: Andrew Carnegie \| The Gilded Age (video)](https://youtu.be/vmbRtjN0gAk), [Who Was: Henry Ford \| Encyclopaedia Britannica (video)](https://youtu.be/wupQUvrmQjA), [How JP Morgan Built It's Empire (video)](https://youtu.be/M9LnW09fvHE), [Steve Jobs—Apple CEO (video)](https://youtu.be/tvXUHY4z0As)
   - (c) Identify and describe to your counselor the five primary areas of business.
 
     **Resources:** [Functional Areas of a Business (video)](https://youtu.be/_UaSu07bqNQ)
   - (d) Explain the history of labor unions in the United States and the importance of labor unions and employers working together. Identify two major labor unions currently in existence.
 
-    **Resources:** [The Labor Movement in the United States | History (video)](https://youtu.be/ewu-v36szlE), [List of US Labor Unions (website)](https://www.findlaw.com/employment/wages-and-benefits/list-of-us-labor-unions.html)
+    **Resources:** [The Labor Movement in the United States \| History (video)](https://youtu.be/ewu-v36szlE), [List of US Labor Unions (website)](https://www.findlaw.com/employment/wages-and-benefits/list-of-us-labor-unions.html)
   - (e) Discuss with your counselor how business impacts the local, national, and global economy.
 
     **Resources:** [Small Businesses: Their Importance to the Global Economy (video)](https://youtu.be/SY3Z1WgqaYQ)
@@ -43,10 +43,10 @@ Earning the American Business Merit Badge can help Scouts learn practical busine
 - (3) Do the following:
   - (a) Explain the place of profit in business.
 
-    **Resources:** [What Is Profit? (Gross Profit, Operating Profit, Net Income) | From a Business Professor (video)](https://youtu.be/R8voRf5BjdA)
+    **Resources:** [What Is Profit? (Gross Profit, Operating Profit, Net Income) \| From a Business Professor (video)](https://youtu.be/R8voRf5BjdA)
   - (b) Describe to your counselor green marketing and sustainable business practices.
 
-    **Resources:** [What Is Eco Marketing or Green Marketing? | Needs and Significance of Eco Marketing (video)](https://youtu.be/J9wzu_JeGyI)
+    **Resources:** [What Is Eco Marketing or Green Marketing? \| Needs and Significance of Eco Marketing (video)](https://youtu.be/J9wzu_JeGyI)
   - (c) Explain how ethics plays a role in business decision making.
 
     **Resources:** [Top 5 Business Ethics Lessons for Making the Right Decisions at Work (video)](https://youtu.be/_zYVOnjLCR0)

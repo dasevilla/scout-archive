@@ -66,7 +66,7 @@ Chemistry explores how substances react with each other, how they change, how ce
 
 - (7) Identify three government agencies that oversee or provide guidance on the use of chemicals for personal, pharmaceutical, commercial, or industrial use, and discuss the agencies' history and responsibilities with your counselor.
 
-  **Resources:** [Why Does the FDA Exist? (video)](https://youtu.be/DmYX23j5rnQ?si=O16gv-2M6VzHE5N1), [The EPA Was Formed | Today in History (video)](https://youtu.be/cvM54p1CQeA?si=Cn6qlMYp9NcalK5W), [Preventing HAZMAT Accidents: DOT Safety Rules Explained 🧪 (video)](https://youtu.be/T0xn38nYSig?si=MCKBwz8JCPPjOdGt), [Chemistry of a Killer: Inside a DEA Drug Lab (video)](https://youtu.be/MATaoXb924o?si=wi2SAv4bm-He7g2D)
+  **Resources:** [Why Does the FDA Exist? (video)](https://youtu.be/DmYX23j5rnQ?si=O16gv-2M6VzHE5N1), [The EPA Was Formed \| Today in History (video)](https://youtu.be/cvM54p1CQeA?si=Cn6qlMYp9NcalK5W), [Preventing HAZMAT Accidents: DOT Safety Rules Explained 🧪 (video)](https://youtu.be/T0xn38nYSig?si=MCKBwz8JCPPjOdGt), [Chemistry of a Killer: Inside a DEA Drug Lab (video)](https://youtu.be/MATaoXb924o?si=wi2SAv4bm-He7g2D)
 
 - (8) Do ONE of the following:
   - (a) Visit a research laboratory, and discuss the research performed there with a chemist or chemical technician. Learn what education and training they received.

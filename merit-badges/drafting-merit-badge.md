@@ -23,7 +23,7 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
 - (2) Using the formatted sheet of paper you prepared for your manual project, produce a pencil drawing as it would be used for manufacturing. Fill in all title block information. The manual drawing may be any one of the following drawing types:
   - (a) **Architectural:** Make a scale drawing of an architectural project. The architectural drawing may be a floor plan; electrical, plumbing, or mechanical service plan; elevation plan; or landscaping plan. Use an architect's scale and show dimensions to communicate the actual size of features. Include any important sectional drawings, notes, and considerations necessary for construction. Properly print a bill of materials for at least three of the raw materials or components in the project.
 
-    **Resources:** [How to Sketch a Floor Plan | COMPLETE Beginner's Guide!! Step by Step (video)](https://youtu.be/7IuSTwAB2QQ?si=PwzIxSaP3mVhoFrK)
+    **Resources:** [How to Sketch a Floor Plan \| COMPLETE Beginner's Guide!! Step by Step (video)](https://youtu.be/7IuSTwAB2QQ?si=PwzIxSaP3mVhoFrK)
   - (b) **Mechanical:** Make a scale drawing of some mechanical device or interesting object. The mechanical drawing may be of the orthographic (third-angle) or isometric style. Use an engineer's scale and show dimensions to communicate the actual size of features. Include any important sectional drawings, notes, and manufacturing considerations. Properly print a bill of materials for at least three of the raw materials or components in the assembly.
 
     **Resources:** [Isometric Drawing Made Easy: How to Draw Isometric Views with Orthographic Projections (video)](https://youtu.be/h_u0BHKJ0yk?si=AfIUMBvYIRkn0lC9)
@@ -68,7 +68,7 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
 
 - (8) Identify three career opportunities that would use skills and knowledge in Drafting. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-  **Resources:** [Drafter | Careers That Work (video)](https://youtu.be/w9K7P383cXs?si=72p1e1i6nPm7qRIo), [23 Different Types of Drafting Jobs (Plus Salary Information) (website)](https://www.indeed.com/career-advice/finding-a-job/different-types-of-drafting-jobs)
+  **Resources:** [Drafter \| Careers That Work (video)](https://youtu.be/w9K7P383cXs?si=72p1e1i6nPm7qRIo), [23 Different Types of Drafting Jobs (Plus Salary Information) (website)](https://www.indeed.com/career-advice/finding-a-job/different-types-of-drafting-jobs)
 
 ## Resources
 

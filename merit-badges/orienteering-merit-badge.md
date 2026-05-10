@@ -15,7 +15,7 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
 
 - (2) Explain what orienteering is.
 
-  **Resources:** [Start Orienteering || A Newcomer's Guide (video)](https://youtu.be/26Zc5AVkFis?si=BBTUkJ_RFGL6VdEI)
+  **Resources:** [Start Orienteering \|\| A Newcomer's Guide (video)](https://youtu.be/26Zc5AVkFis?si=BBTUkJ_RFGL6VdEI)
 
 - (3) Do the following:
   - (a) Explain how a compass works. Describe the features of an orienteering compass.

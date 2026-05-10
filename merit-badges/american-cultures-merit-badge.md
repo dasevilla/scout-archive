@@ -31,7 +31,7 @@ The United States is a nation of immigrants. Every person came to America from s
 
 - (4) Tell about a contribution made to our country by three different people, each from a different racial, ethnic, or religious background.
 
-  **Resources:** [Black History Heroes (video)](https://youtu.be/Hgu67o9AOAE), [Famous Americans for Kids | Pioneers, Artists, Authors, and Inventors (video)](https://youtu.be/vvm7nFwuCHA)
+  **Resources:** [Black History Heroes (video)](https://youtu.be/Hgu67o9AOAE), [Famous Americans for Kids \| Pioneers, Artists, Authors, and Inventors (video)](https://youtu.be/vvm7nFwuCHA)
 
 - (5) Give a talk to your Scout unit or class at school on how people from different groups have gotten along together. Lead a discussion on what can be done to help various groups understand one another better.
 

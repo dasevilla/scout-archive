@@ -21,10 +21,10 @@ Saving, producing, and using energy wisely will be critical to America’s futur
 
   - (a) Explain how THREE of the following devices use energy, and explain their energy conversions: toaster, greenhouse, lightbulb, bow drill, cell phone, nuclear reactor, sauna, or electric vehicles.
 
-    **Resources:** [How Does a Toaster Work? (video)](https://youtu.be/s5gufMXDg9M), [How Do Greenhouses Work? Easy Explanation! (video)](https://youtu.be/KI-Wf2odCqM), [How Modern Light Bulbs Work (video)](https://youtu.be/oCEKMEeZXug), [Primitive Technology: Cord Drill and Pump Drill (video)](https://youtu.be/ZEl-Y1NvBVI), [How Wireless Charging REALLY Works! (The Hidden Physics) (video)](https://youtu.be/AYgxeSvPXK4), [What Is Nuclear Energy? | National Geographic (video)](https://youtu.be/Ta3z3pGK0vU), [ICE vs. Electric: The Future of Driving Compared (video)](https://youtu.be/734-EmRGYPI)
+    **Resources:** [How Does a Toaster Work? (video)](https://youtu.be/s5gufMXDg9M), [How Do Greenhouses Work? Easy Explanation! (video)](https://youtu.be/KI-Wf2odCqM), [How Modern Light Bulbs Work (video)](https://youtu.be/oCEKMEeZXug), [Primitive Technology: Cord Drill and Pump Drill (video)](https://youtu.be/ZEl-Y1NvBVI), [How Wireless Charging REALLY Works! (The Hidden Physics) (video)](https://youtu.be/AYgxeSvPXK4), [What Is Nuclear Energy? \| National Geographic (video)](https://youtu.be/Ta3z3pGK0vU), [ICE vs. Electric: The Future of Driving Compared (video)](https://youtu.be/734-EmRGYPI)
   - (b) Construct a system that makes at least two energy conversions and explain this to your counselor.
 
-    **Resources:** [Solar Motor-Free Energy Motor (video)](https://youtu.be/VQqpnAKf9cM), [Solar Powered Toy Bell Ringer (video)](https://youtu.be/DcZkmj1afZs), [How to Make a Simple Windmill for Free Energy - School Project | Functional (video)](https://youtu.be/P6al80Gv4wg), [How to Make a Free Energy Using Water Wheel - Science Project Without Electricity (video)](https://youtu.be/-1xsyt4T6eU)
+    **Resources:** [Solar Motor-Free Energy Motor (video)](https://youtu.be/VQqpnAKf9cM), [Solar Powered Toy Bell Ringer (video)](https://youtu.be/DcZkmj1afZs), [How to Make a Simple Windmill for Free Energy - School Project \| Functional (video)](https://youtu.be/P6al80Gv4wg), [How to Make a Free Energy Using Water Wheel - Science Project Without Electricity (video)](https://youtu.be/-1xsyt4T6eU)
 
 - (3) Show you understand energy efficiency by explaining to your counselor a common example of a situation where energy moves through a system to produce a useful result. Do the following:
 
@@ -64,7 +64,7 @@ Saving, producing, and using energy wisely will be critical to America’s futur
     **Resources:** [Why Does the US Import Oil When They Export So Much? (video)](https://youtu.be/evIAnt5mNGI), [US Energy Imports and Exports (website)](https://www.eia.gov/todayinenergy/detail.php?id=65664)
   - (c) The proportion of energy resources used by homes, businesses, industry, and transportation
 
-    **Resources:** [Use of Energy Explained (website)](https://www.eia.gov/energyexplained/use-of-energy/), [Energy Consumption & Efficiency Data  | Energy Information Agency (website)](https://www.eia.gov/consumption/)
+    **Resources:** [Use of Energy Explained (website)](https://www.eia.gov/energyexplained/use-of-energy/), [Energy Consumption & Efficiency Data  \| Energy Information Agency (website)](https://www.eia.gov/consumption/)
   - (d) The fuels used to generate America's electricity
 
     **Resources:** [Total Energy: Primary Energy Consumption by Source (website)](https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T01.03#/?f=A)

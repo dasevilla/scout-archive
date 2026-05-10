@@ -72,7 +72,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
     **Resources:** [How To Use a Signal Mirror (video)](https://youtu.be/kYN46GuZmpE), [The Signal Mirror: A Low-Tech Lifesaver (website)](https://scoutingmagazine.org/issues/0103/d-outs.html)
   - (e) Explain how a Personal Locator Beacon (PLB) works and the role of the Air Force Rescue Coordination Center (AFRCC).
 
-    **Resources:** [How Does an EPIRB Work? (video)](https://youtu.be/xwbgU9envik), [How Modern Rescue Beacons Work—The Anatomy of a Rescue | EPIRB and Personal Locator Beacons (video)](https://youtu.be/YM4V76rTMtI), [Emergency Beacons (website)](https://www.sarsat.noaa.gov/emergency-406-beacons/)
+    **Resources:** [How Does an EPIRB Work? (video)](https://youtu.be/xwbgU9envik), [How Modern Rescue Beacons Work—The Anatomy of a Rescue \| EPIRB and Personal Locator Beacons (video)](https://youtu.be/YM4V76rTMtI), [Emergency Beacons (website)](https://www.sarsat.noaa.gov/emergency-406-beacons/)
 
 - (3) **Maps.** Using a map, a compass and a GPS device or app approved by your counselor, do the following:
   - (a) Point out and explain the 5 D's (Date, Description, Details, Direction or Declination, Distance) of the map.
@@ -180,7 +180,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
     **Resources:** [What it Means to be a Search and Rescue Responder (video)](https://youtu.be/qKA27Zpw8o4), [What It Actually Takes To Be a Rescue Swimmer in the Coast Guard (video)](https://youtu.be/lowz7P4QIVs), [U.S. Air Force: Combat Search and Rescue (video)](https://youtu.be/yY2kdlk4zps), [Emergency Management Directors (video)](https://youtu.be/uRmE4z1sGbA)
   - (b) Explore how you could use knowledge and skills from this merit badge to serve as a volunteer on a disaster relief team, a wilderness rescue team, or a ski patrol. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursue this.
 
-    **Resources:** [How To Prepare To Join a Search and Rescue Team | SAR Training for Finding Missing Persons (video)](https://youtu.be/wpC861dIwvQ), [Volunteer Search and Rescue Teams (video)](https://youtu.be/FfBXzSF__90), [Search and Rescue Volunteers (video)](https://youtu.be/ZwClCJ-0n-U)
+    **Resources:** [How To Prepare To Join a Search and Rescue Team \| SAR Training for Finding Missing Persons (video)](https://youtu.be/wpC861dIwvQ), [Volunteer Search and Rescue Teams (video)](https://youtu.be/FfBXzSF__90), [Search and Rescue Volunteers (video)](https://youtu.be/ZwClCJ-0n-U)
 
 ## Resources
 

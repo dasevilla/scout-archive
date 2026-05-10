@@ -14,10 +14,10 @@ Landscape architects design and plan the various outdoor spaces in modern commun
 - (2) After completing requirement 1, discuss the following with your counselor:
   - (a) Tell whether the design had separate spaces, a defined point of entry, a clear path system, and sun and shade variety.
 
-    **Resources:** [Defining Spaces and Adding Privacy Outdoors | Design Tips | HGTV (video)](https://youtu.be/uVVCpugREjY?si=UjWU7ZHOL0LUOErs)
+    **Resources:** [Defining Spaces and Adding Privacy Outdoors \| Design Tips \| HGTV (video)](https://youtu.be/uVVCpugREjY?si=UjWU7ZHOL0LUOErs)
   - (b) Discuss how any structures, the designated seating, eating, or parking areas suited the overall design.
 
-    **Resources:** [Ripple Park | Landscape Architecture Capstone (video)](https://youtu.be/lEXvdRFBC8s?si=bSb-EyaJNFCsz99C)
+    **Resources:** [Ripple Park \| Landscape Architecture Capstone (video)](https://youtu.be/lEXvdRFBC8s?si=bSb-EyaJNFCsz99C)
   - (c) Explain how the design reflected consideration for the comfort, shelter, and security of the users.
 
     **Resources:** [Spaces that Heal and Comfort (website)](https://eptdesign.com/spaces-that-heal-and-comfort/)
@@ -32,7 +32,7 @@ Landscape architects design and plan the various outdoor spaces in modern commun
 - (4) After obtaining permission from the appropriate authority, look at and study a place of worship, school grounds, or a public building and identify where most people arrive by bus or car. Then do the following:
   - (a) Using a measuring tape, measure and draw the main site entry and its nearby area. Define the scale of your drawing. Be sure to include the driveway and sidewalk or path that leads to the building's main entry. Indicate any sidewalks, structures, trees and plants, lights, drains, utilities, or other site furnishings within the study area. Make two copies of this plan and save the original, then do 4(b) and 4(c) using the copies.
 
-    **Resources:** [Create Your Own Landscape Design |  Site Survey (video)](https://youtu.be/6fLp1fWKzjQ?si=9c4WHFrHoS30ltSk)
+    **Resources:** [Create Your Own Landscape Design \|  Site Survey (video)](https://youtu.be/6fLp1fWKzjQ?si=9c4WHFrHoS30ltSk)
   - (b) On one copy of your site plan, use directional arrows to indicate where the water drains across the site, where ditches occur, and where water stands for a longer period of time.
   - (c) Decide how you can make the place safer and more comfortable for those using it. Redesign the area on another copy of the plan. You may want to include new walks, covered waiting areas, benches, space-defining plantings of trees and shrubs, and drainage structures.
 

@@ -21,7 +21,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
     **Resources:** [Every Type of Railcar Explained in 15 Minutes (video)](https://youtu.be/psjExhXfvbI), [Virtual Train Tour (website)](https://www.bnsf.com/about-bnsf/virtual-train-tour/)
   - (d) Explain how a modern diesel or electric locomotive develops power. Explain the terms dynamic braking and radial steering trucks.
 
-    **Resources:** [Why Locomotives Don't Have Tires (video)](https://youtu.be/nGhBHrr5CYQ), [Dynamic Braking | Diesel Electric Locomotives | Regenerative Braking (video)](https://youtu.be/dCQ9Wi8PlYY), [[Rail Insights] Take a Closer Look at the Wheel-Rail-Interface (video)](https://youtu.be/aW3P9mTv0Jk)
+    **Resources:** [Why Locomotives Don't Have Tires (video)](https://youtu.be/nGhBHrr5CYQ), [Dynamic Braking \| Diesel Electric Locomotives \| Regenerative Braking (video)](https://youtu.be/dCQ9Wi8PlYY), [\[Rail Insights\] Take a Closer Look at the Wheel-Rail-Interface (video)](https://youtu.be/aW3P9mTv0Jk)
 
 - (2) Do the following:
   - (a) Explain the purpose and formation of Amtrak. Explain, by the use of a timetable, a plan for making a trip by rail between two cities at least 500 miles apart. List the times of departure and arrival at your destination, the train number and name, and the type of service you want.
@@ -40,7 +40,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
     **Resources:** [Why Work for a Short Line or Regional Railroad? (website)](https://aslrra.org/about-us/career-opportunities/), [Railroad Careers: Conductors (video)](https://youtu.be/8ofUGMZCRH8), [Metro Careers—Operations (video)](https://youtu.be/4w4j1tESxXk), [Union Pacific—Train Crew (video)](https://youtu.be/f4loypZNHeY), [A Day in the Life of an Amtrak Conductor (video)](https://youtu.be/n1clZI-RZGc), [Amtrak Police Department Careers (video)](https://youtu.be/AN4QWTNKicM), [Amtrak On Board Services Jobs (video)](https://youtu.be/cRDQ8PM4Y3Y)
   - (c) Name four rail support industries. Describe the function of each one.
 
-    **Resources:** [How Millions of Meters of Train Rails Are Made From Steel - Railroad Tracks Mass Production Line (video)](https://youtu.be/anJUiOLMGpk), [Inside the Massive Factory Where Siemens Builds Trains (video)](https://youtu.be/h8nddK1NZSk), [Track Inspections: Keeping Railroads Safe in Under 5 Minutes (video)](https://youtu.be/D_xJmt50LtQ), [Railway Freight Services (video)](https://youtu.be/9XiBZofqFIM), [Why Chicago's Rail Hub Is So Vital to the National Economy | WSJ (video)](https://youtu.be/YYfxo2otxCw)
+    **Resources:** [How Millions of Meters of Train Rails Are Made From Steel - Railroad Tracks Mass Production Line (video)](https://youtu.be/anJUiOLMGpk), [Inside the Massive Factory Where Siemens Builds Trains (video)](https://youtu.be/h8nddK1NZSk), [Track Inspections: Keeping Railroads Safe in Under 5 Minutes (video)](https://youtu.be/D_xJmt50LtQ), [Railway Freight Services (video)](https://youtu.be/9XiBZofqFIM), [Why Chicago's Rail Hub Is So Vital to the National Economy \| WSJ (video)](https://youtu.be/YYfxo2otxCw)
   - (d) With your parent or guardian's and counselor's approval, interview someone employed in the rail industry. Learn what that person does and how this person became interested in railroading. Find out what type of schooling and training is required for this position.
 
     **Resources:** [The Informational Interview: Researching a Career (video)](https://youtu.be/Mqo0IsStelk)
@@ -91,7 +91,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
     **Resources:** [How Railroad Crossings Work (video)](https://youtu.be/9kRJPSVdzlM), [How To Read Railroad Signals (video)](https://youtu.be/Q1UlOEUdows)
   - (b) Explain the meaning of three horn signals.
 
-    **Resources:** [How Trains Talk to Each Other | Horn Sounds | Train Safety (video)](https://youtu.be/eI6xSjkcXTY), [Railroad Safety: Train Horns and Grade Crossing Signals (website)](https://www.up.com/news/safety/tr101620-train-safety-horns-signals)
+    **Resources:** [How Trains Talk to Each Other \| Horn Sounds \| Train Safety (video)](https://youtu.be/eI6xSjkcXTY), [Railroad Safety: Train Horns and Grade Crossing Signals (website)](https://www.up.com/news/safety/tr101620-train-safety-horns-signals)
   - (c) Describe a way to signal a train for an emergency stop.
 
     **Resources:** [How To Stop a Train in an Emergency (website)](https://www.wikihow.com/Stop-a-Train-in-an-Emergency)

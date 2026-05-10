@@ -56,7 +56,7 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
     **Resources:** [Do We Really Need Pesticides? (video)](https://www.youtube.com/watch?v=GLllZ-qiXJA), [Bald Eagle Study (video)](https://youtu.be/1eXj6QKjw_o?si=oppPQY9SRxO1a7Ne)
   - (b) Learn about the erosion process and identify an example of where erosion occurs. Determine where the eroded material ends up and how erosion can be minimized.
 
-    **Resources:** [Soil Erosion | Causes, Effects, and Solutions (video)](https://www.youtube.com/watch?v=BoSUEIkK_Y4), [How Was the Grand Canyon Formed? (video)](https://www.youtube.com/watch?v=t6IBg4Srb6E)
+    **Resources:** [Soil Erosion \| Causes, Effects, and Solutions (video)](https://www.youtube.com/watch?v=BoSUEIkK_Y4), [How Was the Grand Canyon Formed? (video)](https://www.youtube.com/watch?v=t6IBg4Srb6E)
   - (c) Learn about a land pollution incident that led to a site being listed on Environmental Protection Agency's Superfund National Priority List. Identify what caused the incident, what the effects were on the environment, what remediation has been done, and the current condition of the site.
 
     **Resources:** [Introduction to Superfund (video)](https://www.youtube.com/watch?v=klO1hJBJjns)

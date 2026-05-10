@@ -11,18 +11,18 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 
 - (1) Do the following:
 
-  **Resources:** [Hazards, Prevention, and First Aid | Produced by Scouting America (video)](https://vimeo.com/1125028263)
+  **Resources:** [Hazards, Prevention, and First Aid \| Produced by Scouting America (video)](https://vimeo.com/1125028263)
 
   - (a) Explain to your counselor the most likely hazards you may encounter while participating in cycling activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
 
-    **Resources:** [Avoiding Road Hazards (video)](https://www.youtube.com/watch?v=dcRpBP9WvKg%20)
+    **Resources:** [Avoiding Road Hazards (video)](https://www.youtube.com/watch?v=dcRpBP9WvKg)
   - (b) Show that you know first aid for injuries or illnesses that could occur while cycling, including cuts, scratches, concussions, blisters, sunburn, heat exhaustion, heatstroke, hypothermia, frostbite, dehydration, insect stings, tick bites, and snakebite. Explain to your counselor why you should be able to identify the poisonous plants and poisonous animals that are found in your area.
 
-    **Resources:** [First Aid Guide for Mountain Bikers (video)](https://www.youtube.com/watch?v=oPCWzECMD_4%20)
+    **Resources:** [First Aid Guide for Mountain Bikers (video)](https://www.youtube.com/watch?v=oPCWzECMD_4)
 
 - (2) Describe your state and local laws concerning bicycles. Discuss what is the same and what is different from laws applying to motor vehicles. Explain where and how you should ride on roads and streets to include lane position, changing lanes, making left and right turns, and riding through intersections.
 
-  **Resources:** [Bicycle Laws and Safe Road Riding | Produced by Scouting America (video)](https://vimeo.com/1125028107), [Rules of the Road (video)](https://youtu.be/-Jp0SSAeCiY)
+  **Resources:** [Bicycle Laws and Safe Road Riding \| Produced by Scouting America (video)](https://vimeo.com/1125028107), [Rules of the Road (video)](https://youtu.be/-Jp0SSAeCiY)
 
 - (3) Explain the importance of wearing the right clothing and gear while cycling, including a properly sized and fitted helmet. Know the *Scouting America Bike Safety Guidelines*.
 
@@ -30,28 +30,28 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 
 - (4) Using a bicycle safety checklist, clean and adjust a bicycle and present it to your counselor for inspection. Do the following:
 
-  **Resources:** [Bicycle Safety Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cycling/Bicycle%20Safety%20Checklist.pdf), [Bicycle Safety Checklist (fillable) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cycling/Bicycle%20Safety%20Checklist%20%28fillable%29.pdf), [Checklist, Maintenance, and Inspection | Produced by Scouting America (video)](https://vimeo.com/1125028194)
+  **Resources:** [Bicycle Safety Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cycling/Bicycle%20Safety%20Checklist.pdf), [Bicycle Safety Checklist (fillable) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cycling/Bicycle%20Safety%20Checklist%20%28fillable%29.pdf), [Checklist, Maintenance, and Inspection \| Produced by Scouting America (video)](https://vimeo.com/1125028194)
 
   - (a) Show points that should be checked regularly to make sure the bicycle is safe to ride.
 
     **Resources:** [5 Things to Check Before Every Bike Ride (website)](https://scoutlife.org/features/169458/5-things-to-check-before-every-bike-ride/)
   - (b) Show how to adjust the saddle and handlebars for a proper fit.
 
-    **Resources:** [Bike Tips: Finding and Fitting the Right Bike (video)](https://www.youtube.com/watch?v=dsM9brngVmc&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=6%20), [How to Set Your Bicycle Seat Height (video)](https://www.youtube.com/watch?v=jh5Zv6Dcn6k%20)
+    **Resources:** [Bike Tips: Finding and Fitting the Right Bike (video)](https://www.youtube.com/watch?v=dsM9brngVmc&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=6), [How to Set Your Bicycle Seat Height (video)](https://www.youtube.com/watch?v=jh5Zv6Dcn6k)
   - (c) Show how to adjust brakes and gear shifting (derailleurs).
 
-    **Resources:** [Bike Tips: Proper Shifting Technique (video)](https://www.youtube.com/watch?v=7kc-CHtlQyM&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=7%20)
+    **Resources:** [Bike Tips: Proper Shifting Technique (video)](https://www.youtube.com/watch?v=7kc-CHtlQyM&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=7)
   - (d) Show all points that need regular lubrication.
   - (e) Show how to repair a flat by removing the tire, replacing or patching the tube, and remounting the tire.
 
-    **Resources:** [Changing a Tire with Disc Brakes | Produced by Scouting America (video)](https://vimeo.com/1125028160), [Changing a Tire with Caliper Brakes | Produced by Scouting America (video)](https://vimeo.com/1125028134)
+    **Resources:** [Changing a Tire with Disc Brakes \| Produced by Scouting America (video)](https://vimeo.com/1125028160), [Changing a Tire with Caliper Brakes \| Produced by Scouting America (video)](https://vimeo.com/1125028134)
   - (f) Show that the bicycle meets local laws.
 
-    **Resources:** [Rules of the Road (video)](https://www.youtube.com/watch?v=-Jp0SSAeCiY%20)
+    **Resources:** [Rules of the Road (video)](https://www.youtube.com/watch?v=-Jp0SSAeCiY)
 
 - (5) Demonstrate basic bicycle handling skills to your counselor, to include how to properly mount your bicycle, starting and stopping (to include emergency stops), riding in a straight line, turning, shifting gears, scanning, and signaling.
 
-  **Resources:** [Mastering Handling Basic Bicycle Handling Skills | Produced by Scouting America (video)](https://vimeo.com/1125028294), [Bicycle Safer Journey (video)](https://youtu.be/XMj_95C5ihk), [Bike Riding Safety (video)](https://youtu.be/nf5WQXFvrkk)
+  **Resources:** [Mastering Handling Basic Bicycle Handling Skills \| Produced by Scouting America (video)](https://vimeo.com/1125028294), [Bicycle Safer Journey (video)](https://youtu.be/XMj_95C5ihk), [Bike Riding Safety (video)](https://youtu.be/nf5WQXFvrkk)
 
 - (6) Using the Scouting America buddy system, complete all of the requirements for ONE of the following options: Road Biking OR Trail or Mixed Surface Biking.
 
@@ -59,23 +59,23 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 
   - A **Option A—Road Biking.** Do ALL of the following:
 
-    **Resources:** [Advanced Techniques for Urban Riding | Produced by Scouting America (video)](https://vimeo.com/1125028086)
+    **Resources:** [Advanced Techniques for Urban Riding \| Produced by Scouting America (video)](https://vimeo.com/1125028086)
   - (1) Take a road safety test with your counselor and demonstrate the following:
     - (a) On an urban street with light traffic, properly execute a left turn from the center of the street; also demonstrate an alternate left-turn technique used during periods of heavy traffic.
 
-      **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M%20), [Bike Hand Signals (PDF)](https://static.nhtsa.gov/nhtsa/downloads/NTI/Responsible_Walk-Bike_Activities/ComboLessons/L3Handouts/8009_HandSignals_122811_v1a.pdf)
+      **Resources:** [Bike Safety \| Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M), [Bike Hand Signals (PDF)](https://static.nhtsa.gov/nhtsa/downloads/NTI/Responsible_Walk-Bike_Activities/ComboLessons/L3Handouts/8009_HandSignals_122811_v1a.pdf)
     - (b) Properly execute a right turn.
 
-      **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
+      **Resources:** [Bike Safety \| Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
     - (c) Demonstrate appropriate actions at a right-turn-only lane when you are continuing straight.
 
-      **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
+      **Resources:** [Bike Safety \| Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
     - (d) Show proper curbside and road-edge riding. Show how to ride safely along a row of parked cars.
 
-      **Resources:** [Bike Safety | Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
+      **Resources:** [Bike Safety \| Hand Signals (video)](https://www.youtube.com/watch?v=v_hRsNHlq8M)
     - (e) Cross railroad tracks properly.
 
-      **Resources:** [How to Cross Railroad Tracks (video)](https://www.youtube.com/watch?v=62jc3-6Jgdw%20)
+      **Resources:** [How to Cross Railroad Tracks (video)](https://www.youtube.com/watch?v=62jc3-6Jgdw)
   - (2) Avoiding main highways, take two rides of 10 miles each, two rides of 15 miles each, and two rides of 25 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen on the ride.
 
     **Resources:** [Bikeability Checklist (PDF)](https://www.nhtsa.gov/sites/nhtsa.gov/files/bikabilitychecklist1.pdf), [MapMyRide (website)](https://www.mapmyride.com/)
@@ -92,7 +92,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
   - (1) Demonstrate the following mountain bike handling skills to your counselor:
     - (a) Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering
 
-      **Resources:** [The Basics of Cornering: Berms and Flat Corners (video)](https://youtu.be/UCWu6zXDjXM?si=akxjbkFYRrChevnX), [Advanced MTB Cornering Techniques: Body Position & Technical Terrain (video)](https://www.youtube.com/watch?v=Ammz64zxnhg%20)
+      **Resources:** [The Basics of Cornering: Berms and Flat Corners (video)](https://youtu.be/UCWu6zXDjXM?si=akxjbkFYRrChevnX), [Advanced MTB Cornering Techniques: Body Position & Technical Terrain (video)](https://www.youtube.com/watch?v=Ammz64zxnhg)
     - (b) Show shifting skills as applicable to climbs and obstacles.
 
       **Resources:** [Shifting Skills for Mountain Biking (video)](https://youtu.be/IxxoU-s-Lws)
@@ -111,7 +111,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
       **Resources:** [How to Navigate Rock Gardens (video)](https://youtu.be/arh94o3Qm4Y), [How to Ride Roots (video)](https://youtu.be/0CQesh_kN6k?si=74wVP05bl6ylKk8Y), [How to Ride Loose Gravel (video)](https://youtu.be/tpLCJLLPTEU?si=JbHCyrG-Md-Q4VIU)
   - (3) Describe the rules of trail riding, including how to know when a trail is unsuitable for riding.
 
-    **Resources:** [Sharing Our Trails (website)](https://treadlightly.org/tips/sharing-our-trails/), [Trail Manners (website)](https://www.tfnu.org/trail-etiquette/%20)
+    **Resources:** [Sharing Our Trails (website)](https://treadlightly.org/tips/sharing-our-trails/), [Trail Manners (website)](https://www.tfnu.org/trail-etiquette/)
   - (4) On mountain biking or multi-use trails approved by your counselor, take two rides of 2 miles each, two rides of 5 miles each, and two rides of 8 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen.
 
     **Resources:** [MapMyRide (website)](https://www.mapmyride.com/)

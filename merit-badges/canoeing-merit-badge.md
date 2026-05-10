@@ -12,7 +12,7 @@ For several centuries, the canoe was a primary method of travel for explorers an
 - (1) Do the following:
   - (a) Review with your counselor the most likely hazards you may encounter while participating in canoeing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
 
-    **Resources:** [Canoe Trip Risks (website)](https://boundarywaters.com/ely-minnesota-outfitter/canoe-trip-risks/), [Canoe Safety (video)](https://youtu.be/bNlnEOblxLw), [Golden Rules of Canoeing | How To Stay Safe on the Water (video)](https://youtu.be/a6Qy5sVRCtk), [Safety on Wilderness Canoe Trips (website)](https://www.bendingbranches.com/blogs/resources/round-up-of-our-best-canoeing-safety-topics)
+    **Resources:** [Canoe Trip Risks (website)](https://boundarywaters.com/ely-minnesota-outfitter/canoe-trip-risks/), [Canoe Safety (video)](https://youtu.be/bNlnEOblxLw), [Golden Rules of Canoeing \| How To Stay Safe on the Water (video)](https://youtu.be/a6Qy5sVRCtk), [Safety on Wilderness Canoe Trips (website)](https://www.bendingbranches.com/blogs/resources/round-up-of-our-best-canoeing-safety-topics)
   - (b) Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that could occur while canoeing: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, and strains.
 
     **Resources:** [How To Prevent and Treat Blisters (website)](https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/), [Cold Water Shock—How To Deal With Cold Water Shock (video)](https://youtu.be/rH3gZuSr6Y8), [Cold Water Paddling Safely (video)](https://youtu.be/pS0EeinLd3Y), [What Happens If You Don't Drink Enough Water (video)](https://youtu.be/EmNieKLjmH4), [Great Ways To Beat the Heat and Avoid Heat-Related Illness on the Water (website)](https://paddling.com/learn/great-ways-to-beat-the-heat-and-avoid-heat-related-illness-on-the-water), [What To Do if You Are Overheated After a Paddling This Summer? (website)](https://paddling.com/learn/what-to-do-if-you-are-overheated-after-a-paddling-this-summer), [What Causes Sunburns (video)](https://youtu.be/9aFm087_XWg), [Sprain Care With RICE Method (video)](https://youtu.be/z1gbB_peVDQ)
@@ -28,7 +28,7 @@ For several centuries, the canoe was a primary method of travel for explorers an
     **Resources:** [Basic Canoe Parts Identified (video)](https://youtu.be/qSGd6m-BOLM), [The Parts of a Canoe (video)](https://youtu.be/MqnFm-O7A5c), [Parts of a Canoe (video)](https://youtu.be/yKg7UPmhv1w)
   - (b) Describe how the length and shape of a canoe affect its performance.
 
-    **Resources:** [How To Choose the Right Canoe | Comparing Length, Width and Hull Shape (video)](https://youtu.be/PbBOp8PZiCg), [Canoe Design Features and How They Affect Performance (video)](https://youtu.be/nrZjyCH9zpA)
+    **Resources:** [How To Choose the Right Canoe \| Comparing Length, Width and Hull Shape (video)](https://youtu.be/PbBOp8PZiCg), [Canoe Design Features and How They Affect Performance (video)](https://youtu.be/nrZjyCH9zpA)
 
 - (4) Do the following:
   - (a) Name and point out the parts of a paddle.
@@ -67,7 +67,7 @@ For several centuries, the canoe was a primary method of travel for explorers an
     **Resources:** [Getting Into a Canoe From Deep Water (video)](https://youtu.be/KAbv8CTZ8T0)
   - (b) Safely perform a controlled capsize of the canoe and demonstrate how staying with a capsized canoe will support both paddlers.
 
-    **Resources:** [How To Deal With a Flipped Canoe | Canoe Rescue Techniques (video)](https://youtu.be/g3SR1WoDAt0), [Capistrano Flip, Canoe Solo Self Rescue (video)](https://youtu.be/GVXZFwHvfCE), [Capsizing a Canoe: What To Do if It Happens to You (website)](https://www.boat-ed.com/blog/capsizing-a-canoe-what-to-do/)
+    **Resources:** [How To Deal With a Flipped Canoe \| Canoe Rescue Techniques (video)](https://youtu.be/g3SR1WoDAt0), [Capistrano Flip, Canoe Solo Self Rescue (video)](https://youtu.be/GVXZFwHvfCE), [Capsizing a Canoe: What To Do if It Happens to You (website)](https://www.boat-ed.com/blog/capsizing-a-canoe-what-to-do/)
   - (c) Swim, tow, or push a swamped canoe 50 feet to shallow water. In the shallow water, empty the swamped canoe and reenter it.
 
     **Resources:** [Rescue a Swamped Canoe With the Capistrano Flip (website)](https://paddlingmag.com/skills/strokes-techniques/capistrano-flip-rescue-swamped-canoe/), [Unswamp a Canoe (video)](https://youtu.be/I8nMtYnshrg)

@@ -27,7 +27,7 @@ There is a very close connection between the soil, the plants, and all animal li
   - (a) **Birds.** Do ALL of the following:
     - (1) In the field, identify eight species of birds.
 
-      **Resources:** [How to Identify Birds [TOP 10 BACKYARD BIRDS] (video)](https://www.youtube.com/watch?v=HtBcOk8ICpA), [Merlin Bird ID (website)](https://merlin.allaboutbirds.org/)
+      **Resources:** [How to Identify Birds \[TOP 10 BACKYARD BIRDS\] (video)](https://www.youtube.com/watch?v=HtBcOk8ICpA), [Merlin Bird ID (website)](https://merlin.allaboutbirds.org/)
     - (2) Make and set out a birdhouse OR a feeding station OR a birdbath. List what birds used it during a period of one month.
 
       **Resources:** [DIY Birdhouse (video)](https://www.youtube.com/watch?v=u4iAhnbWpz8), [How to Pick (or Build) the Right Bird Bath for Your Garden (video)](https://www.youtube.com/watch?v=yZl2N2XlHDA), [Build a Bird House for Under $5 in Under 5 Minutes (video)](https://www.youtube.com/watch?v=j0werPvrrPI)
@@ -54,7 +54,7 @@ There is a very close connection between the soil, the plants, and all animal li
       **Resources:** [How to Start a Bug Collection (video)](https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz)
     - (2) Hatch an insect from the pupa or cocoon; OR hatch adults from nymphs; OR keep larvae until they form pupae or cocoons; OR keep a colony of ants or bees through one season.
 
-      **Resources:** [Hatch and Raise Monarch Butterflies (video)](https://www.youtube.com/watch?v=XC_O2MN4iOk), [How to Raise an Ant Colony 101 | The Ultimate Guide to Keeping Pet Ants (video)](https://www.youtube.com/watch?v=o1421IyFKuU), [How to Raise a Caterpillar Into a Butterfly (video)](https://www.youtube.com/watch?v=G-nriWdyR5w)
+      **Resources:** [Hatch and Raise Monarch Butterflies (video)](https://www.youtube.com/watch?v=XC_O2MN4iOk), [How to Raise an Ant Colony 101 \| The Ultimate Guide to Keeping Pet Ants (video)](https://www.youtube.com/watch?v=o1421IyFKuU), [How to Raise a Caterpillar Into a Butterfly (video)](https://www.youtube.com/watch?v=G-nriWdyR5w)
   - (e) **Fish.** Do ALL of the following:
     - (1) Identify two species of fish native to your area.
 
@@ -83,10 +83,10 @@ There is a very close connection between the soil, the plants, and all animal li
       - (h) **Soils and Rocks.** Do ALL of the following:
         - (1) Collect and identify three different types of soil that represent soils high in sand, clay and humus.
 
-          **Resources:** [Layers of Soil | Soil Profile Formation (video)](https://www.youtube.com/watch?v=VTuL5Pa0gC0)
+          **Resources:** [Layers of Soil \| Soil Profile Formation (video)](https://www.youtube.com/watch?v=VTuL5Pa0gC0)
         - (2) Collect and identify five different types of rocks from your area.
 
-          **Resources:** [Rockhounding 101: What to Look for on Your Next Adventure! (video)](https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno), [Rock & Mineral Identification | It Can Be Easier Than You Think (video)](https://www.youtube.com/watch?v=mgld5jeYR04)
+          **Resources:** [Rockhounding 101: What to Look for on Your Next Adventure! (video)](https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno), [Rock & Mineral Identification \| It Can Be Easier Than You Think (video)](https://www.youtube.com/watch?v=mgld5jeYR04)
 
 - (5) Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code and how they relate to nature. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code while in natural areas during field observation, specimen collection, and identification.
 

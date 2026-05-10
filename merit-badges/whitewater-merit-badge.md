@@ -83,11 +83,11 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
     **Resources:** [How To Choose a Canoe (website)](https://redbeardsailing.com/blogs/red-beard-report/canoe-buyers-guide)
   - (b) If completing this merit badge in a kayak, describe the various types of kayaks used on moving water and explain how they differ in design, materials, and purpose.
 
-    **Resources:** [Kayaking | How To Choose a Kayak (video)](https://youtu.be/qzgkUM3hoP0)
+    **Resources:** [Kayaking \| How To Choose a Kayak (video)](https://youtu.be/qzgkUM3hoP0)
 
 - (8) Review with your counselor the personal and group equipment necessary for a safe whitewater outing and how and why it is used.
 
-  **Resources:** [Beginners Guide to Whitewater Kayaking Gear (video)](https://youtu.be/bu_trV7Kbx8), [Top 5 Pieces of Paddling Gear | The Essential Kayak and Canoe Gear (video)](https://youtu.be/lheh7gnlG3I)
+  **Resources:** [Beginners Guide to Whitewater Kayaking Gear (video)](https://youtu.be/bu_trV7Kbx8), [Top 5 Pieces of Paddling Gear \| The Essential Kayak and Canoe Gear (video)](https://youtu.be/lheh7gnlG3I)
 
 - (9) Demonstrate your ability to read a Class II section of river approved by your counselor. Describe the most desirable paths or lines of travel as well as alternative routes and options. Point out how to use the existing water features to your advantage, and explain how to best avoid the hazards present.
 

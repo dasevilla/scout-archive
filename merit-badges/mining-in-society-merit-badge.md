@@ -12,7 +12,7 @@ The Mining in Society merit badge covers the history of mining, explores the sta
 - (1) Do the following:
   - (a) Select 10 different minerals. For each one, name a product for which the mineral is used.
 
-    **Resources:** [How We Use Rocks and Minerals in Everyday Life (video)](https://youtu.be/MAlx87jEohs), [The One Metal All of Humanity Depends On (video)](https://youtu.be/lMTQb7KN5vQ), [What Is Tungsten Used For? (video)](https://youtu.be/dqMY6sdVqf8), [The Six Elements That Your Life Depends on! | Platinum Group Metals (video)](https://youtu.be/nhxycg_iYEQ), [How Is Aluminum Made (video)](https://www.youtube.com/shorts/PL3LCSRuvJA), [Minnesota Iron Mining Process (video)](https://youtu.be/7foK-wVNSMw), [Highest Purity Silica from Spruce Pines NC (video)](https://www.youtube.com/shorts/OIl_yWe1kMY)
+    **Resources:** [How We Use Rocks and Minerals in Everyday Life (video)](https://youtu.be/MAlx87jEohs), [The One Metal All of Humanity Depends On (video)](https://youtu.be/lMTQb7KN5vQ), [What Is Tungsten Used For? (video)](https://youtu.be/dqMY6sdVqf8), [The Six Elements That Your Life Depends on! \| Platinum Group Metals (video)](https://youtu.be/nhxycg_iYEQ), [How Is Aluminum Made (video)](https://www.youtube.com/shorts/PL3LCSRuvJA), [Minnesota Iron Mining Process (video)](https://youtu.be/7foK-wVNSMw), [Highest Purity Silica from Spruce Pines NC (video)](https://www.youtube.com/shorts/OIl_yWe1kMY)
   - (b) Explain the role mining has in producing and processing things that are grown.
 
     **Resources:** [How Mining Could Help Scale Up Global Food Production (website)](https://www.weforum.org/stories/2024/02/how-mining-could-help-scale-up-food-production/)
@@ -53,7 +53,7 @@ The Mining in Society merit badge covers the history of mining, explores the sta
   - (d) With your parent or guardian's permission and counselor's approval, visit a mining equipment manufacturer or supplier. Discuss the types of equipment produced or supplied there, and in what part of the mining process this equipment is used. Take photographs if allowed, and request brochures from your visit. Share photos, brochures, and what you have learned with your counselor.
   - (e) Discuss with your counselor two methods used to reduce rock in size, one of which uses a chemical process to extract a mineral. Explain the difference between smelting and refining.
 
-    **Resources:** [What Is Mineral Processing? (video)](https://youtu.be/IgFo8Yi9k74), [How Gold Is Extracted From Ore | Heap Leaching Explained Step-by-Step (video)](https://youtu.be/X7mIXsr3LGc), [Materials (Part 1: Smelting and Refining Iron and Steel) (video)](https://youtu.be/US2BB4MrS00)
+    **Resources:** [What Is Mineral Processing? (video)](https://youtu.be/IgFo8Yi9k74), [How Gold Is Extracted From Ore \| Heap Leaching Explained Step-by-Step (video)](https://youtu.be/X7mIXsr3LGc), [Materials (Part 1: Smelting and Refining Iron and Steel) (video)](https://youtu.be/US2BB4MrS00)
   - (f) Learn about the history of a local mine, including what is or was mined there, how the deposit was found, the mining techniques and processes used, and how the mined resource is or was used. Find out from a historian, community leader, or business person how mining has affected your community. Note any social, cultural, or economic consequences of mining in your area. Share what you have learned with your counselor.
 
 - (6) Do the following:

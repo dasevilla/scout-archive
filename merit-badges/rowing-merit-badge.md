@@ -12,7 +12,7 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while participating in rowing activities, including weather- and water-related hazards, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
 
-    **Resources:** [5 Common Rowing Injuries and How To Prevent and Treat Them (video)](https://youtu.be/4hZgnGVo7Og), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How To Stay Safe When Paddling (video)](https://youtu.be/u-DQpJWCmHs?)
+    **Resources:** [5 Common Rowing Injuries and How To Prevent and Treat Them (video)](https://youtu.be/4hZgnGVo7Og), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How To Stay Safe When Paddling (video)](https://youtu.be/u-DQpJWCmHs)
   - (b) Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while rowing: blisters, hypothermia, heat-related illnesses, dehydration, sunburn, sprains, and strains.
 
     **Resources:** [How To Prevent and Treat Blisters (website)](https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/), [OSHA Heat Illness Prevention Campaign (video)](https://youtu.be/Kr2ouLj1oW0), [What Happens if You Don't Drink Enough Water? Signs of Dehydration + 4 Ways To Keep Hydrated (video)](https://youtu.be/EmNieKLjmH4), [Mayo Clinic Minute—Dangers of Heat-Related Illnesses (video)](https://youtu.be/Rz6Wxiv4aRA), [What Causes Sunburns? (video)](https://youtu.be/9aFm087_XWg), [Sprain or Strain: What To Do (video)](https://youtu.be/hte5VYbRXJw)
@@ -38,7 +38,7 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
     - (4) Land and moor or rack your craft.
     - (5) Tie the following mooring knots—clove hitch, roundturn with two half-hitches, bowline, Wellman's knot, and mooring hitch.
 
-      **Resources:** [Essential Sailing Knots Tutorial: How To Tie Bowline, Reef Knot, Clove Hitch & More (video)](https://youtu.be/L-SWGGN3nsM), [Mooring Hitch Knot | How To Tie a Mooring Hitch (video)](https://youtu.be/EOEOAaMY_Uo), [Rowing and Sailing Knots (PDF)](https://padutchbsa.org/wp-content/uploads/2012/04/rowing-and-sailing-knots2.pdf)
+      **Resources:** [Essential Sailing Knots Tutorial: How To Tie Bowline, Reef Knot, Clove Hitch & More (video)](https://youtu.be/L-SWGGN3nsM), [Mooring Hitch Knot \| How To Tie a Mooring Hitch (video)](https://youtu.be/EOEOAaMY_Uo), [Rowing and Sailing Knots (PDF)](https://padutchbsa.org/wp-content/uploads/2012/04/rowing-and-sailing-knots2.pdf)
   - (b) Participate as a rowing team member in a competitive rowing meet. The team may be sponsored by a school, club, or Scout unit. The meet must include competition between two or more teams with different sponsors. Complete at least 10 hours of team practice prior to the meet.
 
 - (5) Do ONE of the following:

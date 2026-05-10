@@ -23,10 +23,10 @@ Welding is the process of joining with a weld – joining or combining similar p
     **Resources:** [Safety Data Sheets Training Video (video)](https://youtu.be/_yWF-w3CwmU?si=RygDv1LH-6pEBP-L)
   - (b) Describe the appropriate safety gear and clothing that must be worn when welding. Then, present yourself properly dressed for welding—in protective equipment, clothing, and footwear.
 
-    **Resources:** [Welding Safety PPE Guide | Must-Have Essentials for Safe Welding Practices (video)](https://youtu.be/YsAmLFF03jI?si=llTGf61a3qyktawl)
+    **Resources:** [Welding Safety PPE Guide \| Must-Have Essentials for Safe Welding Practices (video)](https://youtu.be/YsAmLFF03jI?si=llTGf61a3qyktawl)
   - (c) Explain and demonstrate the proper care and storage of welding equipment, tools, and protective clothing and footwear.
 
-    **Resources:** [A DIY Guide to Maintaining and Storing your Welding Equipment (video)](https://youtu.be/roCt2U2ccaI?si=wpUZM8xiPDdeXA1H), [Safely Use and Care of PPE | ACSA Training | CSTS Clip (video)](https://youtu.be/HrjpCHfbYJE?si=NeeiVkfW-8XJlOKe)
+    **Resources:** [A DIY Guide to Maintaining and Storing your Welding Equipment (video)](https://youtu.be/roCt2U2ccaI?si=wpUZM8xiPDdeXA1H), [Safely Use and Care of PPE \| ACSA Training \| CSTS Clip (video)](https://youtu.be/HrjpCHfbYJE?si=NeeiVkfW-8XJlOKe)
 
 - (3) Explain the terms welding, electrode, slag, and oxidation. Describe the welding process, how heat is generated, what kind of filler metal is added (if any), and what protects the molten metal from the atmosphere.
 
@@ -45,10 +45,10 @@ Welding is the process of joining with a weld – joining or combining similar p
 - (6) After successfully completing requirements 1 through 5, use the equipment you prepared for the welding process in 5(b) to do the following:
   - (a) Using a metal scribe or soapstone, sketch your initial onto a metal plate, and weld a bead on the plate following the pattern of your initial.
 
-    **Resources:** [Welding Letters and Numbers for a Casting Form (video)](https://youtu.be/UBbdcviujmM%20)
+    **Resources:** [Welding Letters and Numbers for a Casting Form (video)](https://youtu.be/UBbdcviujmM)
   - (b) Cover a small plate (approximately 3" x 3" x 1/4") with weld beads side by side.
 
-    **Resources:** [The First Lesson of Welding | Learning To Run Beads (video)](https://youtu.be/g7qgPldYDuY)
+    **Resources:** [The First Lesson of Welding \| Learning To Run Beads (video)](https://youtu.be/g7qgPldYDuY)
   - (c) Tack two plates together in a square groove butt joint.
 
     **Resources:** [How To Weld a Butt Joint (video)](https://youtu.be/3-ebx3hWu0Q)

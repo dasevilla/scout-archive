@@ -34,7 +34,7 @@ Multisport is a racing competition that includes any combination of running, bik
     **Resources:** [Empowering Youth Through Multisport (video)](https://youtu.be/qmW51zdyduc)
   - (b) Explain to your counselor which multisport event (swimming, biking, or running) you feel is your strongest and which you could improve upon the most.
 
-    **Resources:** [Multisport Disciplines (website)](https://www.usatriathlon.org/multisport/disciplines%20)
+    **Resources:** [Multisport Disciplines (website)](https://www.usatriathlon.org/multisport/disciplines)
   - (c) Identify the required equipment for each of the three common multisport events (swimming, biking, and running).
 
     **Resources:** [USA Triathlon Youth Guide (PDF)](https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blteec8160c769bfc2e/648b54b80f2d9bd22bed580b/USAT_Youth_Guide_2019.pdf), [Triathlon Equipment You Really Need (video)](https://youtu.be/kgbz_3B9dNA)
@@ -47,7 +47,7 @@ Multisport is a racing competition that includes any combination of running, bik
     - (1) **Swimming**
       - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
 
-        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
+        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/)
       - (b) Explain the components of the Scouting America Safe Swim Defense program and how you will ensure they are in place when you swim.
 
         **Resources:** [Safe Swim Defense (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Multisport/safe_swim_defense.pdf)
@@ -57,7 +57,7 @@ Multisport is a racing competition that includes any combination of running, bik
     - (2) **Biking**
       - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
 
-        **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
+        **Resources:** [Bike Safety \| Hand Signals (video)](https://youtu.be/v_hRsNHlq8M)
       - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
 
         **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
@@ -78,7 +78,7 @@ Multisport is a racing competition that includes any combination of running, bik
     - (1) **Biking**
       - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
 
-        **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
+        **Resources:** [Bike Safety \| Hand Signals (video)](https://youtu.be/v_hRsNHlq8M)
       - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
 
         **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
@@ -99,7 +99,7 @@ Multisport is a racing competition that includes any combination of running, bik
     - (1) **Swimming**
       - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
 
-        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
+        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/)
       - (b) Explain the components of the Scouting America Safe Swim Defense guidelines and how you will ensure they are in place when you swim.
       - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
 
@@ -118,7 +118,7 @@ Multisport is a racing competition that includes any combination of running, bik
     - (1) **Swimming**
       - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
 
-        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
+        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/)
       - (b) Explain the components of the Scouting America Safe Swim Defense guidelines and how you will ensure they are in place when you swim.
       - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
 
@@ -126,7 +126,7 @@ Multisport is a racing competition that includes any combination of running, bik
     - (2) **Biking**
       - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
 
-        **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
+        **Resources:** [Bike Safety \| Hand Signals (video)](https://youtu.be/v_hRsNHlq8M)
       - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
 
         **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
@@ -137,14 +137,14 @@ Multisport is a racing competition that includes any combination of running, bik
 - (5) Do the following:
   - (a) With guidance from your counselor, establish a four-week training plan that combines your chosen multisport format to develop proper techniques, gain self-confidence, and increase endurance. Each session should last at least 25 minutes and include a proper warmup before the session and stretching afterward.
 
-    **Resources:** [Advice for Younger Athletes | Our Trips for Junior and Youth Triathletes (video)](https://youtu.be/PxVw1eZp7d4), [How to Start Swim Training (video)](https://youtu.be/Zh9bhXe5lug), [Is There a Perfect Swimming Technique for Triathlon? (video)](https://youtu.be/i6-w8RXf45Y), [How To Start Running Training (video)](https://youtu.be/kVnyY17VS9Y)
+    **Resources:** [Advice for Younger Athletes \| Our Trips for Junior and Youth Triathletes (video)](https://youtu.be/PxVw1eZp7d4), [How to Start Swim Training (video)](https://youtu.be/Zh9bhXe5lug), [Is There a Perfect Swimming Technique for Triathlon? (video)](https://youtu.be/i6-w8RXf45Y), [How To Start Running Training (video)](https://youtu.be/kVnyY17VS9Y)
   - (b) Use a chart or other tracking method to monitor your training and development during this period.
   - (c) Set a personal goal for improvement based on one or more of the following criteria: time, technique, or distance.
   - (d) At the end of four weeks, discuss your progress with your counselor and tell how your development has affected you mentally and physically.
 
 - (6) Learn the methods of setting up your transition area, which is where your bike equipment and/or running gear will be. Discuss with your counselor how to smoothly and safely transition from one element to the next, such as mounting and dismounting your bike or adjusting your gear.
 
-  **Resources:** [Setting Up Your Transition Area (video)](https://www.youtube.com/watch?v=HvIq5NExAFU%20)
+  **Resources:** [Setting Up Your Transition Area (video)](https://www.youtube.com/watch?v=HvIq5NExAFU)
 
 - (7) After completing requirements 1-6, do ONE of the following (complete all of the activities on the same day and consecutively) for the multisport focus area you selected in requirement 3(d), including demonstrating a smooth and safe transition between each:
   - (a) Triathlon (swim 100 m, bike 3 km, and run 1 km)
@@ -154,17 +154,17 @@ Multisport is a racing competition that includes any combination of running, bik
 
 - (8) Do TWO of the following and discuss with your counselor:
 
-  **Resources:** [Example of a Multisport Event (video)](https://www.youtube.com/watch?v=4M7PdZ7wXW0%20)
+  **Resources:** [Example of a Multisport Event (video)](https://www.youtube.com/watch?v=4M7PdZ7wXW0)
 
   - (a) Research and identify two ways you can continue participating in multisport after completing this merit badge.
 
-    **Resources:** [Participating in Multisport (video)](https://www.youtube.com/watch?v=qt2a3m-yoy4%20)
+    **Resources:** [Participating in Multisport (video)](https://www.youtube.com/watch?v=qt2a3m-yoy4)
   - (b) Research an Olympic, Paralympic, or professional triathlete (past or current). Share information on their background in the sport and what inspires you most about this individual.
 
-    **Resources:** [Paralympic Triathlon (video)](https://www.youtube.com/watch?v=DtVyOewaX3Y%20), [Olympic Triathlon (video)](https://www.youtube.com/watch?v=r_8jcSU6kNc%20)
+    **Resources:** [Paralympic Triathlon (video)](https://www.youtube.com/watch?v=DtVyOewaX3Y), [Olympic Triathlon (video)](https://www.youtube.com/watch?v=r_8jcSU6kNc)
   - (c) Demonstrate leadership by starting a training group and educating your peers on the importance of physical activity, nutrition, and the disciplines of multisport.
 
-    **Resources:** [Training With a Club (video)](https://www.youtube.com/watch?v=ogogU_qZok8%20)
+    **Resources:** [Training With a Club (video)](https://www.youtube.com/watch?v=ogogU_qZok8)
   - (d) Sign up for and participate in a sanctioned multisport event in your area.
   - (e) Volunteer at a local multisport event, running race, biking event, swim meet, or adaptive sporting event.
 

@@ -38,7 +38,7 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
   - (c) Explain how water conditions, the hazards of weather, and heavy winds can affect both safety and performance in sailing.
   - (d) Discuss the warning signs of inclement weather and what to do should heavy winds develop or a storm approach.
 
-    **Resources:** [How To Prepare for Heavy Weather Conditions (website)](https://thenauticalnomad.com/sailing-basics/safety-at-sea/how-to-prepare-for-heavy-weather-conditions/), [Science of Sailing | Level 3 | Clouds and Breezes (video)](https://youtu.be/vAqM9g7Chgg), [How To Read Clouds (video)](https://youtu.be/OEWQzUl1jQc)
+    **Resources:** [How To Prepare for Heavy Weather Conditions (website)](https://thenauticalnomad.com/sailing-basics/safety-at-sea/how-to-prepare-for-heavy-weather-conditions/), [Science of Sailing \| Level 3 \| Clouds and Breezes (video)](https://youtu.be/vAqM9g7Chgg), [How To Read Clouds (video)](https://youtu.be/OEWQzUl1jQc)
   - (e) Prepare a typical float plan.
 
     **Resources:** [Filing a Float Plan (video)](https://youtu.be/AZHZzy25E-8), [How To Complete a Float Plan (website)](https://floatplancentral.cgaux.org/classroom/preparation.htm)

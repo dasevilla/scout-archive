@@ -30,7 +30,7 @@ Kayaking has become one of the fastest-growing paddlesports in the United States
     **Resources:** [How To Choose the Right Life Jacket (video)](https://youtu.be/4y9XPNy1L1U)
   - (b) Review the importance of safety equipment such as a signal device, extra paddle, sponge, bilge pump, flotation bags, and throw bag.
 
-    **Resources:** [Essential Gear That All Paddlers Need To Carry On the Water (video)](https://youtu.be/L7DkmwqfcLI), [Kayak Safety: How To Use a Kayak Bilge Pump (How To Get Water out of Your Kayak) (video)](https://youtu.be/-z_h6ShvsHU), [Must Have Paddling Safety Gear | How To Kayak or Canoe (video)](https://youtu.be/xcl4I8V2Pfg)
+    **Resources:** [Essential Gear That All Paddlers Need To Carry On the Water (video)](https://youtu.be/L7DkmwqfcLI), [Kayak Safety: How To Use a Kayak Bilge Pump (How To Get Water out of Your Kayak) (video)](https://youtu.be/-z_h6ShvsHU), [Must Have Paddling Safety Gear \| How To Kayak or Canoe (video)](https://youtu.be/xcl4I8V2Pfg)
 
 - (4) Do the following:
   - (a) Name and point out the major parts of a kayak.

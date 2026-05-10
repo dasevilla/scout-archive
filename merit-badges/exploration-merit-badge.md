@@ -35,10 +35,10 @@ Discover the history and importance of various kinds of exploration by earning t
 - (4) **Real-Life Exploration.** Do ONE of the following:
   - (a) Learn about a living explorer. Create a short report or presentation (verbal, written, or multimedia slide presentation) on this individual's objectives and the achievements of one of the explorer's expeditions. Share what you have learned with your counselor and unit.
 
-    **Resources:** [50 Years of Discovery | Jane Goodall and The Leakey Foundation (video)](https://www.youtube.com/watch?v=I4ivrfIOKjw), [The World's Greatest Living Explorer | Ranulph Fiennes (video)](https://youtu.be/ePOa2OpRQ2g?si=uN7djyhK_Zylurjq), [Levison Wood / Walking the Nile / Himalayas / Americas / Arabia Badlands & Beyond (video)](https://youtu.be/MkOV5Ex6puA?si=aq81Mw_U2hC6LRnl), [Unsung Heroes of Everest | Nat Geo Live (video)](https://youtu.be/ihmfkdEcDyk?si=2aIG3YmL5YzTaVhC)
+    **Resources:** [50 Years of Discovery \| Jane Goodall and The Leakey Foundation (video)](https://www.youtube.com/watch?v=I4ivrfIOKjw), [The World's Greatest Living Explorer \| Ranulph Fiennes (video)](https://youtu.be/ePOa2OpRQ2g?si=uN7djyhK_Zylurjq), [Levison Wood / Walking the Nile / Himalayas / Americas / Arabia Badlands & Beyond (video)](https://youtu.be/MkOV5Ex6puA?si=aq81Mw_U2hC6LRnl), [Unsung Heroes of Everest \| Nat Geo Live (video)](https://youtu.be/ihmfkdEcDyk?si=2aIG3YmL5YzTaVhC)
   - (b) Learn about an actual scientific exploration expedition. Gather information about the mission objectives and the expedition's most interesting or important discoveries. Share what you have learned with your counselor and unit. Tell how the information gained from this expedition helped scientists answer important questions.
 
-    **Resources:** [Mars 2020: Perseverance Rover (website)](https://science.nasa.gov/mission/mars-2020-perseverance/), [Expedition Amazon - Into the Waters | National Geographic (video)](https://youtu.be/Tg27pdTvG4s?si=5MzaADOB_JRPdB2B)
+    **Resources:** [Mars 2020: Perseverance Rover (website)](https://science.nasa.gov/mission/mars-2020-perseverance/), [Expedition Amazon - Into the Waters \| National Geographic (video)](https://youtu.be/Tg27pdTvG4s?si=5MzaADOB_JRPdB2B)
   - (c) Learn about types of exploration that may take place in a laboratory or scientific research facility (medicine, biology, chemistry, physics, astronomy, etc.). Explain to your counselor how laboratory research and exploration are similar to field research and exploration.
 
     **Resources:** [Research Scientist (video)](https://www.youtube.com/watch?v=uRreC41dGz4), [Inside the World's Largest Science Experiment (video)](https://youtu.be/nrXhK3Gh5EE?si=xSgNbNGvMNmaBl22), [Day in the Life of a Research Scientist (video)](https://www.youtube.com/watch?v=biS7e79xZcs)
@@ -52,10 +52,10 @@ Discover the history and importance of various kinds of exploration by earning t
 - (6) **Expedition Planning.** Discuss with your counselor each of the following steps for conducting a successful exploration activity. Explain the need for each step.
   - (a) Identify the objectives (establish goals).
 
-    **Resources:** [EXPEDITIONS | How to Get Started! (video)](https://www.youtube.com/watch?v=80_ltIRYjd0)
+    **Resources:** [EXPEDITIONS \| How to Get Started! (video)](https://www.youtube.com/watch?v=80_ltIRYjd0)
   - (b) Plan the mission. Create an expedition agenda or schedule. List potential documents or permits needed.
 
-    **Resources:** [How to Plan an Expedition (video)](https://www.youtube.com/watch?v=qcLKcFrnzlk&t=8s), [Plan Your DREAM ADVENTURE: Expert Tips From a Pro Expedition Leader (video)](https://youtu.be/WahqTpIFAhs?si=lGt65nOwLExTvtbJ), [How to Plan an Adventure | Plan a Camping Trip (video)](https://youtu.be/79WYqkiExZU?si=eSNcCQUrJ53JlcRL)
+    **Resources:** [How to Plan an Expedition (video)](https://www.youtube.com/watch?v=qcLKcFrnzlk&t=8s), [Plan Your DREAM ADVENTURE: Expert Tips From a Pro Expedition Leader (video)](https://youtu.be/WahqTpIFAhs?si=lGt65nOwLExTvtbJ), [How to Plan an Adventure \| Plan a Camping Trip (video)](https://youtu.be/79WYqkiExZU?si=eSNcCQUrJ53JlcRL)
   - (c) Budget and plan for adequate financial resources. Estimate costs for travel, equipment, accommodations, meals, permits or licenses, and other expedition expenses.
 
     **Resources:** [How to Plan for Permits and Reservations (video)](https://youtu.be/nup-uvbAfuU?si=CeutkSlZvOuJ81hU)
@@ -63,7 +63,7 @@ Discover the history and importance of various kinds of exploration by earning t
   - (e) Determine communication and transportation needs. Plan how to keep in contact with your base or the outside world, and determine how you will communicate with each other on-site.
   - (f) Establish safety and first aid procedures (including planning for medical evacuation). Identify the hazards that explorers could encounter on the expedition, and establish procedures to prevent or avoid those hazards.
 
-    **Resources:** [Wilderness Primary Care Kit Walkthrough | Essential Expedition Essentials Medical Kit Guide (video)](https://www.youtube.com/watch?v=A-pbC5aDBY0)
+    **Resources:** [Wilderness Primary Care Kit Walkthrough \| Essential Expedition Essentials Medical Kit Guide (video)](https://www.youtube.com/watch?v=A-pbC5aDBY0)
   - (g) Determine team selection. Identify who is essential for the expedition to be successful and what skills are required by the expedition leader.
 
     **Resources:** [Flight of the Osprey Media Team Selection (video)](https://youtu.be/pDJHtE3BB_c?si=W6oyFePTcGnXQSM1)

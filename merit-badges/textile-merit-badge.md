@@ -30,13 +30,13 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
     **Resources:** [How to Make a Cardboard Loom (website)](https://www.theweavingloom.com/how-to-make-a-cardboard-loom/)
   - (c) With a magnifying glass, examine a woven fabric, a nonwoven fabric, and a knitted fabric. Sketch what you see. Explain how the three constructions are different.
 
-    **Resources:** [Woven vs. Knit vs. Non-Woven Fabrics | Textile Talk w/ A Thrifty Notion (video)](https://youtu.be/2Q_04oCLZVs)
+    **Resources:** [Woven vs. Knit vs. Non-Woven Fabrics \| Textile Talk w/ A Thrifty Notion (video)](https://youtu.be/2Q_04oCLZVs)
   - (d) Make a piece of felt.
 
     **Resources:** [Wet Felting Tutorial for Beginners (video)](https://youtu.be/3IxCDkh-evs)
   - (e) Make two natural dyes and use them to dye a garment or a piece of fabric.
 
-    **Resources:** [Natural Dyes From Plants and Vegetables | DIY Eco-Friendly Dyes | Homeschool with Everyday Food (video)](https://youtu.be/jHpPuvibjZ8), [Short Tie Dye Demo - No Narration (video)](https://www.youtube.com/shorts/J6Ib3Ehy_pw?feature=share), [Short Tie Dye Demo - With Narration (video)](https://www.youtube.com/shorts/Oeth97r7VCw?feature=share)
+    **Resources:** [Natural Dyes From Plants and Vegetables \| DIY Eco-Friendly Dyes \| Homeschool with Everyday Food (video)](https://youtu.be/jHpPuvibjZ8), [Short Tie Dye Demo - No Narration (video)](https://www.youtube.com/shorts/J6Ib3Ehy_pw?feature=share), [Short Tie Dye Demo - With Narration (video)](https://www.youtube.com/shorts/Oeth97r7VCw?feature=share)
   - (f) Waterproof a fabric.
 
     **Resources:** [A Simple DIY Way to Waterproof Anything (video)](https://youtu.be/y83uXupu5tY), [DIY Seam Seal (video)](https://youtu.be/UlHfbltn6hI)

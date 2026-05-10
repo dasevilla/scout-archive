@@ -39,7 +39,7 @@ Far different from the stereotypes or common images that are portrayed on film, 
     **Resources:** [Museums (Choose option Ethnically/Culturally/Tribally Specific) (website)](https://www.aam-us.org/programs/about-museums/find-a-museum/)
   - (b) Attend a contemporary American Indian gathering. Discuss with your counselor proper etiquette for attending as well as what you learned and observed during your visit.
 
-    **Resources:** [Pow Wow Calendar (website)](https://calendar.powwows.com/), [Celebration of Powwow | The Living History of Native American Gatherings (video)](https://youtu.be/N2CmYbpjIz8?si=B5Ms1k8y5i2ifL_e), [Annual Events and Celebrations on Indian Reservations (website)](https://www.indianreservation.info/annual-events-and-celebrations-on-indian-reservations/)
+    **Resources:** [Pow Wow Calendar (website)](https://calendar.powwows.com/), [Celebration of Powwow \| The Living History of Native American Gatherings (video)](https://youtu.be/N2CmYbpjIz8?si=B5Ms1k8y5i2ifL_e), [Annual Events and Celebrations on Indian Reservations (website)](https://www.indianreservation.info/annual-events-and-celebrations-on-indian-reservations/)
 
 ## Resources
 

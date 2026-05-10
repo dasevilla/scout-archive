@@ -24,7 +24,7 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
 - (3) Do the following:
   - (a) Show the right way to solder and desolder.
 
-    **Resources:** [Using Solder | Soldering Basics | Soldering for Beginners (video)](https://youtu.be/-qk-ulz05J8), [How to Desolder (video)](https://youtu.be/bG7yW9FigJA)
+    **Resources:** [Using Solder \| Soldering Basics \| Soldering for Beginners (video)](https://youtu.be/-qk-ulz05J8), [How to Desolder (video)](https://youtu.be/bG7yW9FigJA)
   - (b) Show how to avoid heat damage to electronic components.
 
     **Resources:** [Applying Heat to your Parts (video)](https://www.youtube.com/shorts/fYk07LcnkPA)

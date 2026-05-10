@@ -24,7 +24,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
 - (3) Correctly perform the following strokes:
   - (a) Demonstrate the front crawl or the trudgen using good form.
 
-    **Resources:** [Learn To Swim Freestyle | A Simple Step-by-Step Guide (video)](https://youtu.be/6_vXycbD2TM), [How To Swim Front Crawl? (video)](https://youtu.be/44byh2wRnAY)
+    **Resources:** [Learn To Swim Freestyle \| A Simple Step-by-Step Guide (video)](https://youtu.be/6_vXycbD2TM), [How To Swim Front Crawl? (video)](https://youtu.be/44byh2wRnAY)
   - (b) Demonstrate the back crawl using good form.
 
     **Resources:** [How To Swim Backstroke (video)](https://youtu.be/MrFt6JHii8w), [How To Swim Backstroke (video)](https://youtu.be/86S0fj6UQ8E)
@@ -47,7 +47,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
 - (6) Do the following:
   - (a) Float faceup in a resting position for at least three minutes with minimal movement.
 
-    **Resources:** [How To Float on Your Back for Beginners | Watch This Before You Give Up (video)](https://youtu.be/-7KZciqMEj4)
+    **Resources:** [How To Float on Your Back for Beginners \| Watch This Before You Give Up (video)](https://youtu.be/-7KZciqMEj4)
   - (b) Demonstrate survival floating for at least five minutes.
   - (c) While wearing a properly fitted U.S. Coast Guard-approved life jacket, demonstrate the HELP and huddle positions. Explain their purposes.
 

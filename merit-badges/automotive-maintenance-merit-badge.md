@@ -29,7 +29,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
     **Resources:** [Should I Follow the Manufacturer's Maintenance Schedule (video)](https://youtu.be/vPHd0EHVU1U?si=gKlqtHGZvzRBwG0B)
   - (f) Explain the purpose, importance, and limitations of safety belts and passive restraints.
 
-    **Resources:** [Seatbelt | How Does it Work? (video)](https://youtu.be/uRaU1HMJyCo?si=35wRwtjnIBBaBQk3), [Seatbelts (website)](https://www.nhtsa.gov/vehicle-safety/seat-belts), [On Air Bags (website)](https://www.nhtsa.gov/vehicle-safety/air-bags)
+    **Resources:** [Seatbelt \| How Does it Work? (video)](https://youtu.be/uRaU1HMJyCo?si=35wRwtjnIBBaBQk3), [Seatbelts (website)](https://www.nhtsa.gov/vehicle-safety/seat-belts), [On Air Bags (website)](https://www.nhtsa.gov/vehicle-safety/air-bags)
   - (g) Find out the requirements for your state's emissions and safety inspections (as applicable), including how often a vehicle needs to be inspected.
 
     **Resources:** [Tips on How to Pass State Inspection (video)](https://youtu.be/Ek-WN2dgjLQ)
@@ -136,7 +136,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
       **Resources:** [Automotive Lighting Circuits (video)](https://youtu.be/ST5nz8M9Lcg?si=yIgLMjiU5VL_Gu1_)
   - (b) Explain the engine's firing order.
 
-    **Resources:** [Explain Engine Firing Order | Automobile Engineering (video)](https://youtu.be/ss0GMKBYCks?si=jlPZT5HiIhDtQKQw)
+    **Resources:** [Explain Engine Firing Order \| Automobile Engineering (video)](https://youtu.be/ss0GMKBYCks?si=jlPZT5HiIhDtQKQw)
   - (c) Explain the purpose of the spark gap.
 
     **Resources:** [What You Need to Know About Spark Plugs (video)](https://youtu.be/iGiTXYWmSQs?si=ks9YTt40H9lwDuDR)

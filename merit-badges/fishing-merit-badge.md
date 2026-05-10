@@ -17,7 +17,7 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
     **Resources:** [Fishing - Be Aware Of These Fishing Hazards (video)](https://youtu.be/DlReuRpGOtk?si=pPb6SVkfygAeiKvw), [Why is Fishing Dangerous? (website)](https://anglersadvantageguideservice.com/why-is-fishing-dangerous-dont-overlook-these-risks/)
   - (b) Discuss the prevention of and treatment for the following health concerns that could occur while fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, and sunburn.
 
-    **Resources:** [How to Treat Cuts and Bruises (video)](https://youtu.be/0jp5FgLmKtk?si=JoP0J-4mQLgepwth), [Removing a Fishhook (video)](https://www.youtube.com/watch?v=AmT3T_9Guq0), [How to Treat an Insect Bite or Sting | First Aid Training (video)](https://youtu.be/YkUW3pquCF4?si=9ucB7jWL1cgIaHFo), [Hypothermia (video)](https://www.youtube.com/watch?v=my6JB41apTw), [What is Dehydration? (video)](https://www.youtube.com/watch?v=KahsIEbFROI), [Heat Exhaustion vs Heat Stroke (video)](https://www.youtube.com/watch?v=8gn3DEYOPuE), [Sunburn (video)](https://www.youtube.com/watch?v=-KzTvagnpfU)
+    **Resources:** [How to Treat Cuts and Bruises (video)](https://youtu.be/0jp5FgLmKtk?si=JoP0J-4mQLgepwth), [Removing a Fishhook (video)](https://www.youtube.com/watch?v=AmT3T_9Guq0), [How to Treat an Insect Bite or Sting \| First Aid Training (video)](https://youtu.be/YkUW3pquCF4?si=9ucB7jWL1cgIaHFo), [Hypothermia (video)](https://www.youtube.com/watch?v=my6JB41apTw), [What is Dehydration? (video)](https://www.youtube.com/watch?v=KahsIEbFROI), [Heat Exhaustion vs Heat Stroke (video)](https://www.youtube.com/watch?v=8gn3DEYOPuE), [Sunburn (video)](https://www.youtube.com/watch?v=-KzTvagnpfU)
   - (c) Explain how to remove a barbed hook that is lodged in someone's arm.
 
     **Resources:** [How to Remove a Hook (video)](https://youtu.be/52GLMQp52qg?si=lGfrvAY2RR2LBCO7)
@@ -35,7 +35,7 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 
 - (4) Demonstrate how to tie the following knots: improved clinch knot, Palomar knot, uni knot, uni to uni knot, and arbor knot. Explain how and when each knot is used.
 
-  **Resources:** [Improved Clinch Knot (website)](https://www.animatedknots.com/improved-clinch-knot), [Palomar Knot (website)](https://www.animatedknots.com/palomar-knot), [Uni Knot (website)](https://www.animatedknots.com/uni-knot), [Uni-to-Uni / Double Uni Knot (website)](https://www.wired2fish.com/fishing-knots/how-to-tie-a-double-uni-knot?), [Arbor Knot (website)](https://www.animatedknots.com/arbor-knot), [Animated Knots (website)](https://www.animatedknots.com/)
+  **Resources:** [Improved Clinch Knot (website)](https://www.animatedknots.com/improved-clinch-knot), [Palomar Knot (website)](https://www.animatedknots.com/palomar-knot), [Uni Knot (website)](https://www.animatedknots.com/uni-knot), [Uni-to-Uni / Double Uni Knot (website)](https://www.wired2fish.com/fishing-knots/how-to-tie-a-double-uni-knot), [Arbor Knot (website)](https://www.animatedknots.com/arbor-knot), [Animated Knots (website)](https://www.animatedknots.com/)
 
 - (5) Name and identify five basic artificial lures and five natural baits and explain how to fish with them. Explain why baitfish are not to be released.
 

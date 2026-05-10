@@ -15,7 +15,7 @@ Basketry is a handy skill for a Scout. A basket can be a sturdy companion on cam
     **Resources:** [Cutting Tool Safety (video)](https://youtu.be/nhB-42oMZF8), [Hand Tool Safety (video)](https://youtu.be/jIllqEyw3rA), [Health and Safety Tips for Basket Weavers (PDF)](https://sites.google.com/basketweavers.org/missouribasketweaversguild/weaving-tips/health-and-safety)
   - (b) Discuss the prevention of and first-aid treatment for injuries, including cuts, scratches, and scrapes, that could occur while working with basketry tools and materials.
 
-    **Resources:** [How to Treat Cuts & Scrapes | First Aid Training (video)](https://youtu.be/L77rERL64zc)
+    **Resources:** [How to Treat Cuts & Scrapes \| First Aid Training (video)](https://youtu.be/L77rERL64zc)
 
 - (2) Do the following:
   - (a) Show your counselor that you are able to identify the following types of baskets: plaited, coiled, ribbed, and wicker.

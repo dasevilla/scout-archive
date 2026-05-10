@@ -31,7 +31,7 @@ Trucking is a large and important industry. No matter where you live, a day is u
 - (4) Visit a truck terminal and complete items 4(a) through 4(e). After your visit, share what you have learned with your counselor.
   - (a) Find out what kind of maintenance program the company follows to help keep its fleet, drivers, and the roadway safe.
 
-    **Resources:** [How To Properly Maintain Fleets? (video)](https://youtu.be/bQcm9irqKIk), [How Trucking Companies Manage Fleet Maintenance Effectively | Part 1 (video)](https://youtu.be/7dXo-RlPc8A), [How Trucking Companies Manage Fleet Maintenance Effectively | Part 2 (video)](https://youtu.be/tGrxcFCukJs)
+    **Resources:** [How To Properly Maintain Fleets? (video)](https://youtu.be/bQcm9irqKIk), [How Trucking Companies Manage Fleet Maintenance Effectively \| Part 1 (video)](https://youtu.be/7dXo-RlPc8A), [How Trucking Companies Manage Fleet Maintenance Effectively \| Part 2 (video)](https://youtu.be/tGrxcFCukJs)
   - (b) Find out how dispatchers maintain communication with drivers on the road.
 
     **Resources:** [Communication with Dispatch (video)](https://youtu.be/Pv9-ZKoWNww)
@@ -77,7 +77,7 @@ Trucking is a large and important industry. No matter where you live, a day is u
 
 - (10) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
-  **Resources:** [What Career Opportunities are in Trucking? A LOT! (video)](https://youtu.be/TJGXJwNyw8U?si=y5Qr4fDUORdf3lZY), [What Life Is Like for a Trucker on the Road | NewsNation (video)](https://youtu.be/CiAbSIXwMSs?si=YT7HzX_P99DskdIn), [How to Become a Truck Dispatcher in 5 Steps? - Beginner Training (video)](https://youtu.be/hbJqSgcQWj8?si=pwS-oHaKebXXdijD), [Logistics Coordinator Job Description (video)](https://youtu.be/MbmX3ZAjHbw?si=ddep_jZOj9FLgQEC), [5 Must Have Skills to earn $10,000 a month as a Truck Dispatcher (video)](https://youtu.be/zVZ3RASiXoA?si=FhUizvScSxHerKZy)
+  **Resources:** [What Career Opportunities are in Trucking? A LOT! (video)](https://youtu.be/TJGXJwNyw8U?si=y5Qr4fDUORdf3lZY), [What Life Is Like for a Trucker on the Road \| NewsNation (video)](https://youtu.be/CiAbSIXwMSs?si=YT7HzX_P99DskdIn), [How to Become a Truck Dispatcher in 5 Steps? - Beginner Training (video)](https://youtu.be/hbJqSgcQWj8?si=pwS-oHaKebXXdijD), [Logistics Coordinator Job Description (video)](https://youtu.be/MbmX3ZAjHbw?si=ddep_jZOj9FLgQEC), [5 Must Have Skills to earn $10,000 a month as a Truck Dispatcher (video)](https://youtu.be/zVZ3RASiXoA?si=FhUizvScSxHerKZy)
 
 ## Resources
 

@@ -26,7 +26,7 @@ Teeth do a lot more than just peek out from under that winning smile. They have 
     **Resources:** [The Three Most Common Dental Injuries in Sports and How To Prevent Them (website)](https://www.colgate.com/en-us/oral-health/dental-emergencies-and-sports-safety/three-kinds-of-tooth-injury-that-occur-in-sports), [Why Is Having a Mouthguard Important? (video)](https://youtu.be/d0ktAyLnGTE), [Which Sports Require Mouth Guards? (website)](https://alignerco.com/blogs/blog/which-sports-require-mouthguards)
   - (c) Explain the first-aid procedure for saving a tooth that has been knocked out.
 
-    **Resources:** [Knocked Out Teeth | First Aid (video)](https://youtu.be/KhHyIeionv8)
+    **Resources:** [Knocked Out Teeth \| First Aid (video)](https://youtu.be/KhHyIeionv8)
   - (d) Discuss how the use of tobacco products can negatively affect your oral health.
 
     **Resources:** [What Does Smoking Do To Your Teeth? (video)](https://youtu.be/It6DgyGNa48), [Vaping & Your Teeth—The Hidden Damage You Need to Know! (video)](https://youtu.be/CAgoECkR354)
@@ -63,11 +63,11 @@ Teeth do a lot more than just peek out from under that winning smile. They have 
   - (d) Write a feature story for your school newspaper on the proper care of teeth and gums. Include in your story how the use of tobacco products can negatively affect a person's oral health.
   - (e) Make drawings and write about the progress of dental decay. Describe the types of dental filling and treatments a dentist can use to repair dental decay problems.
 
-    **Resources:** [Tooth Decay Progression | 3D Animation (video)](https://youtu.be/BwKlQuofmA4)
+    **Resources:** [Tooth Decay Progression \| 3D Animation (video)](https://youtu.be/BwKlQuofmA4)
 
 - (7) Identify three career opportunities that would use skills and knowledge in dentistry. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-  **Resources:** [Dental Hygienist Spotlight | Exploring Dental Careers (video)](https://youtu.be/9dI8FdZruRc), [Dental Assistant Spotlight | Exploring Dental Careers (video)](https://youtu.be/qnsrkWAUchw), [Join the Dental Workforce: Becoming a Dental Technician (video)](https://youtu.be/CNx0tw4RLn4), [Career as a Dentist (video)](https://youtu.be/xjSg0OIigI0), [Careers in Dentistry—Dental Receptionist (video)](https://youtu.be/qC1VjKRAl_8), [Master of Science in Dental Materials (video)](https://youtu.be/rB7VRAaxxPQ)
+  **Resources:** [Dental Hygienist Spotlight \| Exploring Dental Careers (video)](https://youtu.be/9dI8FdZruRc), [Dental Assistant Spotlight \| Exploring Dental Careers (video)](https://youtu.be/qnsrkWAUchw), [Join the Dental Workforce: Becoming a Dental Technician (video)](https://youtu.be/CNx0tw4RLn4), [Career as a Dentist (video)](https://youtu.be/xjSg0OIigI0), [Careers in Dentistry—Dental Receptionist (video)](https://youtu.be/qC1VjKRAl_8), [Master of Science in Dental Materials (video)](https://youtu.be/rB7VRAaxxPQ)
 
 ## Resources
 

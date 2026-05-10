@@ -114,7 +114,7 @@ Radio is a way to send information, or communications, from one place to another
   - **Option A—Amateur Radio.** Do ALL of the following:
     - (1) Tell why the FCC has an amateur radio service. Describe activities that amateur radio operators can do on the air, once they have earned an amateur radio license.
 
-      **Resources:** [Why Do They Call It Ham Radio? (video)](https://youtu.be/zWoZ_mqjInA), [Episode 3: How To Get a Ham Radio License | Bcu Freshman Class (video)](https://youtu.be/BCSZH7UzOxg)
+      **Resources:** [Why Do They Call It Ham Radio? (video)](https://youtu.be/zWoZ_mqjInA), [Episode 3: How To Get a Ham Radio License \| Bcu Freshman Class (video)](https://youtu.be/BCSZH7UzOxg)
     - (2) Explain differences between the Technician, General, and Extra Class license requirements and privileges. Explain who administers amateur radio exams.
 
       **Resources:** [Ham Radio License Levels (video)](https://www.arrl.org/getting-licensed)

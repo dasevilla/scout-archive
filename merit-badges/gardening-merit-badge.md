@@ -70,7 +70,7 @@ Humans have been growing plants for thousands of years. Farmers and horticulturi
     **Resources:** [Setting Up Your Honey Super (video)](https://youtu.be/TGdH4vtR3JM?si=o8S51hqQASjVsbxc)
   - (f) Grow a garden of your own using soil from seed or plantings to harvest or for 90 days, whichever is earlier. This can be an outdoor garden or indoors using appropriate containers, and should include at least three types of plants approved by your counselor.
 
-    **Resources:** [Start a Garden | Step-by-Step | Gardening Tips (video)](https://youtu.be/EPmV8iqZIps?si=OsN9RZoNPdfpWJxb)
+    **Resources:** [Start a Garden \| Step-by-Step \| Gardening Tips (video)](https://youtu.be/EPmV8iqZIps?si=OsN9RZoNPdfpWJxb)
 
 - (9) Do ONE of the following:
   - (a) Identify three career opportunities that would use skills and knowledge in gardening. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.

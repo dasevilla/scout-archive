@@ -13,7 +13,7 @@ Discover how collecting can be an educational and financially rewarding pastime 
 
 - (1) Prepare a short written report or outline for your counselor, giving a detailed description of your collection, including a short history, why you enjoy your collection, and what you have learned from collecting. Be sure to include why you chose that particular type of collection/collecting method.
 
-  **Resources:** [The Invention of Collecting (video)](https://youtu.be/G09aIKMBNhE?si=L6cgpArtfAHD3KjX), [246 Cool Things to Collect (Collection Ideas) (website)](https://icebreakerideas.com/things-to-collect/), [Meet Reece, King of the Fans | My Kid's Obsession (video)](https://youtu.be/FtaG6XgemUY)
+  **Resources:** [The Invention of Collecting (video)](https://youtu.be/G09aIKMBNhE?si=L6cgpArtfAHD3KjX), [246 Cool Things to Collect (Collection Ideas) (website)](https://icebreakerideas.com/things-to-collect/), [Meet Reece, King of the Fans \| My Kid's Obsession (video)](https://youtu.be/FtaG6XgemUY)
 
 - (2) Explain the growth and development of your collection.
 

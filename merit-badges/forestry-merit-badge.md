@@ -99,7 +99,7 @@ In working through the Forestry merit badge requirements, Scouts will explore th
 
 - (8) Visit one or more local foresters and write a brief report about the person (or persons) OR write about a forester's occupation including the education, qualifications, career opportunities, and duties related to forestry.
 
-  **Resources:** [Forestry Degree Requirements (website)](https://www.environmentalscience.org/degree/forestry#), [How to Become a Forester - Forestry Jobs, Forest Ecology, and Other Environmental Jobs! (video)](https://youtu.be/NRloBRkwinc)
+  **Resources:** [Forestry Degree Requirements (website)](https://www.environmentalscience.org/degree/forestry), [How to Become a Forester - Forestry Jobs, Forest Ecology, and Other Environmental Jobs! (video)](https://youtu.be/NRloBRkwinc)
 
 ## Resources
 

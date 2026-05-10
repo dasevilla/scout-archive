@@ -46,7 +46,7 @@ Learn why electricity plays a significant role in the economy and how energy con
 
 - (5) Make a simple drawing to show how a battery and an electric bell work. Describe the purpose of each of the components.
 
-  **Resources:** [How an Electric Bell Works / 3D Animation (video)](https://youtu.be/QSWvekUUV3w), [How Do Electric Bells Work? (3D Animation | Electromagnets) (video)](https://youtu.be/8S-PHo156U4)
+  **Resources:** [How an Electric Bell Works / 3D Animation (video)](https://youtu.be/QSWvekUUV3w), [How Do Electric Bells Work? (3D Animation \| Electromagnets) (video)](https://youtu.be/8S-PHo156U4)
 
 - (6) Do the following:
   - (a) Define what overloading an electric circuit means. Tell what you have done to make sure your home circuits are not overloaded.

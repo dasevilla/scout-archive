@@ -59,7 +59,7 @@ Discover the why and how we explore space. Learn about current and historic spac
 - (5) Do TWO of the following:
   - (a) Discuss with your counselor a robotic space exploration mission and a historic crewed mission. Tell about each mission's major discoveries, its importance, and what was learned from it about the planets, moons, or regions of space explored.
 
-    **Resources:** [Voyager (video)](https://youtu.be/uJpJ79AxrzI?list=PLTiv_XWHnOZq5bv1w9Db2uNJVFiVCkWW5), [Putting Man on The Moon in 11 Years | The Apollo Program (video)](https://youtu.be/jUW_1XlrWmg), [NASA SpaceX Crew Dragon Launch (video)](https://youtu.be/1gmvUPTdoP4), [Mars Perseverance Rover (video)](https://www.youtube.com/watch?v=0-oQRSViZQE&pp=ygUUcGVyc2VydmVyYW5jZSByb3ZlciA%3D)
+    **Resources:** [Voyager (video)](https://youtu.be/uJpJ79AxrzI?list=PLTiv_XWHnOZq5bv1w9Db2uNJVFiVCkWW5), [Putting Man on The Moon in 11 Years \| The Apollo Program (video)](https://youtu.be/jUW_1XlrWmg), [NASA SpaceX Crew Dragon Launch (video)](https://youtu.be/1gmvUPTdoP4), [Mars Perseverance Rover (video)](https://www.youtube.com/watch?v=0-oQRSViZQE&pp=ygUUcGVyc2VydmVyYW5jZSByb3ZlciA%3D)
   - (b) Using articles from the internet, photographs and text, create a blog, website, or slide show about a current planetary mission or use magazine photographs, news clippings, and articles from the internet to make a scrapbook about a current planetary mission.
   - (c) Design a robotic mission to another planet, moon, comet, or asteroid that will return samples of its surface to Earth. Name the planet, moon, comet, or asteroid your spacecraft will visit. Show how your design will cope with the conditions of the environments of the planet, moon, comet, or asteroid.
 

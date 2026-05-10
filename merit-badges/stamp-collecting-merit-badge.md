@@ -18,11 +18,11 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
     **Resources:** [Stamp Collecting Is for Old People (Just Kidding) (video)](https://youtu.be/mp07V-_-lc0?si=qw61WgakvzvCy7sz), [Stamps: A World of Fun (video)](https://youtu.be/FRMsUTbLK4U?si=vFyVadEM1Zd9Ww75)
   - (b) Briefly describe some aspects of the history, growth, and development of the United States postal system. Tell how it is different from postal systems in other countries.
 
-    **Resources:** [A Chaotic History of the US Postal Service | Illustrated U.S. History (video)](https://youtu.be/aZ9j5t25CaU?si=b2xn0FgNumDoiiNU), [History of US Mail - From the Beginning (video)](https://youtu.be/U8ioOqupzmo?si=UlX_1ztm7NDn3yyL)
+    **Resources:** [A Chaotic History of the US Postal Service \| Illustrated U.S. History (video)](https://youtu.be/aZ9j5t25CaU?si=b2xn0FgNumDoiiNU), [History of US Mail - From the Beginning (video)](https://youtu.be/U8ioOqupzmo?si=UlX_1ztm7NDn3yyL)
 
 - (2) Define topical stamp collecting. Name and describe three other types of stamp collections.
 
-  **Resources:** [What to Collect? (website)](https://stamps.org/learn/getting-started/what-to-collect), [Topical Stamp Collecting (website)](https://www.linns.com/content/collector-resources/collecting-basics/topical-stamp-collecting%20)
+  **Resources:** [What to Collect? (website)](https://stamps.org/learn/getting-started/what-to-collect), [Topical Stamp Collecting (website)](https://www.linns.com/content/collector-resources/collecting-basics/topical-stamp-collecting)
 
 - (3) Show at least ONE example of each of the following:
 

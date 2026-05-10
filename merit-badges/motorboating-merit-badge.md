@@ -62,12 +62,12 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
     **Resources:** [Navigation Light Equipment (video)](https://youtu.be/fbyeg5y_qPE)
   - (h) Discuss the common types of anchors used in motorboating and under what conditions each would be preferred. Explain proper anchoring techniques.
 
-    **Resources:** [Anchoring (video)](https://youtu.be/Iv3_8a7N_aE), [Anchoring Tips (video)](https://youtu.be/tK_d6wYEsP4), [Anchoring a Boat | Basics of Boating (video)](https://youtu.be/3CHgH0irUIA)
+    **Resources:** [Anchoring (video)](https://youtu.be/Iv3_8a7N_aE), [Anchoring Tips (video)](https://youtu.be/tK_d6wYEsP4), [Anchoring a Boat \| Basics of Boating (video)](https://youtu.be/3CHgH0irUIA)
 
 - (5) With your counselor or other adults on board, demonstrate proper boat-handling procedures and skills by doing the following:
   - (a) Board and assist others in boarding. Confirm that all passengers on board are wearing properly fitted life jackets.
 
-    **Resources:** [Boating Equipment—Personal Flotation Devices (PFDs) (video)](https://youtu.be/PjpUIpX5Fw8), [Life Jacket Safety Essentials | Discover Boating (video)](https://youtu.be/KVCNH96HqFs)
+    **Resources:** [Boating Equipment—Personal Flotation Devices (PFDs) (video)](https://youtu.be/PjpUIpX5Fw8), [Life Jacket Safety Essentials \| Discover Boating (video)](https://youtu.be/KVCNH96HqFs)
   - (b) Fuel the boat and complete a safety check.
 
     **Resources:** [Quick Tip: Pre-Boating Inspection & Safety Checklist (video)](https://youtu.be/NyqsxYaWJS4)
@@ -86,7 +86,7 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
     **Resources:** [How To Tie a Boat to a Dock (video)](https://youtu.be/VGfCKxv5t70), [Beaching Your Boat (website)](https://www.boatus.com/expert-advice/expert-advice-archive/2014/august/beaching-your-boat)
   - (h) Demonstrate knots used in boating: cleating hitch, bowline, clove hitch, anchor bend, sheet bend.
 
-    **Resources:** [10 Knots You Need for Sailing (video)](https://youtu.be/TbJGKazU1co), [How To Tie the Anchor Bend Knot | Boating Knots (video)](https://youtu.be/pEWcxx8998U)
+    **Resources:** [10 Knots You Need for Sailing (video)](https://youtu.be/TbJGKazU1co), [How To Tie the Anchor Bend Knot \| Boating Knots (video)](https://youtu.be/pEWcxx8998U)
 
 ## Resources
 

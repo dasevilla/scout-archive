@@ -12,7 +12,7 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
 - (1) Safety. Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water.
 
-    **Resources:** [Is Photography a Dangerous Career? (website)](https://www.coverhound.com/insurance-learning-center/is-photography-a-dangerous-career%20%20), [Health and Safety in a Photography Studio (website)](https://thephotocove.com/health-and-safety-in-a-photography-studio/), [9 Safety Tips for Landscape and Nature Photographers (website)](https://loadedlandscapes.com/safety-tips-nature-photography/)
+    **Resources:** [Is Photography a Dangerous Career? (website)](https://www.coverhound.com/insurance-learning-center/is-photography-a-dangerous-career), [Health and Safety in a Photography Studio (website)](https://thephotocove.com/health-and-safety-in-a-photography-studio/), [9 Safety Tips for Landscape and Nature Photographers (website)](https://loadedlandscapes.com/safety-tips-nature-photography/)
   - (b) View the Personal Safety Awareness "Digital Safety" video (with your parent or guardian's permission).
 
     **Resources:** [Digital Safety (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4)
@@ -26,13 +26,13 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
     **Resources:** [Golden Hour Magic: Perfect Light for Stunning Photos (video)](https://youtu.be/FWcOshGthBI?si=Ft8P8g7G36BnSSle), [Artificial Lighting for Photography (So Much Easier Than You Think!) (video)](https://youtu.be/Z9znfhFQPbE?si=iynxep4eY2ZuuzNY), [Why Most Natural Light Photography is Flat (and How to Fix It) (video)](https://youtu.be/VgT4O6CclfA?si=Gw4HDf3VeGxeE6z7)
   - (b) Exposure—aperture (f-stops), shutter speed, ISO
 
-    **Resources:** [ISO, Shutter Speed, and Aperture Explained | Exposure Basics for Beginners (video)](https://youtu.be/Edvpu_939l4), [Photography Basics in 10 Minutes (video)](https://youtu.be/V7z7BAZdt2M)
+    **Resources:** [ISO, Shutter Speed, and Aperture Explained \| Exposure Basics for Beginners (video)](https://youtu.be/Edvpu_939l4), [Photography Basics in 10 Minutes (video)](https://youtu.be/V7z7BAZdt2M)
   - (c) Depth of field
 
     **Resources:** [Depth of Field in 30 Seconds (video)](https://youtube.com/shorts/98B3dvdAX6c?si=a6zX8YPAisVYAszi)
   - (d) Composition—rule of thirds, leading lines, framing, depth
 
-    **Resources:** [Basic Photography | Composition: The Only Rules You Need to Know (video)](https://youtu.be/eImryR3yKz8?si=ITbUmVHQYD9gR72Y), [Photography Composition: Master Leading Lines for Stunning Shots! (video)](https://youtu.be/2uAYj6WScJQ?si=SrzE5OUdOVWWH65y), [Master the Rule of Thirds for Better Photos (video)](https://youtube.com/shorts/Z1Wb8ZH0uvc?si=e6TjeQIgyqaYBcUr)
+    **Resources:** [Basic Photography \| Composition: The Only Rules You Need to Know (video)](https://youtu.be/eImryR3yKz8?si=ITbUmVHQYD9gR72Y), [Photography Composition: Master Leading Lines for Stunning Shots! (video)](https://youtu.be/2uAYj6WScJQ?si=SrzE5OUdOVWWH65y), [Master the Rule of Thirds for Better Photos (video)](https://youtube.com/shorts/Z1Wb8ZH0uvc?si=e6TjeQIgyqaYBcUr)
   - (e) Angle of view
 
     **Resources:** [Angle of View and Framing (video)](https://youtu.be/9SZy4ptc5ws?si=SfIb8MuYpZziiVaW)

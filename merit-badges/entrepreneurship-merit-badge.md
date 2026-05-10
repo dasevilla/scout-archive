@@ -69,13 +69,13 @@ By earning the Entrepreneurship merit badge, Scouts will learn about identifying
     **Resources:** [How To Develop an Effective Marketing Strategy (video)](https://youtu.be/auRTKgS1bTM)
   - (1) Describe the methods you will use to promote your business to potential customers.
 
-    **Resources:** [What Is Marketing in 3 Minutes | Marketing for Beginners (video)](https://youtu.be/QusJ4fpWQwA), [Tips for Elevator Pitches (video)](https://youtu.be/Mw8mvlKAjeA)
+    **Resources:** [What Is Marketing in 3 Minutes \| Marketing for Beginners (video)](https://youtu.be/QusJ4fpWQwA), [Tips for Elevator Pitches (video)](https://youtu.be/Mw8mvlKAjeA)
   - (2) Explain how you will utilize the internet and social media to increase awareness of your product or service.
 
     **Resources:** [Four Steps To Building Brand Awareness Through Social Media (video)](https://youtu.be/h14XHhCbYdo)
   - (3) Design a promotional flyer or poster for your product or service.
 
-    **Resources:** [Canva Tutorial For Beginners | How To Design A Flyer in Canva (video)](https://youtu.be/KglO4C412DA), [Canva Brochure Design Tutorial (video)](https://youtu.be/DWiM3GLw0Z8), [How To Make a FLYER in Google Docs (video)](https://youtu.be/7eeUsOQI5EA), [How To Use Lucidpress to Make a Pamphlet or Brochure (video)](https://youtu.be/pPYcPlTFbwU)
+    **Resources:** [Canva Tutorial For Beginners \| How To Design A Flyer in Canva (video)](https://youtu.be/KglO4C412DA), [Canva Brochure Design Tutorial (video)](https://youtu.be/DWiM3GLw0Z8), [How To Make a FLYER in Google Docs (video)](https://youtu.be/7eeUsOQI5EA), [How To Use Lucidpress to Make a Pamphlet or Brochure (video)](https://youtu.be/pPYcPlTFbwU)
 
 - (6) When you believe your business idea is feasible, imagine your business idea is now up and running. What successes and problems might you experience? How would you overcome any failures? Discuss with your counselor any ethical questions you might face and how you would deal with them.
 

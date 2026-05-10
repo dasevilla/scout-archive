@@ -57,7 +57,7 @@ Earning this merit badge enables a Scout to learn about the history and kinds of
 - (11) Discuss with your counselor the importance in our society of TWO of the following areas of the law or process:
   - (a) Administrative
 
-    **Resources:** [Understanding Administrative Law (website)](https://law.pepperdine.edu/blog/posts/understanding-administrative-law.htm), [Who Regulates Daily Life? | Administrative Law Explained (video)](https://youtu.be/qzgtxM4hsCQ)
+    **Resources:** [Understanding Administrative Law (website)](https://law.pepperdine.edu/blog/posts/understanding-administrative-law.htm), [Who Regulates Daily Life? \| Administrative Law Explained (video)](https://youtu.be/qzgtxM4hsCQ)
   - (b) Alternative Dispute Resolution
 
     **Resources:** [Alternative Dispute Resolution (website)](https://www.law.cornell.edu/wex/alternative_dispute_resolution), [Alternative Dispute Resolution - An Explanation & Overview (video)](https://youtu.be/bUmWRqlL6oM)
@@ -66,7 +66,7 @@ Earning this merit badge enables a Scout to learn about the history and kinds of
     **Resources:** [Bankruptcy Basics (website)](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics), [Bankruptcy Basic (video)](https://youtu.be/jobpaNCY-LU)
   - (d) Biotechnology
 
-    **Resources:** [What Is Biotechnology Law? (website)](https://testmaxprep.com/blog/bar-exam/biotechnology-law%20), [Biotech Regulation (video)](https://youtu.be/ytzwXOaIvqQ)
+    **Resources:** [What Is Biotechnology Law? (website)](https://testmaxprep.com/blog/bar-exam/biotechnology-law), [Biotech Regulation (video)](https://youtu.be/ytzwXOaIvqQ)
   - (e) Environmental
 
     **Resources:** [Environmental Law: A Short Introduction (video)](https://youtu.be/nq3racsBxg0)
@@ -87,7 +87,7 @@ Earning this merit badge enables a Scout to learn about the history and kinds of
     **Resources:** [International Law (website)](https://www.law.cornell.edu/wex/international_law), [What Is International Law (video)](https://youtu.be/jTzKgI68VLc)
   - (k) Privacy
 
-    **Resources:** [Tech Law & Privacy Law (website)](https://www.law.georgetown.edu/your-life-career/career-exploration-professional-development/for-jd-students/explore-legal-careers/practice-areas/tech-and-privacy-law/%20%20%20), [Understanding the Basics of US Privacy Laws (video)](https://youtu.be/_Wh8iNhNgpc)
+    **Resources:** [Tech Law & Privacy Law (website)](https://www.law.georgetown.edu/your-life-career/career-exploration-professional-development/for-jd-students/explore-legal-careers/practice-areas/tech-and-privacy-law/), [Understanding the Basics of US Privacy Laws (video)](https://youtu.be/_Wh8iNhNgpc)
 
 ## Resources
 

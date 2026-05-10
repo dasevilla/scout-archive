@@ -63,11 +63,11 @@ Scouts will begin their work on this merit badge by learning about the propertie
   - **Option B—Silversmith.** Do ALL of the following:
     - (1) Name and describe the use of a silversmith's basic tools.
 
-      **Resources:** [Silversmithing Tools for Beginners | All You Need to get Started Making Jewelry! (video)](https://youtu.be/vRd5YcRpyig)
+      **Resources:** [Silversmithing Tools for Beginners \| All You Need to get Started Making Jewelry! (video)](https://youtu.be/vRd5YcRpyig)
     - (2) Create a sketch of two objects to make from sheet silver. Include each component's dimensions on your sketch, which need not be to scale.
     - (3) Make two objects out of 18- or 20-gauge sheet copper. Use patterns either provided by your counselor or made by you and approved by your counselor. Both objects must include a soldered joint. If you have prior silversmithing experience, you may substitute sterling silver, nickel silver, or lead-free pewter.
 
-      **Resources:** [The Basics of Soldering | Jewelry 101 (video)](https://youtu.be/Q_gejiVEClE)
+      **Resources:** [The Basics of Soldering \| Jewelry 101 (video)](https://youtu.be/Q_gejiVEClE)
     - (a) At least one object must include a sawed component you have made yourself.
 
       **Resources:** [Step-by-Step Guide to Sawing for Handmade Jewelry (video)](https://youtu.be/KfA9HlzyAHU)
@@ -76,7 +76,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
       **Resources:** [Basic Sinking & Planishing (video)](https://youtu.be/_kGPPtUYuI4)
     - (c) Clean and polish your objects.
 
-      **Resources:** [How I Clean & Polish Jewelry RIGHT After Casting | Step By Step (video)](https://youtu.be/A-NTbRUhASQ)
+      **Resources:** [How I Clean & Polish Jewelry RIGHT After Casting \| Step By Step (video)](https://youtu.be/A-NTbRUhASQ)
   - **Option C—Founder.** Do ALL of the following:
     - (1) Name and describe the use of the basic parts of a two-piece mold. Name at least three different types of molds.
 

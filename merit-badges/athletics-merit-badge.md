@@ -37,10 +37,10 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     **Resources:** [Keys to Sport-Specific Training (video)](https://youtu.be/oRQEgV0wNtQ?si=5ZjJP2Lq6GboJ8E_)
   - (b) Use a chart or other tracking method to monitor your progress during this time.
 
-    **Resources:** [7 Powerful Journaling Ideas for Youth Sports Athletes (website)](https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/%20)
+    **Resources:** [7 Powerful Journaling Ideas for Youth Sports Athletes (website)](https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/)
   - (c) Explain to your counselor the equipment necessary to participate in this activity and the appropriate clothing for the activity and the time of year.
 
-    **Resources:** [Equipment Needed to Play Various Sports (website)](https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports%20)
+    **Resources:** [Equipment Needed to Play Various Sports (website)](https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports)
   - (d) At the end of three months, review your records from requirement 3(b), and discuss with your counselor what progress you have made during training. Tell how your development has affected you mentally and physically.
 
     **Resources:** [How Do You Measure Progress? (video)](https://youtu.be/EHZvmAaXwfk?si=rdzKWbgW6dHqMrRO)
@@ -48,7 +48,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
 - (4) Do the following:
   - (a) Explain the rules for two athletic activities, one of which is the activity you chose for requirement 3.
 
-    **Resources:** [Rules of Sports (website)](https://www.rulesofsport.com/%20)
+    **Resources:** [Rules of Sports (website)](https://www.rulesofsport.com/)
   - (b) Discuss the importance of warming up and cooling down before and after each training session or event.
 
     **Resources:** [Stretching and Warming Up (video)](https://youtu.be/XeEIoGMldyc?si=OXMS8XPru5l5dG7g)

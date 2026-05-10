@@ -31,7 +31,7 @@ As with any art, wood carving involves learning the basics of design, along with
     **Resources:** [Basic Hand Carving Tools Explained (video)](https://youtu.be/vMrwACL0Yrc)
   - (b) Tell your counselor how to care for and use several types of sharpening devices, then demonstrate that you know how to use these devices.
 
-    **Resources:** [Essential Sharpening Tools Every Wood Carver Needs (video)](https://youtu.be/D6cy4av-18c), [How To Use a Sharpening Stone | Knives (video)](https://youtu.be/lBXRkMZfIXk), [Fast and Easy Knife Stropping Guide (video)](https://youtu.be/5Tt3K-kXhJc)
+    **Resources:** [Essential Sharpening Tools Every Wood Carver Needs (video)](https://youtu.be/D6cy4av-18c), [How To Use a Sharpening Stone \| Knives (video)](https://youtu.be/lBXRkMZfIXk), [Fast and Easy Knife Stropping Guide (video)](https://youtu.be/5Tt3K-kXhJc)
 
 - (4) Using a piece of scrap wood or a project on which you are working, show your counselor that you know how to do the following:
   - (a) Paring cut
@@ -39,13 +39,13 @@ As with any art, wood carving involves learning the basics of design, along with
     **Resources:** [Pairing Cut Safety Whittling With a Knife (video)](https://youtu.be/V89HIK33dgQ)
   - (b) Basic cut and push cut
 
-    **Resources:** [Push Cut Tutorial | Beginner's Wood Carving Guide (video)](https://youtu.be/ELvvu4wwMgM)
+    **Resources:** [Push Cut Tutorial \| Beginner's Wood Carving Guide (video)](https://youtu.be/ELvvu4wwMgM)
   - (c) V cut
 
-    **Resources:** [V-Shaped Cut Technique |Essential Carving Technique | Whittling Basics (video)](https://youtu.be/8NdNyjHm-fA)
+    **Resources:** [V-Shaped Cut Technique \|Essential Carving Technique \| Whittling Basics (video)](https://youtu.be/8NdNyjHm-fA)
   - (d) Stop cut or score line
 
-    **Resources:** [How To Carve a Stop Cut | Woodcarving Fundamentals (video)](https://youtu.be/45xBl3kiShM), [Incise Woodcarving || The Basics of How to Incise Wood Carve "Line Carving" (video)](https://youtu.be/ckiBo5TLjk4)
+    **Resources:** [How To Carve a Stop Cut \| Woodcarving Fundamentals (video)](https://youtu.be/45xBl3kiShM), [Incise Woodcarving \|\| The Basics of How to Incise Wood Carve "Line Carving" (video)](https://youtu.be/ckiBo5TLjk4)
 
 - (5) Tell why different woods are used for different projects. Explain why you chose the type of wood you did for your projects in requirements 6 and 7.
 

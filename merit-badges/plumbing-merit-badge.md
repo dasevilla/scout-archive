@@ -57,7 +57,7 @@ Plumbing, including pipe fitting, is an important and well-paid occupation. The 
     **Resources:** [Women's DIY Bathroom Remodel (video)](https://youtu.be/hyTeVMYgRM0?si=Vjs95F0m6dK-Ae11)
   - (f) Remove, clean or replace, and reinstall a sink or lavatory drain trap.
 
-    **Resources:** [How To Install P-Trap And Bathroom Sink Drain Piping | Easy Installation For Beginners!   (video)](https://youtu.be/OFui97xhln0?si=0j-wNeNigMTLVJHt)
+    **Resources:** [How To Install P-Trap And Bathroom Sink Drain Piping \| Easy Installation For Beginners!   (video)](https://youtu.be/OFui97xhln0?si=0j-wNeNigMTLVJHt)
   - (g) Properly apply pipe thread tape to a pipe or a plumbing connector.
 
     **Resources:** [How to Apply Teflon Tape Like a Plumbing Pro (video)](https://youtu.be/KJoO87dW30U?si=zlN2wJ1V8ciBaLEt)

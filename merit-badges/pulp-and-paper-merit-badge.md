@@ -43,7 +43,7 @@ Here’s an astonishing number to digest. Each person in the United States uses 
 
 - (4) Describe how paper is made. Discuss how paper is recycled. Make a sheet of paper by hand.
 
-  **Resources:** [Production of Paper (video)](https://youtu.be/OEbf9ffkyy8), [From Tree to Sheet: How Paper Is Made | Unveiling the Manufacturing Process (video)](https://youtu.be/invUjqvE0Oc), [How to Make Handmade Paper from Recycled Materials (video)](https://youtu.be/Ow5LeG-zzyg)
+  **Resources:** [Production of Paper (video)](https://youtu.be/OEbf9ffkyy8), [From Tree to Sheet: How Paper Is Made \| Unveiling the Manufacturing Process (video)](https://youtu.be/invUjqvE0Oc), [How to Make Handmade Paper from Recycled Materials (video)](https://youtu.be/Ow5LeG-zzyg)
 
 - (5) Explain what coated paper is and why it is coated. Describe the major uses for different kinds of coated papers. Describe one other way that paper is changed by chemical or mechanical means to make new uses possible.
 

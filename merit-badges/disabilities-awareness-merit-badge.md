@@ -15,7 +15,7 @@ Understand various disabilities and how they affect your friends, family, and co
     **Resources:** [We Need to Talk About Disability (video)](https://youtu.be/Z3faUGgMsNI), [Disability Isn't a Dirty Word (video)](https://youtube.com/shorts/X-OecmJeQJ4?si=13PL23LCz6Y0z-M9), [Words Matter! Disability Language Etiquette  (website)](https://www.nea.org/words-matter-disability-language-etiquette)
   - (b) Explain why proper disability etiquette is important, and how it may differ depending on the specific disability. Give three examples.
 
-    **Resources:** [Disability Etiquette - Respectful Ways to Interact With People With Disabilities (video)](https://youtu.be/iG3pQp6HoQM?si=DqAx3LbrAqeH9mDm), [Sportable Disability Etiquette (video)](https://youtu.be/kLKObHtQmis), [Disability Sensitivity (video)](https://youtu.be/bb6uPDwclek), [Not Special Needs | March 21 - World Down Syndrome Day (video)](https://youtu.be/kNMJaXuFuWQ?si=568DA1j2_laLorG_)
+    **Resources:** [Disability Etiquette - Respectful Ways to Interact With People With Disabilities (video)](https://youtu.be/iG3pQp6HoQM?si=DqAx3LbrAqeH9mDm), [Sportable Disability Etiquette (video)](https://youtu.be/kLKObHtQmis), [Disability Sensitivity (video)](https://youtu.be/bb6uPDwclek), [Not Special Needs \| March 21 - World Down Syndrome Day (video)](https://youtu.be/kNMJaXuFuWQ?si=568DA1j2_laLorG_)
 
 - (2) Visit an agency that works with people with physical, mental, emotional, or educational disabilities. Collect and read information about the agency's activities. Learn about opportunities its members have for training, employment, and education. Discuss what you have learned with your counselor.
 
@@ -30,7 +30,7 @@ Understand various disabilities and how they affect your friends, family, and co
     **Resources:** [We Asked 5 People With Disability Some Questions Before International Day of People With Disability (video)](https://youtu.be/Okb35sk4KEA?si=oe4DdnaglHhQ7kmr), [Kids Ask Questions About Disability (video)](https://youtu.be/hnKim3S_Pvo?si=fEke9WzADlSMiXo3)
   - (c) Learn how people with disabilities take part in a particular adaptive sport or recreational activity. Discuss what you have learned with your counselor.
 
-    **Resources:** [Alison's Story (video)](https://youtu.be/TEC0iEMYs5M?si=pgLu9BDJvQKm9eWH), [International Day of Persons with Disabilities | Paralympic Games (video)](https://youtu.be/3inIaMOGoXQ?si=LuLQzj_tkQjdTyVz), [THIS is Special Olympics! (video)](https://youtu.be/L9m84Jc9GX0)
+    **Resources:** [Alison's Story (video)](https://youtu.be/TEC0iEMYs5M?si=pgLu9BDJvQKm9eWH), [International Day of Persons with Disabilities \| Paralympic Games (video)](https://youtu.be/3inIaMOGoXQ?si=LuLQzj_tkQjdTyVz), [THIS is Special Olympics! (video)](https://youtu.be/L9m84Jc9GX0)
   - (d) Learn about independent living aids such as service animals, canes, and augmentative communication devices such as captioned telephones and videophones. Discuss with your counselor how people use such aids.
 
     **Resources:** [Walking a Route with my Guide Dog (video)](https://www.youtube.com/shorts/EnYivEfJZAg), [Disability Isn't One-Size-Fits-All: My Mobility Aid Toolkit (video)](https://youtube.com/shorts/JOyjBWizTU0?si=c7p4Rn5CnbSImBkz), [How I Navigate as a Blind Person - 5 Tools I Use to Travel Safely (video)](https://youtu.be/Lqsik6NM5HI), [Service Animals (website)](https://www.ada.gov/topics/service-animals/), [Bridging Apps (video)](https://youtu.be/ez0x66P97GU)
@@ -57,7 +57,7 @@ Understand various disabilities and how they affect your friends, family, and co
 - (5) Explain what advocacy is. Do ONE of the following:
   - (a) Present a counselor-approved disabilities awareness program to a Cub Scout pack or other group. During your presentation, explain and use person-first language.
 
-    **Resources:** [The View From Here: My Path to Disability Advocacy | Liam Doyle (video)](https://youtu.be/-uS56z1O46U)
+    **Resources:** [The View From Here: My Path to Disability Advocacy \| Liam Doyle (video)](https://youtu.be/-uS56z1O46U)
   - (b) Find out about disabilities awareness education programs in your school or school system, or contact a disability advocacy agency. Volunteer with a program or agency for eight hours.
 
     **Resources:** [Here's How You Can Support People With Disabilities (video)](https://youtube.com/shorts/huwy396lx2c?si=Go8d4I0cZ-BeGmnO)

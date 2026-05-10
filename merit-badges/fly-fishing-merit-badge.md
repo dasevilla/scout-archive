@@ -15,7 +15,7 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
     **Resources:** [Why Is Fishing Dangerous? Don't Overlook These Risks! (website)](https://anglersadvantageguideservice.com/why-is-fishing-dangerous-dont-overlook-these-risks/), [Wader Safety 101 (video)](https://youtu.be/PiSbKetM50U)
   - (b) Discuss the prevention of and treatment for the following health concerns that could occur while fly-fishing: cuts and scratches, puncture wounds, insect bites, hypothermia, dehydration, heat exhaustion, heatstroke, and sunburn.
 
-    **Resources:** [Splinters (video)](https://youtu.be/L6crQ3nMLkI), [How To Treat Cuts and Bruises (video)](https://youtu.be/0jp5FgLmKtk), [How To Treat an Insect Bite or Sting | First Aid Training (video)](https://youtu.be/YkUW3pquCF4), [Hypothermia (video)](https://youtu.be/my6JB41apTw), [What Is Dehydration? (video)](https://youtu.be/KahsIEbFROI), [Heat Exhaustion vs Heat Stroke (video)](https://youtu.be/8gn3DEYOPuE), [Sunburn (video)](https://youtu.be/-KzTvagnpfU)
+    **Resources:** [Splinters (video)](https://youtu.be/L6crQ3nMLkI), [How To Treat Cuts and Bruises (video)](https://youtu.be/0jp5FgLmKtk), [How To Treat an Insect Bite or Sting \| First Aid Training (video)](https://youtu.be/YkUW3pquCF4), [Hypothermia (video)](https://youtu.be/my6JB41apTw), [What Is Dehydration? (video)](https://youtu.be/KahsIEbFROI), [Heat Exhaustion vs Heat Stroke (video)](https://youtu.be/8gn3DEYOPuE), [Sunburn (video)](https://youtu.be/-KzTvagnpfU)
   - (c) Explain how to remove a hook that has lodged in someone's arm.
 
     **Resources:** [Removing a Fishhook (video)](https://youtu.be/AmT3T_9Guq0), [How To Remove a Hook (video)](https://youtu.be/52GLMQp52qg)

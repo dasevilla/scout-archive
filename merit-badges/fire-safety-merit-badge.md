@@ -15,7 +15,7 @@ The ability to use fire safely is essential to human survival. By earning this m
     **Resources:** [Is Fire a Solid, a Liquid, or a Gas? (video)](https://youtu.be/YV8TT9LRBrY), [What Is Fire? (video)](https://youtu.be/tMDKeBaLWDw)
   - (b) Name the parts of the fire tetrahedron and the products of combustion.
 
-    **Resources:** [Understanding the Fire Tetrahedron (video)](https://youtu.be/Bd9JWtp-3wI), [Fire Tetrahedron | What Are the Elements Required in Order To Ignite Fire (video)](https://youtu.be/c7bFL_-vQQA), [Science Spotlight: The Combustion of Wood (video)](https://youtu.be/B0E4PX3e3RE), [Fire and Flame 09—Hydrocarbon Combustion Products (video)](https://youtu.be/_wzJQFl1k9I)
+    **Resources:** [Understanding the Fire Tetrahedron (video)](https://youtu.be/Bd9JWtp-3wI), [Fire Tetrahedron \| What Are the Elements Required in Order To Ignite Fire (video)](https://youtu.be/c7bFL_-vQQA), [Science Spotlight: The Combustion of Wood (video)](https://youtu.be/B0E4PX3e3RE), [Fire and Flame 09—Hydrocarbon Combustion Products (video)](https://youtu.be/_wzJQFl1k9I)
   - (c) Describe the life cycle of a fire.
 
     **Resources:** [Fire Safety Stages of Fire (video)](https://youtu.be/nrMlNAPuJM0), [Stages of a Fire (video)](https://youtu.be/IEXKxnSPDY0), [The Stages of Fire (video)](https://youtu.be/AI5BTfeH05A)
@@ -126,7 +126,7 @@ The ability to use fire safely is essential to human survival. By earning this m
     **Resources:** [How To Use a Camping Stove (video)](https://www.tiktok.com/@therealdadhowdoi/video/7131121409199197482)
   - (g) Explain how to set up and keep a campsite safe from fire.
 
-    **Resources:** [Campfire Safety | How To Make a Fire While Camping | How To Put Out a Campfire Safely (video)](https://youtu.be/E0YqVXJ4mkc)
+    **Resources:** [Campfire Safety \| How To Make a Fire While Camping \| How To Put Out a Campfire Safely (video)](https://youtu.be/E0YqVXJ4mkc)
   - (h) Develop a lesson plan to teach a fire safety skill or topic, such as lighting a candle or a match or a charcoal fire or a lantern or a camp stove or using flint and steel or setting up a fire lay. Review your lesson plan with your counselor. Teach your skill or topic to one or more Scouts using the EDGE method.
 
     **Resources:** [The Teaching EDGE: The Best Way To Teach Someone a New Skill (website)](https://blog.scoutingmagazine.org/2017/05/05/living-on-the-edge-this-is-the-correct-way-to-teach-someone-a-skill)

@@ -24,7 +24,7 @@
 - (4) **Hands-On Experimentation.** Conduct THREE  physics experiments, selecting from the following options. Each experiment must include: a hypothesis, materials used, safety precautions, observations, and conclusions based on results. Explain how each experiment demonstrates key physics principles. For each experiment, be sure to try variations/variables to test your hypothesis.
   - **Option A: Newton’s Laws in Action: Balloon-Powered Car.** Make and test a balloon-powered car to show how force and motion interact.
 
-    **Resources:** [Science Max | How to Make a Balloon Powered Car | Science Experiments](https://youtu.be/SaKkjiIVccc?si=TGtbgJ1f2aw7TlN-)
+    **Resources:** [Science Max \| How to Make a Balloon Powered Car \| Science Experiments](https://youtu.be/SaKkjiIVccc?si=TGtbgJ1f2aw7TlN-)
   - **Option B: Momentum: Stacked Ball Drop.** Drop different-sized stacked balls to show momentum.
 
     **Resources:** [Stacked Ball Drop](https://youtu.be/2UHS883_P60?si=fU401fa8NRzZaxZ9), [Tennis ball + Basketball momentum // Homemade Science with Bruce Yeany](https://youtu.be/yhTz_6NFmV0?si=BcG21aMUoFaqrzm9)
@@ -52,13 +52,13 @@
 
 - (5) **Physics All Around You.** Discuss with your counselor:
   - (a)**Physics in Everyday Life.** Describe FIVE ways physics is applied in daily life, such as in transportation, sports, or household appliances. [**The Role of Physics in Everyday Life: Shocking Truths Revealed!**](https://youtu.be/XHouBbIlz6I?si=FRLe3mtXj8nv_UO1)
-  - (b) **Physics in Space Exploration.** Describe how physics is used in space travel, satellite technology, or planetary exploration. **[The Rocket-Less Future of Space Travel | What the Physics?! | NOVA | PBS](https://youtu.be/mMyZGv_bwTg?si=0Yub7QM5_PPvShUU)** **[Why Don’t Satellites Fall Out of the Sky?](https://youtu.be/YSh_S2bHrHE?si=6lDxQmdupKqemKpa)** **[Future of Space Travel by Dr Michio Kaku #spaceexploration – YouTube](https://youtube.com/shorts/WQyNQNhAfyg?si=YhFxkQdSkklw7knC)** (c) **Physics in the Environment.** Explain how physics contributes to renewable energy, climate science, or environmental conservation. [**Renewable Energy Resources: Part 1 | GCSE Physics | Doodle Science**](https://youtu.be/MhEGS1zsApo?si=t5tp6G-F4qSM5Yq2) **[Renewable Energy Resources: Part 2 | GCSE Physics | Doodle Science](https://youtu.be/9W6S3FA-C6U?si=93dAWglNrroCKhvu)** **[How does the climate system work?](https://youtu.be/lrPS2HiYVp8?si=1pkiIfaiGIz92u-H)** (d)**Physics in Scouting.** Explain how physics is found in Scouting, such as knot tying, fire building, cooking, or pioneering. [**Why Knots? Knot Theory in Three Minutes**](https://youtu.be/WXVItJnZiWc?si=B_Mem9Rfw_gYjrv2) **[What Is Fire?](https://youtu.be/tMDKeBaLWDw?si=UeB_b-ZE8k1oInj_)** **[Have you ever wondered why smoke follows you around a camp fire? #camping #physics #fire](https://youtu.be/ji2UdtHQlzk?si=sZgu9YPqWh4Gt-Y0)** **[The Physics of Cooking](https://youtu.be/9RepBTXCiqQ?si=726q-e4EJBOhQAdK)** **[STEM Program Da Vinci Bridges (PDF)](https://scoutsvictoria.com.au/media/6052/program-da-vinci-bridges.pdf)**
+  - (b) **Physics in Space Exploration.** Describe how physics is used in space travel, satellite technology, or planetary exploration. **[The Rocket-Less Future of Space Travel \| What the Physics?! \| NOVA \| PBS](https://youtu.be/mMyZGv_bwTg?si=0Yub7QM5_PPvShUU)** **[Why Don’t Satellites Fall Out of the Sky?](https://youtu.be/YSh_S2bHrHE?si=6lDxQmdupKqemKpa)** **[Future of Space Travel by Dr Michio Kaku #spaceexploration – YouTube](https://youtube.com/shorts/WQyNQNhAfyg?si=YhFxkQdSkklw7knC)** (c) **Physics in the Environment.** Explain how physics contributes to renewable energy, climate science, or environmental conservation. [**Renewable Energy Resources: Part 1 \| GCSE Physics \| Doodle Science**](https://youtu.be/MhEGS1zsApo?si=t5tp6G-F4qSM5Yq2) **[Renewable Energy Resources: Part 2 \| GCSE Physics \| Doodle Science](https://youtu.be/9W6S3FA-C6U?si=93dAWglNrroCKhvu)** **[How does the climate system work?](https://youtu.be/lrPS2HiYVp8?si=1pkiIfaiGIz92u-H)** (d)**Physics in Scouting.** Explain how physics is found in Scouting, such as knot tying, fire building, cooking, or pioneering. [**Why Knots? Knot Theory in Three Minutes**](https://youtu.be/WXVItJnZiWc?si=B_Mem9Rfw_gYjrv2) **[What Is Fire?](https://youtu.be/tMDKeBaLWDw?si=UeB_b-ZE8k1oInj_)** **[Have you ever wondered why smoke follows you around a camp fire? #camping #physics #fire](https://youtu.be/ji2UdtHQlzk?si=sZgu9YPqWh4Gt-Y0)** **[The Physics of Cooking](https://youtu.be/9RepBTXCiqQ?si=726q-e4EJBOhQAdK)** **[STEM Program Da Vinci Bridges (PDF)](https://scoutsvictoria.com.au/media/6052/program-da-vinci-bridges.pdf)**
 
 - (6) **The Future of Physics.** Physicists try to explain the universe and apply these concepts to novel technologies. Discuss one option with your counselor:
   - **Option A: Unsolved Mysteries of Physics.** Discuss the following with your counselor:
     - (a) **Dark Matter & Dark Energy.** Scientists know it exists—but what is it?
 
-      **Resources:** [Dark Matter vs. Dark Energy | How the Universe Works | Science Channel](https://youtu.be/x344JiX8BCE?si=nS8xzD4lCnCE3ESq)
+      **Resources:** [Dark Matter vs. Dark Energy \| How the Universe Works \| Science Channel](https://youtu.be/x344JiX8BCE?si=nS8xzD4lCnCE3ESq)
     - (b) **Black Holes & Wormholes.** Can we harness their energy or travel through them?
 
       **Resources:** [Neil deGrasse Tyson Explains Wormholes and Black holes](https://youtu.be/PtA7O3AOCPU?si=kSqVYL3n6MBf2K3M)
@@ -79,14 +79,14 @@
   - **Option D: Advanced Theories & Future Discoveries.** Discuss the following with your counselor:
     - (a) **Time Travel.** Is it possible under extreme conditions?
 
-      **Resources:** [Time Travel: Is It Possible? | Space’s Deepest Secrets | Science Channel](https://youtu.be/G4kWQk94TeI?si=7se4JsEN09wVlFmq)
+      **Resources:** [Time Travel: Is It Possible? \| Space’s Deepest Secrets \| Science Channel](https://youtu.be/G4kWQk94TeI?si=7se4JsEN09wVlFmq)
     - (b) **Artificial Gravity.** Can we create Earth-like gravity in space stations?
 
       **Resources:** [Can We Create Artificial Gravity?](https://youtu.be/im-JM0f_J7s?si=Jk3zOPJM92iiIPY0)
 
 - (7) **Engineering and Physics Challenge.** Solve a simple engineering problem using physics-based reasoning. Define the problem, allowable materials, and safety constraints. You may enlist friends or family in completing your challenge. All plans must be approved in advance by your counselor. Do ONE of the following options:
 
-  **Resources:** [Rube Goldberg: The father of inventions](https://youtu.be/40AO2RdEixs?si=d1n23pkStmyjhj2k), [https://www.rubegoldberg.org/](https://www.rubegoldberg.org/), [How To Make Any Rube Goldberg Machine Using These 6 Simples Machines? Zach Contraptions](https://youtu.be/CBLZUGgvqiE?si=1a8sc-3SVQFv1U4M), [Revealing My 5 Step Formula to Build A Rube Goldberg Machine Quickly](https://youtu.be/HjWEgbslJ0M?si=jfsNnY7w6NrGqqrx), [Egg drop activity////Homemade Science with Bruce Yeany](https://youtu.be/tQssL9MbHF0?si=ZuouVAT0FCHwe9yl), [The Sci Guys: Science at Home – SE1 – EP18: Water Bottle Rockets](https://youtu.be/ii6D1R6lXVA?si=Ls0ZaRp5aj_G9h1j), [Newton’s Laws of Motion | Water Bottle Rockets](https://youtu.be/35lWVD5TtH0?si=Fh260-ZgNSeDcsvf)
+  **Resources:** [Rube Goldberg: The father of inventions](https://youtu.be/40AO2RdEixs?si=d1n23pkStmyjhj2k), [https://www.rubegoldberg.org/](https://www.rubegoldberg.org/), [How To Make Any Rube Goldberg Machine Using These 6 Simples Machines? Zach Contraptions](https://youtu.be/CBLZUGgvqiE?si=1a8sc-3SVQFv1U4M), [Revealing My 5 Step Formula to Build A Rube Goldberg Machine Quickly](https://youtu.be/HjWEgbslJ0M?si=jfsNnY7w6NrGqqrx), [Egg drop activity////Homemade Science with Bruce Yeany](https://youtu.be/tQssL9MbHF0?si=ZuouVAT0FCHwe9yl), [The Sci Guys: Science at Home – SE1 – EP18: Water Bottle Rockets](https://youtu.be/ii6D1R6lXVA?si=Ls0ZaRp5aj_G9h1j), [Newton’s Laws of Motion \| Water Bottle Rockets](https://youtu.be/35lWVD5TtH0?si=Fh260-ZgNSeDcsvf)
 
   - **Option A: Fastest Pinewood Derby Car.** Build pinewood derby cars using physics principles to get the fastest time on the track.
 

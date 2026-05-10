@@ -12,7 +12,7 @@ The field of veterinary medicine in the 21st century is one of the most exciting
 - (1) Discuss with your counselor the roles a veterinarian plays in the following:
   - (a) Companion or small animal medicine, and equine medicine
 
-    **Resources:** [Equine Veterinarian | Future Jobs L Explore a Career as a Horse Doctor (video)](https://youtu.be/BCnueH9iemg), [A Day in the Life of a Vet | If You See It, You Can Be It (video)](https://youtu.be/5XrzUiCLw3A)
+    **Resources:** [Equine Veterinarian \| Future Jobs L Explore a Career as a Horse Doctor (video)](https://youtu.be/BCnueH9iemg), [A Day in the Life of a Vet \| If You See It, You Can Be It (video)](https://youtu.be/5XrzUiCLw3A)
   - (b) Food animal or large animal medicine
 
     **Resources:** [Working the Land: Large Animal Veterinarian (video)](https://youtu.be/bUCUCgVStB8), [Cattle Caretakers: Large Animal Veterinarian (video)](https://youtu.be/QGGDyQj8rx0)

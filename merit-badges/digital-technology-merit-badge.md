@@ -14,7 +14,7 @@ Comprehend how electronic devices work and how to use them effectively with the 
 - (2) Do the following:
   - (a) Give a brief history of the changes in digital technology over time. Discuss with your counselor how digital technology in your lifetime compares with that of your parent's, grandparent's, or other adult's lifetime.
 
-    **Resources:** [Technology Evolution - 100,000 BCE to 2020 (video)](https://youtu.be/IJM3yuIDDPQ?si=7uQQJs6mbXI7sRHF), [Past & Present Technology, Then & Now (video)](https://youtu.be/IKLVSxhkZeg?si=jzzto-HMQ-Xzl-MT), [Past and Present | Technology Then and Now (video)](https://youtu.be/DENG7Q7VRgo?si=giprDI8VZC04gldJ)
+    **Resources:** [Technology Evolution - 100,000 BCE to 2020 (video)](https://youtu.be/IJM3yuIDDPQ?si=7uQQJs6mbXI7sRHF), [Past & Present Technology, Then & Now (video)](https://youtu.be/IKLVSxhkZeg?si=jzzto-HMQ-Xzl-MT), [Past and Present \| Technology Then and Now (video)](https://youtu.be/DENG7Q7VRgo?si=giprDI8VZC04gldJ)
   - (b) Describe what kinds of computers or devices you imagine might be available when you are an adult.
 
     **Resources:** [Technologies of the Future (video)](https://youtu.be/v942xxcJWlA?si=61vZc5bgAiTD_7Oa)

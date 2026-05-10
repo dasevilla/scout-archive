@@ -68,7 +68,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
       **Resources:** [Goat Terminology (website)](https://merrymeadowsok.com/goat-terminology-101/)
     - (6) Visit a dairy farm or a milk processing plant. Describe what you saw and explain what you learned. If you cannot visit a dairy farm or processing plant, view a video from a breed or dairy association, or research the internet (with your parent or guardian's permission) for information on dairying. Tell about your findings.
 
-      **Resources:** [Guided Barn Tour! Modern Dairy Farm Tour (Part 1) (video)](https://youtu.be/1hrLeSQSdw4), [Robotic Dairy Barn Tour (Part 2)—The One You've Been Asking For (video)](https://youtu.be/U32W389XDbo), [How They Process Milk In Factory With Modern Food Processing Technology | How It's Made (video)](https://youtu.be/uhXNHVlQnBc)
+      **Resources:** [Guided Barn Tour! Modern Dairy Farm Tour (Part 1) (video)](https://youtu.be/1hrLeSQSdw4), [Robotic Dairy Barn Tour (Part 2)—The One You've Been Asking For (video)](https://youtu.be/U32W389XDbo), [How They Process Milk In Factory With Modern Food Processing Technology \| How It's Made (video)](https://youtu.be/uhXNHVlQnBc)
   - **Option C—Horse.** Do ALL of the following:
     - (1) Make a sketch of a useful saddle horse barn and exercise yard.
     - (2) Tell about the history of the horse and the benefits it has brought to people. Using the four breeds of horses you chose in requirement 1, discuss the different special uses of each breed.
@@ -146,7 +146,7 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
 
 - (7) Find out about three career opportunities in animal science. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
 
-  **Resources:** [Beef Industry—Careers in Animal Sciences (video)](https://youtu.be/8ddpezxPp-Q), [Dairy Industry—Careers in Animal Sciences (video)](https://youtu.be/R3FvgnSItWc), [Dr. Shannon Pratt Phillips, Department of Animal Science (video)](https://youtu.be/bON5Fjaaecc), [Swine Industry—Careers in Animal Sciences (video)](https://youtu.be/MyiEsyIx-3k), [Poultry Industry—Careers in Animal Sciences (video)](https://youtu.be/TrFNNR8xF_o), [NC State Veterinary Medicine | Extraordinary Opportunity (video)](https://youtu.be/LdoSp8TaNVk), [10 Rewarding Careers Working With Horses (video)](https://youtu.be/00UQQttaXUs), [30 Jobs for Animal Science Majors (Taming the Job Jungle) (website)](https://interviewguy.com/jobs-for-animal-science-majors/)
+  **Resources:** [Beef Industry—Careers in Animal Sciences (video)](https://youtu.be/8ddpezxPp-Q), [Dairy Industry—Careers in Animal Sciences (video)](https://youtu.be/R3FvgnSItWc), [Dr. Shannon Pratt Phillips, Department of Animal Science (video)](https://youtu.be/bON5Fjaaecc), [Swine Industry—Careers in Animal Sciences (video)](https://youtu.be/MyiEsyIx-3k), [Poultry Industry—Careers in Animal Sciences (video)](https://youtu.be/TrFNNR8xF_o), [NC State Veterinary Medicine \| Extraordinary Opportunity (video)](https://youtu.be/LdoSp8TaNVk), [10 Rewarding Careers Working With Horses (video)](https://youtu.be/00UQQttaXUs), [30 Jobs for Animal Science Majors (Taming the Job Jungle) (website)](https://interviewguy.com/jobs-for-animal-science-majors/)
 
 ## Resources
 

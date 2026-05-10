@@ -15,7 +15,7 @@ Scouts who complete the requirements to earn the Leatherwork merit badge will ex
 
   - (a) Explain to your counselor the hazards you are most likely to encounter while using leatherwork tools and materials, and what you should do to anticipate, help prevent, mitigate, or lessen these hazards.
 
-    **Resources:** [Safety in Leatherwork | Dangers and Health and Safety Tips (video)](https://youtu.be/eDDvWMyOPO8?si=svFeILuCoVTRbjng)
+    **Resources:** [Safety in Leatherwork \| Dangers and Health and Safety Tips (video)](https://youtu.be/eDDvWMyOPO8?si=svFeILuCoVTRbjng)
   - (b) Show that you know first aid for injuries or illnesses that could occur while working with leather, including minor cuts and scratches, puncture wounds, ingested poisoning, and reactions from exposure to chemicals such as dyes, cements, and finishes used in leatherworking.
 
     **Resources:** [First Aid (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Leatherwork/Leatherwork_First%20Aid.pdf), [First Aid for Minor Cuts (website)](https://www.aad.org/public/everyday-care/injured-skin/burns/treat-minor-cuts), [First Aid for Puncture Wounds (website)](https://www.mayoclinic.org/first-aid/first-aid-puncture-wounds/basics/art-20056665)

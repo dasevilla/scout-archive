@@ -55,7 +55,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
     **Resources:** [The 10 Scout Basic Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/), [Checklist for a Wilderness Survival Kit (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Checklist%20for%20a%20Wilderness%20Survival%20Kit.pdf)
   - (c) Explain how a trip plan could help prevent a wilderness survival situation.
 
-    **Resources:** [How to Plan an Adventure | Plan a Camping Trip (video)](https://youtu.be/79WYqkiExZU?si=sXXRKQGVE-ZNkU1p), [Importance of a Float Plan (website)](https://www.boatsmartexam.com/knowledge-base/article/using-a-trip-plan/)
+    **Resources:** [How to Plan an Adventure \| Plan a Camping Trip (video)](https://youtu.be/79WYqkiExZU?si=sXXRKQGVE-ZNkU1p), [Importance of a Float Plan (website)](https://www.boatsmartexam.com/knowledge-base/article/using-a-trip-plan/)
 
 - (2) **Priorities for Survival.** Explain the importance of each of the seven priorities of survival in a wilderness location.
 
@@ -63,7 +63,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 
 - (3) **Avoiding Panic:** Describe ways to avoid panic and to maintain a high level of morale when lost, and explain why this is important.
 
-  **Resources:** [Lost? Stop Panic & Think Clearly. (video)](https://youtu.be/_mt0BtDDImU?si=8AyENe2MLMfV8jiD), [Box Breathing | The Breathing Exercise Used By Navy SEALs (video)](https://youtu.be/UC6HUrneIWI?si=fr6RwZnn6RIBp8rA)
+  **Resources:** [Lost? Stop Panic & Think Clearly. (video)](https://youtu.be/_mt0BtDDImU?si=8AyENe2MLMfV8jiD), [Box Breathing \| The Breathing Exercise Used By Navy SEALs (video)](https://youtu.be/UC6HUrneIWI?si=fr6RwZnn6RIBp8rA)
 
 - (4) **First Aid Kits.** Put together a personal first aid kit and a personal survival kit. Show how items in the kits are used.
 

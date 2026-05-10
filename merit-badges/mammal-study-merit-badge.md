@@ -20,7 +20,7 @@ A mammal may weigh as little as 1/12 ounce, as do some shrews, or as much as 150
 - (3) Do ONE of the following:
   - (a) Spend three hours in two different kinds of natural habitats or at different elevations for a total of 6 hours. List the different mammal species and how many of each you identified by sight or sign. Tell why all mammals do not live in the same kind of habitat.
 
-    **Resources:** [How to Find Mammal Signs (video)](https://www.youtube.com/watch?v=x8DfP0Nh7kA), [Animal Tracks Identification Guide | Animal Footprint ID Charts (website)](https://www.greenbelly.co/pages/animal-tracks-identification-guide)
+    **Resources:** [How to Find Mammal Signs (video)](https://www.youtube.com/watch?v=x8DfP0Nh7kA), [Animal Tracks Identification Guide \| Animal Footprint ID Charts (website)](https://www.greenbelly.co/pages/animal-tracks-identification-guide)
   - (b) Spend three hours on five different days in at least a 4-acre area (about the size of 3 football fields) for a total of 15 hours. List the mammal species you identified by sight or sign.
   - (c) From study and reading, write a simple life history of one nongame mammal that lives in your area. Tell how this mammal lived before its habitat was affected in any way by humans. Tell how it reproduces, what it eats, and its natural habitat. Describe its dependency upon plants and other animals (including humans), and how they depend upon it. Describe how humans have benefited from the mammal you have chosen and whether the mammal has benefited from association with humankind.
 

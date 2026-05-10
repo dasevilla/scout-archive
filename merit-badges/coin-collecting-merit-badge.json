@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Coin-Collecting.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Coin-Collecting.docx",
   "shop_url": "https://www.scoutshop.org/coin-collecting-merit-badge-pamphlet-661779.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/CoinCollecting-qjjk7o9kq7qcbw6yfhc6pk66ya5ahli8rqabu8xaw0.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/CoinCollecting.png",
   "image_filename": "coin-collecting-merit-badge.jpg",
   "requirements": [
     {
@@ -67,9 +67,9 @@
       "label": "4",
       "text": "Do the following and explain to your counselor the design features, designer name, designer initials, and where to find them for each item:",
       "requirement_path": "4",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -288,9 +288,9 @@
           "label": "d",
           "text": "Complete one of the following and report to your counselor what you experienced:",
           "requirement_path": "7.d",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "content": [
             {
               "type": "text",

@@ -58,7 +58,7 @@ Saving, producing, and using energy wisely will be critical to America’s futur
 - (6) Prepare pie charts showing the following information, and explain to your counselor the important ideas each chart reveals. Tell where you got your information. Explain how cost affects the use of a nonrenewable energy resource and makes alternatives practical.
   - (a) The energy resources that supply the United States with most of its energy
 
-    **Resources:** [U.S. Energy Consumption by Source and Sector, 2024 (website)](https://www.eia.gov/totalenergy/data/monthly/pdf/flow/total_energy_spaghettichart_2024.pdf), [Everything You Need to Know About the Energy Flowcharts (video)](https://youtu.be/OBuAzxp3EE0), [Monthly Energy Review (website)](https://www.eia.gov/totalenergy/data/monthly/)
+    **Resources:** [U.S. Energy Consumption by Source and Sector (website)](https://www.eia.gov/energyexplained/us-energy-facts/), [Everything You Need to Know About the Energy Flowcharts (video)](https://youtu.be/OBuAzxp3EE0), [Monthly Energy Review (website)](https://www.eia.gov/totalenergy/data/monthly/)
   - (b) The share of energy resources used by the United States that comes from other countries
 
     **Resources:** [Why Does the US Import Oil When They Export So Much? (video)](https://youtu.be/evIAnt5mNGI), [US Energy Imports and Exports (website)](https://www.eia.gov/todayinenergy/detail.php?id=65664)

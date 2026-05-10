@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Rifle-Shooting.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Rifle-Shooting.docx",
   "shop_url": "https://www.scoutshop.org/rifle-shooting-merit-badge-pamphlet-661776.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/RifleShooting-qjjk7nbqjdp20a8bkyxk52eqcw9x9weiflmucyyp28.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2023/01/RifleShooting.png",
   "image_filename": "rifle-shooting-merit-badge.jpg",
   "requirements": [
     {
@@ -41,7 +41,16 @@
               "value": "Explain what a projectile is, and why any device that shoots a projectile at high speed must be handled with care and respect, and used only in approved locations."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "High-Speed Collisions in Space—Experiments with a Carrot Gun (video)",
+              "url": "https://youtu.be/kStpU1bU-oc"
+            },
+            {
+              "title": "NRA Women—How Ammo Works (video)",
+              "url": "https://youtu.be/ExeuiLXSNTU"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -58,7 +67,16 @@
               "value": "Explain the basic rules of safe gun handling that apply to all firearms."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "NRA Gun Safety Rules (website)",
+              "url": "https://gunsafetyrules.nra.org/"
+            },
+            {
+              "title": "Mechanical Safety (photo)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/mechanical_safety.png"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -109,7 +127,12 @@
               "value": "Explain the main points of the laws for owning and using guns in your community and state."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "State Laws for Gun Ownership and Use (website)",
+              "url": "https://www.atf.gov/firearms/tools-and-services-firearms-industry/state-laws-and-published-ordinances-firearms"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -143,7 +166,12 @@
               "value": "Successfully complete a state hunter education course, or obtain a copy of the hunting laws for your state, then do the following:"
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "NRA Hunter Education (website)",
+              "url": "https://nra.yourlearningportal.com/Course/HuntersEdActivityInfoPage"
+            }
+          ],
           "sub_requirements": [
             {
               "id": "13698",
@@ -306,7 +334,24 @@
                   "value": "Identify the three main parts of a rifle, and tell how they function."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Common Types of Rifle Actions (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/common_types_rifle_action.png"
+                },
+                {
+                  "title": "Parts of a Rifle (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/parts_of_a_rifle.jpg"
+                },
+                {
+                  "title": "Sight Recticles (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/sight_reticles.jpg"
+                },
+                {
+                  "title": "Firing Sequence (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/firing_sequence.jpg"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -323,7 +368,12 @@
                   "value": "Identify and demonstrate the rules for safely storing and handling a rifle."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Rules for Using or Storing a Gun (PDF)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/Rules%20for%20Using%20or%20Storing%20a%20Gun.pdf"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -340,7 +390,16 @@
                   "value": "Identify the two types of cartridges, their parts, and how they function."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Rimfire Cartridge (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/rimfire_cartridge.jpg"
+                },
+                {
+                  "title": "Centerfire Cartridge (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/centerfire_cartridge.jpg"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -566,7 +625,12 @@
                   "value": "Identify and demonstrate the rules for safely storing and handling an air rifle."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Rules for Using or Storing a Gun (PDF)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/Rules%20for%20Using%20or%20Storing%20a%20Gun.pdf"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -583,7 +647,12 @@
                   "value": "Identify the two most common types of air rifle ammunition."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Types of Air Rifle Ammunition (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/types_of_air_rifle_ammunition.jpg"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -775,7 +844,12 @@
                   "value": "Discuss with your counselor a brief history of the development of muzzleloading rifles."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "A Quick History of Muzzleloading Rifles (video)",
+                  "url": "https://www.youtube.com/shorts/E1SE_f9tSmk"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -792,7 +866,24 @@
                   "value": "Identify principal parts of muzzleloading rifles and discuss how they function."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Cap Lock Action (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/cap_lock_action.jpg"
+                },
+                {
+                  "title": "Flintlock Action (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/flintlock_action.jpg"
+                },
+                {
+                  "title": "Matchlock Action (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/matchlock_action.jpg"
+                },
+                {
+                  "title": "Wheel Lock Action (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/wheel_lock_action.jpg"
+                }
+              ],
               "sub_requirements": []
             },
             {
@@ -809,7 +900,12 @@
                   "value": "Identify and demonstrate the rules for safely storing and handling a muzzleloading rifle."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Rules for Using and Storing a Gun (photo)",
+                  "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/Rules%20for%20Using%20or%20Storing%20a%20Gun.pdf"
+                }
+              ],
               "sub_requirements": []
             },
             {

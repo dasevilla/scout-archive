@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Astronomy.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Astronomy.docx",
   "shop_url": "https://www.scoutshop.org/bsa-astronomy-merit-badge-pamphlet-661050.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/Astronomy-qjjk7nbqjdp20a8bkyxk52eqcw9x9weiflmucyyp28.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/Astronomy.png",
   "image_filename": "astronomy-merit-badge.jpg",
   "requirements": [
     {
@@ -310,9 +310,9 @@
       "label": "4",
       "text": "Do the following (if instruction is done in a planetarium, Scouts must still identify the required stars and constellations outside under the natural night sky):",
       "requirement_path": "4",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",

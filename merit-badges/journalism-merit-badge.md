@@ -11,6 +11,8 @@ One thing is for sure about journalism: It is never boring. For a reporter, almo
 
 - (1) Explain what freedom of the press is and how the First Amendment guarantees that you can voice your opinion. In your discussion, tell how to distinguish between fact and opinion, and explain the terms libel, slander, defamation, fair comment and criticism, public figure, privacy, and malice. Discuss how these matters relate to ethics in journalism.
 
+  **Resources:** [Freedom of the Press in the United States (video)](https://youtu.be/sserJ8x1Ec0), [What Are Libel and Slander? (video)](https://youtu.be/yqJKIjHT3RM), [How To Identify Fact vs Opinion in Writing & Research (video)](https://youtu.be/BTZjqOU_6Vc), [Understanding News Media: Fact vs. Opinion (PDF)](https://nynpa.com/docs/nie/newsmedia/FactvsOpinion.pdf), [Fair Comment and Criticism (website)](https://simplyglobalmedia.com/media-law-and-ethics-glossary/fair-comment-and-criticism/)
+
 - (2) Do ONE of the following:
   - **Option A—Newspaper, Magazine, and Online Journalism.** (Ask your parent or guardian's permission for online option). Do ALL of the following:
     - (1) On the same day, read a local news source or newspaper, a national news source or newspaper, a news magazine (online or printed) and a social media news feed. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story.
@@ -21,17 +23,28 @@ One thing is for sure about journalism: It is never boring. For a reporter, almo
     - (2) Visit a radio or television station. Ask for a tour of the various departments, concentrating on those related to news broadcasts. During your tour, talk to the station manager or other station management executive about station operations, particularly how management and the news staff work together, and what makes a "good" station. If possible, go with a reporter to cover a news event.
 
 - (3) Discuss the differences between a hard news story and a feature story. Explain what the five W's and H are. Then do ONE of the following:
+
+  **Resources:** [Feature Writing vs News Writing (video)](https://youtu.be/RTTQ4wgFPW8), [What Are the 5 W's and H in Journalism? (video)](https://youtu.be/YMPjDqzTElU)
+
   - (a) Choose a current or an unusual event of interest to you, and write either a hard news article OR a feature article about the event. Gear the article for print OR online OR audio OR video journalism. Share your article with your counselor.
   - (b) With your parent or guardian's permission and counselor's approval, interview someone in your community who is influential because of his or her leadership, talent, career, or life experiences. Then present to your counselor either a written or oral report telling what you learned about this person.
   - (c) With your parent or guardian's permission and counselor's approval, read an autobiography written by a journalist you want to learn more about. Write an article that tells what you learned about this person and the contributions this person has made to the field of journalism.
   - (d) Attend a Scouting event and write a 200-word article (feature or hard news) about the event. Use either the inverted pyramid style or the chronological style. Review the article with your counselor, then submit it to your community newspaper or Scouting America local council or district newsletter for consideration.
 
+    **Resources:** [What Is the Inverted Pyramid? (video)](https://youtu.be/05wi-BfLDRU)
+
 - (4) Attend a public event and do ONE of the following:
   - (a) Write two articles about the event, one using the inverted pyramid style and one using the chronological style.
   - (b) Using a radio, television, or podcasting style, write a news story, a feature story, and a critical review of the event.
+
+    **Resources:** [How To Write Scripts For Your Podcast (video)](https://youtu.be/eN5YBgu34Fo)
   - (c) Take a series of photographs to help tell the story of the event in pictures. Include news photos and feature photos in your presentation. Write a brief synopsis of the event as well as captions for your photos.
 
+    **Resources:** [What Is Photojournalism? (video)](https://youtu.be/fLeii6OSIAk)
+
 - (5) Identify three career opportunities that would use skills and knowledge in journalism. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
+
+  **Resources:** [How To Become a Journalist (video)](https://youtu.be/AiV26v4hkLs), [What Can I Do With a Journalism Degree? (video)](https://youtu.be/arUtMrYr_zI), [26 Jobs for Journalism Majors (Wordsmith Careers Await) (website)](https://interviewguy.com/jobs-for-journalism-majors/), [What Can You Do With a Journalism Degree? (website)](https://www.extern.com/post/what-can-you-do-with-a-journalism-degree-guide)
 
 ## Resources
 

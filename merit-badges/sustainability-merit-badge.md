@@ -22,14 +22,14 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
     **Resources:** [How We Use Water (video)](https://www.youtube.com/watch?v=dEmYud2wGlc)
   - (b) Explain why water is necessary in our lives. Create a diagram to show how your household gets its clean water from a natural source and what happens with the water after you use it. Tell two ways to preserve your community's access to clean water in the future.
 
-    **Resources:** [How Do We Get Clean Drinking Water? (video)](https://youtu.be/PEKXB3N6g3I?si=bSEBW551c3IzPidg), [Facts About Water (video)](https://www.youtube.com/watch?v=paUYby1kbMs)
+    **Resources:** [Facts About Water (video)](https://www.youtube.com/watch?v=paUYby1kbMs)
   - (c) Different areas of the world are affected by either too much (flooding) or too little (drought) water. Explore whether either or both affect where you live. Identify three water conservation or flood mitigation practices (successful or unsuccessful) that have been tried where you live or in an area of the world that interests you.
 
     **Resources:** [Science Behind Drought (video)](https://youtu.be/Do6cC05LuDs?si=oRn79Edqb-E9F_J1), [Assessing Drought in the United States (video)](https://youtu.be/i7F6QwRqyVI?si=_jFf3kUQjQp_hDrO), [Understanding Floods (video)](https://youtu.be/ivUKLr8q4sE?si=rPVt3EUFGBO_niMp)
 
 - (3) **Food.** Do ONE of the following and discuss with your counselor:
 
-  **Resources:** [Matter and Energy in Food Webs (video)](https://youtu.be/qIgL05zOx5U?si=T5n5awJMxxmXV0Hw), [Food and Energy in Organisms (video)](https://youtu.be/wPhjCn9kq5M?si=Bo_JNmkBG0G63dyi)
+  **Resources:** [Matter and Energy in Food Webs (video)](https://youtu.be/qIgL05zOx5U), [Food and Energy in Organisms (video)](https://youtu.be/wPhjCn9kq5M)
 
   - (a) Explore the sustainability of different types of plant-based, animal-based and aquaculture food. Identify where four different foods (such as milk, eggs, tuna fish, avocados, or ketchup) come from and how they are processed and transported from the source to you.
 
@@ -91,7 +91,7 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
     **Resources:** [Product Life Cycle Assessment (video)](https://www.youtube.com/watch?v=-9JRowyICbo), [Life Cycle Assessment Principles (video)](https://www.youtube.com/watch?v=r0ucT1KRiO4), [Product Life Cycles (video)](https://www.youtube.com/watch?v=u4_evHxlUr4)
   - (d) Learn how the world's population affects the sustainability of Earth. Discuss three human activities that may contribute to putting Earth at risk, now and in the future.
 
-    **Resources:** [Population Affects Resources (video)](https://www.youtube.com/watch?v=V2_LxCLwO2E&t=18s), [How Population Growth Impacts the Planet (video)](https://www.youtube.com/watch?v=mRcxGJcBDVo), [Population affects Sustainability (video)](https://www.youtube.com/watch?v=evp4qGJIqEs)
+    **Resources:** [Population Affects Resources (video)](https://youtu.be/V2_LxCLwO2E), [How Population Growth Impacts the Planet (video)](https://youtu.be/mRcxGJcBDVo)
   - (e) Explain the term species (plant or animal) decline. Share the human activities that contribute to species decline, what can be done to help reverse the decline, and its impact on a sustainable environment.
 
     **Resources:** [Should We Let Pandas Go Extinct? (video)](https://www.youtube.com/watch?v=VEMtc1w4z6c), [Extinction Explained (video)](https://www.youtube.com/watch?v=2N8VkDcIhIk), [Stop Extinction! (video)](https://www.youtube.com/watch?v=dbCR0KSU52g)
@@ -105,7 +105,7 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
     **Resources:** [Sustainable Camping Tips (Packing & Hiking) (video)](https://www.youtube.com/watch?v=plsDrKpN5dM), [What Does LNT Means to Scouts (video)](https://www.youtube.com/watch?v=oTs29BZzf8U)
   - (b) Discuss with your counselor how living by the Scout Oath, Scout Law, Leave No Trace Seven Principles and the Outdoor Code in your daily life helps promote sustainability.
 
-    **Resources:** [Camping Tricks: The Scout Turn Around Rule LNT (video)](https://www.youtube.com/watch?v=kc59VSGN-dg), [Leave No Trace - and There's a Song! (video)](https://www.youtube.com/watch?v=6_jz421duVg%20)
+    **Resources:** [Camping Tricks: The Scout Turn Around Rule LNT (video)](https://youtu.be/kc59VSGN-dg), [Leave No Trace—And There's a Song! (video)](https://youtu.be/6_jz421duVgd)
   - (c) Identify 5 behavioral changes that you and your family can make to improve the sustainability of your household. Share and discuss each with your counselor.
 
     **Resources:** [Sustainability in Your Life (video)](https://www.youtube.com/watch?v=kZIrIQDf1nQ), [10 Ways to Take Care of the Environment (video)](https://www.youtube.com/watch?v=X2YgM1Zw4_E)

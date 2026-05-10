@@ -21,7 +21,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
     **Resources:** [Archery Range Rules (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/Archery%20Range%20Rules.png)
   - (d) Explain how to safely remove arrows from the target and return them to your quiver.
 
-    **Resources:** [How to Safely Pull Your Arrows From The Target (video)](https://youtu.be/E51Y4ZIaJ7k), [Retrieving Arrrows (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/retrieving_arrows.jpeg)
+    **Resources:** [How To Safely Pull Your Arrows From The Target (video)](https://youtu.be/E51Y4ZIaJ7k), [Retrieving Arrows (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/retrieving_arrows.jpeg)
   - (e) Tell your counselor about your local and state laws for owning and using archery equipment.
 
     **Resources:** [Regulations by State (website)](https://www.gearheadarchery.com/regulations/)
@@ -99,7 +99,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
   - **Option B—Compound Bow** Do ALL of the following:
     - (1) Name and point to the parts of the compound bow you are shooting.
 
-      **Resources:** [compound_bow.png (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/compound_bow.png)
+      **Resources:** [compound_bow.png (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/compound_bow.png)
     - (2) Explain how to properly care for and store compound bows.
     - (3) Demonstrate and explain USA Archery's 11 Steps of Shooting for the bow you are shooting.
 

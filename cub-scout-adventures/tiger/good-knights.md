@@ -19,6 +19,8 @@ Discuss with your den or Tiger adult partner what it means to have courteous beh
 
 **Activities:**
 
+- **[A Knight Says](https://www.scouting.org/cub-scout-activities/a-knight-says/)** (Indoor, energy 4, supplies 1, prep 1)
+  Cub Scouts will practice being courteous and kind—like knights—by listening for “please” during a fun variation of the game of Simon Says.
 - **[Courteous Knights](https://www.scouting.org/cub-scout-activities/courteous-knights/)** (Indoor, energy 3, supplies 1, prep 1)
   Cub Scouts will act out acts of being courteous and other points of the Scout Law.
 - **[Modern Knights](https://www.scouting.org/cub-scout-activities/modern-knights/)** (Indoor, energy 1, supplies 1, prep 5)

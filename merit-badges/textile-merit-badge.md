@@ -54,7 +54,7 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
 
 - (6) Explain to your counselor, either verbally or in a written report, five career possibilities in the textile industry. Tell about two positions that interest you the most and the education, cost of training and specific duties those positions require.
 
-  **Resources:** [Careers in the Fashion & Textiles Industry (video)](https://youtu.be/uumtJp43Kfg?si=lOoILqksN5TWYQjK), [Want to Work in the Textiles Industry? (video)](https://youtu.be/Z-WValUr6z8), [Textile Engineering Careers (video)](https://www.youtube.com/shorts/rClr3NSF-CM?feature=share), [Day in the Life of a Textile Engineer (video)](https://youtu.be/Ify9Fo2IhB4)
+  **Resources:** [Day in the Life of a Textile Engineer (video)](https://youtu.be/Ify9Fo2IhB4), [Careers in the Fashion & Textiles Industry (video)](https://youtu.be/uumtJp43Kfg), [Textile Engineering Careers (video)](https://www.youtube.com/shorts/rClr3NSF-CM), [Want To Work in the Textiles Industry? (video)](https://youtu.be/Z-WValUr6z8)
 
 ## Resources
 

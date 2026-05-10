@@ -11,7 +11,7 @@ This merit badge concentrates on two-dimensional art, specifically drawing and p
 
 - (1) Discuss the following with your counselor:
 
-  **Resources:** [What is Art (video)](https://youtu.be/dKM9ZkglGDs?si=coueSTzeFmn89l95)
+  **Resources:** [What Is Art (video)](https://youtu.be/dKM9ZkglGDs)
 
   - (a) What art is and what some of the different forms of art are
   - (b) The importance of art to humankind

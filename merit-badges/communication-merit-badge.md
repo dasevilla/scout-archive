@@ -50,10 +50,10 @@ This clear and concise definition comes from the U.S. Department of Education: â
 - (7) Do ONE of the following:
   - (a) Write to the editor of a magazine or your local newspaper to express your opinion or share information on any subject you choose. Send your message by fax, email, or regular mail.
 
-    **Resources:** [Link to Write to the Editors of Scout Life (website)](https://scoutlife.org/contact-us/communications-mb/%20), [How to Write a Letter to the Editor (video)](https://youtu.be/yxflXSfOalk)
+    **Resources:** [Link To Write to the Editors of Scout Life (website)](https://scoutlife.org/contact-us/communications-mb/%20), [How To Write a Letter to the Editor (video)](https://youtu.be/yxflXSfOalk)
   - (b) Create a webpage or blog of special interest to you (for instance, your troop or crew, a hobby, or a sport). Include at least three articles or entries and one photograph or illustration, and one link to some other webpage or blog that would be helpful to someone who visits the webpage or blog you have created.**Note:** It is not necessary to post your webpage or blog to the internet, but if you decide to do so, you must first share it with your parent or guardian and counselor and get their permission.
 
-    **Resources:** [How to Use Google Sites - Tutorial for Beginners (video)](https://youtu.be/0woNTtlcxgM), [Build a Website in Canva & Host it for FREE (video)](https://youtu.be/A2ky3irNAiw), [Get Your Paper Hand-In Ready (website)](https://www.easybib.com/), [How to Proofready Your Blog (video)](https://vimeo.com/1154745256/49c11cda51?fl=pl&fe=vl)
+    **Resources:** [How to Use Google Sites - Tutorial for Beginners (video)](https://youtu.be/0woNTtlcxgM), [Build a Website in Canva & Host it for FREE (video)](https://youtu.be/A2ky3irNAiw), [Get Your Paper Hand-In Ready (website)](https://www.easybib.com/), [How to Proofread Your Blog (video)](https://vimeo.com/1154745256/49c11cda51?fl=pl&fe=vl)
   - (c) Use desktop publishing to produce a newsletter, brochure, flyer, or other printed material for your troop or crew, class at school, or other group. Include at least one article and one photograph or illustration.
 
     **Resources:** [Canva Brochure Design Tutorial (video)](https://youtu.be/DWiM3GLw0Z8), [How to Make a FLYER in Google Docs (video)](https://youtu.be/7eeUsOQI5EA), [How to Use Lucidpress to Make a Pamphlet or Brochure (video)](https://youtu.be/pPYcPlTFbwU)
@@ -63,6 +63,8 @@ This clear and concise definition comes from the U.S. Department of Education: â
   **Resources:** [Troop Program Features (website)](https://troopleader.scouting.org/program-features/), [Program Feature: Communication (website)](https://troopleader.scouting.org/program-features/communication/), [Troop Courts of Honor (website)](https://troopleader.scouting.org/ceremonies/troop-courts-of-honor/), [Eagle Courts of Honor (website)](https://troopleader.scouting.org/ceremonies/eagle-courts-of-honor/), [Campfire Planning form (PDF)](https://filestore.scouting.org/filestore/pdf/33696.pdf), [Campfire Planning    (website)](https://dragon.sleepdeprived.ca/songbook/campfire_planning.htm), [Interfaith Worship Service (PDF)](https://filestore.scouting.org/filestore/pdf/Interfaithservice.pdf)
 
 - (9) Find out about three career opportunities in communication. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
+
+  **Resources:** [Meet Technical Writers at Google (video)](https://youtu.be/qnnkAWP55Ww), [Public Relations Specialists Careers (video)](https://youtu.be/_C_YAnEwLFI), [Broadcast Announcers and Radio Disc Jockeys Careers (video)](https://youtu.be/ftGPn35lNhw), [News Analysts, Reporters, and Journalists Careers (video)](https://youtu.be/4CCXawD3Z1M), [Media and Communication Occupations (website)](https://www.bls.gov/ooh/media-and-communication/)
 
 ## Resources
 

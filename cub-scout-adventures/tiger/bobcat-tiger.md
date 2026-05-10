@@ -36,6 +36,8 @@ Recite the Scout Oath with your den, including your Tiger adult partner.
 
 **Activities:**
 
+- **[Cub Scout Land](https://www.scouting.org/cub-scout-activities/cub-scout-land-bobcat/)** (Indoor, energy 4, supplies 5, prep 4)
+  This activity is designed to cover requirements 1-5.
 - **[Tiger Chatterbox](https://www.scouting.org/cub-scout-activities/tiger-chatterbox/)** (Indoor, energy 2, supplies 2, prep 2)
   Fold a piece of paper into a chatterbox/fortune teller to introduce the Scout Oath to your Cub Scout.
 - **[Tiger Oath and Law Puzzle](https://www.scouting.org/cub-scout-activities/tiger-oath-and-law-puzzle/)** (Indoor, energy 2, supplies 2, prep 2)

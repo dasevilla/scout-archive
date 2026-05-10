@@ -28,6 +28,10 @@ With your Tiger adult partner, demonstrate Shout, Run, Tell as explained in the 
 
 **Activities:**
 
+- **[Police Officer Visit](https://www.scouting.org/cub-scout-activities/police-officer-visit/)** (Indoor, energy 1, supplies 1, prep 5)
+  Cub Scouts learn about personal safety from a police officer.
+- **[Shout Run and Tell Worksheet](https://www.scouting.org/cub-scout-activities/shout-run-and-tell-worksheet/)** (Indoor, energy 1, supplies 2, prep 1)
+  Tigers will complete a shout Run Tell worksheet.
 - **[Shout, Run, Tell Relay](https://www.scouting.org/cub-scout-activities/shout-run-tell-relay/)** (Indoor, energy 5, supplies 1, prep 1)
   A relay race where Cub Scouts will  demonstrate  Shout, Run, Tell.
 

@@ -15,7 +15,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
     **Resources:** [Being Physically Fit (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/physically_fit_people.pdf)
   - (b) Describe a person who is mentally, emotionally and socially fit.
 
-    **Resources:** [Being Mentally, Emotionally, and Socially Fit (video)](https://www.pbs.org/video/wellness-mind-frame-7um7lc/%20)
+    **Resources:** [Being Mentally, Emotionally, and Socially Fit (video)](https://youtu.be/pfCWNkQEsLA)
   - (c) Describe a person who is spiritually fit.
 
     **Resources:** [Being Spiritually Fit (video)](https://youtu.be/8gZ_JbDgERs)

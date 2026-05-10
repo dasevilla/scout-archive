@@ -17,7 +17,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
     **Resources:** [6 Campfire Cooking Mistakes to Avoid *Do This Instead* (video)](https://youtu.be/mJvu1d-Y10I?si=tRd5StGLFOf7OlQX), [5 Mistakes EVERY New Camper Makes COOKING (video)](https://youtu.be/qBdJOYEvA0A?si=s7XfLMxdfBIC59xv)
   - (b) Show that you know first aid for and how to prevent injuries or illnesses that could occur while preparing meals and eating, including burns and scalds, cuts, choking, and allergic reactions.
 
-    **Resources:** [Treating Burns and Cuts (video)](https://www.youtube.com/watch?v=tm0mRPy2VH4), [Food Allergy with Anaphylaxis (video)](https://www.youtube.com/watch?v=veHAMX6vukY), [What to Do When an Adult is Choking (Responsive) (video)](https://youtu.be/8R3RWC-xx1I?si=SzH8cXYSs0BrEKwR)
+    **Resources:** [Food Allergy with Anaphylaxis (video)](https://youtu.be/veHAMX6vukY), [What To Do When an Adult Is Choking (Responsive) (video)](https://youtu.be/8R3RWC-xx1I)
   - (c) Describe how meat, fish, chicken, eggs, dairy products, and fresh vegetables should be stored, transported, and properly prepared for cooking. Explain how to prevent cross-contamination.
 
     **Resources:** [Basic Food Safety: Avoiding Cross Contamination (video)](https://youtu.be/yiNTqUU-h6w?si=vlMbmOnZnVFqYRTW)

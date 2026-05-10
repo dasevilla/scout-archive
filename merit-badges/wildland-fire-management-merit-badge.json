@@ -448,9 +448,9 @@
       "label": "8",
       "text": "Explain the following wildland fire suppression tactics and under which conditions they would be used to achieve objectives. Use your own diagrams if necessary.",
       "requirement_path": "8",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",

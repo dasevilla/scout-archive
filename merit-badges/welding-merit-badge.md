@@ -15,7 +15,7 @@ Welding is the process of joining with a weld – joining or combining similar p
     **Resources:** [Keep Yourself Safe: 6 Welding Safety Hazards & How To Avoid Them  (video)](https://youtu.be/-oq3mS7EBX8?si=ePEbVQwTrMP92s8X)
   - (b) Show that you know first aid for, and the prevention of, injuries or illnesses that could occur while welding, including electrical shock, eye injuries, burns, fume inhalation, dizziness, skin irritation, and exposure to hazardous chemicals, including filler metals and welding gases.
 
-    **Resources:** [How to Treat Welding Burns (website)](https://weldingheadquarters.com/how-to-treat-welding-burns/?utm_source=chatgpt.com)
+    **Resources:** [How To Treat Welding Burns (website)](https://weldingheadquarters.com/how-to-treat-welding-burns/)
 
 - (2) Do the following:
   - (a) With your counselor, discuss general safety precautions and safety data sheets (SDS) related to welding. Explain the importance of the SDS.
@@ -45,16 +45,16 @@ Welding is the process of joining with a weld – joining or combining similar p
 - (6) After successfully completing requirements 1 through 5, use the equipment you prepared for the welding process in 5(b) to do the following:
   - (a) Using a metal scribe or soapstone, sketch your initial onto a metal plate, and weld a bead on the plate following the pattern of your initial.
 
-    **Resources:** [Welding letters and numbers for a casting form (video)](https://youtu.be/UBbdcviujmM?si=NwNeRUjFrwt8rFOU%20)
+    **Resources:** [Welding Letters and Numbers for a Casting Form (video)](https://youtu.be/UBbdcviujmM%20)
   - (b) Cover a small plate (approximately 3" x 3" x 1/4") with weld beads side by side.
 
-    **Resources:** [The First Lesson of Welding | Learning to Run Beads (video)](https://youtu.be/g7qgPldYDuY?si=qzhUPLUcxtXtNABM)
+    **Resources:** [The First Lesson of Welding | Learning To Run Beads (video)](https://youtu.be/g7qgPldYDuY)
   - (c) Tack two plates together in a square groove butt joint.
 
-    **Resources:** [How to Weld a Butt Joint (video)](https://youtu.be/3-ebx3hWu0Q?si=kV-5_qfTM5SZ3BC7)
+    **Resources:** [How To Weld a Butt Joint (video)](https://youtu.be/3-ebx3hWu0Q)
   - (d) Weld the two plates together from 6(c) on both sides.
 
-    **Resources:** [How to Weld a Butt Joint (video)](https://youtu.be/3-ebx3hWu0Q?si=kV-5_qfTM5SZ3BC7)
+    **Resources:** [How To Weld a Butt Joint (video)](https://youtu.be/3-ebx3hWu0Q)
   - (e) Tack two plates together in a T joint, have your counselor inspect it, then weld a T joint with fillet weld on both sides.
 
     **Resources:** [Helpful Tips for Tacking and MIG Welding Fillet Joints (video)](https://youtu.be/zFIdiTJxii4?si=5gysckooa-vsCXmT)

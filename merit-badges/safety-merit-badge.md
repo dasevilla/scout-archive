@@ -15,7 +15,7 @@ Knowing about safety helps Scouts to make the right choices and to take the best
     **Resources:** [What is Safety? (video)](https://youtu.be/qNmd4z2VFAY?si=KG7EvkG4mt08gSxz), [What Does Safety Mean to You? (video)](https://youtu.be/GRqwuAMqjnY)
   - (b) Explain what hazards are and how people manage hazards to reduce risks of harm and to improve safety.
 
-    **Resources:** [Hazard and Risk - What's the Difference? (video)](https://youtu.be/_GwVTdsnN1E?si=FyaKmgWPC4Hrod-P)
+    **Resources:** [Hazard and Risk—What's the Difference? (video)](https://youtu.be/_GwVTdsnN1E?si=FyaKmgWPC4Hrod-P)
 
 - (2) **Family and Home Safety.** Do the following:
   - (a) Explain common causes of and prevention of home injuries.
@@ -26,7 +26,7 @@ Knowing about safety helps Scouts to make the right choices and to take the best
     **Resources:** [Fireworks Safety (video)](https://youtu.be/8HxuUMoJyGA?si=bmAF8-rKBe0A1g1v), [Dangers of Fireworks (website)](https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/use-caution-with-fireworks)
   - (c) Explain common causes of and prevention of home fires.
 
-    **Resources:** [5 Causes of Home Fires (website)](https://www.nfpa.org/news-blogs-and-articles/blogs/2020/12/17/most-home-fires-result-from-five-general-causes)
+    **Resources:** [5 Most Common Causes of House Fires (website)](https://www.injurylawyers.com/blog/5-leading-causes-of-house-fires/)
   - (d) Using the Home Safety Checklist in the *Safety* merit badge pamphlet, or one approved by your counselor, inspect your home or a similar building for hazards with an adult. Review your checklist and findings with your counselor.
 
     **Resources:** [Home Safety Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Home%20Safety%20Checklists%20%231%20%23%202%2001%202026.pdf)
@@ -39,6 +39,8 @@ Knowing about safety helps Scouts to make the right choices and to take the best
 
 - (3) **Safety from Crime.** Do the following:
   - (a) Explain common types of crimes that can affect teens.
+
+    **Resources:** [What Crimes Do Juveniles Commit the Most: Types and Trends (website)](https://legalclarity.org/what-crimes-do-juveniles-commit-the-most/), [Risk Factors for Youth Violence and Victims (website)](https://www.cdc.gov/youth-violence/risk-factors/index.html)
   - (b) Using a Home Security Checklist in the *Safety* merit badge pamphlet or one approved by your counselor, inspect your home or a similar building for crime security measures with an adult. Review your checklist and findings with your counselor.
 
     **Resources:** [Home Security Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf)
@@ -62,7 +64,11 @@ Knowing about safety helps Scouts to make the right choices and to take the best
 
     **Resources:** [Youth Protection Policies (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod4%20Final%20Master%20Small.mp4)
   - (b) Discuss with your counselor what situations and behaviors would prompt you to Recognize, Resist, and Report a possible abuse situation.
+
+    **Resources:** [Personal Safety Awareness (website)](https://www.scouting.org/training/youth/scouts-bsa/)
   - (c) Discuss how you, other Scouts, leaders, and anyone can report situations suspicious for abuse through the Scouts First Helpline and other means.
+
+    **Resources:** [When Bullying Becomes Serious (website)](https://blog.scoutingmagazine.org/2017/10/18/bullying-what-to-do-when-you-spot-it/), [We Are All Mandatory Reporters (website)](https://blog.scoutingmagazine.org/2025/04/14/when-it-comes-to-child-protection-we-are-all-mandatory-reporters/)
 
 - (6) **Safety from Assault.** Explain how to avoid or prevent:
   - (a) Assault on a street
@@ -86,8 +92,10 @@ Knowing about safety helps Scouts to make the right choices and to take the best
     **Resources:** [Preventing Identity Theft (video)](https://youtu.be/kDFeSUUwRnA?si=ncAfMQF1RIdIWetC)
   - (e) How criminals use social media to target victims
 
-    **Resources:** [How Criminals Use Social Media (video)](https://youtu.be/5bdBvNCBeho?si=bJdF2LM50LG_tm74)
+    **Resources:** [Together We Can Stop Online Exploitation (video)](https://youtu.be/PEKAsg9jxtw), [MyFriendToo (website)](https://www.myfriendtoous.org/)
   - (f) How bullying, texting, and sharing photos can become crimes
+
+    **Resources:** [When Bullying Becomes a Crime (video)](https://youtu.be/d9qpM85HhuM), [Cyber-Bullying Facts—Top 10 Forms of Cyber Bullying (video)](https://youtu.be/0Xo8N9qlJtk)
 
 - (8) **Travel Safety.** Explain guidelines for traveling safely:
   - (a) As a pedestrian in a city

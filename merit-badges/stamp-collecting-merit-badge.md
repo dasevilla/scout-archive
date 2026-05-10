@@ -104,7 +104,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
 - (7) Do TWO of the following:
   - (a) Design a stamp, cancellation, or cachet.
 
-    **Resources:** [Creativity in Cachets (video)](https://youtu.be/sz84x5n22wY?si=GpQuXf6hM3BWDrC8), [Pictorial Postmarks (video)](https://youtu.be/GW5b6RJpLCg?si=QmKSTvjWRPRmJncK), [What Makes a Good Stamp Design (PDF)](https://fws.gov/sites/default/files/documents/duck-stamp-what-makes-a-good-stamp-design.pdf)
+    **Resources:** [Creativity in Cachets (video)](https://youtu.be/sz84x5n22wY?si=GpQuXf6hM3BWDrC8), [Pictorial Postmarks (video)](https://youtu.be/GW5b6RJpLCg?si=QmKSTvjWRPRmJncK), [What Makes a Good Stamp Design (video)](https://www.fws.gov/sites/default/files/documents/duck-stamp-what-makes-a-good-stamp-design.pdf), [Designing Your Own Stamp, Cancellation or Cachet (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Stamp%20Collecting/Stamp%20Collecting_2024%20Fun%20Project.pdf)
   - (b) Visit a post office, stamp club, or stamp show with an experienced collector. Explain what you saw and learned.
 
     **Resources:** [Visiting a Stamp Show (video)](https://youtu.be/5bImEro1G30?si=nz4q-uxDtxbHqgXZ), [The Great American Stamp Show 2024 Wrap Up! (video)](https://youtu.be/Gtpcz8eCdSU?si=qkd88rX16c3iYwPv), [The Great American Stamp Show 2025 (video)](https://youtu.be/867c5dwUzp0?si=F9Lz9rgw2RRY3Zv1)

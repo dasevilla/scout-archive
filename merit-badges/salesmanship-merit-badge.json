@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Salesmanship.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Salesmanship.docx",
   "shop_url": "https://www.scoutshop.org/bsa-salesmanship-merit-badge-pamphlet-boy-scouts-of-america-660398.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/Salesmanship-qjjk7p7ex1rmni5l9zqta1xnjo0npalz3uxtbivwps.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/Salesmanship.png",
   "image_filename": "salesmanship-merit-badge.jpg",
   "requirements": [
     {
@@ -223,9 +223,9 @@
       "label": "5",
       "text": "Do ONE of the following and keep a record (cost sheet). Use the sales techniques you have learned, and share your experience with your counselor:",
       "requirement_path": "5",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",

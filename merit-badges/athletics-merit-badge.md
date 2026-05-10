@@ -15,7 +15,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     **Resources:** [Preventing Injuries in Youth Athletes (video)](https://youtu.be/yC3blqv3kp4?si=TLnyOxBv96ZuyubP)
   - (b) Show that you know first aid for injuries or illnesses that could occur while participating in athletics events, including sprains, strains, contusions, abrasions, blisters, dehydration, heat reactions, and concussions.
 
-    **Resources:** [Using the Rice Method for Injuries - Rest, Ice, Compress, Elevate (video)](https://youtu.be/TZqDBgiEfL8?si=RV6nOMJpa0Rc2LbT), [How to Treat Cuts & Scrapes (video)](https://youtu.be/L77rERL64zc?si=VZiIB3O9QKOg_diX), [Top 10 Most Common Sports Injuries (and How to Prevent Them!) (video)](https://youtu.be/OcGeUdfL-s4?si=-4uuzL95rK4Is-T2)
+    **Resources:** [Using the RICE Method for Injuries - Rest, Ice, Compress, Elevate (video)](https://youtu.be/TZqDBgiEfL8), [How To Treat Cuts & Scrapes (video)](https://youtu.be/L77rERL64zc), [Top 10 Most Common Sports Injuries (and How To Prevent Them!) (video)](https://youtu.be/OcGeUdfL-s4)
 
 - (2) Do the following with your counselor:
   - (a) Discuss the importance of having a physical examination each year. Discuss why overall health, immunizations, medications, allergies, and medical history are covered during an examination. Tell your counselor when you last underwent a physical examination.
@@ -26,7 +26,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     **Resources:** [Nutrition Tips for High School Athletes (video)](https://youtu.be/dISDEsTr1Rc?si=4QkQnfQQjYs4GRuf), [Refusing Use of Harmful Substances (video)](https://youtu.be/_NUo_52vkkg?si=cy-fCChvsa8SVNQT)
   - (c) Describe the elements of a nutritious, balanced diet, and explain what you do to maintain a healthy diet.
 
-    **Resources:** [What is MyPlate? (website)](https://www.myplate.gov/eat-healthy/what-is-myplate)
+    **Resources:** [What Is MyPlate? (website)](https://www.myplate.gov/eat-healthy/what-is-myplate)
 
 - (3) Select an athletic activity that interests you, then do the following:
 
@@ -57,12 +57,12 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     **Resources:** [What Is an Amateur (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Athletics/amateur_vs_professional.pdf)
   - (d) Discuss the traits and importance of good sportsmanship. Tell what role sportsmanship plays in both individual and group athletic activities.
 
-    **Resources:** [What is Good Sportsmanship? (video)](https://youtu.be/KoDu2FpU57c?si=UgLWB7uM9iY3FQBj), [Olympians' Display of Sportsmanship Fosters Positive Attitudes (video)](https://youtu.be/rNcfqOqDbsU?si=2C-x-nzDi7v94t50), [What Does Sportsmanship Mean to You (video)](https://youtu.be/BvheyBiD6Qs?si=ZzEwe2jDYlgrIBaU)
+    **Resources:** [What Is Good Sportsmanship? (video)](https://youtu.be/KoDu2FpU57c), [Olympians' Display of Sportsmanship Fosters Positive Attitudes (video)](https://youtu.be/rNcfqOqDbsU), [What Does Sportsmanship Mean to You (video)](https://youtu.be/BvheyBiD6Qs)
 
 - (5) Complete the activities in FOUR of the following options and show improvement over a three-month period:
   - **Option A—Sprinting.** Do ALL of the following:
 
-    **Resources:** [How to Sprint (video)](https://youtu.be/2twa8CAFPls?si=TFVD802jIvX0kmMW)
+    **Resources:** [How To Sprint (video)](https://youtu.be/2twa8CAFPls)
 
     - (1) 100-meter dash
     - (2) 200-meter dash
@@ -82,17 +82,17 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
   - **Option D—Swimming.** Do ALL of the following:
     - (1) 100-meter swim
 
-      **Resources:** [How to Swim Laps (video)](https://youtu.be/G-Gy76-tGLE?si=ZApjnanynnuBlUWJ)
+      **Resources:** [How To Swim Laps (video)](https://youtu.be/G-Gy76-tGLE)
     - (2) 200-meter swim
 
-      **Resources:** [Best Way to Swim a 200m (video)](https://youtu.be/libZMpLYfEM?si=_nSxrUPF1rA317sr)
+      **Resources:** [Best Way To Swim a 200m (video)](https://youtu.be/libZMpLYfEM)
   - **Option E—Pull-Ups AND Push-Ups.** Do ALL of the following:
     - (1) Pull-ups in two minutes
 
-      **Resources:** [How to Do a Pull-Up (video)](https://youtu.be/eSPO3E7Qoy4?si=1gK0noTZ_uAteC2P)
+      **Resources:** [How To Do a Pull-Up (video)](https://youtu.be/eSPO3E7Qoy4)
     - (2) Push-ups in two minutes
 
-      **Resources:** [How to Do a Push-Up (video)](https://youtu.be/x-bWOeFFQvk?si=uR2OS3C6KUvyjuSJ)
+      **Resources:** [How To Do a Push-Up (video)](https://youtu.be/x-bWOeFFQvk)
   - **Option F—Baseball Throw.** Do ALL of the following:
 
     **Resources:** [How to Throw a Baseball (video)](https://youtu.be/UHRU973uu2c?si=eu9KwMfgqkKxrSCK)

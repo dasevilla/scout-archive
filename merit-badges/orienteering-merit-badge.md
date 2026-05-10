@@ -48,7 +48,7 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
     **Resources:** [International Orienteering Symbols (PDF)](https://carolinaorienteering.com/wp-content/uploads/Orienteering-Clue-Symbols.pdf)
   - (b) Show a control description sheet and explain the information provided.
 
-    **Resources:** [Key Terms (website)](https://orienteering-sport.com/control-descriptions)
+    **Resources:** [Control Descriptions (website)](https://backwoodsok.org/control-descriptions-and-map-symbols-explained)
   - (c) Explain the following terms and tell when you would use them: attack point, collecting feature, catching feature, aiming off, contouring, reading ahead, handrail, relocation, and rough versus fine orienteering.
 
     **Resources:** [Setting Up an Orienteering Course (website)](https://betterorienteering.org/intermediate-techniques)
@@ -63,9 +63,9 @@ Orienteering, the use of map and compass to find locations and plan a journey, h
   - (a) Set up a cross-country course that is at least 2,000 meters long with at least five control markers. Prepare the master map and control description sheet.
   - (b) Set up a score orienteering course with at least 12 control points and a time limit of at least 60 minutes. Set point values for each control. Prepare the master map and control description sheet.
 
-- (9) Act as an official during an orienteering event. This may be during the running of the course you set up for requirement 8.
+    **Resources:** [How To Setup a Compass Course (video)](https://youtu.be/IfSaBKaau4k)
 
-  **Resources:** [How to Setup a Compass Course (video)](https://youtu.be/IfSaBKaau4k?si=e-jJhIclbeNvXswp)
+- (9) Act as an official during an orienteering event. This may be during the running of the course you set up for requirement 8.
 
 - (10) Teach orienteering techniques to your patrol, troop or crew.
 

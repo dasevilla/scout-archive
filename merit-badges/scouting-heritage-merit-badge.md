@@ -11,7 +11,7 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
 
 - (1) Discuss with your counselor the life and times of Lord Baden-Powell of Gilwell. Explain why he felt a program like Scouting would be good for the young men of his day. Include in your discussion how Scouting was introduced in the United States, and the origins of Boy Scouting and Cub Scouting under Baden-Powell.
 
-  **Resources:** [Baden Powell - Father of Scouting, Origins of Scouting (video)](https://www.youtube.com/watch?v=tn9S4qB-fdw&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=1)
+  **Resources:** [Baden Powell - Father of Scouting, Origins of Scouting (video)](https://youtu.be/9iD9kYVc_WQ)
 
 - (2) Do the following:
   - (a) Give a short biographical summary of any TWO of the following, and tell of their roles in how Scouting developed and grew in the United States.
@@ -51,14 +51,13 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
       **Resources:** [Artifact of the Week - World Scout Jamborees Part 01 (video)](https://www.youtube.com/watch?v=8p-SalnhA4Q), [Artifact of the Week - World Scout Jamborees Part 02 (video)](https://www.youtube.com/watch?v=JjdgmAKqUS4)
     - (3) *Scouts BSA Handbook*
 
-      **Resources:** [NSM History of the Scout Handbook (video)](https://www.youtube.com/watch?v=X2njF0Sv5q8&t=2s), [Artifact of the Week - First Scout Handbook (video)](https://www.youtube.com/watch?v=JaGjYXkcyLU&t=2s)
-    - (4) *Scout Life* magazine (formerly *Boys' Life*)
-
-      **Resources:** [Artifact of the Week - Boys' Life to Scout Life (video)](https://www.youtube.com/watch?v=R55NMMY21TM), [The Story of Boys' Life / Scout Life (video)](https://www.youtube.com/watch?v=OIyZwBnlF5c)
+      **Resources:** [NSM History of the Scout Handbook (video)](https://youtu.be/X2njF0Sv5q8), [Artifact of the Week - First Scout Handbook (video)](https://youtu.be/JaGjYXkcyLU)
+    - (4) *Scout Life* magazine (formerly *Boys' Life*) Resources: [Artifact of the Week—*Boys' Life* to *Scout Life* (video)](https://youtu.be/R55NMMY21TM)
+      [The Story of *Boys' Life* /*Scout Life* (video)](https://youtu.be/OIyZwBnlF5c)
 
 - (3) Discuss with your counselor how Scouting's programs have developed over time and been adapted to fit different age groups and interests (Cub Scouting, Scouts BSA, Exploring, Venturing).
 
-  **Resources:** [Legacy Video Scouting History Timeline (video)](https://youtu.be/KavSY2fFb-4?si=BmKsD_8QHVTJ-pGd), [Artifact of the Week - Development of Cub Scouting (video)](https://youtu.be/p8DUnLSK3Zo?si=xIdh_FcI2SZ8JQ4a), [Artifact of the Week - Sea  Scouts (video)](https://youtu.be/FxKOogN-oiU?si=dqO2hetBuV0FoTXg), [History of Exploring (website)](https://www.scouting.org/commissioners/exploring-a-bit-of-a-background/), [20 Facts About Venturing (website)](https://blog.scoutingmagazine.org/2018/02/09/20-facts-about-venturing-on-the-programs-20th-birthday/)
+  **Resources:** [Scouting History Timeline (video)](https://youtu.be/33Qn5-chofk), [Artifact of the Week—Development of Cub Scouting (video)](https://youtu.be/p8DUnLSK3Zo), [Artifact of the Week—Sea  Scouts (video)](https://youtu.be/FxKOogN-oiU), [History of Exploring (website)](https://www.scouting.org/commissioners/exploring-a-bit-of-a-background/), [20 Facts About Venturing (website)](https://blog.scoutingmagazine.org/2018/02/09/20-facts-about-venturing-on-the-programs-20th-birthday/)
 
 - (4) Do ONE of the following:
   - (a) Attend either a Scouting America National Jamboree, OR World Scout Jamboree, OR a national Scouting America high-adventure base. While there, keep a journal documenting your day-to-day experiences. Upon your return, report to your counselor what you did, saw, and learned. You may include photos, brochures, and other documents in your report.
@@ -68,6 +67,8 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
 
     **Resources:** [National Scouting Museum at Summit Bechtel Reserve Virtual Tour (video)](https://www.youtube.com/watch?v=QU8IcMvygmc&list=PLeqxtqwBBzS_SXfxztRYSvmUzirJSZ1SU&index=8), [National Scouting Museum at Philmont Virtual Tour (website)](https://www.philmontscoutranch.org/museums/national-scouting-museum-virtual-tour/)
   - (c) Visit an exhibit of Scouting memorabilia or a local museum with a Scouting history gallery, or (with your parent or guardian's permission and counselor's approval) visit with someone in your council who is recognized as a dedicated Scouting historian or memorabilia collector. Learn what you can about the history of Scouting America. Give a short report to your counselor on what you saw and learned.
+
+    **Resources:** [Interactive Scouting Museum Map (website)](https://www.google.com/maps/d/u/0/viewer?mid=1shEPLaVDO3GPNW8-4HCVVdfUWFK1KKU&femb=1&ll=40.002876433582884%2C-96.50590200000002&z=4)
 
 - (5) Research the history of your unit, council, summer camp, or Order of the Arrow lodge. With the permission of a parent or guardian, your research methods may include an internet or library search, interviews with Scout leaders, or visits to locations where you learn about your topic. Prepare an oral or written report, a presentation, or a video of your research and review it with your counselor.
 

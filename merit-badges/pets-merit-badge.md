@@ -28,8 +28,10 @@ Pet ownership is a mixture of fun, excitement, responsibility, commitment, expen
     **Resources:** [Easiest Way to Teach Your Dog to Roll Over (video)](https://www.youtube.com/watch?v=IsJ0VdeOJcg%20), [Train Your Cat to Do Fun Tricks (video)](https://www.youtube.com/watch?v=oX7vgQTK9fo), [How I Trained My Cat to Fetch (video)](https://www.youtube.com/watch?v=zrDskEObBs8)
 
 - (5) Do ONE of the following:
-  - (a) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
+  - (a) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career. Resource: [15 Awesome Jobs for Animal Lovers (video)](https://youtu.be/k5LGDo2OwY8)
   - (b) Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.
+
+    **Resources:** [Animal Hobbies (video)](https://youtu.be/U8RImRv8HC0)
 
 ## Resources
 

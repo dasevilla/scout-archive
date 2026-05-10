@@ -21,6 +21,8 @@ Explain the meaning of “order of rescue” and demonstrate the reach and throw
 
 - **[Order of Rescue AOL](https://www.scouting.org/cub-scout-activities/order-of-rescue-aol/)** (Travel, energy 4, supplies 3, prep 5)
   Cub Scouts learn order of rescue and reach and throw rescue techniques.
+- **[Pack Swimming Relay](https://www.scouting.org/cub-scout-activities/pack-swimming-relay/)** (Travel, energy 5, supplies 5, prep 5)
+  Work as a pack to complete Swimming Adventure requirements across all ranks
 
 ### Requirement 3
 

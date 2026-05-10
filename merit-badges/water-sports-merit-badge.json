@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Water-Sports.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Water-Sports.docx",
   "shop_url": "https://www.scoutshop.org/water-sports-merit-badge-pamphlet-649657.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/Water-sports-patch-qjjk7o9kq7qcbw6yfhc6pk66ya5ahli8rqabu8xaw0.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2023/01/Water-sports-patch.png",
   "image_filename": "water-sports-merit-badge.jpg",
   "requirements": [
     {
@@ -58,7 +58,28 @@
               "value": "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that could occur while participating in water sports: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, strains, minor cuts and bruises, spinal injury, and concussions and head trauma."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Cold Water Shock—How To Deal With Cold Water Shock (video)",
+              "url": "https://youtu.be/rH3gZuSr6Y8"
+            },
+            {
+              "title": "What Happens if You Don't Drink Enough Water? Signs of Dehydration + 4 Ways To Keep Hydrated (video)",
+              "url": "https://youtu.be/EmNieKLjmH4"
+            },
+            {
+              "title": "Dangers of Heat-Related Illnesses (video)",
+              "url": "https://youtu.be/Rz6Wxiv4aRA"
+            },
+            {
+              "title": "What Causes Sunburns? (video)",
+              "url": "https://youtu.be/9aFm087_XWg"
+            },
+            {
+              "title": "Sprain Care With RICE Method (video)",
+              "url": "https://youtu.be/z1gbB_peVDQ"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -75,7 +96,12 @@
               "value": "Review the Scouting America Safety Afloat policy. Tell how it applies to water sports."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Safety Afloat (website)",
+              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -127,7 +153,12 @@
               "value": "Review and discuss the Water Sports Safety Code with your counselor. Promise that you will live up to it and follow it in all water work for this merit badge. Review the safety precautions that must be used by the boat operator in pulling waterskiers and wakeboarders."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Watersports Safety Code (PDF)",
+              "url": "http://www.usscouts.org/mb/docs/Water-Sports-Safety-Code.pdf"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -135,7 +166,7 @@
     {
       "id": "7415",
       "label": "3",
-      "text": "Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test.\nNote: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
+      "text": "Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test. Note: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
       "requirement_path": "3",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -144,18 +175,6 @@
         {
           "type": "text",
           "value": "Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test. "
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
         },
         {
           "type": "element",
@@ -188,7 +207,12 @@
           "value": " merit badge pamphlet for details about the Scouting America swimmer test."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Swimming Merit Badge  Pamphlet (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -205,7 +229,12 @@
           "value": "Show the following skier signals to the safety observer in the boat: skier safe, faster, slower, turns, back to dock, cut motor, skier in water."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Towed Watersports Hand Signals  (PDF)",
+          "url": "https://aceboater.com/common-hand-signals-for-boaters"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -238,7 +267,24 @@
               "value": "Show how to enter the water from a boat and make a deepwater start without help."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How To Get Up on a Wakeboard (video)",
+              "url": "https://youtu.be/7h9n_qzP6HY"
+            },
+            {
+              "title": "How To Stand Up on Water Skis (video)",
+              "url": "https://youtu.be/e1yqFxHQz6s"
+            },
+            {
+              "title": "How To Water-Ski for Beginners (video)",
+              "url": "https://youtu.be/df9-EjiGy8A"
+            },
+            {
+              "title": "How To Ski on One Ski (video)",
+              "url": "https://youtu.be/rudwod76If8"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -255,7 +301,20 @@
               "value": "Starting from outside the wakes, show you can cross both wakes four times and return to the center of the wake each time, without falling."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Wakeboad Tutorial: Moving Around/Edging (video)",
+              "url": "https://youtu.be/mSJ8x0vXkWk"
+            },
+            {
+              "title": "How To Carve and Cross the Wake (Wakeboard) (video)",
+              "url": "https://youtu.be/p1BbmMuDbQE"
+            },
+            {
+              "title": "How To Get Started in Water Skiing (video)",
+              "url": "https://youtu.be/0wsEnL763c4"
+            }
+          ],
           "sub_requirements": []
         },
         {

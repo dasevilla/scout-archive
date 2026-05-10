@@ -55,7 +55,7 @@ Engineers use both science and technology to turn ideas into reality, devising a
 
 - (7) Explain what it means to be a registered Professional Engineer (P.E.). Name the types of engineering work for which registration is most important.
 
-  **Resources:** [How to Become an Engineer & Types of Engineering Careers (video)](https://youtu.be/PUBAxUkMcr8?si=gbNgbsuYrLQo0fzr)
+  **Resources:** [How To Become an Engineer & Types of Engineering Careers (video)](https://youtu.be/PUBAxUkMcr8)
 
 - (8) Study the Engineer's Code of Ethics. Explain how it is like the Scout Oath and Law.
 
@@ -63,7 +63,7 @@ Engineers use both science and technology to turn ideas into reality, devising a
 
 - (9) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
-  **Resources:** [How to Become an Engineer (video)](https://youtu.be/77xMVKOEZ5g?si=0S6EGyT8giw78chg)
+  **Resources:** [How To Become an Engineer (video)](https://youtu.be/77xMVKOEZ5g)
 
 ## Resources
 

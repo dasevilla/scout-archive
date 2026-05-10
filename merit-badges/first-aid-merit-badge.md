@@ -289,7 +289,7 @@ First aid—caring for injured or ill persons until they can receive professiona
 
 - (14) With guidance from your counselor, develop a plan to teach a first-aid skill or topic using the EDGE method. Discuss your skill, topic, and plan with your counselor, and then teach your skill or topic to your family or to one or more Scouts.
 
-  **Resources:** [The Teaching EDGE: The best way to teach someone a new skill (website)](https://blog.scoutingmagazine.org/2017/05/05/living-on-the-edge-this-is-the-correct-way-to-teach-someone-a-skill/)
+  **Resources:** [The Teaching EDGE: The Best Way To Teach Someone a New Skill (website)](https://blog.scoutingmagazine.org/2017/05/05/living-on-the-edge-this-is-the-correct-way-to-teach-someone-a-skill/)
 
 - (15) Do ONE of the following:
   - (a) Visit an emergency medical station house or training center in person. From the medical first responders that you meet during your visit, learn about how they serve their community and about their careers. Discuss with your counselor what you learned during your tour and interviews.

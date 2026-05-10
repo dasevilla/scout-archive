@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Dog-Care.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Dog-Care.docx",
   "shop_url": "https://www.scoutshop.org/bsa-dog-care-merit-badge-pamphlet-661048.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/DogCare-qjjk7nbqjdp20a8bkyxk52eqcw9x9weiflmucyyp28.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2023/01/DogCare.png",
   "image_filename": "dog-care-merit-badge.jpg",
   "requirements": [
     {
@@ -290,9 +290,9 @@
       "label": "6",
       "text": "Do the following.",
       "requirement_path": "6",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",

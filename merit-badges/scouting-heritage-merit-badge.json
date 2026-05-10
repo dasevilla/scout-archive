@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Scouting-Heritage.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Scouting-Heritage.docx",
   "shop_url": "https://www.scoutshop.org/scouting-heritage-merit-badge-pamphlet-662432.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/ScoutingHeritage-qjjk7nbqjdp20a8bkyxk52eqcw9x9weiflmucyyp28.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2023/01/ScoutingHeritage.png",
   "image_filename": "scouting-heritage-merit-badge.jpg",
   "requirements": [
     {
@@ -28,7 +28,7 @@
       "resources": [
         {
           "title": "Baden Powell - Father of Scouting, Origins of Scouting (video)",
-          "url": "https://www.youtube.com/watch?v=tn9S4qB-fdw&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=1"
+          "url": "https://youtu.be/9iD9kYVc_WQ"
         }
       ],
       "sub_requirements": []
@@ -352,11 +352,11 @@
               "resources": [
                 {
                   "title": "NSM History of the Scout Handbook (video)",
-                  "url": "https://www.youtube.com/watch?v=X2njF0Sv5q8&t=2s"
+                  "url": "https://youtu.be/X2njF0Sv5q8"
                 },
                 {
                   "title": "Artifact of the Week - First Scout Handbook (video)",
-                  "url": "https://www.youtube.com/watch?v=JaGjYXkcyLU&t=2s"
+                  "url": "https://youtu.be/JaGjYXkcyLU"
                 }
               ],
               "sub_requirements": []
@@ -364,7 +364,7 @@
             {
               "id": "15648",
               "label": "4",
-              "text": "Scout Life magazine (formerly Boys' Life)",
+              "text": "Scout Life magazine (formerly Boys' Life) Resources: Artifact of the Week—Boys' Life to Scout Life (video)\nThe Story of Boys' Life /Scout Life (video)",
               "requirement_path": "2.b.4",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -398,19 +398,106 @@
                 },
                 {
                   "type": "text",
-                  "value": ")"
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Artifact of the Week - Boys' Life to Scout Life (video)",
-                  "url": "https://www.youtube.com/watch?v=R55NMMY21TM"
+                  "value": ") Resources: "
                 },
                 {
-                  "title": "The Story of Boys' Life / Scout Life (video)",
-                  "url": "https://www.youtube.com/watch?v=OIyZwBnlF5c"
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/R55NMMY21TM"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Artifact of the Week—"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "em",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Boys' Life"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " to "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "em",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Scout Life"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " (video)"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://youtu.be/OIyZwBnlF5c"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The Story of "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "em",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Boys' Life"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " /"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "em",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Scout Life"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " (video)"
+                    }
+                  ]
                 }
               ],
+              "resources": [],
               "sub_requirements": []
             }
           ]
@@ -433,16 +520,16 @@
       ],
       "resources": [
         {
-          "title": "Legacy Video Scouting History Timeline (video)",
-          "url": "https://youtu.be/KavSY2fFb-4?si=BmKsD_8QHVTJ-pGd"
+          "title": "Scouting History Timeline (video)",
+          "url": "https://youtu.be/33Qn5-chofk"
         },
         {
-          "title": "Artifact of the Week - Development of Cub Scouting (video)",
-          "url": "https://youtu.be/p8DUnLSK3Zo?si=xIdh_FcI2SZ8JQ4a"
+          "title": "Artifact of the Week—Development of Cub Scouting (video)",
+          "url": "https://youtu.be/p8DUnLSK3Zo"
         },
         {
-          "title": "Artifact of the Week - Sea  Scouts (video)",
-          "url": "https://youtu.be/FxKOogN-oiU?si=dqO2hetBuV0FoTXg"
+          "title": "Artifact of the Week—Sea  Scouts (video)",
+          "url": "https://youtu.be/FxKOogN-oiU"
         },
         {
           "title": "History of Exploring (website)",
@@ -537,7 +624,12 @@
               "value": "Visit an exhibit of Scouting memorabilia or a local museum with a Scouting history gallery, or (with your parent or guardian's permission and counselor's approval) visit with someone in your council who is recognized as a dedicated Scouting historian or memorabilia collector. Learn what you can about the history of Scouting America. Give a short report to your counselor on what you saw and learned."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Interactive Scouting Museum Map (website)",
+              "url": "https://www.google.com/maps/d/u/0/viewer?mid=1shEPLaVDO3GPNW8-4HCVVdfUWFK1KKU&femb=1&ll=40.002876433582884%2C-96.50590200000002&z=4"
+            }
+          ],
           "sub_requirements": []
         }
       ]

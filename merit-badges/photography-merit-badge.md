@@ -26,7 +26,7 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
     **Resources:** [Golden Hour Magic: Perfect Light for Stunning Photos (video)](https://youtu.be/FWcOshGthBI?si=Ft8P8g7G36BnSSle), [Artificial Lighting for Photography (So Much Easier Than You Think!) (video)](https://youtu.be/Z9znfhFQPbE?si=iynxep4eY2ZuuzNY), [Why Most Natural Light Photography is Flat (and How to Fix It) (video)](https://youtu.be/VgT4O6CclfA?si=Gw4HDf3VeGxeE6z7)
   - (b) Exposure—aperture (f-stops), shutter speed, ISO
 
-    **Resources:** [Iso, Shutter Speed and Aperture Explained | Exposure Basics for Beginners (video)](https://youtu.be/Edvpu_939l4?si=lFqGf0-AJuUJR-v-), [Photography Basics in 10 Minutes (video)](https://youtu.be/V7z7BAZdt2M?si=0XATnG-lMciqFgr0)
+    **Resources:** [ISO, Shutter Speed, and Aperture Explained | Exposure Basics for Beginners (video)](https://youtu.be/Edvpu_939l4), [Photography Basics in 10 Minutes (video)](https://youtu.be/V7z7BAZdt2M)
   - (c) Depth of field
 
     **Resources:** [Depth of Field in 30 Seconds (video)](https://youtube.com/shorts/98B3dvdAX6c?si=a6zX8YPAisVYAszi)

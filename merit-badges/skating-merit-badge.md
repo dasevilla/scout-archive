@@ -20,9 +20,11 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
 - (2) Working under the supervision of an experienced adult, do ONE of the following options.
   - **Option A—Ice Skating.** Do ALL of the following:
 
-    **Resources:** [How to Play Figure Skating (video)](https://youtu.be/-53axkfHUHk), [How to Ice Skate (video)](https://youtu.be/8uDfC7sZ7ag)
+    **Resources:** [How To Figure Skate (video)](https://youtu.be/-53axkfHUHk), [How To Ice Skate (video)](https://youtu.be/8uDfC7sZ7ag)
 
     - (1) Explain the general safety and courtesy guidelines for ice skating.
+
+      **Resources:** [Safe Skating Rules (website)](https://cdn3.sportngin.com/attachments/document/39da-1736379/Getting_Started.pdf)
     - (2) Discuss preparations that must be taken when skating outdoors on natural ice. Explain how to make an ice rescue.
 
       **Resources:** [How To Know if Ice Is Safe To Walk On (video)](https://youtu.be/KmYeulVH8IE), [Ice Safety (website)](https://dnr.wisconsin.gov/Education/OutdoorSkills/IceSafety), [Test Ice Thickness (video)](https://youtu.be/BWLvW-d5jBY), [How to Save Someone Who Falls Through Ice (video)](https://youtu.be/yVXJQq41tTA)
@@ -30,28 +32,30 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
 
       **Resources:** [Figure Skates vs. Hockey Skates (video)](https://youtu.be/H6hUVU57Wpk)
     - (4) Describe the proper way to carry ice skates at the rink and for travel.
+
+      **Resources:** [How To Carry Ice Skates (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/how_to_carry_ice_skates.pdf)
     - (5) Describe how to store ice skates for long periods of time, such as seasonal storage.
 
-      **Resources:** [How Do I Store My Skates Correctly? (video)](https://youtu.be/xCibThdzynI), [Care for Your Ice Skates (website)](https://www.skatepro.ca/en/a65.htm)
+      **Resources:** [Care for Your Ice Skates (website)](https://www.skatepro.ca/en/a65.htm)
     - (6) Skate forward at least 40 feet and come to a complete stop. Use either a two-foot snowplow stop or a one-foot snowplow stop.
 
-      **Resources:** [Snowplow Stop (video)](https://youtu.be/rhQY1_bTjVs)
+      **Resources:** [Snowplow Stop (video)](https://youtu.be/rhQY1_bTjVs&t=10)
     - (7) After skating forward, glide forward on two feet, then on one foot, first right and then left.
 
-      **Resources:** [Forward Stroking (video)](https://youtu.be/-7QqRz2EZAM)
+      **Resources:** [Forward Stroking (video)](https://youtu.be/-7QqRz2EZAM&t=10)
     - (8) Starting from a T position, stroke forward around the test area, avoiding the use of toe picks if wearing figure skates.
 
       **Resources:** [Forward From a T Position (video)](https://youtu.be/-7QqRz2EZAM&t=516)
     - (9) Glide backward on two feet for at least two times the skater's height.
 
-      **Resources:** [Skate Backward (video)](https://youtu.be/dZsfWfYxqzw)
+      **Resources:** [Skate Backward (video)](https://youtu.be/dZsfWfYxqzw&t=10)
     - (10) Skate backward for at least 20 feet on two skates.
     - (11) After gaining forward speed, glide forward on two feet, making a turn of 180 degrees around a cone, first to the right and then to the left.
 
       **Resources:** [Turns Around a Cone (video)](https://youtu.be/Lm1PXq9iFog)
     - (12) Perform forward crossovers in a figure-eight pattern.
 
-      **Resources:** [How To Do Back Crossovers in a Figure 8 (video)](https://youtu.be/krBVgF52z8M)
+      **Resources:** [How To Do Front Crossovers in a Figure 8 (video)](https://youtu.be/kiixg2aczH4&t=16), [How To Do Back Crossovers in a Figure 8 (video)](https://youtu.be/krBVgF52z8M&t=10)
     - (13) Explain to your counselor the safety considerations for participating in an ice-skating race.
 
       **Resources:** [How Speed Skaters Stay Safe on the Ice (website)](https://healthcare.utah.edu/healthfeed/2022/02/how-speed-skaters-stay-safe-ice), [Safety Tips: Ice Skating (website)](https://kidshealth.org/en/parents/safety-ice-skating.html)
@@ -84,6 +88,8 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
     - (13) While skating, dribble a basketball at least 40 feet, then back to your starting position, OR push a hockey ball with a stick at least 40 feet, then back to your starting position.
   - **Option C—In-Line Skating.** Do ALL of the following:
     - (1) Explain the general safety rules and courtesy guidelines for in-line skating.
+
+      **Resources:** [In-Line Skating Safety Rules and Etiquette (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/safety_rules_and_etiquette%20-%20inline_skating.pdf)
     - (2) Describe the parts of an in-line skate and their functions.
 
       **Resources:** [Types and Parts of Inline Skates (video)](https://youtu.be/dKYpuWcZ_Ak)
@@ -121,6 +127,8 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
 
       **Resources:** [One-Footed Slalom (video)](https://youtu.be/mzA573nx7W8)
     - (14) Describe how to pass a pedestrian or another skater from behind.
+
+      **Resources:** [Passing Another Skater (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/passing_another_skater.pdf)
     - (15) Describe at least three ways to avoid an unforeseen obstacle while skating.
 
       **Resources:** [In-Line Skating Safety (video)](https://youtu.be/NP5w-A5aRSc)
@@ -139,7 +147,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
       **Resources:** [Benefits of Skateboarding (video)](https://youtu.be/VAh62ff8rys), [Physics of Skateboarding (video)](https://youtu.be/6bu_9sI7QTI)
     - (3) Explain the safety rules and courtesy guidelines for skateboarding, including right-of-way and communication signals and warnings.
 
-      **Resources:** [Skate Park Safety Rules (video)](https://youtu.be/Yw9bBDZ2kUo), [How to Ride Skateparks for Beginners (video)](https://youtu.be/zTVb4bmoiw0), [Skatepark Terrain (video)](https://youtu.be/qrq6KlaIe8Y?si=4ljJ-qZ2IAeG-tPe), [How to Ride Safely on a Skateboard (video)](https://player.vimeo.com/video/903371803)
+      **Resources:** [Skate Park Safety Rules (video)](https://youtu.be/Yw9bBDZ2kUo), [How To Ride Skateparks for Beginners (video)](https://youtu.be/zTVb4bmoiw0), [Skatepark Terrain (video)](https://youtu.be/qrq6KlaIe8Y?si=4ljJ-qZ2IAeG-tPe), [How To Ride Safely on a Skateboard (video)](https://player.vimeo.com/video/903371803), [Passing Another Skateboarder (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/passing_another_skateboarder.pdf)
     - (4) Explain the protective gear needed to skate safely, including helmet, knee pads, elbow pads, and wrist guards, and show how to wear them correctly.
 
       **Resources:** [Skateboarding Safety (website)](https://www.scouting.org/health-and-safety/safety-moments/skateboard-safety/)
@@ -149,7 +157,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
       **Resources:** [How to Select a Skateboard (video)](https://player.vimeo.com/video/901305105)
     - (7) Build a board by assembling all pieces (deck, wheels, trucks, hardware, and grip tape) in the proper order.
 
-      **Resources:** [How to Assemble a Skateboard (video)](https://youtu.be/A6E403WMOXk)
+      **Resources:** [How To Assemble a Skateboard (video)](https://youtu.be/A6E403WMOXk), [Parts of a Skateboard (video)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/parts_of_a_skateboard.jpg)
     - (8) Explain skateboard maintenance (cleaning, adjusting bolts, and replacing parts).
 
       **Resources:** [How to Maintain Your Skateboard (website)](https://www.skatexs.com/blogs/news/9432593-skateboard-maintenance-for-beginners)

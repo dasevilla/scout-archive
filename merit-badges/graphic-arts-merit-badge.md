@@ -21,10 +21,7 @@ The field of graphic arts includes many kinds of work in the printing and publis
 
   **Resources:** [The Basics of Graphic Design (video)](https://www.youtube.com/watch?v=ZhTNQFWc_qg), [Best Graphic Designing Software (video)](https://www.youtube.com/watch?v=qtHong4fWT4)
 
-- (4) Produce the design you created for requirement 3 using one of the following printing processes:
-
-  **Resources:** [Prepress Tips - How to Set Up Your Digital Print Files Correctly (video)](https://www.youtube.com/watch?v=QxlB6rl8aNU%20)
-
+- (4) Produce the design you created for requirement 3 using one of the following printing processes: Resource: [Prepress Tips—How To Set Up Your Digital Print Files Correctly (video)](https://youtu.be/QxlB6rl8aNU)
   - (a) **Offset lithography** Make a layout, and produce a plate using a process approved by your counselor. Run the plate and print at least 50 copies.
 
     **Resources:** [Offset Lithography Demonstration (video)](https://youtu.be/e4GmiXXAvuA?si=OA6SjlwBdX0iURxc)

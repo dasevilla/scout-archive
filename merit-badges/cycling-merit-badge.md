@@ -111,7 +111,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
       **Resources:** [How to Navigate Rock Gardens (video)](https://youtu.be/arh94o3Qm4Y), [How to Ride Roots (video)](https://youtu.be/0CQesh_kN6k?si=74wVP05bl6ylKk8Y), [How to Ride Loose Gravel (video)](https://youtu.be/tpLCJLLPTEU?si=JbHCyrG-Md-Q4VIU)
   - (3) Describe the rules of trail riding, including how to know when a trail is unsuitable for riding.
 
-    **Resources:** [Sharing Our Trails (website)](https://trailetiquette.org/), [Trail Manners (website)](https://www.tfnu.org/trail-etiquette/), [Tread Lightly (website)](https://treadlightly.org/learn/recreation-tips/sharing-our-trails/%20)
+    **Resources:** [Sharing Our Trails (website)](https://treadlightly.org/tips/sharing-our-trails/), [Trail Manners (website)](https://www.tfnu.org/trail-etiquette/%20)
   - (4) On mountain biking or multi-use trails approved by your counselor, take two rides of 2 miles each, two rides of 5 miles each, and two rides of 8 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen.
 
     **Resources:** [MapMyRide (website)](https://www.mapmyride.com/)

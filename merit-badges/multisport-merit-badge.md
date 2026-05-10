@@ -40,95 +40,99 @@ Multisport is a racing competition that includes any combination of running, bik
     **Resources:** [USA Triathlon Youth Guide (PDF)](https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blteec8160c769bfc2e/648b54b80f2d9bd22bed580b/USAT_Youth_Guide_2019.pdf), [Triathlon Equipment You Really Need (video)](https://youtu.be/kgbz_3B9dNA)
   - (d) Based on your interests, experience, and discussion with your counselor, select ONE of the following multisport formats to concentrate on for the remaining requirements: triathlon (swimming, biking, and running), duathlon (biking and running), aquathlon (swimming and running), or aquabike (swimming and biking).
 
+    **Resources:** [Multisport Race Options (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Multisport/multisport_race_options.jpg)
+
 - (4) Complete ALL of the following for the multisport format option you selected in requirement 3(d):
   - **Option A—Triathlon.**
-  - (1) **Swimming**
-  - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
+    - (1) **Swimming**
+      - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
 
-    **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
-  - (b) Explain the components of the Scouting America Safe Swim Defense program and how you will ensure they are in place when you swim.
-  - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
+        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
+      - (b) Explain the components of the Scouting America Safe Swim Defense program and how you will ensure they are in place when you swim.
 
-    **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
-  - (2) **Biking**
-  - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
+        **Resources:** [Safe Swim Defense (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Multisport/safe_swim_defense.pdf)
+      - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
 
-    **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
-  - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
+        **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
+    - (2) **Biking**
+      - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
 
-    **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
-  - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
+        **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
+      - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
 
-    **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
-  - (3) **Running**
-  - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
+        **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
+      - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
 
-    **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
-  - (b) Learn and state the basic rules of the road for runners.
+        **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
+    - (3) **Running**
+      - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
 
-    **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
-  - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
+        **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
+      - (b) Learn and state the basic rules of the road for runners.
 
-    **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
+        **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
+      - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
+
+        **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
   - **Option B—Duathlon.**
-  - (1) **Biking**
-  - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
+    - (1) **Biking**
+      - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
 
-    **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
-  - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
+        **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
+      - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
 
-    **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
-  - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
+        **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
+      - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
 
-    **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
-  - (2) **Running**
-  - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
+        **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
+    - (2) **Running**
+      - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
 
-    **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
-  - (b) Learn and state the basic rules of the road for runners.
+        **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
+      - (b) Learn and state the basic rules of the road for runners.
 
-    **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
-  - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
+        **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
+      - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
 
-    **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
+        **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
   - **Option C—Aquathlon.**
-  - (1) **Swimming**
-  - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
+    - (1) **Swimming**
+      - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
 
-    **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
-  - (b) Explain the components of the Scouting America Safe Swim Defense guidelines and how you will ensure they are in place when you swim.
-  - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
+        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
+      - (b) Explain the components of the Scouting America Safe Swim Defense guidelines and how you will ensure they are in place when you swim.
+      - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
 
-    **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
-  - (2) **Running**
-  - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
+        **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
+    - (2) **Running**
+      - (a) Demonstrate a proper run warmup and cool-down. Explain to your counselor the importance of maintaining healthy habits, including hydration, nutrition, injury prevention, and rest.
 
-    **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
-  - (b) Learn and state the basic rules of the road for runners.
+        **Resources:** [Warm-Up for Running (video)](https://youtu.be/PkF3jjFZc0s), [Hydration for Running (video)](https://youtu.be/MpCO8Y7iPYk)
+      - (b) Learn and state the basic rules of the road for runners.
 
-    **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
-  - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
+        **Resources:** [Safety Tips for Running (video)](https://youtu.be/I6aDhB_uC8A)
+      - (c) Demonstrate important running drills, including high knees, butt kicks, lunges, inchworms, and soldier kicks.
 
-    **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
+        **Resources:** [High Knees and Butt Kicks (video)](https://youtu.be/tY2bLt7roOQ), [Lunges (video)](https://youtu.be/amElt61OHgM), [Inchworms (video)](https://youtu.be/pv_8CdDPAAk), [Soldier Kicks (video)](https://youtu.be/9cacAKZESf0)
   - **Option D—Aquabike.**
-  - (1) **Swimming**
-  - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
+    - (1) **Swimming**
+      - (a) Before doing requirements 5 through 8, earn the Swimming merit badge.
 
-    **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
-  - (b) Explain the components of the Scouting America Safe Swim Defense guidelines and how you will ensure they are in place when you swim.
-  - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
+        **Resources:** [Swimming Merit Badge (website)](https://www.scouting.org/merit-badges/swimming/%20)
+      - (b) Explain the components of the Scouting America Safe Swim Defense guidelines and how you will ensure they are in place when you swim.
+      - (c) Explain to your counselor the difference between a pool swim and an open water swim, including at what water temperature it is appropriate to wear a wet suit.
 
-    **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
-  - (2) **Biking**
-  - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
+        **Resources:** [4 Things To Know Before Your First Open Water Swim (video)](https://youtu.be/0VN9xikjs2E), [The Dangers of Cold Water Immersion (video)](https://youtu.be/fLdw5NBOf6g), [How Do Wetsuits Keep You Warm? (video)](https://youtu.be/6B05sU20-Jw)
+    - (2) **Biking**
+      - (a) Explain to your counselor how to ride predictably, be conspicuous, think ahead, and ride ready.
 
-    **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
-  - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
+        **Resources:** [Bike Safety | Hand Signals (video)](https://youtu.be/v_hRsNHlq8M?)
+      - (b) Discuss what should be checked regularly to make sure the bicycle is safe to ride.
 
-    **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
-  - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
+        **Resources:** [Bike Tips: Preflight Checklist for a Safe Ride (video)](https://youtu.be/EHLq5Em-EPI)
+      - (c) Explain the importance of wearing a properly sized and fitted helmet while cycling and of wearing the right clothing for the weather.
 
-    **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
+        **Resources:** [Fitting a Bike Helmet (video)](https://youtu.be/hLlXswx0VvQ)
 
 - (5) Do the following:
   - (a) With guidance from your counselor, establish a four-week training plan that combines your chosen multisport format to develop proper techniques, gain self-confidence, and increase endurance. Each session should last at least 25 minutes and include a proper warmup before the session and stretching afterward.

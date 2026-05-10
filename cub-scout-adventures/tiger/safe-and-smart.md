@@ -23,6 +23,8 @@ Memorize your address. Recite it to your Tiger adult partner or den leader.
   Cub Scouts learn their address by putting it to the tune of BINGO.
 - **[In Case of an Emergency](https://www.scouting.org/cub-scout-activities/in-case-of-an-emergency/)** (Indoor, energy 2, supplies 2, prep 1)
   Tigers will complete an activity with their, name, address, emergency contact number, and 911 to post in their home.
+- **[Send Me a Letter](https://www.scouting.org/cub-scout-activities/send-me-a-letter/)** (Indoor, energy 3, supplies 3, prep 3)
+  Cub Scouts learn their address so they can mail themselves a letter.
 
 ### Requirement 2
 
@@ -32,6 +34,8 @@ Memorize an emergency contact’s phone number. Recite it to your Tiger adult pa
 
 - **[Cheerio My Number](https://www.scouting.org/cub-scout-activities/cheerio-my-number/)** (Indoor, energy 2, supplies 2, prep 1)
   Using Cheerios, Cub Scouts learn their emergency contact number.
+- **[Match my Number](https://www.scouting.org/cub-scout-activities/match-my-number/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts unscramble numbers written on index cards to make their phone number.
 - **[Sing a Phone Song](https://www.scouting.org/cub-scout-activities/sing-a-phone-song/)** (Indoor, energy 2, supplies 2, prep 1)
   Cub Scouts learn to memorize their phone number through a song.
 
@@ -41,6 +45,10 @@ Show you can Stop, Drop and Roll.
 
 **Activities:**
 
+- **[Fire Tag](https://www.scouting.org/cub-scout-activities/fire-tag/)** (Indoor, energy 5, supplies 1, prep 1)
+  Cub Scouts practice “Stop, Drop, and Roll” while playing a game of tag.
+- **[Stop Drop and Roll Crown](https://www.scouting.org/cub-scout-activities/stop-drop-and-roll-crown/)** (Indoor, energy 3, supplies 3, prep 3)
+  Cub Scouts will practice Stop, Drop, and Roll and then color a crown to wear.
 - **[Stop Drop and Roll Relay](https://www.scouting.org/cub-scout-activities/stop-drop-and-roll-relay/)** (Indoor, energy 5, supplies 1, prep 1)
   Cub Scouts learn how to Stop Drop and Roll by playing a relay race.
 
@@ -74,6 +82,10 @@ With your Tiger adult partner or den leader, learn why matches and lighters are 
 
 - **[Spread Like Wildfire](https://www.scouting.org/cub-scout-activities/spread-like-wildfire/)** (Outdoor, energy 4, supplies 1, prep 1)
   The den will learn how fast fire can spread and why starting fires can cause harm.
+- **[Stop, Don’t Touch, Tell an Adult](https://www.scouting.org/cub-scout-activities/stop-dont-touch-tell-an-adult/)** (Indoor, energy 4, supplies 3, prep 2)
+  Cub Scouts will play a game where they stop, don’t touch, and tell an adult if they see matches or a lighter.
+- **[Visit a Fire Station](https://www.scouting.org/cub-scout-activities/visit-a-fire-station/)** (Travel, energy 2, supplies 2, prep 5)
+  Cub Scouts visit a fire station to learn about why matches and lighters should be used only by responsible adults.
 
 ### Requirement 7
 

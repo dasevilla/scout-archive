@@ -11,21 +11,35 @@ Far different from the stereotypes or common images that are portrayed on film, 
 
 - (1) Identify the different American Indian cultural areas. Explain what makes them each unique.
 
+  **Resources:** [Native American Cultural Regions (video)](https://youtu.be/q7v3zl5tgKA)
+
 - (2) Research an American Indian tribe, group, or nation. Tell your counselor about traditional dwellings, way of life, tribal government, religious beliefs, family and clan relationships, language, clothing styles, arts and crafts, food cultivation, foraging and preparation, means of getting around, games, customs in warfare, and where and how they live today.
 
 - (3) Do the following:
   - (a) Learn 10 common terms in an American Indian language and their meanings.
   - (b) Identify the meaning of 10 place names of American Indian origin in the United States.
+
+    **Resources:** [75 U.S. Place Names Inspired by Native American Culture (website)](https://www.today.com/life/native-american-town-names-rcna176894)
   - (c) Name five well-known American Indian leaders, either from the past or people of today. Give their tribes or nations. Describe what they did or do now that makes them notable.
+
+    **Resources:** [10 Legendary Chiefs: Courageous Heroes of Native America (video)](https://youtu.be/nBYtf58Vpt0)
 
 - (4) Do the following:
   - (a) Describe how life might have been different for the European settlers if there had been no Native Americans to meet them when they came to this continent.
   - (b) Describe eight things adopted by others from American Indians.
+
+    **Resources:** [Contributions of Native Americans—Indigenous Achievements That Shaped Today (video)](https://youtu.be/Stp7uQxj5lM)
   - (c) Learn a game played by a group or tribe. Teach and lead it with a Scout group.
+
+    **Resources:** [Cherokee Traditional Games: Stickball (video)](https://youtu.be/Btted7c6Fqc), [Cherokee Traditional Games: The Game of Graces (video)](https://youtu.be/7ipsFFUyr00)
 
 - (5) Do ONE of the following:
   - (a) Visit a museum either in-person or virtually to see American Indian exhibitions and collections. Discuss with your counselor what you observed or learned from two exhibitions and identify 10 artifacts by tribe or nation, their shape, size, and use.
+
+    **Resources:** [Museums (Choose option Ethnically/Culturally/Tribally Specific) (website)](https://www.aam-us.org/programs/about-museums/find-a-museum/)
   - (b) Attend a contemporary American Indian gathering. Discuss with your counselor proper etiquette for attending as well as what you learned and observed during your visit.
+
+    **Resources:** [Pow Wow Calendar (website)](https://calendar.powwows.com/), [Celebration of Powwow | The Living History of Native American Gatherings (video)](https://youtu.be/N2CmYbpjIz8?si=B5Ms1k8y5i2ifL_e), [Annual Events and Celebrations on Indian Reservations (website)](https://www.indianreservation.info/annual-events-and-celebrations-on-indian-reservations/)
 
 ## Resources
 

@@ -32,6 +32,8 @@ Discover ways that digital technology can make life easier.
 
 **Activities:**
 
+- **[Low Tech vs. High Tech](https://www.scouting.org/cub-scout-activities/low-tech-vs-high-tech/)** (Indoor, energy 3, supplies 3, prep 2)
+  Cub Scouts complete activities without using technology and with the help of technology.
 - **[Technology Charades](https://www.scouting.org/cub-scout-activities/technology-charades/)** (Indoor, energy 3, supplies 2, prep 2)
   A game of charades that  identifies  how technology has made life easier.
 - **[The Way It Was](https://www.scouting.org/cub-scout-activities/the-way-it-was/)** (Indoor, energy 1, supplies 1, prep 1)

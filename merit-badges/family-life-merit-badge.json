@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Family-Life.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Family-Life.docx",
   "shop_url": "https://www.scoutshop.org/bsa-family-life-merit-badge-pamphlet-esboy-scouts-ofamerica-660410.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/FamilyLife-qjjk7p7ex1rmni5l9zqta1xnjo0npalz3uxtbivwps.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/11/FamilyLife.png",
   "image_filename": "family-life-merit-badge.jpg",
   "requirements": [
     {
@@ -202,9 +202,9 @@
       "label": "6",
       "text": "Do the following:\nNote: Some of the issues surrounding requirement 6 for the family meeting could be considered of a personal nature. Use discretion when reviewing this requirement with the Scout.\nDiscussion of each of these subjects will very likely carry over to more than one family meeting.",
       "requirement_path": "6",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",

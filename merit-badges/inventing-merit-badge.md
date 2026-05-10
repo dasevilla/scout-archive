@@ -60,7 +60,7 @@ Inventing involves finding technological solutions to real-world problems. Inven
 
 - (7) Build a working prototype of the item you invented for requirement 6. Test and evaluate the invention. Among the aspects to consider in your evaluation are cost, usefulness, marketability, appearance, and function. Describe how your original vision and expectations for your invention are similar or dissimilar to the prototype you built. Have your counselor evaluate and critique your prototype.**Note:** Before you begin building the prototype, you must have your counselor's approval, based on the design and building plans you have already shared.
 
-  **Resources:** [How To Build Prototypes! (video)](https://youtu.be/k_9Q-KDSb9o)
+  **Resources:** [How To Build Prototypes! (video)](https://youtu.be/8OUAGTimURM)
 
 - (8) Do ONE of the following:
   - (a) Participate with a club or team (robotics team, science club, or engineering club) that builds a useful item. Share your experience with your counselor.

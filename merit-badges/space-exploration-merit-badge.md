@@ -19,7 +19,7 @@ Discover the why and how we explore space. Learn about current and historic spac
     **Resources:** [How Space Benefits Earth (video)](https://youtube.com/shorts/i3D4pCq_lyg?si=S_3HJWJ9TrvcHvry), [Space Exploration, Is It Really Worth It? Yes. (video)](https://youtube.com/shorts/jPuqA136SfA?si=EgcAXSXcMBJmVLw4), [10 Surprising Ways Space Exploration Benefits Life on Earth (video)](https://youtube.com/shorts/_2uSv1C-FDw?si=JCFVs8xAXqeJvozN)
   - (d) International relations and cooperation
 
-    **Resources:** [What Role Does International Cooperation Play in Space Exploration? (video)](https://youtu.be/TS27Br2-XgY?si=W1CeXgcrzOZ-Trgm)
+    **Resources:** [The Power of International Collaboration in Space Exploration (video)](https://youtu.be/HvH8fmT9r6U)
 
 - (2) Design a collector's card, with a picture on the front and information on the back, about your favorite space pioneer. Share your card and discuss four other space pioneers with your counselor.
 
@@ -51,8 +51,10 @@ Discover the why and how we explore space. Learn about current and historic spac
     **Resources:** [How Rocket Engines Work (website)](https://science.howstuffworks.com/rocket.htm), [Rocket Engines Explained (website)](https://youtu.be/gz8L1i0ODeA), [How Do We Launch Things Into Space (website)](https://plus.nasa.gov/video/how-do-we-launch-things-into-space/)
   - (c) How satellites stay in orbit
 
-    **Resources:** [How Do Satellites Get & Stay in Orbit? (video)](https://youtu.be/IC1JQu9xGHQ?si=qcvDJm44-la-3nsI)
+    **Resources:** [How Do Satellites Get & Stay in Orbit? (video)](https://youtu.be/IC1JQu9xGHQ), [How Do Satellites Stay in Orbit Around the Earth (video)](https://www.youtube.com/shorts/V08iOHrNyMU?t=46), [How Orbit Works: Perpetual Free Fall Explained (video)](https://www.youtube.com/shorts/Ieyn5Xzg_nA)
   - (d) How satellite pictures of Earth and pictures of other planets are made and transmitted
+
+    **Resources:** [What Is The Deep Space Network & How Does It Work? (video)](https://youtu.be/dZRC6Tf2YEo), [How Do We Communicate with Faraway Spacecraft? (video)](https://youtu.be/6WFj-CKldv4), [How do Spacecraft Photograph the Planets & get the Images Back to Earth? (video)](https://youtu.be/rrD1oe5_zvw)
 
 - (5) Do TWO of the following:
   - (a) Discuss with your counselor a robotic space exploration mission and a historic crewed mission. Tell about each mission's major discoveries, its importance, and what was learned from it about the planets, moons, or regions of space explored.
@@ -87,6 +89,8 @@ Discover the why and how we explore space. Learn about current and historic spac
     **Resources:** [How Robots Will Build on Mars (video)](https://youtu.be/ZbOg_cC1_Eo)
 
 - (8) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
+
+  **Resources:** [Astronaut Requirements (website)](https://www.nasa.gov/humans-in-space/astronauts/astronaut-requirements/), [So You Want to Be an Aerospace Engineer (video)](https://www.youtube.com/watch?v=uTreDAUe7w4), [Should I become an Aerospace Engineer? (video)](https://www.youtube.com/watch?app=desktop&v=2Y2fNtYnsFQ), [Becoming an Astrobiologist (website)](https://astrobiology.nasa.gov/resources/graphic-histories/)
 
 ## Resources
 

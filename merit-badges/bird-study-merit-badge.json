@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Bird-Study.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Bird-Study.docx",
   "shop_url": "https://www.scoutshop.org/bsa-bird-study-merit-badge-pamphlet-661586.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/BirdStudy-qjjk7o9kq7qcbw6yfhc6pk66ya5ahli8rqabu8xaw0.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/BirdStudy.png",
   "image_filename": "bird-study-merit-badge.jpg",
   "requirements": [
     {
@@ -839,9 +839,9 @@
       "label": "9",
       "text": "Do ONE of the following. For the item you choose, describe what birds you hope to attract, and why. Describe the necessary maintenance required with the item that you choose.",
       "requirement_path": "9",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",

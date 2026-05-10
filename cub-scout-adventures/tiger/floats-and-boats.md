@@ -54,6 +54,8 @@ Show that you can put on and fasten a life jacket correctly and learn when it is
 
 **Activities:**
 
+- **[Captain Says](https://www.scouting.org/cub-scout-activities/captain-says/)** (Indoor, energy 4, supplies 4, prep 3)
+  Cub Scouts play a game to learn about wearing a life jacket and boating safety.
 - **[Life Jacket Relay](https://www.scouting.org/cub-scout-activities/life-jacket-relay/)** (Indoor, energy 5, supplies 4, prep 2)
   Once Cub Scouts learn how to proper fit a life jacket conduct a relay race.
 - **[Proper Fit – Proper Safety](https://www.scouting.org/cub-scout-activities/proper-fit-proper-safety/)** (Indoor, energy 3, supplies 4, prep 2)

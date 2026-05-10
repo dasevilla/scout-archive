@@ -47,6 +47,8 @@ With other members of your den or family, invent a game, or change the rules of 
 
 - **[Checkers with a Twist](https://www.scouting.org/cub-scout-activities/checkers-with-a-twist/)** (Indoor, energy 2, supplies 2, prep 2)
   Change the rules to checkers by allowing another turn if you take another players checker.
+- **[Game Remix](https://www.scouting.org/cub-scout-activities/game-remix/)** (Indoor, energy 5, supplies 1, prep 1)
+  Cub Scouts and their adult partners will work together in small groups to remix the rules of a familiar game.  Then, they will play their remixed games with the rest of the den.
 - **[My Cub Scout Game](https://www.scouting.org/cub-scout-activities/my-cub-scout-game/)** (Indoor, energy 2, supplies 2, prep 2)
   Make a board game based on Cub Scouting.
 

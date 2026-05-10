@@ -23,6 +23,8 @@ Observe the night sky with your den or Tiger adult partner. Talk about the items
   Cub Scouts will observe the night sky and record their observations.
 - **[Night Sky Scavenger Hunt](https://www.scouting.org/cub-scout-activities/night-sky-scavenger-hunt/)** (Outdoor, energy 2, supplies 4, prep 5)
   Conduct a scavenger hunt  of  what is in the night sky.
+- **[Visit a Planetarium](https://www.scouting.org/cub-scout-activities/visit-a-planetarium/)** (Travel, energy 2, supplies 2, prep 5)
+  Cub Scouts visit a planetarium to observe the night sky.
 
 ### Requirement 2
 
@@ -41,6 +43,8 @@ Observe in the sky or select from a book, chart, computer, or electronic device 
 
 - **[Pictures in the Sky](https://www.scouting.org/cub-scout-activities/pictures-in-the-sky/)** (Outdoor, energy 2, supplies 2, prep 5)
   Identify  and  observe  two constellations in the night sky.
+- **[Sticker Constellations](https://www.scouting.org/cub-scout-activities/sticker-constellations/)** (Indoor, energy 2, supplies 3, prep 3)
+  Cub Scouts will look at constellation flashcards and pick their favorite to recreate in sticker art.
 
 ### Requirement 4
 

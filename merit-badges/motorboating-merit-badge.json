@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Motorboating.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Motorboating.docx",
   "shop_url": "https://www.scoutshop.org/bsa-motorboating-merit-badge-pamphlet-boy-scouts-of-america-660060.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/Motorboating-qjjk7q593vswz4484i5fujp451w0wzppfzlassuijk.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/11/Motorboating.png",
   "image_filename": "motorboating-merit-badge.jpg",
   "requirements": [
     {
@@ -41,7 +41,24 @@
               "value": "Discuss with your counselor the following hazards you might encounter while motorboating: flammable fuel; carbon monoxide; propellers; collisions; falls overboard; capsize; or running aground. Explain what you should do to anticipate, prevent, mitigate and respond to these hazards."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Running Aground Prevention and Response (video)",
+              "url": "https://youtu.be/tQ3cHcqV_8A"
+            },
+            {
+              "title": "Towsport Tips #4 Carbon Monoxide (video)",
+              "url": "https://youtu.be/gaZQc_trnCs"
+            },
+            {
+              "title": "Collision Avoidance Rules (video)",
+              "url": "https://youtu.be/TVD0LxihhR8"
+            },
+            {
+              "title": "Preventing a Capsizing / Fall Overboard (video)",
+              "url": "https://youtu.be/Sj2iIZgXRxk"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -58,7 +75,24 @@
               "value": "Explain first aid for injuries or illnesses that could occur while motorboating, including hypothermia, heat reactions, dehydration, motion sickness, bug bites, blisters."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Cold Water Shock—How to Deal With Cold Water Shock (video)",
+              "url": "https://youtu.be/rH3gZuSr6Y8"
+            },
+            {
+              "title": "What Happens If You Don't Drink Enough Water? Signs of Dehydration + 4 Ways to Keep Hydrated (video)",
+              "url": "https://youtu.be/EmNieKLjmH4"
+            },
+            {
+              "title": "Mayo Clinic Minute—Dangers of Heat-Related Illnesses (video)",
+              "url": "https://youtu.be/Rz6Wxiv4aRA"
+            },
+            {
+              "title": "How To Prevent and Treat Blisters (website)",
+              "url": "https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -75,7 +109,12 @@
               "value": "Discuss the Scouting America Safety Afloat policy. Tell how it applies to motorboating activities."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Safety Afloat (website)",
+              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -99,7 +138,7 @@
         {
           "id": "14912",
           "label": "a",
-          "text": "Before doing requirement 5, successfully complete the Scouting America swimmer test.\nNote: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
+          "text": "Before doing requirement 5, successfully complete the Scouting America swimmer test.Note: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
           "requirement_path": "2.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -108,18 +147,6 @@
             {
               "type": "text",
               "value": "Before doing requirement 5, successfully complete the Scouting America swimmer test."
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
             },
             {
               "type": "element",
@@ -152,7 +179,12 @@
               "value": " merit badge pamphlet for details about the Scouting America swimmer test."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Swimming Merit Badge pamphlet (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -169,7 +201,12 @@
               "value": "Name the different types of personal flotation devices (PFDs), and explain when each type should be used. Show how to choose and properly fit a PFD."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How To Choose the Right Life Jacket (video)",
+              "url": "https://youtu.be/4y9XPNy1L1U"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -204,7 +241,16 @@
               "value": "Explain inboard, outboard, and inboard/outboard motors, and the uses and advantages of each."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Whats the Difference Between Inboard, Outboard & Sterndrive Boat Engines? (video)",
+              "url": "https://youtu.be/1U10bHSLZQ4"
+            },
+            {
+              "title": "Engine Types (video)",
+              "url": "https://youtu.be/KNOmP3Z8YKg"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -221,7 +267,16 @@
               "value": "Explain the safety procedures and precautions involving handling fuel and engine servicing, and equipment storage and placement."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Fueling Procedures (video)",
+              "url": "https://youtu.be/0LAyvXOn_Ug"
+            },
+            {
+              "title": "Engine Servicing (website)",
+              "url": "https://www.boat-ed.com/indiana/studyGuide/Engine-Maintenance/10101602_35162"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -238,7 +293,12 @@
               "value": "Explain how to winterize a boat motor and tell why this procedure is necessary."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Winterize Your Boat Like a Pro in 7 Steps (video)",
+              "url": "https://youtu.be/5LLUFFq9zgA"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -255,7 +315,12 @@
               "value": "Explain the safety procedures and precautions involving swimmers and skiers in the water, passenger positions underway, and boat wakes."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Boat Wakes (video)",
+              "url": "https://youtu.be/h6KbCnRXkyM"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -307,7 +372,12 @@
               "value": "Explain the rules or laws that apply to recreational boating in your area or state. Have a permit to operate a motorboat, if required by the laws of your state. Discuss how you would find information regarding the boating laws in different states."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Boating Rules and Regulations by State (website)",
+              "url": "https://www.discoverboating.com/ownership/safety/boating-rules-and-regulations-by-state"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -324,7 +394,20 @@
               "value": "Discuss how hazards of weather and heavy water conditions can affect safety and performance in motorboating."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Foul Weather Boating (video)",
+              "url": "https://youtu.be/pigz13CeesU"
+            },
+            {
+              "title": "Coping With Foul Weather (video)",
+              "url": "https://youtu.be/vbCSQyOPvbE"
+            },
+            {
+              "title": "Operation in Restricted Visibility (video)",
+              "url": "https://youtu.be/6_Q_1_jyHuY"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -358,13 +441,18 @@
               "value": "Explain and show the correct use of equipment required by both state and federal regulations to be carried aboard a motorboat."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Coast Guard Requirements: What Items You Must Have in Your Boat (ID, Tools, etc) (video)",
+              "url": "https://youtu.be/biRTksu9ZNw"
+            }
+          ],
           "sub_requirements": []
         },
         {
           "id": "14925",
           "label": "f",
-          "text": "Explain federal and state rules for a ventilation system, and tell why these rules are required",
+          "text": "Explain federal and state rules for a ventilation system, and tell why these rules are required.",
           "requirement_path": "4.f",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -372,10 +460,15 @@
           "content": [
             {
               "type": "text",
-              "value": "Explain federal and state rules for a ventilation system, and tell why these rules are required"
+              "value": "Explain federal and state rules for a ventilation system, and tell why these rules are required."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Ventilation Systems (video)",
+              "url": "https://youtu.be/XlhfoJt_m0U"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -392,7 +485,12 @@
               "value": "Explain the use of lights (sight signals) and sound signals on motorboats."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Navigation Light Equipment (video)",
+              "url": "https://youtu.be/fbyeg5y_qPE"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -409,7 +507,20 @@
               "value": "Discuss the common types of anchors used in motorboating and under what conditions each would be preferred. Explain proper anchoring techniques."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Anchoring (video)",
+              "url": "https://youtu.be/Iv3_8a7N_aE"
+            },
+            {
+              "title": "Anchoring Tips (video)",
+              "url": "https://youtu.be/tK_d6wYEsP4"
+            },
+            {
+              "title": "Anchoring a Boat | Basics of Boating (video)",
+              "url": "https://youtu.be/3CHgH0irUIA"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -444,7 +555,16 @@
               "value": "Board and assist others in boarding. Confirm that all passengers on board are wearing properly fitted life jackets."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Boating Equipment—Personal Flotation Devices (PFDs) (video)",
+              "url": "https://youtu.be/PjpUIpX5Fw8"
+            },
+            {
+              "title": "Life Jacket Safety Essentials | Discover Boating (video)",
+              "url": "https://youtu.be/KVCNH96HqFs"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -461,7 +581,12 @@
               "value": "Fuel the boat and complete a safety check."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Quick Tip: Pre-Boating Inspection & Safety Checklist (video)",
+              "url": "https://youtu.be/NyqsxYaWJS4"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -478,7 +603,12 @@
               "value": "If equipped, attach the engine cut-off switch link and safely start the motor. Get underway from dockside or from a beach launch."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Launching a Boat (video)",
+              "url": "https://youtu.be/IOM4aTiH2Pc"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -495,7 +625,12 @@
               "value": "Run a course for at least a mile, showing procedures for overtaking and passing slower vessels, yielding right-of-way, passing oncoming traffic, making turns, reversing direction, and using navigation aids."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "What Every Boater Needs To Know About Boating Rules/Safety (video)",
+              "url": "https://youtu.be/-Ozqi07qgi8"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -529,7 +664,12 @@
               "value": "Land or dock the boat, disembark, and assist others in doing the same."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Retrieving a Boat (video)",
+              "url": "https://youtu.be/7WaH87ZYBLs"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -546,7 +686,16 @@
               "value": "Moor, dock, or beach the boat and secure all gear."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How To Tie a Boat to a Dock (video)",
+              "url": "https://youtu.be/VGfCKxv5t70"
+            },
+            {
+              "title": "Beaching Your Boat (website)",
+              "url": "https://www.boatus.com/expert-advice/expert-advice-archive/2014/august/beaching-your-boat"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -563,7 +712,16 @@
               "value": "Demonstrate knots used in boating: cleating hitch, bowline, clove hitch, anchor bend, sheet bend."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "10 Knots You Need for Sailing (video)",
+              "url": "https://youtu.be/TbJGKazU1co"
+            },
+            {
+              "title": "How To Tie the Anchor Bend Knot | Boating Knots (video)",
+              "url": "https://youtu.be/pEWcxx8998U"
+            }
+          ],
           "sub_requirements": []
         }
       ]

@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Gardening.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Gardening.docx",
   "shop_url": "https://www.scoutshop.org/gardening-merit-badge-pamphlet-654566.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/Gardening-qjjk7o9kq7qcbw6yfhc6pk66ya5ahli8rqabu8xaw0.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/12/Gardening.png",
   "image_filename": "gardening-merit-badge.jpg",
   "requirements": [
     {
@@ -78,9 +78,9 @@
       "label": "2",
       "text": "Do the following, and discuss your observations throughout the process with your counselor:",
       "requirement_path": "2",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",
@@ -344,9 +344,9 @@
       "label": "8",
       "text": "Do ONE of the following and record weekly observations. Discuss the results of your project with your counselor.",
       "requirement_path": "8",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "text",

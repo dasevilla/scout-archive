@@ -11,7 +11,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
 
 - (1) Discuss the prevention of and treatment for the health concerns that could occur while backpacking, including hypothermia, heat reactions, frostbite, dehydration, insect stings, tick bites, snakebite, and blisters.
 
-  **Resources:** [Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc.) (video)](https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb), [Preventing and Treating Blisters (video)](https://youtu.be/lIvLRG31MZI?si=Y7vTYYNYNzcl_MV2), [Preventing and Treating Frostbite (video)](https://youtu.be/GHN8008brQw?si=MVUMbLRpSWLSkOZP)
+  **Resources:** [Backpacking First Aid (What To Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)](https://youtu.be/nxExCQiWa_U), [Preventing and Treating Blisters (video)](https://youtu.be/lIvLRG31MZI), [Preventing and Treating Frostbite (video)](https://youtu.be/GHN8008brQw)
 
 - (2) Do the following:
   - (a) List the 10 Scout Basic Essentials to be carried on any backpacking trek and explain why each item is necessary.
@@ -27,7 +27,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
     **Resources:** [Philmont Crew Requirements (website)](https://www.philmontscoutranch.org/treks/trekrequirements/crewrequirements/), [Ideal Hiking Group Size (website)](https://www.trailhiking.com.au/preparation/hiking-group-size/?srsltid=AfmBOooFYNMZTHANda2SBQWKHvaJuAW22YjziY4GhHYZ5vizsVquuu9D)
   - (b) Describe how a trek crew should be organized.
 
-    **Resources:** [Crew Positions (website)](https://www.philmontscoutranch.org/treks/trek-resources/crew-positions/)
+    **Resources:** [Philmont Crew Positions (website)](https://www.philmontscoutranch.org/resources/crew-positions-dynamics-leadership/), [Ideal Hiking Group Size (website)](https://www.trailhiking.com.au/preparation/hiking-group-size/?srsltid=AfmBOooFYNMZTHANda2SBQWKHvaJuAW22YjziY4GhHYZ5vizsVquuu9D)
   - (c) Tell how you would minimize risk on a backpacking trek.
   - (d) Explain the purpose of an emergency response plan.
 
@@ -72,6 +72,8 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
 
     **Resources:** [Trying Every Type of Backpacking Stove! (video)](https://youtu.be/DQdhvnXX8PM?si=-H_SQQdh77r70fb1)
   - (b) Demonstrate that you know how to operate a backpacking stove safely and to handle liquid fuel safely.
+
+    **Resources:** [Trying Every Type of Backpacking Stove! (video)](https://youtu.be/DQdhvnXX8PM?si=-H_SQQdh77r70fb1), [How To LIGHT a CAMP STOVE! Both Canister and Liquid Fuel Stoves (video)](https://youtu.be/80KdQ6_ZGyY)
   - (c) Prepare three meals using a stove and fuel you can carry in a backpack.
   - (d) Demonstrate that you know how to keep cooking and eating gear clean and sanitary, and that you practice proper methods for food storage while on a backpacking trek.
 
@@ -80,7 +82,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
 - (9) Do the following:
   - (a) Write a plan that includes a schedule for a patrol/crew backpacking hike of at least 2 miles.
 
-    **Resources:** [How to Plan Your First Backpacking Trip (video)](https://youtu.be/O1vtZSKr0pE?si=Uq1SBhiCqqT3OT_M)
+    **Resources:** [How To Plan Your First Backpacking Trip (video)](https://youtu.be/O1vtZSKr0pE), [Backpacking Trip Schedule (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Backpacking/Backpacking%20Trip%20Schedule.pdf)
   - (b) Conduct a prehike inspection of the patrol and its equipment.
 
     **Resources:** [Testing Your Backpacking Gear (video)](https://youtu.be/60iYJZoWBMA?si=uxYhraK_ZP3kNRAP), [Hiking Backpack Inspection: The Ultimate Safety Checklist for Outdoor Enthusiasts (website)](https://nomadisbeautiful.com/travel-blogs/hiking-backpack-inspection-checklist/)
@@ -99,8 +101,6 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
 - (11) Do the following:
   - (a) Write a plan for a backpacking trek of at least five days using at least three different campsites and covering at least 30 miles. Your plan must include a description of and route to the trek area, a schedule (including a daily schedule), a list of food and equipment needs, a safety and emergency plan, and a budget.
   - (b) Following the Leave No Trace Seven Principles and the Outdoor Code, take the trek as planned in requirement 11(a) that is at least five full days, covering at least 30 miles and utilizing at least three different campsites. While on trek, complete at least one service project approved by your counselor.
-
-    **Resources:** [What is Leave No trace?  (video)](https://youtu.be/Rpq01rO9ZR0?si=hjjnThExBUjG0aIW), [7 Principles - Leave No Trace (website)](https://lnt.org/why/7-principles/)
   - (c) Keep a daily journal during the trek that includes a day-by-day description of your activities, including notes about what worked well and thoughts about improvements that could be made for the next trek.
 
 ## Resources

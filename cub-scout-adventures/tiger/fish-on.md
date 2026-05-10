@@ -19,6 +19,8 @@ With your den or Tiger adult partner, identify the body of water where you will 
 
 **Activities:**
 
+- **[Department of Natural Resources Visit](https://www.scouting.org/cub-scout-activities/department-of-natural-resources-visit/)** (Indoor, energy 3, supplies 1, prep 5)
+  Cub Scouts will meet with a representative from the local Department of Natural Resources.
 - **[Flashy Fish Homes](https://www.scouting.org/cub-scout-activities/flashy-fish-homes/)** (Indoor, energy 2, supplies 3, prep 2)
   Use flashcards to identify local fish.
 - **[Our Fishing Spot](https://www.scouting.org/cub-scout-activities/our-fishing-spot/)** (Indoor, energy 2, supplies 3, prep 2)
@@ -41,6 +43,8 @@ Draw a picture of the type of fish you think lives in the water where you are go
 
 **Activities:**
 
+- **[Color a Fish](https://www.scouting.org/cub-scout-activities/color-a-fish/)** (Indoor, energy 3, supplies 3, prep 3)
+  Cub Scouts will learn about local fish species as they color.
 - **[Scales and Sketches](https://www.scouting.org/cub-scout-activities/scales-and-sketches/)** (Indoor, energy 2, supplies 2, prep 2)
   Using the Tiger handbook draw two fish that live in the water you are going fishing.
 

@@ -11,58 +11,118 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
 
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while participating in climbing and rappelling activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
+
+    **Resources:** [Risk Management in Rock Climbing (video)](https://youtu.be/7YqZkQRSMRw)
   - (b) Show that you know first aid for and how to prevent injuries or illnesses that could occur during climbing activities, including heat and cold reactions, dehydration, stopped breathing, sprains, abrasions, fractures, rope burns, blisters, snakebite, concussions, and insect bites or stings.
+
+    **Resources:** [Treatment of Rope Burns (website)](https://www.healthline.com/health/rope-burn), [Head, Neck, and Spine Injuries (video)](https://youtu.be/x-YYjkokQ6U), [First Aid for Concussions (video)](https://youtu.be/mlWaByoT24s), [Fracture and Dislocation (Video)](https://youtu.be/sPzXAVNVJr0), [How To Treat A Blister Correctly (First, Look At Your Blister Roof) (video)](https://youtu.be/tGqXa3wujiM), [What Is Dehydration? Causes, Signs and Symptoms, Diagnosis and Treatment. (video)](https://youtu.be/KahsIEbFROI)
   - (c) Identify the conditions that must exist before performing CPR on a person.
+
+    **Resources:** [What To Do Before Starting Hands-Only CPR (video)](https://youtu.be/khJ40b2TuHg)
 
 - (2) Learn the Leave No Trace Seven Principles and the Outdoor Code and explain what they mean.
 
+  **Resources:** [Leave No Trace (video)](https://vimeo.com/1115216743/63b20c0b33?share=copy)
+
 - (3) Present yourself properly dressed for belaying, climbing, and rappelling. Explain why you are wearing each piece of gear and discuss qualities of easy movement, entanglement free and good weather protection and comfort.
+
+  **Resources:** [Sport Climbing Gear Checklist (video)](https://youtu.be/xBS6SxlC64s), [How To Choose Climbing Shoes (video)](https://youtu.be/jBa5TuXjHOE), [How To Pick Top 10 Sport Climbing Essentials (video)](https://youtu.be/llSukbWw5kQ), [Sport Climbing Gear Checklist (PDF)](https://www.rei.com/dam/sport_climbing_checklist.pdf), [What Gear Do You Need for Winter Climbing (video)](https://youtu.be/KpxCQgL5oZw)
 
 - (4) **Location.** Do the following:
   - (a) Explain how the difficulty of climbs is classified, and apply classifications to the rock faces or walls where you will demonstrate your climbing skills.
+
+    **Resources:** [Climbing Grades Explained (video)](https://youtu.be/cD4XHKBwe3I)
   - (b) Explain the following: top-rope climbing, lead climbing, and bouldering.
+
+    **Resources:** [Top Roping vs Lead Climbing vs Bouldering (video)](https://youtu.be/1Wri-kqrX80)
   - (c) Evaluate the safety of a particular climbing area. Consider weather, visibility, the condition of the climbing surface, and any other environmental hazards.
   - (d) Determine how to summon aid to the climbing area in case of an emergency. Discuss what medical training is needed for your group when climbing and rappelling in remote areas.
 
 - (5) **Verbal signals.** Explain the importance of using verbal signals during every climb and rappel, and while bouldering. With the help of the counselor or another Scout, demonstrate the verbal signals used by each of the following:
+
+  **Resources:** [Climber Communication (website)](https://americanalpineclub.org/news/2017/1/19/4xm1fcsag6b7xqf1p1w1qp7vdpp1ha)
+
   - (a) Climbers
+
+    **Resources:** [Rock Climbing Commands (video)](https://youtu.be/gxfGI0AGEMA)
   - (b) Rappellers
   - (c) Belayers
+
+    **Resources:** [Gym Top Rope Climbing: Verbal Commands (video)](https://youtu.be/GRLUYDGHIEI), [SL Climb Series: Rock Climbers Communicate How? (video)](https://youtu.be/Ilmv4bsWSXcr)
   - (d) Boulderers and their spotters
+
+    **Resources:** [ABCDs of Spotting (video)](https://youtu.be/YZbzT5ijJd8)
 
 - (6) **Rope.** Do the following:
   - (a) Describe the kinds of rope acceptable for use in climbing and rappelling.
+
+    **Resources:** [The Essential Guide for Every Climber (Dynamic vs Static Ropes) (video)](https://youtu.be/1AxF_0S7BTY)
   - (b) Show how to examine a rope for signs of wear or damage.
+
+    **Resources:** [Rope Inspection 101: One of the Most Important Safety Steps (video)](https://youtu.be/p3xFDP9G0ow)
   - (c) Discuss ways to prevent a rope from being damaged.
+
+    **Resources:** [Safety First: Preventing Rope Failures and Ensuring Longevity (website)](https://www.namahropes.com/rope-safety-tips-for-reliable-use/)
   - (d) Explain when and how a rope should be retired.
+
+    **Resources:** [When To Retire a Climbing Rope (video)](https://youtu.be/0MD83ewJFMA)
   - (e) Properly coil a rope.
+
+    **Resources:** [How To Coil a Climbing Rope (video)](https://youtu.be/Aqt1ntSVjJA)
 
 - (7) **Knots.** Demonstrate the ability to tie each of the following knots. Give at least one example of how each knot is used in belaying, climbing, or rappelling.
   - (a) Figure eight on a bight
+
+    **Resources:** [How To Tie a Figure 8 Knot on a Bight (video)](https://youtu.be/kbB85p_uJsE)
   - (b) Figure eight follow-through
+
+    **Resources:** [How To Tie a Figure 8 Knot for Climbing - Everything You Need To Know (video)](https://youtu.be/GFlwrvggas0)
   - (c) Water knot
+
+    **Resources:** [Rock Climbing: How To Tie a Water Knot (video)](https://youtu.be/mWKfGmA3M48)
   - (d) Double fisherman's knot (grapevine knot)
+
+    **Resources:** [How To Tie a Double Fisherman's Knot (Grapevine Knot) (video)](https://youtu.be/iZuqOkTumSQ), [Rock Climbing: How To Tie a Double Fisherman's Knot (video)](https://youtu.be/YHUv-oOMwRA)
   - (e) Prusik hitch applied to rope
+
+    **Resources:** [Rock Climbing: How To Tie a Prusik Knot (video)](https://youtu.be/EFHxQ5fiUvI)
 
 - (8) **Harness, Helmet & Gloves.** Explain the purpose of each of the following and demonstrate how to put them on correctly.
   - (a) Commercially made climbing harness
+
+    **Resources:** [How to Choose a Climbing Harness (video)](https://youtu.be/aRrLfR7rnw0), [How To Put On a Climbing Harness (video)](https://youtu.be/v5WpeMStpf0)
   - (b) Climbing helmet
+
+    **Resources:** [How To Choose Climbing Helmets (video)](https://youtu.be/NFzGftaJOvM)
   - (c) Climbing or rappelling gloves
+
+    **Resources:** [Things You Should Know Before Choosing Gloves for Climbing (website)](https://www.gearinstant.com/things-you-should-know-before-choosing-gloves-for-climbing)
 
 - (9) Identify the elements of the CHECK system and describe the meaning of each one to your counselor.
 
+  **Resources:** [Climbing Partner Checks—Check or Deck (video)](https://youtu.be/5YC-t0cwVr0)
+
 - (10) **Belaying.** Do the following:
   - (a) Explain the importance of belaying climbers and rappellers and when it is necessary.
+
+    **Resources:** [How To Top-Rope Belay (video)](https://youtu.be/CFIz4cBFVro)
   - (b) Belay three different climbers on three different routes.
   - (c) Serve as a backup belayer on three different climbs.
+
+    **Resources:** [How To Back Up a Beginner's Belay (video)](https://youtu.be/Uuv1B-C1Ziw)
   - (d) Belay three different rappellers on three different routes.
   - (e) Serve as a backup belayer on three different rappels.
 
 - (11) **Climbing.** Do the following:
   - (a) Show the correct way to directly tie a belay rope to your harness.
+
+    **Resources:** [How To Tie Into a Climbing Harness (With a Figure 8 Knot) (video)](https://youtu.be/XQ1r7iddc1w)
   - (b) Climb at least three different routes on a rock face or climbing wall, demonstrating good technique and using verbal signals with a belayer.
 
 - (12) **Rappelling.** Do the following:
+
+  **Resources:** [Rock Climbing: How to Rappel (video)](https://youtu.be/7U6tdEevJgs)
+
   - (a) Show the correct way to directly tie a belay rope to your harness.
   - (b) Using a carabiner and a rappel device, attach a rappel rope to your harness.
   - (c) Rappel down three different rock faces or three rappel routes on a climbing wall. Use verbal signals to communicate with a belayer, and demonstrate good rappelling technique.

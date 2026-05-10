@@ -34,6 +34,8 @@ With your den leader or Tiger adult partner, learn about the Outdoor Code.
 
 - **[Outdoor Code Puzzle](https://www.scouting.org/cub-scout-activities/outdoor-code-puzzle/)** (Indoor, energy 2, supplies 2, prep 1)
   Cub Scouts use their Tiger handbook to create an Outdoor Code puzzle.
+- **[Sing the Outdoor Code](https://www.scouting.org/cub-scout-activities/sing-the-outdoor-code/)** (Indoor, energy 3, supplies 1, prep 1)
+  Cub Scouts will learn about the Outdoor Code by singing the Outdoor Code Song.
 - **[The Four C’s of the Outdoor Code](https://www.scouting.org/cub-scout-activities/the-four-cs-of-the-outdoor-code/)** (Indoor, energy 1, supplies 1, prep 1)
   The four C’s is a method of introducing the Outdoor Code.
 

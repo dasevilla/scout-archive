@@ -11,12 +11,21 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
 
 - (1) Do the following:
   - (a) Explain what a projectile is, and why any device that shoots a projectile at high speed must be handled with care and respect, and used only in approved locations.
+
+    **Resources:** [High-Speed Collisions in Space—Experiments with a Carrot Gun (video)](https://youtu.be/kStpU1bU-oc), [NRA Women—How Ammo Works (video)](https://youtu.be/ExeuiLXSNTU)
   - (b) Explain the basic rules of safe gun handling that apply to all firearms.
+
+    **Resources:** [NRA Gun Safety Rules (website)](https://gunsafetyrules.nra.org/), [Mechanical Safety (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/mechanical_safety.png)
   - (c) Describe how you would react if a friend visiting your home asked to see your or your family's firearm.
   - (d) Explain the need for, types, and use of eye protection and hearing protection.
   - (e) Explain the main points of the laws for owning and using guns in your community and state.
+
+    **Resources:** [State Laws for Gun Ownership and Use (website)](https://www.atf.gov/firearms/tools-and-services-firearms-industry/state-laws-and-published-ordinances-firearms)
   - (f) Explain how hunting is related to the wise use of renewable wildlife resources.
   - (g) Successfully complete a state hunter education course, or obtain a copy of the hunting laws for your state, then do the following:
+
+    **Resources:** [NRA Hunter Education (website)](https://nra.yourlearningportal.com/Course/HuntersEdActivityInfoPage)
+
     - (1) Explain the main points of hunting laws in your state, and any special laws on the use of guns and ammunition, AND
     - (2) List the kinds of wildlife that can be legally hunted in your state.
   - (h) Explain to your counselor the proper hygienic guidelines followed while shooting.
@@ -26,8 +35,14 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
 - (2) Working under the supervision of a certified National Rifle Association (NRA) rifle instructor and a certified range safety officer, at a nationally authorized camp property or at a commercial firearm range (as defined in the *Scouting America National Range and Target Activities Manual*), do ONE of the following options:
   - **Option A—Rifle Shooting (Modern Cartridge Type).** Do ALL of the following:
     - (1) Identify the three main parts of a rifle, and tell how they function.
+
+      **Resources:** [Common Types of Rifle Actions (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/common_types_rifle_action.png), [Parts of a Rifle (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/parts_of_a_rifle.jpg), [Sight Recticles (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/sight_reticles.jpg), [Firing Sequence (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/firing_sequence.jpg)
     - (2) Identify and demonstrate the rules for safely storing and handling a rifle.
+
+      **Resources:** [Rules for Using or Storing a Gun (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/Rules%20for%20Using%20or%20Storing%20a%20Gun.pdf)
     - (3) Identify the two types of cartridges, their parts, and how they function.
+
+      **Resources:** [Rimfire Cartridge (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/rimfire_cartridge.jpg), [Centerfire Cartridge (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/centerfire_cartridge.jpg)
     - (4) Explain to your counselor what a misfire, hangfire, and squib fire are, and explain the procedures to follow in response to each.
     - (5) Explain and demonstrate the five fundamentals of shooting a rifle: aiming, breath control, hold control, trigger control, and follow-through.
     - (6) Demonstrate the knowledge, skills, and attitude necessary to safely shoot a rifle on a range, including understanding and following range procedures and commands.
@@ -41,7 +56,11 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
   - **Option B—Air Rifle Shooting (BB or Pellet).** Do ALL of the following:
     - (1) Identify the three main parts of an air rifle, and explain how they function.
     - (2) Identify and demonstrate the rules for safely storing and handling an air rifle.
+
+      **Resources:** [Rules for Using or Storing a Gun (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/Rules%20for%20Using%20or%20Storing%20a%20Gun.pdf)
     - (3) Identify the two most common types of air rifle ammunition.
+
+      **Resources:** [Types of Air Rifle Ammunition (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/types_of_air_rifle_ammunition.jpg)
     - (4) Explain and demonstrate the five fundamentals of shooting an air rifle: aiming, breath control, hold control, trigger control, and follow-through.
     - (5) Demonstrate the knowledge, skills, and attitude necessary to safely shoot on a range, including understanding and following range procedures and commands.
     - (6) Explain the basic safety rules for cleaning an air rifle, and identify the materials needed.
@@ -53,8 +72,14 @@ The Rifle Shooting merit badge shows you how a rifle works, how to handle it saf
       **Note:** Other suitable NRA targets may be used based on availability.
   - **Option C—Muzzleloading Rifle Shooting.** Do ALL of the following:
     - (1) Discuss with your counselor a brief history of the development of muzzleloading rifles.
+
+      **Resources:** [A Quick History of Muzzleloading Rifles (video)](https://www.youtube.com/shorts/E1SE_f9tSmk)
     - (2) Identify principal parts of muzzleloading rifles and discuss how they function.
+
+      **Resources:** [Cap Lock Action (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/cap_lock_action.jpg), [Flintlock Action (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/flintlock_action.jpg), [Matchlock Action (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/matchlock_action.jpg), [Wheel Lock Action (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/wheel_lock_action.jpg)
     - (3) Identify and demonstrate the rules for safely storing and handling a muzzleloading rifle.
+
+      **Resources:** [Rules for Using and Storing a Gun (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Rifle%20Shooting/Rules%20for%20Using%20or%20Storing%20a%20Gun.pdf)
     - (4) Identify the various grades of black powder and explain their proper and safe use.
     - (5) Discuss proper safety procedures pertaining to black powder storage.
     - (6) Discuss proper components of a load.

@@ -8,7 +8,7 @@
   "workbook_pdf_url": "http://usscouts.org/mb/worksheets/Electricity.pdf",
   "workbook_docx_url": "http://usscouts.org/mb/worksheets/Electricity.docx",
   "shop_url": "https://www.scoutshop.org/electricity-merit-badge-pamphlet-656202.html",
-  "image_url": "https://www.scouting.org/wp-content/uploads/elementor/thumbs/Electricity-qjjk7p7ex1rmni5l9zqta1xnjo0npalz3uxtbivwps.png",
+  "image_url": "https://www.scouting.org/wp-content/uploads/2022/11/Electricity.png",
   "image_filename": "electricity-merit-badge.jpg",
   "requirements": [
     {
@@ -41,7 +41,16 @@
               "value": "Explain how to turn off power for a particular circuit and the whole house in the event of an emergency."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How To Turn Off Your Home's Electrical Power Supply (video)",
+              "url": "https://youtu.be/YJ3ky3VSGgQ"
+            },
+            {
+              "title": "Turning Off Electricity at the Circuit Box (video)",
+              "url": "https://youtu.be/bvw6D76xfyE"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -75,7 +84,12 @@
               "value": "Describe how to safely get out of a car in an accident if you suspect a utility wire is on the car."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Electric Safety: What To Do if a Downed Wire Falls on Your Car (video)",
+              "url": "https://youtu.be/jpZUaM6kbVg"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -92,7 +106,12 @@
               "value": "Show how to render first aid to a person who is unconscious from an apparent electrical shock."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Electrical Hazards and Emergency Situations (video)",
+              "url": "https://youtu.be/OEtsLDZTDcA"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -126,7 +145,12 @@
               "value": "Explain what to do in the event of an electrical fire."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "5 Steps To Put Out an Electrical Fire (video)",
+              "url": "https://youtu.be/b-kYm1Yiazw"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -143,7 +167,16 @@
               "value": "Explain what to do if caught out in the open during an electrical storm."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Lightning Safety: How To Protect Yourself, What To Avoid (video)",
+              "url": "https://youtu.be/11jsqsGeQiY"
+            },
+            {
+              "title": "Frankenweenie Clip (video)",
+              "url": "https://youtu.be/E-A478dbTh8"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -199,7 +232,12 @@
           "value": "Make a simple electromagnet and use it to show magnetic attraction and repulsion."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "How To Make an Electromagnet! (video)",
+          "url": "https://youtu.be/v8mPY1Ee32s"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -232,7 +270,12 @@
               "value": "Explain the difference between direct current and alternating current, the advantages and disadvantages of each, and give a practical example of the use of each type."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "AC and DC Current Explained (video)",
+              "url": "https://youtu.be/J8qVLb3a35s"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -249,7 +292,12 @@
               "value": "Explain three ways that electricity is produced."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Generating Electricity (video)",
+              "url": "https://youtu.be/ZtTFe4rxw48"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -268,7 +316,16 @@
           "value": "Make a simple drawing to show how a battery and an electric bell work. Describe the purpose of each of the components."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "How an Electric Bell Works / 3D Animation (video)",
+          "url": "https://youtu.be/QSWvekUUV3w"
+        },
+        {
+          "title": "How Do Electric Bells Work? (3D Animation | Electromagnets) (video)",
+          "url": "https://youtu.be/8S-PHo156U4"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -301,7 +358,12 @@
               "value": "Define what overloading an electric circuit means. Tell what you have done to make sure your home circuits are not overloaded."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Overloaded Circuit (video)",
+              "url": "https://youtu.be/T3Ngrw6MYTg"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -335,7 +397,12 @@
               "value": "Explain why a fuse blows and a circuit breaker trips."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Circuit Breaker Keeps Tripping - 3 Common Reasons (video)",
+              "url": "https://youtu.be/9q31SzeVjP0"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -352,7 +419,12 @@
               "value": "Tell how to find a blown fuse and a tripped circuit breaker in your home. Show how to safely reset the circuit breaker."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How To Identify and Reset a Tripped Circuit Breaker (video)",
+              "url": "https://youtu.be/Lb2UhcnK7n8"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -371,7 +443,12 @@
           "value": "Make a floor plan wiring diagram of the lights, switches, and outlets for a room in your home. Show which fuse or circuit breaker protects each one."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "How To Wire a Bedroom Diagram (video)",
+          "url": "https://youtu.be/WJPMY201R-c"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -404,7 +481,12 @@
               "value": "Read a meter associated with an electric bill. Determine the total power used since the bill, and the cost of that power."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Reading a Digital Electric Meter & Calculate Usage and Cost (video)",
+              "url": "https://youtu.be/3G9I1unyOqY"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -421,7 +503,12 @@
               "value": "Explain other charges on the bill that were taxes or fees."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Here Are the Costs That Affect Your Electricity Bill (video)",
+              "url": "https://youtu.be/2StD-2ERCM0"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -438,7 +525,12 @@
               "value": "Discuss with your counselor five ways your family can conserve energy."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Saving Energy at Home - Energy Efficiency Tips (video)",
+              "url": "https://youtu.be/pY6fAYkscTY"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -473,7 +565,12 @@
               "value": "Electrical terms - Current, energy, power, resistance, and voltage"
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Electrical Terms Explained (website)",
+              "url": "https://electricityforum.com/electrical-terms"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -490,7 +587,12 @@
               "value": "Units of measure - Ampere (amps), ohms, volts, watts, and watt-hours"
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "The Difference Between Volts, Watts, and Amps - Explained Like You're Five (video)",
+              "url": "https://youtu.be/lsef_Vlx83M"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -507,7 +609,16 @@
               "value": "Electrical conditions - Generating source with example, ground, open circuit, overvoltage, potential difference, and short circuit"
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Open Circuits, Closed Circuits & Short Circuits - Basic Introduction (video)",
+              "url": "https://youtu.be/v5RJf_V0LYA"
+            },
+            {
+              "title": "What Is Electric Potential Difference? (video)",
+              "url": "https://youtu.be/0Ckmt2QyeqQ"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -559,7 +670,12 @@
               "value": "Connect a buzzer, bell, or light with a battery. Have a key or switch in the line."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Adding Batteries in Series - Buzzer (video)",
+              "url": "https://youtu.be/UWPrhafIUC8"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -576,7 +692,12 @@
               "value": "Make and run a simple electric motor (from a kit is acceptable, if approved by your counselor ahead of time)."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Make the Simplest Electric Motor (video)",
+              "url": "https://youtu.be/iE01AbIhQhE"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -593,7 +714,12 @@
               "value": "Build a simple rheostat. Show that it works."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "The Rheostat (video)",
+              "url": "https://youtu.be/iR3HQR3zu3k"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -610,7 +736,12 @@
               "value": "Build a single-pole, double-throw switch. Show that it works."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "How a Single Pole Double Throw SPDT Switch Works Make and Break (video)",
+              "url": "https://youtu.be/EAvbAiZX2CI"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -627,7 +758,12 @@
               "value": "Explain how 3-way switch wiring works in a lighting circuit."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Best Explanation of 3WAY Switching - in Under 3 Minutes! (video)",
+              "url": "https://youtu.be/RKZrg6XKjak"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -644,7 +780,12 @@
               "value": "Connect two lights together in a series circuit along with a battery and a switch. Then connect the same circuit in parallel. Discuss the differences in the two circuits."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "What Is the Difference Between Series and Parallel Circuits (video)",
+              "url": "https://www.youtube.com/shorts/QKcoDSJSkn0"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -663,7 +804,16 @@
           "value": "Identify three career opportunities that would use skills and knowledge in electricity. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Career Opportunities with an Electrical Engineering Degree (video)",
+          "url": "https://www.tiktok.com/@mal_hoovs/video/7433223621667163438"
+        },
+        {
+          "title": "Power Plant Operators, Distributors, and Dispatchers Career Video (video)",
+          "url": "https://youtu.be/Ug9QtgaRplo"
+        }
+      ],
       "sub_requirements": []
     }
   ]

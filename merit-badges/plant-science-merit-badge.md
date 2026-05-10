@@ -196,7 +196,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
       **Resources:** [Pressing Plants for Herbarium Study (video)](https://youtu.be/zEevM61u4Ew)
     - (5) Obtain a list of rare plants of your state. Tell what is being done to protect rare plants and natural areas in your state. Write a paragraph about one of the rare plants in your state.
 
-      **Resources:** [Rare Plant Profiles (website)](https://www.fs.usda.gov/wildflowers/Rare_Plants/profiles/index.php), [Find Rare Plants Near You (website)](https://saveplants.org/rare-plants-near-me/)
+      **Resources:** [Rare Plant Profiles (website)](https://www.fs.usda.gov/wildflowers/Rare_Plants/profiles/index.php)
     - (6) Do ALL of the requirements in ONE of the following alternatives:
       - (a) **Tree Inventory**
     - (1) Identify the trees of your neighborhood, a park, a section of your town, or a Scout camp.

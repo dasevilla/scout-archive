@@ -19,6 +19,8 @@ With your parent or legal guardian talk about your family’s faith traditions. 
 
 **Activities:**
 
+- **[Bear Fellowship Passport](https://www.scouting.org/cub-scout-activities/bear-fellowship-passport-req-1/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 - **[Beary Happy Turkey Treats](https://www.scouting.org/cub-scout-activities/beary-happy-turkey-treats/)** (Indoor, energy 3, supplies 3, prep 3)
   Create Thanksgiving treats.
 - **[Clay Celebration](https://www.scouting.org/cub-scout-activities/clay-celebration/)** (Indoor, energy 3, supplies 3, prep 3)
@@ -34,6 +36,8 @@ With your family, attend a religious service OR other gathering that shows how y
 
 - **[Attend a Religious Service](https://www.scouting.org/cub-scout-activities/attend-a-religious-service-2/)** (Travel, energy 1, supplies 1, prep 5)
   Attend a religious service based on your family’s choosing.
+- **[Bear Fellowship Passport](https://www.scouting.org/cub-scout-activities/bear-fellowship-passport-req-2/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 - **[Chartered Partner Celebration](https://www.scouting.org/cub-scout-activities/chartered-partner-celebration/)** (Travel, energy 2, supplies 1, prep 4)
   Attend a celebration at your chartered partner based on a faith tradition.
 - **[Veterans Day Celebration](https://www.scouting.org/cub-scout-activities/veterans-day-celebration/)** (Travel, energy 2, supplies 1, prep 5)
@@ -45,6 +49,8 @@ Carry out an act of kindness.
 
 **Activities:**
 
+- **[Bear Fellowship Passport](https://www.scouting.org/cub-scout-activities/bear-fellowship-passport-req-3/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 - **[Kindness Jar](https://www.scouting.org/cub-scout-activities/kindness-jar-2/)** (Indoor, energy 2, supplies 4, prep 2)
   Write nice words about your parent or legal guardian and put them in a jar.
 - **[Make a Friend](https://www.scouting.org/cub-scout-activities/make-a-friend/)** (Indoor, energy 2, supplies 1, prep 2)
@@ -58,6 +64,8 @@ With your parent or legal guardian identify a religion or faith that is differen
 
 **Activities:**
 
+- **[Bear Fellowship Passport](https://www.scouting.org/cub-scout-activities/bear-fellowship-passport-req-4/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 - **[Common Faith Elements](https://www.scouting.org/cub-scout-activities/common-faith-elements/)** (Indoor, energy 2, supplies 2, prep 2)
   Learn about a religion different from your own and name two things that it has in common with your family’s beliefs.
 

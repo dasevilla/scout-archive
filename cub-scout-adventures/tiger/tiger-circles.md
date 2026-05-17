@@ -23,6 +23,8 @@ With your parent or legal guardian talk about your family’s faith traditions. 
   Cub Scouts will identify three celebrations that match their family creating a My Family Celebrations sheet.
 - **[My Family Traditions Worksheet](https://www.scouting.org/cub-scout-activities/my-family-traditions-worksheet/)** (Indoor, energy 1, supplies 1, prep 1)
   Students will learn about their family’s faith traditions by identifying three celebrations and illustrating their favorite.
+- **[Tiger Circles Passport](https://www.scouting.org/cub-scout-activities/tiger-circles-passport-req-1/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 - **[Tiger Holiday Drawing](https://www.scouting.org/cub-scout-activities/tiger-holiday-drawing/)** (Indoor, energy 2, supplies 2, prep 1)
   Draw and color a favorite faith tradition holiday or celebration.
 - **[Tree of Reverence – Tiger](https://www.scouting.org/cub-scout-activities/tree-of-reverence-tiger/)** (Indoor, energy 2, supplies 3, prep 2)
@@ -34,6 +36,8 @@ With your family, attend a religious service **OR** other gathering that shows h
 
 **Activities:**
 
+- **[Tiger Circles Passport](https://www.scouting.org/cub-scout-activities/tiger-circles-passport-req-2/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 - **[Tiger Religious Celebration](https://www.scouting.org/cub-scout-activities/tiger-religious-celebration/)** (Travel, energy 2, supplies 1, prep 5)
   Cub Scouts attend a religious celebration with their family.
 - **[Tiger Religious Service](https://www.scouting.org/cub-scout-activities/tiger-religious-service/)** (Travel, energy 2, supplies 1, prep 5)
@@ -53,6 +57,8 @@ Carry out an act of kindness.
   Cub Scouts perform an act of kindness at home.
 - **[Tiger Be Kind at School](https://www.scouting.org/cub-scout-activities/tiger-be-kind-at-school/)** (Indoor, energy 2, supplies 1, prep 1)
   Cub Scouts show kindness at school by inviting someone who is alone to join them.
+- **[Tiger Circles Passport](https://www.scouting.org/cub-scout-activities/tiger-circles-passport-req-3/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 
 
 ## Resources

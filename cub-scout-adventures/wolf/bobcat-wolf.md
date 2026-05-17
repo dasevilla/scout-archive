@@ -59,7 +59,7 @@ With your den create a den Code of Conduct.
 **Activities:**
 
 - **[Code of Conduct Collage](https://www.scouting.org/cub-scout-activities/code-of-conduct-collage/)** (Indoor, energy 1, supplies 3, prep 3)
-  
+  Cub Scouts will create their den code of conduct.
 - **[Code of Conduct Wolf](https://www.scouting.org/cub-scout-activities/code-of-conduct-wolf/)** (Indoor, energy 1, supplies 2, prep 2)
   Cub Scouts will be invested in their own conduct when they help create their den code of conduct.
 

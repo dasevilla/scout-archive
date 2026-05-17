@@ -25,6 +25,8 @@ With your parent or legal guardian talk about your family’s faith traditions. 
   Make a construction paper mosaic using your family’s favorite holiday tradition symbol.
 - **[Sun Catcher](https://www.scouting.org/cub-scout-activities/sun-catcher/)** (Indoor, energy 2, supplies 3, prep 2)
   Make a sun catcher  of a holiday symbol  that can be hung in your home.
+- **[Wolf Footsteps Passport](https://www.scouting.org/cub-scout-activities/wolf-footsteps-passport-req-1/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 
 ### Requirement 2
 
@@ -36,6 +38,8 @@ With your family, attend a religious service OR other gathering that shows how y
   Attend a religious service based on your family’s choosing.
 - **[Let’s Celebrate Together](https://www.scouting.org/cub-scout-activities/lets-celebrate-together/)** (Travel, energy 2, supplies 1, prep 5)
   Attend a celebration  at your chartered partner  based on a faith tradition.
+- **[Wolf Footsteps Passport](https://www.scouting.org/cub-scout-activities/wolf-footsteps-passport-req-2/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 
 ### Requirement 3
 
@@ -49,6 +53,8 @@ Carry out an act of kindness.
   Cub Scouts learn about the Kindness Rocks program and create kindness rocks.
 - **[Sing with the Elderly](https://www.scouting.org/cub-scout-activities/sing-with-the-elderly/)** (Travel, energy 2, supplies 2, prep 5)
   Sing a song at a retirement community.
+- **[Wolf Footsteps Passport](https://www.scouting.org/cub-scout-activities/wolf-footsteps-passport-req-3/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 
 ### Requirement 4
 
@@ -58,6 +64,8 @@ Listen to or read Aesop’s fable “The Boy Who Cried Wolf.” With your den or
 
 - **[Boy Who Cried Wolf](https://www.scouting.org/cub-scout-activities/boy-who-cried-wolf/)** (Indoor, energy 1, supplies 2, prep 2)
   Read aloud to your den Aesop’s fable “The Boy Who Cried Wolf”
+- **[Wolf Footsteps Passport](https://www.scouting.org/cub-scout-activities/wolf-footsteps-passport-req-4/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 
 
 ## Resources

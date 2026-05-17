@@ -19,6 +19,8 @@ Discuss with your parent or legal guardian your family’s faith traditions or o
 
 **Activities:**
 
+- **[Duty to God Passport](https://www.scouting.org/cub-scout-activities/duty-to-god-passport-req-1/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete   the   Family   and   Reverence   activities   at   home   with   your   family.
 - **[Family Traditions & Scout Values Discussion](https://www.scouting.org/cub-scout-activities/family-traditions-scout-values-discussion/)** (Indoor, energy 1, supplies 1, prep 1)
   Cub Scouts discuss their family’s faith traditions and values and how they relate to the Scout Law with their parents or legal guardians.
 
@@ -28,6 +30,8 @@ Meet with a representative of a faith-based organization in your local community
 
 **Activities:**
 
+- **[Duty to God Passport](https://www.scouting.org/cub-scout-activities/duty-to-god-passport-req-2/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete   the   Family   and   Reverence   activities   at   home   with   your   family.
 - **[Faith-based Guest Speaker](https://www.scouting.org/cub-scout-activities/faith-based-guest-speaker/)** (Indoor, energy 2, supplies 1, prep 4)
   Invite a leader of a faith-based organization to learn how they provide service to those in crisis.
 
@@ -37,6 +41,8 @@ Discuss with your parent, legal guardian, or an adult leader what “Duty to God
 
 **Activities:**
 
+- **[Duty to God Passport](https://www.scouting.org/cub-scout-activities/duty-to-god-passport-req-3/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete   the   Family   and   Reverence   activities   at   home   with   your   family.
 - **[Reverence Discussion](https://www.scouting.org/cub-scout-activities/reverence-discussion/)** (Indoor, energy 1, supplies 1, prep 1)
   Cub Scouts discuss with their parent or legal guardian what “Duty to God” means to their family and how they practice that in their daily life.
 - **[Tree of Reverence-AOL](https://www.scouting.org/cub-scout-activities/tree-of-reverence-aol/)** (Indoor, energy 2, supplies 3, prep 2)

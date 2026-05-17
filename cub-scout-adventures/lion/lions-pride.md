@@ -21,6 +21,8 @@ With your parent or legal guardian talk about your family’s faith traditions. 
 
 - **[Lion Holiday Drawing](https://www.scouting.org/cub-scout-activities/lion-holiday-drawing/)** (Indoor, energy 2, supplies 2, prep 1)
   Draw and color a favorite faith tradition holiday or celebration.
+- **[Lion’s Pride Passport](https://www.scouting.org/cub-scout-activities/lions-pride-passport-req-1/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 - **[Tree of Reverence – Lion](https://www.scouting.org/cub-scout-activities/tree-of-reverence-lion/)** (Indoor, energy 2, supplies 3, prep 2)
   This activity will set a calm and reflective tone as Cub Scouts and their families arrive for the Reverence Adventure. It encourages participants to think about and express what reverence means to them in a creative way.
 
@@ -36,6 +38,8 @@ With your family, attend a religious service OR other gathering that shows how y
   Attend a religious service with your family.
 - **[Lion Family Reverence](https://www.scouting.org/cub-scout-activities/lion-family-reverence/)** (Travel, energy 3, supplies 1, prep 5)
   Attend a Veterans Day event with your den.
+- **[Lion’s Pride Passport](https://www.scouting.org/cub-scout-activities/lions-pride-passport-req-2/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 
 ### Requirement 3
 
@@ -45,6 +49,8 @@ Make a cheerful card or a drawing for someone you love and give it to them.
 
 - **[Lion Note of Kindness](https://www.scouting.org/cub-scout-activities/lion-note-of-kindness/)** (Indoor, energy 2, supplies 2, prep 2)
   Make a card of kindness to give to someone special.
+- **[Lion’s Pride Passport](https://www.scouting.org/cub-scout-activities/lions-pride-passport-req-3/)** (Indoor, energy 2, supplies 2, prep 1)
+  Complete the Family and Reverence activities at home with your family.
 
 
 ## Resources

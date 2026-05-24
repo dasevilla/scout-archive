@@ -85,7 +85,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
     **Resources:** [How to Properly Check and Fill Tires (video)](https://youtu.be/0Q-Eb7aUyt4?si=aIug5NNg5ISPI_RW)
   - (c) Explain why wheel alignment is important to the life of a tire. Explain caster, camber, and toe-in adjustments on wheel alignment.
 
-    **Resources:** [Understanding Wheel Alignment Process (video) (video)](https://youtu.be/Zs2-mdUFnrs?si=k39aCmmH8CFBnW2f)
+    **Resources:** [Understanding Wheel Alignment Process (video)](https://youtu.be/Zs2-mdUFnrs)
   - (d) Explain the purpose of the lateral-wear bar indicator.
 
     **Resources:** [What is a TIre Wear Indicator Bar? (video)](https://youtu.be/juwEdAk8fQU?si=tKT9gEm5OWE_sR_V), [Knowing When to Replace Your Tires (video)](https://youtu.be/eX1yNinA14k?si=qF8EliaSn4wuUnrN)

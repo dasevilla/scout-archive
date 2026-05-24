@@ -41,7 +41,7 @@ While earning this merit badge, Scouts will discover how land is measured and ho
 
 - (8) Identify three career opportunities that would use skills and knowledge in surveying. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-  **Resources:** [Careers in Surveying and Mapping (Video)](https://youtu.be/4V14pXYyIuo?si=-R9CyC9I8ZVvi9-D)
+  **Resources:** [Careers in Surveying and Mapping (video)](https://youtu.be/4V14pXYyIuo)
 
 ## Resources
 

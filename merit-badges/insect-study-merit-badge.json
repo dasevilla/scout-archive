@@ -375,7 +375,7 @@
         {
           "id": "13467",
           "label": "c",
-          "text": "Make a scrapbook of the 20 insects you observe in 4(b). Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your counselor.",
+          "text": "Make a scrapbook of the 20 insects you observe in 4(b). Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your counselor.Resources: How To Start a Bug Collection (video)\nHow To Make an Insect Collection: Spreading (video)\nCollecting Insects: Tools and Supplies (video)\nInsect Collecting—Tools & Tips (video)",
           "requirement_path": "4.c",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -383,27 +383,92 @@
           "content": [
             {
               "type": "text",
-              "value": "Make a scrapbook of the 20 insects you observe in 4(b). Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your counselor."
+              "value": "Make a scrapbook of the 20 insects you observe in 4(b). Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your counselor.Resources: "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/_Ep2ronR_io"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "How To Start a Bug Collection (video)"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/KFacqZ9CM4w"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "How To Make an Insect Collection: Spreading (video)"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/CcBOm6DQ20g"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Collecting Insects: Tools and Supplies (video)"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/hB9lyBkWaEE"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Insect Collecting—Tools & Tips (video)"
+                }
+              ]
             }
           ],
-          "resources": [
-            {
-              "title": "How to Start a Bug Collection (video)",
-              "url": "https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz"
-            },
-            {
-              "title": "How to Make an Insect Collection: Spreading ( video)",
-              "url": "https://www.youtube.com/watch?v=KFacqZ9CM4w"
-            },
-            {
-              "title": "Collecting Insects: Tools and Supplies (Video)",
-              "url": "https://www.youtube.com/watch?v=CcBOm6DQ20g"
-            },
-            {
-              "title": "Insect Collecting - Tools & Tips ( video)",
-              "url": "https://www.youtube.com/watch?v=hB9lyBkWaEE"
-            }
-          ],
+          "resources": [],
           "sub_requirements": []
         },
         {
@@ -684,7 +749,7 @@
         {
           "id": "13472",
           "label": "b",
-          "text": "Describe three alternatives to insecticides as a way of preventing crop injury and subsequent yield loss. Explain the advantages and disadvantages of these alternatives.",
+          "text": "Describe three alternatives to insecticides as a way of preventing crop injury and subsequent yield loss. Explain the advantages and disadvantages of these alternatives. Resources: Ultimate Pest Control Guide for Farmers (video)\n4 Ways Nuclear Techniques Help Feed the World (video)",
           "requirement_path": "7.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -692,19 +757,46 @@
           "content": [
             {
               "type": "text",
-              "value": "Describe three alternatives to insecticides as a way of preventing crop injury and subsequent yield loss. Explain the advantages and disadvantages of these alternatives."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Ultimate Pest Control Guide for Farmers (Video)",
-              "url": "https://www.youtube.com/watch?v=AVSs-EkYTCo"
+              "value": "Describe three alternatives to insecticides as a way of preventing crop injury and subsequent yield loss. Explain the advantages and disadvantages of these alternatives. Resources: "
             },
             {
-              "title": "4 Ways Nuclear Techniques Help Feed the World ( video)",
-              "url": "https://youtu.be/2ef83qy2R6I?si=_MDuPzsxkk6a0Z8v"
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/AVSs-EkYTCo"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Ultimate Pest Control Guide for Farmers (video)"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/2ef83qy2R6I"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "4 Ways Nuclear Techniques Help Feed the World (video)"
+                }
+              ]
             }
           ],
+          "resources": [],
           "sub_requirements": []
         }
       ]
@@ -838,7 +930,7 @@
         {
           "id": "13476",
           "label": "b",
-          "text": "Identify how you might use the skills and knowledge in Insect Study to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.",
+          "text": "Identify three career opportunities that would use skills and knowledge in Insect Study. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Resources: Meet an Entomologist (video)\nEntomologist (video)",
           "requirement_path": "9.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -846,15 +938,46 @@
           "content": [
             {
               "type": "text",
-              "value": "Identify how you might use the skills and knowledge in Insect Study to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this."
-            }
-          ],
-          "resources": [
+              "value": "Identify three career opportunities that would use skills and knowledge in Insect Study. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Resources: "
+            },
             {
-              "title": "Beekeeping 101 - Quick Guide for Beginners (video)",
-              "url": "https://youtube.com/shorts/WagGi28NJzY?si=Qkhv6Bu_X6WEeff1"
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/bz1QM5Y9aqk"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Meet an Entomologist (video)"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/bQ0yAZQF0mE"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Entomologist (video)"
+                }
+              ]
             }
           ],
+          "resources": [],
           "sub_requirements": []
         }
       ]

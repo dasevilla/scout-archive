@@ -54,8 +54,10 @@ A search is an emergency situation requiring a team of trained searchers to loca
     **Resources:** [Snakebites (video)](https://youtu.be/_H8ROJD1oIo), [Rattlesnake Bites (video)](https://youtu.be/PZ93mhPZS3s)
   - (b) Explain how the Scout Basic Essentials address hazards outdoors and help lost Scouts stay safe before they are rescued.
 
-    **Resources:** [Scout Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/), [Scout Essentials and Outdoor Hazards (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Search%20and%20Rescue/Scout%20Essentials%20and%20Outdoor%20Hazards.pdf)
+    **Resources:** [Scout Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/), [Scout Essentials and Outdoor Hazards (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Search%20and%20Rescue/Scout%20Essentials%20and%20Outdoor%20Hazards.pdf), [Essentials for Safe Hiking (video)](https://youtu.be/YGQG0C0HBGw)
   - (c) Discuss how the safety gear carried by SAR team members in their field packs address SAR hazards.
+
+    **Resources:** [What I Carry in My Search and Rescue Pack (video)](https://youtu.be/8G2pYjxCfgg)
 
 - (2) **Staying and Getting Found.** Do the following:
   - (a) Explain how a trip plan and the buddy system help Scouts with staying found and getting found.

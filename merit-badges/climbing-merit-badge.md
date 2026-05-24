@@ -15,7 +15,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
     **Resources:** [Risk Management in Rock Climbing (video)](https://youtu.be/7YqZkQRSMRw)
   - (b) Show that you know first aid for and how to prevent injuries or illnesses that could occur during climbing activities, including heat and cold reactions, dehydration, stopped breathing, sprains, abrasions, fractures, rope burns, blisters, snakebite, concussions, and insect bites or stings.
 
-    **Resources:** [Treatment of Rope Burns (website)](https://www.healthline.com/health/rope-burn), [Head, Neck, and Spine Injuries (video)](https://youtu.be/x-YYjkokQ6U), [First Aid for Concussions (video)](https://youtu.be/mlWaByoT24s), [Fracture and Dislocation (Video)](https://youtu.be/sPzXAVNVJr0), [How To Treat A Blister Correctly (First, Look At Your Blister Roof) (video)](https://youtu.be/tGqXa3wujiM), [What Is Dehydration? Causes, Signs and Symptoms, Diagnosis and Treatment. (video)](https://youtu.be/KahsIEbFROI)
+    **Resources:** [Treatment of Rope Burns (website)](https://www.healthline.com/health/rope-burn), [Head, Neck, and Spine Injuries (video)](https://youtu.be/x-YYjkokQ6U), [First Aid for Concussions (video)](https://youtu.be/mlWaByoT24s), [Fracture and Dislocation (video)](https://youtu.be/sPzXAVNVJr0), [How To Treat A Blister Correctly (First, Look At Your Blister Roof) (video)](https://youtu.be/tGqXa3wujiM), [What Is Dehydration? Causes, Signs and Symptoms, Diagnosis and Treatment. (video)](https://youtu.be/KahsIEbFROI)
   - (c) Identify the conditions that must exist before performing CPR on a person.
 
     **Resources:** [What To Do Before Starting Hands-Only CPR (video)](https://youtu.be/khJ40b2TuHg)

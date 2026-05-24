@@ -23,7 +23,7 @@ The Signs, Signals and Codes merit badge covers a number of the nonverbal ways w
     **Resources:** [How Does Morse Code Work? (video)](https://youtu.be/iy8BaMs_JuI), [International Morse Code (website)](https://morsecode.world/international/morse2.html)
   - (b) Describe what American Sign Language (ASL) is and how it is used today. Spell your first name using American Sign Language. Send or receive a message of six to 10 words using ASL.
 
-    **Resources:** [Learn ASL Alphabet Video (video)](https://youtu.be/6_gXiBe9y9A), [A Few Things To Know About American Sign Language (video)](https://youtu.be/wa0nxppMJ-Q)
+    **Resources:** [Learn ASL Alphabet (video)](https://youtu.be/6_gXiBe9y9A), [A Few Things To Know About American Sign Language (video)](https://youtu.be/wa0nxppMJ-Q)
 
 - (4) Do the following:
   - (a) Give your counselor a brief explanation about semaphore, why it is used, how it is used, and where it is used.

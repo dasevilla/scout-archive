@@ -37,9 +37,10 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
 
   **Resources:** [Ecological Roles of Reptiles and Amphibians (website with videos)](https://www.online-field-guide.com/ecological-roles-of-reptiles-and-amphibians/), [Dying for Protection: Amphibians and Reptiles (video)](https://youtu.be/dQpHqkAvNnc?si=2E6kp1GO8McIHRsI), [Search for Endangered Species in Your Area \| U.S. Fish & Wildlife Service (website)](https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report?kingdom=V&kingdom=I&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&header=Listed+Animals), [Feeding Our Amphibians (video)](https://www.youtube.com/watch?v=baY4dzLSWlY)
 
-- (5) Compare how reptiles reproduce to how amphibians reproduce.
-
-  **Resources:** [Reptile vs Amphibian (video)](https://www.youtube.com/watch?v=GKM_mDDPJh0), [Lifecycle of an Amphibian (Frog) (video)](https://youtu.be/sZnvgGmvuVs?si=3d5-sxPLy1jJbJz_), [How Lizards Reproduce (Video)](https://www.youtube.com/watch?v=ACEpFX2Dnmk), [What Are Oviparous and Viviparous Snakes? (video)](https://youtu.be/KFCfL99rHpw?si=rCqWcKm5S4LBA7zW)
+- (5) Compare how reptiles reproduce to how amphibians reproduce. Resources: [Reptile vs Amphibian (video)](https://youtu.be/GKM_mDDPJh0)
+  [Lifecycle of an Amphibian (Frog) (video)](https://youtu.be/sZnvgGmvuVs)
+  [How Lizards Reproduce (video)](https://youtu.be/ACEpFX2Dnmk)
+  [What Are Oviparous and Viviparous Snakes? (video)](https://youtu.be/KFCfL99rHpw)
 
 - (6) From observation, describe how snakes move forward. Describe the functions of the muscles, ribs, and belly plates.
 

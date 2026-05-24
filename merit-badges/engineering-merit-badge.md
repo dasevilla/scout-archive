@@ -47,7 +47,7 @@ Engineers use both science and technology to turn ideas into reality, devising a
     **Resources:** [Engineering Material Properties (video)](https://youtu.be/tGfLhPslEjQ?si=o7MiNTtvYjIKf9m4)
   - (e) **Converting Energy.** Do an experiment to show how mechanical, heat, chemical, solar, and/or electrical energy may be converted from one or more types of energy to another. Explain your results. Describe to your counselor what energy is and how energy is converted and used in your surroundings.
 
-    **Resources:** [STEM Experiment: Energy Conversion (video)](https://youtu.be/Z_DXxUbOkSk?si=r7ZuOV99AW1jzPdB), [1st place Mousetrap Car Ideas (video)](https://youtu.be/b7zWwo9dbiU), [Chemical Powered Cars (video)](https://youtu.be/brIzBE6bzFc), [2018 Official Chem-E-Car Competition® Video (video)](https://youtu.be/uQCmr1DlUqk?list=PLQAdAOMAl_nHN-CJ2rqO-HhGxVZMF6VcI)
+    **Resources:** [STEM Experiment: Energy Conversion (video)](https://youtu.be/Z_DXxUbOkSk?si=r7ZuOV99AW1jzPdB), [1st Place Mousetrap Car Ideas (video)](https://youtu.be/b7zWwo9dbiU), [Chemical Powered Cars (video)](https://youtu.be/brIzBE6bzFc), [2018 Official Chem-E-Car Competition® (video)](https://youtu.be/uQCmr1DlUqk)
   - (f) **Moving People.** Find out the different ways people in your community get to work. Make a study of traffic flow (number of vehicles and relative speed) in both heavy and light traffic periods. Discuss with your counselor what might be improved to make it easier for people in your community to get where they need to go.
 
     **Resources:** [Moving People Can Be Complicated (video)](https://youtu.be/erYf6NNw8Ec?si=WJWYMhjisgEdtpWp), [Engineering Traffic (video)](https://youtu.be/iHzzSao6ypE?si=XdiQikXkWIX8rj-5)

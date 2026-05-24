@@ -202,7 +202,7 @@ Radio is a way to send information, or communications, from one place to another
 - (9) **Careers.** Do ONE of the following.
   - (a) Explore careers related to radio. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and advancement. With permission of your parent or guardian, your research methods may include an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work or train. Discuss your findings and career interest with your counselor.
 
-    **Resources:** [How I Got That Job: Public Radio (video)](https://youtu.be/0M-WdfQlk3Q), [Broadcast Announcers and Radio Disc Jockeys Career Video (video)](https://youtu.be/ftGPn35lNhw)
+    **Resources:** [How I Got That Job: Public Radio (video)](https://youtu.be/0M-WdfQlk3Q), [Broadcast Announcers and Radio Disc Jockeys Careers (video)](https://youtu.be/ftGPn35lNhw)
   - (b) Explore how you could use radio knowledge and skills to develop a hobby or to serve as a volunteer. If possible, with permission of your parent or guardian, interview a radio hobbyist or volunteer. Research training and licensing needed, expenses, and organizations that promote or support your objectives. Discuss with your counselor what short-term and long-term goals you might have if you pursue this.
 
     **Resources:** [(Hobbies) Ham Radio (video)](https://youtu.be/sULPHxTkDnk), [5 MOST POPULAR Ham Radio Hobbies (video)](https://youtu.be/sEDg7HycNU0)

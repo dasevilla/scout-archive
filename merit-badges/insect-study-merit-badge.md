@@ -44,9 +44,10 @@ In earning the Insect Study merit badge, Scouts will glance into the strange and
   - (b) Observe 20 different live species of insects in their habitat. In your observations, include at least four orders of insects.
 
     **Resources:** [Insect Orders ( video)](https://www.youtube.com/watch?v=RFMA3u-lZ3U), [Crash Course in Entomology: The "Big Four" Insect Orders ( video)](https://www.youtube.com/watch?v=HOhbf5JtCGo), [An Introduction to Insect Orders ( video)](https://www.youtube.com/watch?v=Ogh7_ITZ3Xg)
-  - (c) Make a scrapbook of the 20 insects you observe in 4(b). Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your counselor.
-
-    **Resources:** [How to Start a Bug Collection (video)](https://youtu.be/_Ep2ronR_io?si=VWUcH8SZodx_njzz), [How to Make an Insect Collection: Spreading ( video)](https://www.youtube.com/watch?v=KFacqZ9CM4w), [Collecting Insects: Tools and Supplies (Video)](https://www.youtube.com/watch?v=CcBOm6DQ20g), [Insect Collecting - Tools & Tips ( video)](https://www.youtube.com/watch?v=hB9lyBkWaEE)
+  - (c) Make a scrapbook of the 20 insects you observe in 4(b). Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your counselor.Resources: [How To Start a Bug Collection (video)](https://youtu.be/_Ep2ronR_io)
+    [How To Make an Insect Collection: Spreading (video)](https://youtu.be/KFacqZ9CM4w)
+    [Collecting Insects: Tools and Supplies (video)](https://youtu.be/CcBOm6DQ20g)
+    [Insect Collecting—Tools & Tips (video)](https://youtu.be/hB9lyBkWaEE)
   - (d) From your scrapbook collection, select eight species of insects and identify what role they play in the ecosystem.
 
     **Resources:** [Why Insects Are So Crucial to Life on Earth ( video)](https://www.youtube.com/watch?v=6QwiYfqX1sg), [Why Are Insects Important? (website)](https://www.youtube.com/watch?v=19iEWe-qH5o)
@@ -75,9 +76,8 @@ In earning the Insect Study merit badge, Scouts will glance into the strange and
   - (a) Explain the symbiotic relationship between bees and humankind. Explain what colony collapse disorder (CCD) is and some of the possible causes. Discuss how CCD affects our food supply.
 
     **Resources:** [Hundreds of Millions of Bees Mysteriously Dying ( video)](https://youtu.be/qWsBZbnt_4A?si=cYkszuDmpwAm3ELw), [Why Are the Bees Dying? (video)](https://youtu.be/Eelf07i3ESA?si=yzK6c2on91pQjr_o), [Colony Collapse Disorder (website)](https://www.epa.gov/pollinator-protection/colony-collapse-disorder)
-  - (b) Describe three alternatives to insecticides as a way of preventing crop injury and subsequent yield loss. Explain the advantages and disadvantages of these alternatives.
-
-    **Resources:** [Ultimate Pest Control Guide for Farmers (Video)](https://www.youtube.com/watch?v=AVSs-EkYTCo), [4 Ways Nuclear Techniques Help Feed the World ( video)](https://youtu.be/2ef83qy2R6I?si=_MDuPzsxkk6a0Z8v)
+  - (b) Describe three alternatives to insecticides as a way of preventing crop injury and subsequent yield loss. Explain the advantages and disadvantages of these alternatives. Resources: [Ultimate Pest Control Guide for Farmers (video)](https://youtu.be/AVSs-EkYTCo)
+    [4 Ways Nuclear Techniques Help Feed the World (video)](https://youtu.be/2ef83qy2R6I)
 
 - (8) **Conservation.** Do the following:
   - (a) Tell the migration route of an insect (e.g., monarch butterfly). Discuss the challenges they face and how Scouts can contribute to their success.
@@ -91,9 +91,8 @@ In earning the Insect Study merit badge, Scouts will glance into the strange and
   - (a) Identify three career opportunities that would use skills and knowledge in Insect Study. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
     **Resources:** [Meet an Entomologist ( video)](https://www.youtube.com/watch?v=bz1QM5Y9aqk), [Occupational Video - Entomologist ( video)](https://www.youtube.com/watch?v=bQ0yAZQF0mE)
-  - (b) Identify how you might use the skills and knowledge in Insect Study to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
-
-    **Resources:** [Beekeeping 101 - Quick Guide for Beginners (video)](https://youtube.com/shorts/WagGi28NJzY?si=Qkhv6Bu_X6WEeff1)
+  - (b) Identify three career opportunities that would use skills and knowledge in Insect Study. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Resources: [Meet an Entomologist (video)](https://youtu.be/bz1QM5Y9aqk)
+    [Entomologist (video)](https://youtu.be/bQ0yAZQF0mE)
 
 ## Resources
 

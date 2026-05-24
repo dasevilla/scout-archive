@@ -20,7 +20,7 @@ Welding is the process of joining with a weld – joining or combining similar p
 - (2) Do the following:
   - (a) With your counselor, discuss general safety precautions and safety data sheets (SDS) related to welding. Explain the importance of the SDS.
 
-    **Resources:** [Safety Data Sheets Training Video (video)](https://youtu.be/_yWF-w3CwmU?si=RygDv1LH-6pEBP-L)
+    **Resources:** [Safety Data Sheets (video)](https://youtu.be/_yWF-w3CwmU)
   - (b) Describe the appropriate safety gear and clothing that must be worn when welding. Then, present yourself properly dressed for welding—in protective equipment, clothing, and footwear.
 
     **Resources:** [Welding Safety PPE Guide \| Must-Have Essentials for Safe Welding Practices (video)](https://youtu.be/YsAmLFF03jI?si=llTGf61a3qyktawl)

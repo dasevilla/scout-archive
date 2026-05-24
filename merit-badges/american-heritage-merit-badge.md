@@ -46,7 +46,7 @@ Every Scout swears to an oath that includes duty to his country. A better unders
 - (5) Do ONE of the following:
   - (a) Watch two motion pictures (with the approval and permission of your counselor and parent or guardian) that are set in some period of American history. Describe to your counselor how accurate each film is with regard to the historical events depicted and also with regard to the way the characters are portrayed.
 
-    **Resources:** [Gettysburg (1993) Official Trailer (video)](https://youtu.be/9Vz5f9NOVuk), [Remember the Titans Official Trailer (video)](https://youtu.be/35MvdHBWjwU), [Tora! Tora! Tora! Theatrical Movie Trailer (video)](https://youtu.be/2QwaNhalGcQ), [Hidden Figures \| Official Trailer (video)](https://youtu.be/5wfrDhgUMGI), [A League of Their Own—Official Trailer \| Prime Video (video)](https://youtu.be/H8qMhtkB18k)
+    **Resources:** [Gettysburg (1993) Official Trailer (video)](https://youtu.be/9Vz5f9NOVuk), [Remember the Titans Official Trailer (video)](https://youtu.be/35MvdHBWjwU), [Tora! Tora! Tora! Theatrical Movie Trailer (video)](https://youtu.be/2QwaNhalGcQ), [Hidden Figures \| Official Trailer (video)](https://youtu.be/5wfrDhgUMGI), [A League of Their Own—Official Trailer (video)](https://youtu.be/H8qMhtkB18k)
   - (b) Read a biography (with your counselor's approval) of someone who has made a contribution to America's heritage. Tell some things you admire about this individual and some things you do not admire. Explain why you think this person has made a positive or a negative contribution to America's heritage.
 
     **Resources:** [America250 Reading List: A Journey Through Stories That Shaped a Nation (video)](https://youtu.be/FCL5cIfkvrA)

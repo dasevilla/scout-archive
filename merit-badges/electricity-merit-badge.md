@@ -109,7 +109,7 @@ Learn why electricity plays a significant role in the economy and how energy con
 
 - (11) Identify three career opportunities that would use skills and knowledge in electricity. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-  **Resources:** [Career Opportunities with an Electrical Engineering Degree (video)](https://www.tiktok.com/@mal_hoovs/video/7433223621667163438), [Power Plant Operators, Distributors, and Dispatchers Career Video (video)](https://youtu.be/Ug9QtgaRplo)
+  **Resources:** [Career Opportunities with an Electrical Engineering Degree (video)](https://www.tiktok.com/@mal_hoovs/video/7433223621667163438), [Power Plant Operators, Distributors, and Dispatchers Careers (video)](https://youtu.be/Ug9QtgaRplo)
 
 ## Resources
 

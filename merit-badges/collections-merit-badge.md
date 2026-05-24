@@ -65,7 +65,7 @@ Discover how collecting can be an educational and financially rewarding pastime 
 
 - (7) Find out about career opportunities in collecting. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
 
-  **Resources:** [Curators, Conservators, and Museum Workers Career Video (video)](https://youtu.be/zLYjrT_jvY0?si=p78dVOqsf4ntE4yz), [Dream Jobs: Antiquer (video)](https://youtu.be/bvMjvg23mBk?si=zAYSwNmi7tMyZeqV)
+  **Resources:** [Curators, Conservators, and Museum Workers Careers (video)](https://youtu.be/zLYjrT_jvY0), [Dream Jobs: Antiquer (video)](https://youtu.be/bvMjvg23mBk)
 
 ## Resources
 

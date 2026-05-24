@@ -86,7 +86,7 @@ Plant scientists use their curiosity and knowledge to develop questions about th
       **Resources:** [USDA - National Agricultural Statistics Service - Charts and Maps - Field Crops (website)](https://www.nass.usda.gov/Charts_and_Maps/Field_Crops/index.php)
     - (2) Help in harvesting a crop of grain. Tell how to reduce harvesting losses and about modern methods of growing one small grain crop.
 
-      **Resources:** [Growing and Harvesting Wheat on a Small Scale (video)](https://youtu.be/RYn_yUUpwSQ), [Reducing Soybean Harvest Losses \| Michigan Soybean \| Harvest Demonstration Video (video)](https://youtu.be/PEgONTJko6s)
+      **Resources:** [Growing and Harvesting Wheat on a Small Scale (video)](https://youtu.be/RYn_yUUpwSQ), [Reducing Soybean Harvest Losses \| Michigan Soybean \| Harvest Demonstration (video)](https://youtu.be/PEgONTJko6s)
     - (3) Visit a grain elevator, flour mill, cereal plant, feed or seed company. Talk with the operator. Take notes, and describe the processes used and tell your patrol, troop, or class about your visit.
 
       **Resources:** [The Journey: Wheat into Flour (video)](https://youtu.be/PYP6AnNQjNo?si=mL4eQyG6nOPebuk5), [Everything About Grain Bins (Farmers are Geniuses) (video)](https://youtu.be/ywBV6M7VOFU?si=ngV-w_iXGlnwjTox), [How Does a Seed Company Work? (video)](https://youtu.be/zFzQE7kKAck?si=TaPtU3MhtTWMCv_Q)

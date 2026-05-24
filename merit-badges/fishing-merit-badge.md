@@ -63,7 +63,7 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 
 - (10) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. **Note:** It is not required that you eat the fish.
 
-  **Resources:** [How to Clean and Care for Your Catch (video)](https://youtu.be/uBDYqh8p2fU?si=M9GBz5gWCTISdC5k), [How to Fillet a Fish (video)](https://www.youtube.com/shorts/hca5xiZbulY?feature=share), [How to Clean a Fish Before Cooking (short video)](https://www.youtube.com/shorts/u19fJ10kAVo?feature=share), [How to Cook a Fish (video)](https://youtu.be/BSQhEjSalwk), [5 Easy Ways to Cook Fish (video)](https://youtu.be/Tgv7tCx2NsA?si=NwsJpJx4rYU3qDOX)
+  **Resources:** [How To Clean and Care for Your Catch (video)](https://youtu.be/uBDYqh8p2fU), [How To Fillet a Fish (video)](https://www.youtube.com/shorts/hca5xiZbulY), [How To Cook a Fish (video)](https://youtu.be/BSQhEjSalwk), [5 Easy Ways To Cook Fish (video)](https://youtu.be/Tgv7tCx2NsA)
 
 ## Resources
 

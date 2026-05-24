@@ -15,7 +15,7 @@ Multisport is a racing competition that includes any combination of running, bik
     **Resources:** [How To Avoid Injury When Triathlon Training (video)](https://youtu.be/LckcSB-O8UI)
   - (b) Show that you know first aid for injuries or illnesses that could occur while participating in multisport events, including abrasions, blisters, concussions, contusions, dehydration, hypothermia, overheating, sprains, and strains.
 
-    **Resources:** [R.I.C.E. Treatment for Sprains and Strains (video)](https://youtu.be/TZqDBgiEfL8), [Treating Heat Exhaustion and Heat Stroke (video)](https://youtu.be/5hSpMdlXZw0), [How To Avoid and Treat Foot Blisters (video)](https://youtu.be/H6xlECl9ZBg)
+    **Resources:** [RICE Treatment for Sprains and Strains (video)](https://youtu.be/TZqDBgiEfL8), [Treating Heat Exhaustion and Heat Stroke (video)](https://youtu.be/5hSpMdlXZw0), [How To Avoid and Treat Foot Blisters (video)](https://youtu.be/H6xlECl9ZBg)
 
 - (2) Do the following:
   - (a) Discuss the importance of having a physical examination each year. Discuss why overall health, immunizations, medications, allergies, and medical history are covered during an examination. Tell your counselor when you last underwent a physical examination.

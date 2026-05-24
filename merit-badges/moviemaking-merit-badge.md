@@ -29,7 +29,7 @@ Moviemaking is a way to tell stories visually through the art and science of mot
       **Resources:** [Camera Panning (video)](https://youtu.be/Km7Rfpda_Lw)
     - (3) Framing a shot
 
-      **Resources:** [Reverse Shot (video)](https://youtu.be/5UE3jz_O_EM), [Frame it Right Essential Framing (short video)](https://www.youtube.com/shorts/DAwz2Wnrr90?feature=share)
+      **Resources:** [Reverse Shot (video)](https://youtu.be/5UE3jz_O_EM), [Frame It Right Essential Framing (video)](https://www.youtube.com/shorts/DAwz2Wnrr90?feature=share)
     - (4) Selecting an angle
 
       **Resources:** [Filmmaking 101: 5 Camera Angles (video)](https://youtu.be/nfHvSnILXl0?si=9ObCi1MwUvu3CHyW), [12 CAMERA ANGLES to Enhance Your Films (video)](https://youtu.be/SlNviMsi0K0)

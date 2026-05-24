@@ -51,7 +51,7 @@ Plumbing, including pipe fitting, is an important and well-paid occupation. The 
     **Resources:** [How To Cut And Crimp Pex - From A Professional (video)](https://youtu.be/vpnp3RayEPI?si=iieOezZIhF4ePAB-)
   - (d) Solder a copper connection using a gas torch.
 
-    **Resources:** [Copper Pipe Soldering-How to Solder for Beginners Video   (video)](https://youtu.be/TOtOpixWTXE?si=Jl_jeHOlvComjB_k)
+    **Resources:** [Copper Pipe Soldering—How To Solder for Beginners (video)](https://youtu.be/TOtOpixWTXE)
   - (e) Replace a kitchen or lavatory faucet.
 
     **Resources:** [Women's DIY Bathroom Remodel (video)](https://youtu.be/hyTeVMYgRM0?si=Vjs95F0m6dK-Ae11)

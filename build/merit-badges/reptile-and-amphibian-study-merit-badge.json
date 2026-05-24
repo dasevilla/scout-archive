@@ -274,7 +274,7 @@
     {
       "id": "11054",
       "label": "5",
-      "text": "Compare how reptiles reproduce to how amphibians reproduce.",
+      "text": "Compare how reptiles reproduce to how amphibians reproduce. Resources: Reptile vs Amphibian (video)\nLifecycle of an Amphibian (Frog) (video)\nHow Lizards Reproduce (video)\nWhat Are Oviparous and Viviparous Snakes? (video)",
       "requirement_path": "5",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -282,27 +282,92 @@
       "content": [
         {
           "type": "text",
-          "value": "Compare how reptiles reproduce to how amphibians reproduce."
+          "value": "Compare how reptiles reproduce to how amphibians reproduce. Resources: "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://youtu.be/GKM_mDDPJh0"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "Reptile vs Amphibian (video)"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "text",
+          "value": " "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://youtu.be/sZnvgGmvuVs"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "Lifecycle of an Amphibian (Frog) (video)"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "text",
+          "value": " "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://youtu.be/ACEpFX2Dnmk"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "How Lizards Reproduce (video)"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "text",
+          "value": " "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://youtu.be/KFCfL99rHpw"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "What Are Oviparous and Viviparous Snakes? (video)"
+            }
+          ]
         }
       ],
-      "resources": [
-        {
-          "title": "Reptile vs Amphibian (video)",
-          "url": "https://www.youtube.com/watch?v=GKM_mDDPJh0"
-        },
-        {
-          "title": "Lifecycle of an Amphibian (Frog) (video)",
-          "url": "https://youtu.be/sZnvgGmvuVs?si=3d5-sxPLy1jJbJz_"
-        },
-        {
-          "title": "How Lizards Reproduce (Video)",
-          "url": "https://www.youtube.com/watch?v=ACEpFX2Dnmk"
-        },
-        {
-          "title": "What Are Oviparous and Viviparous Snakes? (video)",
-          "url": "https://youtu.be/KFCfL99rHpw?si=rCqWcKm5S4LBA7zW"
-        }
-      ],
+      "resources": [],
       "sub_requirements": []
     },
     {

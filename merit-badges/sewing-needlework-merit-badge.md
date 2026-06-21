@@ -41,7 +41,7 @@
 
 - (4) **Art**. Visit a quilt or textile arts show or museum display either in-person or virtually. Explain to your counselor how they were created.
 
-  **Resources:** [Complete List of Quilt Museums around the World](https://ronatheribbiter.com/quilt-museums-around-the-world/), [https://www.quiltinghub.com/Museums](https://www.quiltinghub.com/Museums)
+  **Resources:** [Complete List of Quilt Museums around the World](https://ronatheribbiter.com/quilt-museums-around-the-world/)
 
 - (5) **Service.** Discuss with your counselor how sewing and needlework skills might be of service to others. How can they benefit your family, community, church, or school.
 

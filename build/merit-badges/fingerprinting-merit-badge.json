@@ -14,7 +14,7 @@
     {
       "id": "13207",
       "label": "1",
-      "text": "Give a short history of fingerprinting. Tell the difference between civil and criminal identification.",
+      "text": "Give a short history of fingerprinting. Tell the difference between civil and criminal identification. Resources: How Did Detectives Solve the Case of the Bloody Fingerprints? (video)\nHistory of Fingerprinting (video)",
       "requirement_path": "1",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -22,23 +22,46 @@
       "content": [
         {
           "type": "text",
-          "value": "Give a short history of fingerprinting. Tell the difference between civil and criminal identification."
-        }
-      ],
-      "resources": [
-        {
-          "title": "The Origins of Fingerprinting and How They Became a Staple in Modern Forensic Science (video)",
-          "url": "https://www.youtube.com/watch?v=fMLGROOcvWQ"
+          "value": "Give a short history of fingerprinting. Tell the difference between civil and criminal identification. Resources: "
         },
         {
-          "title": "How Did Detectives Solve the Case of the Bloody Fingerprints? (video)",
-          "url": "https://youtu.be/__nlupHISg0?si=YZ6NXUgVMs4VwfFJ"
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://youtu.be/__nlupHISg0"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "How Did Detectives Solve the Case of the Bloody Fingerprints? (video)"
+            }
+          ]
         },
         {
-          "title": "History of Fingerprinting (video)",
-          "url": "https://www.youtube.com/watch?v=wg-lgiPV4rw"
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "text",
+          "value": " "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://youtu.be/wg-lgiPV4rw"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "History of Fingerprinting (video)"
+            }
+          ]
         }
       ],
+      "resources": [],
       "sub_requirements": []
     },
     {

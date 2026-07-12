@@ -157,7 +157,7 @@
     {
       "id": "16015",
       "label": "3",
-      "text": "Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: Safety Note: Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" chapter of the Space Exploration merit badge pamphlet. Alternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.Identify and explain the following rocket parts:",
+      "text": "Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: Safety Note: Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" section of the Space Exploration merit badge. Alternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.Identify and explain the following rocket parts:",
       "requirement_path": "3",
       "node_kind": "action_requirement",
       "is_container": true,
@@ -180,22 +180,7 @@
         },
         {
           "type": "text",
-          "value": " Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" chapter of the "
-        },
-        {
-          "type": "element",
-          "tag": "em",
-          "attrs": {},
-          "children": [
-            {
-              "type": "text",
-              "value": "Space Exploration"
-            }
-          ]
-        },
-        {
-          "type": "text",
-          "value": " merit badge pamphlet. "
+          "value": " Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" section of the Space Exploration merit badge. "
         },
         {
           "type": "element",
@@ -446,7 +431,7 @@
               "url": "https://youtu.be/gz8L1i0ODeA"
             },
             {
-              "title": "How Do We Launch Things Into Space (website)",
+              "title": "How Do We Launch Things Into Space (video)",
               "url": "https://plus.nasa.gov/video/how-do-we-launch-things-into-space/"
             }
           ],

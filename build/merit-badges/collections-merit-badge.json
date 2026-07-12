@@ -382,7 +382,7 @@
         {
           "id": "9422",
           "label": "b",
-          "text": "Show your counselor any two groups from your collection. Explain how you organized your collection and why you chose that method. (Note: if your collection is too large to transport and your counselor is unable to view your collection directly, photographs should be available to share.)",
+          "text": "Show your counselor any two groups from your collection. Explain how you organized your collection and why you chose that method.\nNote: If your collection is too large to transport and your counselor is unable to view your collection directly, photographs should be available to share.",
           "requirement_path": "5.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -390,7 +390,28 @@
           "content": [
             {
               "type": "text",
-              "value": "Show your counselor any two groups from your collection. Explain how you organized your collection and why you chose that method. (Note: if your collection is too large to transport and your counselor is unable to view your collection directly, photographs should be available to share.)"
+              "value": "Show your counselor any two groups from your collection. Explain how you organized your collection and why you chose that method. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Note:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " If your collection is too large to transport and your counselor is unable to view your collection directly, photographs should be available to share."
             }
           ],
           "resources": [],

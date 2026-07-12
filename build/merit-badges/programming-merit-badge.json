@@ -49,30 +49,13 @@
           "content": [
             {
               "type": "text",
-              "value": "View the "
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://www.scouting.org/training/youth-protection/scouts-bsa/"
-              },
-              "children": [
-                {
-                  "type": "text",
-                  "value": "Personal Safety Awareness \"Digital Safety\" video"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (with your parent or guardian's permission.)"
+              "value": "View the Personal Safety Awareness \"Digital Safety\" video (with your parent or guardian's permission.)"
             }
           ],
           "resources": [
             {
-              "title": "Scouting America Social Media Guidelines (website)",
-              "url": "https://scoutingwire.org/social-media-guidelines/"
+              "title": "Scouting Digital Safety Video (video)",
+              "url": "https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4"
             }
           ],
           "sub_requirements": []
@@ -137,7 +120,7 @@
       "resources": [
         {
           "title": "5 Minutes of Programming Language History (video)",
-          "url": "https://youtu.be/K5yv7dY17EA?si=yYdqNCZwa0w0SzJs"
+          "url": "https://youtu.be/K5yv7dY17EA"
         },
         {
           "title": "Example With Code Examples and Pictures (PDF)",
@@ -150,6 +133,10 @@
         {
           "title": "Computer History Museum Timeline With Pictures (website)",
           "url": "https://www.computerhistory.org/timeline/software-languages/"
+        },
+        {
+          "title": "History Handout (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.pdf"
         }
       ],
       "sub_requirements": []
@@ -179,7 +166,12 @@
           "value": " Do the following:"
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "General Knowledge Handout (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.pdf"
+        }
+      ],
       "sub_requirements": [
         {
           "id": "15372",
@@ -247,7 +239,12 @@
           "value": " Do the following:"
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Intellectual Property Handout (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.pdf"
+        }
+      ],
       "sub_requirements": [
         {
           "id": "15375",
@@ -346,7 +343,12 @@
           "value": " With your counselor's guidance, select three different programming languages and development environments. For each sub-requirement below, do the following: Write or modify a program using the indicated programming language and development environment. The program must take input and produce output based on computations and decisions made on the input. Debug and demonstrate the program to your counselor. Explain how each program processes inputs, makes decisions based on those inputs, and provides outputs based on computations and decision making."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Project Handout (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req5-Project.pdf"
+        }
+      ],
       "sub_requirements": [
         {
           "id": "15379",
@@ -441,7 +443,12 @@
           "value": " Do ONE of the following:"
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Careers Handout (PDF)",
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req6-Careers.pdf"
+        }
+      ],
       "sub_requirements": [
         {
           "id": "15384",

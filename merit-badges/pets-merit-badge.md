@@ -25,7 +25,7 @@ Pet ownership is a mixture of fun, excitement, responsibility, commitment, expen
     **Resources:** [Cat Agility Course at Cat Fanciers Cat Show (video)](https://www.youtube.com/watch?v=QABTG6FldFE)
   - (b) Train a pet in three or more tricks or special abilities.
 
-    **Resources:** [Easiest Way to Teach Your Dog to Roll Over (video)](https://www.youtube.com/watch?v=IsJ0VdeOJcg), [Train Your Cat to Do Fun Tricks (video)](https://www.youtube.com/watch?v=oX7vgQTK9fo), [How I Trained My Cat to Fetch (video)](https://www.youtube.com/watch?v=zrDskEObBs8)
+    **Resources:** [Train Your Cat To Do Fun Tricks (video)](https://youtu.be/oX7vgQTK9fo), [How I Trained My Cat To Fetch (video)](https://youtu.be/zrDskEObBs8)
 
 - (5) Do ONE of the following:
   - (a) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.

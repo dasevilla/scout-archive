@@ -12,7 +12,7 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
 - (1) **Safety.** Do the following:
   - (a) View the Personal Safety Awareness "Digital Safety" video (with your parent or guardian's permission).
 
-    **Resources:** [Personal Safety Awareness "Digital Safety" (video)](https://www.scouting.org/training/youth-protection/scouts-bsa/)
+    **Resources:** [Personal Safety Awareness "Digital Safety"  (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4)
   - (b) Explain to your counselor how to protect your digital footprint, such as while using social media, mobile device apps, and online gaming. Show how to set privacy settings to protect your personal information, including photos of yourself or your location.
 
     **Resources:** [Protecting Your Digital Footprint - Keys to Cybersecurity (website)](https://cyber.org/find-curricula/key-5)
@@ -124,7 +124,7 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
 - (8) **Cybersecurity Activities.** Do ONE of the following:
   - (a) Learn about a cybersecurity competition, camp, or other activity you could participate in (either now or in the future). Share what you learned with your counselor, including the type of activity, time commitment, and age of participants.
 
-    **Resources:** [CyberPatriot: National Youth Cyber Defense Competition (website)](https://www.uscyberpatriot.org/), [picoCTF - CMU Cybersecurity Competition (website)](https://picoctf.org/), [AFA CyberCamps (website)](https://www.uscyberpatriot.org/afa-cybercamp-overview/), [U.S. Cyber Camp (website)](https://www.rocketcenter.com/SpaceCamp), [National Cyber League (website)](https://nationalcyberleague.org/)
+    **Resources:** [CyberPatriot: National Youth Cyber Defense Competition (website)](https://www.uscyberpatriot.org/), [AFA CyberCamps (website)](https://www.uscyberpatriot.org/afa-cybercamp-overview/), [U.S. Cyber Camp (website)](https://www.rocketcenter.com/SpaceCamp), [National Cyber League (website)](https://nationalcyberleague.org/)
   - (b) Participate in a cybersecurity competition with members of your troop, school, or some other group approved by your counselor. Either design your own competition or use an existing platform.
 
     **Resources:** [Cyber Challenge: Online Cybersecurity Game \| Cybermission (website)](https://www.cybermission.tech/game), [Cyber Threat Defender—The UTSA CIAS (website)](https://cias.utsa.edu/ctd/), [K-12 Cybersecurity Games—The UTSA CIAS (website)](https://cias.utsa.edu/k-12/cybersecurity-games/), [picoCTF—CMU Cybersecurity Competition (website)](https://picoctf.org/)

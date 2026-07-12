@@ -49,7 +49,8 @@ Discover how collecting can be an educational and financially rewarding pastime 
   - (a) Discuss with your counselor at least 10 terms commonly used to describe your collection and be prepared to discuss the definition of each.
 
     **Resources:** [Nomenclature for Museum Cataloging (website)](https://page.nomenclature.info/apropos-about.app?lang=en)
-  - (b) Show your counselor any two groups from your collection. Explain how you organized your collection and why you chose that method. (Note: if your collection is too large to transport and your counselor is unable to view your collection directly, photographs should be available to share.)
+  - (b) Show your counselor any two groups from your collection. Explain how you organized your collection and why you chose that method.
+    **Note:** If your collection is too large to transport and your counselor is unable to view your collection directly, photographs should be available to share.
   - (c) Explain the monetary value of your collection and where you learned about those values.
 
     **Resources:** [How to Find Out What It's Worth (website)](https://www.liveabout.com/how-to-find-the-value-of-an-item-780265), [How Much Are My Collectibles Worth? Tips for Finding Values (website)](https://www.lovetoknow.com/home/antiques-collectibles/how-much-are-my-collectibles-worth)

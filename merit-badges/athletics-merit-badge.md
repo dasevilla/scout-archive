@@ -101,7 +101,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     - (2) Baseball throw for distance, five throws (total distance)
     - **Option G—Basketball Shooting.** Do ALL the following:
 
-      **Resources:** [How to Shoot a Free Throw (video)](https://youtu.be/iW2VFzBiaQo?si=OcW1PTb8DR3ZtR6y), [How to Shoot a Layup (video)](https://youtu.be/q4IqeXob_qg?si=or8nQWc5bXpIOEQe), [How to Shoot a Basketball (video)](https://youtu.be/UcnB9e5O5NY?si=dlC30TAj-AyuKca9)
+      **Resources:** [How To Shoot a Free Throw (video)](https://youtu.be/iW2VFzBiaQo), [How To Shoot a Layup (video)](https://youtu.be/q4IqeXob_qg), [How To Shoot a Basketball (video)](https://youtu.be/UcnB9e5O5NY)
     - (1) Basketball shot for accuracy, 10 free-throw shots
     - (2) Basketball throw for skill and agility, the following shots:
       - (a) Left-side layup
@@ -122,10 +122,10 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
   - **Option I—Weight Training.** Do ALL of the following:
     - (1) Chest/bench press, two sets of 15 repetitions each
 
-      **Resources:** [How to Bench Press (video)](https://youtu.be/bt-yRU4HEZ4?si=Jw0QKVOvUsgcIKGa)
+      **Resources:** [How To Bench Press (video)](https://youtu.be/bt-yRU4HEZ4)
     - (2) Leg curls, two sets of 15 repetitions each
 
-      **Resources:** [How to Do Leg Curls (video)](https://youtu.be/UAod62tMmhk?si=zXLVoKYT_8HPRbgp)
+      **Resources:** [How To Do Leg Curls (video)](https://youtu.be/UAod62tMmhk)
 
 - (6) Do the following:
   - (a) Prepare plans for conducting a sports meet or field day that includes 10 activities, at least five of which must come from the groups mentioned in requirement 5. Outline the duties of each official needed and list the equipment the meet will require.
@@ -133,7 +133,7 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     **Resources:** [Planning a Field Day (video)](https://youtu.be/IKYtSzrvCjA?si=rJ1j-hy0TLs4ruVQ)
   - (b) With your parent or guardian's and counselor's approval, serve as an official or volunteer at a sports meet to observe officials in action. Tell your counselor about your responsibilities at the meet and discuss what you learned.
 
-    **Resources:** [How to Serve as a Swim Meet Timer (video)](https://youtu.be/ZVFce0ZtaSk?si=FRBbdo8aHRce49C3), [Rules of a Swim Meet (video)](https://youtu.be/BGW1IZPLuGk?si=A7H469w658jlC_y7)
+    **Resources:** [How To Serve as a Swim Meet Timer (video)](https://youtu.be/ZVFce0ZtaSk), [Rules of a Swim Meet (video)](https://youtu.be/BGW1IZPLuGk)
 
 - (7) Do ONE of the following:
   - (a) Explore three careers related to athletics. Research one career area by interviewing an expert in the field, visiting a site, or using other resources. Learn about training, education, expenses, job outlook, salary, and advancement. Discuss your findings and career interest with your counselor.

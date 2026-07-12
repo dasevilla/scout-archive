@@ -12,7 +12,7 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
 - (1) Do the following:
   - (a) Explain to your counselor the hazards you are most likely to encounter while participating in snow sport activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
 
-    **Resources:** [How to Ski Safely (video)](https://youtu.be/AKxY8Xm-Gg0?si=EK3y5wxrfgJTmAk9), [How to Prevent Injuries (website)](https://centerforspineandortho.com/common-skiing-and-snowboarding-injuries-and-how-to-prevent-them/)
+    **Resources:** [How To Ski Safely (video)](https://youtu.be/AKxY8Xm-Gg0), [How To Prevent Injuries (website)](https://centerforspineandortho.com/common-skiing-and-snowboarding-injuries-and-how-to-prevent-them/)
   - (b) Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in snow sports, including hypothermia, frostbite, shock, dehydration, sunburn, concussion, fractures, bruises, sprains, and strains. Tell how to apply splints.
 
     **Resources:** [Treating Frostbite and Hypothermia (video)](https://youtu.be/tHiav9zYJT0?si=VC-plNy5tA2XSZ1I), [How to Splint a Broken Bone (video)](https://youtu.be/jo2zi_JB9_4?si=nVI-3TY16Ma1BL1p)

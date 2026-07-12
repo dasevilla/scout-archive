@@ -22,7 +22,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
 
 - (2) Define topical stamp collecting. Name and describe three other types of stamp collections.
 
-  **Resources:** [What to Collect? (website)](https://stamps.org/learn/getting-started/what-to-collect), [Topical Stamp Collecting (website)](https://www.linns.com/content/collector-resources/collecting-basics/topical-stamp-collecting)
+  **Resources:** [What To Collect? (website)](https://stamps.org/learn/getting-started/what-to-collect)
 
 - (3) Show at least ONE example of each of the following:
 

@@ -54,7 +54,7 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
     **Resources:** [DIY Electroscope (video)](https://youtu.be/fCpaNzpFhPo?si=VwL6Mi6do8qlSrhI)
   - (b) Make a cloud chamber. Show how it can be used to see the tracks caused by radiation. Explain what is happening.
 
-    **Resources:** [How to Build a Cloud Chamber! (video)](https://youtu.be/pewTySxfTQk?si=0aPyTx0YDHrocIAv), [Working Cloud Chamber \| Exploratorium (video)](https://youtu.be/jh7SzrNWGhI?si=C4cCRtQruDkCGpAv), [Visualize Radioactive Decay in a Cloud Chamber (PDF)](https://www.ans.org/file/17977/1/Visualizing%20Radiation%20Poster%202024.pdf)
+    **Resources:** [How To Build a Cloud Chamber! (video)](https://youtu.be/pewTySxfTQk), [Working Cloud Chamber \| Exploratorium (video)](https://youtu.be/jh7SzrNWGhI), [Visualize Radioactive Decay in a Cloud Chamber (PDF)](https://www.ans.org/file/17977/1/Visualizing%20Radiation%20Poster%202024.pdf)
   - (c) Perform an experiment demonstrating half-life. Discuss decay chains.
 
     **Resources:** [How Radioactive Decay Works \| Decay Chains (video)](https://youtu.be/fo1tgibNLss?si=K2DrEfEaGW5MSdOR), [Skittles Half Life Lab \| Radioactive Isotope Decay \| Half Life Graph (video)](https://youtu.be/mCSXJNVdK0Y?si=A3UPqOjowKtkSmxk)

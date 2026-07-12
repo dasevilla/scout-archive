@@ -100,7 +100,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 
     **Resources:** [7 Principles of LNT (website)](https://lnt.org/why/7-principles/), [Outdoor Code (website)](https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/)
 
-- (6) **Trail and backpacking meals.** Do the following:
+- (6) **Trail and Backpacking Meals.** Do the following:
   - (a) Using the MyPlate food guide or the current USDA nutrition model, plan a day of meals for trail hiking or backpacking that includes one breakfast, one lunch, one dinner, and one snack. These meals must consider weight, not require refrigeration and are to be consumed by three to five people (including you). List the equipment and utensils needed to prepare and serve these meals.
 
     **Resources:** [MyPlate Kitchen (website)](https://www.myplate.gov/myplate-kitchen)

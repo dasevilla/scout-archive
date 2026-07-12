@@ -36,7 +36,7 @@ Hiking is a terrific way to keep your body and mind in top shape, both now and f
 
 - (4) Take four 10-mile hikes and one 20-mile hike, each on a different day, and each of continuous miles. Prepare a written hike plan before each hike and share it with your counselor or a designee for approval before starting the hike. Include map routes, a clothing and equipment list, and a list of items for a trail lunch. You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period such as overnight.
 
-  **Resources:** [Maps and Ideas for Hikes (website)](https://www.hikingproject.com/)
+  **Resources:** [Maps and Ideas for Hikes (website)](https://www.hikingproject.com/), [Find Your Next Adventure (website)](https://www.alltrails.com/), [Pre-Hike Plan Template (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Hiking/Pre%20Hike%20Plan%20Template.pdf)
 
   - (a) 10-mile hike #1
   - (b) 10-mile hike #2

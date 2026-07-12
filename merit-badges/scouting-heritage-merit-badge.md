@@ -34,8 +34,6 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
 
     **Resources:** [Green Bar Bill Hillcourt Biography (video)](https://www.youtube.com/watch?v=ZJofraVDGuA)
   - (7) Frederick Russell Burnham
-
-    **Resources:** [The Legendary Adventures of Frederick Russell Burnham (video)](https://youtu.be/WNYumbDiGmQ?si=6rvPB1ISuVZgK8d3)
   - (8) Dr. Charles Eastman
 
     **Resources:** [Dr. Charles Eastman (video)](https://www.youtube.com/watch?v=xzW4DLLuLoc)

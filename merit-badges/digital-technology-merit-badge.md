@@ -9,7 +9,9 @@ Comprehend how electronic devices work and how to use them effectively with the 
 
 ## Requirements
 
-- (1) View the [Personal Safety Awareness "Digital Safety" video](https://www.scouting.org/training/youth-protection/scouts-bsa/) (with your parent or guardian's permission).
+- (1) ..View the Personal Safety Awareness "Digital Safety" video (with your parent or guardian's permission).
+
+  **Resources:** [Personal Safety Awareness (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4)
 
 - (2) Do the following:
   - (a) Give a brief history of the changes in digital technology over time. Discuss with your counselor how digital technology in your lifetime compares with that of your parent's, grandparent's, or other adult's lifetime.

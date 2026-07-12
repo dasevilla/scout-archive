@@ -137,7 +137,7 @@ Multisport is a racing competition that includes any combination of running, bik
 - (5) Do the following:
   - (a) With guidance from your counselor, establish a four-week training plan that combines your chosen multisport format to develop proper techniques, gain self-confidence, and increase endurance. Each session should last at least 25 minutes and include a proper warmup before the session and stretching afterward.
 
-    **Resources:** [Advice for Younger Athletes \| Our Trips for Junior and Youth Triathletes (video)](https://youtu.be/PxVw1eZp7d4), [How to Start Swim Training (video)](https://youtu.be/Zh9bhXe5lug), [Is There a Perfect Swimming Technique for Triathlon? (video)](https://youtu.be/i6-w8RXf45Y), [How To Start Running Training (video)](https://youtu.be/kVnyY17VS9Y)
+    **Resources:** [Advice for Younger Athletes \| Our Trips for Junior and Youth Triathletes (video)](https://youtu.be/PxVw1eZp7d4), [How To Start Swim Training (video)](https://youtu.be/Zh9bhXe5lug), [Is There a Perfect Swimming Technique for Triathlon? (video)](https://youtu.be/i6-w8RXf45Y), [How To Start Running Training (video)](https://youtu.be/kVnyY17VS9Y)
   - (b) Use a chart or other tracking method to monitor your training and development during this period.
   - (c) Set a personal goal for improvement based on one or more of the following criteria: time, technique, or distance.
   - (d) At the end of four weeks, discuss your progress with your counselor and tell how your development has affected you mentally and physically.

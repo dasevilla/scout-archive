@@ -49,7 +49,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
     **Resources:** [How the Food You Eat Affects Your Brain (video)](https://youtu.be/xyQY8a-ng6g)
   - (e) Discuss what a healthy weight is for you, and what you do to maintain a healthy weight.
 
-    **Resources:** [Body Mass Index (BMI) Calculator (website)](https://www.cdc.gov/bmi/child-teen-calculator/index.html), [Your Body Composition (video)](https://youtu.be/Yk3UkkJk474?si=MIO8KBdqsszMGPRo)
+    **Resources:** [Body Mass Index (BMI) Calculator (website)](https://www.cdc.gov/bmi/child-teen-calculator/index.html), [Your Body Composition (video)](https://youtu.be/Yk3UkkJk474)
   - (f) Explain why getting adequate sleep is important, and whether you get enough hours of sleep each night.
 
     **Resources:** [Tips for Getting Enough Sleep (video)](https://youtu.be/qWb5ggc_-rs?si=hdgaGxZwyiEnzftt)
@@ -96,7 +96,7 @@ Personal fitness is an individual effort and desire to be the best one can be. R
   - (e) Cool-down: low-intensity movement or gentle stretching to prevent muscle cramps and enhance the benefits of exercise
   - (f) A plan for achieving your two improvement goals related to diet and nutrition
 
-    **Resources:** [The MyPlate Quiz (website)](https://www.myplate.gov/form/myplate-quiz#question_1)
+    **Resources:** [Pick Your Plate Game (website)](https://ssec.si.edu/pick-your-plate)
 
 - (7) **Complete the Program.** Do the following:
   - (a) Complete and keep a log, over 12 consecutive weeks, of the physical fitness and nutrition program you have outlined. (If your program is interrupted by illness or unavoidable conflicts for less than two weeks, you may resume where you left off, adding the missed days or weeks at the end).

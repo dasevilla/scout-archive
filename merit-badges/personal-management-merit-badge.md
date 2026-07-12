@@ -111,14 +111,14 @@ Personal management is about mapping a plan for your life that will involve sett
 
   **Resources:** [Time Management for Teens (video)](https://youtu.be/CBEQxJK9Y6Q)
 
-  - (a) Write a "to do" list of tasks or activities, such as homework assignments, chores, and personal projects, that must be done in the coming week. List these in order of importance to you.
+  - (a) Write a to-do list of tasks or activities, such as homework assignments, chores, and personal projects, that must be done in the coming week. List these in order of importance to you.
 
     **Resources:** [Work Smart: How To Write a To-Do List (video)](https://youtu.be/fjjKuoeYP5A)
-  - (b) Make a seven-day calendar or schedule. Put in your set activities, such as school classes, sports practices or games, jobs or chores, and/or Scout or place of worship or club meetings, then plan when you will do all the tasks from your "to do" list between your set activities.
+  - (b) Make a seven-day calendar or schedule. Put in your set activities, such as school classes, sports practices or games, jobs or chores, and/or Scout or place of worship or club meetings, then plan when you will do all the tasks from your to-do list between your set activities.
 
     **Resources:** [Master Time Management Tips for Teens (video)](https://youtu.be/OMcy0PD1jQc)
-  - (c) Follow the one-week schedule you planned. Keep a daily diary or journal during each of the seven days of this week's activities, writing down when you completed each of the tasks on your "to do" list compared to when you scheduled them.
-  - (d) With your counselor, review your "to do" list, one-week schedule, and diary/journal to understand when your schedule worked and when it did not work. Discuss what you might do differently the next time.
+  - (c) Follow the one-week schedule you planned. Keep a daily diary or journal during each of the seven days of this week's activities, writing down when you completed each of the tasks on your to-do list compared to when you scheduled them.
+  - (d) With your counselor, review your to-do list, one-week schedule, and diary/journal to understand when your schedule worked and when it did not work. Discuss what you might do differently the next time.
 
 - (9) Prepare a written project plan demonstrating the steps below, including the desired outcome. This is a project on paper, not a real-life project. Examples could include planning a camping trip, developing a community service project or a school or religious event, or creating an annual patrol plan with additional activities not already included in the troop annual plan. Discuss your completed project plan with your counselor.
 

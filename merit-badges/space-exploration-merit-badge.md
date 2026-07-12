@@ -25,7 +25,7 @@ Discover the why and how we explore space. Learn about current and historic spac
 
   **Resources:** [Here's How I Make Custom Trading Cards (video)](https://youtu.be/PkCCLH_f1us?si=fw5ZdX03GwDyn_eo), [How to Make Trading Cards By Hand (video)](https://youtu.be/vYbeo4iS1Pc)
 
-- (3) Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: **Safety Note:** Rocket must be built to meet the safety code of the National Association of Rocketry. See the "Model Rocketry" chapter of the *Space Exploration* merit badge pamphlet. **Alternative Requirement:** If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.Identify and explain the following rocket parts:
+- (3) Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: **Safety Note:** Rocket must be built to meet the safety code of the National Association of Rocketry. See the "Model Rocketry" section of the Space Exploration merit badge. **Alternative Requirement:** If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.Identify and explain the following rocket parts:
 
   **Resources:** [NASA "Rocket Parts" - Beginner's Guide (website)](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bgmr.html), [National Association of Rocketry Educational Video Series on Model Rocketry (website)](https://www.nar.org/content.aspx?page_id=22&club_id=114127&module_id=669619)
 
@@ -48,7 +48,7 @@ Discover the why and how we explore space. Learn about current and historic spac
     **Resources:** [Newton's Law of Motion (website)](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/)
   - (b) How rocket engines work
 
-    **Resources:** [How Rocket Engines Work (website)](https://science.howstuffworks.com/rocket.htm), [Rocket Engines Explained (website)](https://youtu.be/gz8L1i0ODeA), [How Do We Launch Things Into Space (website)](https://plus.nasa.gov/video/how-do-we-launch-things-into-space/)
+    **Resources:** [How Rocket Engines Work (website)](https://science.howstuffworks.com/rocket.htm), [Rocket Engines Explained (website)](https://youtu.be/gz8L1i0ODeA), [How Do We Launch Things Into Space (video)](https://plus.nasa.gov/video/how-do-we-launch-things-into-space/)
   - (c) How satellites stay in orbit
 
     **Resources:** [How Do Satellites Get & Stay in Orbit? (video)](https://youtu.be/IC1JQu9xGHQ), [How Do Satellites Stay in Orbit Around the Earth (video)](https://www.youtube.com/shorts/V08iOHrNyMU?t=46), [How Orbit Works: Perpetual Free Fall Explained (video)](https://www.youtube.com/shorts/Ieyn5Xzg_nA)

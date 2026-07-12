@@ -21,6 +21,8 @@ No Boy Scout will ignore a plea for help. However, the desire to help is of litt
 
 - (3) Explain the following:
   - (a) Common drowning situations and how to avoid them, such as unfenced residential pools, drop offs, river currents, rip currents, and medical emergencies.
+
+    **Resources:** [Rip Current Survival Guide (website w/ video)](https://www.noaa.gov/multimedia/video/video-heading-to-beach-see-our-rip-current-survival-guide-first)
   - (b) How to identify persons in the water who need assistance.
 
     **Resources:** [Can You Spot a Person Drowning? (video)](https://youtu.be/beNheoRRdKk)

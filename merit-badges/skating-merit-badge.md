@@ -27,7 +27,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
       **Resources:** [Safe Skating Rules (website)](https://cdn3.sportngin.com/attachments/document/39da-1736379/Getting_Started.pdf)
     - (2) Discuss preparations that must be taken when skating outdoors on natural ice. Explain how to make an ice rescue.
 
-      **Resources:** [How To Know if Ice Is Safe To Walk On (video)](https://youtu.be/KmYeulVH8IE), [Ice Safety (website)](https://dnr.wisconsin.gov/Education/OutdoorSkills/IceSafety), [Test Ice Thickness (video)](https://youtu.be/BWLvW-d5jBY), [How to Save Someone Who Falls Through Ice (video)](https://youtu.be/yVXJQq41tTA)
+      **Resources:** [How To Know if Ice Is Safe To Walk On (video)](https://youtu.be/KmYeulVH8IE), [Ice Safety (website)](https://dnr.wisconsin.gov/Education/OutdoorSkills/IceSafety), [Test Ice Thickness (video)](https://youtu.be/BWLvW-d5jBY), [How To Save Someone Who Falls Through Ice (video)](https://youtu.be/yVXJQq41tTA)
     - (3) Discuss the parts and functions of the different types of ice skates.
 
       **Resources:** [Figure Skates vs. Hockey Skates (video)](https://youtu.be/H6hUVU57Wpk)
@@ -110,7 +110,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
       **Resources:** [Braking with In-Line Skates (video)](https://youtu.be/phN9uBIXkAw)
     - (8) Perform a forward crossover.
 
-      **Resources:** [How to Turn on In-Line Skates (video)](https://youtu.be/RMIRnNr-PeQ), [5 Steps to the Perfect Crossover (video)](https://youtu.be/2-ULGoMvk24)
+      **Resources:** [How To Turn on In-Line Skates (video)](https://youtu.be/RMIRnNr-PeQ), [5 Steps to the Perfect Crossover (video)](https://youtu.be/2-ULGoMvk24)
     - (9) Perform a series of forward, linked swizzles for at least 40 feet.
 
       **Resources:** [Forward Swizzles (video)](https://youtu.be/TbNlbqClkGQ)
@@ -154,30 +154,30 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
     - (5) Describe the two main styles of skateboarding (street and vert), and describe common skatepark features (ramps, manual pad, rails, spine, etc.).
     - (6) Explain skateboard anatomy (deck, trucks, wheels, hardware, etc.).
 
-      **Resources:** [How to Select a Skateboard (video)](https://player.vimeo.com/video/901305105)
+      **Resources:** [How To Select a Skateboard (video)](https://player.vimeo.com/video/901305105)
     - (7) Build a board by assembling all pieces (deck, wheels, trucks, hardware, and grip tape) in the proper order.
 
       **Resources:** [How To Assemble a Skateboard (video)](https://youtu.be/A6E403WMOXk), [Parts of a Skateboard (video)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Skating/parts_of_a_skateboard.jpg)
     - (8) Explain skateboard maintenance (cleaning, adjusting bolts, and replacing parts).
 
-      **Resources:** [How to Maintain Your Skateboard (website)](https://www.skatexs.com/blogs/news/9432593-skateboard-maintenance-for-beginners)
+      **Resources:** [How To Maintain Your Skateboard (website)](https://www.skatexs.com/blogs/news/9432593-skateboard-maintenance-for-beginners)
     - (9) Explain the difference between regular and goofy stance, and demonstrate your preferred stance.
 
       **Resources:** [Goofy vs. Regular Stance (video)](https://youtu.be/fdSzhc7HXJ0)
     - (10) Demonstrate how to push, cruise, and carve on flat ground.
 
-      **Resources:** [How to Push on a Skateboard (video)](https://player.vimeo.com/video/901305608), [How to Turn on a Skateboard (video)](https://player.vimeo.com/video/901305658)
+      **Resources:** [How To Push on a Skateboard (video)](https://player.vimeo.com/video/901305608), [How To Turn on a Skateboard (video)](https://player.vimeo.com/video/901305658)
     - (11) Show at least two braking and stopping techniques.
 
-      **Resources:** [How to Stop a Skateboard (video)](https://youtu.be/gLikGjxWCUQ?si=-VfkhrC8oTh1LEvf)
+      **Resources:** [How To Stop a Skateboard (video)](https://youtu.be/gLikGjxWCUQ?si=-VfkhrC8oTh1LEvf)
     - (12) Do a basic ollie and at least one variation.
 
-      **Resources:** [How to Ollie on Skateboard (video)](https://player.vimeo.com/video/901305845)
+      **Resources:** [How To Ollie on Skateboard (video)](https://player.vimeo.com/video/901305845)
     - (13) Show how to drop-in from coping.
     - (14) Demonstrate THREE skateboarding tricks from the following types:
       - (a) Flat ground tricks
 
-        **Resources:** [Flatland Tricks (video)](https://youtu.be/-LwtQJFqNOA), [How to Manual on Skateboard (video)](https://player.vimeo.com/video/901305720), [How to Throwdown on Skateboard (video)](https://player.vimeo.com/video/901305789), [How to 180 on a Skateboard (video)](https://player.vimeo.com/video/901305968)
+        **Resources:** [Flatland Tricks (video)](https://youtu.be/-LwtQJFqNOA), [How To Manual on Skateboard (video)](https://player.vimeo.com/video/901305720), [How To Throwdown on Skateboard (video)](https://player.vimeo.com/video/901305789), [How To 180 on a Skateboard (video)](https://player.vimeo.com/video/901305968)
       - (b) Flip and shove-it tricks
 
         **Resources:** [Flip a Skateboard (video)](https://youtu.be/MDkVYN6Rk_I), [Shove-It (video)](https://youtu.be/fBAW51ilpLw)
@@ -189,7 +189,7 @@ This merit badge introduces Scouts to the exciting world of ice skating, roller 
         **Resources:** [Frontside Air (video)](https://youtu.be/4tz-HFSoEZY), [Grab Tricks (video)](https://youtu.be/UEYsZH49H_o)
       - (e) Footplant tricks.
 
-        **Resources:** [How to Boneless (video)](https://youtu.be/wUZpFX0CS1g)
+        **Resources:** [How To Boneless (video)](https://youtu.be/wUZpFX0CS1g)
 
 ## Resources
 

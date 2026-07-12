@@ -12,7 +12,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
 - (1) Do the following:
   - (a) Review with your counselor how Scouting America's Safe Swim Defense guidelines anticipates and deals with common drowning situations such as unfenced residential pools, nonswimmers entering deep water, risky behaviors, medical impairment in the water, drop-offs, cold water, murky water, river currents, rip currents, and surf.
 
-    **Resources:** [Safe Swim Defense (website)](https://www.scouting.org/health-and-safety/gss/gss02/)
+    **Resources:** [Safe Swim Defense (website)](https://www.scouting.org/health-and-safety/gss/gss02), [Rip Current Survival Guide (website w/ video)](https://www.noaa.gov/multimedia/video/video-heading-to-beach-see-our-rip-current-survival-guide-first)
   - (b) Discuss the prevention and treatment of health concerns that could occur while swimming, including hypothermia, dehydration, sunburn, heat exhaustion, heatstroke, muscle cramps, hyperventilation, spinal injury, stings and bites, and cuts and scrapes.
 
     **Resources:** [10 Common Summer Safety Emergencies (website)](https://surefirecpr.com/emergency-tips/10-common-summer-safety-emergencies/)

@@ -93,7 +93,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
 - (4) **Incident Command System (ICS).** Do the following:
   - (a) Explain how a local ICS is organized and how it compares with Scouting's patrol method.
 
-    **Resources:** [Introduction to ICS (video)](https://youtu.be/P-dPBso2xPM), [Incident Command Structure (website)](https://www.cfsph.iastate.edu/Emergency-Response/Just-in-Time/01-Incident-Command-System-Overview-HANDOUT.pdf)
+    **Resources:** [Introduction to ICS (video)](https://youtu.be/P-dPBso2xPM)
   - (b) Explain how local community agencies work to train for and manage search and rescue situations.
 
     **Resources:** [Search & Rescue Training (video)](https://youtu.be/h1B9mwnmEaQ), [CERT Search & Rescue Training  (video)](https://youtu.be/A-SiF8cdO9k), [What It Takes To Be on a Search and Rescue Team (video)](https://youtu.be/ZwClCJ-0n-U)

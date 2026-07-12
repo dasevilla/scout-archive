@@ -67,7 +67,7 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
     **Resources:** [Endangered Species by US State (video)](https://www.youtube.com/watch?v=uhj1WmVdi3o), [Are Endangered Species Worth Saving? (video)](https://www.youtube.com/watch?v=h5eTqjzQZDY), [Saving Threatened Plants (video)](https://www.youtube.com/watch?v=ZCUw8M6Z33g)
   - (b) Do research on one species that was endangered or threatened but that has now recovered. Learn about how the species recovered, and what its new status is. Prepare a 100-word report on the species and include a drawing or photo. Present your report to your patrol or troop.
 
-    **Resources:** [10 Success Stories (video)](https://www.youtube.com/watch?v=ZrrdDYmzoME), [Condor Saved! (video)](https://www.youtube.com/watch?v=prU4UdQv9P4), [Whooping Cranes Saved! (video)](https://www.youtube.com/watch?v=vy773WFHpL8)
+    **Resources:** [10 Success Stories (video)](https://youtu.be/ZrrdDYmzoME), [Condor Saved! (video)](https://youtu.be/prU4UdQv9P4), [Whooping Cranes Saved! (video)](https://youtu.be/vy773WFHpL8), [World Wildlife Fund (website)](https://www.worldwildlife.org)
   - (c) With your parent or guardian and counselor's approval, work with a natural resource professional to identify a completed project that has been designed to improve the habitat for a threatened or endangered species in your area. Visit the site and report on what you saw to your patrol or troop.
 
     **Resources:** [Butterfly Habitat Restoration (video)](https://www.youtube.com/watch?v=YDIdFnXXA84), [Fisheries  Habitat Restoration (video)](https://www.youtube.com/watch?v=uMvM0yZbQSA), [Everglades Restoration (video)](https://www.youtube.com/watch?v=98d8p49XJGM)

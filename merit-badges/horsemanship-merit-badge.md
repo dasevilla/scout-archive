@@ -35,11 +35,11 @@ In addition to learning how to safely ride and care for horses, Scouts who earn 
 
 - (6) Explain the importance of hoof care and why a horse might need to wear shoes.
 
-  **Resources:** [How to Clean Horse Hooves (video)](https://youtu.be/whbZsicSv-k)
+  **Resources:** [How To Clean Horse Hooves (video)](https://youtu.be/whbZsicSv-k)
 
 - (7) Demonstrate how to groom a horse, including picking hooves and caring for a horse after a ride.
 
-  **Resources:** [Caring for a Horse (video)](https://youtu.be/fdGhd2phEHs), [How to Groom a Horse (video)](https://youtu.be/9Leym8QeBM8)
+  **Resources:** [Caring for a Horse (video)](https://youtu.be/fdGhd2phEHs), [How To Groom a Horse (video)](https://youtu.be/9Leym8QeBM8)
 
 - (8) Explain how to determine what and how much to feed a horse and why the amount and kind of feed are changed according to the activity level and the breed of horse.
 
@@ -51,33 +51,33 @@ In addition to learning how to safely ride and care for horses, Scouts who earn 
     **Resources:** [Parts of a Saddle (video)](https://www.youtube.com/watch?v=CXkV6LxGJF8)
   - (b) Show how to properly saddle and bridle a horse.
 
-    **Resources:** [How to Saddle a Horse (video)](https://youtu.be/MZHl9zBHD10), [How to Bridle a Horse (video)](https://youtu.be/sI7A5aTFUnE)
+    **Resources:** [How To Saddle a Horse (video)](https://youtu.be/MZHl9zBHD10), [How To Bridle a Horse (video)](https://youtu.be/sI7A5aTFUnE)
   - (c) Demonstrate how to safely mount and dismount a horse.
 
-    **Resources:** [Using a Mounting Block and Adjusting Tack (video)](https://youtu.be/a40XR220wd8?si=yAKM4J6yhQAYZufm), [Mounting and Dismounting a Horse (video)](https://youtu.be/p3T7tUwyNBg?si=Rnuup5QA8iw_DLlU), [How to Mount a Horse (video)](https://youtu.be/CafSxVC-1I8), [How to Ride a Horse   (video)](https://youtu.be/NC9Tr2hXfFk?si=-mIGi5Woskl7jBPn)
+    **Resources:** [Using a Mounting Block and Adjusting Tack (video)](https://youtu.be/a40XR220wd8), [Mounting and Dismounting a Horse (video)](https://youtu.be/p3T7tUwyNBg), [How To Mount a Horse (video)](https://youtu.be/CafSxVC-1I8), [How To Ride a Horse   (video)](https://youtu.be/NC9Tr2hXfFk)
 
 - (10) Explain and demonstrate how to approach and lead a horse safely from a stall, corral, or field and how to tie the horse securely.
 
-  **Resources:** [How to Lead a Horse (video)](https://youtu.be/AsP38UPNHvI)
+  **Resources:** [How To Lead a Horse (video)](https://youtu.be/AsP38UPNHvI)
 
 - (11) On level ground, continuously do the following movements after safely mounting the horse. Do them correctly, at ease, and in harmony with the horse.
 
-  **Resources:** [How to Steer Your Horse (video)](https://youtu.be/uZ_5lxUyCdw), [How to Ride a Horse (video)](https://youtu.be/fV7kuUrjutY), [Riding Despite Physical Challenges (video)](https://youtu.be/oFy6FqQ_PXM?si=Qk7V2jJdKykcp9il)
+  **Resources:** [How To Steer Your Horse (video)](https://youtu.be/uZ_5lxUyCdw), [How To Ride a Horse (video)](https://youtu.be/fV7kuUrjutY), [Riding Despite Physical Challenges (video)](https://youtu.be/oFy6FqQ_PXM)
 
   - (a) Walk the horse in a straight line for 60 feet.
   - (b) Walk the horse in a half-circle of not more than 16 feet in radius.
   - (c) Trot or jog the horse in a straight line for 60 feet.
 
-    **Resources:** [How to Trot a Horse (video)](https://youtu.be/-3CMZSbQRgg)
+    **Resources:** [How To Trot a Horse (video)](https://youtu.be/-3CMZSbQRgg)
   - (d) Trot or jog the horse in a half-circle of not more than 30 feet in radius.
 
     **Resources:** [Tips for Trotting  (video)](https://youtu.be/KCSkmYEQxEg?si=ET5yK-3VM_Pjzae3)
   - (e) Halt straight.
 
-    **Resources:** [How to Stop Your Horse (video)](https://youtu.be/GJ0Y_ZaCSmo)
+    **Resources:** [How To Stop Your Horse (video)](https://youtu.be/GJ0Y_ZaCSmo)
   - (f) Back up straight four paces.
 
-    **Resources:** [How to Back Up a Horse (video)](https://youtu.be/aolJGYfOZI0)
+    **Resources:** [How To Back Up a Horse (video)](https://youtu.be/aolJGYfOZI0)
   - (g) Halt and dismount.
 
     **Resources:** [Mount and Dismount a Horse (video)](https://youtu.be/vBdXfiNXu7I?si=Cb12AYTlH2J_lbtg)

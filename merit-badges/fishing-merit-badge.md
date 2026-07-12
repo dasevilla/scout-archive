@@ -39,7 +39,7 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 
 - (5) Name and identify five basic artificial lures and five natural baits and explain how to fish with them. Explain why baitfish are not to be released.
 
-  **Resources:** [Most Common Types of Fishing Lures (website)](https://fishingbooker.com/blog/most-common-types-of-fishing-lures-all-you-need-to-know/), [Fishing Lures for Beginners (video)](https://youtu.be/SamrdgVjpQk?si=ePU9bupYp0gi6Jvp), [What Are the Different Types Of Fishing Lures? (website)](https://sportfishingbuddy.com/fishing-lure-types-chart/), [Why Shouldn't Bait Fish Be Released Back Into the Water? (website)](https://farmerandthefishnyc.com/why-are-bait-fish-not-to-be-released/), [Motivations and Risks of Illegal Baitfish Release (video)](https://www.youtube.com/watch?v=nmOdusje6tY)
+  **Resources:** [Most Common Types of Fishing Lures (website)](https://fishingbooker.com/blog/most-common-types-of-fishing-lures-all-you-need-to-know/), [Fishing Lures for Beginners (video)](https://youtu.be/SamrdgVjpQk), [What Are the Different Types Of Fishing Lures? (website)](https://sportfishingbuddy.com/fishing-lure-types-chart/), [Motivations and Risks of Illegal Baitfish Release (video)](https://youtu.be/nmOdusje6tY)
 
 - (6) Do the following:
   - (a) Explain the importance of practicing Leave No Trace Seven Principles and the Outdoor Code. Discuss the positive effects of Leave No Trace Seven Principle and the Outdoor Code on fishing resources.

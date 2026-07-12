@@ -9,8 +9,9 @@ In earning the Fingerprinting merit badge, Scouts will learn about and use an im
 
 ## Requirements
 
-- (1) Give a short history of fingerprinting. Tell the difference between civil and criminal identification. Resources: [How Did Detectives Solve the Case of the Bloody Fingerprints? (video)](https://youtu.be/__nlupHISg0)
-  [History of Fingerprinting (video)](https://youtu.be/wg-lgiPV4rw)
+- (1) Give a short history of fingerprinting. Tell the difference between civil and criminal identification.
+
+  **Resources:** [How Did Detectives Solve the Case of the Bloody Fingerprints? (video)](https://youtu.be/__nlupHISg0), [History of Fingerprinting (video)](https://youtu.be/wg-lgiPV4rw)
 
 - (2) Do the following:
   - (a) Explain the difference between the automated fingerprint identification systems (AFIS) now used by law enforcement agencies and the biometric fingerprint systems used to control access to computers and places like buildings and airports.

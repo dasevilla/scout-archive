@@ -27,7 +27,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
     **Resources:** [Philmont Crew Requirements (website)](https://www.philmontscoutranch.org/treks/trekrequirements/crewrequirements/), [Ideal Hiking Group Size (website)](https://www.trailhiking.com.au/preparation/hiking-group-size/?srsltid=AfmBOooFYNMZTHANda2SBQWKHvaJuAW22YjziY4GhHYZ5vizsVquuu9D)
   - (b) Describe how a trek crew should be organized.
 
-    **Resources:** [Philmont Crew Positions (website)](https://www.philmontscoutranch.org/resources/crew-positions-dynamics-leadership/), [Ideal Hiking Group Size (website)](https://www.trailhiking.com.au/preparation/hiking-group-size/?srsltid=AfmBOooFYNMZTHANda2SBQWKHvaJuAW22YjziY4GhHYZ5vizsVquuu9D)
+    **Resources:** [Philmont Crew Positions (website)](https://www.philmontscoutranch.org/resources/crew-positions-dynamics-leadership/), [Ideal Hiking Group Size (website)](https://www.trailhiking.com.au/preparation/hiking-group-size/)
   - (c) Tell how you would minimize risk on a backpacking trek.
   - (d) Explain the purpose of an emergency response plan.
 

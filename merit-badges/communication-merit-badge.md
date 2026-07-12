@@ -26,7 +26,7 @@ This clear and concise definition comes from the U.S. Department of Education: â
 - (2) Do ONE of the following:
   - (a) Think of a creative way to describe yourself using, for example, a collage, short story or autobiography, drawing or series of photographs, or a song or skit. Using the aid you created, make a presentation to your counselor about yourself.
 
-    **Resources:** [Using Emojis to Communicate the Scout Law (website)](https://scoutlife.org/the-emoji-scout-law/), [Writing With Your Audience in Mind (video)](https://youtu.be/xyH79KQET5E?si=VbVYLAd2mcSbj6OQ), [How to Use Visual Aids for Public Speaking (video)](https://youtu.be/KVbRQ0cE0Ok?si=dp8uheIh6njAbGy-)
+    **Resources:** [Using Emojis To Communicate the Scout Law (website)](https://scoutlife.org/the-emoji-scout-law/), [Writing With Your Audience in Mind (video)](https://youtu.be/xyH79KQET5E), [How To Use Visual Aids for Public Speaking (video)](https://youtu.be/KVbRQ0cE0Ok)
   - (b) Choose a concept, product, or service in which you have great confidence. Build a sales plan based on its good points. Try to persuade the counselor to agree with, use, or buy your concept, product or service. After your sales talk, discuss with your counselor how persuasive you were.
 
     **Resources:** [Making a Speech Powerful & Persuasive (video)](https://youtu.be/FhWBABCpT9w)

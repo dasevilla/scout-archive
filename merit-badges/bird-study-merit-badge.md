@@ -27,7 +27,7 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
     **Resources:** [Selecting Your First Binoculars for Birdwatching - the 5 Things You Need to Know (video)](https://www.youtube.com/watch?v=g3ewVm-46g0)
   - (b) Show how to adjust the eyepiece and how to focus for proper viewing.
 
-    **Resources:** [How to Get Crystal Clear Focus With Your Binoculars (video)](https://www.youtube.com/watch?v=pkPzl-VPmo4), [How to Use Binoculars For Bird Watching - A Beginners Guide! (video)](https://www.youtube.com/watch?v=cNx9klskWFk)
+    **Resources:** [How To Get Crystal Clear Focus With Your Binoculars (video)](https://youtu.be/pkPzl-VPmo4), [How To Use Binoculars For Bird Watching - A Beginners Guide! (video)](https://youtu.be/cNx9klskWFk)
   - (c) Show how to properly care for and clean the lenses.
 
     **Resources:** [How to Clean Your Binoculars (video)](https://www.youtube.com/watch?v=z5DaExac1e0)
@@ -58,20 +58,20 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 - (6) Describe to your counselor how certain orders of birds are uniquely adapted to a specific habitat. In your description, include characteristics such as the size and shape of the following:
   - (a) Beak
 
-    **Resources:** [A Beginner's Guide to Bird Beaks (video)](https://www.youtube.com/watch?v=BjzYfiFm_tw), [Bird Feeding Adaptations: How Beaks Are Adapted to What Birds Eat (video)](https://www.youtube.com/watch?v=lFZ8NMBDCJw)
+    **Resources:** [A Beginner's Guide to Bird Beaks (video)](https://youtu.be/BjzYfiFm_tw), [Bird Feeding Adaptations: How Beaks Are Adapted to What Birds Eat (video)](https://youtu.be/lFZ8NMBDCJw)
   - (b) Body
 
     **Resources:** [Adaptations in Birds - What Makes a Bird Suitable to Fly (video)](https://www.youtube.com/watch?v=Z_4a7OYZISs), [Bird Adaptations for Flight Explained (video)](https://youtu.be/h-1T_N9RTnw?si=Z4-6FhoOf4ySSKO6)
   - (c) Leg and foot
 
-    **Resources:** [AMAZING Bird Feet! (video)](https://www.youtube.com/watch?v=cwFZyNiRzQU)
+    **Resources:** [AMAZING Bird Feet! (video)](https://youtu.be/cwFZyNiRzQU)
   - (d) Feathers/plumage.
 
     **Resources:** [Discover the Hidden Genious of Bird Feathers (video)](https://www.youtube.com/shorts/I3zK6k8ZcBc), [Why Peacocks Have the MOST STUNNING Feathers in Nature? (video)](https://youtu.be/2_jq831GkIM?si=I9_JoXLR4I98ndLg), [How Penguin Feathers Are Perfect Adaptations for Icy Water (video)](https://youtu.be/iTEo0LVQbJg?si=cOtr2X-aPXWF_Zwb)
 
 - (7) Explain the function of a bird's song. Be able to identify five of the 20 species in your field notebook by song or call alone. Explain the difference between songs and calls. For each of these five species, enter a description of the song or call, and note the behavior of the bird making the sound. Note why you think the bird was making the call or song that you heard.
 
-  **Resources:** [25 Iconic Bird Sounds (video)](https://www.youtube.com/watch?v=xTPGii-A2VM), [Two Types of Communication Between Birds: Understanding Bird Language Songs and Calls (video)](https://www.youtube.com/watch?v=4_1zIwEENt8)
+  **Resources:** [25 Iconic Bird Sounds (video)](https://youtu.be/xTPGii-A2VM), [Two Types of Communication Between Birds: Understanding Bird Language Songs and Calls (video)](https://youtu.be/4_1zIwEENt8)
 
 - (8) Do ONE of the following:
   - (a) Go on a field trip with a local club or with others who are knowledgeable about birds in your area.

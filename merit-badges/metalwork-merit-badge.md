@@ -87,7 +87,7 @@ Scouts will begin their work on this merit badge by learning about the propertie
       **Resources:** [Sand Casting Lesson for Beginners - Step-by-Step (video)](https://youtu.be/XlRK_SMWX7Y)
     - (a) Using lead-free pewter, make a casting using a mold provided by your counselor.
     - (b) Using lead-free pewter, make a casting using the mold that you have made.
-  - (d) **Option D—Blacksmith.** Do ALL of the following:
+  - **Option D—Blacksmith.** Do ALL of the following:
     - (1) Name and describe the use of a blacksmith's basic tools.
 
       **Resources:** [Basic Blacksmithing Tools (video)](https://youtu.be/dw3rSK7L1Aw?si=DGyYJl6q65MdrVNY)

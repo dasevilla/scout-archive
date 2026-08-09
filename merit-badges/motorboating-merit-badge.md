@@ -10,7 +10,7 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
 ## Requirements
 
 - (1) Do the following:
-  - (a) Discuss with your counselor the following hazards you might encounter while motorboating: flammable fuel; carbon monoxide; propellers; collisions; falls overboard; capsize; or running aground. Explain what you should do to anticipate, prevent, mitigate and respond to these hazards.
+  - (a) Discuss with your counselor the following hazards you might encounter while motorboating: flammable fuel; carbon monoxide; propellers; collisions; falls overboard; capsize; or running aground. Explain what you should do to anticipate, prevent, mitigate, and respond to these hazards.
 
     **Resources:** [Running Aground Prevention and Response (video)](https://youtu.be/tQ3cHcqV_8A), [Towsport Tips #4 Carbon Monoxide (video)](https://youtu.be/gaZQc_trnCs), [Collision Avoidance Rules (video)](https://youtu.be/TVD0LxihhR8), [Preventing a Capsizing / Fall Overboard (video)](https://youtu.be/Sj2iIZgXRxk)
   - (b) Explain first aid for injuries or illnesses that could occur while motorboating, including hypothermia, heat reactions, dehydration, motion sickness, bug bites, blisters.
@@ -84,7 +84,7 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
   - (g) Moor, dock, or beach the boat and secure all gear.
 
     **Resources:** [How To Tie a Boat to a Dock (video)](https://youtu.be/VGfCKxv5t70), [Beaching Your Boat (website)](https://www.boatus.com/expert-advice/expert-advice-archive/2014/august/beaching-your-boat)
-  - (h) Demonstrate knots used in boating: cleating hitch, bowline, clove hitch, anchor bend, sheet bend.
+  - (h) Demonstrate knots used in boating: cleating hitch, bowline, clove hitch, anchor bend, and sheet bend.
 
     **Resources:** [10 Knots You Need for Sailing (video)](https://youtu.be/TbJGKazU1co), [How To Tie the Anchor Bend Knot \| Boating Knots (video)](https://youtu.be/pEWcxx8998U)
 

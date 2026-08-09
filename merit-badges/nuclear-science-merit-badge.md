@@ -34,7 +34,7 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
 
     **Resources:** [Make a Model of an Isotope (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Nuclear%20Science/Isotope%20Model%20Activity.pdf), [Interactive Isotopes (website)](https://isotopes.ans.org/)
 
-- (3) **Modern Particle Physics.**
+- (3) **Modern Particle Physics.** Do the following:
   - (a) Explain how a particle accelerator works.
 
     **Resources:** [Particle Accelerators: What Are They, How Do They Work and Why Are They Important To Us? (video)](https://youtu.be/vIeRLeQq7V4?si=wf3TBAQxCGd1nYA5)
@@ -49,18 +49,18 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
 
   **Resources:** [Detecting and Measuring Ionizing Radiation - A Short History (PDF)](https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull23-4/23405043136.pdf)
 
-  - (a) Build an electroscope. Show how it works. Place a radiation source near the electroscope ball and explain the effect it causes.
+  - (a) Build an electroscope. Show how it works. Place a radiation source near the electroscope ball and explain the effect it causes. Adults must handle radioactive materials.
 
     **Resources:** [DIY Electroscope (video)](https://youtu.be/fCpaNzpFhPo?si=VwL6Mi6do8qlSrhI)
-  - (b) Make a cloud chamber. Show how it can be used to see the tracks caused by radiation. Explain what is happening.
+  - (b) Make a cloud chamber. Show how it can be used to see the tracks caused by radiation. Adults must handle radioactive materials and dry ice. Explain what is happening.
 
     **Resources:** [How To Build a Cloud Chamber! (video)](https://youtu.be/pewTySxfTQk), [Working Cloud Chamber \| Exploratorium (video)](https://youtu.be/jh7SzrNWGhI), [Visualize Radioactive Decay in a Cloud Chamber (PDF)](https://www.ans.org/file/17977/1/Visualizing%20Radiation%20Poster%202024.pdf)
-  - (c) Perform an experiment demonstrating half-life. Discuss decay chains.
+  - (c) Perform an experiment demonstrating half-life using nonradioactive materials such as candy, coins, or other small items. Discuss decay chains.
 
     **Resources:** [How Radioactive Decay Works \| Decay Chains (video)](https://youtu.be/fo1tgibNLss?si=K2DrEfEaGW5MSdOR), [Skittles Half Life Lab \| Radioactive Isotope Decay \| Half Life Graph (video)](https://youtu.be/mCSXJNVdK0Y?si=A3UPqOjowKtkSmxk)
 
 - (5) **Radiation Safety.** Do ONE of the following:
-  - (a) Using a radiation survey meter and a radioactive source, show how the counts per minute change as the source gets closer to or farther from the radiation detector. Place three different materials between the source and the detector, then explain any differences in the measurements per minute. Explain how time, distance, and shielding can reduce an individual's radiation dose.
+  - (a) Using a radiation survey meter and a radioactive source, show how the counts per minute change as the source gets closer to or farther from the radiation detector. Adults must handle radioactive materials. Place three different materials between the source and the detector, then explain any differences in the measurements per minute. Explain how time, distance, and shielding can reduce an individual's radiation dose.
 
     **Resources:** [How Materials Shield Radiation (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Nuclear%20Science/shutterstock_1169023357.pdf), [Time, Distance and Shielding (video)](https://youtu.be/bNSKIbRNy3c?si=3WqSseNb_EbOeZAx), [Measuring Radiation (video)](https://youtu.be/GdZD_hJBdOE?si=p4mOulsJpBxDWH5j), [Using a Survey Meter: CPM vs Distance (video)](https://youtu.be/0-Yaeh3dOZk?si=Z1MokzEOznMdvlZD)
   - (b) Describe how radon is detected in homes. Discuss the steps taken for the long-term and short-term test methods, tell how to interpret the results, and explain when each type of test should be used. Explain the health concerns related to radon gas and tell what steps can be taken to reduce radon in buildings.
@@ -77,9 +77,9 @@ Nuclear science gives us a simple explanation of the natural world. The ultimate
   - (a) Make a drawing showing how nuclear fission happens. Observe a mousetrap reactor (setup by an adult) and use it to explain how a chain reaction could be started. Explain how a chain reaction could be stopped or controlled in a nuclear reactor. Explain what is meant by a "critical mass."
 
     **Resources:** [What Really Happened the First Time We Split a Heavy Atom in Half (video)](https://youtu.be/O2pyRDQgVjk?si=xYh6mItbfRQoaWqN), [What is Critical Mass \| Nuclear Chain Reaction\| Fission Chain Reaction\| Critical Mass Of Uranium (video)](https://youtu.be/czjAtx8GjjA?si=l0xUwP2x5pJyQB85), [Mousetrap Fission (video)](https://youtu.be/vjqIJW_Qr3c?si=VFFlUgoPcuDMwqWh)
-  - (b) Visit a local nuclear power plant or nuclear reactor either in person or online (with your parent or guardian's permission). Learn how a reactor works and how the plant generates electricity. Find out what percentage of electricity in the United States and in your state is generated by nuclear power plants, and by other methods. Make a graph of the information you find.
+  - (b) Visit a local nuclear power plant or nuclear reactor either in person or online (with your parent or guardian's permission). Learn how a reactor works and how the plant generates electricity. Find out what percentage of electricity in the United States and in your state is generated by nuclear power plants and by other methods. Make a graph of the information you find.
 
-    **Resources:** [What Is Nuclear Energy? Shrink Down to an Atom and Find Out  (video)](https://youtu.be/6K5gy3RLcKc?si=sJl0OAEvTIGX7Pq-), [Energy Consumption & Efficiency Data  \| Energy Information Agency (website)](https://www.eia.gov/consumption/)
+    **Resources:** [What Is Nuclear Energy? Shrink Down to an Atom and Find Out  (video)](https://youtu.be/6K5gy3RLcKc), [Energy Consumption & Efficiency Data  \| Energy Information Agency (website)](https://www.eia.gov/consumption/)
 
 - (7) **Beneficial Applications of Nuclear Science.** Give an example of each of the following and explain how nuclear science is used in these applications: nuclear medicine, environmental applications, industrial applications, space exploration, and radiation therapy. For each example, explain the application and its significance to nuclear science.
 

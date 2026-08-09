@@ -274,7 +274,7 @@
     {
       "id": "11054",
       "label": "5",
-      "text": "Compare how reptiles reproduce to how amphibians reproduce. Resources: Reptile vs Amphibian (video)\nLifecycle of an Amphibian (Frog) (video)\nHow Lizards Reproduce (video)\nWhat Are Oviparous and Viviparous Snakes? (video)",
+      "text": "Compare how reptiles reproduce to how amphibians reproduce.",
       "requirement_path": "5",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -282,92 +282,27 @@
       "content": [
         {
           "type": "text",
-          "value": "Compare how reptiles reproduce to how amphibians reproduce. Resources: "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/GKM_mDDPJh0"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "Reptile vs Amphibian (video)"
-            }
-          ]
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "text",
-          "value": " "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/sZnvgGmvuVs"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "Lifecycle of an Amphibian (Frog) (video)"
-            }
-          ]
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "text",
-          "value": " "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/ACEpFX2Dnmk"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "How Lizards Reproduce (video)"
-            }
-          ]
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "text",
-          "value": " "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/KFCfL99rHpw"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "What Are Oviparous and Viviparous Snakes? (video)"
-            }
-          ]
+          "value": "Compare how reptiles reproduce to how amphibians reproduce."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Reptile vs Amphibian (video)",
+          "url": "https://youtu.be/GKM_mDDPJh0"
+        },
+        {
+          "title": "Lifecycle of an Amphibian (Frog) (video)",
+          "url": "https://youtu.be/sZnvgGmvuVs"
+        },
+        {
+          "title": "How Lizards Reproduce (video)",
+          "url": "https://youtu.be/ACEpFX2Dnmk"
+        },
+        {
+          "title": "What Are Oviparous and Viviparous Snakes? (video)",
+          "url": "https://youtu.be/KFCfL99rHpw"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -437,7 +372,7 @@
         {
           "id": "11044",
           "label": "a",
-          "text": "Take custody of one or more reptiles or amphibians in a manner approved by your counselor. Maintain one or more reptiles or amphibians for at least a month. Record food accepted, eating methods, changes in coloration, shedding of skins, and general habits; or keep the eggs of a reptile from the time of laying until hatching; or keep the eggs of an amphibian from the time of laying until their transformation into tadpoles (frogs) or larvae (salamanders). Whichever you chose, keep records of and report to your counselor how you cared for your animal/eggs/larvae to include lighting, habitat, temperature and humidity maintenance and any veterinary care requirements. Unless you are the long-term owner, at the conclusion of this study, turn the animal(s) over to another responsible party approved by your counselor.",
+          "text": "Take custody of one or more reptiles or amphibians in a manner approved by your counselor. Maintain one or more reptiles or amphibians for at least a month. Record food accepted, eating methods, changes in coloration, shedding of skins, and general habits; or keep the eggs of a reptile from the time of laying until hatching; or keep the eggs of an amphibian from the time of laying until their transformation into tadpoles (frogs) or larvae (salamanders). Whichever you choose, keep records of and report to your counselor how you cared for your animal, eggs, or larvae, including lighting, habitat, temperature and humidity maintenance, and any veterinary care requirements. Unless you are the long-term owner, at the conclusion of this study, turn the animal(s) over to another responsible party approved by your counselor.",
           "requirement_path": "8.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -445,7 +380,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Take custody of one or more reptiles or amphibians in a manner approved by your counselor. Maintain one or more reptiles or amphibians for at least a month. Record food accepted, eating methods, changes in coloration, shedding of skins, and general habits; or keep the eggs of a reptile from the time of laying until hatching; or keep the eggs of an amphibian from the time of laying until their transformation into tadpoles (frogs) or larvae (salamanders). Whichever you chose, keep records of and report to your counselor how you cared for your animal/eggs/larvae to include lighting, habitat, temperature and humidity maintenance and any veterinary care requirements. Unless you are the long-term owner, at the conclusion of this study, turn the animal(s) over to another responsible party approved by your counselor."
+              "value": "Take custody of one or more reptiles or amphibians in a manner approved by your counselor. Maintain one or more reptiles or amphibians for at least a month. Record food accepted, eating methods, changes in coloration, shedding of skins, and general habits; or keep the eggs of a reptile from the time of laying until hatching; or keep the eggs of an amphibian from the time of laying until their transformation into tadpoles (frogs) or larvae (salamanders). Whichever you choose, keep records of and report to your counselor how you cared for your animal, eggs, or larvae, including lighting, habitat, temperature and humidity maintenance, and any veterinary care requirements. Unless you are the long-term owner, at the conclusion of this study, turn the animal(s) over to another responsible party approved by your counselor."
             }
           ],
           "resources": [

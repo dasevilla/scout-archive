@@ -91,7 +91,7 @@ For several centuries, the canoe was a primary method of travel for explorers an
   - (d) While in the stern position and without assistance from the bow paddler, paddle in a straight line 15-20 boat lengths using an appropriate steering stroke, e.g., the J-stroke or thumb-down rudder stroke with or without a stern pry.
 
     **Resources:** [How To Do a J-Stroke—Canoe Technique (video)](https://youtu.be/kSOu0jyuqN8&t=23), [Canoe tips with Chris Brain—The J stroke (video)](https://youtu.be/YpAB5p0ot5g)
-  - (e) Move the canoe in a straight line 15-20 boat lengths with the bow paddler using as necessary the forward stroke, draw stroke or forward sweep and the stern paddler using an appropriate steering stroke, e.g., the J-stroke or thumbdown rudder stroke with or without a stern pry.
+  - (e) Move the canoe in a straight line 15-20 boat lengths with the bow paddler using as necessary the forward stroke, draw stroke or forward sweep and the stern paddler using an appropriate steering stroke, e.g., the J-stroke or thumb-down rudder stroke with or without a stern pry.
 
     **Resources:** [Tandem Canoe Basics (video)](https://youtu.be/rjdlF7Cnr3E), [How To Paddle a Tandem Canoe (video)](https://youtu.be/aDaqvoIJD-A)
   - (f) While maintaining forward motion, turn the canoe 90° in an arc to the right in 5-10 boat lengths with the bow paddler using as necessary either the draw stroke or forward sweep and the stern paddler using only the forward stroke. Repeat the maneuver turning the canoe 90° to the left.

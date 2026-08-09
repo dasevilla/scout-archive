@@ -11,11 +11,11 @@ In working through the Forestry merit badge requirements, Scouts will explore th
 
 - (1) Prepare a field notebook, make a collection, and identify 15 species of trees, wild shrubs, or vines in a local forested area. Write a description in which you identify and discuss the following:
 
-  **Resources:** [How to Press Leaves (video)](https://youtu.be/06nhKenT4109), [Best Tree ID Apps Reviewed (video)](https://youtu.be/AtoSxXlRzsM)
+  **Resources:** [How To Press Leaves (video)](https://youtu.be/06nhKenT410), [Best Tree ID Apps Reviewed (app)](https://youtu.be/AtoSxXlRzsM)
 
   - (a) The characteristics of leaf, twig, cone, or fruiting bodies
-  - (b) The habitat in which these trees, shrubs, or vines are found.
-  - (c) The important ways each tree, shrub, or vine is used by humans or wildlife and whether the species is native or was introduced to the area. If it is not native, explain whether it is considered invasive or potentially invasive.
+  - (b) The habitat in which these trees, shrubs, or vines are found
+  - (c) The important ways each tree, shrub, or vine is used by humans or wildlife and whether the species is native or was introduced to the area (If it is not native, explain whether it is considered invasive or potentially invasive.)
 
 - (2) Do ONE of the following:
   - (a) Collect and identify wood samples of 10 species of trees. List several ways the wood of each species can be used.
@@ -70,13 +70,13 @@ In working through the Forestry merit badge requirements, Scouts will explore th
 
     **Resources:** [A Possible Virtual Tour: Big Logging Equipment in Action (video)](https://youtu.be/OBlcDZxHKXY)
 
-    - (1) The species and size of trees harvested or used.
+    - (1) The species and size of trees harvested or used
     - (2) The origin of the forest or stands of trees utilized (e.g., planted or natural)
-    - (3) The forest's successional stage. What is its future? If it is a past logging operation, note the regeneration that is occurring either planted or natural.
-    - (4) Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant).
-    - (5) The products that are made from the trees.
-    - (6) How the products are made and used.
-    - (7) How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized.
+    - (3) The forest's successional stage, its future, and—if it is a past logging operation—the regeneration that is occurring, whether planted or natural
+    - (4) Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant)
+    - (5) The products that are made from the trees
+    - (6) How the products are made and used
+    - (7) How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized
   - (c) Take part in a forest-fire prevention campaign in cooperation with your local fire warden, state wildfire agency, forester, or counselor. Write a brief report describing the campaign, how it will help prevent wildfires, and your part in it.
 
     **Resources:** [Your Home Can Survive a Wildfire (video)](https://youtu.be/vL_syp1ZScM)

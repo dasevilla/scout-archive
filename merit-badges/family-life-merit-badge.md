@@ -19,7 +19,7 @@ The family is the basic unit of society and is important to both individuals and
 
 - (3) Prepare a list of your regular home duties or chores (at least five) and do them for 90 days. Keep a record of how often you do each of them. Discuss with your counselor the effect your chores had on your family.
 
-  **Resources:** [10 Chores for Teens That Teach Them to Be Responsible Lifelong (video)](https://www.youtube.com/watch?v=1Hqchiy7qW4), [Family Chores (video)](https://vimeo.com/1114227688), [Create a Household Chore Checklist in Word - Quick and Easy (video)](https://www.youtube.com/watch?v=XmA6tCO_3MM), [Family Chores App (website)](https://familytoolsapp.com/solutions/chores), [Chore and Allowance App (website)](https://greenlight.com/chores-and-allowance-app-for-kids)
+  **Resources:** [10 Chores for Teens That Teach Them to Be Responsible Lifelong (video)](https://youtu.be/1Hqchiy7qW4), [Family Chores (video)](https://vimeo.com/1114227688), [Create a Household Chore Checklist in Word - Quick and Easy (video)](https://youtu.be/XmA6tCO_3MM), [Family Chores App (app)](https://familytoolsapp.com/solutions/chores), [Chore and Allowance App (app)](https://greenlight.com/chores-and-allowance-app-for-kids)
 
 - (4) With the approval of your parent or guardian and your counselor, decide on and carry out an individual project that you would do around the home that would benefit your family. After completion, discuss the objective or goal and the results of the project with your family and then your counselor.
 

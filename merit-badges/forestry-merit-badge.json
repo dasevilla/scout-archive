@@ -27,11 +27,11 @@
       ],
       "resources": [
         {
-          "title": "How to Press Leaves (video)",
-          "url": "https://youtu.be/06nhKenT4109"
+          "title": "How To Press Leaves (video)",
+          "url": "https://youtu.be/06nhKenT410"
         },
         {
-          "title": "Best Tree ID Apps Reviewed (video)",
+          "title": "Best Tree ID Apps Reviewed (app)",
           "url": "https://youtu.be/AtoSxXlRzsM"
         }
       ],
@@ -56,7 +56,7 @@
         {
           "id": "14641",
           "label": "b",
-          "text": "The habitat in which these trees, shrubs, or vines are found.",
+          "text": "The habitat in which these trees, shrubs, or vines are found",
           "requirement_path": "1.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -64,7 +64,7 @@
           "content": [
             {
               "type": "text",
-              "value": "The habitat in which these trees, shrubs, or vines are found."
+              "value": "The habitat in which these trees, shrubs, or vines are found"
             }
           ],
           "resources": [],
@@ -73,7 +73,7 @@
         {
           "id": "14642",
           "label": "c",
-          "text": "The important ways each tree, shrub, or vine is used by humans or wildlife and whether the species is native or was introduced to the area. If it is not native, explain whether it is considered invasive or potentially invasive.",
+          "text": "The important ways each tree, shrub, or vine is used by humans or wildlife and whether the species is native or was introduced to the area (If it is not native, explain whether it is considered invasive or potentially invasive.)",
           "requirement_path": "1.c",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -81,7 +81,7 @@
           "content": [
             {
               "type": "text",
-              "value": "The important ways each tree, shrub, or vine is used by humans or wildlife and whether the species is native or was introduced to the area. If it is not native, explain whether it is considered invasive or potentially invasive."
+              "value": "The important ways each tree, shrub, or vine is used by humans or wildlife and whether the species is native or was introduced to the area (If it is not native, explain whether it is considered invasive or potentially invasive.)"
             }
           ],
           "resources": [],
@@ -585,7 +585,7 @@
             {
               "id": "14674",
               "label": "1",
-              "text": "The species and size of trees harvested or used.",
+              "text": "The species and size of trees harvested or used",
               "requirement_path": "5.b.1",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -593,7 +593,7 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "The species and size of trees harvested or used."
+                  "value": "The species and size of trees harvested or used"
                 }
               ],
               "resources": [],
@@ -619,7 +619,7 @@
             {
               "id": "14676",
               "label": "3",
-              "text": "The forest's successional stage. What is its future? If it is a past logging operation, note the regeneration that is occurring either planted or natural.",
+              "text": "The forest's successional stage, its future, and—if it is a past logging operation—the regeneration that is occurring, whether planted or natural",
               "requirement_path": "5.b.3",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -627,7 +627,7 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "The forest's successional stage. What is its future? If it is a past logging operation, note the regeneration that is occurring either planted or natural."
+                  "value": "The forest's successional stage, its future, and—if it is a past logging operation—the regeneration that is occurring, whether planted or natural"
                 }
               ],
               "resources": [],
@@ -636,7 +636,7 @@
             {
               "id": "14677",
               "label": "4",
-              "text": "Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant).",
+              "text": "Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant)",
               "requirement_path": "5.b.4",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -644,7 +644,7 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant)."
+                  "value": "Where the trees are coming from (land ownership) or where they are going (type of mill or processing plant)"
                 }
               ],
               "resources": [],
@@ -653,7 +653,7 @@
             {
               "id": "14678",
               "label": "5",
-              "text": "The products that are made from the trees.",
+              "text": "The products that are made from the trees",
               "requirement_path": "5.b.5",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -661,7 +661,7 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "The products that are made from the trees."
+                  "value": "The products that are made from the trees"
                 }
               ],
               "resources": [],
@@ -670,7 +670,7 @@
             {
               "id": "14679",
               "label": "6",
-              "text": "How the products are made and used.",
+              "text": "How the products are made and used",
               "requirement_path": "5.b.6",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -678,7 +678,7 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "How the products are made and used."
+                  "value": "How the products are made and used"
                 }
               ],
               "resources": [],
@@ -687,7 +687,7 @@
             {
               "id": "14680",
               "label": "7",
-              "text": "How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized.",
+              "text": "How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized",
               "requirement_path": "5.b.7",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -695,7 +695,7 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized."
+                  "value": "How waste materials from the logging operation or manufacturing plant are or were disposed of or utilized"
                 }
               ],
               "resources": [],

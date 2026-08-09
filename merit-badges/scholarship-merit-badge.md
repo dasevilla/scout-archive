@@ -27,8 +27,9 @@ Working on the Scholarship merit badge provides Scouts with a great opportunity 
   - (c) Using a daily planner, show your counselor how you keep track of assignments and activities, and discuss how you manage your time.
 
     **Resources:** [How to Use Your Planner: Time-Management Tricks for Better Grades (video)](https://youtu.be/9z35XeolxMU?si=haH_-yZvpcaTXy05), [My Daily Planner (video)](https://www.youtube.com/shorts/ybb3h4re8kU)
-  - (d) Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the internet. Resources: [The Internet vs the Library (video)](https://youtu.be/RH3Z9BZryd8)
-    [How To Use AI in School Without Cheating (video)](https://youtu.be/1iVcFKAFu2E)
+  - (d) Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the internet.
+
+    **Resources:** [The Internet vs the Library (video)](https://youtu.be/RH3Z9BZryd8), [How To Use AI in School Without Cheating (video)](https://youtu.be/1iVcFKAFu2E)
 
 - (3) Get a note from the principal of your school (or another school official named by the principal) that states that during the past year your behavior, leadership, and service have been satisfactory.
 

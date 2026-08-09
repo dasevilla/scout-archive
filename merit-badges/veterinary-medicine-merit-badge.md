@@ -50,7 +50,7 @@ The field of veterinary medicine in the 21st century is one of the most exciting
 
   **Resources:** [How Long Does It Take to Become a Veterinarian and Board Certified? (video)](https://youtu.be/nzIUfwonJlk), [Accredited Veterinary Colleges (website)](https://www.avma.org/education/center-for-veterinary-accreditation/accredited-veterinary-colleges)
 
-- (4) Tell your counselor what a registered veterinary technician (R.V.T.) or animal health technician (A.H.T.) is. Describe the training required to become an R.V.T. or A.H.T. Where is the school or facility for R.V.T. or A.H.T training in your state or nearest to you? Describe the role an R.V.T. or A.H.T. would play in assisting a veterinarian working in three of the practice types listed in requirement 1.
+- (4) Tell your counselor what a registered veterinary technician (R.V.T.) or animal health technician (A.H.T.) is. Describe the training required to become an R.V.T. or A.H.T. Where is the school or training facility for R.V.T. or A.H.T. in your state or nearest to you? Describe the role an R.V.T. or A.H.T. would play in assisting a veterinarian working in three of the practice types listed in requirement 1.
 
   **Resources:** [What Is an RVT? (video)](https://youtu.be/7dNnOGMxiLs), [How To Become a Registered Veterinary Technician (RVT) (video)](https://youtu.be/UFkLQmM3Aew), [Registered Animal Health Technician (video)](https://youtu.be/qu-lmIlWJfE)
 

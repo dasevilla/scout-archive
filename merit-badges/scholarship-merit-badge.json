@@ -162,7 +162,7 @@
         {
           "id": "2541",
           "label": "d",
-          "text": "Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the internet. Resources: The Internet vs the Library (video)\nHow To Use AI in School Without Cheating (video)",
+          "text": "Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the internet.",
           "requirement_path": "2.d",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -170,46 +170,19 @@
           "content": [
             {
               "type": "text",
-              "value": "Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the internet. Resources: "
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://youtu.be/RH3Z9BZryd8"
-              },
-              "children": [
-                {
-                  "type": "text",
-                  "value": "The Internet vs the Library (video)"
-                }
-              ]
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://youtu.be/1iVcFKAFu2E"
-              },
-              "children": [
-                {
-                  "type": "text",
-                  "value": "How To Use AI in School Without Cheating (video)"
-                }
-              ]
+              "value": "Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the internet."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "The Internet vs the Library (video)",
+              "url": "https://youtu.be/RH3Z9BZryd8"
+            },
+            {
+              "title": "How To Use AI in School Without Cheating (video)",
+              "url": "https://youtu.be/1iVcFKAFu2E"
+            }
+          ],
           "sub_requirements": []
         }
       ]

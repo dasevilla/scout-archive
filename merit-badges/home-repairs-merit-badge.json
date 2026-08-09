@@ -142,7 +142,7 @@
         {
           "id": "14762",
           "label": "b",
-          "text": "Weather strip a window or door.",
+          "text": "Weatherstrip a window or door. Resource: How To Install Weatherstripping (video)",
           "requirement_path": "2.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -150,15 +150,23 @@
           "content": [
             {
               "type": "text",
-              "value": "Weather strip a window or door."
-            }
-          ],
-          "resources": [
+              "value": "Weatherstrip a window or door. Resource: "
+            },
             {
-              "title": "How to Install Weatherstripping (video)",
-              "url": "https://www.youtube.com/watch?v=E3JK2zMR53c"
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/E3JK2zMR53c"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "How To Install Weatherstripping (video)"
+                }
+              ]
             }
           ],
+          "resources": [],
           "sub_requirements": []
         },
         {

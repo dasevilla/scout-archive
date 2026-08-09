@@ -263,7 +263,7 @@
         {
           "id": "15421",
           "label": "c",
-          "text": "Using the list of diseases and conditions in requirement 1, discuss with your counselor those which currently have no immunization available.",
+          "text": "Using the list of diseases and conditions in requirement 1(b), discuss with your counselor those which currently have no immunization available.",
           "requirement_path": "2.c",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -271,7 +271,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Using the list of diseases and conditions in requirement 1, discuss with your counselor those which currently have no immunization available."
+              "value": "Using the list of diseases and conditions in requirement 1(b), discuss with your counselor those which currently have no immunization available."
             }
           ],
           "resources": [],
@@ -627,7 +627,7 @@
         {
           "id": "15452",
           "label": "a",
-          "text": "Do ONE of the following",
+          "text": "Do ONE of the following:",
           "requirement_path": "7.a",
           "node_kind": "instruction_container",
           "is_container": true,
@@ -635,7 +635,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Do ONE of the following"
+              "value": "Do ONE of the following:"
             }
           ],
           "resources": [],
@@ -643,7 +643,7 @@
             {
               "id": "15453",
               "label": "1",
-              "text": "Visit your city, county, state or federal public health agency.",
+              "text": "Visit your city, county, state, or federal public health agency.",
               "requirement_path": "7.a.1",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -651,7 +651,7 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "Visit your city, county, state or federal public health agency."
+                  "value": "Visit your city, county, state, or federal public health agency."
                 }
               ],
               "resources": [
@@ -684,15 +684,15 @@
         {
           "id": "15440",
           "label": "b",
-          "text": "After completing either 7(a) do the following:",
+          "text": "After completing either 7(a)(1) or 7(a)(2), do ALL of the following:",
           "requirement_path": "7.b",
-          "node_kind": "instruction_container",
+          "node_kind": "action_requirement",
           "is_container": true,
-          "requires_response": false,
+          "requires_response": true,
           "content": [
             {
               "type": "text",
-              "value": "After completing either 7(a) do the following:"
+              "value": "After completing either 7(a)(1) or 7(a)(2), do ALL of the following:"
             }
           ],
           "resources": [],

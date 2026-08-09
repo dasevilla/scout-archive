@@ -25,7 +25,7 @@ Discover the why and how we explore space. Learn about current and historic spac
 
   **Resources:** [Here's How I Make Custom Trading Cards (video)](https://youtu.be/PkCCLH_f1us?si=fw5ZdX03GwDyn_eo), [How to Make Trading Cards By Hand (video)](https://youtu.be/vYbeo4iS1Pc)
 
-- (3) Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: **Safety Note:** Rocket must be built to meet the safety code of the National Association of Rocketry. See the "Model Rocketry" section of the Space Exploration merit badge. **Alternative Requirement:** If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.Identify and explain the following rocket parts:
+- (3) Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: **Safety Note:** Rocket must be built to meet the safety code of the National Association of Rocketry. See the "Model Rocketry" section of the Space Exploration merit badge. **Alternative Requirement:** If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.
 
   **Resources:** [NASA "Rocket Parts" - Beginner's Guide (website)](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bgmr.html), [National Association of Rocketry Educational Video Series on Model Rocketry (website)](https://www.nar.org/content.aspx?page_id=22&club_id=114127&module_id=669619)
 
@@ -90,7 +90,7 @@ Discover the why and how we explore space. Learn about current and historic spac
 
 - (8) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
-  **Resources:** [Astronaut Requirements (website)](https://www.nasa.gov/humans-in-space/astronauts/astronaut-requirements/), [So You Want to Be an Aerospace Engineer (video)](https://www.youtube.com/watch?v=uTreDAUe7w4), [Should I become an Aerospace Engineer? (video)](https://www.youtube.com/watch?app=desktop&v=2Y2fNtYnsFQ), [Becoming an Astrobiologist (website)](https://astrobiology.nasa.gov/resources/graphic-histories/)
+  **Resources:** [Astronaut Requirements (website)](https://www.nasa.gov/humans-in-space/astronauts/astronaut-requirements/), [So You Want to Be an Aerospace Engineer (video)](https://youtu.be/uTreDAUe7w4), [Should I Become an Aerospace Engineer? (video)](https://youtu.be/2Y2fNtYnsFQ), [Becoming an Astrobiologist (website)](https://astrobiology.nasa.gov/resources/graphic-histories/)
 
 ## Resources
 

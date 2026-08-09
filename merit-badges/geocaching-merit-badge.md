@@ -51,7 +51,7 @@ The word geocache is a combination of “geo,” which means “earth,” and �
 
   **Resources:** [10 Things To Do When Playing Geocaching (video)](https://youtu.be/7LvnVdaw5sM)
 
-- (7) With your parent or guardian's permission, go to www.geocaching.com. Type in your city and state to locate public geocaches in your area. Share with your counselor the posted information about three of those geocaches. Then, pick one of the three and find the cache.**Note:** To fulfill this requirement, you will need to set up a free user account with www.Geocaching.com. Before doing so, ask your parent for permission and help.
+- (7) With your parent or guardian's permission, go to www.geocaching.com. Type in your city and state to locate public geocaches in your area. Share with your counselor the posted information about three of those geocaches. Then, pick one of the three and find the cache.**Note:** To fulfill this requirement, you will need to set up a free user account with www.Geocaching.com. Before doing so, ask your parent or guardian for permission and help.
 
   **Resources:** [Geocaching.com (website)](https://www.geocaching.com/play), [How To Find Your First Geocache! (video)](https://youtu.be/-ddhwGsGDjs)
 

@@ -15,12 +15,12 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
 
 - (2) **Ecology.** Do the following and discuss with your counselor:
 
-  **Resources:** [Merlin Bird App Description (video)](https://www.youtube.com/watch?v=xmSUOLxyatY), [INaturalist App Description (video)](https://www.youtube.com/watch?v=Mb_i-WoUKt0), [Observing Nature Through SMELL (video)](https://www.youtube.com/watch?v=4drgulU4kb8)
+  **Resources:** [Merlin Bird App Description (app)](https://youtu.be/xmSUOLxyatY), [INaturalist App Description (app)](https://youtu.be/Mb_i-WoUKt0), [Observing Nature Through SMELL (video)](https://youtu.be/4drgulU4kb8)
 
   - (a) Choose an area approved by your counselor and observe (sight, sound, and smell) its ecosystem over a two-day period.
 
     **Resources:** [Observe Nature Like a Scientist! (video)](https://www.youtube.com/watch?v=7NVce3RK-Lo), [Observing Nature (video)](https://www.youtube.com/watch?v=3udPykdfCCU), [Backyard Nature (video)](https://www.youtube.com/watch?v=7gyYfKphqsM)
-  - (b) Make notes about the living, nonliving (e.g. rocks) and formerly living components. Include information about interactions among the components, including the food chain, predators, native species, and invasive species) and identify how human activities have affected the ecosystem.
+  - (b) Make notes about the living, nonliving (e.g. rocks) and formerly living components. Include information about interactions among the components, including the food chain, predators, native species, and invasive species, and identify how human activities have affected the ecosystem.
 
 - (3) **Air Pollution.** Do ONE of the following and discuss with your counselor:
 
@@ -29,9 +29,8 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
   - (a) Learn what Particulate Matter (PM) is, how PM gets into the air, what the harmful effects of PM are, and what is being done to reduce PM in the air. Then, perform an experiment to test for particulates that contribute to air pollution.
 
     **Resources:** [Particulate Matter (video)](https://www.youtube.com/watch?v=zj4rd77EAt4)
-  - (b) Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered v. electric vehicles, gasoline-powered car v. bicycle, etc.).
-
-    **Resources:** [Your Car's Exhaust (video)](https://www.youtube.com/watch?v=WTg4i-5N62U), [Air Quality and Transportation (video)](https://www.youtube.com/watch?v=TF1hxpcy4so)
+  - (b) Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.). Resources: [Your Car's Exhaust (video)](https://youtu.be/WTg4i-5N62U)
+    [Air Quality and Transportation (video)](https://youtu.be/TF1hxpcy4so)
   - (c) Learn about the Clean Air Act. Make notes on when it was passed, its environmental goals, what progress has been made and what remains to be done to achieve the law's goals. Describe the impact, benefits, and costs of the law as well as what is required to implement and enforce the law.
 
     **Resources:** [Clean Air Act (video)](https://www.youtube.com/watch?v=um517CsDC2w)
@@ -76,9 +75,9 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
   - (a) Determine five ways to conserve resources or use resources more efficiently in your home, school, or camp. Practice at least two of these methods for at least one week.
 
     **Resources:** [10 Ways to Take Care of the Environment (video)](https://www.youtube.com/watch?v=X2YgM1Zw4_E), [Scouts and LNT (video)](https://www.youtube.com/watch?v=oTs29BZzf8U), [10 Easy Ways to Save Water at Home and Help the Planet (video)](https://youtu.be/8tA3GnlaX18?si=zeF88iHsxd1v4LYl), [The Leave No Trace Basics (video)](https://www.youtube.com/watch?v=rGY7LpH5tok)
-  - (b) Explain Resource Recovery and why it is important to reduce pollution. Collect samples or take photos of ten items that can demonstrate the principle of Reduce, Reuse, Recycle. Explain your collection, how these materials are currently handled, and potential improvements.
+  - (b) Explain Resource Recovery and why it is important to reduce pollution. Collect samples or take photos of 10 items that can demonstrate the principle of Reduce, Reuse, Recycle. Explain your collection, how these materials are currently handled, and potential improvements.
 
-    **Resources:** [Reduce, Reuse, Recycle (video)](https://www.youtube.com/watch?v=u8MQwOR2og8&t=178s), [Upcycling Hacks (video)](https://www.youtube.com/watch?v=YGzv0IsJFYU), [The 3Rs (video)](https://www.youtube.com/watch?v=TPG6E4nxtSw)
+    **Resources:** [Reduce, Reuse, Recycle (video)](https://youtu.be/u8MQwOR2og8), [Upcycling Hacks (video)](https://youtu.be/YGzv0IsJFYU), [The 3Rs (video)](https://youtu.be/TPG6E4nxtSw)
   - (c) Identify five items in your household that will become hazardous waste. Explain how they should be properly stored, what special care is needed for disposal, and proper disposal options available in your area.
 
     **Resources:** [Household Hazardous Waste Disposal  (video)](https://youtu.be/MJX0rvGsRpA?si=f-VNz_J6IBwhQMPd)

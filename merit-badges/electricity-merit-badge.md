@@ -76,16 +76,16 @@ Learn why electricity plays a significant role in the economy and how energy con
     **Resources:** [Saving Energy at Home - Energy Efficiency Tips (video)](https://youtu.be/pY6fAYkscTY)
 
 - (9) Explain the following:
-  - (a) Electrical terms - Current, energy, power, resistance, and voltage
+  - (a) Electrical terms: current, energy, power, resistance, and voltage
 
     **Resources:** [Electrical Terms Explained (website)](https://electricityforum.com/electrical-terms)
-  - (b) Units of measure - Ampere (amps), ohms, volts, watts, and watt-hours
+  - (b) Units of measure: ampere (amps), ohms, volts, watts, and watt-hours
 
     **Resources:** [The Difference Between Volts, Watts, and Amps - Explained Like You're Five (video)](https://youtu.be/lsef_Vlx83M)
-  - (c) Electrical conditions - Generating source with example, ground, open circuit, overvoltage, potential difference, and short circuit
+  - (c) Electrical conditions: generating source with example, ground, open circuit, overvoltage, potential difference, and short circuit
 
     **Resources:** [Open Circuits, Closed Circuits & Short Circuits - Basic Introduction (video)](https://youtu.be/v5RJf_V0LYA), [What Is Electric Potential Difference? (video)](https://youtu.be/0Ckmt2QyeqQ)
-  - (d) Equipment and their use - circuit, conductor, Ground Fault Circuit Interrupter (GFCI), insulator, inverter, rectifier, rheostat, substation, surge protection, solar panel, transformer, transmission and distribution systems, and wind turbine.
+  - (d) Equipment and their use: circuit, conductor, Ground Fault Circuit Interrupter (GFCI), insulator, inverter, rectifier, rheostat, substation, surge protection, solar panel, transformer, transmission and distribution systems, and wind turbine.
 
 - (10) Do TWO of the following:
   - (a) Connect a buzzer, bell, or light with a battery. Have a key or switch in the line.

@@ -9,10 +9,9 @@ A mammal may weigh as little as 1/12 ounce, as do some shrews, or as much as 150
 
 ## Requirements
 
-- (1) Explain the following terms: animal, invertebrate, vertebrate, and mammal. Name three characteristics that distinguish mammals from all other animals. Resources: [Characteristics and Categories of Mammals (video)](https://youtu.be/jscSDZG1nFo)
-  [10 Traits of Mammals (video)](https://youtu.be/JOqVQ3m-bDQ)
-  [Mammals—Traits and Groups of Warm-Blooded Animals (video)](https://youtu.be/n9ud5ZPu2Po)
-  [Vertebrate Diversity in Mammals (General Characteristics) (video)](https://youtu.be/mXs71vqrvqI)
+- (1) Explain the following terms: animal, invertebrate, vertebrate, and mammal. Name three characteristics that distinguish mammals from all other animals.
+
+  **Resources:** [Characteristics and Categories of Mammals (video)](https://youtu.be/jscSDZG1nFo), [10 Traits of Mammals (video)](https://youtu.be/JOqVQ3m-bDQ), [Mammals—Traits and Groups of Warm-Blooded Animals (video)](https://youtu.be/n9ud5ZPu2Po), [Vertebrate Diversity in Mammals (General Characteristics) (video)](https://youtu.be/mXs71vqrvqI)
 
 - (2) Explain how the animal kingdom is classified. Explain where mammals fit in the classification of animals. Classify three mammals from phylum through species.
 

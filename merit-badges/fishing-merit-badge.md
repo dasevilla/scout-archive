@@ -42,14 +42,14 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
   **Resources:** [Most Common Types of Fishing Lures (website)](https://fishingbooker.com/blog/most-common-types-of-fishing-lures-all-you-need-to-know/), [Fishing Lures for Beginners (video)](https://youtu.be/SamrdgVjpQk), [What Are the Different Types Of Fishing Lures? (website)](https://sportfishingbuddy.com/fishing-lure-types-chart/), [Motivations and Risks of Illegal Baitfish Release (video)](https://youtu.be/nmOdusje6tY)
 
 - (6) Do the following:
-  - (a) Explain the importance of practicing Leave No Trace Seven Principles and the Outdoor Code. Discuss the positive effects of Leave No Trace Seven Principle and the Outdoor Code on fishing resources.
+  - (a) Explain the importance of practicing Leave No Trace Seven Principles and the Outdoor Code. Discuss the positive effects of Leave No Trace Seven Principles and the Outdoor Code on fishing resources.
 
-    **Resources:** [7 Principles of LNT (website)](https://lnt.org/why/7-principles/), [LNT Basics (video)](https://vimeo.com/1115216743/63b20c0b33?share=copy)
+    **Resources:** [Seven Principles of LNT (website)](https://lnt.org/why/7-principles/), [LNT Basics (video)](https://vimeo.com/1115216743/63b20c0b33?share=copy)
   - (b) Discuss the meaning and importance of catch and release. Describe how to properly release a fish safely to the water.
 
     **Resources:** [How to Safely Handle Fish for Catch & Release Fishing (video)](https://youtu.be/TzNjYoRpvb0?si=aHLXxtxmVecGaQ-D), [Ethical Catch and Release Fishing (video)](https://youtu.be/SMGO50R_lrA)
 
-- (7) Obtain and review the regulations affecting gamefishing where you live. Explain why they were adopted and what is accomplished by following them.
+- (7) Obtain and review the regulations affecting game fishing where you live. Explain why they were adopted and what is accomplished by following them.
 
   **Resources:** [Fishing Licenses, Rules, Regulations (website)](https://fishpiers.com/fishing-license-requirements-by-state-all-50-states/)
 
@@ -59,7 +59,7 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 
 - (9) Catch one fish and identify it.
 
-  **Resources:** [Fish Identification Apps (website)](https://freeappsforme.com/fish-identification-apps/), [FishBase Identification  (website)](https://www.fishbase.us/), [How to Identify Common Freshwater Fish (video)](https://youtu.be/mZ4M-AP6-iQ)
+  **Resources:** [Fish Identification Apps (app)](https://freeappsforme.com/fish-identification-apps/), [FishBase Identification  (website)](https://www.fishbase.us/), [How to Identify Common Freshwater Fish (video)](https://youtu.be/mZ4M-AP6-iQ)
 
 - (10) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. **Note:** It is not required that you eat the fish.
 

@@ -96,7 +96,7 @@
     {
       "id": "1660",
       "label": "4",
-      "text": "Produce the design you created for requirement 3 using one of the following printing processes: Resource: Prepress Tips—How To Set Up Your Digital Print Files Correctly (video)",
+      "text": "Produce the design you created for requirement 3 using one of the following printing processes:",
       "requirement_path": "4",
       "node_kind": "action_requirement",
       "is_container": true,
@@ -104,28 +104,20 @@
       "content": [
         {
           "type": "text",
-          "value": "Produce the design you created for requirement 3 using one of the following printing processes: Resource: "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/QxlB6rl8aNU"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "Prepress Tips—How To Set Up Your Digital Print Files Correctly (video)"
-            }
-          ]
+          "value": "Produce the design you created for requirement 3 using one of the following printing processes:"
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Prepress Tips—How To Set Up Your Digital Print Files Correctly (video)",
+          "url": "https://youtu.be/QxlB6rl8aNU"
+        }
+      ],
       "sub_requirements": [
         {
           "id": "1661",
           "label": "a",
-          "text": "Offset lithography Make a layout, and produce a plate using a process approved by your counselor. Run the plate and print at least 50 copies.",
+          "text": "Offset lithography. Make a layout, and produce a plate using a process approved by your counselor. Run the plate and print at least 50 copies.",
           "requirement_path": "4.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -138,7 +130,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Offset lithography"
+                  "value": "Offset lithography."
                 }
               ]
             },
@@ -150,7 +142,7 @@
           "resources": [
             {
               "title": "Offset Lithography Demonstration (video)",
-              "url": "https://youtu.be/e4GmiXXAvuA?si=OA6SjlwBdX0iURxc"
+              "url": "https://youtu.be/e4GmiXXAvuA"
             }
           ],
           "sub_requirements": []
@@ -158,7 +150,7 @@
         {
           "id": "1662",
           "label": "b",
-          "text": "Screen printing Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies.",
+          "text": "Screen printing. Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies. Resource: Screen Printing Tutorial (video)",
           "requirement_path": "4.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -171,27 +163,35 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Screen printing"
+                  "value": "Screen printing."
                 }
               ]
             },
             {
               "type": "text",
-              "value": " Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies."
-            }
-          ],
-          "resources": [
+              "value": " Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies. Resource: "
+            },
             {
-              "title": "The Basics of Screen Printing | Screen Printing Tutorial (video)",
-              "url": "https://youtu.be/LB__fEeO6no?si=xnEBGmb6WHEazfXl"
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/LB__fEeO6no"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Screen Printing Tutorial (video)"
+                }
+              ]
             }
           ],
+          "resources": [],
           "sub_requirements": []
         },
         {
           "id": "1663",
           "label": "c",
-          "text": "Electronic/digital printing Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.",
+          "text": "Electronic/digital printing. Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.",
           "requirement_path": "4.c",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -204,7 +204,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Electronic/digital printing"
+                  "value": "Electronic/digital printing."
                 }
               ]
             },
@@ -216,7 +216,7 @@
           "resources": [
             {
               "title": "What Is Digital Printing? (video)",
-              "url": "https://youtube.com/shorts/pxunJD8QqJI?si=gu4SKEaApL3YeDtw"
+              "url": "https://youtube.com/shorts/pxunJD8QqJI"
             }
           ],
           "sub_requirements": []
@@ -224,7 +224,7 @@
         {
           "id": "1664",
           "label": "d",
-          "text": "Relief printing Prepare a layout or set the necessary type. Make a plate or lock up the form. Use this to print 50 copies.",
+          "text": "Relief printing. Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.",
           "requirement_path": "4.d",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -237,19 +237,19 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Relief printing"
+                  "value": "Relief printing."
                 }
               ]
             },
             {
               "type": "text",
-              "value": " Prepare a layout or set the necessary type. Make a plate or lock up the form. Use this to print 50 copies."
+              "value": " Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout."
             }
           ],
           "resources": [
             {
               "title": "Relief Printmaking (video)",
-              "url": "https://youtu.be/vsMBA-1g-5U?si=MyzHQonzhXqkwloS"
+              "url": "https://youtu.be/vsMBA-1g-5U"
             }
           ],
           "sub_requirements": []
@@ -352,7 +352,7 @@
         {
           "id": "1669",
           "label": "a",
-          "text": "Visit a newspaper printing plant: Follow a story from the editor to the press.",
+          "text": "Visit a newspaper printing plant. Follow a story from the editor to the press.",
           "requirement_path": "6.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -360,7 +360,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Visit a newspaper printing plant: Follow a story from the editor to the press."
+              "value": "Visit a newspaper printing plant. Follow a story from the editor to the press."
             }
           ],
           "resources": [

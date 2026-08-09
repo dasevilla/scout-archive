@@ -27,7 +27,7 @@ This clear and concise definition comes from the U.S. Department of Education: â
   - (a) Think of a creative way to describe yourself using, for example, a collage, short story or autobiography, drawing or series of photographs, or a song or skit. Using the aid you created, make a presentation to your counselor about yourself.
 
     **Resources:** [Using Emojis To Communicate the Scout Law (website)](https://scoutlife.org/the-emoji-scout-law/), [Writing With Your Audience in Mind (video)](https://youtu.be/xyH79KQET5E), [How To Use Visual Aids for Public Speaking (video)](https://youtu.be/KVbRQ0cE0Ok)
-  - (b) Choose a concept, product, or service in which you have great confidence. Build a sales plan based on its good points. Try to persuade the counselor to agree with, use, or buy your concept, product or service. After your sales talk, discuss with your counselor how persuasive you were.
+  - (b) Choose a concept, product, or service in which you have great confidence. Build a sales plan based on its good points. Try to persuade the counselor to agree with, use, or buy your concept, product, or service. After your sales talk, discuss with your counselor how persuasive you were.
 
     **Resources:** [Making a Speech Powerful & Persuasive (video)](https://youtu.be/FhWBABCpT9w)
 
@@ -60,7 +60,7 @@ This clear and concise definition comes from the U.S. Department of Education: â
 
 - (8) Plan a troop or crew court of honor, campfire program, or an interfaith worship service. Have the patrol leaders' council approve it, then write the script and prepare the program. Serve as master of ceremonies.
 
-  **Resources:** [Troop Program Features (website)](https://troopleader.scouting.org/program-features/), [Program Feature: Communication (website)](https://troopleader.scouting.org/program-features/communication/), [Troop Courts of Honor (website)](https://troopleader.scouting.org/ceremonies/troop-courts-of-honor/), [Eagle Courts of Honor (website)](https://troopleader.scouting.org/ceremonies/eagle-courts-of-honor/), [Campfire Planning form (PDF)](https://filestore.scouting.org/filestore/pdf/33696.pdf), [Campfire Planning    (website)](https://dragon.sleepdeprived.ca/songbook/campfire_planning.htm), [Interfaith Worship Service (PDF)](https://filestore.scouting.org/filestore/pdf/Interfaithservice.pdf)
+  **Resources:** [Troop Program Features (website)](https://troopleader.scouting.org/program-features/), [Program Feature: Communication (website)](https://troopleader.scouting.org/program-features/communication/), [Troop Courts of Honor (website)](https://troopleader.scouting.org/ceremonies/troop-courts-of-honor/), [Eagle Courts of Honor (website)](https://troopleader.scouting.org/ceremonies/eagle-courts-of-honor/), [Campfire Planning form (PDF)](https://filestore.scouting.org/filestore/pdf/33696.pdf), [Campfire Planning (website)](https://dragon.sleepdeprived.ca/songbook/campfire_planning.htm), [Interfaith Worship Service (PDF)](https://filestore.scouting.org/filestore/pdf/Interfaithservice.pdf)
 
 - (9) Find out about three career opportunities in communication. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
 

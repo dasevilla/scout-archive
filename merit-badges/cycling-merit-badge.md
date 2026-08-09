@@ -87,7 +87,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
       - (b) Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours or less. Afterward, use the tour's cue sheet to make a map of the ride.
 
         **Resources:** [Cue Sheets (website)](https://lifeisabeautifuldetail.com/blog/cue-sheets)
-  - **Option B—Trail or Mixed Surface Biking** Do ALL of the following:
+  - **Option B—Trail or Mixed Surface Biking.** Do ALL of the following:
 
     **Note:** These requirements may be completed using a mountain bike or other properly equipped, manually-powered cycle such as a gravel bike, tandem bike, hand-powered bike, recumbent bike, adult tricycle, or adaptive cycle. If a tandem bike is used, the Scout must actively power the cycle in concert with the other rider.
     - (1) Demonstrate the following mountain bike handling skills to your counselor:
@@ -104,7 +104,7 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
       - (a) Show proper trail etiquette to hikers and other cyclists, including when to yield the right-of-way.
 
         **Resources:** [Bike Trail Etiquette (video)](https://youtu.be/gwYBL2zPYXQ)
-      - (b) Demonstrate how to correctly cross an obstacle by either going over the obstacle on your bike or dismounting your bike and crossing over or around the obstacle
+      - (b) Demonstrate how to correctly cross an obstacle by either going over the obstacle on your bike or dismounting your bike and crossing over or around the obstacle.
 
         **Resources:** [How to Jump a Log on a Mountain Bike (video)](https://www.youtube.com/watch?v=Hp_jDNN6XfQ)
       - (c) Cross rocks, gravel, and roots properly
@@ -115,10 +115,10 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
       **Resources:** [Sharing Our Trails (website)](https://treadlightly.org/tips/sharing-our-trails/), [Trail Manners (website)](https://www.tfnu.org/trail-etiquette/)
     - (4) On mountain biking or multi-use trails approved by your counselor, take two rides of 2 miles each, two rides of 5 miles each, and two rides of 8 miles each. You must make a report of the rides taken. List dates for the routes traveled, and interesting things seen.
 
-      **Resources:** [MapMyRide (website)](https://www.mapmyride.com/)
+      **Resources:** [MapMyRide (app)](https://www.mapmyride.com/)
     - (5) After fulfilling the previous requirement, lay out on a trail map a 22-mile trip. You may include multiple trail systems, if needed. Stay away from main highways. Using your map, complete this ride in one day.
 
-      **Resources:** [MapMyRide (website)](https://www.mapmyride.com/)
+      **Resources:** [MapMyRide (app)](https://www.mapmyride.com/)
 
 ## Resources
 

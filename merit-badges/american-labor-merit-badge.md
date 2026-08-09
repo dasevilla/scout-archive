@@ -48,7 +48,7 @@ The labor movement in America seeks to ensure that the civil rights of laborers 
 
   **Resources:** [The Impact of Gloalization on Labor Markets (website)](https://www.numberanalytics.com/blog/impact-globalization-labor-markets#google_vignette), [What Is Globalization? (video)](https://youtu.be/15d818t9UZ0), [What Is Globalization? Understand Our Interconnected World (video)](https://youtu.be/wLNp3kgBuuQ)
 
-- (7) Choose a labor issue of widespread interest to American workers - an issue in the news currently or known to you from your work on this merit badge. Before your counselor, or in writing, argue both sides of the issue, first taking management's side, then presenting labor's or the employee's point of view. In your presentation, summarize the basic rights and responsibilities of employers and employees, including union members and nonunion members.
+- (7) Choose a labor issue of widespread interest to American workers—an issue in the news currently or known to you from your work on this merit badge. Before your counselor, or in writing, argue both sides of the issue, first taking management's side, then presenting labor's or the employee's point of view. In your presentation, summarize the basic rights and responsibilities of employers and employees, including union members and nonunion members.
 
 - (8) Discuss with your counselor the different goals that may motivate the owners of a business, its stockholders, its customers, its employees, the employees' representatives, the community, and public officials. Explain why agreements and compromises are made and how they affect each group in achieving its goals.
 

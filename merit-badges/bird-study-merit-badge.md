@@ -37,7 +37,7 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 
 - (4) Demonstrate that you know how to use a bird field guide. Show your counselor that you are able to understand a range map by locating in the book and pointing out the wintering range, the breeding range, and/or the year-round range of one species of each of the following types of birds:
 
-  **Resources:** [How to Use a Field Guide (video)](https://youtu.be/dAkcHqfkWfg), [Merlin  Bird ID (video)](https://merlin.allaboutbirds.org/)
+  **Resources:** [How to Use a Field Guide (video)](https://youtu.be/dAkcHqfkWfg), [Merlin  Bird ID (app)](https://merlin.allaboutbirds.org/)
 
   - (a) Seabird
   - (b) Plover

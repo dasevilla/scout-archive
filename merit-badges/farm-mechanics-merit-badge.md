@@ -62,13 +62,13 @@ From the mattock and hoe to the horse and mule, the cotton gin and reaper, the t
 - (5) Visit an implement dealer. Interview the dealer technician or service manager for hints on good preventive maintenance. Ask why it is important, the costs, and what causes wear or damage. Report what you learn.
 
 - (6) Explain each step in ONE of the following maintenance procedures:
-  - (a) Tightening hydraulic fittings.
+  - (a) Tightening hydraulic fittings
 
     **Resources:** [Avoid Leaks! How To Tighten Hydraulic Fittings the Right Way (website)](https://cntopa.com/avoid-leaks-how-to-tighten-hydraulic-fittings-the-right-way.html)
-  - (b) Checking the air filter.
+  - (b) Checking the air filter
 
     **Resources:** [Maintaining Your Tractor—Changing the Air Filter (video)](https://youtu.be/571Oz9LrBwk)
-  - (c) Cleaning a work piece with a wire-brush wheel.
+  - (c) Cleaning a work piece with a wire-brush wheel
 
     **Resources:** [Cleaning Up Rusted Metal Finds (video)](https://youtu.be/wPR2Lbmn7wM)
 

@@ -55,7 +55,7 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
   - (b) Get underway from a dock, mooring, or beach.
 
     **Resources:** [Beach Launching a Single Handed Boat (video)](https://youtu.be/JBdvAG6Ham0)
-  - (c) Properly set sails for a round-trip course approved by your counselor that will include running, beating, and reaching-the basic points of sail. While sailing, demonstrate good helmsmanship skills.
+  - (c) Properly set sails for a round-trip course approved by your counselor that will include running, beating, and reaching—the basic points of sail. While sailing, demonstrate good helmsmanship skills.
 
     **Resources:** [Points of Sail (video)](https://youtu.be/Ow-P45DpHj8), [Close-Hauled (Sailing Towards the Wind) (video)](https://youtu.be/mTtKGr_4vYg), [Reaching (Sailing Across the Wind) (video)](https://youtu.be/DsmH7XuMJbw), [Running (Sailing Away From the Wind) (video)](https://youtu.be/FI-9JeVzsK0)
   - (d) Change direction by tacking; change direction by jibing.

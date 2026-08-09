@@ -74,7 +74,7 @@ Modern automobiles are important to many aspects of American life. Those who ser
   - (b) Explain the symbols that light up on the dashboard and the difference between the yellow and red symbols. Explain each of the indicators on the dashboard, using the owner's manual if necessary.
 
     **Resources:** [Dashboard Warning Lights Explained (video)](https://youtu.be/DswOF-reMRo?si=N020Ga39csW2d_28)
-  - (c) Explain the messages and alerts that may be displayed on the dashboard/ driver information center including maintenance-related reminders.
+  - (c) Explain the messages and alerts that may be displayed on the dashboard/driver information center including maintenance-related reminders.
 
 - (4) **Tires.** Do the following:
   - (a) Explain the difference between tire manufacturer's and vehicle manufacturer's specifications and show where to find them.
@@ -116,9 +116,9 @@ Modern automobiles are important to many aspects of American life. Those who ser
   - (a) Explain how the air and fuel systems work together and why it is necessary to have an air filter and fuel filter.
 
     **Resources:** [How Air Filter Works (video)](https://www.youtube.com/shorts/3RRpjRclwwY), [Animation Fuel Filter (video)](https://youtu.be/sZLtnnAgs60?si=JOyTzGI4rwRVabWI)
-  - (b) Explain how a how a fuel injection system works and how an onboard computer works with the fuel injection system.
+  - (b) Explain how a fuel injection system works and how an onboard computer works with the fuel injection system.
 
-    **Resources:** [How a Car Fuel Injection System Works Explained Step-by-Step! (video)](https://youtu.be/DI4Oci7U2lA?si=gXVRcMg3qzrhN7g9)
+    **Resources:** [How a Car Fuel Injection System Works Explained Step-by-Step! (video)](https://youtu.be/DI4Oci7U2lA)
 
 - (8) **Ignition and Electrical Systems.** Do the following:
   - (a) Diagram and explain the parts of one of the following electrical systems:
@@ -163,9 +163,9 @@ Modern automobiles are important to many aspects of American life. Those who ser
   - (d) Explain the types of lubricants used in a standard transmission, and in the differential and transfer case.
 
     **Resources:** [Which Fluids to Use (video)](https://youtu.be/3le9ZT5HUlk?si=WmA2BT2KcmgCqFqe)
-  - (e) Explain the difference between front-wheel, rear- wheel, and four-wheel drive.
+  - (e) Explain the difference between front-wheel, rear-wheel, and four-wheel drive.
 
-    **Resources:** [Ultimate Drive Train Guide (video)](https://youtu.be/-cTJqNWwmf0?si=YscZbCqHqB_OzlKy)
+    **Resources:** [Ultimate Drive Train Guide (video)](https://youtu.be/-cTJqNWwmf0)
 
 - (10) **Brake System.** Do the following:
   - (a) Explain the brake system (including antilock systems) and how it operates.

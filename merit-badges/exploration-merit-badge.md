@@ -61,9 +61,9 @@ Discover the history and importance of various kinds of exploration by earning t
     **Resources:** [How to Plan for Permits and Reservations (video)](https://youtu.be/nup-uvbAfuU?si=CeutkSlZvOuJ81hU)
   - (d) Determine equipment and supplies required for personal and mission needs for the length of the expedition.
   - (e) Determine communication and transportation needs. Plan how to keep in contact with your base or the outside world, and determine how you will communicate with each other on-site.
-  - (f) Establish safety and first aid procedures (including planning for medical evacuation). Identify the hazards that explorers could encounter on the expedition, and establish procedures to prevent or avoid those hazards.
+  - (f) Establish safety and first-aid procedures (including planning for medical evacuation). Identify the hazards that explorers could encounter on the expedition and establish procedures to prevent or avoid those hazards.
 
-    **Resources:** [Wilderness Primary Care Kit Walkthrough \| Essential Expedition Essentials Medical Kit Guide (video)](https://www.youtube.com/watch?v=A-pbC5aDBY0)
+    **Resources:** [Essential Expedition Essentials Medical Kit Guide (video)](https://youtu.be/A-pbC5aDBY0?si=mOFgZoJs9w26Iix6)
   - (g) Determine team selection. Identify who is essential for the expedition to be successful and what skills are required by the expedition leader.
 
     **Resources:** [Flight of the Osprey Media Team Selection (video)](https://youtu.be/pDJHtE3BB_c?si=W6oyFePTcGnXQSM1)
@@ -80,12 +80,12 @@ Discover the history and importance of various kinds of exploration by earning t
 
 - (8) **Go on an Expedition.** Complete the following:
   - (a) With your parent or guardian's permission and under the supervision of your counselor or a counselor-approved qualified person, use the planning steps you learned in requirement 6 and the preparations you completed in requirement 7 to personally undertake an actual expedition to an area you have not previously explored.
-  - (b) Discuss with your counselor about the vital role of outdoor ethics in exploration, explaining how they promote responsible and mindful adventuring. Explain how you applied the outdoor code, Leave No Trace and Tread Lightly! principles during your expedition.
+  - (b) Discuss with your counselor about the vital role of outdoor ethics in exploration, explaining how they promote responsible and mindful adventuring. Explain how you applied the Outdoor Code, Leave No Trace and Tread Lightly! principles during your expedition.
 
     **Resources:** [Leave No Trace Basics (video)](https://vimeo.com/1115216743/63b20c0b33?share=copy), [Leave No Trace Outdoor Ethics (video)](https://youtu.be/jXO1uY0MvmQ?si=_UhIOYBkw69c87ug)
   - (c) After you return, compile a report on the results of your expedition and how you accomplished your objective(s). Include a statement of the objectives, note your findings and observations, include photos, note any discoveries, report any problems or adverse events, and have a conclusion (whether you reached your objective or not). The post-expedition report must be at least one page and no more than three; one page can be photos, graphs, or figures.
 
-- (9) **Career Opportunities:** Do ONE of the following:
+- (9) **Career Opportunities.** Do ONE of the following:
   - (a) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
     **Resources:** [Ocean Exploration Careers (website)](https://oceanexplorer.noaa.gov/careers/), [Unlocking Space Careers: Beyond Astronauts and Rocket (video)](https://youtu.be/ljlpqd1Mjjs?si=V3Yaz18BvlIVnDpQ), [How I Became a Researcher (video)](https://youtu.be/vOhyZ8FYCmw?si=9XLnEqu1IJIin0CH)

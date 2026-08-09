@@ -10,21 +10,21 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
 ## Requirements
 
 - (1) **Laws and Society.** Discuss the following with your counselor:
-  - (a) Why we have criminal laws.
+  - (a) Why we have criminal laws
 
     **Resources:** [The Purposes of Criminal Law (video)](https://youtu.be/j9IvbB50YB0)
-  - (b) What are types of crimes, including property crimes, crimes against people, white collar crime, and environmental crime.
+  - (b) The types of crimes, including property crimes, crimes against people, white collar crime, and environmental crime
 
-    **Resources:** [7 Types of Crime (video)](https://youtu.be/BSyY9RRR6ds)
-  - (c) Why people commit crimes.
+    **Resources:** [Seven Types of Crime (video)](https://youtu.be/BSyY9RRR6ds)
+  - (c) Why people commit crimes
 
     **Resources:** [Why Do People Commit Crimes? (video)](https://youtu.be/1FD7aMivAek)
-  - (d) Why everyone should follow the law even when no one is watching.
+  - (d) Why everyone should follow the law even when no one is watching
 
-    **Resources:** [Why Do We Obey Laws? The Social Contract (video)](https://youtu.be/PgaLe64jUJk?si=X49W-2QPhOORpk9o), [Our Social Contract to Follow the Law (video)](https://youtu.be/Ax2Ig6Y9Ve4?si=BL7BGjL2Flj6DSyV)
-  - (e) What is the meaning of crime prevention.
+    **Resources:** [Why Do We Obey Laws? The Social Contract (video)](https://youtu.be/PgaLe64jUJk), [Our Social Contract to Follow the Law (video)](https://youtu.be/Ax2Ig6Y9Ve4)
+  - (e) The meaning of crime prevention
 
-    **Resources:** [What is Crime Prevention? (video)](https://youtu.be/RbObl2KKU7A?si=03soZBeN05po0MOv), [Basic Crime Prevention (video)](https://youtu.be/PS1RmeyTSD0?si=OoWp68p1BqHgG9Hj)
+    **Resources:** [What Is Crime Prevention? (video)](https://youtu.be/RbObl2KKU7A), [Basic Crime Prevention (video)](https://youtu.be/PS1RmeyTSD0)
 
 - (2) **Groups Working to Prevent Crime.** Research how the following groups contribute to crime prevention and share your findings with your counselor:
   - (a) Citizens, including youth
@@ -57,12 +57,12 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
 
 - (4) **Home and Neighborhood Crime Prevention.** Do the following:
   - (a) Discuss the following with your counselor:
-    - (1) How participation in activities of families, churches, sports teams, and clubs prevents crime.
+    - (1) How participation in activities of families, churches, sports teams, and clubs prevents crime
 
-      **Resources:** [Church members Escape Crime-Ridden Lives (video)](https://youtu.be/GG5UkPNxBHU?si=4vsdLjvlfQEauAOD), [How Can Boxing Clubs Help Prevent Crime (video)](https://youtu.be/oEJoZnsgUZA?si=eaTS6FuXVW2mndEo)
-    - (2) How designs of houses, neighborhoods, public buildings, stores, streets, and parks prevent crime.
+      **Resources:** [Church Members Escape Crime-Ridden Lives (video)](https://youtu.be/GG5UkPNxBHU), [How Can Boxing Clubs Help Prevent Crime (video)](https://youtu.be/oEJoZnsgUZA)
+    - (2) How designs of houses, neighborhoods, public buildings, stores, streets, and parks prevent crime
 
-      **Resources:** [What is CPTED? (video)](https://youtu.be/p3UY1w1O3PA), [Designing Out Crime: CPTED (video)](https://youtu.be/CZ5sVtt9-8I)
+      **Resources:** [What Is CPTED? (video)](https://youtu.be/p3UY1w1O3PA), [Designing Out Crime: CPTED (video)](https://youtu.be/CZ5sVtt9-8I)
   - (b) Conduct a security survey of a home, a neighborhood, a park, or a camp building with adult supervision and following youth protection guidelines using a security checklist in the *Crime Prevention* merit badge pamphlet or one approved by your counselor.
 
     **Resources:** [Home Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf), [Camp Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Camp%20Security%20Checklists%20%231%20%232%2001%202026.pdf)
@@ -71,70 +71,70 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
     **Resources:** [The EDGE Method of Teaching (PDF)](https://www.scouting.org/wp-content/uploads/2019/01/Teaching-Edge-Method.pdf)
 
 - (5) **Retail Crime Prevention.** Research the following topics and review them with your counselor:
-  - (a) The impact of shoplifting and employee theft (also known as shrinkage) and loss prevention on retail finances, customer service, and reputation.
+  - (a) The impact of shoplifting and employee theft (also known as shrinkage) and loss prevention on retail finances, customer service, and reputation
 
     **Resources:** [The Impact of Shoplifting on the Retail Industry (video)](https://youtu.be/sQ3m5T4vk3E)
-  - (b) Techniques used by retail stores to prevent shoplifting.
+  - (b) Techniques used by retail stores to prevent shoplifting
 
-    **Resources:** [How to Prevent Shoplifting (video)](https://youtu.be/j4OJtL7Snko), [Retail Loss Prevention Techniques (video)](https://youtu.be/giFprF8nsKg)
+    **Resources:** [How To Prevent Shoplifting (video)](https://youtu.be/j4OJtL7Snko), [Retail Loss Prevention Techniques (video)](https://youtu.be/giFprF8nsKg)
 
 - (6) **Reporting Crime.** Discuss the following with your counselor:
-  - (a) When and how to report a crime or an impending crime.
+  - (a) When and how to report a crime or an impending crime
 
-    **Resources:** [How to Report a Crime (video)](https://youtu.be/uPWW3S_LLT4), [How to Report a Crime - Public Safety Minute (video)](https://youtu.be/aMT6wlCOvEM)
-  - (b) The warning signs for child abuse and domestic violence and how to report these situations.
-  - (c) The three R's of personal safety and protection and how to apply them.
-  - (d) How reporting a crime can help law enforcement provide resources for crime victims.
+    **Resources:** [How To Report a Crime (video)](https://youtu.be/uPWW3S_LLT4), [How To Report a Crime—Public Safety Minute (video)](https://youtu.be/aMT6wlCOvEM)
+  - (b) The warning signs for child abuse and domestic violence and how to report these situations
+  - (c) The three R's of personal safety and protection and how to apply them
+  - (d) How reporting a crime can help law enforcement provide resources for crime victim
 
     **Resources:** [Importance of Reporting Crime (video)](https://youtu.be/vZbarQJTs1c)
 
 - (7) **Peers and Crime.** Discuss the following with your counselor:
-  - (a) The role that peers play in crime, crime prevention, and experiencing crime.
+  - (a) The role that peers play in crime, crime prevention, and experiencing crime
 
-    **Resources:** [Adolescent Risk-Takers: The Power of Peers (video)](https://youtu.be/2Q4tlPEihAM?si=Ov5f_cNp8hXWWKj3)
-  - (b) How to resist peer influence.
+    **Resources:** [Adolescent Risk-Takers: The Power of Peers (video)](https://youtu.be/2Q4tlPEihAM)
+  - (b) How to resist peer influence
 
     **Resources:** [Positive Peer Influences (video)](https://youtu.be/R3LV5oZPof4?si=OaDJ9tyF9HHGEgu6), [Managing Peer Pressure  (video)](https://youtu.be/SNZ9LHclUvA)
-  - (c) Bullying and hazing behaviors and signs that a friend may be bullying you or someone else.
+  - (c) Bullying and hazing behaviors and signs that a friend may be bullying you or someone else
 
-    **Resources:** [Protect Yourself Rules - Bullying (video)](https://youtu.be/4mrE5zgEvt4?si=_KsJzcDzgFI1sPZ3), [The Basics of Bullying (video)](https://youtu.be/eAj2kTQyEGw?si=L8hRIgQlj7BzD3Qc), [Bullying and How to Stop it (video)](https://youtu.be/ffzIhWoi5ac)
-  - (d) Explain the impact of gangs on communities.
+    **Resources:** [Protect Yourself Rules—Bullying (video)](https://youtu.be/4mrE5zgEvt4), [The Basics of Bullying (video)](https://youtu.be/eAj2kTQyEGw), [Bullying and How To Stop It (video)](https://youtu.be/ffzIhWoi5ac)
+  - (d) The impact of gangs on communities
 
     **Resources:** [How Gangs Affect Communities (website)](https://youth.gov/youth-topics/preventing-gang-involvement/adverse-effects)
 
 - (8) **Substance Use and Crime.** Discuss the following with your counselor:
-  - (a) The legal and health consequences of using alcohol, tobacco and vaping products, illegal drugs, and diverted prescription drugs.
+  - (a) The legal and health consequences of using alcohol, tobacco and vaping products, illegal drugs, and diverted prescription drugs
 
-    **Resources:** [The Science of Addiction (video)](https://youtu.be/hBC7i-vHWsU?si=fJxR4B27CYpbWGcz), [Electronic Cigarettes and Vaping (video)](https://youtu.be/9dZS_Rniak0?si=V6A0VHuwIyUIe8ew), [Legal Consequences of Drugs (video)](https://youtu.be/Y4xITbvN7rk), [Drug Abuse, Causes, Signs and Symptoms, Diagnosis and Treatment (video)](https://youtu.be/b6Dte96WdqM?si=t3-nEWs-vlLETkqL)
-  - (b) How substance use contributes to violence and property crime and increases a person's risk of becoming a victim of crime.
+    **Resources:** [The Science of Addiction (video)](https://youtu.be/hBC7i-vHWsU), [Electronic Cigarettes and Vaping (video)](https://youtu.be/9dZS_Rniak0), [Legal Consequences of Drugs (video)](https://youtu.be/Y4xITbvN7rk), [Drug Abuse, Causes, Signs and Symptoms, Diagnosis and Treatment (video)](https://youtu.be/b6Dte96WdqM)
+  - (b) How substance use contributes to violence and property crime and increases a person's risk of becoming a victim of crime
 
     **Resources:** [Drugs and Crime (website)](https://ncaddnational.org/addiction_articles/alcohol-drugs-and-crime/), [Crimes Related to Drugs (website)](https://drugabusestatistics.org/drug-related-crime-statistics/)
-  - (c) How drug abuse awareness, prevention, and recovery programs help prevent crime.
+  - (c) How drug abuse awareness, prevention, and recovery programs help prevent crime
 
     **Resources:** [Reduce Crime AND Save Money (video)](https://youtu.be/ATaSk7NzXLc)
-  - (d) How to get help if you or someone you know needs help with drugs or alcohol.
+  - (d) How to get help if you or someone you know needs help with drugs or alcohol
 
     **Resources:** [Finding Help for Drug and Alcohol Disorders (website)](https://findtreatment.gov/), [Treatment Choices for Substance Use Disorders (video)](https://youtu.be/IcLtRTEP7eo)
 
 - (9) **Online Crime and You.** Discuss the following with your counselor:
-  - (a) How to avoid being the victim of online crimes.
+  - (a) How to avoid being the victim of online crimes
 
-    **Resources:** [Top 10 Cyber Crimes (video)](https://youtu.be/_IELMnzqVgQ?si=zQ2ST7Jk5EBcUpPo), [Protect Your Personal Information From Hackers and Scammers (website)](https://consumer.ftc.gov/protect-your-personal-information-hackers-scammers#keep)
-  - (b) Common online financial scams.
+    **Resources:** [Top 10 Cyber Crimes (video)](https://youtu.be/_IELMnzqVgQ), [Protect Your Personal Information From Hackers and Scammers (website)](https://consumer.ftc.gov/protect-your-personal-information-hackers-scammers#keep)
+  - (b) Common online financial scams
 
     **Resources:** [Common Online Scams (video)](https://youtu.be/k8UVnkh8i0c)
-  - (c) Effective online security.
+  - (c) Effective online security
 
-    **Resources:** [Effective Online Security (video)](https://youtu.be/aO858HyFbKI?si=ynzNZIiw7gdY8d3r), [Digital Safety (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4?_gl=1*1npxm9d*_ga*MTk1Mzg0NzM1OS4xNzU1NjM1NDc0*_ga_20G0JHESG4*czE3NTc2MjAyMjAkbzIxJGcxJHQxNzU3NjIwMjU2JGoyNCRsMCRoMA..*_gcl_au*MTU0OTgwNjcyLjE3NTU2MzU0NzQ.&_ga=2.243209291.839854577.1757346029-1953847359.1755635474)
-  - (d) Identity theft and how to prevent it.
+    **Resources:** [Effective Online Security (video)](https://youtu.be/aO858HyFbKI), [Digital Safety (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4)
+  - (d) Identity theft and how to prevent it
 
-    **Resources:** [Preventing Identity Theft (video)](https://youtu.be/kDFeSUUwRnA), [How to Prevent Identity Theft (video)](https://youtu.be/zq8ErbZzcbI)
-  - (e) How criminals use social media to target victims.
+    **Resources:** [Preventing Identity Theft (video)](https://youtu.be/kDFeSUUwRnA), [How To Prevent Identity Theft (video)](https://youtu.be/zq8ErbZzcbI)
+  - (e) How criminals use social media to target victims
 
-    **Resources:** [How Criminals Use Social Media (video)](https://youtu.be/5bdBvNCBeho?si=qbnnwkHshfttTu8f)
-  - (f) How bullying, texting, and sharing photos can become crimes.
+    **Resources:** [How Criminals Use Social Media (video)](https://youtu.be/5bdBvNCBeho)
+  - (f) How bullying, texting, and sharing photos can become crimes
 
-    **Resources:** [Bullying Awareness (website)](https://www.scouting.org/training/youth/bullying/), [Prevention: Learn How to Identify Bullying and Stand Up to It Safely (website)](https://www.stopbullying.gov/), [Top 10 Forms of Cyber Bullying (video)](https://youtu.be/0Xo8N9qlJtk?si=9EbwzuBmLSEyDL-c), [Bullying (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod2%20Final%20Master%20Small.mp4)
+    **Resources:** [Bullying Awareness (website)](https://www.scouting.org/training/youth/bullying/), [Prevention: Learn How To Identify Bullying and Stand Up to It Safely (website)](https://www.stopbullying.gov/), [Top 10 Forms of Cyber Bullying (video)](https://youtu.be/0Xo8N9qlJtk), [Bullying (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod2%20Final%20Master%20Small.mp4)
 
 - (10) **Interview.** With your parent or guardian's permission and your counselor's approval, interview a law enforcement officer or a civil servant about their work in crime prevention. Learn about how they chose this career and about their duties. Discuss what you learned with your counselor.
 

@@ -9,9 +9,9 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
 
 ## Requirements
 
-- (1) Format TWO sheets of drawing paper with proper borders and title blocks - one for your manual project (see requirement 2) and one for your lettering project (see requirement 5).
+- (1) Format TWO sheets of drawing paper with proper borders and title blocks—one for your manual project (see requirement 2) and one for your lettering project (see requirement 5).
 
-  **Resources:** [Technical Drawing - Border and Title Block (video)](https://youtu.be/OOMLwD0ogrk?si=Z8PR9MBvQLzUU8uF)
+  **Resources:** [Technical Drawing—Border and Title Block (video)](https://youtu.be/OOMLwD0ogrk)
 
   - (a) Make a rough sketch for each of your project drawings to determine the correct size of paper to format.
 
@@ -43,12 +43,12 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
     **Resources:** [How to Draw an Electrical Circuit in AutoCAD (video)](https://youtu.be/q3wa6ZPVWd8?si=eSR8nkvqZURN1iGa)
 
 - (4) Do the following:
-  - (a) Present a copy of your drawings from Requirements 2 and 3, either in paper or digital format to your counselor. Your counselor will return a redlined version of your drawings indicating to add/remove/change a feature, material, BOM QTY, etc.
+  - (a) Present a copy of your drawings from requirements 2 and 3, either in paper or digital format to your counselor. Your counselor will return a redlined version of your drawings indicating to add/remove/change a feature, material, BOM QTY, etc.
   - (b) Make the correction from the redline, identify it on the drawings with a revision marker, and add a revision block.
 
     **Resources:** [AutoCAD II 25-19 Revision History Blocks (video)](https://youtu.be/1XQ2fdCbx9g?si=OgJjHpOp3lt68dWZ)
 
-- (5) Discuss with your counselor how fulfilling requirements 2, 3 and 4 differed from each other. Tell about the benefits derived from using CAD for requirements 3 and 4. Include in your discussion the software you used as well as other software options that are available.
+- (5) Discuss with your counselor how fulfilling requirements 2, 3, and 4 differed from each other. Tell about the benefits derived from using CAD for requirements 3 and 4. Include in your discussion the software you used as well as other software options that are available.
 
 - (6) Using single-stroke slant or vertical Gothic lettering (without the aid of a template or lettering guide), write a brief explanation of what you consider to be the most important benefit in using CAD in a particular industry (aerospace, electronics, manufacturing, architectural, or other). Use the experience gained in fulfilling requirements 2 through 5 to support your opinion. Use the formatted sheet of paper you prepared in requirement 1 for your lettering project.
 
@@ -62,7 +62,7 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
   - (b) Using resources you find on your own such as at the library and on the internet (with your parent or guardian's permission), learn more about the drafting trade and discuss the following with your counselor.
 
     **Resources:** [Tracing the Evolution of Technical Drawings: From Da Vinci to CAD (website)](https://profiletree.com/evolution-of-technical-drawings), [The Evolution of Drafting (video)](https://youtu.be/_ULPY3B2BoQ?si=CH6nDUvqKBIrb4Mb), [A Walk Through the History of CAD (video)](https://youtu.be/mcwIMsh_g3o?si=Ru7dNN8JDco0ycRJ)
-  - (1) The drafting tools used in the past - why and how they were used. Explain which tools are still used today and how their use has changed with the advent of new tools. Discuss which tools are being made obsolete by newer tools in the industry.
+  - (1) The drafting tools used in the past—why and how they were used. Explain which tools are still used today and how their use has changed with the advent of new tools. Discuss which tools are being made obsolete by newer tools in the industry.
   - (2) Tell what media types were used in the past and how drawings were used, stored, and reproduced. Tell how the advent of CAD has changed the media used, and discuss how these changes affect the storage or reproduction of drawings.
   - (3) Discuss whether the types of media have changed such that there are new uses the drawings, or other outputs, produced by designers. Briefly discuss how new media types are used in the industry today.
 

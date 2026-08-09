@@ -66,7 +66,7 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
     - (1) Explain to your counselor the importance of installing the latest updates on your computer, why they are needed, and what kinds of problems they can prevent.
 
       **Resources:** [How Not To Get Hacked: Install Updates (Code.org) (video)](https://youtu.be/goMnkhKBOHY?si=Kw59euFrK7E6ZGhk), [How Important Are Software Updates (website)](https://www.safesearchkids.com/how-important-are-software-updates-for-device-safety-and-your-protection/)
-    - (2) Demonstrate to your counselor how to check for, download, and install the latest updates for your computer or mobile device, or another computer you have permission to use (if you are unable to do this on your computer, you may use an online guide with screenshots to demonstrate this). Show your counselor how to verify that your computer or mobile device is up-to-date.
+    - (2) Demonstrate to your counselor how to check for, download, and install the latest updates for your computer or mobile device, or another computer you have permission to use. (If you are unable to do this on your computer, you may use an online guide with screenshots to demonstrate this.) Show your counselor how to verify that your computer or mobile device is up-to-date.
 
       **Resources:** [Keep Your Device's Operating System and Applications Up to Date \| CISA (website)](https://www.cisa.gov/resources-tools/training/keep-your-devices-operating-system-and-applications-date)
   - (c) **System security.** With your parent or guardian's permission, do THREE of the following using a computer or mobile device, and discuss with your counselor:

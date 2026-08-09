@@ -33,9 +33,9 @@ The history of music is rich and exciting. Through the ages, new music has been 
   **Resources:** [What Are Intellectual Property Rights? (video)](https://youtu.be/UqZJPuyK9VY)
 
 - (6) Do ONE of the following:
-  - (a) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission— an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
+  - (a) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
-    **Resources:** [Careers in the Music Industry (video)](https://youtu.be/X9baGNtXjv4?si=thzzvSy24o1fR6gn)
+    **Resources:** [Careers in the Music Industry (video)](https://youtu.be/X9baGNtXjv4)
   - (b) Explore how you could use knowledge and skills from this merit badge to pursue a hobby. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.
 
     **Resources:** [Music Hobbies (video)](https://youtu.be/2XdqwW4zDtE?si=DBqxq3JLiPrE1mG9)

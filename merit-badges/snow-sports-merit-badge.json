@@ -223,7 +223,7 @@
         {
           "id": "15954",
           "label": "a",
-          "text": "Explain the elements of the Your Responsibility Code that is in effect at the location whehre you will ski, snowboard, or snowshoe. Explain why each person must follow this code.",
+          "text": "Explain the elements of the Your Responsibility Code that is in effect at the location where you will ski, snowboard, or snowshoe. Explain why each person must follow this code.",
           "requirement_path": "6.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -246,7 +246,7 @@
             },
             {
               "type": "text",
-              "value": " that is in effect at the location whehre you will ski, snowboard, or snowshoe. Explain why each person must follow this code."
+              "value": " that is in effect at the location where you will ski, snowboard, or snowshoe. Explain why each person must follow this code."
             }
           ],
           "resources": [
@@ -645,7 +645,7 @@
         {
           "id": "15969",
           "label": null,
-          "text": "Option B—Cross-Country (Nordic) Skiing. DO ALL of the following:",
+          "text": "Option B—Cross-Country (Nordic) Skiing. Do ALL of the following:",
           "requirement_path": "7.option-b",
           "node_kind": "option_container",
           "is_container": true,
@@ -664,7 +664,7 @@
             },
             {
               "type": "text",
-              "value": " DO ALL of the following:"
+              "value": " Do ALL of the following:"
             }
           ],
           "resources": [],
@@ -855,7 +855,7 @@
             {
               "id": "15978",
               "label": "9",
-              "text": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide.",
+              "text": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer from ski to ski, pole timing, rhythm, flow, and glide.",
               "requirement_path": "7.option-b.9",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -863,13 +863,13 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer form ski to ski, pole timing, rhythm, flow, and glide."
+                  "value": "On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer from ski to ski, pole timing, rhythm, flow, and glide."
                 }
               ],
               "resources": [
                 {
                   "title": "Basic Moves on Cross-Country Skis (video)",
-                  "url": "https://youtu.be/ctrIUq9kCJI?si=QoPaYBG0365ZvZF1"
+                  "url": "https://youtu.be/ctrIUq9kCJI"
                 }
               ],
               "sub_requirements": []
@@ -1467,7 +1467,7 @@
             {
               "id": "16002",
               "label": "8",
-              "text": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope.",
+              "text": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill, and traverse a slope.",
               "requirement_path": "7.option-d.8",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -1475,20 +1475,20 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill and traverse a slope."
+                  "value": "Demonstrate the most efficient ways to break trail, climb uphill, travel downhill, and traverse a slope."
                 }
               ],
               "resources": [
                 {
-                  "title": "How to Break Trail  (video)",
-                  "url": "https://youtu.be/9gLm2viPkT4?si=GIe05Kq-w67IMEe_"
+                  "title": "How To Break Trail  (video)",
+                  "url": "https://youtu.be/9gLm2viPkT4"
                 },
                 {
-                  "title": "How to Snowshoe on Hills (video)",
-                  "url": "https://youtu.be/Mr1uR6ENxBY?si=3Y1zY3mtDaQJfdlb"
+                  "title": "How To Snowshoe on Hills (video)",
+                  "url": "https://youtu.be/Mr1uR6ENxBY"
                 },
                 {
-                  "title": "How to Sidestep (video)",
+                  "title": "How To Sidestep (video)",
                   "url": "https://youtu.be/zWabuDZBcVQ"
                 }
               ],
@@ -1497,7 +1497,7 @@
             {
               "id": "16003",
               "label": "9",
-              "text": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions.",
+              "text": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions. Note: Adaptive snowshoers may complete a 1-mile hike with prior approval from their counselor.",
               "requirement_path": "7.option-d.9",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -1505,13 +1505,28 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions."
+                  "value": "Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions. "
+                },
+                {
+                  "type": "element",
+                  "tag": "b",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Note:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " Adaptive snowshoers may complete a 1-mile hike with prior approval from their counselor."
                 }
               ],
               "resources": [
                 {
-                  "title": "How to Travel Cross-Country on Snowshoes (video)",
-                  "url": "https://youtu.be/3U37kHrGlvo?si=FozGoulaHs_9Ssqi"
+                  "title": "How To Travel Cross-Country on Snowshoes (video)",
+                  "url": "https://youtu.be/3U37kHrGlvo"
                 }
               ],
               "sub_requirements": []

@@ -18,7 +18,7 @@ Teeth do a lot more than just peek out from under that winning smile. They have 
   - (d) Show on your drawing where bacterial plaque is most likely to be found.
 
 - (2) Do the following:
-  - (a) Tell or write about what causes dental decay and gum disease.Tell how each of the following contributes to dental decay and gum disease: bacterial plaque, sugars, and acid.
+  - (a) Tell or write about what causes dental decay and gum disease. Tell how each of the following contributes to dental decay and gum disease: bacterial plaque, sugars, and acid.
 
     **Resources:** [What Causes Cavities? (video)](https://youtu.be/zGoBFU1q4g0), [What Causes Tooth Decay? (video)](https://youtu.be/BE_h4bTdcdQ)
   - (b) Tell the possible causes for traumatic tooth loss, describe the types of mouth guards used to help prevent tooth trauma, and list the athletic activities during which a person should wear a mouth guard.
@@ -53,7 +53,7 @@ Teeth do a lot more than just peek out from under that winning smile. They have 
     **Resources:** [Digestion in the Mouth (video)](https://youtu.be/mTPuAul1Ts4), [Oral Health Is Not Just About the Mouth (video)](https://youtu.be/DKW5h17TmMg), [Your Mouth and Your Heart Are More Connected Than You Think (video)](https://www.youtube.com/shorts/K2IJY2N5_sY?feature=share)
 
 - (6) Do TWO of the following:
-  - (a) Make a model tooth out of soap, clay, paper-mache, or wax. Using a string and a large hand brush, show your troop or a school class proper tooth-brushing and flossing procedures.
+  - (a) Make a model tooth out of soap, clay, paper-mâché, or wax. Using a string and a large hand brush, show your troop or a school class proper tooth-brushing and flossing procedures.
 
     **Resources:** [Very Easy Teeth Model Making Using Clay(Play-Doh™) (video)](https://youtu.be/dh2El0Ehy0w), [How To Brush Your Teeth (video)](https://youtu.be/xm9c5HAUBpY), [How To Floss Your Teeth (video)](https://youtu.be/HhdoPXNKNm4)
   - (b) Make a poster on the prevention of dental disease. Show the importance of good oral health.

@@ -37,10 +37,9 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
 
   **Resources:** [Ecological Roles of Reptiles and Amphibians (website with videos)](https://www.online-field-guide.com/ecological-roles-of-reptiles-and-amphibians/), [Dying for Protection: Amphibians and Reptiles (video)](https://youtu.be/dQpHqkAvNnc?si=2E6kp1GO8McIHRsI), [Search for Endangered Species in Your Area \| U.S. Fish & Wildlife Service (website)](https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report?kingdom=V&kingdom=I&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&header=Listed+Animals), [Feeding Our Amphibians (video)](https://www.youtube.com/watch?v=baY4dzLSWlY)
 
-- (5) Compare how reptiles reproduce to how amphibians reproduce. Resources: [Reptile vs Amphibian (video)](https://youtu.be/GKM_mDDPJh0)
-  [Lifecycle of an Amphibian (Frog) (video)](https://youtu.be/sZnvgGmvuVs)
-  [How Lizards Reproduce (video)](https://youtu.be/ACEpFX2Dnmk)
-  [What Are Oviparous and Viviparous Snakes? (video)](https://youtu.be/KFCfL99rHpw)
+- (5) Compare how reptiles reproduce to how amphibians reproduce.
+
+  **Resources:** [Reptile vs Amphibian (video)](https://youtu.be/GKM_mDDPJh0), [Lifecycle of an Amphibian (Frog) (video)](https://youtu.be/sZnvgGmvuVs), [How Lizards Reproduce (video)](https://youtu.be/ACEpFX2Dnmk), [What Are Oviparous and Viviparous Snakes? (video)](https://youtu.be/KFCfL99rHpw)
 
 - (6) From observation, describe how snakes move forward. Describe the functions of the muscles, ribs, and belly plates.
 
@@ -51,7 +50,7 @@ Kids always have been interested in snakes, turtles, lizards, and alligators, as
   **Resources:** [The Most VENOMOUS Snakes in the US (video)](https://youtu.be/guMzO7vzMT0?si=3thQ8FQdwoEHXV75)
 
 - (8) Do ONE of the following:
-  - (a) Take custody of one or more reptiles or amphibians in a manner approved by your counselor. Maintain one or more reptiles or amphibians for at least a month. Record food accepted, eating methods, changes in coloration, shedding of skins, and general habits; or keep the eggs of a reptile from the time of laying until hatching; or keep the eggs of an amphibian from the time of laying until their transformation into tadpoles (frogs) or larvae (salamanders). Whichever you chose, keep records of and report to your counselor how you cared for your animal/eggs/larvae to include lighting, habitat, temperature and humidity maintenance and any veterinary care requirements. Unless you are the long-term owner, at the conclusion of this study, turn the animal(s) over to another responsible party approved by your counselor.
+  - (a) Take custody of one or more reptiles or amphibians in a manner approved by your counselor. Maintain one or more reptiles or amphibians for at least a month. Record food accepted, eating methods, changes in coloration, shedding of skins, and general habits; or keep the eggs of a reptile from the time of laying until hatching; or keep the eggs of an amphibian from the time of laying until their transformation into tadpoles (frogs) or larvae (salamanders). Whichever you choose, keep records of and report to your counselor how you cared for your animal, eggs, or larvae, including lighting, habitat, temperature and humidity maintenance, and any veterinary care requirements. Unless you are the long-term owner, at the conclusion of this study, turn the animal(s) over to another responsible party approved by your counselor.
 
     **Resources:** [Pet Journaling: Track Your Pet's Needs and Your Time Efficiently (website)](https://fluent-time-management.com/pet-journaling-track-your-pets-needs-and-your-time-efficiently/)
   - (b) Choose a reptile or amphibian that you can observe or foster at a local zoo, aquarium, nature center, local rescue, or other such exhibit (such as your classroom or school). Study the specimen weekly for a period of three months. At each visit, sketch the specimen in its captive habitat and note any changes in its coloration, shedding of skins, and general habits and behavior. Discuss with your counselor how the animal you observed was cared for to include its housing and habitat, how the lighting, temperature, and humidity were maintained, and any veterinary care requirements.

@@ -110,7 +110,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
     - (3) Name the scale of four popular model railroad gauges. Identify the scale of four model cars or locomotives.
 
       **Resources:** [Comparing Model Train Scales: T, Z, N, Tt, Ho, S, O, G Scales (video)](https://youtu.be/b5lk_2ROlD0)
-    - (4) Locate the website of four model railroad - related manufacturers or magazine publishers. Print information on their products and services and discuss the information with your counselor.
+    - (4) Locate the websites of four model railroad-related manufacturers or magazine publishers. Print information about their products and services, and discuss the information with your counselor.
     - (5) Build one railroad structure (from scratch or using a kit), paint and weather the structure, mount it on your layout or diorama, and make the surrounding area on the diorama scenic.
 
       **Resources:** [Weather Plastic Kit Buildings Easy—Detailed Guide DIY (video)](https://youtu.be/h0xQB2J2HKg), [Structures (website)](https://www.nmra.org/beginners-guide-part-7-structures), [Weathering (website)](https://www.nmra.org/beginners-guide-part-10-weathering)
@@ -124,7 +124,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
 
       **Resources:** [Differences Between DC and DCC HO Locomotives (video)](https://youtube.com/shorts/q5WeBPPPq_I), [DC vs. DCC: What's Best for Your Model Railroad?! (video)](https://youtu.be/z5TiK_Ay-0g), [Adding Power (website)](https://www.nmra.org/beginners-guide-part-5-adding-power)
   - (b) **Option B—Railfanning.** With your parent or guardian's and counselor's approval, do TWO of the following:
-    - (1) Visit a railroad museum, historical display, or a prototype railroad sponsored public event. With permission, photograph, digitally record, or sketch items of interest. Explain what you saw and describe your photos, sketches, or video.
+    - (1) Visit a railroad museum, historical display, or a prototype railroad-sponsored public event. With permission, photograph, digitally record, or sketch items of interest. Explain what you saw and describe your photos, sketches, or video.
 
       **Resources:** [Railroading Museums in the US (website)](https://whichmuseum.com/place/united-states-2682?q=railroad), [Railroad Museum Etiquette (video)](https://youtu.be/jaU7xtVQBPM)
     - (2) Purchase tickets and ride a scenic or historic railroad. Under supervision, photograph the equipment and discuss with your counselor the historic significance of the operation.

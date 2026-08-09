@@ -113,7 +113,7 @@ A search is an emergency situation requiring a team of trained searchers to loca
   - (a) Explain the difference between search and rescue.
 
     **Resources:** [Search or Rescue (video)](https://youtu.be/zanbVmtx4dw), [Search Methods (PDF)](https://www.kyem.ky.gov/home/showpublisheddocument/1370/638864015872401722)
-  - (b) Explain the difference between PLS (place last seen) and LKP (last known point)
+  - (b) Explain the difference between PLS (place last seen) and LKP (last known point).
 
     **Resources:** [PLS and LKP (website)](http://www.sarmath.com/terms/initial-planning-point)
   - (c) Explain the importance of effective communication in SAR operations.

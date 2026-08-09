@@ -21,19 +21,20 @@ The field of graphic arts includes many kinds of work in the printing and publis
 
   **Resources:** [The Basics of Graphic Design (video)](https://www.youtube.com/watch?v=ZhTNQFWc_qg), [Best Graphic Designing Software (video)](https://www.youtube.com/watch?v=qtHong4fWT4)
 
-- (4) Produce the design you created for requirement 3 using one of the following printing processes: Resource: [Prepress Tips—How To Set Up Your Digital Print Files Correctly (video)](https://youtu.be/QxlB6rl8aNU)
-  - (a) **Offset lithography** Make a layout, and produce a plate using a process approved by your counselor. Run the plate and print at least 50 copies.
+- (4) Produce the design you created for requirement 3 using one of the following printing processes:
 
-    **Resources:** [Offset Lithography Demonstration (video)](https://youtu.be/e4GmiXXAvuA?si=OA6SjlwBdX0iURxc)
-  - (b) **Screen printing** Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies.
+  **Resources:** [Prepress Tips—How To Set Up Your Digital Print Files Correctly (video)](https://youtu.be/QxlB6rl8aNU)
 
-    **Resources:** [The Basics of Screen Printing \| Screen Printing Tutorial (video)](https://youtu.be/LB__fEeO6no?si=xnEBGmb6WHEazfXl)
-  - (c) **Electronic/digital printing** Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.
+  - (a) **Offset lithography.** Make a layout, and produce a plate using a process approved by your counselor. Run the plate and print at least 50 copies.
 
-    **Resources:** [What Is Digital Printing? (video)](https://youtube.com/shorts/pxunJD8QqJI?si=gu4SKEaApL3YeDtw)
-  - (d) **Relief printing** Prepare a layout or set the necessary type. Make a plate or lock up the form. Use this to print 50 copies.
+    **Resources:** [Offset Lithography Demonstration (video)](https://youtu.be/e4GmiXXAvuA)
+  - (b) **Screen printing.** Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies. Resource: [Screen Printing Tutorial (video)](https://youtu.be/LB__fEeO6no)
+  - (c) **Electronic/digital printing.** Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.
 
-    **Resources:** [Relief Printmaking (video)](https://youtu.be/vsMBA-1g-5U?si=MyzHQonzhXqkwloS)
+    **Resources:** [What Is Digital Printing? (video)](https://youtube.com/shorts/pxunJD8QqJI)
+  - (d) **Relief printing.** Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.
+
+    **Resources:** [Relief Printmaking (video)](https://youtu.be/vsMBA-1g-5U)
 
 - (5) **Postpress Operations.** Do the following:
 
@@ -45,7 +46,7 @@ The field of graphic arts includes many kinds of work in the printing and publis
   - (b) Collect, describe, or identify examples of the following types of binding: perfect, spiral, plastic comb, saddle stitch, and case.
 
 - (6) Do ONE of the following, and then describe the highlights of your visit:
-  - (a) Visit a newspaper printing plant: Follow a story from the editor to the press.
+  - (a) Visit a newspaper printing plant. Follow a story from the editor to the press.
 
     **Resources:** [How The New York Times Is Made (video)](https://youtu.be/MrWP2z8I0Qk)
   - (b) Visit a retail, commercial, or in-plant printing facility. Follow a project from beginning to end.

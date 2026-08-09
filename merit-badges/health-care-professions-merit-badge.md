@@ -82,7 +82,7 @@ Explore the different types of the healthcare fields and professions with the He
 
     **Resources:** [Biomedical Engineering (video)](https://www.tiktok.com/@futurecheme/video/7353059059412585770), [How To Become a Medical Technologist (website)](https://www.coursera.org/articles/medical-technologist), [How To Become a Phlebotomist—From Phlebotomy Training To Certification (video)](https://youtu.be/8CsBFLL6MQo), [How To Become a Radiologic Technologist \| X-Ray Tech \| Prerequisites \| Radiology Program \| Clinicals (video)](https://youtu.be/Kz8rF2usnuI), [How To Become an Ultrasound Tech: Step-by-Step Guide (video)](https://youtu.be/PeIsLi0Jp0k), [How To Become a Medical Records Specialist (website)](https://preppy.org/how-to-become-a-medical-records-specialist/), [Choose a Career in Cytology (website/video)](https://cytopathology.org/page/cytologycareer), [What It Takes to Be a Histotechnician (website)](https://www.nsh.org/about/about-histotechnology/how-histotechnology)
 
-- (5) Select one career from any of the lists in Requirements 1, 2, 3, or 4 and arrange to visit that professional at their workplace. Discuss with your counselor the following:
+- (5) Select one career from any of the lists in requirements 1, 2, 3, or 4 and arrange to visit that professional at their workplace. Discuss with your counselor the following:
 
   **Resources:** [The Informational Interview: Researching a Career (video)](https://youtu.be/Mqo0IsStelk)
 

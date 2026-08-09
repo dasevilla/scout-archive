@@ -99,9 +99,10 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
 
     - (1) Baseball throw for accuracy, 10 throws at a target (distance to be determined by age): ages 11 to 12, 20 feet; ages 13 to 15, 30 feet; ages 16 to 17, 40 feet
     - (2) Baseball throw for distance, five throws (total distance)
-    - **Option G—Basketball Shooting.** Do ALL the following:
+  - **Option G—Basketball Shooting.** Do ALL of the following:
 
-      **Resources:** [How To Shoot a Free Throw (video)](https://youtu.be/iW2VFzBiaQo), [How To Shoot a Layup (video)](https://youtu.be/q4IqeXob_qg), [How To Shoot a Basketball (video)](https://youtu.be/UcnB9e5O5NY)
+    **Resources:** [How To Shoot a Free Throw (video)](https://youtu.be/iW2VFzBiaQo), [How To Shoot a Layup (video)](https://youtu.be/q4IqeXob_qg), [How To Shoot a Basketball (video)](https://youtu.be/UcnB9e5O5NY)
+
     - (1) Basketball shot for accuracy, 10 free-throw shots
     - (2) Basketball throw for skill and agility, the following shots:
       - (a) Left-side layup

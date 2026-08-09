@@ -16,7 +16,7 @@ A nation is a patchwork of communities that differ from each other and may be go
 - (2) Do the following:
   - (a) Using an electronic mapping tool or paper map, locate and pinpoint the following services and landmarks in your community. Determine and record the distances from your home including driving time AND either walking or biking time.
 
-    **Resources:** [National Map (website)](https://apps.nationalmap.gov/viewer/), [Google Maps (website)](https://www.google.com/maps), [Apple Map (website)](https://maps.apple.com/search), [How To Create a Table in a Word Document Online (video)](https://youtu.be/LBcZg9gRmbI)
+    **Resources:** [National Map (app)](https://apps.nationalmap.gov/viewer/), [Google Maps (app)](https://www.google.com/maps), [Apple Map (app)](https://maps.apple.com/search), [How To Create a Table in a Word Document Online (video)](https://youtu.be/LBcZg9gRmbI)
   - (1) Chief government buildings such as your city hall, county courthouse, and public works/services facilities
   - (2) Fire station, police station, and hospital nearest your home
   - (3) Parks, playgrounds, recreation areas, and trails
@@ -52,7 +52,7 @@ A nation is a patchwork of communities that differ from each other and may be go
   - (a) Identify three charitable organizations outside of Scouting that interest you and bring people in your community together to work for the good of your community.
 
     **Resources:** [How to Find the Best Charities (video)](https://youtu.be/cdh2z3LHdTQ), [Charity Navigator (website)](https://www.charitynavigator.org/), [The Tax Exempt Organization Search Tool (website)](https://www.guidestar.org), [Better Business Bureau (website)](https://www.bbb.org), [American Red Cross (website)](https://www.redcross.org/red-cross-youth.html), [Habitat for Humanity (website)](https://www.habitat.org/volunteer/near-you/youth-programs), [The YMCA (website)](https://www.ymca.org/get-involved/volunteer)
-  - (b) Pick ONE of the organizations you chose for requirement 7(a). Using a variety of resources (including newspapers, fliers and other literature, the internet, volunteers, and employees of the organization), find out more about this organization.
+  - (b) Pick ONE of the organizations you chose for requirement 7(a). Using a variety of resources (including newspapers, flyers and other literature, the internet, volunteers, and employees of the organization), find out more about this organization.
 
     **Resources:** [Finding a Good Charity (video)](https://youtu.be/ELT85QKsGDo), [Volunteer Opportunities (website)](https://www.idealist.org/en/volunteer), [Charity Navigator (website)](https://www.charitynavigator.org/), [Charity Ratings (website)](https://www.charitywatch.org), [Mobile Food Pantry Eagle Project (video)](https://vimeo.com/1147095870?fl=ip&fe=ec)
   - (c) With your counselor's and your parent or guardian's approval, contact the organization you chose for requirement 7(b), and find out what young people can do to help. While working on this merit badge, volunteer at least eight hours of your time for the organization. After your volunteer experience is over, discuss what you have learned with your counselor.

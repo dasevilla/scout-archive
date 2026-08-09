@@ -39,7 +39,7 @@ By studying salesmanship, Scouts can learn self-confidence, motivation, friendli
 
 - (5) Do ONE of the following and keep a record (cost sheet). Use the sales techniques you have learned, and share your experience with your counselor:
   - (a) Help your unit raise funds through sales of merchandise or of tickets to a Scout event.
-  - (b) Sell your services such as lawn raking or mowing, pet watching, dog walking, show shoveling, and car washing to your neighbors. Follow up after the service has been completed and determine the customer's satisfaction.
+  - (b) Sell your services, such as lawn raking or mowing, pet sitting, dog walking, snow shoveling, or car washing, to your neighbors. Follow up after completing the service to determine the customer satisfaction.
   - (c) Earn money through retail selling.
 
 - (6) Do ONE of the following:

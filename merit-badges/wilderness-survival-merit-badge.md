@@ -61,9 +61,9 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 
   **Resources:** [Seven Priorities of Survival (video)](https://youtu.be/eckfD4gfgj0)
 
-- (3) **Avoiding Panic:** Describe ways to avoid panic and to maintain a high level of morale when lost, and explain why this is important.
+- (3) **Avoiding Panic.** Describe ways to avoid panic and to maintain a high level of morale when lost, and explain why this is important.
 
-  **Resources:** [Lost? Stop Panic & Think Clearly. (video)](https://youtu.be/_mt0BtDDImU?si=8AyENe2MLMfV8jiD), [Box Breathing \| The Breathing Exercise Used By Navy SEALs (video)](https://youtu.be/UC6HUrneIWI?si=fr6RwZnn6RIBp8rA)
+  **Resources:** [Lost? Stop Panic & Think Clearly. (video)](https://youtu.be/_mt0BtDDImU), [Box Breathing \| The Breathing Exercise Used By Navy SEALs (video)](https://youtu.be/UC6HUrneIWI)
 
 - (4) **First Aid Kits.** Put together a personal first aid kit and a personal survival kit. Show how items in the kits are used.
 
@@ -110,7 +110,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
   - (b) Demonstrate how to use a signal mirror.
 
     **Resources:** [How to Use a Signal Mirror (video)](https://www.youtube.com/shorts/kYN46GuZmpE)
-  - (c) Describe from memory five ground-to- air signals and tell what they mean.
+  - (c) Describe from memory five ground-to-air signals and tell what they mean.
 
 - (8) **Water.** Demonstrate three ways to treat water found in the outdoors to prepare it for drinking.
 

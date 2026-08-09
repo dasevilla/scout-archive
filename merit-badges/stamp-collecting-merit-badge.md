@@ -117,7 +117,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
   - (e) Describe the steps taken to produce a stamp. Include the methods of printing, types of paper, perforation styles, and how they are gummed.
 
     **Resources:** [Stamp Production (video)](https://youtu.be/G7iAscgzEp4?si=98JeDgk8avgA00Ih)
-  - (f) Prepare a two- to three-page display involving stamps. Using ingenuity, as well as clippings, drawings, etc., tell a story about the stamps , and how they relate to history, geography, or a favorite topic of yours.
+  - (f) Prepare a two- to three-page display involving stamps. Using ingenuity, as well as clippings, drawings, etc., tell a story about the stamps and how they relate to history, geography, or a favorite topic of yours.
 
     **Resources:** [Have Lasting Fun: How to Create an Exhibit and Enter It Into a Show (website)](https://www.linns.com/insights/have-lasting-fun--how-to-create-an-exhibit-and-enter-it-into-a-s.html)
 
@@ -128,7 +128,7 @@ The world’s most popular hobby, stamp collecting is enjoyed by millions throug
   - (a) A collection of 250 or more different stamps from at least 15 countries
   - (b) A collection of a stamp from each of 50 different countries, mounted on maps to show the location of each
   - (c) A collection of 100 or more different stamps from either one country or a group of closely related countries
-  - (d) A collection of 75 or more different stamps on a single topic. (Some interesting topics are Scouting, birds, insects, the Olympics, sports, flowers, animals, ships, holidays, trains, famous people, space, and medicine). Stamps may be from different countries.
+  - (d) A collection of 75 or more different stamps on a single topic. (Some interesting topics include Scouting, birds, insects, the Olympics, sports, flowers, animals, ships, holidays, trains, famous people, space, and medicine.) Stamps may be from different countries.
   - (e) A collection of postal items discovered in your mail by monitoring it over a period of 30 days. Include at least five different types listed in requirement 3.
 
 ## Resources

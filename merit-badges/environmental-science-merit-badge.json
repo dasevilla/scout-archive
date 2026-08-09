@@ -60,16 +60,16 @@
       ],
       "resources": [
         {
-          "title": "Merlin Bird App Description (video)",
-          "url": "https://www.youtube.com/watch?v=xmSUOLxyatY"
+          "title": "Merlin Bird App Description (app)",
+          "url": "https://youtu.be/xmSUOLxyatY"
         },
         {
-          "title": "INaturalist App Description (video)",
-          "url": "https://www.youtube.com/watch?v=Mb_i-WoUKt0"
+          "title": "INaturalist App Description (app)",
+          "url": "https://youtu.be/Mb_i-WoUKt0"
         },
         {
           "title": "Observing Nature Through SMELL (video)",
-          "url": "https://www.youtube.com/watch?v=4drgulU4kb8"
+          "url": "https://youtu.be/4drgulU4kb8"
         }
       ],
       "sub_requirements": [
@@ -106,7 +106,7 @@
         {
           "id": "12605",
           "label": "b",
-          "text": "Make notes about the living, nonliving (e.g. rocks) and formerly living components. Include information about interactions among the components, including the food chain, predators, native species, and invasive species) and identify how human activities have affected the ecosystem.",
+          "text": "Make notes about the living, nonliving (e.g. rocks) and formerly living components. Include information about interactions among the components, including the food chain, predators, native species, and invasive species, and identify how human activities have affected the ecosystem.",
           "requirement_path": "2.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -114,7 +114,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Make notes about the living, nonliving (e.g. rocks) and formerly living components. Include information about interactions among the components, including the food chain, predators, native species, and invasive species) and identify how human activities have affected the ecosystem."
+              "value": "Make notes about the living, nonliving (e.g. rocks) and formerly living components. Include information about interactions among the components, including the food chain, predators, native species, and invasive species, and identify how human activities have affected the ecosystem."
             }
           ],
           "resources": [],
@@ -179,7 +179,7 @@
         {
           "id": "12569",
           "label": "b",
-          "text": "Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered v. electric vehicles, gasoline-powered car v. bicycle, etc.).",
+          "text": "Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.). Resources: Your Car's Exhaust (video)\nAir Quality and Transportation (video)",
           "requirement_path": "3.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -187,19 +187,46 @@
           "content": [
             {
               "type": "text",
-              "value": "Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered v. electric vehicles, gasoline-powered car v. bicycle, etc.)."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Your Car's Exhaust (video)",
-              "url": "https://www.youtube.com/watch?v=WTg4i-5N62U"
+              "value": "Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.). Resources: "
             },
             {
-              "title": "Air Quality and Transportation (video)",
-              "url": "https://www.youtube.com/watch?v=TF1hxpcy4so"
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/WTg4i-5N62U"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Your Car's Exhaust (video)"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/TF1hxpcy4so"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Air Quality and Transportation (video)"
+                }
+              ]
             }
           ],
+          "resources": [],
           "sub_requirements": []
         },
         {
@@ -636,7 +663,7 @@
         {
           "id": "12616",
           "label": "b",
-          "text": "Explain Resource Recovery and why it is important to reduce pollution. Collect samples or take photos of ten items that can demonstrate the principle of Reduce, Reuse, Recycle. Explain your collection, how these materials are currently handled, and potential improvements.",
+          "text": "Explain Resource Recovery and why it is important to reduce pollution. Collect samples or take photos of 10 items that can demonstrate the principle of Reduce, Reuse, Recycle. Explain your collection, how these materials are currently handled, and potential improvements.",
           "requirement_path": "7.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -644,21 +671,21 @@
           "content": [
             {
               "type": "text",
-              "value": "Explain Resource Recovery and why it is important to reduce pollution. Collect samples or take photos of ten items that can demonstrate the principle of Reduce, Reuse, Recycle. Explain your collection, how these materials are currently handled, and potential improvements."
+              "value": "Explain Resource Recovery and why it is important to reduce pollution. Collect samples or take photos of 10 items that can demonstrate the principle of Reduce, Reuse, Recycle. Explain your collection, how these materials are currently handled, and potential improvements."
             }
           ],
           "resources": [
             {
               "title": "Reduce, Reuse, Recycle (video)",
-              "url": "https://www.youtube.com/watch?v=u8MQwOR2og8&t=178s"
+              "url": "https://youtu.be/u8MQwOR2og8"
             },
             {
               "title": "Upcycling Hacks (video)",
-              "url": "https://www.youtube.com/watch?v=YGzv0IsJFYU"
+              "url": "https://youtu.be/YGzv0IsJFYU"
             },
             {
               "title": "The 3Rs (video)",
-              "url": "https://www.youtube.com/watch?v=TPG6E4nxtSw"
+              "url": "https://youtu.be/TPG6E4nxtSw"
             }
           ],
           "sub_requirements": []

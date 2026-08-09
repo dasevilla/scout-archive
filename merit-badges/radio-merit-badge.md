@@ -93,7 +93,7 @@ Radio is a way to send information, or communications, from one place to another
 
     **Resources:** [Learn the Phonetic Alphabet (video)](https://youtu.be/cFhZLaLDILQ)
 
-- (7) **Cell Phones** Do the following:
+- (7) **Cell Phones.** Do the following:
   - (a) Explain how cellular systems differ from broadcast and hobby radio.
 
     **Resources:** [How Your Mobile Phone Works (video)](https://youtu.be/1JZG9x_VOwA)
@@ -199,7 +199,7 @@ Radio is a way to send information, or communications, from one place to another
         **Resources:** [HAM and GMRS Radios for Emergencies (video)](https://www.youtube.com/watch?v=zy5lNBGoORw), [FRS and GMRS Radio for Emergency Communications (video)](https://www.youtube.com/watch?v=xT-2IVItSZY), [The Vital Role of Ham Radio in Disaster Preparedness (video)](https://www.radiodesigngroup.com/blog/the-vital-role-of-ham-radio-in-disaster-preparedness)
     - (3) Use the FRS radios or GMRS walkie talkies with family, friends, or Scouts on a hike, at an event, or in a team game. Discuss what you learned with your counselor.
 
-- (9) **Careers.** Do ONE of the following.
+- (9) **Careers.** Do ONE of the following:
   - (a) Explore careers related to radio. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and advancement. With permission of your parent or guardian, your research methods may include an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work or train. Discuss your findings and career interest with your counselor.
 
     **Resources:** [How I Got That Job: Public Radio (video)](https://youtu.be/0M-WdfQlk3Q), [Broadcast Announcers and Radio Disc Jockeys Careers (video)](https://youtu.be/ftGPn35lNhw)

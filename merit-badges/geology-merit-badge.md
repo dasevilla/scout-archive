@@ -29,7 +29,7 @@ Geology is the study of Earth. It includes the study of materials that make up E
     - (2) Using topographical maps provided by your counselor, plot the stream gradients (different elevations divided by distance) for four different stream types (straight, meandering, dendritic, trellis). Explain which ones flow fastest and why, and which ones will carry larger grains of sediment and why.
 
       **Resources:** [How to Calculate the Gradient of a Slope (video)](https://youtu.be/3QFJ_uv2mGw)
-    - (3) On a stream diagram, show areas where you will find the following features: cut bank, fill bank, point bar, medial channel bars, lake delta. Describe the relative sediment grain size found in each feature.
+    - (3) On a stream diagram, show areas where you will find the following features: cut bank, fill bank, point bar, medial channel bars, and lake delta. Describe the relative sediment grain size found in each feature.
 
       **Resources:** [Point Bars and Cut Banks (video)](https://youtu.be/gjIrApP2tt8)
     - (4) Conduct an experiment approved by your counselor that shows how some sedimentary material carried by water may be too small for you to see without a magnifier.
@@ -62,7 +62,7 @@ Geology is the study of Earth. It includes the study of materials that make up E
     - (3) Do ONE of the following:
       - (a) Collect 10 different rocks or minerals. Record in a notebook where you obtained (found, bought, traded) each one. Label each specimen, identify its class and origin, determine its chemical composition, and list its physical properties. Share your collection with your counselor.
       - (b) With your counselor's assistance, identify 15 different rocks and minerals. List the name of each specimen, tell whether it is a rock or mineral, and give the name of its class (if it is a rock) or list its identifying physical properties (if it is a mineral).
-    - (4) List three of the most common road building materials used in your area. Explain how each material is produced and how each is used in road building.
+    - (4) List three of the most common road-building materials used in your area. Explain how each material is produced and how each is used in road building.
 
       **Resources:** [Top Rock Types Used in Road Construction (website)](https://roblarquarryllc.com/top-rock-types-used-in-road-construction/)
     - (5) Do ONE of the following:

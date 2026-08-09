@@ -51,7 +51,7 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
   - (a) Photograph one subject from two different angles or perspectives.
 
     **Resources:** [Pro Photo Secrets: Avoid Shadows & Master Poses (video)](https://youtube.com/shorts/o5yjHn56VtE?si=XC3OvPIABX276ZtY)
-  - (b) Photograph one subject from two different light sources - artificial and natural.
+  - (b) Photograph one subject from two different light sources—artificial and natural.
   - (c) Photograph one subject with two different depth of fields.
   - (d) Photograph one subject with two different compositional techniques.
 
@@ -61,7 +61,7 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
   - (c) Action shot
   - (d) Animal shot
   - (e) Nature shot
-  - (f) Picture of a person - candid, posed, or camera aware
+  - (f) Picture of a person—candid, posed, or camera-aware
 
 - (6) Describe how software allows you to enhance your photograph after it is taken. Select a photo you have taken, then do ONE of the following, and share what you have done with your counselor:
 

@@ -21,9 +21,9 @@ Exploring your roots—where your family name came from, why your family lives w
     **Resources:** [What Are Family Group Sheets and Pedigree Charts? (video)](https://www.youtube.com/watch?v=mLJhNZk-BGg)
 
 - (2) Do ONE of the following:
-  - (a) Create a timeline for yourself or for a relative. Then write a short biography based on that time line.
+  - (a) Create a timeline for yourself or for a relative. Then write a short biography based on that timeline.
 
-    **Resources:** [All About Timelines (video)](https://www.youtube.com/watch?v=_hKMBqEUE1w&t=95s)
+    **Resources:** [All About Timelines (video)](https://youtu.be/_hKMBqEUE1w&t=95)
   - (b) Keep a journal for six weeks. You must write in it at least once a week.
 
     **Resources:** [How to Journal (video)](https://www.youtube.com/watch?v=TKOrVpuvvMA&t=52s)
@@ -66,9 +66,9 @@ Exploring your roots—where your family name came from, why your family lives w
 
   **Resources:** [How to Make a Family Tree (on Paper, Not Online To Avoid Putting Private Information Online) (video)](https://www.youtube.com/watch?v=Ci55EXJtlDM)
 
-- (7) Complete a family group record form, listing yourself and your brothers and sisters as the children. On another family group record form, show one of your parents and his or her brothers and sisters as the children. This requirement may be completed using the chart provided or the genealogy software program of your choice.
+- (7) Complete a family group record form, listing yourself and your brothers and sisters as the children. On another family group record form, show your parent or guardian and his or her brothers and sisters as the children. This requirement may be completed using the chart provided or the genealogy software program of your choice.
 
-  **Resources:** [How to Use Family Group Sheets (video)](https://www.youtube.com/watch?v=nb2C3z7C_R8)
+  **Resources:** [How To Use Family Group Sheets (video)](https://youtu.be/nb2C3z7C_R8)
 
 - (8) Do the following:
   - (a) Explain the effect computers and the internet are having on the world of genealogy.

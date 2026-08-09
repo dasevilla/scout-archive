@@ -39,7 +39,7 @@ Understand various disabilities and how they affect your friends, family, and co
     **Resources:** [Vision Loss Simulation Instructions (PDF)](https://craft.nationaldb.org/OHOA/Module-5/SimulationInstructions_a.pdf), [Eye Disease Vision Simulator (video)](https://youtube.com/shorts/gjp90li7k50?si=tQBY4knOEV9yP5p-), [Amazing Things Happen! (video)](https://youtu.be/Ezv85LMFx2E?si=t22bJRSC4c_v4by9)
 
 - (4) Do ONE of the following options:
-  - **Option A—Access.**. Visit TWO of the following locations and take notes about the accessibility to people with disabilities. In your notes, give examples of five things that could be done to improve upon the site and five things about the site that make it friendly to people with disabilities. Discuss your observations with your counselor.
+  - **Option A—Access.** Visit TWO of the following locations and take notes about the accessibility to people with disabilities. In your notes, give examples of five things that could be done to improve upon the site and five things about the site that make it friendly to people with disabilities. Discuss your observations with your counselor.
 
     **Resources:** [NYC Students With Disabilities Speaking About Accessible Schools (video)](https://youtu.be/Cok1f-_3ydE), [Special Needs Prepared Camps (website)](https://www.scouting.org/resources/disabilities-awareness/)
   - (1) Your school

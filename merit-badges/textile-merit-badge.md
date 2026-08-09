@@ -24,10 +24,10 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
   - (d) Assume you will soon buy a new garment or other textile item. Tell your counselor what fiber or blend of fibers you want the item to be, and give reasons for your choice.
 
 - (3) Do TWO of the following:
-  - (a) Visit a textile plant, textile products manufacturer or textile school or college. Report on what you saw and learned.
-  - (b) Weave a belt, headband, place mat or wall hanging. Use a simple loom that you have made yourself.
+  - (a) Visit a textile plant, textile products manufacturer, or textile school or college. Report on what you saw and learned.
+  - (b) Weave a belt, headband, placemat, or wall hanging using a simple loom that you have made yourself.
 
-    **Resources:** [How to Make a Cardboard Loom (website)](https://www.theweavingloom.com/how-to-make-a-cardboard-loom/)
+    **Resources:** [How To Make a Cardboard Loom (website)](https://www.theweavingloom.com/how-to-make-a-cardboard-loom/)
   - (c) With a magnifying glass, examine a woven fabric, a nonwoven fabric, and a knitted fabric. Sketch what you see. Explain how the three constructions are different.
 
     **Resources:** [Woven vs. Knit vs. Non-Woven Fabrics \| Textile Talk w/ A Thrifty Notion (video)](https://youtu.be/2Q_04oCLZVs)
@@ -52,7 +52,7 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
 
   **Resources:** [The Ultimate Fabric Guide - The Differences Between Natural vs Synthetic vs Semi-Synthetic Fibers (video)](https://youtu.be/lcq9tPI-W-c?si=7pT187LPR6ZCW2c0)
 
-- (6) Explain to your counselor, either verbally or in a written report, five career possibilities in the textile industry. Tell about two positions that interest you the most and the education, cost of training and specific duties those positions require.
+- (6) Explain to your counselor, either verbally or in a written report, five career possibilities in the textile industry. Tell your counselor about two positions that interest you the most and the education, cost of training, and specific duties those positions require.
 
   **Resources:** [Day in the Life of a Textile Engineer (video)](https://youtu.be/Ify9Fo2IhB4), [Careers in the Fashion & Textiles Industry (video)](https://youtu.be/uumtJp43Kfg), [Textile Engineering Careers (video)](https://www.youtube.com/shorts/rClr3NSF-CM), [Want To Work in the Textiles Industry? (video)](https://youtu.be/Z-WValUr6z8)
 

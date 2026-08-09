@@ -262,7 +262,7 @@
     {
       "id": "13021",
       "label": "5",
-      "text": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" \"drop it.\"",
+      "text": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" and \"drop it.\" Resources: 10 Most Basic Commands Every Dog Owner Should Know (video)\nHow To Teach Your Dog the Basics (video)",
       "requirement_path": "5",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -270,25 +270,52 @@
       "content": [
         {
           "type": "text",
-          "value": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" \"drop it.\""
-        }
-      ],
-      "resources": [
-        {
-          "title": "10 Most Basic Commands Every Dog Owner Should Know (video)",
-          "url": "https://www.youtube.com/watch?v=eHbcb2EQC88"
+          "value": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" and \"drop it.\" Resources: "
         },
         {
-          "title": "How to Teach Your Dog the Basics (video)",
-          "url": "https://www.youtube.com/watch?v=lUzcA9qa_P8"
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://youtu.be/eHbcb2EQC88"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "10 Most Basic Commands Every Dog Owner Should Know (video)"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "text",
+          "value": " "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://youtu.be/lUzcA9qa_P8"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "How To Teach Your Dog the Basics (video)"
+            }
+          ]
         }
       ],
+      "resources": [],
       "sub_requirements": []
     },
     {
       "id": "13002",
       "label": "6",
-      "text": "Do the following.",
+      "text": "Do the following:",
       "requirement_path": "6",
       "node_kind": "instruction_container",
       "is_container": true,
@@ -296,7 +323,7 @@
       "content": [
         {
           "type": "text",
-          "value": "Do the following."
+          "value": "Do the following:"
         }
       ],
       "resources": [],

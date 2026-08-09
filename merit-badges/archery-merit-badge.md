@@ -93,10 +93,10 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
       - (a) Using a recurve bow or longbow and arrows with a finger release, shoot a single round of ONE of the following:
         - (1) An NFAA field round of 14 targets and make a score of 60 points
         - (2) A Scouting America field round of 14 targets and make a score of 80 points
-        - (3) A World Archery/USA Archery indoor round and make a score of 80 points (indoor rounds may be shot outdoors if this is more convenient)
-        - (4) An NFAA indoor round and make a score of 50 points (indoor rounds may be shot outdoors if this is more convenient).
+        - (3) A World Archery/USA Archery indoor round and make a score of 80 points (Indoor rounds may be shot outdoors if this is more convenient.)
+        - (4) An NFAA indoor round and make a score of 50 points (Indoor rounds may be shot outdoors if this is more convenient.)
       - (b) Shooting 30 arrows in five-arrow ends at an 80-centimeter (32-inch) five-color target at 10 yards and using the 10 scoring regions, make a score of 150 points.
-  - **Option B—Compound Bow** Do ALL of the following:
+  - **Option B—Compound Bow.** Do ALL of the following:
     - (1) Name and point to the parts of the compound bow you are shooting.
 
       **Resources:** [compound_bow.png (photo)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/compound_bow.png)
@@ -112,8 +112,8 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
       - (a) Using a compound bow and arrows with a finger release, shoot a single round of ONE of the following:
         - (1) An NFAA field round of 14 targets and make a score of 70 points
         - (2) A Scouting America field round of 14 targets and make a score of 90 points
-        - (3) A World Archery/USA Archery indoor round and make a score of 90 points (indoor rounds may be shot outdoors if this is more convenient)
-        - (4) An NFAA indoor round and make a score of 60 points (indoor rounds may be shot outdoors if this is more convenient)
+        - (3) A World Archery/USA Archery indoor round and make a score of 90 points (Indoor rounds may be shot outdoors if this is more convenient.)
+        - (4) An NFAA indoor round and make a score of 60 points (Indoor rounds may be shot outdoors if this is more convenient.)
       - (b) Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160 points. Accomplish this in the following manner:
         Shoot 15 arrows in five-arrow ends, at a distance of 10 yards
         AND

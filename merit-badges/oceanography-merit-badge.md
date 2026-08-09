@@ -79,9 +79,9 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
   - (2) Oceanographic institute, marine laboratory, or marine aquarium
 
     **Resources:** [A Virtual Tour of Bodega Marine Laboratory (video)](https://youtu.be/DYI_gw72bk8?si=2GDdWk4RX68hyIK5), [A Visit to Mote Marine Laboratory & Aquarium (video)](https://youtu.be/aaY1fwyjU1U)
-  - (c) Explain to your troop, in a five-minute prepared speech "Why Oceanography Is Important," or describe "Career Opportunities in Oceanography." (Before making your speech, show your speech outline to your counselor for approval.)
+  - (c) Explain to your troop, in a five-minute prepared speech, "Why Oceanography Is Important" or describe "Career Opportunities in Oceanography." (Before making your speech, show your speech outline to your counselor for approval.)
 
-    **Resources:** [Oceanography Careers (video)](https://youtu.be/uFHREUrMLSY), [How to Work with the Ocean (video)](https://youtu.be/N4d6YRKEaxg)
+    **Resources:** [Oceanography Careers (video)](https://youtu.be/uFHREUrMLSY), [How To Work with the Ocean (video)](https://youtu.be/N4d6YRKEaxg)
 
 - (9) Describe four methods that marine scientists use to investigate the ocean, underlying geology, and organisms living in the water.
 

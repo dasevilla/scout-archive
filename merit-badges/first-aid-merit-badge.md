@@ -192,7 +192,7 @@ First aid—caring for injured or ill persons until they can receive professiona
   - (2) Elastic wrap and cravat bandages for ankle sprain
 
     **Resources:** [Elastic Wrap for Ankle Sprain (video)](https://youtu.be/KRyaemlcJAM?si=_A2ie3PNfdiH1n-0)
-  - (3) Elastic wrap and cravat bandages for wrist sprain or hand injury.
+  - (3) Elastic wrap and cravat bandages for wrist sprain or hand injury
 
     **Resources:** [Wrist Wrap (video)](https://youtu.be/tdRMJIu2E08)
   - (e) Demonstrate the proper procedures for handling and splinting of suspected closed or open fractures or dislocations of the:
@@ -261,14 +261,14 @@ First aid—caring for injured or ill persons until they can receive professiona
     **Resources:** [Hypothermia (video)](https://youtu.be/my6JB41apTw), [C.O.L.D. Guidelines for Staying warm (website)](https://www.scouting.org/health-and-safety/safety-moments/winter-activity/), [Frostbite and Hypothermia (website)](https://health.mo.gov/living/healthcondiseases/hypothermia/index.php), [Recognize the "Umbles"  and Avoid Hypothermia (video)](https://youtu.be/aDAqWLpHXXU)
 
 - (12) **Mental Health Conditions.** Describe the following:
-  - (a) Reactions associated with at least three stressful situations, such as mountain backpacking, rappelling, a ropes course, speaking before an audience, making a phone call to an adult, taking a swim test, missing home, lighting a match, trying out for a sports team, meeting someone for the first time, or other stressful circumstances.
+  - (a) Reactions associated with at least three stressful situations, such as mountain backpacking, rappelling, a ropes course, speaking before an audience, making a phone call to an adult, taking a swim test, missing home, lighting a match, trying out for a sports team, meeting someone for the first time, or other stressful circumstances
 
-    **Resources:** [3 Tools for Situational Anxiety (video)](https://youtu.be/_H5QFfiU0s0), [Overcoming Social Anxiety (video)](https://youtu.be/BmX6GXDvlLM), [Power of Self-Confidence (video)](https://www.youtube.com/watch?v=gTd6Lq1M9Tc), [Getting Ready for Tryouts (video)](https://youtu.be/a_dVK2EEWKE)
-  - (b) The actions that you and others should take to prepare for and manage these situations.
+    **Resources:** [3 Tools for Situational Anxiety (video)](https://youtu.be/_H5QFfiU0s0), [Overcoming Social Anxiety (video)](https://youtu.be/BmX6GXDvlLM), [Power of Self-Confidence (video)](https://youtu.be/gTd6Lq1M9Tc), [Getting Ready for Tryouts (video)](https://youtu.be/gTd6Lq1M9Tc)
+  - (b) The actions that you and others should take to prepare for and manage these situations
 
     **Resources:** [Techniques to Manage Stress (video)](https://youtu.be/h2zWopNUUJE), [Box Breathing \| The Breathing Exercise Used By Navy SEALs (video)](https://youtu.be/UC6HUrneIWI), [Tips for Overcoming Phone Anxiety (video)](https://youtu.be/QcKbxaGpwf4), [How To STOP Letting Social Anxiety Control You (video)](https://youtu.be/wbroM1Di-bI)
-  - (c) The indications that someone might be a danger to themselves or others.
-  - (d) The actions that you should take if you suspect that someone might be a danger to themselves or others.
+  - (c) The indications that someone might be a danger to themselves or others
+  - (d) The actions that you should take if you suspect that someone might be a danger to themselves or others
 
 - (13) **Miscellaneous Conditions.** Describe the symptoms and signs of, show first aid for, and explain prevention of the following conditions:
   - (a) Object in the eye

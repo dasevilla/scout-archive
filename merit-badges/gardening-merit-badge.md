@@ -40,9 +40,9 @@ Humans have been growing plants for thousands of years. Farmers and horticulturi
 
   **Resources:** [Seed Germination Test (video)](https://youtu.be/E0jzPVGiKHs?si=6sRjzeuX1P0CgsSA)
 
-- (5) Visit your county extension agent's office, local university, agricultural college, nursery, farm, or a botanical garden or arboretum. Report on what you learned.
+- (5) Visit your county extension office, local university, agricultural college, nursery, farm, botanical garden, or arboretum. Report on what you learned.
 
-  **Resources:** [Eyes on Agriculture  (video)](https://youtu.be/zMB6lTyXdnE?si=LtY7M54LNZpkafpn)
+  **Resources:** [Eyes on Agriculture  (video)](https://youtu.be/zMB6lTyXdnE)
 
 - (6) Explain to your counselor how and why honeybees are used in pollinating food crops and the problems that face the bee population today. Discuss what the impact to humanity would be if there were no pollinators.
 

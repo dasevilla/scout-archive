@@ -14,7 +14,7 @@
     {
       "id": "14840",
       "label": "1",
-      "text": "Explain the following terms: animal, invertebrate, vertebrate, and mammal. Name three characteristics that distinguish mammals from all other animals. Resources: Characteristics and Categories of Mammals (video)\n10 Traits of Mammals (video)\nMammals—Traits and Groups of Warm-Blooded Animals (video)\nVertebrate Diversity in Mammals (General Characteristics) (video)",
+      "text": "Explain the following terms: animal, invertebrate, vertebrate, and mammal. Name three characteristics that distinguish mammals from all other animals.",
       "requirement_path": "1",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -22,92 +22,27 @@
       "content": [
         {
           "type": "text",
-          "value": "Explain the following terms: animal, invertebrate, vertebrate, and mammal. Name three characteristics that distinguish mammals from all other animals. Resources: "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/jscSDZG1nFo"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "Characteristics and Categories of Mammals (video)"
-            }
-          ]
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "text",
-          "value": " "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/JOqVQ3m-bDQ"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "10 Traits of Mammals (video)"
-            }
-          ]
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "text",
-          "value": " "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/n9ud5ZPu2Po"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "Mammals—Traits and Groups of Warm-Blooded Animals (video)"
-            }
-          ]
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "text",
-          "value": " "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/mXs71vqrvqI"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "Vertebrate Diversity in Mammals (General Characteristics) (video)"
-            }
-          ]
+          "value": "Explain the following terms: animal, invertebrate, vertebrate, and mammal. Name three characteristics that distinguish mammals from all other animals."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Characteristics and Categories of Mammals (video)",
+          "url": "https://youtu.be/jscSDZG1nFo"
+        },
+        {
+          "title": "10 Traits of Mammals (video)",
+          "url": "https://youtu.be/JOqVQ3m-bDQ"
+        },
+        {
+          "title": "Mammals—Traits and Groups of Warm-Blooded Animals (video)",
+          "url": "https://youtu.be/n9ud5ZPu2Po"
+        },
+        {
+          "title": "Vertebrate Diversity in Mammals (General Characteristics) (video)",
+          "url": "https://youtu.be/mXs71vqrvqI"
+        }
+      ],
       "sub_requirements": []
     },
     {

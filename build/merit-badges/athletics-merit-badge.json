@@ -838,53 +838,54 @@
               ],
               "resources": [],
               "sub_requirements": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "14226",
+          "label": null,
+          "text": "Option G—Basketball Shooting. Do ALL of the following:",
+          "requirement_path": "5.option-g",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
+          "content": [
             {
-              "id": "14226",
-              "label": null,
-              "text": "Option G—Basketball Shooting. Do ALL the following:",
-              "requirement_path": "5.option-f.option-g",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "strong",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Option G—Basketball Shooting."
-                    }
-                  ]
-                },
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
                 {
                   "type": "text",
-                  "value": " Do ALL the following:"
+                  "value": "Option G—Basketball Shooting."
                 }
-              ],
-              "resources": [
-                {
-                  "title": "How To Shoot a Free Throw (video)",
-                  "url": "https://youtu.be/iW2VFzBiaQo"
-                },
-                {
-                  "title": "How To Shoot a Layup (video)",
-                  "url": "https://youtu.be/q4IqeXob_qg"
-                },
-                {
-                  "title": "How To Shoot a Basketball (video)",
-                  "url": "https://youtu.be/UcnB9e5O5NY"
-                }
-              ],
-              "sub_requirements": []
+              ]
             },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [
+            {
+              "title": "How To Shoot a Free Throw (video)",
+              "url": "https://youtu.be/iW2VFzBiaQo"
+            },
+            {
+              "title": "How To Shoot a Layup (video)",
+              "url": "https://youtu.be/q4IqeXob_qg"
+            },
+            {
+              "title": "How To Shoot a Basketball (video)",
+              "url": "https://youtu.be/UcnB9e5O5NY"
+            }
+          ],
+          "sub_requirements": [
             {
               "id": "14227",
               "label": "1",
               "text": "Basketball shot for accuracy, 10 free-throw shots",
-              "requirement_path": "5.option-f.1-2",
+              "requirement_path": "5.option-g.1",
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
@@ -901,7 +902,7 @@
               "id": "14228",
               "label": "2",
               "text": "Basketball throw for skill and agility, the following shots:",
-              "requirement_path": "5.option-f.2-2",
+              "requirement_path": "5.option-g.2",
               "node_kind": "action_requirement",
               "is_container": true,
               "requires_response": true,
@@ -917,7 +918,7 @@
                   "id": "14238",
                   "label": "a",
                   "text": "Left-side layup",
-                  "requirement_path": "5.option-f.2-2.a",
+                  "requirement_path": "5.option-g.2.a",
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
@@ -934,7 +935,7 @@
                   "id": "14239",
                   "label": "b",
                   "text": "Right-side layup",
-                  "requirement_path": "5.option-f.2-2.b",
+                  "requirement_path": "5.option-g.2.b",
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
@@ -951,7 +952,7 @@
                   "id": "14240",
                   "label": "c",
                   "text": "Left side of hoop, along the key line",
-                  "requirement_path": "5.option-f.2-2.c",
+                  "requirement_path": "5.option-g.2.c",
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
@@ -968,7 +969,7 @@
                   "id": "14241",
                   "label": "d",
                   "text": "Right side of hoop, along the key line",
-                  "requirement_path": "5.option-f.2-2.d",
+                  "requirement_path": "5.option-g.2.d",
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
@@ -985,7 +986,7 @@
                   "id": "14243",
                   "label": "e",
                   "text": "Where key line and free-throw line meet, left side",
-                  "requirement_path": "5.option-f.2-2.e",
+                  "requirement_path": "5.option-g.2.e",
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
@@ -1002,7 +1003,7 @@
                   "id": "14242",
                   "label": "f",
                   "text": "Where key line and free-throw line meet, left side",
-                  "requirement_path": "5.option-f.2-2.f",
+                  "requirement_path": "5.option-g.2.f",
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
@@ -1019,7 +1020,7 @@
                   "id": "14244",
                   "label": "g",
                   "text": "Top of the key",
-                  "requirement_path": "5.option-f.2-2.g",
+                  "requirement_path": "5.option-g.2.g",
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
@@ -1036,7 +1037,7 @@
                   "id": "14245",
                   "label": "h",
                   "text": "Another spot along the three-point line",
-                  "requirement_path": "5.option-f.2-2.h",
+                  "requirement_path": "5.option-g.2.h",
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,

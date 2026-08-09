@@ -262,7 +262,7 @@
     {
       "id": "15056",
       "label": "3",
-      "text": "Modern Particle Physics.",
+      "text": "Modern Particle Physics. Do the following:",
       "requirement_path": "3",
       "node_kind": "instruction_container",
       "is_container": true,
@@ -278,6 +278,10 @@
               "value": "Modern Particle Physics."
             }
           ]
+        },
+        {
+          "type": "text",
+          "value": " Do the following:"
         }
       ],
       "resources": [],
@@ -402,7 +406,7 @@
         {
           "id": "15060",
           "label": "a",
-          "text": "Build an electroscope. Show how it works. Place a radiation source near the electroscope ball and explain the effect it causes.",
+          "text": "Build an electroscope. Show how it works. Place a radiation source near the electroscope ball and explain the effect it causes. Adults must handle radioactive materials.",
           "requirement_path": "4.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -410,7 +414,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Build an electroscope. Show how it works. Place a radiation source near the electroscope ball and explain the effect it causes."
+              "value": "Build an electroscope. Show how it works. Place a radiation source near the electroscope ball and explain the effect it causes. Adults must handle radioactive materials."
             }
           ],
           "resources": [
@@ -424,7 +428,7 @@
         {
           "id": "15061",
           "label": "b",
-          "text": "Make a cloud chamber. Show how it can be used to see the tracks caused by radiation. Explain what is happening.",
+          "text": "Make a cloud chamber. Show how it can be used to see the tracks caused by radiation. Adults must handle radioactive materials and dry ice. Explain what is happening.",
           "requirement_path": "4.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -432,7 +436,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Make a cloud chamber. Show how it can be used to see the tracks caused by radiation. Explain what is happening."
+              "value": "Make a cloud chamber. Show how it can be used to see the tracks caused by radiation. Adults must handle radioactive materials and dry ice. Explain what is happening."
             }
           ],
           "resources": [
@@ -454,7 +458,7 @@
         {
           "id": "15062",
           "label": "c",
-          "text": "Perform an experiment demonstrating half-life. Discuss decay chains.",
+          "text": "Perform an experiment demonstrating half-life using nonradioactive materials such as candy, coins, or other small items. Discuss decay chains.",
           "requirement_path": "4.c",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -462,7 +466,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Perform an experiment demonstrating half-life. Discuss decay chains."
+              "value": "Perform an experiment demonstrating half-life using nonradioactive materials such as candy, coins, or other small items. Discuss decay chains."
             }
           ],
           "resources": [
@@ -509,7 +513,7 @@
         {
           "id": "15064",
           "label": "a",
-          "text": "Using a radiation survey meter and a radioactive source, show how the counts per minute change as the source gets closer to or farther from the radiation detector. Place three different materials between the source and the detector, then explain any differences in the measurements per minute. Explain how time, distance, and shielding can reduce an individual's radiation dose.",
+          "text": "Using a radiation survey meter and a radioactive source, show how the counts per minute change as the source gets closer to or farther from the radiation detector. Adults must handle radioactive materials. Place three different materials between the source and the detector, then explain any differences in the measurements per minute. Explain how time, distance, and shielding can reduce an individual's radiation dose.",
           "requirement_path": "5.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -517,7 +521,7 @@
           "content": [
             {
               "type": "text",
-              "value": "Using a radiation survey meter and a radioactive source, show how the counts per minute change as the source gets closer to or farther from the radiation detector. Place three different materials between the source and the detector, then explain any differences in the measurements per minute. Explain how time, distance, and shielding can reduce an individual's radiation dose."
+              "value": "Using a radiation survey meter and a radioactive source, show how the counts per minute change as the source gets closer to or farther from the radiation detector. Adults must handle radioactive materials. Place three different materials between the source and the detector, then explain any differences in the measurements per minute. Explain how time, distance, and shielding can reduce an individual's radiation dose."
             }
           ],
           "resources": [
@@ -655,7 +659,7 @@
         {
           "id": "15069",
           "label": "b",
-          "text": "Visit a local nuclear power plant or nuclear reactor either in person or online (with your parent or guardian's permission). Learn how a reactor works and how the plant generates electricity. Find out what percentage of electricity in the United States and in your state is generated by nuclear power plants, and by other methods. Make a graph of the information you find.",
+          "text": "Visit a local nuclear power plant or nuclear reactor either in person or online (with your parent or guardian's permission). Learn how a reactor works and how the plant generates electricity. Find out what percentage of electricity in the United States and in your state is generated by nuclear power plants and by other methods. Make a graph of the information you find.",
           "requirement_path": "6.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -663,13 +667,13 @@
           "content": [
             {
               "type": "text",
-              "value": "Visit a local nuclear power plant or nuclear reactor either in person or online (with your parent or guardian's permission). Learn how a reactor works and how the plant generates electricity. Find out what percentage of electricity in the United States and in your state is generated by nuclear power plants, and by other methods. Make a graph of the information you find."
+              "value": "Visit a local nuclear power plant or nuclear reactor either in person or online (with your parent or guardian's permission). Learn how a reactor works and how the plant generates electricity. Find out what percentage of electricity in the United States and in your state is generated by nuclear power plants and by other methods. Make a graph of the information you find."
             }
           ],
           "resources": [
             {
               "title": "What Is Nuclear Energy? Shrink Down to an Atom and Find Out  (video)",
-              "url": "https://youtu.be/6K5gy3RLcKc?si=sJl0OAEvTIGX7Pq-"
+              "url": "https://youtu.be/6K5gy3RLcKc"
             },
             {
               "title": "Energy Consumption & Efficiency Data  | Energy Information Agency (website)",

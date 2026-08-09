@@ -815,7 +815,7 @@
     {
       "id": "15504",
       "label": "7",
-      "text": "Cell Phones Do the following:",
+      "text": "Cell Phones. Do the following:",
       "requirement_path": "7",
       "node_kind": "instruction_container",
       "is_container": true,
@@ -828,7 +828,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Cell Phones"
+              "value": "Cell Phones."
             }
           ]
         },
@@ -1878,11 +1878,11 @@
     {
       "id": "15558",
       "label": "9",
-      "text": "Careers. Do ONE of the following.",
+      "text": "Careers. Do ONE of the following:",
       "requirement_path": "9",
-      "node_kind": "action_requirement",
+      "node_kind": "instruction_container",
       "is_container": true,
-      "requires_response": true,
+      "requires_response": false,
       "content": [
         {
           "type": "element",
@@ -1897,7 +1897,7 @@
         },
         {
           "type": "text",
-          "value": " Do ONE of the following."
+          "value": " Do ONE of the following:"
         }
       ],
       "resources": [],

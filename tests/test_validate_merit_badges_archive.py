@@ -28,6 +28,7 @@ def requirement(label: str) -> dict:
         "node_kind": "action_requirement",
         "is_container": False,
         "requires_response": True,
+        "scoped_clauses": [],
         "content": [{"type": "text", "value": f"Requirement {label}."}],
         "resources": [],
         "sub_requirements": [],
@@ -117,6 +118,50 @@ class ValidateMeritBadgesArchiveTest(unittest.TestCase):
 
         self.assertFalse(
             any("likely governs numbered siblings" in warning for warning in warnings)
+        )
+
+    def test_warns_when_action_clause_scope_is_ambiguous(self) -> None:
+        ambiguous = requirement("1")
+        ambiguous["text"] = "Explain the rule and do ONE of the following:"
+        ambiguous["content"] = [{"type": "text", "value": ambiguous["text"]}]
+        ambiguous["scoped_clauses"] = [
+            {"text": ambiguous["text"], "scope": "ambiguous"}
+        ]
+        with tempfile.TemporaryDirectory() as tmpdir:
+            file_path = Path(tmpdir) / "ambiguous-scope-merit-badge.json"
+            file_path.write_text(
+                json.dumps(badge([ambiguous, requirement("2")])),
+                encoding="utf-8",
+            )
+
+            errors, warnings = validate_merit_badges_archive.validate_badge_content(
+                file_path
+            )
+
+        self.assertFalse(errors)
+        self.assertTrue(
+            any("ambiguous action scope" in warning for warning in warnings)
+        )
+
+    def test_rejects_suppressed_requirement_scoped_action(self) -> None:
+        suppressed = requirement("1")
+        suppressed["requires_response"] = False
+        suppressed["scoped_clauses"] = [
+            {"text": suppressed["text"], "scope": "requirement"}
+        ]
+        with tempfile.TemporaryDirectory() as tmpdir:
+            file_path = Path(tmpdir) / "suppressed-action-merit-badge.json"
+            file_path.write_text(
+                json.dumps(badge([suppressed, requirement("2")])),
+                encoding="utf-8",
+            )
+
+            errors, _warnings = validate_merit_badges_archive.validate_badge_content(
+                file_path
+            )
+
+        self.assertTrue(
+            any("suppresses a requirement-scoped action" in error for error in errors)
         )
 
 

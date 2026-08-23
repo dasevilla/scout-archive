@@ -288,6 +288,163 @@ class SemanticProcessorTest(unittest.TestCase):
         )
         self.assertEqual(requirements[0].sub_requirements[0].sub_requirements, [])
 
+    def test_scopes_health_care_parent_actions_separately_from_child_action(
+        self,
+    ) -> None:
+        parent = RawRequirementItem(
+            id="5",
+            content_nodes=self.extractor.extract_nodes(
+                "5. Select one career from any of the lists in requirements 1, 2, "
+                "3, or 4 and arrange to visit that professional at their workplace. "
+                "Discuss with your counselor the following:"
+            ),
+            sub_requirements=[
+                RawRequirementItem(
+                    id="a",
+                    content_nodes=self.extractor.extract_nodes(
+                        "(a) Why did they choose their particular career?"
+                    ),
+                )
+            ],
+        )
+
+        requirement = self.processor.process([parent])[0]
+
+        self.assertEqual(
+            [clause.model_dump() for clause in requirement.scoped_clauses],
+            [
+                {
+                    "text": (
+                        "Select one career from any of the lists in requirements 1, "
+                        "2, 3, or 4 and arrange to visit that professional at their "
+                        "workplace."
+                    ),
+                    "scope": "requirement",
+                },
+                {
+                    "text": "Discuss with your counselor the following:",
+                    "scope": "children",
+                },
+            ],
+        )
+        self.assertEqual(requirement.node_kind, "action_requirement")
+        self.assertTrue(requirement.requires_response)
+
+    def test_preserves_disabilities_advocacy_explanation_as_parent_action(
+        self,
+    ) -> None:
+        parent = RawRequirementItem(
+            id="5",
+            content_nodes=self.extractor.extract_nodes(
+                "5. Explain what advocacy is. Do ONE of the following:"
+            ),
+            sub_requirements=[
+                RawRequirementItem(
+                    id="a",
+                    content_nodes=self.extractor.extract_nodes(
+                        "(a) Present a disabilities awareness program."
+                    ),
+                )
+            ],
+        )
+
+        requirement = self.processor.process([parent])[0]
+
+        self.assertEqual(
+            [clause.model_dump() for clause in requirement.scoped_clauses],
+            [
+                {"text": "Explain what advocacy is.", "scope": "requirement"},
+                {"text": "Do ONE of the following:", "scope": "children"},
+            ],
+        )
+        self.assertEqual(requirement.node_kind, "action_requirement")
+        self.assertTrue(requirement.requires_response)
+
+    def test_scopes_all_first_aid_wound_actions_to_children(self) -> None:
+        parent = RawRequirementItem(
+            id="3",
+            content_nodes=self.extractor.extract_nodes(
+                "3. Wounds with No External Bleeding. Describe the symptoms and "
+                "signs of, show first aid for, and explain prevention of these wounds:"
+            ),
+            sub_requirements=[
+                RawRequirementItem(
+                    id="a",
+                    content_nodes=self.extractor.extract_nodes(
+                        "(a) Closed wounds, such as a bruise or a hematoma"
+                    ),
+                )
+            ],
+        )
+
+        requirement = self.processor.process([parent])[0]
+
+        self.assertEqual(
+            [clause.model_dump() for clause in requirement.scoped_clauses],
+            [
+                {
+                    "text": (
+                        "Describe the symptoms and signs of, show first aid for, and "
+                        "explain prevention of these wounds:"
+                    ),
+                    "scope": "children",
+                }
+            ],
+        )
+        self.assertEqual(requirement.node_kind, "action_requirement")
+        self.assertTrue(requirement.requires_response)
+
+    def test_marks_inseparable_parent_and_child_actions_as_ambiguous(self) -> None:
+        parent = RawRequirementItem(
+            id="1",
+            content_nodes=self.extractor.extract_nodes(
+                "1. Explain the safety rule and do ONE of the following:"
+            ),
+            sub_requirements=[
+                RawRequirementItem(
+                    id="a",
+                    content_nodes=self.extractor.extract_nodes("(a) Make a poster."),
+                )
+            ],
+        )
+
+        requirement = self.processor.process([parent])[0]
+
+        self.assertEqual(
+            [clause.model_dump() for clause in requirement.scoped_clauses],
+            [
+                {
+                    "text": "Explain the safety rule and do ONE of the following:",
+                    "scope": "ambiguous",
+                }
+            ],
+        )
+        self.assertEqual(requirement.node_kind, "action_requirement")
+        self.assertTrue(requirement.requires_response)
+
+    def test_does_not_treat_action_word_heading_as_parent_action(self) -> None:
+        parent = RawRequirementItem(
+            id="7",
+            content_nodes=self.extractor.extract_nodes(
+                "7. Complete the Program. Do the following:"
+            ),
+            sub_requirements=[
+                RawRequirementItem(
+                    id="a",
+                    content_nodes=self.extractor.extract_nodes("(a) Record your plan."),
+                )
+            ],
+        )
+
+        requirement = self.processor.process([parent])[0]
+
+        self.assertEqual(
+            [clause.model_dump() for clause in requirement.scoped_clauses],
+            [{"text": "Do the following:", "scope": "children"}],
+        )
+        self.assertEqual(requirement.node_kind, "instruction_container")
+        self.assertFalse(requirement.requires_response)
+
     def test_option_prefixed_action_requirements_stay_answerable(self) -> None:
         html = """
         <div class="mb-requirement-container">

@@ -40,6 +40,9 @@ Requirement object (semantic tree):
 - `is_container` (boolean): True when the node owns child requirements.
 - `requires_response` (boolean): True when the node is an answerable/action
   requirement; false for pure instruction and option containers.
+- `scoped_clauses` (array): Exact substrings of `text` whose action scope can
+  be inferred from the semantic tree (see below). This list is not intended to
+  be an exhaustive grammatical decomposition.
 - `content` (array): Requirement content as a semantic HTML node list.
 - `resources` (array): Resource links (see below).
 - `sub_requirements` (array): Child requirements.
@@ -54,10 +57,30 @@ Resource object:
 - `title` (string)
 - `url` (string)
 
+Scoped clause object:
+
+- `text` (string): An exact substring of the owning requirement's normalized
+  `text`.
+- `scope` (string): One of `"requirement"`, `"children"`, or `"ambiguous"`.
+  A requirement-scoped clause is performed once at the owning node and must
+  not be inherited by its children. A children-scoped clause governs each
+  direct child and is the parent context downstream consumers should inherit.
+  An ambiguous clause combines or follows actions whose ownership cannot be
+  separated conservatively; consumers must not assume that it applies to every
+  child.
+
 Notes:
 
 - Use `label` for numbering in UIs; `id` is internal/unstable.
 - The `requirements` array is hierarchical; each node owns its children.
+- `requires_response` remains a coarse, node-level compatibility signal, while
+  `scoped_clauses` is authoritative when deciding which portions of a
+  container's text to inherit. On a mixed container, a `requirement` clause
+  keeps `requires_response` true even when another clause only introduces
+  children.
+  An empty `scoped_clauses` list means no clause scope was inferred or the node
+  has no children; consumers of older archives should fall back to their
+  existing node-level behavior.
 - When an alphabetic action requirement or named option clearly introduces a
   contiguous numbered list, those numbered entries are children of that action.
   Their `requirement_path` values include the governing action path (for example,
@@ -83,13 +106,16 @@ Example (truncated):
     {
       "id": "123",
       "label": "1",
-      "text": "Discuss...",
+      "text": "Discuss the following:",
       "requirement_path": "1",
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        { "text": "Discuss the following:", "scope": "children" }
+      ],
       "content": [
-        { "type": "text", "value": "Discuss..." }
+        { "type": "text", "value": "Discuss the following:" }
       ],
       "resources": [],
       "sub_requirements": [
@@ -101,6 +127,7 @@ Example (truncated):
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             { "type": "text", "value": "Explain..." }
           ],
@@ -139,6 +166,8 @@ Requirement object:
 - `is_container` (boolean): True when the node owns child requirements.
 - `requires_response` (boolean): True when the node is an answerable/action
   requirement; false for pure instruction and option containers.
+- `scoped_clauses` (array): Exact text clauses with the same scope contract as
+  merit badge requirements above.
 - `content` (array): Requirement content as a semantic HTML node list.
 - `resources` (array): Resource links.
 - `sub_requirements` (array): Child requirements.
@@ -175,6 +204,7 @@ Example (truncated):
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         { "type": "text", "value": "Show you are prepared..." }
       ],

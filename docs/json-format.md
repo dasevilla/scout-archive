@@ -58,6 +58,11 @@ Notes:
 
 - Use `label` for numbering in UIs; `id` is internal/unstable.
 - The `requirements` array is hierarchical; each node owns its children.
+- When an alphabetic action requirement or named option clearly introduces a
+  contiguous numbered list, those numbered entries are children of that action.
+  Their `requirement_path` values include the governing action path (for example,
+  `"1.b.1"` rather than `"1.1"`). Source content, resources, and `id` values are
+  unchanged by this semantic hierarchy repair.
 
 Example (truncated):
 

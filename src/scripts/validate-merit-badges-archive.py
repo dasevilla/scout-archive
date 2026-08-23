@@ -7,6 +7,7 @@ This helps detect if the source website has changed in a way that breaks our arc
 import os
 import json
 import glob
+import re
 import sys
 
 # Import settings from Scrapy project
@@ -17,6 +18,7 @@ from scout_archive.settings import (
     MIN_BADGE_FILE_SIZE_BYTES,
     MAX_BADGE_EMPTY_FIELDS,
 )
+from scout_archive.requirements_pipeline import introduces_numbered_list
 
 # Known Eagle-required badges that should always be present
 EAGLE_REQUIRED_BADGES = [
@@ -89,6 +91,7 @@ def _validate_requirement_tree(requirements, path, errors, warnings):
     if not isinstance(requirements, list):
         errors.append(f"{path} is not a list")
         return
+    _validate_governed_numbered_siblings(requirements, path, warnings)
     for idx, req in enumerate(requirements):
         req_path = f"{path}[{idx}]"
         if not isinstance(req, dict):
@@ -154,6 +157,36 @@ def _validate_requirement_tree(requirements, path, errors, warnings):
         else:
             _validate_requirement_tree(
                 sub_requirements, f"{req_path}.sub_requirements", errors, warnings
+            )
+
+
+def _validate_governed_numbered_siblings(requirements, path, warnings):
+    for idx, req in enumerate(requirements[:-1]):
+        if not isinstance(req, dict):
+            continue
+        label = req.get("label")
+        text = req.get("text")
+        is_alpha_action = isinstance(label, str) and re.fullmatch(r"[a-z]", label)
+        is_option_action = isinstance(text, str) and re.match(
+            r"^\s*Option\s+[A-Za-z0-9]+\b", text, re.IGNORECASE
+        )
+        if not (is_alpha_action or is_option_action):
+            continue
+        if not isinstance(text, str) or not introduces_numbered_list(text):
+            continue
+        if idx + 2 >= len(requirements):
+            continue
+        next_req = requirements[idx + 1]
+        second_req = requirements[idx + 2]
+        if (
+            isinstance(next_req, dict)
+            and next_req.get("label") == "1"
+            and isinstance(second_req, dict)
+            and second_req.get("label") == "2"
+        ):
+            warnings.append(
+                f"{path}[{idx}] likely governs numbered siblings beginning at "
+                f"{path}[{idx + 1}]"
             )
 
 

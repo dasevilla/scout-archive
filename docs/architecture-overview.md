@@ -108,6 +108,8 @@ HTML
   - Cleans attributes to a controlled HTML subset.
   - Normalizes whitespace and inline spacing.
   - Repairs flattened option/list sequences without badge-specific rules.
+  - Assigns a contiguous numbered list to the immediately preceding alphabetic
+    action or named option when its text explicitly introduces that list.
   - Adds downstream metadata such as `text`, `requirement_path`, `node_kind`,
     `is_container`, and `requires_response`.
 

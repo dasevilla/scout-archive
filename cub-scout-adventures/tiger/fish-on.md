@@ -45,6 +45,8 @@ Draw a picture of the type of fish you think lives in the water where you are go
 
 - **[Color a Fish](https://www.scouting.org/cub-scout-activities/color-a-fish/)** (Indoor, energy 3, supplies 3, prep 3)
   Cub Scouts will learn about local fish species as they color.
+- **[Craft a Fish](https://www.scouting.org/cub-scout-activities/craft-a-fish/)** (Indoor, energy 3, supplies 3, prep 4)
+  Cub Scouts will craft a realistic fish out of recyclable materials
 - **[Scales and Sketches](https://www.scouting.org/cub-scout-activities/scales-and-sketches/)** (Indoor, energy 2, supplies 2, prep 2)
   Using the Tiger handbook draw two fish that live in the water you are going fishing.
 

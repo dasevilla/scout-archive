@@ -48,6 +48,8 @@ Make two carvings with a pocketknife.
 
 **Activities:**
 
+- **[Make Your Own Marshmallow Roasting Stick](https://www.scouting.org/cub-scout-activities/make-your-own-marshmallow-roasting-stick/)** (Outdoor, energy 3, supplies 2, prep 2)
+  Cub Scouts whittle a marshmallow roasting stick
 - **[Potato Printing Press](https://www.scouting.org/cub-scout-activities/potato-printing-press/)** (Indoor, energy 3, supplies 3, prep 2)
   Cub Scouts carve a pattern into a potato and print a design.
 - **[Soap Carving](https://www.scouting.org/cub-scout-activities/soap-carving/)** (Indoor, energy 3, supplies 3, prep 2)

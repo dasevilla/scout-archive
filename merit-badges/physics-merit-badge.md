@@ -11,8 +11,6 @@
 
 - (1) **Safety.** Before conducting any experiments, explain to your counselor the safety precautions and personal protective equipment necessary for working with physics-related equipment.
 
-  **Resources:** [Video: Safely Using Materials & Equipment in Physics Experiments](https://youtu.be/u7epizT6jFg?si=m_0X5hm7DzD6PN93)
-
 - (2) **What is Physics?** Define physics in your own words and discuss with your counselor various areas of physics.
 
   **Resources:** [What is Physics?](https://youtu.be/yWMKYID5fr8?si=Uh2jwfzvFxTLu66d), [Why study physics?](https://www.aps.org/careers/advice/why-study-physics), [The Map of Physics](https://youtu.be/ZihywtixUYo?si=hriOTCEfDbK6sleG)

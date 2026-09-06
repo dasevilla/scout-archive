@@ -89,8 +89,12 @@ Share with your den, or family, a time when you demonstrated the Cub Scout motto
 
 **Activities:**
 
+- **[Do Your Best Calming Shape](https://www.scouting.org/cub-scout-activities/do-your-best-calming-shape/)** (Indoor, energy 3, supplies 3, prep 1)
+  Cub Scouts make a calming crinkle toy.
 - **[Do Your Best Showcase](https://www.scouting.org/cub-scout-activities/do-your-best-showcase-2/)** (Indoor, energy 1, supplies 1, prep 1)
   Cub Scouts share a time when they did their best.
+- **[I Did My Best Comic Strip](https://www.scouting.org/cub-scout-activities/i-did-my-best-comic-strip/)** (Indoor, energy 2, supplies 2, prep 1)
+  Cub Scouts make a comic strip representing a time they did their best.
 
 ### Requirement 8
 

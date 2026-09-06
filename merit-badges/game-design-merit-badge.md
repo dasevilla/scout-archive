@@ -39,7 +39,7 @@ Games come in almost every shape, size, format, and flavor imaginable. Games can
 
 - (5) Design a new game. Any game medium or combination of mediums is acceptable. Record your work in a game design notebook.
 
-  **Resources:** [The Art of Game Design—Generating & Refining Ideas (video)](https://www.youtube.com/shorts/-28vefrftJA), [The Art of Game Design: A Deck of Lenses (website)](https://apps.apple.com/us/app/the-art-of-game-design-a-deck-of-lenses/id385531319)
+  **Resources:** [The Art of Game Design—Generating & Refining Ideas (video)](https://www.youtube.com/shorts/-28vefrftJA), [The Art of Game Design: A Deck of Lenses (app)](https://apps.apple.com/us/app/the-art-of-game-design-a-deck-of-lenses/id385531319)
 
   - (a) Write a vision statement for your game. Identify the medium, player format, objectives, and theme of the game. If suitable, describe the setting, story, and characters.
 

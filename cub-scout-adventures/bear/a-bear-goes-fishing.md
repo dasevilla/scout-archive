@@ -67,8 +67,12 @@ Learn the proper way to attach the hook, lure, or fly to the line.
 
 **Activities:**
 
+- **[Craft a Giant Fly](https://www.scouting.org/cub-scout-activities/craft-a-giant-fly/)** (Indoor, energy 2, supplies 3, prep 4)
+  Cub Scouts make their own giant fly.
 - **[Simple Fishing Knots](https://www.scouting.org/cub-scout-activities/simple-fishing-knots/)** (Indoor, energy 2, supplies 3, prep 3)
   Cub Scouts learn a simple fishing knot to attach a hook, lure or fly to a line.
+- **[The Giant’s Tackle Box](https://www.scouting.org/cub-scout-activities/the-giants-tackle-box/)** (Indoor, energy 3, supplies 3, prep 4)
+  Cub Scouts learn to tie a fishing knot using giant materials.
 
 ### Requirement 6
 

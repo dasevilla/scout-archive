@@ -48,7 +48,7 @@ The field of graphic arts includes many kinds of work in the printing and publis
 - (6) Do ONE of the following, and then describe the highlights of your visit:
   - (a) Visit a newspaper printing plant. Follow a story from the editor to the press.
 
-    **Resources:** [How The New York Times Is Made (video)](https://youtu.be/MrWP2z8I0Qk)
+    **Resources:** [How The New York Times Is Made (video)](https://youtu.be/MrWP2z8I0Qk), [Free State Journalism—How the Paper is Made (website w/ video)](https://www.fsfreepressonline.com/video/2026/01/06/video-free-state-journalism-how-the-paper-is-made)
   - (b) Visit a retail, commercial, or in-plant printing facility. Follow a project from beginning to end.
 
     **Resources:** [Traditional Bookbinding \| How It's Made (video)](https://youtu.be/DiCRx1_Ovok?si=B0uslGn7U9D6tGpI), [Flexographic Printing Basics (video)](https://www.youtube.com/watch?v=hTF_fgpWoTo)

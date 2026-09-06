@@ -106,7 +106,7 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 - (7) **Signaling.** Do the following:
   - (a) Explain and show how lost or stranded Scouts could send signals to attract the attention of ground, airborne, or water search teams.
 
-    **Resources:** [How To Signal for Ground Rescue (video)](https://youtu.be/X8j5NC7Bqq4), [Distress Signals for Water Emergencies (video)](https://youtu.be/0Y4pG_mN7Ek)
+    **Resources:** [How To Signal for Ground Rescue (video)](https://youtu.be/X8j5NC7Bqq4), [Master the Art of Wilderness Rescue Signals (video)](https://youtu.be/KTl1mdJ59sc), [Distress Signals for Water Emergencies (video)](https://youtu.be/0Y4pG_mN7Ek)
   - (b) Demonstrate how to use a signal mirror.
 
     **Resources:** [How to Use a Signal Mirror (video)](https://www.youtube.com/shorts/kYN46GuZmpE)

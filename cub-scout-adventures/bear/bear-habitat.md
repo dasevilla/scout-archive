@@ -68,6 +68,8 @@ Prepare for a one-mile walk by gathering the Cub Scout Six Essentials and weathe
 
 **Activities:**
 
+- **[Fire Danger Detectives](https://www.scouting.org/cub-scout-activities/fire-danger-detectives/)** (Indoor, energy 1, supplies 1, prep 1)
+  Cub Scouts will learn about identifying the fire danger in their area.
 - **[Fire Danger Matching](https://www.scouting.org/cub-scout-activities/fire-danger-matching/)** (Indoor, energy 4, supplies 2, prep 2)
   Play a fire danger level matching game.
 
@@ -77,8 +79,12 @@ Prepare for a one-mile walk by gathering the Cub Scout Six Essentials and weathe
 
 **Activities:**
 
+- **[Nature Camera](https://www.scouting.org/cub-scout-activities/nature-camera/)** (Outdoor, energy 4, supplies 3, prep 2)
+  Cub Scouts discover 6 signs of life and draw in their cardboard camera.
 - **[Wildlife Snapshot](https://www.scouting.org/cub-scout-activities/wildlife-snapshot/)** (Travel, energy 5, supplies 2, prep 2)
   While on a walk, Cub Scouts  identify  six signs of any mammals, birds, insects, or reptiles .
+- **[Wildlife Tally](https://www.scouting.org/cub-scout-activities/wildlife-tally/)** (Outdoor, energy 4, supplies 2, prep 2)
+  Cub Scouts use a tally sheet to mark signs of wildlife.  This activity is designed to be done while completing Requirement 9.
 
 ### Requirement 8
 

@@ -19,6 +19,10 @@ Show how to properly wear a bicycle helmet.
 
 **Activities:**
 
+- **[Biking Expert](https://www.scouting.org/cub-scout-activities/biking-expert/)** (Outdoor, energy 3, supplies 3, prep 5)
+  A biking expert will help Cub Scouts learn how to properly adjust their bike helmets.
+- **[Helmet Heroes](https://www.scouting.org/cub-scout-activities/helmet-heroes/)** (Indoor, energy 3, supplies 3, prep 3)
+  Cub Scouts will use a worksheet and inspect each other’s helmets to demonstrate how to properly wear a helmet.
 - **[Helmet Relay](https://www.scouting.org/cub-scout-activities/helmet-relay/)** (Outdoor, energy 4, supplies 2, prep 2)
   Cub Scouts  demonstrate  proper helmet fitting during a relay game.
 
@@ -30,6 +34,10 @@ Decide what you should wear when riding a bike.
 
 - **[Dress the Cub Scout](https://www.scouting.org/cub-scout-activities/dress-the-cub-scout/)** (Outdoor, energy 3, supplies 3, prep 3)
   Cub Scouts learn proper bike attire by playing a game.
+- **[Ready to Ride Freeze Game](https://www.scouting.org/cub-scout-activities/ready-to-ride-freeze-game/)** (Indoor, energy 4, supplies 2, prep 1)
+  Cub Scouts quickly decide if clothing is safe to wear when riding a bike.
+- **[What to Wear on my Bike Worksheet](https://www.scouting.org/cub-scout-activities/what-to-wear-on-my-bike-worksheet/)** (Indoor, energy 2, supplies 2, prep 1)
+  Cub Scouts will use a worksheet to show what to wear when riding a bike.
 
 ### Requirement 4
 

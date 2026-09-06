@@ -28,9 +28,8 @@ Discover the history and importance of various kinds of exploration by earning t
   - (b) How explorers have aided in our understanding of our world
 
     **Resources:** [Why We Explore (video)](https://www.youtube.com/watch?v=6_SRZiU9EuI)
-  - (c) What you think it takes to be an explorer
-
-    **Resources:** [Why Great Scientists Ask Great Questions? w/ Neil deGrasse Tyson (video)](https://youtu.be/1B9q2eS78Tw?si=BM2e4T2u7pBcTTXq)
+  - (c) What you think it takes to be an explorer Resources: [Why Is It Important To Explore? (video)](https://youtu.be/IpXlxS1r5NY)
+    [Greatest Explorers in History (video)](https://youtu.be/zKjbCC7rpk4)
 
 - (4) **Real-Life Exploration.** Do ONE of the following:
   - (a) Learn about a living explorer. Create a short report or presentation (verbal, written, or multimedia slide presentation) on this individual's objectives and the achievements of one of the explorer's expeditions. Share what you have learned with your counselor and unit.

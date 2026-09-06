@@ -19,6 +19,8 @@ Learn about some basic tools and the proper use of each tool. Learn about and un
 
 **Activities:**
 
+- **[Tool Match Game](https://www.scouting.org/cub-scout-activities/tool-match-game/)** (Indoor, energy 3, supplies 2, prep 2)
+  
 - **[Tool Safety Theater](https://www.scouting.org/cub-scout-activities/tool-safety-theater/)** (Indoor, energy 4, supplies 2, prep 2)
   Cub Scouts will act out skits correcting poor tool behavior.
 - **[Tool Time](https://www.scouting.org/cub-scout-activities/tool-time/)** (Indoor, energy 3, supplies 3, prep 2)
@@ -30,6 +32,8 @@ Practice using four of the tools you learned about in requirement 1.
 
 **Activities:**
 
+- **[Robot Buddy](https://www.scouting.org/cub-scout-activities/robot-buddy/)** (Indoor, energy 4, supplies 4, prep 4)
+  Cub Scouts will practice using tools to build a robot keychain/ornament.
 - **[Tool Practice](https://www.scouting.org/cub-scout-activities/tool-practice/)** (Indoor, energy 3, supplies 3, prep 2)
   Cub Scouts practice using four different tools.
 

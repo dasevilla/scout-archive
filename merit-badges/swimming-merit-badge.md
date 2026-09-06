@@ -12,7 +12,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
 - (1) Do the following:
   - (a) Review with your counselor how Scouting America's Safe Swim Defense guidelines anticipates and deals with common drowning situations such as unfenced residential pools, nonswimmers entering deep water, risky behaviors, medical impairment in the water, drop-offs, cold water, murky water, river currents, rip currents, and surf.
 
-    **Resources:** [Safe Swim Defense (website)](https://www.scouting.org/health-and-safety/gss/gss02), [Rip Current Survival Guide (website w/ video)](https://www.noaa.gov/multimedia/video/video-heading-to-beach-see-our-rip-current-survival-guide-first)
+    **Resources:** [Safe Swim Defense (website)](https://www.scouting.org/health-and-safety/gss/gss02), [Rip Current Survival Guide (website w/ video)](https://www.noaa.gov/multimedia/video/video-heading-to-beach-see-our-rip-current-survival-guide-first), [Safe Swimming Area (website)](https://onscouting.org/2021/06/10/what-constitutes-a-safe-swimming-area/)
   - (b) Discuss the prevention and treatment of health concerns that could occur while swimming, including hypothermia, dehydration, sunburn, heat exhaustion, heatstroke, muscle cramps, hyperventilation, spinal injury, stings and bites, and cuts and scrapes.
 
     **Resources:** [10 Common Summer Safety Emergencies (website)](https://surefirecpr.com/emergency-tips/10-common-summer-safety-emergencies/)
@@ -33,7 +33,7 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
     **Resources:** [How To Swim Side Stroke (video)](https://youtu.be/40WQ8Q3Ximkc)
   - (d) Demonstrate the breaststroke using good form.
 
-    **Resources:** [How To Swim Breaststroke Properly! (video)](https://youtu.be/_l8jZbKy9KI), [How To Swim Breaststroke (video)](https://youtu.be/XFipOtBNMkg)
+    **Resources:** [How To Swim Breaststroke Properly! (video)](https://youtu.be/_l8jZbKy9KI), [How To Swim Breaststroke (video)](https://youtu.be/XFipOtBNMkg), [The Elements of Breaststroke (video)](https://youtu.be/HDvvSwLuCxU)
   - (e) Demonstrate the elementary backstroke using good form.
 
     **Resources:** [Learn To Swim Elementary Backstroke (video)](https://youtu.be/WPgt7djgloQ)

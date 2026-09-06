@@ -62,7 +62,7 @@ Where passion for gaming meets leadership, learning, and the future of technolog
 - (4) **Gamer Safety and Community Connection.** Do the following:
   - (a) Explain the benefits and risks of gaming online.
 
-    **Resources:** [The Real Benefits of Video Games (website)](https://builtin.com/articles/online-gaming-social-benefits), [Negative Effects of Video Games (website)](https://www.smartsocial.com/post/negative-effects-video-games)
+    **Resources:** [The Real Benefits of Video Games (website)](https://builtin.com/articles/online-gaming-social-benefits), [Are Video Games, Screens Another Addiction? (website)](https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/are-video-games-and-screens-another-addiction)
   - (b) Research and list ten ways to stay safe when playing video games online.
 
     **Resources:** [Online Safety Issues (website)](https://www.internetmatters.org/issues/), [Gaming Safety (PDF)](https://www.dhs.gov/sites/default/files/2024-09/24_09_20_K2P_Gaming-Safety.pdf)

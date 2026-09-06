@@ -81,7 +81,7 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
     **Resources:** [What Is Diplomacy and How Does It Work? (video)](https://youtu.be/LdKFN1g62PM), [Ambassadors: An Overview of the Role and Responsibilities of Diplomatic Representatives (video)](https://youtu.be/XJAeLeBW6l8), [Export With the US Commercial Service (video)](https://youtu.be/pRRsmcWtpt4), [What Is a U.S. Consulate? (website)](https://diplomacy.state.gov/what-is-a-u-s-consulate/)
   - (c) Explain the purpose of a passport and visa for international travel.
 
-    **Resources:** [Becoming a U.S. Citizen: An Overview of the Naturalization Process (video)](https://youtu.be/gDOXgWtCQxY), [What Is the Process for Obtaining a Permanent Residency in the US? (video)](https://youtube.com/shorts/Pmu0NXzj-Fo), [Visa vs Passport—Know The Important Differences! (video)](https://youtu.be/R_OhIkzkF2Y)
+    **Resources:** [Becoming a U.S. Citizen: An Overview of the Naturalization Process (video)](https://youtu.be/gDOXgWtCQxY), [What Is the Process for Obtaining a Permanent Residency in the US? (video)](https://youtube.com/shorts/Pmu0NXzj-Fo), [Research Your Destination (video)](https://youtu.be/YYRkAcJrDXI)
 
 - (7) Do TWO of the following (with your parent or guardian's permission) and share with your counselor what you have learned:
   - (a) Visit the website of the U.S. State Department. Learn more about an issue you find interesting that is discussed on this website.

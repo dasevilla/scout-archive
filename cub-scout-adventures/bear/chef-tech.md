@@ -61,6 +61,8 @@ Think of a way technology can improve the appliance used to make your recipe.
 
 - **[Brainstorming Bear Chefs](https://www.scouting.org/cub-scout-activities/brainstorming-bear-chefs/)** (Indoor, energy 2, supplies 2, prep 2)
   Cub Scouts brainstorm ideas on how to improve the appliance used in requirement 3.
+- **[Improve a Kitchen Appliance Worksheet](https://www.scouting.org/cub-scout-activities/improve-a-kitchen-appliance-worksheet/)** (Indoor, energy 2, supplies 1, prep 1)
+  Cub Scouts explain how they would improve a kitchen appliance.
 - **[What If It Did This?](https://www.scouting.org/cub-scout-activities/what-if-it-did-this/)** (Indoor, energy 2, supplies 3, prep 2)
   Using cardboard make a model of the appliance you used with one improvement.
 

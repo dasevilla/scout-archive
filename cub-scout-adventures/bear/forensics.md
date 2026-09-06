@@ -19,6 +19,8 @@ Explore the term “forensics” and how it is used to help solve crimes.
 
 **Activities:**
 
+- **[Scene Forensics Worksheet](https://www.scouting.org/cub-scout-activities/scene-forensics-worksheet/)** (Indoor, energy 3, supplies 3, prep 2)
+  Cub Scouts look at a crime scene and fill out a worksheet
 - **[Solve the Mystery](https://www.scouting.org/cub-scout-activities/solve-the-mystery/)** (Indoor, energy 3, supplies 3, prep 3)
   Cub Scouts become investigators by observing and analyzing the scene to determine who ate the cookie.
 - **[Visit an Expert](https://www.scouting.org/cub-scout-activities/visit-an-expert/)** (Travel, energy 2, supplies 1, prep 5)
@@ -39,6 +41,10 @@ Learn about chromatography and how it is used in solving crimes.
 
 **Activities:**
 
+- **[Fall Leaf Chromatography](https://www.scouting.org/cub-scout-activities/fall-leaf-chromatography/)** (Indoor, energy 2, supplies 3, prep 3)
+  Cub Scouts discover pigments found in fall leaves using chromatography
+- **[MMmm Chromatography](https://www.scouting.org/cub-scout-activities/mmmm-chromatography/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts dissolve the candy coating to discover the colors used
 - **[What Color Is It?](https://www.scouting.org/cub-scout-activities/what-color-is-it/)** (Indoor, energy 2, supplies 4, prep 3)
   Cub Scout learn that not all chemicals are what they appear to be.
 

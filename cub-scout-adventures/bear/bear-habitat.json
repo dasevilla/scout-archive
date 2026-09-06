@@ -184,6 +184,15 @@
       "sub_requirements": [],
       "activities": [
         {
+          "name": "Fire Danger Detectives",
+          "url": "https://www.scouting.org/cub-scout-activities/fire-danger-detectives/",
+          "description": "Cub Scouts will learn about identifying the fire danger in their area.",
+          "location": "Indoor",
+          "energy_level": "1",
+          "supply_list": "1",
+          "prep_time": "1"
+        },
+        {
           "name": "Fire Danger Matching",
           "url": "https://www.scouting.org/cub-scout-activities/fire-danger-matching/",
           "description": "Play a fire danger level matching game.",
@@ -212,11 +221,29 @@
       "sub_requirements": [],
       "activities": [
         {
+          "name": "Nature Camera",
+          "url": "https://www.scouting.org/cub-scout-activities/nature-camera/",
+          "description": "Cub Scouts discover 6 signs of life and draw in their cardboard camera.",
+          "location": "Outdoor",
+          "energy_level": "4",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
           "name": "Wildlife Snapshot",
           "url": "https://www.scouting.org/cub-scout-activities/wildlife-snapshot/",
           "description": "While on a walk, Cub Scouts  identify  six signs of any mammals, birds, insects, or reptiles .",
           "location": "Travel",
           "energy_level": "5",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Wildlife Tally",
+          "url": "https://www.scouting.org/cub-scout-activities/wildlife-tally/",
+          "description": "Cub Scouts use a tally sheet to mark signs of wildlife.  This activity is designed to be done while completing Requirement 9.",
+          "location": "Outdoor",
+          "energy_level": "4",
           "supply_list": "2",
           "prep_time": "2"
         }

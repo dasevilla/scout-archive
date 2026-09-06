@@ -19,6 +19,8 @@ Familiarize yourself with the flag of the United States of America including the
 
 **Activities:**
 
+- **[Flag Escape Room](https://www.scouting.org/cub-scout-activities/flag-escape-room/)** (Indoor, energy 4, supplies 3, prep 3)
+  Cub Scouts learn about the flag, how to raise, lower and fold the United States Flag.
 - **[Outdoor Flag Ceremony](https://www.scouting.org/cub-scout-activities/outdoor-flag-ceremony/)** (Outdoor, energy 3, supplies 4, prep 3)
   Learn about flag etiquette and how to work with a flag while playing a flag trivia game.
 - **[Patriotic Guest Speaker](https://www.scouting.org/cub-scout-activities/patriotic-guest-speaker/)** (Indoor, energy 2, supplies 2, prep 3)
@@ -59,7 +61,7 @@ Participate in a service project.
 **Activities:**
 
 - **[10,000 for the Troops – Bear](https://www.scouting.org/cub-scout-activities/10000-for-the-troops-bear/)** (Indoor, energy 2, supplies 2, prep 2)
-  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.  Please have letters mailed to the Scouting America National Service Center by November 7, 2025 .
+  Cub Scouts participate in a special nation-wide project to create holiday cards for military personnel.  Please have letters mailed to the Scouting America National Service Center by November 6, 2026 .
 - **[Eyeglasses Donation Drive](https://www.scouting.org/cub-scout-activities/eyeglasses-donation-drive/)** (Indoor, energy 3, supplies 3, prep 5)
   With your den, host a used eyeglasses drive to donate to an organization that recycles them for those in need.
 - **[Plant Trees](https://www.scouting.org/cub-scout-activities/plant-trees/)** (Travel, energy 4, supplies 5, prep 4)

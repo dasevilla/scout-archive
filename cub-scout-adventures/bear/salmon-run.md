@@ -66,6 +66,10 @@ Demonstrate both a reach rescue and a throw rescue.
 
 - **[Reach and Throw Rescue](https://www.scouting.org/cub-scout-activities/reach-and-throw-rescue/)** (Travel, energy 4, supplies 3, prep 2)
   Cub Scouts demonstrate the reach rescue and throw rescue.
+- **[Reach or Throw Don’t Go](https://www.scouting.org/cub-scout-activities/reach-or-throw-dont-go/)** (Indoor, energy 4, supplies 4, prep 3)
+  Cub Scouts learn about reach and throw rescues.
+- **[Rescue Rangers Relay](https://www.scouting.org/cub-scout-activities/rescue-rangers-relay/)** (Indoor, energy 5, supplies 3, prep 2)
+  Cub Scouts practice reach and throw rescues in a fun movement activity.
 
 
 ## Resources

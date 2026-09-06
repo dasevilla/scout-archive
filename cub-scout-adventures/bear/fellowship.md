@@ -25,6 +25,8 @@ With your parent or legal guardian talk about your family’s faith traditions. 
   Create Thanksgiving treats.
 - **[Clay Celebration](https://www.scouting.org/cub-scout-activities/clay-celebration/)** (Indoor, energy 3, supplies 3, prep 3)
   Create a clay sculpture that can be used as part of your favorite family faith tradition, holiday, or celebration.
+- **[Family Faith Tradition Interview](https://www.scouting.org/cub-scout-activities/family-faith-tradition-interview/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts interview a family member to learn about their family faith traditions.
 - **[I Heart String Art](https://www.scouting.org/cub-scout-activities/i-heart-string-art/)** (Indoor, energy 3, supplies 3, prep 3)
   Create a string art heart.
 
@@ -68,6 +70,10 @@ With your parent or legal guardian identify a religion or faith that is differen
   Complete the Family and Reverence activities at home with your family.
 - **[Common Faith Elements](https://www.scouting.org/cub-scout-activities/common-faith-elements/)** (Indoor, energy 2, supplies 2, prep 2)
   Learn about a religion different from your own and name two things that it has in common with your family’s beliefs.
+- **[Faiths of the World Bingo](https://www.scouting.org/cub-scout-activities/faiths-of-the-world-bingo/)** (Indoor, energy 3, supplies 3, prep 2)
+  Cub Scouts play Bingo while learning about different religions.
+- **[The Mystery Suitcase](https://www.scouting.org/cub-scout-activities/the-mystery-suitcase/)** (Indoor, energy 3, supplies 4, prep 3)
+  Cub Scouts will explore different faiths through pictures of items that represent different faiths.
 
 
 ## Resources

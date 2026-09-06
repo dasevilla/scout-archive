@@ -203,7 +203,7 @@
         {
           "id": "14609",
           "label": "c",
-          "text": "What you think it takes to be an explorer",
+          "text": "What you think it takes to be an explorer Resources: Why Is It Important To Explore? (video)\nGreatest Explorers in History (video)",
           "requirement_path": "3.c",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -211,15 +211,46 @@
           "content": [
             {
               "type": "text",
-              "value": "What you think it takes to be an explorer"
-            }
-          ],
-          "resources": [
+              "value": "What you think it takes to be an explorer Resources: "
+            },
             {
-              "title": "Why Great Scientists Ask Great Questions? w/ Neil deGrasse Tyson (video)",
-              "url": "https://youtu.be/1B9q2eS78Tw?si=BM2e4T2u7pBcTTXq"
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/IpXlxS1r5NY"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Why Is It Important To Explore? (video)"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attrs": {
+                "href": "https://youtu.be/zKjbCC7rpk4"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Greatest Explorers in History (video)"
+                }
+              ]
             }
           ],
+          "resources": [],
           "sub_requirements": []
         }
       ]

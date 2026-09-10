@@ -10,6 +10,7 @@ import glob
 import sys
 import re
 from urllib.parse import urlparse
+from typing import Any
 
 # Import settings from Scrapy project
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
@@ -33,6 +34,7 @@ ALLOWED_NODE_KINDS = {
     "instruction_container",
     "option_container",
 }
+ALLOWED_CLAUSE_SCOPES = {"requirement", "children", "ambiguous"}
 
 
 def _node_text(nodes):
@@ -76,6 +78,41 @@ def _validate_nodes(nodes, path, errors, warnings):
         errors.append(f"{path} content[{idx}] has invalid type '{node_type}'")
 
 
+def _validate_scoped_clauses(
+    req: dict[str, Any], path: str, errors: list[str], warnings: list[str]
+) -> None:
+    clauses = req.get("scoped_clauses")
+    if clauses is None:
+        # Older archive releases predate clause scoping and remain valid input.
+        return
+    if not isinstance(clauses, list):
+        errors.append(f"{path} scoped_clauses is not a list")
+        return
+
+    requirement_text = req.get("text")
+    for idx, clause in enumerate(clauses):
+        clause_path = f"{path}.scoped_clauses[{idx}]"
+        if not isinstance(clause, dict):
+            errors.append(f"{clause_path} is not an object")
+            continue
+        clause_text = clause.get("text")
+        scope = clause.get("scope")
+        if not isinstance(clause_text, str) or not clause_text:
+            errors.append(f"{clause_path} missing text")
+        elif isinstance(requirement_text, str) and clause_text not in requirement_text:
+            errors.append(f"{clause_path} text is not part of requirement text")
+        if scope not in ALLOWED_CLAUSE_SCOPES:
+            errors.append(f"{clause_path} invalid scope '{scope}'")
+        elif scope == "ambiguous":
+            warnings.append(f"{clause_path} has ambiguous action scope")
+
+    if any(
+        isinstance(clause, dict) and clause.get("scope") == "requirement"
+        for clause in clauses
+    ) and not req.get("requires_response"):
+        errors.append(f"{path} suppresses a requirement-scoped action")
+
+
 def _validate_requirement_tree(requirements, path, errors, warnings, require_text):
     if not isinstance(requirements, list):
         errors.append(f"{path} is not a list")
@@ -115,6 +152,8 @@ def _validate_requirement_tree(requirements, path, errors, warnings, require_tex
 
         if not isinstance(req.get("requires_response"), bool):
             errors.append(f"{req_path} requires_response is not a boolean")
+
+        _validate_scoped_clauses(req, req_path, errors, warnings)
 
         content = req.get("content")
         if content is None:

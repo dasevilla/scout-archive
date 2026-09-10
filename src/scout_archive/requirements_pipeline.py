@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Annotated, Callable, Dict, List, Literal, Optional, Union
 
 from bs4 import BeautifulSoup, NavigableString, Tag
-from pydantic import BaseModel, Field, TypeAdapter
+from pydantic import BaseModel, Field, PrivateAttr, TypeAdapter
 
 
 class RawTextNode(BaseModel):
@@ -34,6 +34,11 @@ class Resource(BaseModel):
     url: str
 
 
+class ScopedClause(BaseModel):
+    text: str
+    scope: Literal["requirement", "children", "ambiguous"]
+
+
 class SemanticRequirement(BaseModel):
     id: str
     label: Optional[str] = None
@@ -44,9 +49,13 @@ class SemanticRequirement(BaseModel):
     ] = "action_requirement"
     is_container: bool = False
     requires_response: bool = True
+    scoped_clauses: List[ScopedClause] = Field(default_factory=list)
     content: List[RawNode] = Field(default_factory=list)
     resources: List[Resource] = Field(default_factory=list)
     sub_requirements: List["SemanticRequirement"] = Field(default_factory=list)
+    # Reparenting changes the tree shape but must not turn its action owner into
+    # a shape-classified instruction container. Private state is not archived.
+    _owns_repaired_numbered_list: bool = PrivateAttr(default=False)
 
 
 RawElementNode.model_rebuild()
@@ -56,6 +65,20 @@ SemanticRequirement.model_rebuild()
 
 def _normalize_url(url: str) -> str:
     return re.sub(r"(?i)(?:%20)+$", "", url.strip()).rstrip("?#")
+
+
+def introduces_numbered_list(text: str) -> bool:
+    """Return whether requirement text clearly introduces a following list."""
+    normalized = re.sub(r"\s+", " ", text).strip()
+    if not normalized:
+        return False
+    return bool(
+        re.search(r"\bthe following\b", normalized, re.IGNORECASE)
+        or re.search(r"\blist below\b", normalized, re.IGNORECASE)
+        or re.search(r"\bincluding\s*:", normalized, re.IGNORECASE)
+        or re.search(r"\bas follows\b", normalized, re.IGNORECASE)
+        or normalized.endswith(":")
+    )
 
 
 class HtmlExtractor:
@@ -174,6 +197,27 @@ class SemanticProcessor:
         r"\bthe official merit badge pamphlets are now free and downloadable\b",
         re.IGNORECASE,
     )
+    ACTION_VERBS = (
+        "arrange|ask|build|choose|collect|compare|complete|conduct|consider|contact|"
+        "create|define|demonstrate|describe|design|determine|discuss|do|draw|"
+        "explain|find|format|give|identify|interview|investigate|keep|learn|list|"
+        "make|name|observe|plan|prepare|produce|record|research|select|share|show|"
+        "tell|think|use|visit|write"
+    )
+    ACTION_CLAUSE_RE = re.compile(
+        rf"^\s*(?:\([^)]*\)\s*)?(?:"
+        rf"(?:{ACTION_VERBS})\b|"
+        rf"(?:after|as|before|during|for|in|once|upon|using|when|while|with)\b"
+        rf"[^.!?]*,\s*(?:{ACTION_VERBS})\b)",
+        re.IGNORECASE,
+    )
+    MIXED_CHOICE_CLAUSE_RE = re.compile(
+        rf"^\s*\S.+\b(?:and|then)\s+(?:do|choose|complete|select)\b[^.!?]*"
+        rf"\bthe following\b|\bthe following\b[^.!?]*\band\s+"
+        rf"(?:{ACTION_VERBS})\b",
+        re.IGNORECASE,
+    )
+    HEADING_CONNECTORS = {"a", "an", "and", "for", "in", "of", "or", "the", "to"}
 
     def process(self, raw_items: List[RawRequirementItem]) -> List[SemanticRequirement]:
         processed: List[SemanticRequirement] = []
@@ -684,7 +728,8 @@ class SemanticProcessor:
     def _repair_requirement_hierarchy(
         self, requirements: List[SemanticRequirement]
     ) -> List[SemanticRequirement]:
-        grouped = self._group_option_containers(requirements)
+        governed = self._nest_governed_numbered_lists(requirements)
+        grouped = self._group_option_containers(governed)
         nested = self._nest_labeled_descendants(grouped)
         repaired: List[SemanticRequirement] = []
         for requirement in nested:
@@ -695,6 +740,48 @@ class SemanticProcessor:
             repaired.append(requirement)
             repaired.extend(promoted_siblings)
         return repaired
+
+    def _nest_governed_numbered_lists(
+        self, requirements: List[SemanticRequirement]
+    ) -> List[SemanticRequirement]:
+        nested: List[SemanticRequirement] = []
+        index = 0
+        while index < len(requirements):
+            requirement = requirements[index]
+            run_end = self._contiguous_numbered_run_end(requirements, index + 1)
+            if (
+                run_end is not None
+                and self._can_govern_numbered_list(requirement)
+                and self._is_list_intro_requirement(requirement)
+            ):
+                requirement.sub_requirements.extend(requirements[index + 1 : run_end])
+                requirement._owns_repaired_numbered_list = True
+                nested.append(requirement)
+                index = run_end
+                continue
+            nested.append(requirement)
+            index += 1
+        return nested
+
+    def _contiguous_numbered_run_end(
+        self, requirements: List[SemanticRequirement], start: int
+    ) -> Optional[int]:
+        if start >= len(requirements) or requirements[start].label != "1":
+            return None
+        expected = 1
+        index = start
+        while index < len(requirements):
+            if requirements[index].label != str(expected):
+                break
+            expected += 1
+            index += 1
+        return index if expected > 2 else None
+
+    def _can_govern_numbered_list(self, requirement: SemanticRequirement) -> bool:
+        if self._label_kind(requirement.label) == "lower-alpha":
+            return True
+        text = self._clean_plain_text(self._plain_text(requirement.content))
+        return bool(self.OPTION_PREFIX_RE.match(text))
 
     def _group_option_containers(
         self, requirements: List[SemanticRequirement]
@@ -730,14 +817,6 @@ class SemanticProcessor:
 
         for requirement in requirements:
             label_kind = self._label_kind(requirement.label)
-            if (
-                label_kind == "numeric"
-                and current_alpha is not None
-                and self._is_list_intro_requirement(current_alpha)
-            ):
-                current_alpha.sub_requirements.append(requirement)
-                current_numeric = requirement
-                continue
             if (
                 label_kind == "lower-alpha"
                 and current_numeric is not None
@@ -777,9 +856,7 @@ class SemanticProcessor:
 
     def _is_list_intro_requirement(self, requirement: SemanticRequirement) -> bool:
         text = self._clean_plain_text(self._plain_text(requirement.content))
-        if text.endswith(":") and re.search(r"\bfollowing\b", text, re.I):
-            return True
-        return bool(re.search(r"\bthe following(?:\s+options?)?:?$", text, re.I))
+        return introduces_numbered_list(text)
 
     def _starts_flat_option_group(
         self,
@@ -985,12 +1062,80 @@ class SemanticProcessor:
             )
             requirement.is_container = bool(requirement.sub_requirements)
             requirement.node_kind = self._classify_requirement(requirement)
-            requirement.requires_response = (
-                requirement.node_kind == "action_requirement"
-            )
+            requirement.scoped_clauses = self._infer_scoped_clauses(requirement)
+            self._apply_scoped_clause_semantics(requirement)
             self._annotate_requirements(
                 requirement.sub_requirements, requirement.requirement_path
             )
+
+    def _infer_scoped_clauses(
+        self, requirement: SemanticRequirement
+    ) -> List[ScopedClause]:
+        """Infer only clauses whose ownership is clear from a child-list introducer."""
+        if not requirement.sub_requirements or not requirement.text:
+            return []
+
+        clauses = self._sentence_clauses(requirement.text)
+        governing_indexes = [
+            index
+            for index, clause in enumerate(clauses)
+            if introduces_numbered_list(clause)
+        ]
+        if len(governing_indexes) != 1:
+            return [
+                ScopedClause(text=clause, scope="ambiguous")
+                for index, clause in enumerate(clauses)
+                if index in governing_indexes or self._is_action_clause(clause)
+            ]
+
+        governing_index = governing_indexes[0]
+        governing_clause = clauses[governing_index]
+        if self.MIXED_CHOICE_CLAUSE_RE.search(governing_clause):
+            governing_scope: Literal["children", "ambiguous"] = "ambiguous"
+        else:
+            governing_scope = "children"
+
+        scoped: List[ScopedClause] = []
+        for index, clause in enumerate(clauses):
+            if index < governing_index and self._is_action_clause(clause):
+                scoped.append(ScopedClause(text=clause, scope="requirement"))
+            elif index == governing_index:
+                scoped.append(ScopedClause(text=clause, scope=governing_scope))
+            elif self._is_action_clause(clause):
+                # A later action might apply once after the list or to every child.
+                scoped.append(ScopedClause(text=clause, scope="ambiguous"))
+        return scoped
+
+    def _sentence_clauses(self, text: str) -> List[str]:
+        return [
+            clause.strip()
+            for clause in re.split(r"(?<=[.!?])\s+(?=[A-Z(])", text)
+            if clause.strip()
+        ]
+
+    def _is_action_clause(self, clause: str) -> bool:
+        if self._is_likely_heading_clause(clause):
+            return False
+        return bool(self.ACTION_CLAUSE_RE.search(clause))
+
+    def _is_likely_heading_clause(self, clause: str) -> bool:
+        words = re.findall(r"[A-Za-z]+", clause)
+        if not words or len(words) > 5:
+            return False
+        return all(
+            word.lower() in self.HEADING_CONNECTORS or word[0].isupper()
+            for word in words
+        )
+
+    def _apply_scoped_clause_semantics(self, requirement: SemanticRequirement) -> None:
+        requirement.requires_response = requirement.node_kind == "action_requirement"
+        # Clause scope refines the existing node classification. A clear action
+        # owned by the requirement must not be suppressed merely because the
+        # same node also introduces children.
+        if any(clause.scope == "requirement" for clause in requirement.scoped_clauses):
+            if requirement.node_kind == "instruction_container":
+                requirement.node_kind = "action_requirement"
+            requirement.requires_response = True
 
     def _requirement_path_segment(
         self, requirement: SemanticRequirement, index: int
@@ -1015,10 +1160,19 @@ class SemanticProcessor:
         text = self._clean_plain_text(self._plain_text(requirement.content))
         if not self.OPTION_PREFIX_RE.match(text):
             return False
-        if requirement.sub_requirements:
+        if requirement.sub_requirements and self._is_option_heading_requirement(
+            requirement
+        ):
             return True
         return bool(
-            re.search(r"\bdo\s+(?:all|one|two|three)?\s*of the following\b", text, re.I)
+            re.search(
+                r"\b(?:do|complete|choose|show|discuss|explain|identify|list|tell|"
+                r"make|draw|select)\s+"
+                r"(?:all|one|two|three|four|five|six|seven|eight|nine|ten|"
+                r"\d+)?\s*(?:of\s+)?the following\b",
+                text,
+                re.IGNORECASE,
+            )
             or re.search(r"\bfollowing\s+options?:\s*$", text, re.I)
         )
 
@@ -1028,6 +1182,10 @@ class SemanticProcessor:
         text = self._clean_plain_text(self._plain_text(requirement.content))
         if not text:
             return True
+        if requirement._owns_repaired_numbered_list:
+            return self._is_section_heading_requirement(
+                requirement
+            ) or self._is_standalone_list_instruction(text)
         if self._is_section_heading_requirement(requirement):
             return True
         lower_text = text.lower()
@@ -1042,6 +1200,9 @@ class SemanticProcessor:
             re.IGNORECASE,
         ):
             return True
+        return self._is_standalone_list_instruction(text)
+
+    def _is_standalone_list_instruction(self, text: str) -> bool:
         return bool(
             re.fullmatch(
                 r"(?:[A-Z][A-Za-z0-9 ,&/'-]{1,80}\.\s*)?"

@@ -81,7 +81,7 @@ Demonstrate the Cub Scout sign, Cub Scout salute, and Cub Scout handshake. Show 
 - **[Bobcat Relay Bear](https://www.scouting.org/cub-scout-activities/bobcat-relay-bear/)** (Indoor, energy 3, supplies 1, prep 1)
   In this Cub Scout relay game, teams show the Cub Scout sign, salute, and handshake.
 - **[Flag Opening](https://www.scouting.org/cub-scout-activities/flag-opening/)** (Indoor, energy 2, supplies 1, prep 1)
-  Participate in an opening ceremony that includes the use the Cub Scout salute, sign, and handshake.
+  Participate in an opening ceremony that includes the use of the Cub Scout salute, sign, and handshake.
 
 ### Requirement 7
 

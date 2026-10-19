@@ -35,6 +35,31 @@ def requirement(label: str) -> dict:
 
 
 class ValidateMeritBadgesArchiveTest(unittest.TestCase):
+    def test_empty_lab_record_is_still_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            file_path = Path(tmpdir) / "expired-content-merit-badge.json"
+            file_path.write_text(
+                json.dumps(
+                    {
+                        "name": "",
+                        "url": "https://www.scouting.org/expired-content/",
+                        "is_lab": True,
+                        "requirements": [],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            errors, _warnings = validate_merit_badges_archive.validate_badge_content(
+                file_path
+            )
+        self.assertIn("Empty required field: name", errors)
+        self.assertTrue(
+            any(error.startswith("Only 0 requirements found") for error in errors)
+        )
+        self.assertTrue(
+            any(error.startswith("File size too small") for error in errors)
+        )
+
     def test_empty_required_name_is_error(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
             file_path = Path(tmpdir) / "empty-name-merit-badge.json"

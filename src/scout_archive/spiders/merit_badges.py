@@ -23,6 +23,7 @@ class MeritBadgesSpider(scrapy.Spider):
         self.single_url = url
         self.labs_only = str(labs_only).lower() == "true" if labs_only else False
         self.workbook_links = {}
+        self.expired_lab_urls = set()
         self._requirements_extractor = HtmlExtractor()
         self._requirements_processor = SemanticProcessor()
         self._requirements_generator = MarkdownGenerator()
@@ -213,6 +214,24 @@ class MeritBadgesSpider(scrapy.Spider):
     def parse_merit_badge(self, response, is_lab=False):
         if not is_lab and "/test-lab/" in response.url:
             is_lab = True
+        # Retired Test Lab links can remain in the listing after their pages
+        # permanently redirect to Scouting's shared expired-content page.
+        parsed_url = urlparse(response.url)
+        redirect_urls = response.meta.get("redirect_urls", [])
+        if (
+            is_lab
+            and redirect_urls
+            and parsed_url.hostname in {"www.scouting.org", "scouting.org"}
+            and parsed_url.path.rstrip("/") == "/expired-content"
+        ):
+            self.expired_lab_urls.update(redirect_urls)
+            self.logger.warning(
+                "Skipping retired Test Lab page %s redirected to %s",
+                redirect_urls[0],
+                response.url,
+            )
+            return
+
         item = MeritBadgeItem()
         item["is_lab"] = is_lab
 

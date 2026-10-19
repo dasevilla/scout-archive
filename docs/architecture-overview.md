@@ -72,6 +72,12 @@ Test Lab specifics:
 - The HTML layout is different; requirements are parsed from text-editor blocks.
 - Badge images are in a different part of the DOM; a separate selector is used.
 - Workbooks typically do not exist, so workbook URLs are left `None`.
+- Retired Test Lab links may remain in the listing and redirect to Scouting's
+  `/expired-content/` page. These redirected responses are logged and skipped
+  before producing an item. At the end of the crawl, matching archived Test Lab
+  JSON and Markdown files are removed. An active badge written at the same slug
+  is preserved; pages merely missing from discovery are not removed.
+  Other missing names or requirements still fail the existing validation.
 
 #### CubScoutAdventureSpider (`src/scout_archive/spiders/cub_scout_adventures.py`)
 

@@ -12,6 +12,7 @@ import unicodedata
 import json
 import logging
 import mimetypes
+from urllib.parse import urlparse
 
 from jinja2 import Environment, FileSystemLoader
 from scrapy.pipelines.files import FilesPipeline
@@ -103,6 +104,33 @@ class ScoutArchivePipeline:
         elif isinstance(item, CubScoutAdventureItem):
             self.process_cub_scout_adventure_item(item)
         return item
+
+    def close_spider(self, spider):
+        # Wait until active badges have been written so an old Test Lab URL
+        # cannot remove a badge that has since become a standard badge.
+        for source_url in getattr(spider, "expired_lab_urls", ()):
+            source = urlparse(source_url)
+            if source.hostname not in {"www.scouting.org", "scouting.org"}:
+                continue
+            if not re.fullmatch(
+                r"/skills/merit-badges/test-lab/[a-z0-9-]+/?", source.path
+            ):
+                continue
+            slug = source.path.rstrip("/").rsplit("/", 1)[-1]
+            archive = Path(self.merit_badge_output_dir) / f"{slug}-merit-badge.json"
+            if not archive.exists():
+                continue
+            data = json.loads(archive.read_text(encoding="utf-8"))
+            archived_url = urlparse(data.get("url") or "")
+            if (
+                not data.get("is_lab")
+                or archived_url.hostname not in {"www.scouting.org", "scouting.org"}
+                or archived_url.path.rstrip("/") != source.path.rstrip("/")
+            ):
+                continue
+            archive.with_suffix(".md").unlink(missing_ok=True)
+            archive.unlink()
+            logger.info("Removed expired Test Lab archive: %s", archive)
 
     def process_merit_badge_item(self, item):
         filename_base = sanitize_filename(item["badge_url_slug"]) + "-merit-badge"

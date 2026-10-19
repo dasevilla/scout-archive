@@ -25,6 +25,8 @@ git config --local user.name "GitHub Action"
 
 # Add files to the commit
 git add build/merit-badges/*.json build/merit-badges/images/* build/cub-scout-adventures/*/*.json build/cub-scout-adventures/*/images/* build/cub-scout-adventures/index.md
+# Shell globs omit missing files; also stage confirmed badge removals.
+git add -u -- 'build/merit-badges/*.json'
 
 # Check if there are changes
 if git diff --staged --quiet; then

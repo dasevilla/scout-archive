@@ -8,6 +8,7 @@ import os
 import json
 import subprocess
 import glob
+import sys
 from datetime import datetime
 
 
@@ -18,14 +19,27 @@ def get_badge_files():
     return [f for f in json_files if not f.endswith("index.json")]
 
 
-def get_badge_name_from_file(file_path):
-    """Extract the badge name from a file path"""
+def get_badge_name_from_file(file_path, previous=False):
+    """Read a badge name from the working file or its previous Git version."""
     try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-            return data.get("name", os.path.basename(file_path))
-    except (json.JSONDecodeError, FileNotFoundError) as e:
-        print(f"Error loading {file_path}: {e}")
+        if previous:
+            result = subprocess.run(
+                ["git", "show", f"HEAD:{file_path}"],
+                capture_output=True,
+                text=True,
+                check=True,
+            )
+            data = json.loads(result.stdout)
+        else:
+            with open(file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        return data.get("name", os.path.basename(file_path))
+    except (
+        json.JSONDecodeError,
+        FileNotFoundError,
+        subprocess.CalledProcessError,
+    ) as e:
+        print(f"Error loading {file_path}: {e}", file=sys.stderr)
         return os.path.basename(file_path)
 
 
@@ -62,7 +76,15 @@ def get_file_changes():
     # Get list of modified files
     modified_output = (
         subprocess.run(
-            ["git", "diff", "--name-only", "build/merit-badges/*.json"],
+            [
+                "git",
+                "diff",
+                "HEAD",
+                "--diff-filter=M",
+                "--name-only",
+                "--",
+                "build/merit-badges/*.json",
+            ],
             capture_output=True,
             text=True,
         )
@@ -71,18 +93,25 @@ def get_file_changes():
     )
     modified = [f for f in modified_output if f]
 
-    # Get list of deleted files (tracked files not in current directory)
-    all_tracked = (
+    # Include deletions both before and after staging.
+    deleted_output = (
         subprocess.run(
-            ["git", "ls-files", "build/merit-badges/*.json"],
+            [
+                "git",
+                "diff",
+                "HEAD",
+                "--diff-filter=D",
+                "--name-only",
+                "--",
+                "build/merit-badges/*.json",
+            ],
             capture_output=True,
             text=True,
         )
         .stdout.strip()
         .split("\n")
     )
-    current_files = get_badge_files()
-    deleted = [f for f in all_tracked if f and f not in current_files]
+    deleted = [f for f in deleted_output if f]
 
     return added, modified, deleted
 
@@ -126,7 +155,7 @@ def compare_badge_files(file_path):
 
         return {"added": added_reqs, "removed": removed_reqs}
     except Exception as e:
-        print(f"Error comparing {file_path}: {e}")
+        print(f"Error comparing {file_path}: {e}", file=sys.stderr)
         return {"added": 0, "removed": 0}
 
 
@@ -137,7 +166,7 @@ def generate_report():
     # Get badge names
     added_badges = [get_badge_name_from_file(f) for f in added_files]
     modified_badges = [get_badge_name_from_file(f) for f in modified_files]
-    deleted_badges = []  # We can't get names from deleted files easily
+    deleted_badges = [get_badge_name_from_file(f, previous=True) for f in deleted_files]
 
     # Get detailed changes for modified badges
     modified_details = {}

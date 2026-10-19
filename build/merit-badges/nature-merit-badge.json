@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",
@@ -75,6 +76,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -101,6 +103,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -123,6 +126,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -149,6 +153,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Do ALL the requirements in FIVE of the following fields:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -165,6 +175,12 @@
           "node_kind": "instruction_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -192,6 +208,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -218,6 +235,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -250,6 +268,12 @@
           "node_kind": "instruction_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -277,6 +301,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -303,6 +328,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -331,6 +357,12 @@
           "node_kind": "instruction_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -358,6 +390,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -384,6 +417,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -410,6 +444,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -438,6 +473,12 @@
           "node_kind": "instruction_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -465,6 +506,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -487,6 +529,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -519,6 +562,12 @@
           "node_kind": "instruction_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -546,6 +595,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -568,6 +618,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -592,6 +643,12 @@
           "node_kind": "instruction_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -619,6 +676,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -645,6 +703,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -673,6 +732,12 @@
           "node_kind": "instruction_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -700,6 +765,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -719,9 +785,10 @@
               "label": "2",
               "text": "Do ONE of the following:",
               "requirement_path": "4.g.2",
-              "node_kind": "instruction_container",
-              "is_container": true,
-              "requires_response": false,
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -729,137 +796,146 @@
                 }
               ],
               "resources": [],
-              "sub_requirements": [
+              "sub_requirements": []
+            }
+          ]
+        },
+        {
+          "id": "13639",
+          "label": "a",
+          "text": "Collect and label the seeds of six plants OR the leaves of 12 plants.",
+          "requirement_path": "4.a-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Collect and label the seeds of six plants OR the leaves of 12 plants."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Science at Play: Preserving Fall Leaves (video)",
+              "url": "https://www.youtube.com/watch?v=06nhKenT410"
+            },
+            {
+              "title": "Harvesting & Saving Seeds! (video)",
+              "url": "https://www.youtube.com/watch?v=QqIoGe-m2OM"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13640",
+          "label": "b",
+          "text": "Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.",
+          "requirement_path": "4.b-2",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Plant Photography for Beginners (video)",
+              "url": "https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv"
+            },
+            {
+              "title": "How I Shot My First Plant Time-Lapse (video)",
+              "url": "https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "13642",
+          "label": "h",
+          "text": "Soils and Rocks. Do ALL of the following:",
+          "requirement_path": "4.h",
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
+          "content": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
                 {
-                  "id": "13639",
-                  "label": "a",
-                  "text": "Collect and label the seeds of six plants OR the leaves of 12 plants.",
-                  "requirement_path": "4.g.2.a",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
-                  "content": [
-                    {
-                      "type": "text",
-                      "value": "Collect and label the seeds of six plants OR the leaves of 12 plants."
-                    }
-                  ],
-                  "resources": [
-                    {
-                      "title": "Science at Play: Preserving Fall Leaves (video)",
-                      "url": "https://www.youtube.com/watch?v=06nhKenT410"
-                    },
-                    {
-                      "title": "Harvesting & Saving Seeds! (video)",
-                      "url": "https://www.youtube.com/watch?v=QqIoGe-m2OM"
-                    }
-                  ],
-                  "sub_requirements": []
-                },
-                {
-                  "id": "13640",
-                  "label": "b",
-                  "text": "Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.",
-                  "requirement_path": "4.g.2.b",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
-                  "content": [
-                    {
-                      "type": "text",
-                      "value": "Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos."
-                    }
-                  ],
-                  "resources": [
-                    {
-                      "title": "Plant Photography for Beginners (video)",
-                      "url": "https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv"
-                    },
-                    {
-                      "title": "How I Shot My First Plant Time-Lapse (video)",
-                      "url": "https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH"
-                    }
-                  ],
-                  "sub_requirements": []
-                },
-                {
-                  "id": "13642",
-                  "label": "h",
-                  "text": "Soils and Rocks. Do ALL of the following:",
-                  "requirement_path": "4.g.2.h",
-                  "node_kind": "instruction_container",
-                  "is_container": true,
-                  "requires_response": false,
-                  "content": [
-                    {
-                      "type": "element",
-                      "tag": "b",
-                      "attrs": {},
-                      "children": [
-                        {
-                          "type": "text",
-                          "value": "Soils and Rocks."
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "value": " Do ALL of the following:"
-                    }
-                  ],
-                  "resources": [],
-                  "sub_requirements": [
-                    {
-                      "id": "13643",
-                      "label": "1",
-                      "text": "Collect and identify three different types of soil that represent soils high in sand, clay and humus.",
-                      "requirement_path": "4.g.2.h.1",
-                      "node_kind": "action_requirement",
-                      "is_container": false,
-                      "requires_response": true,
-                      "content": [
-                        {
-                          "type": "text",
-                          "value": "Collect and identify three different types of soil that represent soils high in sand, clay and humus."
-                        }
-                      ],
-                      "resources": [
-                        {
-                          "title": "Layers of Soil | Soil Profile Formation (video)",
-                          "url": "https://www.youtube.com/watch?v=VTuL5Pa0gC0"
-                        }
-                      ],
-                      "sub_requirements": []
-                    },
-                    {
-                      "id": "13644",
-                      "label": "2",
-                      "text": "Collect and identify five different types of rocks from your area.",
-                      "requirement_path": "4.g.2.h.2",
-                      "node_kind": "action_requirement",
-                      "is_container": false,
-                      "requires_response": true,
-                      "content": [
-                        {
-                          "type": "text",
-                          "value": "Collect and identify five different types of rocks from your area."
-                        }
-                      ],
-                      "resources": [
-                        {
-                          "title": "Rockhounding 101: What to Look for on Your Next Adventure! (video)",
-                          "url": "https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno"
-                        },
-                        {
-                          "title": "Rock & Mineral Identification | It Can Be Easier Than You Think (video)",
-                          "url": "https://www.youtube.com/watch?v=mgld5jeYR04"
-                        }
-                      ],
-                      "sub_requirements": []
-                    }
-                  ]
+                  "type": "text",
+                  "value": "Soils and Rocks."
                 }
               ]
+            },
+            {
+              "type": "text",
+              "value": " Do ALL of the following:"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
+            {
+              "id": "13643",
+              "label": "1",
+              "text": "Collect and identify three different types of soil that represent soils high in sand, clay and humus.",
+              "requirement_path": "4.h.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Collect and identify three different types of soil that represent soils high in sand, clay and humus."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Layers of Soil | Soil Profile Formation (video)",
+                  "url": "https://www.youtube.com/watch?v=VTuL5Pa0gC0"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "13644",
+              "label": "2",
+              "text": "Collect and identify five different types of rocks from your area.",
+              "requirement_path": "4.h.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Collect and identify five different types of rocks from your area."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Rockhounding 101: What to Look for on Your Next Adventure! (video)",
+                  "url": "https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno"
+                },
+                {
+                  "title": "Rock & Mineral Identification | It Can Be Easier Than You Think (video)",
+                  "url": "https://www.youtube.com/watch?v=mgld5jeYR04"
+                }
+              ],
+              "sub_requirements": []
             }
           ]
         }
@@ -873,6 +949,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -903,6 +980,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -919,6 +1002,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -945,6 +1029,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -969,6 +1054,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -985,6 +1076,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1015,6 +1107,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

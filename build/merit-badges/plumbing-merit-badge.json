@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -35,6 +41,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -57,6 +64,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -74,18 +82,14 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
               "value": "Describe the safety precautions you must take when making home plumbing repairs."
             }
           ],
-          "resources": [
-            {
-              "title": "Plumbing Safety Tips (video)",
-              "url": "https://youtu.be/gyWrbmQp5a0?si=mSS8s25KUFkV39Z5"
-            }
-          ],
+          "resources": [],
           "sub_requirements": []
         }
       ]
@@ -98,18 +102,19 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
           "value": "Do the following:"
         }
       ],
-      "resources": [
-        {
-          "title": "How Your Home Plumbing Works (From Start to Finish)  (video)",
-          "url": "https://youtu.be/8jxRn-T_LCs?si=pwjNJvf0MCXM5gdY"
-        }
-      ],
+      "resources": [],
       "sub_requirements": [
         {
           "id": "13672",
@@ -119,6 +124,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -136,6 +142,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -155,6 +162,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -163,8 +171,8 @@
       ],
       "resources": [
         {
-          "title": "6 Essential Plumbing Hand Tools...and Others to Keep Around! (video)",
-          "url": "https://youtu.be/uppuvS8BShU?si=a2SBD-wzgASkoSy2"
+          "title": "Plumbing Tools List for a Better Toolbox (website w/ video)",
+          "url": "https://www.homedepot.com/c/ab/best-plumbing-tools/9ba683603be9fa5395fab901a62098bd"
         }
       ],
       "sub_requirements": []
@@ -177,6 +185,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -194,6 +203,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -216,13 +226,24 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do FOUR of the following, each under the supervision of a knowledgeable adult:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
           "value": "Do FOUR of the following, each under the supervision of a knowledgeable adult:"
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Types of Plumbing Pipes (website w/ video)",
+          "url": "https://www.homedepot.com/c/ab/types-of-plumbing-pipes/9ba683603be9fa5395fab90cf2ccbfa"
+        }
+      ],
       "sub_requirements": [
         {
           "id": "13682",
@@ -230,8 +251,14 @@
           "text": "Visit the plumbing section of a hardware store or home center and identify:",
           "requirement_path": "6.a",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Visit the plumbing section of a hardware store or home center and identify:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -239,122 +266,130 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13683",
-          "label": "1",
-          "text": "PVC pipe and fittings",
-          "requirement_path": "6.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "PVC pipe and fittings"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13684",
-          "label": "2",
-          "text": "CPVC pipe and fittings",
-          "requirement_path": "6.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "13683",
+              "label": "1",
+              "text": "PVC pipe and fittings",
+              "requirement_path": "6.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "PVC pipe and fittings"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "CPVC pipe and fittings"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13685",
-          "label": "3",
-          "text": "PEX pipe and fittings",
-          "requirement_path": "6.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "13684",
+              "label": "2",
+              "text": "CPVC pipe and fittings",
+              "requirement_path": "6.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "CPVC pipe and fittings"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "PEX pipe and fittings"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13686",
-          "label": "4",
-          "text": "Copper pipe and fittings",
-          "requirement_path": "6.4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "13685",
+              "label": "3",
+              "text": "PEX pipe and fittings",
+              "requirement_path": "6.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "PEX pipe and fittings"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Copper pipe and fittings"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13687",
-          "label": "5",
-          "text": "Steel pipe and fittings",
-          "requirement_path": "6.5",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "13686",
+              "label": "4",
+              "text": "Copper pipe and fittings",
+              "requirement_path": "6.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Copper pipe and fittings"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Steel pipe and fittings"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13688",
-          "label": "6",
-          "text": "Specialty plumbing tools",
-          "requirement_path": "6.6",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "13687",
+              "label": "5",
+              "text": "Steel pipe and fittings",
+              "requirement_path": "6.a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Steel pipe and fittings"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Specialty plumbing tools"
+              "id": "13688",
+              "label": "6",
+              "text": "Specialty plumbing tools",
+              "requirement_path": "6.a.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Specialty plumbing tools"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13689",
           "label": "b",
-          "text": "Cut, clean (debur), PVC or CPVC pipe; solvent weld at least three connections to include a coupling, tee, and elbow.",
+          "text": "Cut, clean (deburr), PVC or CPVC pipe; solvent weld at least three connections to include a coupling, tee, and elbow.",
           "requirement_path": "6.b",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
-              "value": "Cut, clean (debur), PVC or CPVC pipe; solvent weld at least three connections to include a coupling, tee, and elbow."
+              "value": "Cut, clean (deburr), PVC or CPVC pipe; solvent weld at least three connections to include a coupling, tee, and elbow."
             }
           ],
           "resources": [
@@ -373,18 +408,14 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
               "value": "Cut PEX pipe; make at least one connection using either a quick-connect fitting or a crimp fitting (using specialized tools)."
             }
           ],
-          "resources": [
-            {
-              "title": "How To Cut And Crimp Pex - From A Professional (video)",
-              "url": "https://youtu.be/vpnp3RayEPI?si=iieOezZIhF4ePAB-"
-            }
-          ],
+          "resources": [],
           "sub_requirements": []
         },
         {
@@ -395,6 +426,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -403,8 +435,8 @@
           ],
           "resources": [
             {
-              "title": "Copper Pipe Soldering—How To Solder for Beginners (video)",
-              "url": "https://youtu.be/TOtOpixWTXE"
+              "title": "How To Solder Copper Pipes (video)",
+              "url": "https://youtu.be/uZMLl-mffmo"
             }
           ],
           "sub_requirements": []
@@ -417,6 +449,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -425,8 +458,12 @@
           ],
           "resources": [
             {
-              "title": "Women's DIY Bathroom Remodel (video)",
-              "url": "https://youtu.be/hyTeVMYgRM0?si=Vjs95F0m6dK-Ae11"
+              "title": "How To Replace a Bathroom Faucet (video)",
+              "url": "https://youtube.com/shorts/ebPcojMsL5I"
+            },
+            {
+              "title": "How to Fix a Leaky Faucet (website w/ video)",
+              "url": "https://www.homedepot.com/c/ah/how-to-fix-a-leaky-faucet/9ba683603be9fa5395fab90ee6659fb"
             }
           ],
           "sub_requirements": []
@@ -439,6 +476,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -447,8 +485,8 @@
           ],
           "resources": [
             {
-              "title": "How To Install P-Trap And Bathroom Sink Drain Piping | Easy Installation For Beginners!   (video)",
-              "url": "https://youtu.be/OFui97xhln0?si=0j-wNeNigMTLVJHt"
+              "title": "How To Replace a Sink Trap (video)",
+              "url": "https://youtu.be/2befOMjA3ho"
             }
           ],
           "sub_requirements": []
@@ -461,18 +499,14 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
               "value": "Properly apply pipe thread tape to a pipe or a plumbing connector."
             }
           ],
-          "resources": [
-            {
-              "title": "How to Apply Teflon Tape Like a Plumbing Pro (video)",
-              "url": "https://youtu.be/KJoO87dW30U?si=zlN2wJ1V8ciBaLEt"
-            }
-          ],
+          "resources": [],
           "sub_requirements": []
         }
       ]
@@ -485,6 +519,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -493,12 +528,12 @@
       ],
       "resources": [
         {
-          "title": "Why Plumbing is the Best Job Ever (video)",
-          "url": "https://youtu.be/6cmAKvZScrQ?si=TbI4S2w6b0DMWN8A"
+          "title": "Plumbing Jobs Explained: From Odd Jobs to Owning a Small Business (video)",
+          "url": "https://youtu.be/vIr4tUV9YNk"
         },
         {
-          "title": "Plumbing Jobs Explained: From Odd Jobs to Owning a Small Business (video)",
-          "url": "https://youtu.be/vIr4tUV9YNk?si=Gq8NZD-MQVrOokGr"
+          "title": "Plumbers, Pipefitters, and Steamfitters (website)",
+          "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm"
         }
       ],
       "sub_requirements": []

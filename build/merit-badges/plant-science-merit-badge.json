@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -45,6 +46,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -75,6 +77,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -105,6 +108,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -139,6 +143,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -165,6 +170,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -195,6 +201,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -211,6 +223,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -241,6 +254,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -273,6 +287,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Choose ONE of the following options and complete each requirement:",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -289,6 +309,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -316,6 +342,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -342,6 +369,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -364,6 +392,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -390,6 +419,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -420,6 +450,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -437,6 +468,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -461,6 +493,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -483,6 +516,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -500,6 +534,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -522,6 +557,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -546,6 +582,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -563,6 +600,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -585,6 +623,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -611,6 +650,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -635,6 +675,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -652,6 +693,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -678,6 +720,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -700,6 +743,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -724,6 +768,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -746,6 +791,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -772,6 +818,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -802,6 +849,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -826,6 +874,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -848,6 +897,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -870,6 +920,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -894,6 +945,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -921,6 +978,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -943,6 +1001,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -973,6 +1032,12 @@
               "node_kind": "instruction_container",
               "is_container": true,
               "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do ONE of the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -989,6 +1054,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1019,6 +1085,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1041,6 +1108,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1063,6 +1131,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1087,6 +1156,12 @@
               "node_kind": "instruction_container",
               "is_container": true,
               "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -1103,6 +1178,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1125,6 +1201,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1147,6 +1224,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1171,6 +1249,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1188,6 +1267,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1212,6 +1292,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1229,6 +1310,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1251,6 +1333,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1273,6 +1356,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1299,6 +1383,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1323,6 +1408,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1340,6 +1426,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1362,6 +1449,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1384,6 +1472,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1410,6 +1499,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1434,6 +1524,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1451,6 +1542,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1481,6 +1573,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1503,6 +1596,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1520,6 +1614,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1546,6 +1641,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1570,6 +1666,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1596,6 +1693,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1618,6 +1716,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1648,6 +1747,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1676,6 +1776,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -1701,8 +1807,18 @@
               "text": "Visit a park, forest, Scout camp, or other natural area near your home. While you are there:",
               "requirement_path": "8.option-c.1",
               "node_kind": "action_requirement",
-              "is_container": false,
+              "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Visit a park, forest, Scout camp, or other natural area near your home.",
+                  "scope": "requirement"
+                },
+                {
+                  "text": "While you are there:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -1710,63 +1826,67 @@
                 }
               ],
               "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15322",
-              "label": "a",
-              "text": "Determine which species of plants are the largest and which are the most abundant. Note whether they cast shade on other plants.",
-              "requirement_path": "8.option-c.a",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
+              "sub_requirements": [
                 {
-                  "type": "text",
-                  "value": "Determine which species of plants are the largest and which are the most abundant. Note whether they cast shade on other plants."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15323",
-              "label": "b",
-              "text": "Using information from maps, textbooks, or the internet, describe the environmental factors that may influence the presence of plants on your site, including latitude, climate, air and soil temperature, soil type and pH, geology, hydrology, and topography.",
-              "requirement_path": "8.option-c.b",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
+                  "id": "15322",
+                  "label": "a",
+                  "text": "Determine which species of plants are the largest and which are the most abundant. Note whether they cast shade on other plants.",
+                  "requirement_path": "8.option-c.1.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Determine which species of plants are the largest and which are the most abundant. Note whether they cast shade on other plants."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
                 {
-                  "type": "text",
-                  "value": "Using information from maps, textbooks, or the internet, describe the environmental factors that may influence the presence of plants on your site, including latitude, climate, air and soil temperature, soil type and pH, geology, hydrology, and topography."
-                }
-              ],
-              "resources": [
+                  "id": "15323",
+                  "label": "b",
+                  "text": "Using information from maps, textbooks, or the internet, describe the environmental factors that may influence the presence of plants on your site, including latitude, climate, air and soil temperature, soil type and pH, geology, hydrology, and topography.",
+                  "requirement_path": "8.option-c.1.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Using information from maps, textbooks, or the internet, describe the environmental factors that may influence the presence of plants on your site, including latitude, climate, air and soil temperature, soil type and pH, geology, hydrology, and topography."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Environmental Factors Affecting Plant Growth  (website)",
+                      "url": "https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
                 {
-                  "title": "Environmental Factors Affecting Plant Growth  (website)",
-                  "url": "https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth"
+                  "id": "15324",
+                  "label": "c",
+                  "text": "Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad.",
+                  "requirement_path": "8.option-c.1.c",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
                 }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15324",
-              "label": "c",
-              "text": "Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad.",
-              "requirement_path": "8.option-c.c",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
             },
             {
               "id": "15353",
@@ -1776,6 +1896,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1798,6 +1919,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1824,6 +1946,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1846,6 +1969,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1868,6 +1992,12 @@
               "node_kind": "action_requirement",
               "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Do ALL of the requirements in ONE of the following alternatives:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -1884,6 +2014,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "element",
@@ -1910,6 +2041,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1932,6 +2064,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1949,6 +2082,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1966,6 +2100,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1979,10 +2114,11 @@
               "id": "15331",
               "label": "b",
               "text": "Transect Study",
-              "requirement_path": "8.option-c.b-2",
+              "requirement_path": "8.option-c.b",
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -2007,6 +2143,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2024,6 +2161,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2044,8 +2182,14 @@
               "text": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies.",
               "requirement_path": "8.option-c.3-3",
               "node_kind": "action_requirement",
-              "is_container": false,
+              "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "At each site, record observations about the soil and other influencing factors AND do the following.",
+                  "scope": "ambiguous"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -2053,65 +2197,69 @@
                 }
               ],
               "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15333",
-              "label": "a",
-              "text": "Identify each tree within 10 feet of the transect line.",
-              "requirement_path": "8.option-c.a-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
+              "sub_requirements": [
                 {
-                  "type": "text",
-                  "value": "Identify each tree within 10 feet of the transect line."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15334",
-              "label": "b",
-              "text": "Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree.",
-              "requirement_path": "8.option-c.b-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15337",
-              "label": "c",
-              "text": "Nested Plot",
-              "requirement_path": "8.option-c.c-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
+                  "id": "15333",
+                  "label": "a",
+                  "text": "Identify each tree within 10 feet of the transect line.",
+                  "requirement_path": "8.option-c.3-3.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "Nested Plot"
+                      "value": "Identify each tree within 10 feet of the transect line."
                     }
-                  ]
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15334",
+                  "label": "b",
+                  "text": "Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree.",
+                  "requirement_path": "8.option-c.3-3.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15337",
+                  "label": "c",
+                  "text": "Nested Plot",
+                  "requirement_path": "8.option-c.3-3.c",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Nested Plot"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
             },
             {
               "id": "15342",
@@ -2121,6 +2269,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2138,6 +2287,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2153,8 +2303,14 @@
               "text": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies.",
               "requirement_path": "8.option-c.3-4",
               "node_kind": "action_requirement",
-              "is_container": false,
+              "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "At each site, record observations about the soil and other influencing factors AND do the following.",
+                  "scope": "ambiguous"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -2162,108 +2318,113 @@
                 }
               ],
               "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15339",
-              "label": "a",
-              "text": "Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)",
-              "requirement_path": "8.option-c.a-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
+              "sub_requirements": [
                 {
-                  "type": "text",
-                  "value": "Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)"
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15340",
-              "label": "b",
-              "text": "Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas.",
-              "requirement_path": "8.option-c.b-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Tree Identification | Ask the Arborist (video)",
-                  "url": "https://youtu.be/7M4PUM_eIIQ"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15341",
-              "label": "c",
-              "text": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot.\nNote: If individual plants like ferns, grasses and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot.",
-              "requirement_path": "8.option-c.c-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot. "
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
+                  "id": "15339",
+                  "label": "a",
+                  "text": "Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)",
+                  "requirement_path": "8.option-c.3-4.a",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "Note:"
+                      "value": "Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)"
                     }
-                  ]
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
                 },
                 {
-                  "type": "text",
-                  "value": " If individual plants like ferns, grasses and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15344",
-              "label": "d",
-              "text": "Herbarium Visit",
-              "requirement_path": "8.option-c.d",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
+                  "id": "15340",
+                  "label": "b",
+                  "text": "Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas.",
+                  "requirement_path": "8.option-c.3-4.b",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "Herbarium Visit"
+                      "value": "Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas."
                     }
-                  ]
+                  ],
+                  "resources": [
+                    {
+                      "title": "Tree Identification | Ask the Arborist (video)",
+                      "url": "https://youtu.be/7M4PUM_eIIQ"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15341",
+                  "label": "c",
+                  "text": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) and all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot.\nNote: If individual plants like ferns, grasses, and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot.",
+                  "requirement_path": "8.option-c.3-4.c",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) and all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot. "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Note:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " If individual plants like ferns, grasses, and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot."
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "15344",
+                  "label": "d",
+                  "text": "Herbarium Visit",
+                  "requirement_path": "8.option-c.3-4.d",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Herbarium Visit"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
             },
             {
               "id": "15345",
@@ -2273,6 +2434,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2295,6 +2457,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2312,6 +2475,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2334,6 +2498,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2356,6 +2521,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -2380,6 +2546,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2397,6 +2564,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2414,6 +2582,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -2435,6 +2604,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -35,6 +41,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -57,6 +64,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -65,8 +73,8 @@
           ],
           "resources": [
             {
-              "title": "The Emergency First Aid Kit for Woodworkers Need! (video)",
-              "url": "https://youtu.be/A0EmfREhgRw?si=fh9F6uKkRvb4ogza"
+              "title": "Safety in Woodworking | Woodworking (video)",
+              "url": "https://youtu.be/GQkUbdE3VS8?si=EpcwqUnpU9BDS6Cz"
             }
           ],
           "sub_requirements": []
@@ -79,6 +87,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -98,6 +107,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -114,6 +129,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -136,13 +152,23 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
               "value": "Collect and label blocks of six kinds of wood useful in woodworking. Describe the chief qualities of each. Give the best uses of each."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Types of Plywood (website w/ video)",
+              "url": "https://www.homedepot.com/c/ab/types-of-plywood/9ba683603be9fa5395fab909d37f448"
+            },
+            {
+              "title": "Types of Lumber (website w/ video)",
+              "url": "https://www.homedepot.com/c/ab/types-of-lumber/9ba683603be9fa5395fab90567851db"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -155,6 +181,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -171,6 +203,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -193,6 +226,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -217,6 +251,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -226,11 +261,11 @@
       "resources": [
         {
           "title": "Build This Simple Wooden Tool Box - Hand Saw And A Hammer (video)",
-          "url": "https://youtu.be/xV6ql13lfjw?si=02XiV7e925ictjOt"
+          "url": "https://youtu.be/xV6ql13lfjw"
         },
         {
-          "title": "How to Make a Bench Hook (video)",
-          "url": "https://youtu.be/3WIjpz9Ut1c?si=ngE7zV5uIDXLN10w"
+          "title": "Learn How to Mark, Measure and Cut Wood (video)",
+          "url": "https://youtube.com/shorts/F202Whnx27M"
         }
       ],
       "sub_requirements": []
@@ -243,6 +278,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -260,6 +296,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do TWO of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -276,6 +318,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -302,6 +345,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -324,6 +368,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -346,6 +391,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -356,10 +402,6 @@
             {
               "title": "The Special Wooden Box / Invisible Wooden Hinge - Using Basic Tools / Dovetail Joints (video)",
               "url": "https://youtu.be/Syv3JzRXld8?si=LG_MXwk4-tBuDBgK"
-            },
-            {
-              "title": "An Absurd Number of Wood Box Making Tips & Tricks (video)",
-              "url": "https://youtu.be/TazBJ5MSMgc?si=ulffNFnBiQ-I22fi"
             }
           ],
           "sub_requirements": []
@@ -367,15 +409,16 @@
         {
           "id": "9815",
           "label": "e",
-          "text": "Help make wooden toys for underprivileged children OR help carry out a woodworking service project approved by your counselor for a charitable organization.",
+          "text": "Help make wooden toys for children OR help carry out a woodworking service project approved by your counselor for a charitable organization.",
           "requirement_path": "6.e",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
-              "value": "Help make wooden toys for underprivileged children OR help carry out a woodworking service project approved by your counselor for a charitable organization."
+              "value": "Help make wooden toys for children OR help carry out a woodworking service project approved by your counselor for a charitable organization."
             }
           ],
           "resources": [
@@ -396,6 +439,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -404,16 +448,12 @@
       ],
       "resources": [
         {
-          "title": "A Day @ AWC : Careers in the Wood Industry (video)",
-          "url": "https://youtu.be/lPTR2xdIz9M?si=pyFe8tLbhOh0zqT3"
+          "title": "A Day at AWC: Careers in the Wood Industry (video)",
+          "url": "https://youtu.be/lPTR2xdIz9M"
         },
         {
-          "title": "Kayleen McCabe - Her Career in Woodworking (video)",
-          "url": "https://youtu.be/NBHhOMEs9Sk?si=JNOrbPzgNwLd6TK9"
-        },
-        {
-          "title": "A Total Beginner's Guide to Woodworking (video)",
-          "url": "https://youtu.be/zCNgrOR8FEU?si=U9HEuwvA3fi3iqOn"
+          "title": "Kayleen McCabe—Her Career in Woodworking (video)",
+          "url": "https://youtu.be/NBHhOMEs9Sk"
         }
       ],
       "sub_requirements": []

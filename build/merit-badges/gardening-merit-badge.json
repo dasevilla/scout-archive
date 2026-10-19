@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -35,6 +41,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -43,8 +50,8 @@
           ],
           "resources": [
             {
-              "title": "How to Be Safe in the Garden (video)",
-              "url": "https://youtu.be/XWNaWVOar3Q?si=5bJv6elbMcRZ92oX"
+              "title": "Garden Safety Tips (video)",
+              "url": "https://youtu.be/SgddPiUf61A"
             }
           ],
           "sub_requirements": []
@@ -57,6 +64,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -81,6 +89,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following, and discuss your observations throughout the process with your counselor:",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -97,6 +111,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -105,8 +120,16 @@
           ],
           "resources": [
             {
-              "title": "Seed Starting 101 (video)",
-              "url": "https://youtu.be/bRWac1OpxPY?si=h96A-L4r9Yb5Qcy3"
+              "title": "How To Start Seeds at Home (video)",
+              "url": "https://youtube.com/shorts/7lZjUM__0lg"
+            },
+            {
+              "title": "How To Grow Cucumbers (video)",
+              "url": "https://youtu.be/BFhUmQyL4Bo"
+            },
+            {
+              "title": "How To Grow Asparagus (video)",
+              "url": "https://youtu.be/RowLz52q8Og"
             }
           ],
           "sub_requirements": []
@@ -119,6 +142,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -127,8 +151,12 @@
           ],
           "resources": [
             {
-              "title": "How to Start Seeds Indoors (video)",
-              "url": "https://youtu.be/kcLMLyTAKmo?si=Suj-BOnu6B6-ELxu"
+              "title": "How To Plant Flowers (video)",
+              "url": "https://youtu.be/P82I3knYoqY"
+            },
+            {
+              "title": "How To Plant & Grow Sunflowers (video)",
+              "url": "https://youtu.be/Yv0MPxzFCvs"
             }
           ],
           "sub_requirements": []
@@ -143,6 +171,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Give the nutritional value of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -159,6 +193,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -189,6 +224,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -198,15 +234,15 @@
           "resources": [
             {
               "title": "Lettuce (video)",
-              "url": "https://youtu.be/kzX-0rUbkOo?si=9hpUmjCR-dFy9sTi"
+              "url": "https://youtu.be/kzX-0rUbkOo"
             },
             {
-              "title": "Tomatoes (video)",
-              "url": "https://youtu.be/niTBMlWtW5w?si=gksvt0kr-ZljJtEh"
+              "title": "Tomato Health Benefits! (video)",
+              "url": "https://youtu.be/M4T3bGDEyHY"
             },
             {
               "title": "Cucumbers (video)",
-              "url": "https://youtu.be/MVXr7HEMQMU?si=2fpKBoE4NAxMTNdx"
+              "url": "https://youtu.be/MVXr7HEMQMU"
             }
           ],
           "sub_requirements": []
@@ -219,6 +255,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -227,16 +264,16 @@
           ],
           "resources": [
             {
-              "title": "Grapes (video)",
-              "url": "https://youtu.be/NLS15CrmEYU?si=6Sl4-RSS8dd2d0BS"
+              "title": "Are Green Grapes Good for You? See 6 Reasons (video)",
+              "url": "https://youtu.be/SIDYB6e0Kxc"
             },
             {
               "title": "Apples (video)",
-              "url": "https://youtu.be/0yEPKXlYQqQ?si=MLy5YBr_XZ34hQEN"
+              "url": "https://youtu.be/0yEPKXlYQqQ"
             },
             {
               "title": "Oranges (video)",
-              "url": "https://youtu.be/DkxhGscNC18?si=iny8kROTvx7-PKkq&t=1"
+              "url": "https://youtu.be/DkxhGscNC18&t=1"
             }
           ],
           "sub_requirements": []
@@ -251,6 +288,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -273,6 +311,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -295,6 +334,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -321,6 +361,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -329,12 +370,12 @@
       ],
       "resources": [
         {
-          "title": "5 Organic Methods to Control Pests in Your Garden, Finally a Way to Fight Back! (video)",
-          "url": "https://youtu.be/JXEtmKRnMZk?si=itMLTvAvBfDXA8w4"
+          "title": "Be a Bug Detective (video)",
+          "url": "https://youtu.be/6RcI869zno4"
         },
         {
-          "title": "7 Pests You Probably Have in Your Garden (and What to Do) (video)",
-          "url": "https://youtu.be/em5t8bScq9s?si=kj3Qye8wAYMEvWhA"
+          "title": "Good Bugs vs Bad Bugs: What's in Your Garden? (video)",
+          "url": "https://youtu.be/K5hz_B0-LXc"
         }
       ],
       "sub_requirements": []
@@ -347,6 +388,16 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following and record weekly observations.",
+          "scope": "ambiguous"
+        },
+        {
+          "text": "Discuss the results of your project with your counselor.",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -363,6 +414,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -371,8 +423,8 @@
           ],
           "resources": [
             {
-              "title": "5 Minute Compost Bin (video)",
-              "url": "https://youtu.be/B43nL_xGs5Q?si=mLxGeUVlKRMG2T9n"
+              "title": "Build a Compost Bin That Turns Yard Waste Into Soil (video)",
+              "url": "https://youtu.be/V2eKYvKgTOI"
             }
           ],
           "sub_requirements": []
@@ -380,15 +432,16 @@
         {
           "id": "13422",
           "label": "b",
-          "text": "Build a vermipost bin (worm compost bin) and maintain it for 90 days.",
+          "text": "Build a vermicompost bin (worm compost bin) and maintain it for 90 days.",
           "requirement_path": "8.b",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
-              "value": "Build a vermipost bin (worm compost bin) and maintain it for 90 days."
+              "value": "Build a vermicompost bin (worm compost bin) and maintain it for 90 days."
             }
           ],
           "resources": [
@@ -407,6 +460,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -415,12 +469,12 @@
           ],
           "resources": [
             {
-              "title": "Hydroponics Bucket Grower for UNDER $40! (video)",
-              "url": "https://youtu.be/JZCNd4THUhs?si=9vDD-oMODBjJM8-z"
+              "title": "How To Grow an Indoor Hydroponic Garden (video)",
+              "url": "https://youtu.be/LJuh6VGEfPc"
             },
             {
-              "title": "How To Build Your Own Hydroponics System (video)",
-              "url": "https://youtu.be/Z_3ccmK6NVM?si=e0HLkGdP-M1otv22"
+              "title": "Hydroponics At Home (video)",
+              "url": "https://youtu.be/hBzrclNT4PI"
             }
           ],
           "sub_requirements": []
@@ -433,6 +487,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -455,6 +510,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -463,8 +519,12 @@
           ],
           "resources": [
             {
-              "title": "Setting Up Your Honey Super (video)",
-              "url": "https://youtu.be/TGdH4vtR3JM?si=o8S51hqQASjVsbxc"
+              "title": "Adding a Second Super (video)",
+              "url": "https://youtu.be/q9jT2z0a5pA"
+            },
+            {
+              "title": "Honey Harvesting: Honey out of the Hive (website)",
+              "url": "https://blogs.ifas.ufl.edu/orangeco/2022/11/29/honey-harvesting-honey-out-of-the-hive"
             }
           ],
           "sub_requirements": []
@@ -477,6 +537,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -485,8 +546,16 @@
           ],
           "resources": [
             {
-              "title": "Start a Garden | Step-by-Step | Gardening Tips (video)",
-              "url": "https://youtu.be/EPmV8iqZIps?si=OsN9RZoNPdfpWJxb"
+              "title": "The Secret to a Garden That Produces All Summer Long (video)",
+              "url": "https://youtu.be/zpkz8ckO6Pc"
+            },
+            {
+              "title": "How To Get Started Growing Organic Garden (video)",
+              "url": "https://youtu.be/C6pvLVfEmKk"
+            },
+            {
+              "title": "How To Have a Weed-Free Garden (video)",
+              "url": "https://youtu.be/dTsWMZIEr6M"
             }
           ],
           "sub_requirements": []
@@ -501,6 +570,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -517,6 +592,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -527,6 +603,10 @@
             {
               "title": "Gardener - Career Spotlight (video)",
               "url": "https://youtu.be/RVIvWuZ-TUk?si=Iyu26yzBvJHanASD"
+            },
+            {
+              "title": "Grounds Maintenance Workers (website w/ video)",
+              "url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/grounds-maintenance-workers.htm"
             }
           ],
           "sub_requirements": []
@@ -539,6 +619,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

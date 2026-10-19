@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -46,6 +52,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -66,8 +73,18 @@
           "text": "Using a chart, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 1(a) (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. Discuss your findings with your counselor.",
           "requirement_path": "1.b",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Using a chart, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 1(a) (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below.",
+              "scope": "children"
+            },
+            {
+              "text": "Discuss your findings with your counselor.",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -75,501 +92,543 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14544",
-          "label": "1",
-          "text": "Home stovetop or oven fire",
-          "requirement_path": "1.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Home stovetop or oven fire"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Put Out a Stovetop Fire (video)",
-              "url": "https://youtu.be/AFwkGTEles8"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14555",
-          "label": "2",
-          "text": "Home flammable liquid fire",
-          "requirement_path": "1.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Home flammable liquid fire"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Flammable Liquids (video)",
-              "url": "https://youtu.be/ofH8KxvtfZw"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14558",
-          "label": "3",
-          "text": "Gas leak in or near a home or with outside cooking",
-          "requirement_path": "1.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Gas leak in or near a home or with outside cooking"
-            }
-          ],
-          "resources": [
-            {
-              "title": "What to Do If You Smell Gas (video)",
-              "url": "https://youtu.be/RPJGdDOeGx0?si=1sYjSYZy3Hn1xwUW"
+              "id": "14544",
+              "label": "1",
+              "text": "Home stovetop or oven fire",
+              "requirement_path": "1.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Home stovetop or oven fire"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Put Out a Stovetop Fire (video)",
+                  "url": "https://youtu.be/AFwkGTEles8"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Turn Off Main Gas Valve (video)",
-              "url": "https://youtu.be/W8OKKu0dVUA"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14559",
-          "label": "4",
-          "text": "Food poisoning",
-          "requirement_path": "1.4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Food poisoning"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Stomach Flu and Food Poisoning (video)",
-              "url": "https://youtu.be/VKw0cpNLALI?si=c2nZIN0OgYjoKABA"
+              "id": "14555",
+              "label": "2",
+              "text": "Home flammable liquid fire",
+              "requirement_path": "1.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Home flammable liquid fire"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Flammable Liquids (video)",
+                  "url": "https://youtu.be/ofH8KxvtfZw"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Safe Food Handling (video)",
-              "url": "https://www.youtube.com/watch?v=nf4R6XHCU4Q"
+              "id": "14558",
+              "label": "3",
+              "text": "Gas leak in or near a home or with outside cooking",
+              "requirement_path": "1.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Gas leak in or near a home or with outside cooking"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What to Do If You Smell Gas (video)",
+                  "url": "https://youtu.be/RPJGdDOeGx0?si=1sYjSYZy3Hn1xwUW"
+                },
+                {
+                  "title": "How to Turn Off Main Gas Valve (video)",
+                  "url": "https://youtu.be/W8OKKu0dVUA"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Know If You Have Food Poisoning (video)",
-              "url": "https://youtu.be/U7yq-GwbcgE"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14560",
-          "label": "5",
-          "text": "Automobile crash",
-          "requirement_path": "1.5",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Automobile crash"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Responding to a Car Crash (video)",
-              "url": "https://youtu.be/uMAgxMFjz6A?si=HSF5Su0SyabxF-Rl"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14561",
-          "label": "6",
-          "text": "Vehicle stalled in the desert",
-          "requirement_path": "1.6",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Vehicle stalled in the desert"
-            }
-          ],
-          "resources": [
-            {
-              "title": "A Desert Survival Experience (video)",
-              "url": "https://youtu.be/Do2DSJwMpVw"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14562",
-          "label": "7",
-          "text": "Vehicle trapped in a blizzard",
-          "requirement_path": "1.7",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Vehicle trapped in a blizzard"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Survive A Car Stranding in Winter (video)",
-              "url": "https://youtu.be/QU-VXl7eqcg"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14563",
-          "label": "8",
-          "text": "Backcountry injury",
-          "requirement_path": "1.8",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Backcountry injury"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Patient Assessment (video)",
-              "url": "https://youtu.be/hXQAmx2AYIk?si=BAUtTIDcUUVTWFu2"
+              "id": "14559",
+              "label": "4",
+              "text": "Food poisoning",
+              "requirement_path": "1.b.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Food poisoning"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Stomach Flu and Food Poisoning (video)",
+                  "url": "https://youtu.be/VKw0cpNLALI?si=c2nZIN0OgYjoKABA"
+                },
+                {
+                  "title": "Safe Food Handling (video)",
+                  "url": "https://www.youtube.com/watch?v=nf4R6XHCU4Q"
+                },
+                {
+                  "title": "How to Know If You Have Food Poisoning (video)",
+                  "url": "https://youtu.be/U7yq-GwbcgE"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Review of Traumatic Injuries with Wilderness First Aid (video)",
-              "url": "https://youtu.be/QK8rf9Q9zKQ?si=bDXzfaKi9A-gom9v"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14564",
-          "label": "9",
-          "text": "Boating or water accident",
-          "requirement_path": "1.9",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Boating or water accident"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Preventing and Managing Boating Accidents (website)",
-              "url": "https://www.boat-ed.com/indiana/studyGuide/If-You-Capsize-Swamp-or-Fall-Overboard/10101602_35419/"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14545",
-          "label": "10",
-          "text": "Toxic chemical spills and releases",
-          "requirement_path": "1.10",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Toxic chemical spills and releases"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Chemical Spill Preparedness (video)",
-              "url": "https://www.youtube.com/watch?v=K30BBRgt7BM"
+              "id": "14560",
+              "label": "5",
+              "text": "Automobile crash",
+              "requirement_path": "1.b.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Automobile crash"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Responding to a Car Crash (video)",
+                  "url": "https://youtu.be/uMAgxMFjz6A?si=HSF5Su0SyabxF-Rl"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Household Chemical Emergencies (website)",
-              "url": "https://www.ready.gov/household-chemical-emergencies"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14546",
-          "label": "11",
-          "text": "Nuclear power plant emergency",
-          "requirement_path": "1.11",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Nuclear power plant emergency"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Stay Safe in a Nuclear Emergency (video)",
-              "url": "https://youtu.be/tqDna6z4F9c"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14547",
-          "label": "12",
-          "text": "Fire or explosion in a public place",
-          "requirement_path": "1.12",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Fire or explosion in a public place"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Survive a Building Explosion (video)",
-              "url": "https://youtu.be/uXG31J68dcY"
+              "id": "14561",
+              "label": "6",
+              "text": "Vehicle stalled in the desert",
+              "requirement_path": "1.b.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Vehicle stalled in the desert"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "A Desert Survival Experience (video)",
+                  "url": "https://youtu.be/Do2DSJwMpVw"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Survive a Burning High-Rise (video)",
-              "url": "https://youtu.be/P8Naa4pzDdo?si=PAoTGFJgturiTeSm"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14548",
-          "label": "13",
-          "text": "Violence in a public place",
-          "requirement_path": "1.13",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Violence in a public place"
-            }
-          ],
-          "resources": [
-            {
-              "title": "A Navy SEAL Reveals How to Survive an Active Shooter (video)",
-              "url": "https://youtu.be/5pgxzPoxv4w?si=jqbo9MdHYyjz6bLP"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14549",
-          "label": "14",
-          "text": "Wildland fire",
-          "requirement_path": "1.14",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Wildland fire"
-            }
-          ],
-          "resources": [
-            {
-              "title": "If You Are Trapped by a Wildfire (video)",
-              "url": "https://youtu.be/fhiaP01lfhk"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14550",
-          "label": "15",
-          "text": "Avalanche (snowslide or rockslide)",
-          "requirement_path": "1.15",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Avalanche (snowslide or rockslide)"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Survive an Avalanche (video)",
-              "url": "https://youtu.be/levLNlIEViI"
+              "id": "14562",
+              "label": "7",
+              "text": "Vehicle trapped in a blizzard",
+              "requirement_path": "1.b.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Vehicle trapped in a blizzard"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "6 Critical Tips You Need To Know in Order To Survive Being Stranded in Your Car in Freezing Temperatures (website w/ video)",
+                  "url": "https://readynutrition.com/resources/6-critical-tips-you-need-to-know-in-order-to-survive-being-stranded-in-your-car-in-freezing-temperatures_06012018/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How to Survive a Landslide (video)",
-              "url": "https://youtu.be/9j_StYqR_Pg"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14551",
-          "label": "16",
-          "text": "Earthquake",
-          "requirement_path": "1.16",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Earthquake"
-            }
-          ],
-          "resources": [
-            {
-              "title": "10 Ways to Survive an Earthquake (video)",
-              "url": "https://youtu.be/hWSu4l1RxLg?si=jO2xOSPR0uj-ZtE6"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14552",
-          "label": "17",
-          "text": "Tsunami",
-          "requirement_path": "1.17",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Tsunami"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Survive a Tsunami (video)",
-              "url": "https://youtu.be/PSMXZPjJwAw"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14553",
-          "label": "18",
-          "text": "Major flooding or a flash flood with water outage",
-          "requirement_path": "1.18",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Major flooding or a flash flood with water outage"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Survive a Flood (video)",
-              "url": "https://youtu.be/rV1iqRD9EKY"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14554",
-          "label": "19",
-          "text": "Hurricane with power outage",
-          "requirement_path": "1.19",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Hurricane with power outage"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Survive a Hurricane (video)",
-              "url": "https://youtu.be/TqZ3M7xh8jM"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14556",
-          "label": "20",
-          "text": "Tornado",
-          "requirement_path": "1.20",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Tornado"
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Survive a Tornado (video)",
-              "url": "https://youtu.be/donE6SxyHXw?si=cHfxJ0HuR3lLgw9S"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14557",
-          "label": "21",
-          "text": "Lightning storm",
-          "requirement_path": "1.21",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Lightning storm"
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Happens When You Are Struck by Lightning (video)",
-              "url": "https://youtu.be/T3BT-cnHjik"
+              "id": "14563",
+              "label": "8",
+              "text": "Backcountry injury",
+              "requirement_path": "1.b.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Backcountry injury"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Patient Assessment (video)",
+                  "url": "https://youtu.be/hXQAmx2AYIk?si=BAUtTIDcUUVTWFu2"
+                },
+                {
+                  "title": "Review of Traumatic Injuries with Wilderness First Aid (video)",
+                  "url": "https://youtu.be/QK8rf9Q9zKQ?si=bDXzfaKi9A-gom9v"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Backcountry Lightning Safety (website)",
-              "url": "https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/"
+              "id": "14564",
+              "label": "9",
+              "text": "Boating or water accident",
+              "requirement_path": "1.b.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Boating or water accident"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Preventing and Managing Boating Accidents (website)",
+                  "url": "https://www.boat-ed.com/indiana/studyGuide/If-You-Capsize-Swamp-or-Fall-Overboard/10101602_35419/"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14545",
+              "label": "10",
+              "text": "Toxic chemical spills and releases",
+              "requirement_path": "1.b.10",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Toxic chemical spills and releases"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Chemical Spill Preparedness (video)",
+                  "url": "https://www.youtube.com/watch?v=K30BBRgt7BM"
+                },
+                {
+                  "title": "Household Chemical Emergencies (website)",
+                  "url": "https://www.ready.gov/household-chemical-emergencies"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14546",
+              "label": "11",
+              "text": "Nuclear power plant emergency",
+              "requirement_path": "1.b.11",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Nuclear power plant emergency"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Stay Safe in a Nuclear Emergency (video)",
+                  "url": "https://youtu.be/tqDna6z4F9c"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14547",
+              "label": "12",
+              "text": "Fire or explosion in a public place",
+              "requirement_path": "1.b.12",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Fire or explosion in a public place"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Survive a Building Explosion (video)",
+                  "url": "https://youtu.be/uXG31J68dcY"
+                },
+                {
+                  "title": "How to Survive a Burning High-Rise (video)",
+                  "url": "https://youtu.be/P8Naa4pzDdo?si=PAoTGFJgturiTeSm"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14548",
+              "label": "13",
+              "text": "Violence in a public place",
+              "requirement_path": "1.b.13",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Violence in a public place"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Respond to an Active Shooter (video)",
+                  "url": "https://www.youtube.com/watch?v=sshDd_AgRAA&t=6s"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14549",
+              "label": "14",
+              "text": "Wildland fire",
+              "requirement_path": "1.b.14",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Wildland fire"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "If You Are Trapped by a Wildfire (video)",
+                  "url": "https://youtu.be/fhiaP01lfhk"
+                },
+                {
+                  "title": "How To Prepare for Wildfires (website)",
+                  "url": "https://www.homedepot.com/c/ai/how-to-prepare-for-wildfires/9ba683603be9fa5395fab90e9b6eb4f"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14550",
+              "label": "15",
+              "text": "Avalanche (snowslide or rockslide)",
+              "requirement_path": "1.b.15",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Avalanche (snowslide or rockslide)"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Survive an Avalanche (video)",
+                  "url": "https://youtu.be/levLNlIEViI"
+                },
+                {
+                  "title": "How to Survive a Landslide (video)",
+                  "url": "https://youtu.be/9j_StYqR_Pg"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14551",
+              "label": "16",
+              "text": "Earthquake",
+              "requirement_path": "1.b.16",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Earthquake"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "10 Ways To Survive an Earthquake (video)",
+                  "url": "https://youtu.be/hWSu4l1RxLg"
+                },
+                {
+                  "title": "How To Prepare for an Earthquake (website)",
+                  "url": "https://www.homedepot.com/c/ah/how-to-prepare-for-an-earthquake-/9ba683603be9fa5395fab90137077c1a"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14552",
+              "label": "17",
+              "text": "Tsunami",
+              "requirement_path": "1.b.17",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Tsunami"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Survive a Tsunami (video)",
+                  "url": "https://youtu.be/PSMXZPjJwAw"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14553",
+              "label": "18",
+              "text": "Major flooding or a flash flood with water outage",
+              "requirement_path": "1.b.18",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Major flooding or a flash flood with water outage"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Survive a Flood (video)",
+                  "url": "https://youtu.be/rV1iqRD9EKY"
+                },
+                {
+                  "title": "How To Prepare for a Flood (website w/ video)",
+                  "url": "https://www.homedepot.com/c/ah/how-to-prepare-for-a-flood/9ba683603be9fa5395fab90e40527b3"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14554",
+              "label": "19",
+              "text": "Hurricane with power outage",
+              "requirement_path": "1.b.19",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Hurricane with power outage"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Survive a Hurricane (video)",
+                  "url": "https://youtu.be/TqZ3M7xh8jM"
+                },
+                {
+                  "title": "How To Prepare for a Hurricane (website w/ video)",
+                  "url": "https://www.homedepot.com/c/ab/how-to-prepare-for-a-hurricane/9ba683603be9fa5395fab90b70dffd2"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14556",
+              "label": "20",
+              "text": "Tornado",
+              "requirement_path": "1.b.20",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Tornado"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Prepare for a Tornado (website)",
+                  "url": "https://www.homedepot.com/c/ab/how-to-prepare-for-a-tornado/9ba683603be9fa5395fab901359a067b"
+                },
+                {
+                  "title": "TERRIFYING Tornado Scenarios: What You Should Do (video)",
+                  "url": "https://youtu.be/CAjkJ2kSMmE"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "14557",
+              "label": "21",
+              "text": "Lightning storm",
+              "requirement_path": "1.b.21",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Lightning storm"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Happens When You Are Struck by Lightning (video)",
+                  "url": "https://youtu.be/T3BT-cnHjik"
+                },
+                {
+                  "title": "Backcountry Lightning Safety (website)",
+                  "url": "https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     },
@@ -581,6 +640,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -608,6 +673,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -634,13 +700,27 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
               "value": "Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Home Fire Safety Checklist (PDF)",
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Home%20Fire%20Safety%20Checklist.pdf"
+            },
+            {
+              "title": "Home Fire Escape Plan (PDF)",
+              "url": "https://www.redcross.org/content/dam/redcross/get-help/fire-safety/Home-Fire-Escape-Plan-English-Spanish.pdf"
+            },
+            {
+              "title": "Plan Your Escape: High-Rise Apartment Fire (video)",
+              "url": "https://www.youtube.com/watch?v=iOCx5ZQeLLU&t=2s"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -651,6 +731,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -684,6 +765,10 @@
             {
               "title": "Build a Kit (website)",
               "url": "https://www.ready.gov/kit"
+            },
+            {
+              "title": "Shelter in Place Drill Checklist (website)",
+              "url": "https://www.homedepot.com/c/ab/shelter-in-place-drill-checklist/9ba683603be9fa5395fab901b57e20ec"
             }
           ],
           "sub_requirements": []
@@ -698,6 +783,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -725,6 +816,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -762,6 +854,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -786,6 +879,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Show how you could save a person from the following dangerous situations without putting yourself in danger:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -813,6 +912,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -835,6 +935,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -857,6 +958,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -879,6 +981,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -907,6 +1010,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -934,6 +1043,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -956,6 +1066,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -978,6 +1089,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -991,15 +1103,11 @@
             },
             {
               "title": "Water Rescue Signaling (video)",
-              "url": "https://youtu.be/mQUXLU4bQkE?si=vlr7MfwEZ4DGzzpB"
+              "url": "https://youtu.be/mQUXLU4bQkE"
             },
             {
               "title": "How does an EPIRB work? (video)",
               "url": "https://youtu.be/xwbgU9envik"
-            },
-            {
-              "title": "PLB and EPIRB Emergency Beacons (video)",
-              "url": "https://youtu.be/CGLDG7n7g5U?si=AEWhOs7SVf-2zWCR"
             }
           ],
           "sub_requirements": []
@@ -1014,6 +1122,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",
@@ -1047,6 +1156,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1074,6 +1189,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1100,6 +1216,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1117,6 +1234,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1136,6 +1254,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1163,6 +1287,12 @@
           "node_kind": "action_requirement",
           "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Discuss with your counselor the duties that a Scout troop should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -1184,6 +1314,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1206,6 +1337,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1228,6 +1360,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1250,6 +1383,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1274,6 +1408,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1291,6 +1426,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1332,6 +1468,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1356,6 +1493,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",
@@ -1384,6 +1522,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1411,6 +1555,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1433,6 +1578,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1455,6 +1601,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

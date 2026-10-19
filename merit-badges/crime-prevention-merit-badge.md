@@ -33,7 +33,7 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
   - (b) Schools
 
     **Resources:** [Education Efforts Could Prevent Crime (video)](https://youtu.be/qvjG3lmM3Gk), [Preventing Crime with Education (video)](https://youtu.be/RkMHmdFPkI0?si=kNVJpoq5KCe6R8EC)
-  - (c) Neighborhood, social and civic groups, including youth groups
+  - (c) Neighborhood, social, and civic groups, including youth groups
 
     **Resources:** [Youth Programs Teach Conflict Resolution Skills (video)](https://youtu.be/lx2wS94nk_Q), [Youth Programs Reduce Crime (video)](https://youtu.be/rhk1Yo_mCvA?si=BtB_95Orw4SFKUOq)
   - (d) Private security
@@ -65,7 +65,7 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
       **Resources:** [What Is CPTED? (video)](https://youtu.be/p3UY1w1O3PA), [Designing Out Crime: CPTED (video)](https://youtu.be/CZ5sVtt9-8I)
   - (b) Conduct a security survey of a home, a neighborhood, a park, or a camp building with adult supervision and following youth protection guidelines using a security checklist in the *Crime Prevention* merit badge pamphlet or one approved by your counselor.
 
-    **Resources:** [Home Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf), [Camp Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Camp%20Security%20Checklists%20%231%20%232%2001%202026.pdf)
+    **Resources:** [Home Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Home%20Security%20Checklists%20%231%20%232.pdf), [Camp Security Checklists # 1 and # 2 (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Crime%20Prevention/Camp%20Security%20Checklists%20%231%20%232%2001%202026.pdf), [12 Ways to Protect Your Home While You're Away (video)](https://youtu.be/OJ3evO5eXEM), [How To Secure Your Home (website)](https://www.homedepot.com/c/ah/how-to-secure-your-home/9ba683603be9fa5395fab90180ad1aca)
   - (c) Use information from your survey for requirement 4(b) and the EDGE method to develop a lesson about how a family or Scouts can protect themselves from crime. Review your teaching plan with your counselor, then present your lesson to your family or to Scouts.
 
     **Resources:** [The EDGE Method of Teaching (PDF)](https://www.scouting.org/wp-content/uploads/2019/01/Teaching-Edge-Method.pdf)
@@ -84,7 +84,7 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
     **Resources:** [How To Report a Crime (video)](https://youtu.be/uPWW3S_LLT4), [How To Report a Crime—Public Safety Minute (video)](https://youtu.be/aMT6wlCOvEM)
   - (b) The warning signs for child abuse and domestic violence and how to report these situations
   - (c) The three R's of personal safety and protection and how to apply them
-  - (d) How reporting a crime can help law enforcement provide resources for crime victim
+  - (d) How reporting a crime can help law enforcement provide resources for crime victims
 
     **Resources:** [Importance of Reporting Crime (video)](https://youtu.be/vZbarQJTs1c)
 

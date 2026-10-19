@@ -13,7 +13,7 @@ By earning the Entrepreneurship merit badge, Scouts will learn about identifying
 
   **Resources:** [Why Entrepreneurs Are Important for the Economy (video)](https://youtu.be/KEuTpRkZqiY), [Why Entrepreneurship Is Important to the Economy (website)](https://www.investopedia.com/articles/personal-finance/101414/why-entrepreneurs-are-important-economy.asp)
 
-- (2) Explain to your counselor why having good skills in the following areas are important for an entrepreneur: communication, planning, organization, problem solving, decision making, basic math, adaptability, technical and social skills, teamwork, and leadership.
+- (2) Explain to your counselor why having good skills in the following areas is important for an entrepreneur: communication, planning, organization, problem solving, decision making, basic math, adaptability, technical and social skills, teamwork, and leadership.
 
   **Resources:** [The Key Skills of Successful Entrepreneurs (video)](https://youtu.be/iAWeIBUjRqQ), [The Entrepreneurial Mindset: From Kids to Entrepreneur (video)](https://youtu.be/JiGJttyiqFs), [6 Skills All Entrepreneurs Need (website)](https://online.hbs.edu/blog/post/entrepreneurial-skills)
 

@@ -37,7 +37,7 @@ Teeth do a lot more than just peek out from under that winning smile. They have 
   - (a) Name at least five instruments and five pieces of equipment a dentist uses.
 
     **Resources:** [12 Essential Dental Instruments Every Dentist Needs (video)](https://youtu.be/l8v6H9WAcGY), [Dental Tools Used During a Teeth Cleaning—EXPLAINED! (video)](https://youtu.be/YTNwRc-Rr2M)
-  - (b) With the help of a dentist, prepare a dental stone cast using a vibrator, a mixing bowl, a water measure, a plastic measure, model stone, and a spatula.
+  - (b) With the help of a dentist, prepare a dental stone cast using a dental vibrator, a mixing bowl, a water measure, a plastic measure, model stone, and a spatula.
 
     **Resources:** [Mixing and Pouring Dental Stone (video)](https://youtu.be/HN1vdeA4TGs)
   - (c) Keep a record of everything you eat for three days. Circle those items that may provide the sugars that bacterial plaque needs to make acid. List snacks that you should avoid to help maintain the best oral health.

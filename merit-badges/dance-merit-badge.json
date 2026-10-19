@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -46,6 +52,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -90,6 +97,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",
@@ -123,6 +131,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Name and briefly describe SIX types or styles of dancing from the following list, noting if this is a dance that may be performed alone, if the dance generally requires a partner or group, or if it could be either a solo or partner dance.",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -150,6 +164,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -266,6 +281,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Research TWO of the types of dance you learned about in requirement 3 by doing the following for EACH type of dance you chose:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -293,6 +314,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -312,6 +334,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -339,6 +367,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -387,6 +416,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -414,6 +449,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -454,6 +490,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",

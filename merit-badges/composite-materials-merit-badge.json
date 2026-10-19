@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -30,15 +36,16 @@
         {
           "id": "14440",
           "label": "a",
-          "text": "Explain to your counselor the most likely hazards you may encounter while working with composite materials and what you should do to anticipate, mitigate, and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with composite materials.",
+          "text": "Explain to your counselor the most likely hazards you may encounter while working with composite materials and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with composite materials.",
           "requirement_path": "1.a",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
-              "value": "Explain to your counselor the most likely hazards you may encounter while working with composite materials and what you should do to anticipate, mitigate, and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with composite materials."
+              "value": "Explain to your counselor the most likely hazards you may encounter while working with composite materials and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with composite materials."
             }
           ],
           "resources": [
@@ -61,6 +68,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -87,6 +95,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -111,6 +120,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -127,6 +142,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -153,6 +169,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -177,6 +194,16 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe how composite materials are made.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Then do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -198,6 +225,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -220,6 +248,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -242,6 +271,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -261,6 +291,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "With your parent or guardian's permission and your counselor's approval, do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -277,6 +313,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -294,6 +331,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -313,6 +351,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -342,6 +386,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -374,6 +419,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -391,6 +437,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -410,6 +457,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -426,6 +479,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -456,6 +510,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

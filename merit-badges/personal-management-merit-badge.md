@@ -34,7 +34,7 @@ Personal management is about mapping a plan for your life that will involve sett
   - (b) Compare expected income with expected expenses.
   - (1) If expenses exceed budget income, determine steps to balance your budget.
   - (2) If income exceeds budget expenses, state how you would use the excess money (new goal, savings).
-  - (c) Track and record your actual income, expenses, and savings for 13 consecutive weeks (the same 13-week period for which you budgeted.) (You may use the forms provided in the *Personal Management* merit badge pamphlet, devise your own, or use a computer-generated version.) When complete, present the records showing the results to your counselor.
+  - (c) Track and record your actual income, expenses, and savings for 13 consecutive weeks (the same 13-week period for which you budgeted). (You may use the forms provided in the *Personal Management* merit badge pamphlet, devise your own, or use a computer-generated version.) When complete, present the records showing the results to your counselor.
   - (d) Compare your budget with your actual income and expenses to understand when your budget worked and when it did not work. With your counselor, discuss what you might do differently the next time.
 
 - (3) Discuss with your counselor FIVE of the following concepts:

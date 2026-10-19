@@ -33,33 +33,33 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
 
     **Resources:** [Free Trade Agreement (video)](https://youtu.be/1hY8OhTH6ag), [What Is Free Trade? (video)](https://youtu.be/UGLPiyeQVxU), [Balance of Payments & Foreign Reserves Explained (video)](https://youtu.be/QrAwFXiwPnQ), [What Is Currency? Exchange Rates (video)](https://youtu.be/98U_Vb8rQfs), [Free Trade and Protectionism (video)](https://youtu.be/_tmPnH-JkNg)
   - (c) Select TWO of the following organizations and describe their role in the world.
-  - (1) United Nations and United Nations Children's Fund (UNICEF)
+    - (1) United Nations and United Nations Children's Fund (UNICEF)
 
-    **Resources:** [What Is the United Nations? (video)](https://youtu.be/Ttoad811t88), [What Is UNICEF? (video)](https://youtu.be/cx0QyKoyU6A)
-  - (2) International Court of Justice (The World Court)
+      **Resources:** [What Is the United Nations? (video)](https://youtu.be/Ttoad811t88), [What Is UNICEF? (video)](https://youtu.be/cx0QyKoyU6A)
+    - (2) International Court of Justice (The World Court)
 
-    **Resources:** [What Is the International Court of Justice? (video)](https://youtu.be/kJKgYZfeMkE), [International Court of Justice (website)](https://www.icj-cij.org/home)
-  - (3) International Criminal Police Organization (Interpol)
+      **Resources:** [What Is the International Court of Justice? (video)](https://youtu.be/kJKgYZfeMkE), [International Court of Justice (website)](https://www.icj-cij.org/home)
+    - (3) International Criminal Police Organization (Interpol)
 
-    **Resources:** [What Is The INTERPOL? (video)](https://youtu.be/nQ1iFMlw0KI), [INTERPOL (website)](https://www.interpol.int/)
-  - (4) World Organization of the Scout Movement
+      **Resources:** [What Is The INTERPOL? (video)](https://youtu.be/nQ1iFMlw0KI), [INTERPOL (website)](https://www.interpol.int/)
+    - (4) World Organization of the Scout Movement
 
-    **Resources:** [World Organization Scout Movement (WOSM) (video)](https://youtu.be/EEyM_ChN1yM), [World Scouting (website)](https://www.scout.org/)
-  - (5) World Health Organization (WHO)
+      **Resources:** [World Organization Scout Movement (WOSM) (video)](https://youtu.be/EEyM_ChN1yM), [World Scouting (website)](https://www.scout.org/)
+    - (5) World Health Organization (WHO)
 
-    **Resources:** [The WHO Explained (video)](https://youtu.be/qhvx5oxbYn0), [World Health Organization (WHO) (website)](https://www.who.int/)
-  - (6) Amnesty International
+      **Resources:** [The WHO Explained (video)](https://youtu.be/qhvx5oxbYn0), [World Health Organization (WHO) (website)](https://www.who.int/)
+    - (6) Amnesty International
 
-    **Resources:** [What Does Amnesty International Do? (video)](https://youtu.be/xLIndY8JuNk), [Amnesty International (website)](https://www.amnesty.org/en/)
-  - (7) International Federation of Red Cross and Red Crescent Societies (IFRC)
+      **Resources:** [What Does Amnesty International Do? (video)](https://youtu.be/xLIndY8JuNk), [Amnesty International (website)](https://www.amnesty.org/en/)
+    - (7) International Federation of Red Cross and Red Crescent Societies (IFRC)
 
-    **Resources:** [Together We Are the International Federation of Red Cross and Red Crescent Societies (video)](https://youtu.be/ReE835-d8vk), [IFRC (website)](https://www.ifrc.org/)
-  - (8) Cooperative for American Relief Everywhere (CARE)
+      **Resources:** [Together We Are the International Federation of Red Cross and Red Crescent Societies (video)](https://youtu.be/ReE835-d8vk), [IFRC (website)](https://www.ifrc.org/)
+    - (8) Cooperative for American Relief Everywhere (CARE)
 
-    **Resources:** [CARE International (video)](https://youtu.be/MfRlqpKo_t0), [CARE International (website)](https://www.care.org/)
-  - (9) European Union
+      **Resources:** [CARE International (video)](https://youtu.be/MfRlqpKo_t0), [CARE International (website)](https://www.care.org/)
+    - (9) European Union
 
-    **Resources:** [What Is the European Union? (video)](https://youtu.be/8G1cds52Ko0), [European Union (website)](https://european-union.europa.eu/index_en)
+      **Resources:** [What Is the European Union? (video)](https://youtu.be/8G1cds52Ko0), [European Union (website)](https://european-union.europa.eu/index_en)
 
 - (5) Do the following:
   - (a) Discuss the differences between constitutional and nonconstitutional governments.

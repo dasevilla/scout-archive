@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -40,6 +46,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -62,6 +69,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -86,6 +94,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -112,6 +121,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -149,6 +159,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -178,6 +194,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -200,6 +217,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -226,6 +244,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -248,6 +267,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -265,6 +285,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -291,6 +312,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -315,6 +337,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -345,6 +368,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Using the Scouting America buddy system, complete all of the requirements for ONE of the following options: Road Biking OR Trail or Mixed Surface Biking.",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -366,6 +395,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -398,6 +433,12 @@
               "node_kind": "action_requirement",
               "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Take a road safety test with your counselor and demonstrate the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -414,6 +455,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -440,6 +482,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -462,6 +505,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -484,6 +528,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -506,6 +551,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -530,6 +576,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -556,6 +603,12 @@
               "node_kind": "action_requirement",
               "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "After completing requirement (2) for the road biking option, do ONE of the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -572,6 +625,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -594,6 +648,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -620,6 +675,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:\n\nNote: These requirements may be completed using a mountain bike or other properly equipped, manually-powered cycle such as a gravel bike, tandem bike, hand-powered bike, recumbent bike, adult tricycle, or adaptive cycle.",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -678,6 +739,12 @@
               "node_kind": "action_requirement",
               "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Demonstrate the following mountain bike handling skills to your counselor:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -694,6 +761,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -720,6 +788,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -742,6 +811,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -778,6 +848,12 @@
               "node_kind": "action_requirement",
               "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Take a trail safety test with your counselor and demonstrate the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -794,6 +870,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -816,6 +893,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -838,6 +916,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -870,6 +949,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -896,6 +976,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -918,6 +999,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",

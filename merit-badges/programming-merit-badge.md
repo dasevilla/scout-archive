@@ -10,7 +10,7 @@ Programming merit badge will take you “behind the screen” for a look at the 
 ## Requirements
 
 - (1) **Safety.** Do the following:
-  - (a) View the Personal Safety Awareness "Digital Safety" video (with your parent or guardian's permission.)
+  - (a) View the Personal Safety Awareness "Digital Safety" video (with your parent or guardian's permission).
 
     **Resources:** [Scouting Digital Safety Video (video)](https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4)
   - (b) Discuss first aid and prevention for the types of injuries that could occur during programming activities, including repetitive stress injuries and eyestrain.
@@ -64,7 +64,7 @@ Programming merit badge will take you “behind the screen” for a look at the 
 
   - (a) Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
-    **Resources:** [Variety of Jobs for Computer Scientists (video)](https://youtu.be/2VpDcjFshJI), [9 Computer Coding Careers (website)](https://www.rasmussen.edu/degrees/technology/blog/programming-careers-for-coding-connoisseurs/), [Education Required to Become a Computer Programmer (website)](https://www.wgu.edu/career-guide/information-technology/computer-programmer-career.html)
+    **Resources:** [Variety of Jobs for Computer Scientists (video)](https://youtu.be/2VpDcjFshJI), [9 Computer Coding Careers (website)](https://www.rasmussen.edu/degrees/technology/blog/programming-careers-for-coding-connoisseurs/), [Education Required to Become a Computer Programmer (website)](https://www.wgu.edu/career-guide/information-technology/computer-programmer-career.html), [Design Technologist at Meow Wolf (video)](https://youtu.be/dhvQ7L5UScs)
   - (b) Explore how you could use knowledge and skills from this merit badge to pursue a hobby or healthy lifestyle. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.
 
 ## Resources

@@ -19,6 +19,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Using X-ray (radiographic) films or images and with your counselor's guidance, do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -35,6 +41,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -57,6 +64,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -74,6 +82,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -91,6 +100,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -110,6 +120,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -126,6 +142,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -152,6 +169,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -182,6 +200,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -204,6 +223,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -232,6 +252,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -249,6 +270,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do TWO of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -265,6 +292,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -286,15 +314,16 @@
         {
           "id": "12972",
           "label": "b",
-          "text": "With the help of a dentist, prepare a dental stone cast using a vibrator, a mixing bowl, a water measure, a plastic measure, model stone, and a spatula.",
+          "text": "With the help of a dentist, prepare a dental stone cast using a dental vibrator, a mixing bowl, a water measure, a plastic measure, model stone, and a spatula.",
           "requirement_path": "4.b",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
-              "value": "With the help of a dentist, prepare a dental stone cast using a vibrator, a mixing bowl, a water measure, a plastic measure, model stone, and a spatula."
+              "value": "With the help of a dentist, prepare a dental stone cast using a dental vibrator, a mixing bowl, a water measure, a plastic measure, model stone, and a spatula."
             }
           ],
           "resources": [
@@ -313,6 +342,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -337,6 +367,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Discuss with your counselor the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -353,6 +389,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -375,6 +412,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -407,6 +445,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do TWO of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -423,6 +467,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -453,6 +498,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -475,6 +521,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -492,6 +539,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -509,6 +557,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -533,6 +582,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

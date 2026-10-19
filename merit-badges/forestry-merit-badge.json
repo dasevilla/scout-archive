@@ -19,6 +19,16 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Prepare a field notebook, make a collection, and identify 15 species of trees, wild shrubs, or vines in a local forested area.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Write a description in which you identify and discuss the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -44,6 +54,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -61,6 +72,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -78,6 +90,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -97,6 +110,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -113,6 +132,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -139,6 +159,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -165,6 +186,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -197,6 +219,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -220,8 +248,14 @@
           "text": "Describe the contributions forests make to:",
           "requirement_path": "3.a",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Describe the contributions forests make to:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -229,143 +263,152 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14649",
-          "label": "1",
-          "text": "Our economy in the form of products",
-          "requirement_path": "3.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Our economy in the form of products"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14650",
-          "label": "2",
-          "text": "Our social well-being, including recreation",
-          "requirement_path": "3.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14649",
+              "label": "1",
+              "text": "Our economy in the form of products",
+              "requirement_path": "3.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Our economy in the form of products"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Our social well-being, including recreation"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14651",
-          "label": "3",
-          "text": "Soil protection and increased fertility",
-          "requirement_path": "3.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14650",
+              "label": "2",
+              "text": "Our social well-being, including recreation",
+              "requirement_path": "3.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Our social well-being, including recreation"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Soil protection and increased fertility"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14652",
-          "label": "4",
-          "text": "Clean water",
-          "requirement_path": "3.4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14651",
+              "label": "3",
+              "text": "Soil protection and increased fertility",
+              "requirement_path": "3.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Soil protection and increased fertility"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Clean water"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14653",
-          "label": "5",
-          "text": "Clean air (carbon cycling, sequestration)",
-          "requirement_path": "3.5",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14652",
+              "label": "4",
+              "text": "Clean water",
+              "requirement_path": "3.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Clean water"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Clean air (carbon cycling, sequestration)"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14654",
-          "label": "6",
-          "text": "Wildlife habitat",
-          "requirement_path": "3.6",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14653",
+              "label": "5",
+              "text": "Clean air (carbon cycling, sequestration)",
+              "requirement_path": "3.a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Clean air (carbon cycling, sequestration)"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Wildlife habitat"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14655",
-          "label": "7",
-          "text": "Fisheries habitat",
-          "requirement_path": "3.7",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14654",
+              "label": "6",
+              "text": "Wildlife habitat",
+              "requirement_path": "3.a.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Wildlife habitat"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Fisheries habitat"
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14656",
-          "label": "8",
-          "text": "Threatened and endangered species of plants and animals",
-          "requirement_path": "3.8",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14655",
+              "label": "7",
+              "text": "Fisheries habitat",
+              "requirement_path": "3.a.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Fisheries habitat"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Threatened and endangered species of plants and animals"
+              "id": "14656",
+              "label": "8",
+              "text": "Threatened and endangered species of plants and animals",
+              "requirement_path": "3.a.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Threatened and endangered species of plants and animals"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14657",
@@ -375,6 +418,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -399,6 +443,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Describe what forest management means, including the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -415,6 +465,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -437,6 +488,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -459,6 +511,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -481,6 +534,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -503,6 +557,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -531,6 +586,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "With your parent or guardian's and counselor's approval, do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -547,6 +608,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -569,6 +631,16 @@
           "node_kind": "action_requirement",
           "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "With a knowledgeable individual, visit a current or past logging operation or wood-using manufacturing plant.",
+              "scope": "requirement"
+            },
+            {
+              "text": "Write a brief report describing the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -590,6 +662,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -607,6 +680,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -624,6 +698,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -641,6 +716,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -658,6 +734,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -675,6 +752,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -692,6 +770,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -711,6 +790,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -735,6 +815,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "In your camp, local recreation area (park or equivalent), or neighborhood, do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -756,6 +842,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -773,6 +860,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -792,6 +880,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -808,6 +902,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -854,6 +949,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -871,6 +967,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -895,6 +992,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

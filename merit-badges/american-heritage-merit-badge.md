@@ -30,7 +30,7 @@ Every Scout swears to an oath that includes duty to his country. A better unders
     **Resources:** [The Pledge of Allegiance History (video)](https://youtu.be/BPoPVo1-nnE), [Why America Chose the Bald Eagle \| The Story Behind the Great Seal (1782) (video)](https://youtu.be/KOHDAWOd5Ac), [US National Motto (video)](https://youtu.be/Idy_lsX6m7c), [How "The Star-Spangled Banner" Became the National Anthem (video)](https://youtu.be/H2Iwgq1baks)
   - (c) Research your family's history. Find out how various events and situations in American history affected your family. If your family immigrated to America, tell the reasons why. Share what you find with your counselor.
 
-    **Resources:** [Genealogy Merit Badge (website)](https://www.scouting.org/merit-badges/genealogy/), [The Perfect Way To Start Finding Your Family Tree (video)](https://youtu.be/RuNvBXyYEJk)
+    **Resources:** [Genealogy Merit Badge (website)](https://www.scouting.org/merit-badges/genealogy/), [How To Start Your Geneaology (video)](https://youtu.be/gZRpSBQBJdo)
 
 - (4) Do TWO of the following:
   - (a) Explain the National Register of Historic Places and how a property becomes eligible for listing in the National Register of Historic Places. Make a map of your local area, marking the points of historical interest. Tell about any National Register properties in your area. Share the map with your counselor, and describe the historical points you have indicated.
@@ -46,13 +46,13 @@ Every Scout swears to an oath that includes duty to his country. A better unders
 - (5) Do ONE of the following:
   - (a) Watch two motion pictures (with the approval and permission of your counselor and parent or guardian) that are set in some period of American history. Describe to your counselor how accurate each film is with regard to the historical events depicted and also with regard to the way the characters are portrayed.
 
-    **Resources:** [Gettysburg (1993) Official Trailer (video)](https://youtu.be/9Vz5f9NOVuk), [Remember the Titans Official Trailer (video)](https://youtu.be/35MvdHBWjwU), [Tora! Tora! Tora! Theatrical Movie Trailer (video)](https://youtu.be/2QwaNhalGcQ), [Hidden Figures \| Official Trailer (video)](https://youtu.be/5wfrDhgUMGI), [A League of Their Own—Official Trailer (video)](https://youtu.be/H8qMhtkB18k)
+    **Resources:** [Gettysburg (1993) Official Trailer (video)](https://youtu.be/9Vz5f9NOVuk), [Remember the Titans Official Trailer (video)](https://youtu.be/35MvdHBWjwU), [Tora! Tora! Tora! Theatrical Movie Trailer (video)](https://youtu.be/2QwaNhalGcQ), [Hidden Figures \| Official Trailer (video)](https://youtu.be/5wfrDhgUMGI), [The Miracle Worker \| Official Trailer (video)](https://youtu.be/91bb-kvF9XA)
   - (b) Read a biography (with your counselor's approval) of someone who has made a contribution to America's heritage. Tell some things you admire about this individual and some things you do not admire. Explain why you think this person has made a positive or a negative contribution to America's heritage.
 
     **Resources:** [America250 Reading List: A Journey Through Stories That Shaped a Nation (video)](https://youtu.be/FCL5cIfkvrA)
   - (c) Listen to recordings of popular songs from various periods of American history. Share five of these songs with your counselor, and describe how each song reflects the way people felt about the period in which it was popular. If a recording is not available, have a copy of the lyrics available.
 
-    **Resources:** [The Library of Congress Celebrates the Songs of America (website)](https://www.loc.gov/collections/songs-of-america/about-this-collection/), [The Evolution of Popular Music by Year (1890-2009) (USA) (video)](https://youtu.be/GaqokusDbbs)
+    **Resources:** [The Library of Congress Celebrates the Songs of America (website)](https://www.loc.gov/collections/songs-of-america/about-this-collection/), [A Brief History of American Music Genres (video)](https://youtu.be/60KNGajRk5Y)
 
 - (6) Discuss with your counselor the career opportunities in American heritage. Pick one that interests you and explain how to prepare for this career. Discuss what education and training are required for this career.
 

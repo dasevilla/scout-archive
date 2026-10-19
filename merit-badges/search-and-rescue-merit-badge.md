@@ -13,49 +13,49 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 - (1) **Hazards and First Aid.** Do the following:
   - (a) Show or explain first aid for, and prevention of, injuries and conditions that searchers and subjects could develop during an SAR situation, including:
-  - (1) Dehydration
+    - (1) Dehydration
 
-    **Resources:** [Dehydration (video)](https://youtu.be/KahsIEbFROI)
-  - (2) Heatstroke
+      **Resources:** [Dehydration (video)](https://youtu.be/KahsIEbFROI)
+    - (2) Heatstroke
 
-    **Resources:** [Heat Exhaustion vs Heat Stroke (video)](https://youtu.be/8gn3DEYOPuE), [Heat Stroke (video)](https://youtu.be/PpHM4DfPZQU)
-  - (3) Hypothermia
+      **Resources:** [Heat Exhaustion vs Heat Stroke (video)](https://youtu.be/8gn3DEYOPuE), [Heat Stroke (video)](https://youtu.be/PpHM4DfPZQU)
+    - (3) Hypothermia
 
-    **Resources:** [Hypothermia (video)](https://youtu.be/my6JB41apTw)
-  - (4) Shock
+      **Resources:** [Hypothermia (video)](https://youtu.be/my6JB41apTw)
+    - (4) Shock
 
-    **Resources:** [Recognizing and Treating Shock (video)](https://youtu.be/S0aCHtEn7to), [Shock (video)](https://youtu.be/AHls9NRGCZk)
-  - (5) Blisters
+      **Resources:** [Recognizing and Treating Shock (video)](https://youtu.be/S0aCHtEn7to), [Shock (video)](https://youtu.be/AHls9NRGCZk)
+    - (5) Blisters
 
-    **Resources:** [Blisters (video)](https://youtu.be/5y2QIZwzfuI)
-  - (6) Eye injuries
+      **Resources:** [Blisters (video)](https://youtu.be/5y2QIZwzfuI)
+    - (6) Eye injuries
 
-    **Resources:** [First Aid for Eyes (video)](https://youtu.be/zULuu4QwX4s)
-  - (7) Ankle and knee sprains
+      **Resources:** [First Aid for Eyes (video)](https://youtu.be/zULuu4QwX4s)
+    - (7) Ankle and knee sprains
 
-    **Resources:** [Figure 8 Ankle Wrap (video)](https://youtu.be/Z_kCbkxR4xk), [Orthopedic Injuries (website)](https://www.scouting.org/health-and-safety/safety-moments/orthopedic-injuries/), [Bone, Joint, and Muscle Injuries (video)](https://youtu.be/BAUiP1P3GE0)
-  - (8) Bug bites of chiggers, ticks, mosquitoes, and biting gnats
+      **Resources:** [Figure 8 Ankle Wrap (video)](https://youtu.be/Z_kCbkxR4xk), [Orthopedic Injuries (website)](https://www.scouting.org/health-and-safety/safety-moments/orthopedic-injuries/), [Bone, Joint, and Muscle Injuries (video)](https://youtu.be/BAUiP1P3GE0)
+    - (8) Bug bites of chiggers, ticks, mosquitoes, and biting gnats
 
-    **Resources:** [Tick Checks (video)](https://youtu.be/mwAHhOwqeX4), [Mosquito Bites (video)](https://youtu.be/m4iapNcv8-Q)
-  - (9) Bee stings
+      **Resources:** [Tick Checks (video)](https://youtu.be/mwAHhOwqeX4), [Mosquito Bites (video)](https://youtu.be/m4iapNcv8-Q)
+    - (9) Bee stings
 
-    **Resources:** [Bee Stings (video)](https://youtu.be/01Po5RTNfhs), [Treatment of a Bee Sting (video)](https://youtu.be/nv2BUxZMWAI)
-  - (10) Bites of spiders
+      **Resources:** [Bee Stings (video)](https://youtu.be/01Po5RTNfhs), [Treatment of a Bee Sting (video)](https://youtu.be/nv2BUxZMWAI)
+    - (10) Bites of spiders
 
-    **Resources:** [What You Need To Know About Spider Bites (video)](https://youtu.be/QQVYRvD55Uc)
-  - (11) Sting of a scorpion
+      **Resources:** [What You Need To Know About Spider Bites (video)](https://youtu.be/QQVYRvD55Uc)
+    - (11) Sting of a scorpion
 
-    **Resources:** [Scorpion Stings (video)](https://youtu.be/YFI2VMy6mT0)
-  - (12) Bite of a wild mammal
+      **Resources:** [Scorpion Stings (video)](https://youtu.be/YFI2VMy6mT0)
+    - (12) Bite of a wild mammal
 
-    **Resources:** [Treatment of Animal Bites (video)](https://youtu.be/X0HYjzU2NKk)
-  - (13) Bite of a venomous snake
+      **Resources:** [Treatment of Animal Bites (video)](https://youtu.be/X0HYjzU2NKk)
+    - (13) Bite of a venomous snake
 
-    **Resources:** [Snakebites (video)](https://youtu.be/_H8ROJD1oIo), [Rattlesnake Bites (video)](https://youtu.be/PZ93mhPZS3s)
+      **Resources:** [Snakebites (video)](https://youtu.be/_H8ROJD1oIo), [Rattlesnake Bites (video)](https://youtu.be/PZ93mhPZS3s)
   - (b) Explain how the Scout Basic Essentials address hazards outdoors and help lost Scouts stay safe before they are rescued.
 
     **Resources:** [Scout Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/), [Scout Essentials and Outdoor Hazards (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Search%20and%20Rescue/Scout%20Essentials%20and%20Outdoor%20Hazards.pdf), [Essentials for Safe Hiking (video)](https://youtu.be/YGQG0C0HBGw)
-  - (c) Discuss how the safety gear carried by SAR team members in their field packs address SAR hazards.
+  - (c) Discuss how the safety gear carried by SAR team members in their field packs addresses SAR hazards.
 
     **Resources:** [What I Carry in My Search and Rescue Pack (video)](https://youtu.be/8G2pYjxCfgg)
 

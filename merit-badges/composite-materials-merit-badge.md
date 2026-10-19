@@ -10,7 +10,7 @@ Composites can be found just about everywhere: in airplanes and sports cars, gol
 ## Requirements
 
 - (1) Do the following:
-  - (a) Explain to your counselor the most likely hazards you may encounter while working with composite materials and what you should do to anticipate, mitigate, and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with composite materials.
+  - (a) Explain to your counselor the most likely hazards you may encounter while working with composite materials and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with composite materials.
 
     **Resources:** [Fibreglass Safety 101 (video)](https://youtu.be/tXmTLRSMZSM), [How to Stay Clean and Safe Working With Fiberglass (video)](https://youtu.be/oVBSWJCSK4E)
   - (b) Explain the precautions that must be taken when handling, storing, and disposing of resins, reinforcements, and other materials used in composites. Include in your discussion the importance of health, safety, and environmental responsibility and awareness.

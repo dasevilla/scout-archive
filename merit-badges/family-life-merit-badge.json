@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -45,6 +46,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -67,6 +69,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -105,6 +108,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -131,6 +135,16 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Plan and carry out a project that involves the participation of your family.",
+          "scope": "requirement"
+        },
+        {
+          "text": "After completing the project, discuss the following with your counselor:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -152,6 +166,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -169,6 +184,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -186,6 +202,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -205,6 +222,16 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:\nNote: Some of the issues surrounding requirement 6 for the family meeting could be considered of a personal nature.",
+          "scope": "children"
+        },
+        {
+          "text": "Use discretion when reviewing this requirement with the Scout.",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -258,6 +285,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -284,6 +312,12 @@
           "node_kind": "action_requirement",
           "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Prepare a meeting agenda that includes the following topics, review it with your parent or guardian, and then carry out one or more family meetings:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -300,6 +334,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -322,6 +357,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -368,6 +404,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -385,6 +422,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -411,6 +449,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -433,6 +472,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -455,6 +495,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -481,6 +522,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

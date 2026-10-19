@@ -54,7 +54,7 @@ Where passion for gaming meets leadership, learning, and the future of technolog
     **Resources:** [My Physical Activity Diary (website)](https://www.cdc.gov/healthyweight/pdf/physical_activity_diary_cdc.pdf)
   - (d) Track your daily sleep for the same two weeks. Compare your results to the CDC recommendation of 9-12 hours for ages 6-12 and 8-10 hours for ages 13-18.
 
-    **Resources:** [Teen Sleep Diary (PDF)](https://thesleepcharity.org.uk/wp-content/uploads/The-Sleep-Charity-Teens-Sleep-Diary.pdf)
+    **Resources:** [Sleep Calculator (website)](https://www.calculator.net/sleep-calculator.html)
   - (e) After completing 3(b), 3(c), and 3(d), create a one-week balanced schedule that includes healthy sleep, physical activity, and agreed-upon gaming time. Follow this schedule and summarize your results.
 
     **Resources:** [Weekly Activity Schedule (website)](https://www.cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Depression/Depression-Worksheets/Depression-Worksheet---03---Weekly-Activity-Schedule.pdf)

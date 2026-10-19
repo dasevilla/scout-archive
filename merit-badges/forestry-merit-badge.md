@@ -33,14 +33,14 @@ In working through the Forestry merit badge requirements, Scouts will explore th
   **Resources:** [Top 10 Benefits of Forestry (website)](https://orbisinc.com/top-10-benefits-of-forestry/), [How Forests Make Our Lives Better (video)](https://youtu.be/QqDIMbWypDU)
 
   - (a) Describe the contributions forests make to:
-  - (1) Our economy in the form of products
-  - (2) Our social well-being, including recreation
-  - (3) Soil protection and increased fertility
-  - (4) Clean water
-  - (5) Clean air (carbon cycling, sequestration)
-  - (6) Wildlife habitat
-  - (7) Fisheries habitat
-  - (8) Threatened and endangered species of plants and animals
+    - (1) Our economy in the form of products
+    - (2) Our social well-being, including recreation
+    - (3) Soil protection and increased fertility
+    - (4) Clean water
+    - (5) Clean air (carbon cycling, sequestration)
+    - (6) Wildlife habitat
+    - (7) Fisheries habitat
+    - (8) Threatened and endangered species of plants and animals
   - (b) Tell which watershed or other source your community relies on for its water supply.
 
     **Resources:** [Watersheds! (video)](https://youtu.be/2pwW2rlGIa8)

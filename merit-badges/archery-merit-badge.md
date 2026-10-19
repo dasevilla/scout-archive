@@ -69,7 +69,7 @@ Archery is a fun way for Scouts to exercise minds as well as bodies, developing 
 
     **Resources:** [How To Score an NFAA Field Archery Target (video)](https://youtu.be/O47cSaBzNw0)
 
-- (5) Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:**Note:** When using a Genesis bow, apply the requirements in Option A.
+- (5) Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by an NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:**Note:** When using a Genesis bow, apply the requirements in Option A.
 
   **Resources:** [How Is a Compound Bow Different From a Recurve Bow? (video)](https://youtu.be/EuMHSsN8YLM)
 

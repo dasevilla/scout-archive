@@ -18,7 +18,7 @@ Camping is one of the best-known methods of the Scouting movement. When he found
     **Resources:** [5 Mistakes EVERY New Camper Makes in WET WEATHER (video)](https://youtu.be/HzktQBzrSQw?si=AZLAxj0KuDmWjhLl), [Cold Weather Camping Tips (video)](https://youtu.be/Ftc3t93thDw?si=I9UE43d5wRYCQi6k)
   - (c) Show that you know first aid for and how to prevent injuries or illnesses that could occur while camping, including hypothermia, frostbite, heat reactions, dehydration, altitude sickness, insect stings, tick bites, snakebite, blisters, and hyperventilation.
 
-    **Resources:** [Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)](https://youtu.be/nxExCQiWa_U?si=E-FC1vbHZYI0vxhb), [First Aid for Snakebites (video)](https://youtu.be/DFFzJIy-ak8?si=SnD_WCthjEE-Bi0W), [Types of Heat Reactions (website)](https://www.weather.gov/safety/heat-illness), [Bad Bugs and Their Bites (website)](https://www.webmd.com/allergies/ss/slideshow-bad-bugs)
+    **Resources:** [Outdoor Emergency Plan (website)](https://www.nps.gov/articles/gtgemergencyplan.htm), [First Aid for Snakebites (video)](https://youtu.be/DFFzJIy-ak8?si=SnD_WCthjEE-Bi0W), [Types of Heat Reactions (website)](https://www.weather.gov/safety/heat-illness)
 
 - (2) Learn the Leave No Trace Seven Principles and the Outdoor Code, and explain what they mean. Write a personal and group plan for implementing these principles on your next outing.
 
@@ -82,13 +82,13 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 
 - (8) Do the following:
   - (a) Explain the safety procedures for:
-  - (1) Using a propane or butane/propane stove
+    - (1) Using a propane or butane/propane stove
 
-    **Resources:** [How to Use a Propane Stove (video)](https://youtu.be/6il0aDjwSGI?si=IMrR6Ycu03lWzTtU)
-  - (2) Using a liquid fuel stove
+      **Resources:** [How to Use a Propane Stove (video)](https://youtu.be/6il0aDjwSGI?si=IMrR6Ycu03lWzTtU)
+    - (2) Using a liquid fuel stove
 
-    **Resources:** [How to Use a Liquid Fuel Stove (video)](https://youtu.be/2XRqdVIqimY?si=Wj7JsttaHkIADW9a)
-  - (3) Proper storage of extra fuel
+      **Resources:** [How to Use a Liquid Fuel Stove (video)](https://youtu.be/2XRqdVIqimY?si=Wj7JsttaHkIADW9a)
+    - (3) Proper storage of extra fuel
   - (b) Discuss the advantages and disadvantages of different types of lightweight cooking stoves.
 
     **Resources:** [Canister vs Liquid Fuel Stoves (video)](https://youtu.be/FCDURxu2L3Y?si=MB1dADsvm80GqDW9)
@@ -100,24 +100,24 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 - (9) Show experience in camping by doing the following:
   - (a) Camp for at least 20 nights at designated Scouting activities or events. One long-term camping experience of up to six consecutive nights may be applied toward this requirement. Two nights may be counted toward the total for each additional long-term camping trip. Each night must be spent either under the sky, in a tent you have pitched yourself (if a tent is provided and already set up, you do not need to pitch your own), in a hammock that is safely strung outdoors, in a lean-to, or other three-sided shelter with an open front. Nights spent in indoor lock-in events, cabin camping, hotel stays, or other covered accommodations do not count toward the 20 nights.
   - (b) On any of these camping experiences, you must do TWO of the following, only with proper preparation and under qualified supervision.
-  - (1) Hike up a mountain, gaining at least 1,000 vertical feet.
+    - (1) Hike up a mountain, gaining at least 1,000 vertical feet.
 
-    **Resources:** [Training for Elevation Gain (video)](https://youtu.be/wrAzopMgriU?si=POvk4jZLbzeTos5t)
-  - (2) Backpack, snowshoe, or cross-country ski for at least 4 miles.
+      **Resources:** [Training for Elevation Gain (video)](https://youtu.be/wrAzopMgriU?si=POvk4jZLbzeTos5t)
+    - (2) Backpack, snowshoe, or cross-country ski for at least 4 miles.
 
-    **Resources:** [Learn to Snowshoe (video)](https://youtu.be/bIylS8VFGcg?si=_C2XoAWrFGsx0bSa)
-  - (3) Take a bike trip of at least 15 miles or at least four hours.
+      **Resources:** [Learn to Snowshoe (video)](https://youtu.be/bIylS8VFGcg?si=_C2XoAWrFGsx0bSa)
+    - (3) Take a bike trip of at least 15 miles or at least four hours.
 
-    **Resources:** [What I Wish I Knew Before Bikepacking (video)](https://youtu.be/eC-XDuniSco?si=ThrPiNPJvBWOimjp)
-  - (4) Take a nonmotorized trip on the water of at least four hours or 5 miles.
+      **Resources:** [What I Wish I Knew Before Bikepacking (video)](https://youtu.be/eC-XDuniSco?si=ThrPiNPJvBWOimjp)
+    - (4) Take a nonmotorized trip on the water of at least four hours or 5 miles.
 
-    **Resources:** [Canoeing With LNT (video)](https://youtu.be/F8vjVVCf9YI?si=5TuRYuF6q8BjpESE)
-  - (5) Plan and carry out an overnight snow camping experience.
+      **Resources:** [Canoeing With LNT (video)](https://youtu.be/F8vjVVCf9YI?si=5TuRYuF6q8BjpESE)
+    - (5) Plan and carry out an overnight snow camping experience.
 
-    **Resources:** [Winter Camping Tips (video)](https://youtu.be/ReanLLCCKIc?si=hlHXtTKcefLmsVuJ)
-  - (6) Rappel down a rappel route of 30 feet or more.
+      **Resources:** [Winter Camping Tips (video)](https://youtu.be/ReanLLCCKIc?si=hlHXtTKcefLmsVuJ)
+    - (6) Rappel down a rappel route of 30 feet or more.
 
-    **Resources:** [How to Rapel (video)](https://youtu.be/7U6tdEevJgs?si=Iq942pMfrehB7dIX)
+      **Resources:** [How to Rapel (video)](https://youtu.be/7U6tdEevJgs?si=Iq942pMfrehB7dIX)
   - (c) On any of these camping experiences, perform a conservation project approved by the landowner or land managing agency. This can be done alone or with others.
 
     **Resources:** [Project Planning Checklist (PDF)](https://www.scouting.org/wp-content/uploads/2019/01/Conservation-Project-Planning-Checklist.pdf)

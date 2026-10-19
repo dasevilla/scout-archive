@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",
@@ -47,6 +48,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",
@@ -88,6 +90,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",
@@ -121,6 +124,16 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Conduct THREE physics experiments, selecting from the following options.",
+          "scope": "children"
+        },
+        {
+          "text": "Explain how each experiment demonstrates key physics principles.",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -148,6 +161,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -181,6 +195,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -218,6 +233,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -251,6 +267,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -284,6 +301,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -317,6 +335,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -354,6 +373,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -387,6 +407,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -424,6 +445,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -459,6 +481,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Discuss with your counselor:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -486,6 +514,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -538,6 +567,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -862,6 +892,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Discuss one option with your counselor:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -889,6 +925,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Discuss the following with your counselor:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -916,6 +958,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -949,6 +992,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -984,6 +1028,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Discuss the following with your counselor:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -1011,6 +1061,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1048,6 +1099,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1083,6 +1135,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Discuss the following with your counselor:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -1110,6 +1168,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1143,6 +1202,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1182,6 +1242,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Discuss the following with your counselor:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -1209,6 +1275,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1242,6 +1309,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -1279,6 +1347,16 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Define the problem, allowable materials, and safety constraints.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Do ONE of the following options:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1335,6 +1413,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -1372,6 +1451,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -1405,6 +1485,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -1433,6 +1514,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -1461,6 +1543,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "element",
@@ -1491,6 +1574,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Careers Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1518,6 +1607,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1629,6 +1719,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "element",

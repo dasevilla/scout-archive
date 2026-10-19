@@ -31,7 +31,7 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 
   **Resources:** [Matter and Energy in Food Webs (video)](https://youtu.be/qIgL05zOx5U), [Food and Energy in Organisms (video)](https://youtu.be/wPhjCn9kq5M)
 
-  - (a) Explore the sustainability of different types of plant-based, animal-based and aquaculture food. Identify where four different foods (such as milk, eggs, tuna fish, avocados, or ketchup) come from and how they are processed and transported from the source to you.
+  - (a) Explore the sustainability of different types of plant-based, animal-based, and aquaculture food. Identify where four different foods (such as milk, eggs, tuna fish, avocados, or ketchup) come from and how they are processed and transported from the source to you.
 
     **Resources:** [Exploring Food Sustainability (video)](https://youtu.be/PyiVf26C5pc?si=SIH9gYgrBwPT_JsX), [Food Sustainability Basics (video)](https://youtu.be/luIQGJIo_Wc?si=3uN9tXUqJ9QyNYoZ), [Food Systems Innovation (video)](https://youtu.be/VzE1wDkXNIw)
   - (b) Identify four factors that limit the availability of food in different regions of the world. Discuss how each factor influences the sustainability of worldwide food supplies. Share three ways individuals, families, or your community can create their own food sources.
@@ -80,7 +80,7 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
     **Resources:** [Pacific Garbage Patch (video)](https://www.youtube.com/watch?v=dtaNqGyHkNE), [Know Your Plastics (video)](https://www.youtube.com/watch?v=_qTelxi3MjU), [Recycling E-Waste (video)](https://www.youtube.com/watch?v=HmEhTIMfZiI)
 
 - (7) Do TWO of the following and discuss with your counselor:
-  - (a) The United Nations lists 17 Sustainable Development Goals. These include Zero Hunger, Clean Water and Sanitation, Affordable and Clean Energy, Sustainable Cities and Community, Responsible Consumption and Production, Climate Action, Life Below Water, and Life on Land. Pick one of these eight and summarize the goal and its current and future impact on you, your family, community, and the world.
+  - (a) The United Nations lists 17 Sustainable Development Goals. These include Zero Hunger, Clean Water and Sanitation, Affordable and Clean Energy, Sustainable Cities and Communities, Responsible Consumption and Production, Climate Action, Life Below Water, and Life on Land. Pick one of these eight and summarize the goal and its current and future impact on you, your family, community, and the world.
 
     **Resources:** [Sustainable Development Goals (video)](https://www.youtube.com/watch?v=M-iJM02m_Hg), [Sustainable Goals (video)](https://www.youtube.com/watch?v=RpqVmvMCmp0), [Clean Water Goal (video)](https://www.youtube.com/watch?v=LCKsU4bPFOQ)
   - (b) Identify how the planetary life-support systems (soil, climate, freshwater, atmospheric, nutrient, oceanic, ecosystems, and species) support life on Earth and interact with one another. Share what happens to the planet's sustainability when these systems are disrupted by natural events or human activity.
@@ -103,7 +103,7 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
   - (a) On a campout or other outdoor Scouting activity that you attend, make notes on the sustainability practices you and your fellow Scouts practice. Observe transportation, forestry, soil conservation, water resources, habitat, buildings, campsites, and sanitation. Share what you observed and learned with your counselor.
 
     **Resources:** [Sustainable Camping Tips (Packing & Hiking) (video)](https://www.youtube.com/watch?v=plsDrKpN5dM), [What Does LNT Means to Scouts (video)](https://www.youtube.com/watch?v=oTs29BZzf8U)
-  - (b) Discuss with your counselor how living by the Scout Oath, Scout Law, Leave No Trace Seven Principles and the Outdoor Code in your daily life helps promote sustainability.
+  - (b) Discuss with your counselor how living by the Scout Oath, Scout Law, Leave No Trace Seven Principles, and the Outdoor Code in your daily life helps promote sustainability.
 
     **Resources:** [Camping Tricks: The Scout Turn Around Rule LNT (video)](https://youtu.be/kc59VSGN-dg), [Leave No Trace—And There's a Song! (video)](https://youtu.be/6_jz421duVgd)
   - (c) Identify 5 behavioral changes that you and your family can make to improve the sustainability of your household. Share and discuss each with your counselor.

@@ -15,7 +15,7 @@ The word geocache is a combination of “geo,” which means “earth,” and �
     **Resources:** [GeoCaching Safety: 12 Critical Tips to Stay Safe While Treasure Hunting (website)](https://geocachingtoday.com/geocaching-safety-tips-to-stay-safe-while-treasure-hunting/), [Surviving the Wild—Essential Hiking Safety Tips (video)](https://youtu.be/YGQG0C0HBGw)
   - (b) Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in geocaching activities, including cuts, scrapes, snakebite, insect stings, tick bites, exposure to poisonous plants, heat and cold reactions (sunburn, heatstroke, heat exhaustion, hypothermia), and dehydration.
 
-    **Resources:** [Backpacking First Aid (What To Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)](https://youtu.be/nxExCQiWa_U)
+    **Resources:** [How to Treat Cuts and Grazes (video)](https://youtu.be/4e7evinsfm0), [Poisonous Plants (video)](https://youtu.be/P6aBc4OAD0g), [First Aid for Spider Bites, Tick Bites, and Scorpion Stings (video)](https://youtu.be/HZy4pLvW1-8), [Heat Cramps, Heat Exhaustion, and Heat Stroke (video)](https://youtu.be/KOQJB3jlln4), [How To Recognize and Avoid Hypothermia (video)](https://youtu.be/aDAqWLpHXXU)
   - (c) Discuss how to properly plan an activity that uses GPS, including using the buddy system, sharing your plan with others, and considering the weather, route, and proper attire.
 
     **Resources:** [Geocaching Tips and Tricks (video)](https://youtu.be/0_wubfWGADo)

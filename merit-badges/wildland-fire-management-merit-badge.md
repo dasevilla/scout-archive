@@ -56,19 +56,20 @@ Wildfires cause significant destruction across the U.S. each year, with smoke af
   - (a) Wildfire Prevention:
 
     **Resources:** [Fire Is Everyone's Fight (website)](https://www.usfa.fema.gov/prevention/fief/)
-  - (1) The main causes of wildfire in the United States
 
-    **Resources:** [Wildfires 101 (video)](https://youtu.be/5hghT1W33cY)
-  - (2) How you can prevent human caused wildfires in your community and on outings with your unit.
+    - (1) The main causes of wildfire in the United States
 
-    **Resources:** [Wildfire Prevention With Smokey the Bear (video)](https://youtu.be/tUTyDGlJt00)
+      **Resources:** [Wildfires 101 (video)](https://youtu.be/5hghT1W33cY)
+    - (2) How you can prevent human caused wildfires in your community and on outings with your unit.
+
+      **Resources:** [Wildfire Prevention With Smokey the Bear (video)](https://youtu.be/tUTyDGlJt00)
   - (b) Wildfire Mitigation:
-  - (1) Wildland-Urban Interface
+    - (1) Wildland-Urban Interface
 
-    **Resources:** [Understanding the Wildland Urban Interface (website)](https://storymaps.arcgis.com/stories/6b2050a0ded0498c863ce30d73460c9e)
-  - (2) Defensible space and how homes and communities in the wildland-urban interface can be protected from wildfire
+      **Resources:** [Understanding the Wildland Urban Interface (website)](https://storymaps.arcgis.com/stories/6b2050a0ded0498c863ce30d73460c9e)
+    - (2) Defensible space and how homes and communities in the wildland-urban interface can be protected from wildfire
 
-    **Resources:** [Separating Your Home From Wildfire—the Zones of Defensible Space (video)](https://youtu.be/isf6COwOXPw)
+      **Resources:** [Separating Your Home From Wildfire—the Zones of Defensible Space (video)](https://youtu.be/isf6COwOXPw)
 
 - (5) **Fire Behavior.** Do the following:
   - (a) Discuss with your counselor how the fire environment affects wildland fire behavior. Include examples of the influences of weather, topography, and fuel.
@@ -128,7 +129,7 @@ Wildfires cause significant destruction across the U.S. each year, with smoke af
     **Resources:** [Wildland Fire Engines (website w/ video)](https://www.nps.gov/articles/wildland-fire-engines.htm), [Aircraft (website)](https://www.nifc.gov/resources/aircraft), [Firefighting Equipment (website)](https://www.nifc.gov/resources/equipment), [Dozers (website)](https://www.nifc.gov/resources/equipment/dozers)
 
 - (9) **Taking Action.** Do ONE of the following:
-  - (a) Develop a fire readiness plan for a wildland area with which you are familiar. The plan should include a map showing available resources, water supplies, natural and manmade barriers, and access. The plan should discuss fuel loads, available fire apparatus, structure protection needs, values at risk, medical and evacuation considerations and potential fire suppression tactics.
+  - (a) Develop a fire readiness plan for a wildland area with which you are familiar. The plan should include a map showing available resources, water supplies, natural and manmade barriers, and access. The plan should discuss fuel loads, available fire apparatus, structure protection needs, values at risk, medical and evacuation considerations, and potential fire suppression tactics.
   - (b) Visit with a state or federal forestry official or your local fire warden. Discuss the causes of and types of wildland fire that occur in your area. Discuss the prime fire season(s) in your area. Identify the agency responsible for wildland fire suppression in your area. Discuss what you learned with your counselor.
   - (c) Conduct a Firewise assessment of a home or a building in the wildland-urban interface, which could include a Scout camp building or facility. Identify potential risks and fire hazards. With your counselor's approval, complete a project to reduce the wildfire risk and increase the preparedness of the building. Write a brief report about what you did and learned from the assessment and project.
 
@@ -140,7 +141,7 @@ Wildfires cause significant destruction across the U.S. each year, with smoke af
 
   **Resources:** [The Tillamook Burn Forest Fire of August, 1933 (video)](https://youtu.be/LatzdMh49ps), [The Story Behind the Yellowstone Fires of 1988 (video)](https://youtu.be/CAgP9fo3f7s), [The Smoke Jumper Tragedy of Mann Gulch (video)](https://youtu.be/uKJdfYijVvQ), [Storm King Mountain Tragedy (video)](https://youtu.be/7UVaFKnN-gI)
 
-- (11) **Careers in Wildland Fire Management.** Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include-with your parent or guardian's permission-an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
+- (11) **Careers in Wildland Fire Management.** Explore careers related to this merit badge. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include—with your parent or guardian's permission—an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
   **Resources:** [Wildland Firefighting & Wildland Fire Ecology Jobs (video)](https://youtu.be/55iglSp3ki0), [Fire Management Specialist (website)](https://careers.iafc.org/career/fire-management-specialist), [The Forest Service's Wildfire Force (video)](https://youtu.be/ewR1Ryqvr2Y)
 

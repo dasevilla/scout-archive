@@ -10,13 +10,13 @@ Radio is a way to send information, or communications, from one place to another
 ## Requirements
 
 - (1) **Radio Safety.** Explain the safety precautions for working with radio gear, including:
-  - (a) Grounding for direct and alternating current circuits, power outlets, antennas, and lightning.
+  - (a) Grounding for direct and alternating current circuits, power outlets, antennas, and lightning
 
     **Resources:** [Grounding Explained (video)](https://youtu.be/JBpQ9Fodz_Q), [What Is Ground? (video)](https://youtu.be/zLW_7TPf310)
   - (b) Preventing and treating electrical burns
 
     **Resources:** [First Aid for Electrical Burns (website)](https://burncenters.com/burns/burn-services/electrical-burns/), [Rescue and First Aid for Electric Shock (video)](https://youtu.be/O2VpgB8Xrzs)
-  - (c) Preventing lithium-ion battery fires in cell phones and other devices.
+  - (c) Preventing lithium-ion battery fires in cell phones and other devices
 
     **Resources:** [Preventing Lithium Ion Battery Fires (video)](https://youtu.be/7OiHAPmv75A)
 

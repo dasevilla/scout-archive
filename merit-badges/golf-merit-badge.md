@@ -140,7 +140,7 @@ Golf is unique because the players police themselves. Other sports depend upon r
       - (i) A good putting grip
 
         **Resources:** [Disc Golf Putting Grip (video)](https://youtu.be/hdMtc3Go2vU?si=bQ0rKOy3WYwXuTGU)
-      - (j) A good putting motion & follow through
+      - (j) A good putting motion and follow through
 
         **Resources:** [The Putt (video)](https://youtu.be/IKgE6q0YKC8?si=m2GdVwR8irfq4fHz)
       - (k) The proper use of a mini-marking disc

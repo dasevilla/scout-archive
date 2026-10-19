@@ -35,7 +35,7 @@ Identify an animal that has a pattern to its physical appearance. Investigate ho
 - **[Find the Gecko](https://www.scouting.org/cub-scout-activities/find-the-gecko/)** (Indoor, energy 3, supplies 2, prep 2)
   Cub Scouts learn about camouflage by coloring a cut-out gecko to blend in with a background.
 - **[Pattern Detectives](https://www.scouting.org/cub-scout-activities/pattern-detectives/)** (Indoor, energy 2, supplies 2, prep 2)
-  
+  Cub Scouts will lean how animals use patterns to hide in nature.
 - **[Patterns in the Animal World](https://www.scouting.org/cub-scout-activities/patterns-in-the-animal-world/)** (Indoor, energy 1, supplies 1, prep 2)
   Pick an animal with a pattern and learn about it.
 

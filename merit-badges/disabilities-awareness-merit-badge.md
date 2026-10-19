@@ -19,7 +19,7 @@ Understand various disabilities and how they affect your friends, family, and co
 
 - (2) Visit an agency that works with people with physical, mental, emotional, or educational disabilities. Collect and read information about the agency's activities. Learn about opportunities its members have for training, employment, and education. Discuss what you have learned with your counselor.
 
-  **Resources:** [Mychal's Learning Place (video)](https://www.tiktok.com/@mychalslearningplace/video/7536333109688569118), [In Our Own Voice (video)](https://youtu.be/7h5oyiKc-B0?si=u__mpN2z99OqYsSf), [From Concept to Crag: Students Design Adaptive Sports Equipment to Help Classmate Climb (website)](https://ucp.org/from-concept-to-crag-students-design-adaptive-sports-equipment-to-help-classmate-climb/)
+  **Resources:** [In Our Own Voice (video)](https://youtu.be/7h5oyiKc-B0?si=u__mpN2z99OqYsSf), [From Concept to Crag: Students Design Adaptive Sports Equipment to Help Classmate Climb (website)](https://ucp.org/from-concept-to-crag-students-design-adaptive-sports-equipment-to-help-classmate-climb/)
 
 - (3) Do TWO of the following:
   - (a) Talk with a Scout who has a disability and learn about the Scout's experiences taking part in Scouting activities and earning different merit badges. Discuss what you have learned with your counselor.
@@ -42,17 +42,19 @@ Understand various disabilities and how they affect your friends, family, and co
   - **Option A—Access.** Visit TWO of the following locations and take notes about the accessibility to people with disabilities. In your notes, give examples of five things that could be done to improve upon the site and five things about the site that make it friendly to people with disabilities. Discuss your observations with your counselor.
 
     **Resources:** [NYC Students With Disabilities Speaking About Accessible Schools (video)](https://youtu.be/Cok1f-_3ydE), [Special Needs Prepared Camps (website)](https://www.scouting.org/resources/disabilities-awareness/)
-  - (1) Your school
-  - (2) Your place of worship
-  - (3) A Scouting event or campsite
-  - (4) A public exhibit or attraction (such as a theater, museum, or park)
+
+    - (1) Your school
+    - (2) Your place of worship
+    - (3) A Scouting event or campsite
+    - (4) A public exhibit or attraction (such as a theater, museum, or park)
   - **Option B—Accommodation.** Visit TWO of the following locations and take notes while observing features and methods that are used to accommodate people with invisible disabilities. While there, ask staff members to explain any accommodation features that may not be obvious. Note anything you think could be done to better accommodate people who have invisible disabilities. Discuss your observations with your counselor.
 
     **Resources:** [Accommodations and Difficulties. (video)](https://youtu.be/qT9LE79Daps?si=cxIIetl8GFwwFC4h)
-  - (1) Your school
-  - (2) Your place of worship
-  - (3) A Scouting event or campsite
-  - (4) A public exhibit or attraction (such as a theater, museum, or park)
+
+    - (1) Your school
+    - (2) Your place of worship
+    - (3) A Scouting event or campsite
+    - (4) A public exhibit or attraction (such as a theater, museum, or park)
 
 - (5) Explain what advocacy is. Do ONE of the following:
   - (a) Present a counselor-approved disabilities awareness program to a Cub Scout pack or other group. During your presentation, explain and use person-first language.

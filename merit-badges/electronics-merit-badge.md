@@ -47,9 +47,10 @@ The Electronics Merit Badge is a fun, STEM-based merit badge that will inspire S
   - (c) Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.
 
     **Resources:** [How to Read an Electronic Schematic (video)](https://youtu.be/MxRGXIe1qPo)
-  - (1) A control device
-  - (2) A digital circuit
-  - (3) An analog circuit
+
+    - (1) A control device
+    - (2) A digital circuit
+    - (3) An analog circuit
 
 - (5) Do the following:
   - (a) Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law.

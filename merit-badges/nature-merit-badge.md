@@ -74,19 +74,19 @@ There is a very close connection between the soil, the plants, and all animal li
 
       **Resources:** [How to Identify Wild Plants - A Guide To Botanical Terms (video)](https://www.youtube.com/watch?v=5Aj82u2he6s)
     - (2) Do ONE of the following:
-      - (a) Collect and label the seeds of six plants OR the leaves of 12 plants.
+  - (a) Collect and label the seeds of six plants OR the leaves of 12 plants.
 
-        **Resources:** [Science at Play: Preserving Fall Leaves (video)](https://www.youtube.com/watch?v=06nhKenT410), [Harvesting & Saving Seeds! (video)](https://www.youtube.com/watch?v=QqIoGe-m2OM)
-      - (b) Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.
+    **Resources:** [Science at Play: Preserving Fall Leaves (video)](https://www.youtube.com/watch?v=06nhKenT410), [Harvesting & Saving Seeds! (video)](https://www.youtube.com/watch?v=QqIoGe-m2OM)
+  - (b) Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.
 
-        **Resources:** [Plant Photography for Beginners (video)](https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv), [How I Shot My First Plant Time-Lapse (video)](https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH)
-      - (h) **Soils and Rocks.** Do ALL of the following:
-        - (1) Collect and identify three different types of soil that represent soils high in sand, clay and humus.
+    **Resources:** [Plant Photography for Beginners (video)](https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv), [How I Shot My First Plant Time-Lapse (video)](https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH)
+  - (h) **Soils and Rocks.** Do ALL of the following:
+    - (1) Collect and identify three different types of soil that represent soils high in sand, clay and humus.
 
-          **Resources:** [Layers of Soil \| Soil Profile Formation (video)](https://www.youtube.com/watch?v=VTuL5Pa0gC0)
-        - (2) Collect and identify five different types of rocks from your area.
+      **Resources:** [Layers of Soil \| Soil Profile Formation (video)](https://www.youtube.com/watch?v=VTuL5Pa0gC0)
+    - (2) Collect and identify five different types of rocks from your area.
 
-          **Resources:** [Rockhounding 101: What to Look for on Your Next Adventure! (video)](https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno), [Rock & Mineral Identification \| It Can Be Easier Than You Think (video)](https://www.youtube.com/watch?v=mgld5jeYR04)
+      **Resources:** [Rockhounding 101: What to Look for on Your Next Adventure! (video)](https://youtu.be/yORP1Ba-K4Q?si=iR3Lo66iW-dmFjno), [Rock & Mineral Identification \| It Can Be Easier Than You Think (video)](https://www.youtube.com/watch?v=mgld5jeYR04)
 
 - (5) Discuss the importance of the Leave No Trace Seven Principles and the Outdoor Code and how they relate to nature. Explain how you have followed the Leave No Trace Seven Principles and the Outdoor Code while in natural areas during field observation, specimen collection, and identification.
 

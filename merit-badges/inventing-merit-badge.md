@@ -72,7 +72,7 @@ Inventing involves finding technological solutions to real-world problems. Inven
 
 - (9) Discuss with your counselor the diverse skills, education, training, and experience it takes to be an inventor. Discuss how you can prepare yourself to be creative and inventive to solve problems at home, in school, and in your community. Discuss three career fields that might utilize the skills of an inventor.
 
-  **Resources:** [Meaningful Soft Skills for Inventors (video)](https://youtu.be/WErRJ581SIQ), [What Does It Take To Be an Inventor? (video)](https://youtu.be/3sUHYD728s0), [10 Best Companies for Inventors (website)](https://www.zippia.com/inventor-jobs/best-companies-for-inventors/), [Work of an Examinor (video)](https://youtu.be/ZKuNaN3Dqis), [Why a Career in Science Is for Me (video)](https://youtu.be/Jm2rB29enN4)
+  **Resources:** [Meaningful Soft Skills for Inventors (video)](https://youtu.be/WErRJ581SIQ), [Work of an Examiner (video)](https://youtu.be/ZKuNaN3Dqis), [Why a Career in Science Is for Me (video)](https://youtu.be/Jm2rB29enN4)
 
 ## Resources
 

@@ -24,7 +24,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
 
   **Resources:** [Leave No Trace (video)](https://vimeo.com/1115216743/63b20c0b33?share=copy)
 
-- (3) Present yourself properly dressed for belaying, climbing, and rappelling. Explain why you are wearing each piece of gear and discuss qualities of easy movement, entanglement free and good weather protection and comfort.
+- (3) Present yourself properly dressed for belaying, climbing, and rappelling. Explain why you are wearing each piece of gear and discuss qualities of easy movement, entanglement-free, and good weather protection and comfort.
 
   **Resources:** [Sport Climbing Gear Checklist (video)](https://youtu.be/xBS6SxlC64s), [How To Choose Climbing Shoes (video)](https://youtu.be/jBa5TuXjHOE), [How To Pick Top 10 Sport Climbing Essentials (video)](https://youtu.be/llSukbWw5kQ), [Sport Climbing Gear Checklist (PDF)](https://www.rei.com/dam/sport_climbing_checklist.pdf), [What Gear Do You Need for Winter Climbing (video)](https://youtu.be/KpxCQgL5oZw)
 
@@ -87,7 +87,7 @@ Climbing is not a sport that requires tremendous muscular strength, it demands m
 
     **Resources:** [Rock Climbing: How To Tie a Prusik Knot (video)](https://youtu.be/EFHxQ5fiUvI)
 
-- (8) **Harness, Helmet & Gloves.** Explain the purpose of each of the following and demonstrate how to put them on correctly.
+- (8) **Harness, Helmet and Gloves.** Explain the purpose of each of the following and demonstrate how to put them on correctly.
   - (a) Commercially made climbing harness
 
     **Resources:** [How to Choose a Climbing Harness (video)](https://youtu.be/aRrLfR7rnw0), [How To Put On a Climbing Harness (video)](https://youtu.be/v5WpeMStpf0)

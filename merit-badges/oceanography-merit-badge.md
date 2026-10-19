@@ -73,12 +73,12 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
 - (8) Do ONE of the following:
   - (a) Write a 500-word report on a book about oceanography approved by your counselor.
   - (b) Visit one of the following and write a 500-word report about your visit.
-  - (1) Oceanographic research ship
+    - (1) Oceanographic research ship
 
-    **Resources:** [Tour of a Research Vessel (video)](https://youtu.be/LVDQi5iG99M)
-  - (2) Oceanographic institute, marine laboratory, or marine aquarium
+      **Resources:** [Tour of a Research Vessel (video)](https://youtu.be/LVDQi5iG99M)
+    - (2) Oceanographic institute, marine laboratory, or marine aquarium
 
-    **Resources:** [A Virtual Tour of Bodega Marine Laboratory (video)](https://youtu.be/DYI_gw72bk8?si=2GDdWk4RX68hyIK5), [A Visit to Mote Marine Laboratory & Aquarium (video)](https://youtu.be/aaY1fwyjU1U)
+      **Resources:** [A Virtual Tour of Bodega Marine Laboratory (video)](https://youtu.be/DYI_gw72bk8?si=2GDdWk4RX68hyIK5), [A Visit to Mote Marine Laboratory & Aquarium (video)](https://youtu.be/aaY1fwyjU1U)
   - (c) Explain to your troop, in a five-minute prepared speech, "Why Oceanography Is Important" or describe "Career Opportunities in Oceanography." (Before making your speech, show your speech outline to your counselor for approval.)
 
     **Resources:** [Oceanography Careers (video)](https://youtu.be/uFHREUrMLSY), [How To Work with the Ocean (video)](https://youtu.be/N4d6YRKEaxg)

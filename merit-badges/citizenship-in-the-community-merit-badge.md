@@ -17,10 +17,11 @@ A nation is a patchwork of communities that differ from each other and may be go
   - (a) Using an electronic mapping tool or paper map, locate and pinpoint the following services and landmarks in your community. Determine and record the distances from your home including driving time AND either walking or biking time.
 
     **Resources:** [National Map (app)](https://apps.nationalmap.gov/viewer/), [Google Maps (app)](https://www.google.com/maps), [Apple Map (app)](https://maps.apple.com/search), [How To Create a Table in a Word Document Online (video)](https://youtu.be/LBcZg9gRmbI)
-  - (1) Chief government buildings such as your city hall, county courthouse, and public works/services facilities
-  - (2) Fire station, police station, and hospital nearest your home
-  - (3) Parks, playgrounds, recreation areas, and trails
-  - (4) Historical or other interesting points of interest
+
+    - (1) Chief government buildings such as your city hall, county courthouse, and public works/services facilities
+    - (2) Fire station, police station, and hospital nearest your home
+    - (3) Parks, playgrounds, recreation areas, and trails
+    - (4) Historical or other interesting points of interest
   - (b) Chart the organization of your local or state government. Show the top offices and tell whether they are elected or appointed.
 
     **Resources:** [Three Branches of Government at the State Level (video)](https://youtu.be/_sQNz2liUuY), [The Role and Functions of Local Government (video)](https://youtu.be/gs6lqZEe4Rk)

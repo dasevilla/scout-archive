@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -35,6 +41,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -57,6 +64,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -89,6 +97,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Discuss with your counselor the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -105,6 +119,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -127,6 +142,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -149,6 +165,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -181,6 +198,16 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Demonstrate to your counselor that you know each of the following.",
+          "scope": "ambiguous"
+        },
+        {
+          "text": "Then, using Scouting EDGE to teach someone who does not know how to play chess:",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -202,6 +229,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -224,6 +252,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -246,6 +275,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -280,6 +310,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -304,6 +335,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -320,6 +357,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -342,6 +380,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -376,6 +415,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -410,6 +450,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -446,6 +487,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -462,6 +509,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -496,6 +544,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -532,8 +581,14 @@
           "text": "Set up a chessboard as follows and with White to move first, demonstrate how to force checkmate on the Black king:",
           "requirement_path": "5.c",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Set up a chessboard as follows and with White to move first, demonstrate how to force checkmate on the Black king:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -541,196 +596,200 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14405",
-          "label": "1",
-          "text": "White on e1, the White rooks on a1 and h1, and the Black king on e5",
-          "requirement_path": "5.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "White on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
+              "id": "14405",
+              "label": "1",
+              "text": "White king on e1, the White rooks on a1 and h1, and the Black king on e5",
+              "requirement_path": "5.c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
                 {
                   "type": "text",
-                  "value": "e1"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": ", the White rooks on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
+                  "value": "White king on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "e1"
+                    }
+                  ]
+                },
                 {
                   "type": "text",
-                  "value": "a1"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " and "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
+                  "value": ", the White rooks on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "a1"
+                    }
+                  ]
+                },
                 {
                   "type": "text",
-                  "value": "h1"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": ", and the Black king on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
+                  "value": " and "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "h1"
+                    }
+                  ]
+                },
                 {
                   "type": "text",
-                  "value": "e5"
+                  "value": ", and the Black king on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "e5"
+                    }
+                  ]
                 }
-              ]
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "14406",
+              "label": "2",
+              "text": "White king on e1, White queen on d1, Black king on e5",
+              "requirement_path": "5.c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "White king on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "e1"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ", White queen on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "d1"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ", Black king on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "e5"
+                    }
+                  ]
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "14407",
+              "label": "3",
+              "text": "White king on e1, White rook on a1, Black king on e5",
+              "requirement_path": "5.c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "White king on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "e1"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ", White rook on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "a1"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ", Black king on "
+                },
+                {
+                  "type": "element",
+                  "tag": "i",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "e5"
+                    }
+                  ]
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14406",
-          "label": "2",
-          "text": "White king on e1, White queen on d1, Black king on e5",
-          "requirement_path": "5.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "White king on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "text",
-                  "value": "e1"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": ", White queen on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "text",
-                  "value": "d1"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": ", Black king on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "text",
-                  "value": "e5"
-                }
-              ]
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14407",
-          "label": "3",
-          "text": "White king on e1, White rook on a1, Black king on e5",
-          "requirement_path": "5.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "White king on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "text",
-                  "value": "e1"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": ", White rook on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a1"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": ", Black king on "
-            },
-            {
-              "type": "element",
-              "tag": "i",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "text",
-                  "value": "e5"
-                }
-              ]
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14395",
@@ -738,8 +797,14 @@
           "text": "With White king on d4, White pawn on e3, and Black king on e6:",
           "requirement_path": "5.d",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "With White king on d4, White pawn on e3, and Black king on e6:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -792,41 +857,44 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14408",
-          "label": "1",
-          "text": "With White to move, demonstrate how White can force Black to allow their pawn to reach the last rank and be promoted to a queen.",
-          "requirement_path": "5.1-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "With White to move, demonstrate how White can force Black to allow their pawn to reach the last rank and be promoted to a queen."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14409",
-          "label": "2",
-          "text": "With Black to move, demonstrate how Black can force a draw.",
-          "requirement_path": "5.2-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14408",
+              "label": "1",
+              "text": "With White to move, demonstrate how White can force Black to allow their pawn to reach the last rank and be promoted to a queen.",
+              "requirement_path": "5.d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "With White to move, demonstrate how White can force Black to allow their pawn to reach the last rank and be promoted to a queen."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "With Black to move, demonstrate how Black can force a draw."
+              "id": "14409",
+              "label": "2",
+              "text": "With Black to move, demonstrate how Black can force a draw.",
+              "requirement_path": "5.d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "With Black to move, demonstrate how Black can force a draw."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "14410",
@@ -836,6 +904,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -855,6 +924,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -901,6 +971,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -917,6 +993,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -934,6 +1011,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -951,6 +1029,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

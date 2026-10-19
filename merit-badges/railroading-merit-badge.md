@@ -128,7 +128,7 @@ By earning this badge, Scouts can learn about the history of railroading, its pl
 
       **Resources:** [Railroading Museums in the US (website)](https://whichmuseum.com/place/united-states-2682?q=railroad), [Railroad Museum Etiquette (video)](https://youtu.be/jaU7xtVQBPM)
     - (2) Purchase tickets and ride a scenic or historic railroad. Under supervision, photograph the equipment and discuss with your counselor the historic significance of the operation.
-    - (3) Locate the website of four rail historical groups, then find information on the history of the rail preservation operations and purpose of each group. Talk with a member of one of the groups and find out how you might help.
+    - (3) Locate the websites of four rail historical groups, then find information on the history of the rail preservation operations and purpose of each group. Talk with a member of one of the groups and find out how you might help.
     - (4) Plan a trip by rail between two points. Obtain a schedule and explain when the train should arrive at two intermediate points. Purchase the tickets and make the trip. Explain to your counselor what you saw.
 
 ## Resources

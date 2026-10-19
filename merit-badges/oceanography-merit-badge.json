@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -41,6 +42,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -75,6 +77,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe the characteristics of ocean waves and do the following:",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -96,6 +104,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -122,6 +131,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -152,6 +162,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -174,6 +185,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -202,6 +214,24 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Draw a cross-section of underwater topography.",
+          "scope": "ambiguous"
+        },
+        {
+          "text": "Name and put on your drawing the following: seamount, guyot, rift valley, canyon, trench, and oceanic ridge.",
+          "scope": "ambiguous"
+        },
+        {
+          "text": "Compare the depths in the oceans with the heights of mountains on land.",
+          "scope": "ambiguous"
+        },
+        {
+          "text": "Show what is meant by:",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -231,6 +261,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -248,6 +279,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -265,6 +297,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -284,6 +317,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -310,6 +344,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -344,6 +379,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -360,6 +401,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -401,6 +443,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -427,6 +470,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -449,6 +493,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -471,6 +516,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -509,6 +555,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -533,6 +580,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -549,6 +602,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -564,8 +618,14 @@
           "text": "Visit one of the following and write a 500-word report about your visit.",
           "requirement_path": "8.b",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Visit one of the following and write a 500-word report about your visit.",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -573,55 +633,58 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15089",
-          "label": "1",
-          "text": "Oceanographic research ship",
-          "requirement_path": "8.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Oceanographic research ship"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Tour of a Research Vessel (video)",
-              "url": "https://youtu.be/LVDQi5iG99M"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15090",
-          "label": "2",
-          "text": "Oceanographic institute, marine laboratory, or marine aquarium",
-          "requirement_path": "8.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Oceanographic institute, marine laboratory, or marine aquarium"
-            }
-          ],
-          "resources": [
-            {
-              "title": "A Virtual Tour of Bodega Marine Laboratory (video)",
-              "url": "https://youtu.be/DYI_gw72bk8?si=2GDdWk4RX68hyIK5"
+              "id": "15089",
+              "label": "1",
+              "text": "Oceanographic research ship",
+              "requirement_path": "8.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Oceanographic research ship"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Tour of a Research Vessel (video)",
+                  "url": "https://youtu.be/LVDQi5iG99M"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "A Visit to Mote Marine Laboratory & Aquarium (video)",
-              "url": "https://youtu.be/aaY1fwyjU1U"
+              "id": "15090",
+              "label": "2",
+              "text": "Oceanographic institute, marine laboratory, or marine aquarium",
+              "requirement_path": "8.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Oceanographic institute, marine laboratory, or marine aquarium"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "A Virtual Tour of Bodega Marine Laboratory (video)",
+                  "url": "https://youtu.be/DYI_gw72bk8?si=2GDdWk4RX68hyIK5"
+                },
+                {
+                  "title": "A Visit to Mote Marine Laboratory & Aquarium (video)",
+                  "url": "https://youtu.be/aaY1fwyjU1U"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15092",
@@ -631,6 +694,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -659,6 +723,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

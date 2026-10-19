@@ -13,7 +13,7 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
   - (a) Discuss with your counselor the following hazards you might encounter while motorboating: flammable fuel; carbon monoxide; propellers; collisions; falls overboard; capsize; or running aground. Explain what you should do to anticipate, prevent, mitigate, and respond to these hazards.
 
     **Resources:** [Running Aground Prevention and Response (video)](https://youtu.be/tQ3cHcqV_8A), [Towsport Tips #4 Carbon Monoxide (video)](https://youtu.be/gaZQc_trnCs), [Collision Avoidance Rules (video)](https://youtu.be/TVD0LxihhR8), [Preventing a Capsizing / Fall Overboard (video)](https://youtu.be/Sj2iIZgXRxk)
-  - (b) Explain first aid for injuries or illnesses that could occur while motorboating, including hypothermia, heat reactions, dehydration, motion sickness, bug bites, blisters.
+  - (b) Explain first aid for injuries or illnesses that could occur while motorboating, including hypothermia, heat reactions, dehydration, motion sickness, bug bites, and blisters.
 
     **Resources:** [Cold Water Shock—How to Deal With Cold Water Shock (video)](https://youtu.be/rH3gZuSr6Y8), [What Happens If You Don't Drink Enough Water? Signs of Dehydration + 4 Ways to Keep Hydrated (video)](https://youtu.be/EmNieKLjmH4), [Mayo Clinic Minute—Dangers of Heat-Related Illnesses (video)](https://youtu.be/Rz6Wxiv4aRA), [How To Prevent and Treat Blisters (website)](https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/)
   - (c) Discuss the Scouting America Safety Afloat policy. Tell how it applies to motorboating activities.

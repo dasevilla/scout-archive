@@ -36,7 +36,7 @@ Coin collecting is one of the oldest of all hobbies. Hoards of ancient coins fou
 
     **Resources:** [Susan B. Anthony Coins (website)](https://susanbanthonycoin.com/), [Sacagawea Coins (website)](https://sacagawea-coin.com/), [Presidential Dollar Coins (website)](https://www.usmint.gov/learn/coins-and-medals/collectible-coins/presidential-dollar-coins)
 
-- (5) Describe and discuss with your counselor the special reverse designs of the quarters, half dollar and dollar coin struck in 1975-1976 to honor the U.S. Bicentennial.
+- (5) Describe and discuss with your counselor the special reverse designs of the quarters, half dollar, and dollar coin struck in 1975-1976 to honor the U.S. Bicentennial.
 
   **Resources:** [Bicentennial Coins & Medals (website)](https://www.usmint.gov/learn/coins-and-medals/bicentennial-coins-and-medals)
 

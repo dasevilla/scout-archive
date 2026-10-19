@@ -24,7 +24,7 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
   - (a) Relate three points of the Scout law to things people do on the internet or with computers, phones, and other connected electronic devices.
 
     **Resources:** [Code of Ethics (website)](https://www.eccouncil.org/code-of-ethics/), [The Ten Commandments of Computer Ethics (website)](http://cpsr.org/issues/ethics/cei/)
-  - (b) Discuss with your counselor examples of ethical and unethical behavior in cyberspace. Include how to act responsibly when you encounter situations such as: coming across an unattended or unlocked computer or mobile device; observing someone type their password or seeing it written down near a computer; or discovering a website that is not properly secured. Explain why these situations require good judgement, and how the Scout Law and personal values should guide your actions.
+  - (b) Discuss with your counselor examples of ethical and unethical behavior in cyberspace. Include how to act responsibly when you encounter situations such as: coming across an unattended or unlocked computer or mobile device; observing someone type their password or seeing it written down near a computer; or discovering a website that is not properly secured. Explain why these situations require good judgment, and how the Scout Law and personal values should guide your actions.
 
     **Resources:** [Understanding Cybersecurity Ethics: Navigating Privacy and Security Challenges (website)](https://onlinelaw.csuohio.edu/understanding-cybersecurity-ethics-and-navigating-moral-complexities/)
 

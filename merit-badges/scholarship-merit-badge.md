@@ -10,7 +10,7 @@ Working on the Scholarship merit badge provides Scouts with a great opportunity 
 ## Requirements
 
 - (1) Do ONE of the following:
-  - (a) Show that you have had an average grade of B or higher (80 percent or higher) for one term or semester.
+  - (a) Show that you have had an average grade of B or higher (80% or higher) for one term or semester.
 
     **Resources:** [How to Do Better in School (video)](https://www.youtube.com/shorts/pZMXqaY-bYc)
   - (b) Show that for one term or semester you have improved your school grades over the previous period.

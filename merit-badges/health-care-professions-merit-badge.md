@@ -105,7 +105,7 @@ Explore the different types of the healthcare fields and professions with the He
 
   **Resources:** [Top Medical Breakthroughs of 2025 (video)](https://youtu.be/Wx40AwP_TRs), [How AI Is Transforming Healthcare Across the Country (video)](https://youtu.be/5kwyuYJ2xEA), [Cutting-Edge Medical Advances To Come in 2026 (video)](https://youtu.be/QSE4FcT4z_g)
 
-- (9) With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community (e.g. blood drive, health fair, blood pressure screening event). Report to your counselor what you did and learned from the experience.
+- (9) With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community (e.g., blood drive, health fair, blood pressure screening event). Report to your counselor what you did and learned from the experience.
 
 ## Resources
 

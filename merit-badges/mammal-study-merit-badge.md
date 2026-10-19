@@ -18,7 +18,7 @@ A mammal may weigh as little as 1/12 ounce, as do some shrews, or as much as 150
   **Resources:** [The 5 Kingdoms in Classification (video)](https://youtu.be/oID1h-zL-uw?si=jHkAIYYgKaxKTZwG), [Animal Classification (video)](https://youtu.be/L6anmd7DnYw?si=tVuoSQOwEYpKbYO7), [The Three Types of Mammals, Differences, and How to Tell (video)](https://youtu.be/YAgjPwiSbvA?si=gwU-5Y3dVcmjt8Z7), [Mammal Species of the World Database (website)](https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp)
 
 - (3) Do ONE of the following:
-  - (a) Spend three hours in two different kinds of natural habitats or at different elevations for a total of 6 hours. List the different mammal species and how many of each you identified by sight or sign. Tell why all mammals do not live in the same kind of habitat.
+  - (a) Spend three hours in two different kinds of natural habitats or at different elevations for a total of six hours. List the different mammal species and how many of each you identified by sight or sign. Tell why all mammals do not live in the same kind of habitat.
 
     **Resources:** [How to Find Mammal Signs (video)](https://www.youtube.com/watch?v=x8DfP0Nh7kA), [Animal Tracks Identification Guide \| Animal Footprint ID Charts (website)](https://www.greenbelly.co/pages/animal-tracks-identification-guide)
   - (b) Spend three hours on five different days in at least a 4-acre area (about the size of 3 football fields) for a total of 15 hours. List the mammal species you identified by sight or sign.

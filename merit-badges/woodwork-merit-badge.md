@@ -15,7 +15,7 @@ Wood is an amazingly versatile, practical, yet beautiful material. A skilled cra
     **Resources:** [Safety in Woodworking \| Woodworking (video)](https://youtu.be/GQkUbdE3VS8?si=EpcwqUnpU9BDS6Cz)
   - (b) Show that you know first aid for injuries that could occur while woodworking, including splinters, scratches, cuts, severe bleeding, and shock. Tell what precautions must be taken to help prevent loss of eyesight or hearing, and explain why and when it is necessary to use a dust mask.
 
-    **Resources:** [The Emergency First Aid Kit for Woodworkers Need! (video)](https://youtu.be/A0EmfREhgRw?si=fh9F6uKkRvb4ogza)
+    **Resources:** [Safety in Woodworking \| Woodworking (video)](https://youtu.be/GQkUbdE3VS8?si=EpcwqUnpU9BDS6Cz)
   - (c) Earn the Totin' Chip recognition.
 
 - (2) Do the following:
@@ -23,6 +23,8 @@ Wood is an amazingly versatile, practical, yet beautiful material. A skilled cra
 
     **Resources:** [How Trees Are Made Into Lumber (video)](https://youtu.be/hOO37pcFg5I?si=K7r13Z-hpu-ZMAxB)
   - (b) Collect and label blocks of six kinds of wood useful in woodworking. Describe the chief qualities of each. Give the best uses of each.
+
+    **Resources:** [Types of Plywood (website w/ video)](https://www.homedepot.com/c/ab/types-of-plywood/9ba683603be9fa5395fab909d37f448), [Types of Lumber (website w/ video)](https://www.homedepot.com/c/ab/types-of-lumber/9ba683603be9fa5395fab90567851db)
 
 - (3) Do the following:
   - (a) Show the proper care, use, and storage of all working tools and equipment that you own or use at home or school.
@@ -34,7 +36,7 @@ Wood is an amazingly versatile, practical, yet beautiful material. A skilled cra
 
 - (4) Using a saw, plane, hammer, brace, and bit, make something useful of wood. Cut parts from lumber that you have squared and measured from working drawings.
 
-  **Resources:** [Build This Simple Wooden Tool Box - Hand Saw And A Hammer (video)](https://youtu.be/xV6ql13lfjw?si=02XiV7e925ictjOt), [How to Make a Bench Hook (video)](https://youtu.be/3WIjpz9Ut1c?si=ngE7zV5uIDXLN10w)
+  **Resources:** [Build This Simple Wooden Tool Box - Hand Saw And A Hammer (video)](https://youtu.be/xV6ql13lfjw), [Learn How to Mark, Measure and Cut Wood (video)](https://youtube.com/shorts/F202Whnx27M)
 
 - (5) Create your own woodworking project. Begin by making working drawings, list the materials you will need to complete your project, and then build your project. Keep track of the time you spend and the cost of the materials.
 
@@ -50,14 +52,14 @@ Wood is an amazingly versatile, practical, yet beautiful material. A skilled cra
     **Resources:** [Mitered Mortise & Tenon Joint (video)](https://youtu.be/h0ryuL0DuLE?si=aq-2Jk5UxvEdtZ4F)
   - (d) Make a cabinet, box, or something else with a door or lid fastened with inset hinges.
 
-    **Resources:** [The Special Wooden Box / Invisible Wooden Hinge - Using Basic Tools / Dovetail Joints (video)](https://youtu.be/Syv3JzRXld8?si=LG_MXwk4-tBuDBgK), [An Absurd Number of Wood Box Making Tips & Tricks (video)](https://youtu.be/TazBJ5MSMgc?si=ulffNFnBiQ-I22fi)
-  - (e) Help make wooden toys for underprivileged children OR help carry out a woodworking service project approved by your counselor for a charitable organization.
+    **Resources:** [The Special Wooden Box / Invisible Wooden Hinge - Using Basic Tools / Dovetail Joints (video)](https://youtu.be/Syv3JzRXld8?si=LG_MXwk4-tBuDBgK)
+  - (e) Help make wooden toys for children OR help carry out a woodworking service project approved by your counselor for a charitable organization.
 
     **Resources:** [How To Make Wooden Toys for Kids \| DIY \| Great Home Ideas (video)](https://youtu.be/IwLwNGAxSfg)
 
 - (7) Talk with a cabinetmaker or finish carpenter. Learn about training, apprenticeships, career opportunities, work conditions, work hours, pay rates, and union organization that woodworking experts have in your area.
 
-  **Resources:** [A Day @ AWC : Careers in the Wood Industry (video)](https://youtu.be/lPTR2xdIz9M?si=pyFe8tLbhOh0zqT3), [Kayleen McCabe - Her Career in Woodworking (video)](https://youtu.be/NBHhOMEs9Sk?si=JNOrbPzgNwLd6TK9), [A Total Beginner's Guide to Woodworking (video)](https://youtu.be/zCNgrOR8FEU?si=U9HEuwvA3fi3iqOn)
+  **Resources:** [A Day at AWC: Careers in the Wood Industry (video)](https://youtu.be/lPTR2xdIz9M), [Kayleen McCabe—Her Career in Woodworking (video)](https://youtu.be/NBHhOMEs9Sk)
 
 ## Resources
 

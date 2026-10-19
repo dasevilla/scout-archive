@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -45,6 +46,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -79,6 +81,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -95,6 +103,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -117,6 +126,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -153,6 +163,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do TWO of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -169,6 +185,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -199,6 +216,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -235,8 +253,14 @@
           "text": "Select TWO of the following organizations and describe their role in the world.",
           "requirement_path": "4.c",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Select TWO of the following organizations and describe their role in the world.",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -244,241 +268,251 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "6308",
-          "label": "1",
-          "text": "United Nations and United Nations Children's Fund (UNICEF)",
-          "requirement_path": "4.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "United Nations and United Nations Children's Fund (UNICEF)"
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Is the United Nations? (video)",
-              "url": "https://youtu.be/Ttoad811t88"
+              "id": "6308",
+              "label": "1",
+              "text": "United Nations and United Nations Children's Fund (UNICEF)",
+              "requirement_path": "4.c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "United Nations and United Nations Children's Fund (UNICEF)"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Is the United Nations? (video)",
+                  "url": "https://youtu.be/Ttoad811t88"
+                },
+                {
+                  "title": "What Is UNICEF? (video)",
+                  "url": "https://youtu.be/cx0QyKoyU6A"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "What Is UNICEF? (video)",
-              "url": "https://youtu.be/cx0QyKoyU6A"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "6309",
-          "label": "2",
-          "text": "International Court of Justice (The World Court)",
-          "requirement_path": "4.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "International Court of Justice (The World Court)"
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Is the International Court of Justice? (video)",
-              "url": "https://youtu.be/kJKgYZfeMkE"
+              "id": "6309",
+              "label": "2",
+              "text": "International Court of Justice (The World Court)",
+              "requirement_path": "4.c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "International Court of Justice (The World Court)"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Is the International Court of Justice? (video)",
+                  "url": "https://youtu.be/kJKgYZfeMkE"
+                },
+                {
+                  "title": "International Court of Justice (website)",
+                  "url": "https://www.icj-cij.org/home"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "International Court of Justice (website)",
-              "url": "https://www.icj-cij.org/home"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "6333",
-          "label": "3",
-          "text": "International Criminal Police Organization (Interpol)",
-          "requirement_path": "4.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "International Criminal Police Organization (Interpol)"
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Is The INTERPOL? (video)",
-              "url": "https://youtu.be/nQ1iFMlw0KI"
+              "id": "6333",
+              "label": "3",
+              "text": "International Criminal Police Organization (Interpol)",
+              "requirement_path": "4.c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "International Criminal Police Organization (Interpol)"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Is The INTERPOL? (video)",
+                  "url": "https://youtu.be/nQ1iFMlw0KI"
+                },
+                {
+                  "title": "INTERPOL (website)",
+                  "url": "https://www.interpol.int/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "INTERPOL (website)",
-              "url": "https://www.interpol.int/"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "6310",
-          "label": "4",
-          "text": "World Organization of the Scout Movement",
-          "requirement_path": "4.4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "World Organization of the Scout Movement"
-            }
-          ],
-          "resources": [
-            {
-              "title": "World Organization Scout Movement (WOSM) (video)",
-              "url": "https://youtu.be/EEyM_ChN1yM"
+              "id": "6310",
+              "label": "4",
+              "text": "World Organization of the Scout Movement",
+              "requirement_path": "4.c.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "World Organization of the Scout Movement"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "World Organization Scout Movement (WOSM) (video)",
+                  "url": "https://youtu.be/EEyM_ChN1yM"
+                },
+                {
+                  "title": "World Scouting (website)",
+                  "url": "https://www.scout.org/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "World Scouting (website)",
-              "url": "https://www.scout.org/"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "6311",
-          "label": "5",
-          "text": "World Health Organization (WHO)",
-          "requirement_path": "4.5",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "World Health Organization (WHO)"
-            }
-          ],
-          "resources": [
-            {
-              "title": "The WHO Explained (video)",
-              "url": "https://youtu.be/qhvx5oxbYn0"
+              "id": "6311",
+              "label": "5",
+              "text": "World Health Organization (WHO)",
+              "requirement_path": "4.c.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "World Health Organization (WHO)"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "The WHO Explained (video)",
+                  "url": "https://youtu.be/qhvx5oxbYn0"
+                },
+                {
+                  "title": "World Health Organization (WHO) (website)",
+                  "url": "https://www.who.int/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "World Health Organization (WHO) (website)",
-              "url": "https://www.who.int/"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "6312",
-          "label": "6",
-          "text": "Amnesty International",
-          "requirement_path": "4.6",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Amnesty International"
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Does Amnesty International Do? (video)",
-              "url": "https://youtu.be/xLIndY8JuNk"
+              "id": "6312",
+              "label": "6",
+              "text": "Amnesty International",
+              "requirement_path": "4.c.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Amnesty International"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Does Amnesty International Do? (video)",
+                  "url": "https://youtu.be/xLIndY8JuNk"
+                },
+                {
+                  "title": "Amnesty International (website)",
+                  "url": "https://www.amnesty.org/en/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Amnesty International (website)",
-              "url": "https://www.amnesty.org/en/"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "6313",
-          "label": "7",
-          "text": "International Federation of Red Cross and Red Crescent Societies (IFRC)",
-          "requirement_path": "4.7",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "International Federation of Red Cross and Red Crescent Societies (IFRC)"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Together We Are the International Federation of Red Cross and Red Crescent Societies (video)",
-              "url": "https://youtu.be/ReE835-d8vk"
+              "id": "6313",
+              "label": "7",
+              "text": "International Federation of Red Cross and Red Crescent Societies (IFRC)",
+              "requirement_path": "4.c.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "International Federation of Red Cross and Red Crescent Societies (IFRC)"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Together We Are the International Federation of Red Cross and Red Crescent Societies (video)",
+                  "url": "https://youtu.be/ReE835-d8vk"
+                },
+                {
+                  "title": "IFRC (website)",
+                  "url": "https://www.ifrc.org/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "IFRC (website)",
-              "url": "https://www.ifrc.org/"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "6314",
-          "label": "8",
-          "text": "Cooperative for American Relief Everywhere (CARE)",
-          "requirement_path": "4.8",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Cooperative for American Relief Everywhere (CARE)"
-            }
-          ],
-          "resources": [
-            {
-              "title": "CARE International (video)",
-              "url": "https://youtu.be/MfRlqpKo_t0"
+              "id": "6314",
+              "label": "8",
+              "text": "Cooperative for American Relief Everywhere (CARE)",
+              "requirement_path": "4.c.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Cooperative for American Relief Everywhere (CARE)"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "CARE International (video)",
+                  "url": "https://youtu.be/MfRlqpKo_t0"
+                },
+                {
+                  "title": "CARE International (website)",
+                  "url": "https://www.care.org/"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "CARE International (website)",
-              "url": "https://www.care.org/"
+              "id": "6334",
+              "label": "9",
+              "text": "European Union",
+              "requirement_path": "4.c.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "European Union"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Is the European Union? (video)",
+                  "url": "https://youtu.be/8G1cds52Ko0"
+                },
+                {
+                  "title": "European Union (website)",
+                  "url": "https://european-union.europa.eu/index_en"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "6334",
-          "label": "9",
-          "text": "European Union",
-          "requirement_path": "4.9",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "European Union"
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Is the European Union? (video)",
-              "url": "https://youtu.be/8G1cds52Ko0"
-            },
-            {
-              "title": "European Union (website)",
-              "url": "https://european-union.europa.eu/index_en"
-            }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     },
@@ -490,6 +524,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -506,6 +546,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -528,6 +569,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -550,6 +592,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -578,6 +621,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -594,6 +643,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -620,6 +670,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -654,6 +705,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -686,6 +738,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do TWO of the following (with your parent or guardian's permission) and share with your counselor what you have learned:",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -702,6 +760,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -728,6 +787,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -758,6 +818,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -784,6 +845,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -830,6 +892,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

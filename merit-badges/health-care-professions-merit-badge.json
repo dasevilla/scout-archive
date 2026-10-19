@@ -19,6 +19,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Select three of the professions from Group 1 listed below which interest you, then complete the following:\nGroup 1:\n(1) Allopathic physician (MD)—all specialties\n(2) Osteopathic physician (DO)—all specialties\n(3) Podiatrist (DPM)\n(4) Chiropractor (DC)\n(5) Nurse Practitioner (NP)\n(6) Psychologist (PhD or PsyD)\n(7) Optometrist (OD)\n(8) Audiologist (AudD)",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -138,6 +144,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -188,6 +195,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -236,6 +244,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Select three of the professions from Group 2 listed below which interest you, then complete the following:\nGroup 2:\n(1) Physician Assistant (PA)\n(2) Registered Nurse (RN)\n(3) Certified Nurse Midwife (CNM)\n(4) Certified Nurse Assistant (CNA)\n(5) Licensed Practical Nurse (LPN/LVN)\n(6) Nurse Anesthetist (CRNA)\n(7) Pharmacist (PharmD)\n(8) Pharmacy Technician\n(9) Emergency Medical Technician (EMT)/Paramedic",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -369,6 +383,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -423,6 +438,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -479,6 +495,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Select three of the professions from Group 3 listed below which interest you, then complete the following:\nGroup 3:\n(1) Physical Therapist (DPT)\n(2) Occupational Therapist (OT)\n(3) Orthotist/Prosthetist\n(4) Medical Appliance Technician\n(5) Respiratory Therapist (RT)\n(6) Medical Assistant\n(7) Dietitian (RD)\n(8) Speech-Language Pathologist (Speech Therapist) (SLP)",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -598,6 +620,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -648,6 +671,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -700,6 +724,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Select three of the professions from Group 4 listed below which interest you, then complete the following:\nGroup 4:\n(1) Biomedical Engineer (BME)\n(2) Medical Technologist\n(3) Phlebotomist\n(4) Radiology Technologist\n(5) Sonographer\n(6) Medical Records Specialist\n(7) Cytopathologist\n(8) Histotechnologist",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -819,6 +849,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -869,6 +900,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -921,6 +953,16 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Select one career from any of the lists in requirements 1, 2, 3, or 4 and arrange to visit that professional at their workplace.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Discuss with your counselor the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -942,6 +984,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -959,6 +1002,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -976,6 +1020,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -993,6 +1038,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1010,6 +1056,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1027,6 +1074,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1046,6 +1094,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -1068,6 +1117,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -1094,6 +1144,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -1119,15 +1170,16 @@
     {
       "id": "14748",
       "label": "9",
-      "text": "With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community (e.g. blood drive, health fair, blood pressure screening event). Report to your counselor what you did and learned from the experience.",
+      "text": "With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community (e.g., blood drive, health fair, blood pressure screening event). Report to your counselor what you did and learned from the experience.",
       "requirement_path": "9",
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
-          "value": "With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community (e.g. blood drive, health fair, blood pressure screening event). Report to your counselor what you did and learned from the experience."
+          "value": "With your parent or guardian's and counselor's approval, serve as a volunteer at a health-related event or facility in your community (e.g., blood drive, health fair, blood pressure screening event). Report to your counselor what you did and learned from the experience."
         }
       ],
       "resources": [],

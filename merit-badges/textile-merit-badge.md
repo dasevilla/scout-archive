@@ -14,7 +14,7 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
   **Resources:** [Textiles: What Are They? Where Do They Come From? (video)](https://youtu.be/7-fLaXF6kOs?si=VNaU9JCXzi2FZEq7)
 
 - (2) Do the following:
-  - (a) Get swatches of two natural fiber fabrics (100 percent cotton, linen, wool or silk; no blends). Get swatches of two synthetic fiber fabrics (nylon, polyester, acrylic, olefin, or spandex). Get a sample of one cellulosic fabric (rayon, acetate or lyocell).
+  - (a) Get swatches of two natural fiber fabrics (100% cotton, linen, wool, or silk; no blends). Get swatches of two synthetic fiber fabrics (nylon, polyester, acrylic, olefin, or spandex). Get a sample of one cellulosic fabric (rayon, acetate, or lyocell).
   - (b) Give the origin, major characteristics, and general content of each type of fiber obtained for 2(a). Explain the difference between a cellulosic manufactured fiber and a synthetic manufactured fiber.
 
     **Resources:** [Natural vs Synthetic Fibers (Which to Choose and Why) (video)](https://youtu.be/cRLPUAPCfuo)

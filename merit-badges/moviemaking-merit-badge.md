@@ -40,15 +40,15 @@ Moviemaking is a way to tell stories visually through the art and science of mot
 
       **Resources:** [5 Tips for Shooting Handheld Videos (video)](https://youtu.be/LuJdvwm8-0k), [Birdman: Anatomy of a Scene (video)](https://youtu.be/PVmaJAmQ3yQ)
   - (d) Using motion picture shooting techniques, plan ONE of the following programs. Start with a treatment and complete the requirement by presenting this program to a pack or your troop, patrol, or class.
-  - (1) Film a court of honor and show it to an audience.
+    - (1) Film a court of honor and show it to an audience.
 
-    **Resources:** [4 Videography Tips for Beginners (video)](https://youtu.be/oPfet0ypjmY?si=flKBth5nUkcFZelI)
-  - (2) Create a short feature of your own design, using the techniques you learned.
+      **Resources:** [4 Videography Tips for Beginners (video)](https://youtu.be/oPfet0ypjmY?si=flKBth5nUkcFZelI)
+    - (2) Create a short feature of your own design, using the techniques you learned.
 
-    **Resources:** [10 Tips for Beginner Videographers (video)](https://youtu.be/kZWH6OBDdR0?si=e1VBvG2lGwQHKqEY)
-  - (3) Shoot a vignette that could be used to train a new Scout in a Scouting skill.
+      **Resources:** [10 Tips for Beginner Videographers (video)](https://youtu.be/kZWH6OBDdR0?si=e1VBvG2lGwQHKqEY)
+    - (3) Shoot a vignette that could be used to train a new Scout in a Scouting skill.
 
-    **Resources:** [How to Make a Great Instructional Video (video)](https://youtu.be/cLLuuV_57JY?si=vcdpLOuyRcHeC1jf)
+      **Resources:** [How to Make a Great Instructional Video (video)](https://youtu.be/cLLuuV_57JY?si=vcdpLOuyRcHeC1jf)
 
 - (3) Do ONE of the following:
   - (a) With your parent or guardian's permission and your counselor's approval, visit a film set or television production studio and watch how production work is done.

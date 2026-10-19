@@ -14,78 +14,80 @@ Scouts are often called upon to help because they know first aid and they know a
 
     **Resources:** [5 Steps of Disaster Risk Management (video)](https://youtu.be/xjlPmSXj24Y)
   - (b) Using a chart, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 1(a) (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. Discuss your findings with your counselor.
-  - (1) Home stovetop or oven fire
+    - (1) Home stovetop or oven fire
 
-    **Resources:** [How to Put Out a Stovetop Fire (video)](https://youtu.be/AFwkGTEles8)
-  - (2) Home flammable liquid fire
+      **Resources:** [How to Put Out a Stovetop Fire (video)](https://youtu.be/AFwkGTEles8)
+    - (2) Home flammable liquid fire
 
-    **Resources:** [Flammable Liquids (video)](https://youtu.be/ofH8KxvtfZw)
-  - (3) Gas leak in or near a home or with outside cooking
+      **Resources:** [Flammable Liquids (video)](https://youtu.be/ofH8KxvtfZw)
+    - (3) Gas leak in or near a home or with outside cooking
 
-    **Resources:** [What to Do If You Smell Gas (video)](https://youtu.be/RPJGdDOeGx0?si=1sYjSYZy3Hn1xwUW), [How to Turn Off Main Gas Valve (video)](https://youtu.be/W8OKKu0dVUA)
-  - (4) Food poisoning
+      **Resources:** [What to Do If You Smell Gas (video)](https://youtu.be/RPJGdDOeGx0?si=1sYjSYZy3Hn1xwUW), [How to Turn Off Main Gas Valve (video)](https://youtu.be/W8OKKu0dVUA)
+    - (4) Food poisoning
 
-    **Resources:** [Stomach Flu and Food Poisoning (video)](https://youtu.be/VKw0cpNLALI?si=c2nZIN0OgYjoKABA), [Safe Food Handling (video)](https://www.youtube.com/watch?v=nf4R6XHCU4Q), [How to Know If You Have Food Poisoning (video)](https://youtu.be/U7yq-GwbcgE)
-  - (5) Automobile crash
+      **Resources:** [Stomach Flu and Food Poisoning (video)](https://youtu.be/VKw0cpNLALI?si=c2nZIN0OgYjoKABA), [Safe Food Handling (video)](https://www.youtube.com/watch?v=nf4R6XHCU4Q), [How to Know If You Have Food Poisoning (video)](https://youtu.be/U7yq-GwbcgE)
+    - (5) Automobile crash
 
-    **Resources:** [Responding to a Car Crash (video)](https://youtu.be/uMAgxMFjz6A?si=HSF5Su0SyabxF-Rl)
-  - (6) Vehicle stalled in the desert
+      **Resources:** [Responding to a Car Crash (video)](https://youtu.be/uMAgxMFjz6A?si=HSF5Su0SyabxF-Rl)
+    - (6) Vehicle stalled in the desert
 
-    **Resources:** [A Desert Survival Experience (video)](https://youtu.be/Do2DSJwMpVw)
-  - (7) Vehicle trapped in a blizzard
+      **Resources:** [A Desert Survival Experience (video)](https://youtu.be/Do2DSJwMpVw)
+    - (7) Vehicle trapped in a blizzard
 
-    **Resources:** [How to Survive A Car Stranding in Winter (video)](https://youtu.be/QU-VXl7eqcg)
-  - (8) Backcountry injury
+      **Resources:** [6 Critical Tips You Need To Know in Order To Survive Being Stranded in Your Car in Freezing Temperatures (website w/ video)](https://readynutrition.com/resources/6-critical-tips-you-need-to-know-in-order-to-survive-being-stranded-in-your-car-in-freezing-temperatures_06012018/)
+    - (8) Backcountry injury
 
-    **Resources:** [Patient Assessment (video)](https://youtu.be/hXQAmx2AYIk?si=BAUtTIDcUUVTWFu2), [Review of Traumatic Injuries with Wilderness First Aid (video)](https://youtu.be/QK8rf9Q9zKQ?si=bDXzfaKi9A-gom9v)
-  - (9) Boating or water accident
+      **Resources:** [Patient Assessment (video)](https://youtu.be/hXQAmx2AYIk?si=BAUtTIDcUUVTWFu2), [Review of Traumatic Injuries with Wilderness First Aid (video)](https://youtu.be/QK8rf9Q9zKQ?si=bDXzfaKi9A-gom9v)
+    - (9) Boating or water accident
 
-    **Resources:** [Preventing and Managing Boating Accidents (website)](https://www.boat-ed.com/indiana/studyGuide/If-You-Capsize-Swamp-or-Fall-Overboard/10101602_35419/)
-  - (10) Toxic chemical spills and releases
+      **Resources:** [Preventing and Managing Boating Accidents (website)](https://www.boat-ed.com/indiana/studyGuide/If-You-Capsize-Swamp-or-Fall-Overboard/10101602_35419/)
+    - (10) Toxic chemical spills and releases
 
-    **Resources:** [Chemical Spill Preparedness (video)](https://www.youtube.com/watch?v=K30BBRgt7BM), [Household Chemical Emergencies (website)](https://www.ready.gov/household-chemical-emergencies)
-  - (11) Nuclear power plant emergency
+      **Resources:** [Chemical Spill Preparedness (video)](https://www.youtube.com/watch?v=K30BBRgt7BM), [Household Chemical Emergencies (website)](https://www.ready.gov/household-chemical-emergencies)
+    - (11) Nuclear power plant emergency
 
-    **Resources:** [How to Stay Safe in a Nuclear Emergency (video)](https://youtu.be/tqDna6z4F9c)
-  - (12) Fire or explosion in a public place
+      **Resources:** [How to Stay Safe in a Nuclear Emergency (video)](https://youtu.be/tqDna6z4F9c)
+    - (12) Fire or explosion in a public place
 
-    **Resources:** [How to Survive a Building Explosion (video)](https://youtu.be/uXG31J68dcY), [How to Survive a Burning High-Rise (video)](https://youtu.be/P8Naa4pzDdo?si=PAoTGFJgturiTeSm)
-  - (13) Violence in a public place
+      **Resources:** [How to Survive a Building Explosion (video)](https://youtu.be/uXG31J68dcY), [How to Survive a Burning High-Rise (video)](https://youtu.be/P8Naa4pzDdo?si=PAoTGFJgturiTeSm)
+    - (13) Violence in a public place
 
-    **Resources:** [A Navy SEAL Reveals How to Survive an Active Shooter (video)](https://youtu.be/5pgxzPoxv4w?si=jqbo9MdHYyjz6bLP)
-  - (14) Wildland fire
+      **Resources:** [How To Respond to an Active Shooter (video)](https://www.youtube.com/watch?v=sshDd_AgRAA&t=6s)
+    - (14) Wildland fire
 
-    **Resources:** [If You Are Trapped by a Wildfire (video)](https://youtu.be/fhiaP01lfhk)
-  - (15) Avalanche (snowslide or rockslide)
+      **Resources:** [If You Are Trapped by a Wildfire (video)](https://youtu.be/fhiaP01lfhk), [How To Prepare for Wildfires (website)](https://www.homedepot.com/c/ai/how-to-prepare-for-wildfires/9ba683603be9fa5395fab90e9b6eb4f)
+    - (15) Avalanche (snowslide or rockslide)
 
-    **Resources:** [Survive an Avalanche (video)](https://youtu.be/levLNlIEViI), [How to Survive a Landslide (video)](https://youtu.be/9j_StYqR_Pg)
-  - (16) Earthquake
+      **Resources:** [Survive an Avalanche (video)](https://youtu.be/levLNlIEViI), [How to Survive a Landslide (video)](https://youtu.be/9j_StYqR_Pg)
+    - (16) Earthquake
 
-    **Resources:** [10 Ways to Survive an Earthquake (video)](https://youtu.be/hWSu4l1RxLg?si=jO2xOSPR0uj-ZtE6)
-  - (17) Tsunami
+      **Resources:** [10 Ways To Survive an Earthquake (video)](https://youtu.be/hWSu4l1RxLg), [How To Prepare for an Earthquake (website)](https://www.homedepot.com/c/ah/how-to-prepare-for-an-earthquake-/9ba683603be9fa5395fab90137077c1a)
+    - (17) Tsunami
 
-    **Resources:** [How to Survive a Tsunami (video)](https://youtu.be/PSMXZPjJwAw)
-  - (18) Major flooding or a flash flood with water outage
+      **Resources:** [How to Survive a Tsunami (video)](https://youtu.be/PSMXZPjJwAw)
+    - (18) Major flooding or a flash flood with water outage
 
-    **Resources:** [How to Survive a Flood (video)](https://youtu.be/rV1iqRD9EKY)
-  - (19) Hurricane with power outage
+      **Resources:** [How To Survive a Flood (video)](https://youtu.be/rV1iqRD9EKY), [How To Prepare for a Flood (website w/ video)](https://www.homedepot.com/c/ah/how-to-prepare-for-a-flood/9ba683603be9fa5395fab90e40527b3)
+    - (19) Hurricane with power outage
 
-    **Resources:** [How to Survive a Hurricane (video)](https://youtu.be/TqZ3M7xh8jM)
-  - (20) Tornado
+      **Resources:** [How To Survive a Hurricane (video)](https://youtu.be/TqZ3M7xh8jM), [How To Prepare for a Hurricane (website w/ video)](https://www.homedepot.com/c/ab/how-to-prepare-for-a-hurricane/9ba683603be9fa5395fab90b70dffd2)
+    - (20) Tornado
 
-    **Resources:** [How to Survive a Tornado (video)](https://youtu.be/donE6SxyHXw?si=cHfxJ0HuR3lLgw9S)
-  - (21) Lightning storm
+      **Resources:** [How To Prepare for a Tornado (website)](https://www.homedepot.com/c/ab/how-to-prepare-for-a-tornado/9ba683603be9fa5395fab901359a067b), [TERRIFYING Tornado Scenarios: What You Should Do (video)](https://youtu.be/CAjkJ2kSMmE)
+    - (21) Lightning storm
 
-    **Resources:** [What Happens When You Are Struck by Lightning (video)](https://youtu.be/T3BT-cnHjik), [Backcountry Lightning Safety (website)](https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/)
+      **Resources:** [What Happens When You Are Struck by Lightning (video)](https://youtu.be/T3BT-cnHjik), [Backcountry Lightning Safety (website)](https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/)
 
 - (2) **Planning for Family Emergencies.** Do the following:
   - (a) At a family meeting, discuss the situations on the chart you created for requirement 1(b) and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor.
 
     **Resources:** [How to Shelter in Place (video)](https://youtu.be/xjpoh7lGqLg), [How to Evacuate From Wildfires (video)](https://youtu.be/kb95NzvM92g)
   - (b) Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor.
+
+    **Resources:** [Home Fire Safety Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Home%20Fire%20Safety%20Checklist.pdf), [Home Fire Escape Plan (PDF)](https://www.redcross.org/content/dam/redcross/get-help/fire-safety/Home-Fire-Escape-Plan-English-Spanish.pdf), [Plan Your Escape: High-Rise Apartment Fire (video)](https://www.youtube.com/watch?v=iOCx5ZQeLLU&t=2s)
   - (c) Using a checklist in the *Emergency Preparedness* merit badge pamphlet or one approved by your counselor, prepare or inspect a family disaster kit for sheltering-in-place and for evacuation of your home. Review the needs and uses of the items in a kit with your counselor.
 
-    **Resources:** [Checklist for Sheltering in Place (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Family%20Emergency%20Sheltering%20in%20Place%20Checklist%2001%202026.pdf), [Checklist for Evacuation (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Evacuation.pdf), [Build a Kit (website)](https://www.ready.gov/kit)
+    **Resources:** [Checklist for Sheltering in Place (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Family%20Emergency%20Sheltering%20in%20Place%20Checklist%2001%202026.pdf), [Checklist for Evacuation (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Evacuation.pdf), [Build a Kit (website)](https://www.ready.gov/kit), [Shelter in Place Drill Checklist (website)](https://www.homedepot.com/c/ab/shelter-in-place-drill-checklist/9ba683603be9fa5395fab901b57e20ec)
 
 - (3) **Preventing Accidents and Emergencies.** Do ONE of the following:
   - (a) Using a home safety checklist included in the *Emergency Preparedness* merit badge pamphlet or one approved by your counselor, inspect a home (or a similar building near where you live or at a camp) for safety hazards with the help of an adult. Present your completed checklist to and discuss your findings with your counselor.
@@ -118,7 +120,7 @@ Scouts are often called upon to help because they know first aid and they know a
     **Resources:** [Ways to Signal for Help in the Wilderness (video)](https://youtu.be/4BHi5lBYwro)
   - (c) Show ways to attract the attention of searchers on the water if you are stranded with a capsized or disabled motorboat or sailboat.
 
-    **Resources:** [Signaling Devices for a Water Rescue (video)](https://www.youtube.com/shorts/-0euvnZe_OM), [Water Rescue Signaling (video)](https://youtu.be/mQUXLU4bQkE?si=vlr7MfwEZ4DGzzpB), [How does an EPIRB work? (video)](https://youtu.be/xwbgU9envik), [PLB and EPIRB Emergency Beacons (video)](https://youtu.be/CGLDG7n7g5U?si=AEWhOs7SVf-2zWCR)
+    **Resources:** [Signaling Devices for a Water Rescue (video)](https://www.youtube.com/shorts/-0euvnZe_OM), [Water Rescue Signaling (video)](https://youtu.be/mQUXLU4bQkE), [How does an EPIRB work? (video)](https://youtu.be/xwbgU9envik)
 
 - (6) **Moving an Injured Person.** With another person, show two good ways to transport an injured person out of a remote area using improvised stretchers to conserve the energy of rescuers while ensuring the well-being and protection of the injured person.
 

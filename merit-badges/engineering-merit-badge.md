@@ -28,7 +28,7 @@ Engineers use both science and technology to turn ideas into reality, devising a
   - (d) Ask to see the reports that the engineer writes concerning the project.
   - (e) Discuss with your counselor what you learned about engineering from this visit.
 
-- (5) Use the systems engineering approach to design an original piece of patrol equipment, a toy or a useful device for the home, office or garage.
+- (5) Use the systems engineering approach to design an original piece of patrol equipment, a toy, or a useful device for the home, office, or garage.
 
   **Resources:** [The Engineering Process (video)](https://youtu.be/fxJWin195kU?si=oNshjNfLvbcZl-mg)
 

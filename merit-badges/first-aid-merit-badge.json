@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -46,6 +52,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -72,6 +79,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -106,6 +114,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -136,6 +145,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -162,6 +172,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -184,6 +195,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -214,6 +226,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -242,6 +255,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -269,6 +288,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -291,6 +311,12 @@
           "node_kind": "action_requirement",
           "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Using checklists provided in the First Aid merit badge pamphlet or ones approved by your counselor, do the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -331,6 +357,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -348,6 +375,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -369,6 +397,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -409,6 +443,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -443,6 +478,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -469,6 +505,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -491,6 +528,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -513,6 +551,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -539,6 +578,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -561,6 +601,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -595,6 +636,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -621,6 +663,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -643,6 +686,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -677,6 +721,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -703,6 +748,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -737,6 +783,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -767,6 +814,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -793,6 +841,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -819,6 +868,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -841,6 +891,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -873,6 +924,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe the symptoms and signs of, show first aid for, and explain prevention of these wounds:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -900,6 +957,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -922,6 +980,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -944,6 +1003,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -966,6 +1026,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -994,6 +1055,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions affecting breathing:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1021,6 +1088,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1047,6 +1115,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1077,6 +1146,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1103,6 +1173,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1129,6 +1200,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1153,6 +1225,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions causing loss of consciousness:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1180,6 +1258,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1202,6 +1281,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1224,6 +1304,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1246,6 +1327,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1272,6 +1354,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1294,6 +1377,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1320,6 +1404,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1344,6 +1429,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1371,6 +1462,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1397,6 +1489,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1419,6 +1512,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1441,6 +1535,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1463,6 +1558,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1485,6 +1581,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1502,15 +1599,16 @@
         {
           "id": "13369",
           "label": "g",
-          "text": "Identify the typical location(s) of one or more AED(s) at public facilities in your community, such as, your school, place of worship, unit meeting place, sports facilities, and/or camp or by using a smart phone app. Discuss the reasons for choosing locations like these.",
+          "text": "Identify the typical location(s) of one or more AED(s) at public facilities in your community, such as, your school, place of worship, unit meeting place, sports facilities, and/or camp or by using a smartphone app. Discuss the reasons for choosing locations like these.",
           "requirement_path": "7.g",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
-              "value": "Identify the typical location(s) of one or more AED(s) at public facilities in your community, such as, your school, place of worship, unit meeting place, sports facilities, and/or camp or by using a smart phone app. Discuss the reasons for choosing locations like these."
+              "value": "Identify the typical location(s) of one or more AED(s) at public facilities in your community, such as, your school, place of worship, unit meeting place, sports facilities, and/or camp or by using a smartphone app. Discuss the reasons for choosing locations like these."
             }
           ],
           "resources": [
@@ -1531,6 +1629,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1558,6 +1662,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1588,6 +1693,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1610,6 +1716,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1630,8 +1737,14 @@
           "text": "Demonstrate bandages for these injuries:",
           "requirement_path": "8.d",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Demonstrate bandages for these injuries:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -1639,73 +1752,77 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13370",
-          "label": "1",
-          "text": "Arm slings for forearm or upper arm or collarbone fractures",
-          "requirement_path": "8.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Arm slings for forearm or upper arm or collarbone fractures"
-            }
-          ],
-          "resources": [
+              "id": "13370",
+              "label": "1",
+              "text": "Arm slings for forearm or upper arm or collarbone fractures",
+              "requirement_path": "8.d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Arm slings for forearm or upper arm or collarbone fractures"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Bandages for Sprained Ankle, Head, Upper Arm, Collarbone (video)",
+                  "url": "https://youtu.be/ybpr7nCelK0?si=2SjPp8f4iMAzfVBv"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Bandages for Sprained Ankle, Head, Upper Arm, Collarbone (video)",
-              "url": "https://youtu.be/ybpr7nCelK0?si=2SjPp8f4iMAzfVBv"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13371",
-          "label": "2",
-          "text": "Elastic wrap and cravat bandages for ankle sprain",
-          "requirement_path": "8.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "13371",
+              "label": "2",
+              "text": "Elastic wrap and cravat bandages for ankle sprain",
+              "requirement_path": "8.d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Elastic wrap and cravat bandages for ankle sprain"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Elastic Wrap for Ankle Sprain (video)",
+                  "url": "https://youtu.be/KRyaemlcJAM?si=_A2ie3PNfdiH1n-0"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Elastic wrap and cravat bandages for ankle sprain"
+              "id": "13372",
+              "label": "3",
+              "text": "Elastic wrap and cravat bandages for wrist sprain or hand injury",
+              "requirement_path": "8.d.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Elastic wrap and cravat bandages for wrist sprain or hand injury"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Wrist Wrap (video)",
+                  "url": "https://youtu.be/tdRMJIu2E08"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "resources": [
-            {
-              "title": "Elastic Wrap for Ankle Sprain (video)",
-              "url": "https://youtu.be/KRyaemlcJAM?si=_A2ie3PNfdiH1n-0"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13372",
-          "label": "3",
-          "text": "Elastic wrap and cravat bandages for wrist sprain or hand injury",
-          "requirement_path": "8.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Elastic wrap and cravat bandages for wrist sprain or hand injury"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Wrist Wrap (video)",
-              "url": "https://youtu.be/tdRMJIu2E08"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13373",
@@ -1713,8 +1830,14 @@
           "text": "Demonstrate the proper procedures for handling and splinting of suspected closed or open fractures or dislocations of the:",
           "requirement_path": "8.e",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Demonstrate the proper procedures for handling and splinting of suspected closed or open fractures or dislocations of the:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -1722,95 +1845,100 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13374",
-          "label": "1",
-          "text": "Finger and toe",
-          "requirement_path": "8.1-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Finger and toe"
-            }
-          ],
-          "resources": [
+              "id": "13374",
+              "label": "1",
+              "text": "Finger and toe",
+              "requirement_path": "8.e.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Finger and toe"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Buddy Taping Toes (video)",
+                  "url": "https://youtu.be/P-D0njmVMVA"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Buddy Taping Toes (video)",
-              "url": "https://youtu.be/P-D0njmVMVA"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13375",
-          "label": "2",
-          "text": "Forearm or wrist",
-          "requirement_path": "8.2-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "13375",
+              "label": "2",
+              "text": "Forearm or wrist",
+              "requirement_path": "8.e.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Forearm or wrist"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Splints for Arms and Legs (video)",
+                  "url": "https://youtu.be/jhXWT4UpC-8"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Forearm or wrist"
-            }
-          ],
-          "resources": [
+              "id": "13376",
+              "label": "3",
+              "text": "Upper leg",
+              "requirement_path": "8.e.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Upper leg"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Upper Leg Splint (video)",
+                  "url": "https://youtu.be/5KJIojnNAPU?si=qfwme0YazWPIMn0c"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Splints for Arms and Legs (video)",
-              "url": "https://youtu.be/jhXWT4UpC-8"
+              "id": "13377",
+              "label": "4",
+              "text": "Lower leg or ankle",
+              "requirement_path": "8.e.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Lower leg or ankle"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Leg Splints (video)",
+                  "url": "https://youtu.be/TacM-3A5Ozk"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13376",
-          "label": "3",
-          "text": "Upper leg",
-          "requirement_path": "8.3-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Upper leg"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Upper Leg Splint (video)",
-              "url": "https://youtu.be/5KJIojnNAPU?si=qfwme0YazWPIMn0c"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13377",
-          "label": "4",
-          "text": "Lower leg or ankle",
-          "requirement_path": "8.4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Lower leg or ankle"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Leg Splints (video)",
-              "url": "https://youtu.be/TacM-3A5Ozk"
-            }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     },
@@ -1822,6 +1950,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1849,6 +1983,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1875,6 +2010,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1901,6 +2037,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1923,6 +2060,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1947,6 +2085,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -1974,6 +2118,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -1996,6 +2141,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2018,6 +2164,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2040,6 +2187,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2062,6 +2210,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2086,6 +2235,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe the symptoms and signs of, show first aid for, and explain prevention of these conditions associated with exertion and/or heat or cold exposure:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -2113,6 +2268,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2139,6 +2295,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2165,6 +2322,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2187,6 +2345,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2209,6 +2368,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2231,6 +2391,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2243,15 +2404,11 @@
               "url": "https://youtu.be/my6JB41apTw"
             },
             {
-              "title": "C.O.L.D. Guidelines for Staying warm (website)",
+              "title": "C.O.L.D. Guidelines for Staying Warm (website)",
               "url": "https://www.scouting.org/health-and-safety/safety-moments/winter-activity/"
             },
             {
-              "title": "Frostbite and Hypothermia (website)",
-              "url": "https://health.mo.gov/living/healthcondiseases/hypothermia/index.php"
-            },
-            {
-              "title": "Recognize the \"Umbles\"  and Avoid Hypothermia (video)",
+              "title": "How To Recognize and Avoid Hypothermia (video)",
               "url": "https://youtu.be/aDAqWLpHXXU"
             }
           ],
@@ -2267,6 +2424,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Describe the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -2294,6 +2457,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2328,6 +2492,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2362,6 +2527,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2379,6 +2545,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2398,6 +2565,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe the symptoms and signs of, show first aid for, and explain prevention of the following conditions:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -2425,6 +2598,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2451,6 +2625,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2477,6 +2652,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2499,6 +2675,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2529,6 +2706,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2565,6 +2743,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -2587,6 +2766,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -2603,6 +2788,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2625,6 +2811,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2655,6 +2842,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -2677,6 +2865,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

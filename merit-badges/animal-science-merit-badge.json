@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -61,6 +62,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -99,6 +101,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -129,6 +132,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -171,6 +175,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -187,6 +197,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -209,6 +220,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -231,6 +243,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -263,6 +276,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Complete ONE of the following options:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -279,6 +298,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -306,6 +331,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -328,6 +354,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -354,6 +381,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -384,6 +412,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -412,6 +441,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -439,6 +474,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -469,6 +505,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -499,6 +536,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -521,6 +559,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -543,6 +582,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -565,6 +605,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -597,6 +638,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -624,6 +671,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -641,6 +689,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -671,6 +720,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -709,6 +759,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -731,6 +782,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -759,6 +811,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Choose one and do ALL of the following based upon the choice:",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -786,6 +844,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -812,6 +871,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -838,6 +898,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -860,6 +921,12 @@
               "node_kind": "action_requirement",
               "is_container": true,
               "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Based on your choice, do ONE of the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -876,6 +943,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -910,6 +978,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -942,6 +1011,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -970,6 +1040,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -997,6 +1073,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1023,6 +1100,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1049,6 +1127,12 @@
               "node_kind": "instruction_container",
               "is_container": true,
               "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do ONE of the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -1065,6 +1149,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1087,6 +1172,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1111,6 +1197,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1135,6 +1222,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -1162,6 +1255,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1188,6 +1282,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1210,6 +1305,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1236,6 +1332,12 @@
               "node_kind": "instruction_container",
               "is_container": true,
               "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do ONE of the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -1252,6 +1354,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1274,6 +1377,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1296,6 +1400,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -1320,6 +1425,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -1346,6 +1452,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

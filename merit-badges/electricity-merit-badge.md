@@ -87,6 +87,8 @@ Learn why electricity plays a significant role in the economy and how energy con
     **Resources:** [Open Circuits, Closed Circuits & Short Circuits - Basic Introduction (video)](https://youtu.be/v5RJf_V0LYA), [What Is Electric Potential Difference? (video)](https://youtu.be/0Ckmt2QyeqQ)
   - (d) Equipment and their use: circuit, conductor, Ground Fault Circuit Interrupter (GFCI), insulator, inverter, rectifier, rheostat, substation, surge protection, solar panel, transformer, transmission and distribution systems, and wind turbine.
 
+    **Resources:** [Types of Circuit Breakers (website w/ video)](https://www.homedepot.com/c/ab/types-of-circuit-breakers/9ba683603be9fa5395fab900f0d22b4), [Surge Protectors (website w/ video)](https://www.homedepot.com/c/ab/best-surge-protectors-for-your-home/9ba683603be9fa5395fab90a9c684df)
+
 - (10) Do TWO of the following:
   - (a) Connect a buzzer, bell, or light with a battery. Have a key or switch in the line.
 
@@ -99,7 +101,7 @@ Learn why electricity plays a significant role in the economy and how energy con
     **Resources:** [The Rheostat (video)](https://youtu.be/iR3HQR3zu3k)
   - (d) Build a single-pole, double-throw switch. Show that it works.
 
-    **Resources:** [How a Single Pole Double Throw SPDT Switch Works Make and Break (video)](https://youtu.be/EAvbAiZX2CI)
+    **Resources:** [How To Replace Switches and Outlets (video)](https://youtu.be/hludzoUjXl0)
   - (e) Explain how 3-way switch wiring works in a lighting circuit.
 
     **Resources:** [Best Explanation of 3WAY Switching - in Under 3 Minutes! (video)](https://youtu.be/RKZrg6XKjak)
@@ -109,7 +111,7 @@ Learn why electricity plays a significant role in the economy and how energy con
 
 - (11) Identify three career opportunities that would use skills and knowledge in electricity. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-  **Resources:** [Career Opportunities with an Electrical Engineering Degree (video)](https://www.tiktok.com/@mal_hoovs/video/7433223621667163438), [Power Plant Operators, Distributors, and Dispatchers Careers (video)](https://youtu.be/Ug9QtgaRplo)
+  **Resources:** [Electricians: The Many Career Paths (video)](https://youtu.be/Ya9KIN1GzbA), [Power Plant Operators, Distributors, and Dispatchers Careers (video)](https://youtu.be/Ug9QtgaRplo)
 
 ## Resources
 

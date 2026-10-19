@@ -85,29 +85,29 @@ Conservation isn’t just the responsibility of soil and plant scientists, hydro
 
 - (7) Do TWO of the following:
   - (a) Make a trip to TWO of the following places. Write a report of more than 500 words about the soil and water and energy conservation practices you saw.
-  - (1) An agricultural experiment
+    - (1) An agricultural experiment
 
-    **Resources:** [Alabama's "Old Rotation" Experiment (website)](https://encyclopediaofalabama.org/article/alabamas-old-rotation-experiment/)
-  - (2) A managed forest or woodlot, range, or pasture
+      **Resources:** [Alabama's "Old Rotation" Experiment (website)](https://encyclopediaofalabama.org/article/alabamas-old-rotation-experiment/)
+    - (2) A managed forest or woodlot, range, or pasture
 
-    **Resources:** [Visit to Managed International Paper Forest (video)](https://youtu.be/1iTvc_8AFVc)
-  - (3) A wildlife refuge or a fish or game management area
+      **Resources:** [Visit to Managed International Paper Forest (video)](https://youtu.be/1iTvc_8AFVc)
+    - (3) A wildlife refuge or a fish or game management area
 
-    **Resources:** [Visit to Tennessee National Wildlfe Refuge (video)](https://youtu.be/7CynjbXAT24?si=NAvtBGsad_beRE5i)
-  - (4) A conservation-managed farm or ranch
-  - (5) A managed watershed
+      **Resources:** [Visit to Tennessee National Wildlfe Refuge (video)](https://youtu.be/7CynjbXAT24?si=NAvtBGsad_beRE5i)
+    - (4) A conservation-managed farm or ranch
+    - (5) A managed watershed
 
-    **Resources:** [Watershed Forestry (Massachusetts) (video)](https://youtu.be/wniaQsuelWs)
-  - (6) A waste-treatment plant
+      **Resources:** [Watershed Forestry (Massachusetts) (video)](https://youtu.be/wniaQsuelWs)
+    - (6) A waste-treatment plant
 
-    **Resources:** [How Chicago Cleans 1.4 Billion Gallons Of Wastewater Every Day (video)](https://youtu.be/P4l-4ehUqhc)
-  - (7) A public drinking water treatment plant
-  - (8) An industry water use installation
+      **Resources:** [How Chicago Cleans 1.4 Billion Gallons Of Wastewater Every Day (video)](https://youtu.be/P4l-4ehUqhc)
+    - (7) A public drinking water treatment plant
+    - (8) An industry water use installation
 
-    **Resources:** [Water Use in the Paper Industry (video)](https://youtu.be/qaeXBpag72Q), [How Data Centers Optimize Energy and Water for Cooling Solutions (video)](https://youtu.be/ufJcrXrVaBI)
-  - (9) A desalinization plant
+      **Resources:** [Water Use in the Paper Industry (video)](https://youtu.be/qaeXBpag72Q), [How Data Centers Optimize Energy and Water for Cooling Solutions (video)](https://youtu.be/ufJcrXrVaBI)
+    - (9) A desalinization plant
 
-    **Resources:** [Carlsbad Desalinization Plant Tour (video)](https://youtu.be/e1pq3Ni7Fko)
+      **Resources:** [Carlsbad Desalinization Plant Tour (video)](https://youtu.be/e1pq3Ni7Fko)
   - (b) Plant 100 trees, bushes, and/or vines for a good purpose.
   - (c) Seed an area of at least one-fifth acre for some worthwhile conservation purposes, using suitable grasses or legumes alone or in a mixture.
   - (d) Study a soil survey report. Describe the things in it. Using tracing paper and a pen, trace over any of the soil maps, and outline an area with three or more different kinds of soil. List each kind of soil by full name and map symbol.

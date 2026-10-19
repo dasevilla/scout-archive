@@ -11,37 +11,35 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
 
 - (1) Discuss with your counselor the life and times of Lord Baden-Powell of Gilwell. Explain why he felt a program like Scouting would be good for the young men of his day. Include in your discussion how Scouting was introduced in the United States, and the origins of Boy Scouting and Cub Scouting under Baden-Powell.
 
-  **Resources:** [Baden Powell - Father of Scouting, Origins of Scouting (video)](https://youtu.be/9iD9kYVc_WQ)
+  **Resources:** [Baden Powell - Father of Scouting, Origins of Scouting (video)](https://youtu.be/tn9S4qB-fdw)
 
 - (2) Do the following:
   - (a) Give a short biographical summary of any TWO of the following, and tell of their roles in how Scouting developed and grew in the United States.
-  - (1) Daniel Carter Beard
+    - (1) Daniel Carter Beard
 
-    **Resources:** [Daniel Carter Beard - BSA Founder (video)](https://www.youtube.com/watch?v=GIaIyxfuLCQ&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=2)
-  - (2) William D. Boyce
+      **Resources:** [Daniel Carter Beard - BSA Founder (video)](https://www.youtube.com/watch?v=GIaIyxfuLCQ&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=2)
+    - (2) William D. Boyce
+    - (3) Waite Phillips
 
-    **Resources:** [William D. Boyce - BSA  Founder (video)](https://www.youtube.com/watch?v=Ulhu9fefMo4&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=3)
-  - (3) Waite Phillips
+      **Resources:** [Waite Phillips - BSA Benefactor and Donor of Philmont (video)](https://youtu.be/QiKK97PQ7Us)
+    - (4) Ernest Thompson Seton
 
-    **Resources:** [Waite Phillips - BSA Benefactor and Donor of Philmont (video)](https://youtu.be/QiKK97PQ7Us)
-  - (4) Ernest Thompson Seton
+      **Resources:** [Ernest Thompson Seton - BSA Founder (video)](https://youtu.be/-azpLxf8wpA?si=tiMSbrOyFEHx0L9u)
+    - (5) James E. West
 
-    **Resources:** [Ernest Thompson Seton - BSA Founder (video)](https://youtu.be/-azpLxf8wpA?si=tiMSbrOyFEHx0L9u)
-  - (5) James E. West
+      **Resources:** [James E. West - BSA Founder (video)](https://youtu.be/cpIpdHl4cug)
+    - (6) "Green Bar Bill" Hillcourt
 
-    **Resources:** [James E. West - BSA Founder (video)](https://youtu.be/cpIpdHl4cug)
-  - (6) "Green Bar Bill" Hillcourt
+      **Resources:** [Green Bar Bill Hillcourt Biography (video)](https://www.youtube.com/watch?v=ZJofraVDGuA)
+    - (7) Frederick Russell Burnham
 
-    **Resources:** [Green Bar Bill Hillcourt Biography (video)](https://www.youtube.com/watch?v=ZJofraVDGuA)
-  - (7) Frederick Russell Burnham
+      **Resources:** [Frederick Russell Burnham and B–P's Campaign Hat (video)](https://youtu.be/YeCxTplW-Fc)
+    - (8) Dr. Charles Eastman
 
-    **Resources:** [Frederick Russell Burnham and B–P's Campaign Hat (video)](https://youtu.be/YeCxTplW-Fc)
-  - (8) Dr. Charles Eastman
+      **Resources:** [Dr. Charles Eastman (video)](https://www.youtube.com/watch?v=xzW4DLLuLoc)
+    - (9) Edgar Robinson
 
-    **Resources:** [Dr. Charles Eastman (video)](https://www.youtube.com/watch?v=xzW4DLLuLoc)
-  - (9) Edgar Robinson
-
-    **Resources:** [Edgar Robinson (video)](https://www.youtube.com/watch?v=PuIILshyM2k)
+      **Resources:** [Edgar Robinson (video)](https://www.youtube.com/watch?v=PuIILshyM2k)
   - (b) Discuss the significance to Scouting of any TWO of the following:
     - (1) Brownsea Island
 
@@ -57,7 +55,7 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
 
 - (3) Discuss with your counselor how Scouting's programs have developed over time and been adapted to fit different age groups and interests (Cub Scouting, Scouts BSA, Exploring, Venturing).
 
-  **Resources:** [Scouting History Timeline (video)](https://youtu.be/33Qn5-chofk), [Artifact of the Week—Development of Cub Scouting (video)](https://youtu.be/p8DUnLSK3Zo), [Artifact of the Week—Sea  Scouts (video)](https://youtu.be/FxKOogN-oiU), [History of Exploring (website)](https://www.scouting.org/commissioners/exploring-a-bit-of-a-background/), [20 Facts About Venturing (website)](https://blog.scoutingmagazine.org/2018/02/09/20-facts-about-venturing-on-the-programs-20th-birthday/)
+  **Resources:** [Scouting History Timeline (video)](https://youtu.be/33Qn5-chofk), [Artifact of the Week—Development of Cub Scouting (video)](https://youtu.be/p8DUnLSK3Zo), [Artifact of the Week—Sea  Scouts (video)](https://youtu.be/FxKOogN-oiU), [About Exploring (website)](https://www.exploring.org/about-us/), [History of Venturing (website)](https://www.scouting.org/programs/venturing/about-venturing/history)
 
 - (4) Do ONE of the following:
   - (a) Attend either a Scouting America National Jamboree, OR World Scout Jamboree, OR a national Scouting America high-adventure base. While there, keep a journal documenting your day-to-day experiences. Upon your return, report to your counselor what you did, saw, and learned. You may include photos, brochures, and other documents in your report.

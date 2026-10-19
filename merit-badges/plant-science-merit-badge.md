@@ -180,11 +180,11 @@ Plant scientists use their curiosity and knowledge to develop questions about th
       **Resources:** [Get to Know These 20 Common Types of Native Plants (website)](https://www.audubon.org/news/get-know-these-20-common-types-native-plants), [Native Plant Recommendations \| United States Botanic Garden (website)](https://www.usbg.gov/native-plant-recommendations)
   - **Option C—Field Botany.** Do ALL of the following:
     - (1) Visit a park, forest, Scout camp, or other natural area near your home. While you are there:
-    - (a) Determine which species of plants are the largest and which are the most abundant. Note whether they cast shade on other plants.
-    - (b) Using information from maps, textbooks, or the internet, describe the environmental factors that may influence the presence of plants on your site, including latitude, climate, air and soil temperature, soil type and pH, geology, hydrology, and topography.
+      - (a) Determine which species of plants are the largest and which are the most abundant. Note whether they cast shade on other plants.
+      - (b) Using information from maps, textbooks, or the internet, describe the environmental factors that may influence the presence of plants on your site, including latitude, climate, air and soil temperature, soil type and pH, geology, hydrology, and topography.
 
-      **Resources:** [Environmental Factors Affecting Plant Growth  (website)](https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth)
-    - (c) Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad.
+        **Resources:** [Environmental Factors Affecting Plant Growth  (website)](https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth)
+      - (c) Record any differences in the types of plants you see at the edge of a forest, near water, in burned areas, or near a road or railroad.
     - (2) Select a study site that is at least 100 by 100 feet. Make a list of 10 woody plants (trees and shrubs) and 10 non-woody plants in the study site. Find out which of these are native plants and which are exotic (or non-native).
 
       **Resources:** [Native Plants vs Exotic Plants \| Which Are More Beneficial to the Ecosystem (video)](https://youtu.be/Af80dnhp2QY)
@@ -211,19 +211,19 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 
       **Resources:** [Weekly Science Challenge #5: Create a Transect (video)](https://youtu.be/hbhR8hgFqG0?si=nlHaeSRLkK4NzRFs)
     - (3) At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies.
-    - (a) Identify each tree within 10 feet of the transect line.
-    - (b) Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree.
-    - (c) **Nested Plot**
+      - (a) Identify each tree within 10 feet of the transect line.
+      - (b) Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree.
+      - (c) **Nested Plot**
     - (1) Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1.
     - (2) Mark off nested plots and inventory two different kinds of plant communities.
     - (3) At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies.
-    - (a) Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)
-    - (b) Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas.
+      - (a) Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)
+      - (b) Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas.
 
-      **Resources:** [Tree Identification \| Ask the Arborist (video)](https://youtu.be/7M4PUM_eIIQ)
-    - (c) Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot.
-      **Note:** If individual plants like ferns, grasses and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot.
-    - (d) **Herbarium Visit**
+        **Resources:** [Tree Identification \| Ask the Arborist (video)](https://youtu.be/7M4PUM_eIIQ)
+      - (c) Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) and all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot.
+        **Note:** If individual plants like ferns, grasses, and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot.
+      - (d) **Herbarium Visit**
     - (1) Write ahead and arrange to visit an herbarium at a university, park, or botanical garden; OR, visit an herbarium website (with your parent or guardian's permission).
 
       **Resources:** [What Is a Herbarium? The Scientific and Historical Treasures of the Cambridge University Herbarium (video)](https://youtu.be/wQkEYZAlnGw?si=LnLjPuh2pyMQpdAF)

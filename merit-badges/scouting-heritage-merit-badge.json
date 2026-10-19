@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -28,7 +29,7 @@
       "resources": [
         {
           "title": "Baden Powell - Father of Scouting, Origins of Scouting (video)",
-          "url": "https://youtu.be/9iD9kYVc_WQ"
+          "url": "https://youtu.be/tn9S4qB-fdw"
         }
       ],
       "sub_requirements": []
@@ -41,6 +42,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -55,8 +62,14 @@
           "text": "Give a short biographical summary of any TWO of the following, and tell of their roles in how Scouting developed and grew in the United States.",
           "requirement_path": "2.a",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Give a short biographical summary of any TWO of the following, and tell of their roles in how Scouting developed and grew in the United States.",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -64,205 +77,210 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "15638",
-          "label": "1",
-          "text": "Daniel Carter Beard",
-          "requirement_path": "2.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Daniel Carter Beard"
-            }
-          ],
-          "resources": [
+              "id": "15638",
+              "label": "1",
+              "text": "Daniel Carter Beard",
+              "requirement_path": "2.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Daniel Carter Beard"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Daniel Carter Beard - BSA Founder (video)",
+                  "url": "https://www.youtube.com/watch?v=GIaIyxfuLCQ&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=2"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Daniel Carter Beard - BSA Founder (video)",
-              "url": "https://www.youtube.com/watch?v=GIaIyxfuLCQ&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=2"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15639",
-          "label": "2",
-          "text": "William D. Boyce",
-          "requirement_path": "2.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "15639",
+              "label": "2",
+              "text": "William D. Boyce",
+              "requirement_path": "2.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "William D. Boyce"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "William D. Boyce"
-            }
-          ],
-          "resources": [
+              "id": "15640",
+              "label": "3",
+              "text": "Waite Phillips",
+              "requirement_path": "2.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Waite Phillips"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Waite Phillips - BSA Benefactor and Donor of Philmont (video)",
+                  "url": "https://youtu.be/QiKK97PQ7Us"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "William D. Boyce - BSA  Founder (video)",
-              "url": "https://www.youtube.com/watch?v=Ulhu9fefMo4&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=3"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15640",
-          "label": "3",
-          "text": "Waite Phillips",
-          "requirement_path": "2.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "15641",
+              "label": "4",
+              "text": "Ernest Thompson Seton",
+              "requirement_path": "2.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Ernest Thompson Seton"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Ernest Thompson Seton - BSA Founder (video)",
+                  "url": "https://youtu.be/-azpLxf8wpA?si=tiMSbrOyFEHx0L9u"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Waite Phillips"
-            }
-          ],
-          "resources": [
+              "id": "15642",
+              "label": "5",
+              "text": "James E. West",
+              "requirement_path": "2.a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "James E. West"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "James E. West - BSA Founder (video)",
+                  "url": "https://youtu.be/cpIpdHl4cug"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Waite Phillips - BSA Benefactor and Donor of Philmont (video)",
-              "url": "https://youtu.be/QiKK97PQ7Us"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15641",
-          "label": "4",
-          "text": "Ernest Thompson Seton",
-          "requirement_path": "2.4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "15643",
+              "label": "6",
+              "text": "\"Green Bar Bill\" Hillcourt",
+              "requirement_path": "2.a.6",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "\"Green Bar Bill\" Hillcourt"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Green Bar Bill Hillcourt Biography (video)",
+                  "url": "https://www.youtube.com/watch?v=ZJofraVDGuA"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Ernest Thompson Seton"
-            }
-          ],
-          "resources": [
+              "id": "15659",
+              "label": "7",
+              "text": "Frederick Russell Burnham",
+              "requirement_path": "2.a.7",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Frederick Russell Burnham"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Frederick Russell Burnham and B–P's Campaign Hat (video)",
+                  "url": "https://youtu.be/YeCxTplW-Fc"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "Ernest Thompson Seton - BSA Founder (video)",
-              "url": "https://youtu.be/-azpLxf8wpA?si=tiMSbrOyFEHx0L9u"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15642",
-          "label": "5",
-          "text": "James E. West",
-          "requirement_path": "2.5",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "15660",
+              "label": "8",
+              "text": "Dr. Charles Eastman",
+              "requirement_path": "2.a.8",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Dr. Charles Eastman"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Dr. Charles Eastman (video)",
+                  "url": "https://www.youtube.com/watch?v=xzW4DLLuLoc"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "James E. West"
+              "id": "15661",
+              "label": "9",
+              "text": "Edgar Robinson",
+              "requirement_path": "2.a.9",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Edgar Robinson"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Edgar Robinson (video)",
+                  "url": "https://www.youtube.com/watch?v=PuIILshyM2k"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "resources": [
-            {
-              "title": "James E. West - BSA Founder (video)",
-              "url": "https://youtu.be/cpIpdHl4cug"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15643",
-          "label": "6",
-          "text": "\"Green Bar Bill\" Hillcourt",
-          "requirement_path": "2.6",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "\"Green Bar Bill\" Hillcourt"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Green Bar Bill Hillcourt Biography (video)",
-              "url": "https://www.youtube.com/watch?v=ZJofraVDGuA"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15659",
-          "label": "7",
-          "text": "Frederick Russell Burnham",
-          "requirement_path": "2.7",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Frederick Russell Burnham"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Frederick Russell Burnham and B–P's Campaign Hat (video)",
-              "url": "https://youtu.be/YeCxTplW-Fc"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15660",
-          "label": "8",
-          "text": "Dr. Charles Eastman",
-          "requirement_path": "2.8",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Dr. Charles Eastman"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Dr. Charles Eastman (video)",
-              "url": "https://www.youtube.com/watch?v=xzW4DLLuLoc"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "15661",
-          "label": "9",
-          "text": "Edgar Robinson",
-          "requirement_path": "2.9",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Edgar Robinson"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Edgar Robinson (video)",
-              "url": "https://www.youtube.com/watch?v=PuIILshyM2k"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "15644",
@@ -272,6 +290,12 @@
           "node_kind": "action_requirement",
           "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Discuss the significance to Scouting of any TWO of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -288,6 +312,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -310,6 +335,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -336,6 +362,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -369,6 +396,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "element",
@@ -512,6 +540,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -532,12 +561,12 @@
           "url": "https://youtu.be/FxKOogN-oiU"
         },
         {
-          "title": "History of Exploring (website)",
-          "url": "https://www.scouting.org/commissioners/exploring-a-bit-of-a-background/"
+          "title": "About Exploring (website)",
+          "url": "https://www.exploring.org/about-us/"
         },
         {
-          "title": "20 Facts About Venturing (website)",
-          "url": "https://blog.scoutingmagazine.org/2018/02/09/20-facts-about-venturing-on-the-programs-20th-birthday/"
+          "title": "History of Venturing (website)",
+          "url": "https://www.scouting.org/programs/venturing/about-venturing/history"
         }
       ],
       "sub_requirements": []
@@ -550,6 +579,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -566,6 +601,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -592,6 +628,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -618,6 +655,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -642,6 +680,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -659,6 +698,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -700,6 +740,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -745,6 +786,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -762,6 +804,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "element",
@@ -789,6 +837,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -811,6 +860,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

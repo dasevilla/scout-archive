@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -35,6 +41,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -57,6 +64,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -83,6 +91,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -100,6 +109,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -117,6 +127,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -139,6 +150,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -156,6 +168,12 @@
           "node_kind": "action_requirement",
           "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Successfully complete a state hunter education course, or obtain a copy of the hunting laws for your state, then do the following:",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -177,6 +195,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -194,6 +213,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -213,6 +233,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -230,6 +251,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -247,6 +269,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -266,6 +289,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Working under the supervision of a certified National Rifle Association (NRA) Shotgun instructor and a certified range safety officer, at a nationally authorized camp property or at a commercial firearm range (as defined in the Scouting America National Range and Target Activities Manual), do ONE of the following options:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -297,6 +326,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -324,6 +359,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -350,6 +386,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -372,6 +409,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -402,6 +440,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -419,6 +458,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -436,6 +476,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -453,6 +494,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -470,6 +512,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -487,6 +530,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -499,15 +543,16 @@
             {
               "id": "16253",
               "label": "10",
-              "text": "Shoot a moving target with a shotgun using the four fundamentals of firing a shot— position, mount, vision, and movement. Shooting score required: Hit at least 12 out of 25 targets (48 percent) in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired.\nShooting skill rules: Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter. All targets should be thrown at a reasonable speed and in the same direction. Targets should be generally thrown so as to climb in the air after leaving the trap. Scores may be fired at any time, either in formal competition or in practice, but only under approved supervision and at an approved range as noted in the Scouting America National Range and Target Activities Manual.Modern, age-appropriate, target shotgun models, 12-, 16- or 20-gauge, may be used. Only commercially manufactured ammunition may be used. Reloads may not be used in Scouting America range and target activities. Shooters must shoot in rounds of 25. Rounds need not be shot continuously or on the same day. The term \"round\" refers to a single series of 25 shots. If using a trap field, shoot station 3 with traps set to throw straightaway targets. If using a skeet field, shoot station 7 low house.",
+              "text": "Shoot a moving target with a shotgun using the four fundamentals of firing a shot— position, mount, vision, and movement. Shooting score required: Hit at least 12 out of 25 targets (48%) in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired.\nShooting skill rules: Targets may be thrown by a hand trap, manual mechanical trap, or on any trap or skeet field. If using a hand trap or manual mechanical trap, the trap operator should be at least 5 feet to the right and 3 feet to the rear of the shooter. If throwing left-handed with a hand trap, the trap operator should be at least 5 feet to the left and 3 feet to the rear of the shooter. All targets should be thrown at a reasonable speed and in the same direction. Targets should be generally thrown so as to climb in the air after leaving the trap. Scores may be fired at any time, either in formal competition or in practice, but only under approved supervision and at an approved range as noted in the Scouting America National Range and Target Activities Manual.Modern, age-appropriate, target shotgun models, 12-, 16-, or 20-gauge, may be used. Only commercially manufactured ammunition may be used. Reloads may not be used in Scouting America range and target activities. Shooters must shoot in rounds of 25. Rounds need not be shot continuously or on the same day. The term \"round\" refers to a single series of 25 shots. If using a trap field, shoot station 3 with traps set to throw straightaway targets. If using a skeet field, shoot station 7 low house.",
               "requirement_path": "2.option-a.10",
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
-                  "value": "Shoot a moving target with a shotgun using the four fundamentals of firing a shot— position, mount, vision, and movement. Shooting score required: Hit at least 12 out of 25 targets (48 percent) in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired. "
+                  "value": "Shoot a moving target with a shotgun using the four fundamentals of firing a shot— position, mount, vision, and movement. Shooting score required: Hit at least 12 out of 25 targets (48%) in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired. "
                 },
                 {
                   "type": "element",
@@ -538,7 +583,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "Modern, age-appropriate, target shotgun models, 12-, 16- or 20-gauge, may be used. Only commercially manufactured ammunition may be used. Reloads may not be used in Scouting America range and target activities. Shooters must shoot in rounds of 25. Rounds need not be shot continuously or on the same day. The term \"round\" refers to a single series of 25 shots. If using a trap field, shoot station 3 with traps set to throw straightaway targets. If using a skeet field, shoot station 7 low house."
+                  "value": "Modern, age-appropriate, target shotgun models, 12-, 16-, or 20-gauge, may be used. Only commercially manufactured ammunition may be used. Reloads may not be used in Scouting America range and target activities. Shooters must shoot in rounds of 25. Rounds need not be shot continuously or on the same day. The term \"round\" refers to a single series of 25 shots. If using a trap field, shoot station 3 with traps set to throw straightaway targets. If using a skeet field, shoot station 7 low house."
                 }
               ],
               "resources": [],
@@ -554,6 +599,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -581,6 +632,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -598,6 +650,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -615,6 +668,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -637,6 +691,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -654,6 +709,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -671,6 +727,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -688,6 +745,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -705,6 +763,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -722,6 +781,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -739,6 +799,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -761,6 +822,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -778,6 +840,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -795,6 +858,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -847,6 +911,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -57,6 +58,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -73,6 +80,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "(Ask your parent or guardian's permission for the online option.) Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -95,15 +108,16 @@
             {
               "id": "11940",
               "label": "1",
-              "text": "On the same day, read a local news source or newspaper, a national news source or newspaper, a news magazine (online or printed) and a social media news feed. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story.",
+              "text": "On the same day, read a local news source or newspaper, a national news source or newspaper, a news magazine (online or printed), and a social media news feed. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story.",
               "requirement_path": "2.option-a.1",
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
-                  "value": "On the same day, read a local news source or newspaper, a national news source or newspaper, a news magazine (online or printed) and a social media news feed. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story."
+                  "value": "On the same day, read a local news source or newspaper, a national news source or newspaper, a news magazine (online or printed), and a social media news feed. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story."
                 }
               ],
               "resources": [],
@@ -117,6 +131,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -185,6 +200,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -212,6 +233,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -229,6 +251,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -250,6 +273,20 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Discuss the differences between a hard news story and a feature story.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Explain what the five W's and H are.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Then do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -275,6 +312,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -292,6 +330,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -309,6 +348,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -326,6 +366,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -350,6 +391,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Attend a public event and do ONE of the following:",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -366,6 +413,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -383,6 +431,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -405,6 +454,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -429,6 +479,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

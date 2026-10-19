@@ -19,6 +19,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -41,6 +42,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -57,6 +64,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -79,6 +87,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -113,9 +122,15 @@
           "label": "c",
           "text": "Demonstrate the following motion picture shooting techniques:",
           "requirement_path": "2.c",
-          "node_kind": "instruction_container",
+          "node_kind": "action_requirement",
           "is_container": true,
-          "requires_response": false,
+          "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Demonstrate the following motion picture shooting techniques:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -132,6 +147,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -154,6 +170,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -176,6 +193,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -202,6 +220,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -228,6 +247,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -254,6 +274,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -280,8 +301,14 @@
           "text": "Using motion picture shooting techniques, plan ONE of the following programs. Start with a treatment and complete the requirement by presenting this program to a pack or your troop, patrol, or class.",
           "requirement_path": "2.d",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Using motion picture shooting techniques, plan ONE of the following programs.",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -289,73 +316,77 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "14947",
-          "label": "1",
-          "text": "Film a court of honor and show it to an audience.",
-          "requirement_path": "2.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Film a court of honor and show it to an audience."
-            }
-          ],
-          "resources": [
+              "id": "14947",
+              "label": "1",
+              "text": "Film a court of honor and show it to an audience.",
+              "requirement_path": "2.d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Film a court of honor and show it to an audience."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "4 Videography Tips for Beginners (video)",
+                  "url": "https://youtu.be/oPfet0ypjmY?si=flKBth5nUkcFZelI"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "title": "4 Videography Tips for Beginners (video)",
-              "url": "https://youtu.be/oPfet0ypjmY?si=flKBth5nUkcFZelI"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14948",
-          "label": "2",
-          "text": "Create a short feature of your own design, using the techniques you learned.",
-          "requirement_path": "2.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
+              "id": "14948",
+              "label": "2",
+              "text": "Create a short feature of your own design, using the techniques you learned.",
+              "requirement_path": "2.d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Create a short feature of your own design, using the techniques you learned."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "10 Tips for Beginner Videographers (video)",
+                  "url": "https://youtu.be/kZWH6OBDdR0?si=e1VBvG2lGwQHKqEY"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Create a short feature of your own design, using the techniques you learned."
+              "id": "14949",
+              "label": "3",
+              "text": "Shoot a vignette that could be used to train a new Scout in a Scouting skill.",
+              "requirement_path": "2.d.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Shoot a vignette that could be used to train a new Scout in a Scouting skill."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Make a Great Instructional Video (video)",
+                  "url": "https://youtu.be/cLLuuV_57JY?si=vcdpLOuyRcHeC1jf"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "resources": [
-            {
-              "title": "10 Tips for Beginner Videographers (video)",
-              "url": "https://youtu.be/kZWH6OBDdR0?si=e1VBvG2lGwQHKqEY"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "14949",
-          "label": "3",
-          "text": "Shoot a vignette that could be used to train a new Scout in a Scouting skill.",
-          "requirement_path": "2.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "content": [
-            {
-              "type": "text",
-              "value": "Shoot a vignette that could be used to train a new Scout in a Scouting skill."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How to Make a Great Instructional Video (video)",
-              "url": "https://youtu.be/cLLuuV_57JY?si=vcdpLOuyRcHeC1jf"
-            }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     },
@@ -367,6 +398,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -383,6 +420,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -405,6 +443,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -433,6 +472,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -449,6 +494,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -471,6 +517,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",

@@ -62,9 +62,10 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
   - (b) Using resources you find on your own such as at the library and on the internet (with your parent or guardian's permission), learn more about the drafting trade and discuss the following with your counselor.
 
     **Resources:** [Tracing the Evolution of Technical Drawings: From Da Vinci to CAD (website)](https://profiletree.com/evolution-of-technical-drawings), [The Evolution of Drafting (video)](https://youtu.be/_ULPY3B2BoQ?si=CH6nDUvqKBIrb4Mb), [A Walk Through the History of CAD (video)](https://youtu.be/mcwIMsh_g3o?si=Ru7dNN8JDco0ycRJ)
-  - (1) The drafting tools used in the past—why and how they were used. Explain which tools are still used today and how their use has changed with the advent of new tools. Discuss which tools are being made obsolete by newer tools in the industry.
-  - (2) Tell what media types were used in the past and how drawings were used, stored, and reproduced. Tell how the advent of CAD has changed the media used, and discuss how these changes affect the storage or reproduction of drawings.
-  - (3) Discuss whether the types of media have changed such that there are new uses the drawings, or other outputs, produced by designers. Briefly discuss how new media types are used in the industry today.
+
+    - (1) The drafting tools used in the past—why and how they were used. Explain which tools are still used today and how their use has changed with the advent of new tools. Discuss which tools are being made obsolete by newer tools in the industry.
+    - (2) Tell what media types were used in the past and how drawings were used, stored, and reproduced. Tell how the advent of CAD has changed the media used, and discuss how these changes affect the storage or reproduction of drawings.
+    - (3) Discuss whether the types of media have changed such that there are new uses the drawings, or other outputs, produced by designers. Briefly discuss how new media types are used in the industry today.
 
 - (8) Identify three career opportunities that would use skills and knowledge in Drafting. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 

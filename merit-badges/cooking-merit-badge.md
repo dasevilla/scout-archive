@@ -32,8 +32,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
   - (a) Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:
 
     **Resources:** [MyPlate Food Groups (website)](https://www.myplate.gov/eat-healthy/what-is-myplate)
-
-    - (1) Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy
+  - (1) Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy
   - (b) Explain why you should limit your intake of oils and sugars.
 
     **Resources:** [Tips for Limiting Sugar in Your Diet (video)](https://youtu.be/rvEVY6SCEUg?si=rzAoy8sQR3eLK4QI)
@@ -93,7 +92,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
     **Resources:** [How to Use a Propane Stove (video)](https://youtu.be/6il0aDjwSGI?si=IMrR6Ycu03lWzTtU), [How to Use a Liquid Fuel Stove (video)](https://youtu.be/2XRqdVIqimY?si=Wj7JsttaHkIADW9a), [6 Tips to Master Foil Packet Cooking (video)](https://youtu.be/HoZElsSBEPk?si=iBtzoe7NaEvwVTfa), [Dutch Oven Basics for Beginners (video)](https://youtu.be/9uP1mauAtuI?si=tD0sbJHF2nxcapP8)
   - (e) In the outdoors, using your menu plans and recipes for this requirement, prepare one snack and one dessert. Serve both of these to your patrol or a group of youth.
   - (f) After each meal, have those you served evaluate the meal on presentation and taste, and then evaluate your own meal. Discuss what you learned with your counselor, including any adjustments that could have improved or enhanced your meals. Tell how planning and preparation help ensure successful outdoor cooking.
-  - (g) Lead the clean-up of equipment, utensils, and the cooking site thoroughly after each meal. Properly store or dispose unused ingredients, leftover food, dishwater and garbage.
+  - (g) Lead the clean-up of equipment, utensils, and the cooking site thoroughly after each meal. Properly store or dispose of unused ingredients, leftover food, dishwater and garbage.
 
     **Resources:** [How to Wash Dishes at Camp (video)](https://youtu.be/4tNLdcjBlQc?si=u2FkF5Ct3KmmnRtj)
   - (h) Discuss how you followed the Leave No Trace Seven Principles and the Outdoor Code when preparing your meals.

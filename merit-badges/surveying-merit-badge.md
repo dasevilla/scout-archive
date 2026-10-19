@@ -21,7 +21,7 @@ While earning this merit badge, Scouts will discover how land is measured and ho
 
     **Resources:** [GPS Surveying for Beginners - the Easy Land Surveying (video)](https://youtu.be/5p39acElZAU?si=98GYeFh3eCA-jNs8)
 
-- (3) From the field notes gathered for requirement 2, and using a protractor and scale, plot the points you measured and draw to scale a map of your survey which includes a north arrow, scale bar, title, date and a diagram of the lot you measured. Submit a neatly drawn copy.
+- (3) From the field notes gathered for requirement 2, and using a protractor and scale, plot the points you measured and draw to scale a map of your survey which includes a north arrow, scale bar, title, date, and a diagram of the lot you measured. Submit a neatly drawn copy.
 
   **Resources:** [Drawing Diagrams of Legal Descriptions (Basic Example) (video)](https://youtu.be/ttvoWB2TNok?si=mMX_gPRmrIGw96ZY)
 

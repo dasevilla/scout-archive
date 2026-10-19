@@ -19,13 +19,23 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
           "value": "Explain the proper safety procedures to follow when preparing surfaces and applying coatings."
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Best Safety Equipment for Painting (video)",
+          "url": "https://youtu.be/PPbD206cNKA"
+        },
+        {
+          "title": "PPE for Interior Painting (video)",
+          "url": "https://youtu.be/HWdws9vQ0J4"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -36,6 +46,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -52,6 +68,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -74,6 +91,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -100,6 +118,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -122,6 +141,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -141,6 +161,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -149,8 +170,8 @@
       ],
       "resources": [
         {
-          "title": "How to Paint a Room (video)",
-          "url": "https://www.youtube.com/watch?v=CRXCB_3gLok"
+          "title": "How To Paint an Exterior Metal Door (video)",
+          "url": "https://youtu.be/b0QcTu-5D1I"
         }
       ],
       "sub_requirements": []
@@ -163,6 +184,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -186,8 +208,8 @@
       ],
       "resources": [
         {
-          "title": "Choosing a Color Palette for Your Home (video)",
-          "url": "https://www.youtube.com/watch?v=K75ynD7aAeg"
+          "title": "Decorating With a Color Scheme (video)",
+          "url": "https://youtu.be/672JGEhg8vM"
         },
         {
           "title": "Color Wheel from Painting Merit Badge Pamphlet (PDF)",
@@ -204,6 +226,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -212,12 +235,12 @@
       ],
       "resources": [
         {
-          "title": "Good Paint Hygiene (video)",
-          "url": "https://www.youtube.com/watch?v=C_bY5_mOTcY"
+          "title": "How To Clean Paint Brushes (video)",
+          "url": "https://youtu.be/H9kbYbWd3AA"
         },
         {
-          "title": "How to Clean and Store Paint Brushes (video)",
-          "url": "https://www.youtube.com/watch?v=u6_e5YXgviY"
+          "title": "How To Use a Paint Sprayer (video)",
+          "url": "https://youtu.be/ygmP3UBnLLU"
         }
       ],
       "sub_requirements": []
@@ -230,6 +253,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -238,12 +262,8 @@
       ],
       "resources": [
         {
-          "title": "Ladder Safety (video)",
-          "url": "https://www.youtube.com/watch?v=b7ArZilnnTE"
-        },
-        {
-          "title": "Personal Protective Equipment for Painting (PPE) (video)",
-          "url": "https://www.youtube.com/watch?v=67G06bhuxPA"
+          "title": "Ladder Safety Tips (website)",
+          "url": "https://www.homedepot.com/c/ab/ladder-safety-tips/9ba683603be9fa5395fab9017d77401c"
         }
       ],
       "sub_requirements": []
@@ -256,6 +276,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -282,6 +303,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -298,6 +325,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -307,11 +335,15 @@
           "resources": [
             {
               "title": "Painters Career Overview (video)",
-              "url": "https://youtu.be/5glRwgnb5gk"
+              "url": "https://www.youtube.com/watch?v=5glRwgnb5gk"
             },
             {
               "title": "Scenic Painter (video)",
-              "url": "https://youtu.be/mWjbRoAId_4"
+              "url": "https://www.youtube.com/watch?v=mWjbRoAId_4"
+            },
+            {
+              "title": "Painters (website w/ video)",
+              "url": "https://www.bls.gov/ooh/construction-and-extraction/painters-construction-and-maintenance.htm"
             }
           ],
           "sub_requirements": []
@@ -324,6 +356,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -332,16 +365,8 @@
           ],
           "resources": [
             {
-              "title": "How to Paint Murals Like a Pro (video)",
-              "url": "https://youtu.be/L4ADLL2gAtU"
-            },
-            {
-              "title": "Easy Wall Painting DIY I Balcony Makeover I Yoga Wall Art (video)",
-              "url": "https://youtu.be/UpImD3qedKw?si=CotiHOXpynF-JptZ"
-            },
-            {
-              "title": "Mood-Boosting Paint Colors for Every Room in Your House (website)",
-              "url": "https://www.marthastewart.com/8229238/mood-boosting-paint-colors"
+              "title": "Easy Wall Painting DIY I Balcony makeover I Yoga wall art (video)",
+              "url": "https://youtu.be/UpImD3qedKw"
             }
           ],
           "sub_requirements": []

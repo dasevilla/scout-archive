@@ -19,6 +19,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -35,6 +41,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -57,6 +64,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -79,6 +87,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -101,6 +110,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -127,6 +137,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -151,6 +162,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -167,6 +184,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -193,6 +211,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -215,6 +234,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -237,6 +257,12 @@
           "node_kind": "instruction_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ONE of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -253,6 +279,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -275,6 +302,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -315,6 +343,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -339,6 +368,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -355,6 +390,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -389,6 +425,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -413,6 +450,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Explain the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -429,6 +472,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -451,6 +495,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -473,6 +518,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -495,6 +541,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -514,15 +561,21 @@
     {
       "id": "12474",
       "label": "5",
-      "text": "Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:Note: When using a Genesis bow, apply the requirements in Option A.",
+      "text": "Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by an NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:Note: When using a Genesis bow, apply the requirements in Option A.",
       "requirement_path": "5",
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by an NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:Note: When using a Genesis bow, apply the requirements in Option A.",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
-          "value": "Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by a NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:"
+          "value": "Working under the supervision of a certified USA Archery Level 1 Instructor or a certified long-term camp staff member (i.e., a National Camping School [NCS] Range Activities Director; or a Rangemaster over age 18 who is trained by an NCS Range Activities Director or by a USA Archery Level 1 Instructor), do ONE of the following options:"
         },
         {
           "type": "element",
@@ -555,6 +608,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -582,6 +641,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -604,6 +664,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -626,6 +687,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -648,6 +710,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -670,6 +733,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -692,6 +756,12 @@
               "node_kind": "instruction_container",
               "is_container": true,
               "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do ONE of the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -708,6 +778,12 @@
                   "node_kind": "action_requirement",
                   "is_container": true,
                   "requires_response": true,
+                  "scoped_clauses": [
+                    {
+                      "text": "Using a recurve bow or longbow and arrows with a finger release, shoot a single round of ONE of the following:",
+                      "scope": "children"
+                    }
+                  ],
                   "content": [
                     {
                       "type": "text",
@@ -724,6 +800,7 @@
                       "node_kind": "action_requirement",
                       "is_container": false,
                       "requires_response": true,
+                      "scoped_clauses": [],
                       "content": [
                         {
                           "type": "text",
@@ -741,6 +818,7 @@
                       "node_kind": "action_requirement",
                       "is_container": false,
                       "requires_response": true,
+                      "scoped_clauses": [],
                       "content": [
                         {
                           "type": "text",
@@ -758,6 +836,7 @@
                       "node_kind": "action_requirement",
                       "is_container": false,
                       "requires_response": true,
+                      "scoped_clauses": [],
                       "content": [
                         {
                           "type": "text",
@@ -775,6 +854,7 @@
                       "node_kind": "action_requirement",
                       "is_container": false,
                       "requires_response": true,
+                      "scoped_clauses": [],
                       "content": [
                         {
                           "type": "text",
@@ -794,6 +874,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",
@@ -815,6 +896,12 @@
           "node_kind": "option_container",
           "is_container": true,
           "requires_response": false,
+          "scoped_clauses": [
+            {
+              "text": "Do ALL of the following:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "element",
@@ -842,6 +929,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -864,6 +952,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -881,6 +970,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -903,6 +993,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -920,6 +1011,7 @@
               "node_kind": "action_requirement",
               "is_container": false,
               "requires_response": true,
+              "scoped_clauses": [],
               "content": [
                 {
                   "type": "text",
@@ -942,6 +1034,12 @@
               "node_kind": "instruction_container",
               "is_container": true,
               "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do ONE of the following:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -958,6 +1056,12 @@
                   "node_kind": "action_requirement",
                   "is_container": true,
                   "requires_response": true,
+                  "scoped_clauses": [
+                    {
+                      "text": "Using a compound bow and arrows with a finger release, shoot a single round of ONE of the following:",
+                      "scope": "children"
+                    }
+                  ],
                   "content": [
                     {
                       "type": "text",
@@ -974,6 +1078,7 @@
                       "node_kind": "action_requirement",
                       "is_container": false,
                       "requires_response": true,
+                      "scoped_clauses": [],
                       "content": [
                         {
                           "type": "text",
@@ -991,6 +1096,7 @@
                       "node_kind": "action_requirement",
                       "is_container": false,
                       "requires_response": true,
+                      "scoped_clauses": [],
                       "content": [
                         {
                           "type": "text",
@@ -1008,6 +1114,7 @@
                       "node_kind": "action_requirement",
                       "is_container": false,
                       "requires_response": true,
+                      "scoped_clauses": [],
                       "content": [
                         {
                           "type": "text",
@@ -1025,6 +1132,7 @@
                       "node_kind": "action_requirement",
                       "is_container": false,
                       "requires_response": true,
+                      "scoped_clauses": [],
                       "content": [
                         {
                           "type": "text",
@@ -1044,6 +1152,7 @@
                   "node_kind": "action_requirement",
                   "is_container": false,
                   "requires_response": true,
+                  "scoped_clauses": [],
                   "content": [
                     {
                       "type": "text",

@@ -48,7 +48,7 @@ Comprehend how electronic devices work and how to use them effectively with the 
   - (c) Describe what malware is, and explain how to protect your digital devices and the information stored on them.
 
     **Resources:** [What Is Malware? (video)](https://www.youtube.com/watch?v=NMYbkzjI5EY)
-  - (d) Explain what a barcode, a QR code, and an RFID tag are along with the data they contain and two or more examples where each are used.
+  - (d) Explain what a barcode, a QR code, and an RFID tag are along with the data they contain and two or more examples where each is used.
 
 - (5) Do the following:
   - (a) Describe at least two different ways data can be transferred through the internet.
@@ -84,7 +84,7 @@ Comprehend how electronic devices work and how to use them effectively with the 
     **Resources:** [How to Create a Simple Webpage (video)](https://www.youtube.com/watch?v=BBcq9abR9Es)
 
 - (7) Do the following:
-  - (a) Explain to your counselor each of these protections and why they exist: copyright, patents, trademarks, trade secrets.
+  - (a) Explain to your counselor each of these protections and why they exist: copyright, patents, trademarks, and trade secrets.
 
     **Resources:** [Explanations of Copyrights, Patents, Trademarks, Trade Secrets (video)](https://www.youtube.com/watch?v=LyQOf5bqdzo)
   - (b) Explain when it is permissible to accept a free copy of a program from a friend.

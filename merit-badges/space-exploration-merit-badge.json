@@ -19,6 +19,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Tell the purpose of space exploration and include the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -35,6 +41,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -65,6 +72,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -82,6 +90,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -112,6 +121,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -136,6 +146,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",
@@ -157,15 +168,37 @@
     {
       "id": "16015",
       "label": "3",
-      "text": "Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: Safety Note: Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" section of the Space Exploration merit badge. Alternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.",
+      "text": "Build, launch, and recover a model rocket under the supervision of an experienced or qualified person approved by your counselor. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: Safety Note: All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines Alternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.",
       "requirement_path": "3",
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Build, launch, and recover a model rocket under the supervision of an experienced or qualified person approved by your counselor.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Make a second launch to accomplish a specific objective.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Identify and explain the following rocket parts: Safety Note: All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines Alternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket.",
+          "scope": "children"
+        },
+        {
+          "text": "Explain the functions of the parts.",
+          "scope": "ambiguous"
+        },
+        {
+          "text": "Give the history of the rocket.",
+          "scope": "ambiguous"
+        }
+      ],
       "content": [
         {
           "type": "text",
-          "value": "Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: "
+          "value": "Build, launch, and recover a model rocket under the supervision of an experienced or qualified person approved by your counselor. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: "
         },
         {
           "type": "element",
@@ -180,7 +213,7 @@
         },
         {
           "type": "text",
-          "value": " Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" section of the Space Exploration merit badge. "
+          "value": " All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines "
         },
         {
           "type": "element",
@@ -200,12 +233,20 @@
       ],
       "resources": [
         {
-          "title": "NASA \"Rocket Parts\" - Beginner's Guide (website)",
+          "title": "Scouting America Rocket Safety Guidelines (website w/ video)",
+          "url": "https://www.scouting.org/health-and-safety/safety-moments/rocket-safety/"
+        },
+        {
+          "title": "NASA Rocket Parts—Beginner's Guide (website)",
           "url": "https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bgmr.html"
         },
         {
-          "title": "National Association of Rocketry Educational Video Series on Model Rocketry (website)",
+          "title": "National Association of Rocketry Educational video on model rocketry (website)",
           "url": "https://www.nar.org/content.aspx?page_id=22&club_id=114127&module_id=669619"
+        },
+        {
+          "title": "(website)",
+          "url": "https://www.scouting.org/health-and-safety/safety-moments/rocket-safety/"
         }
       ],
       "sub_requirements": [
@@ -217,6 +258,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -234,6 +276,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -251,6 +294,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -268,6 +312,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -285,6 +330,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -302,6 +348,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -319,6 +366,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -336,6 +384,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -353,6 +402,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -372,6 +422,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Discuss and demonstrate each of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -393,6 +449,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -415,6 +472,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -445,6 +503,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -475,6 +534,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -507,6 +567,12 @@
       "node_kind": "instruction_container",
       "is_container": true,
       "requires_response": false,
+      "scoped_clauses": [
+        {
+          "text": "Do TWO of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -523,6 +589,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -557,6 +624,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -574,6 +642,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -593,6 +662,12 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Describe the purpose, operation, and components of ONE of the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -609,6 +684,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -643,6 +719,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -671,6 +748,20 @@
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
+      "scoped_clauses": [
+        {
+          "text": "Design an inhabited base located within our solar system, such as Titan, asteroids, or other locations that humans might want to explore in person.",
+          "scope": "requirement"
+        },
+        {
+          "text": "Make drawings or a model of your base.",
+          "scope": "requirement"
+        },
+        {
+          "text": "In your design, consider and plan for the following:",
+          "scope": "children"
+        }
+      ],
       "content": [
         {
           "type": "text",
@@ -692,6 +783,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -714,6 +806,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -736,6 +829,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -758,6 +852,7 @@
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
+          "scoped_clauses": [],
           "content": [
             {
               "type": "text",
@@ -782,6 +877,7 @@
       "node_kind": "action_requirement",
       "is_container": false,
       "requires_response": true,
+      "scoped_clauses": [],
       "content": [
         {
           "type": "text",

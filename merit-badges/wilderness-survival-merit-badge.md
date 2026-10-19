@@ -11,45 +11,45 @@ In their outdoor activities, Scouts learn to bring the clothing and gear they ne
 
 - (1) **Hazards and First Aid.** Do the following:
   - (a) Show or explain first aid for, and prevention of, injuries and conditions that could occur in backcountry settings, including:
-  - (1) Dehydration
+    - (1) Dehydration
 
-    **Resources:** [Dehydration: Hiking in the Desert (video)](https://youtu.be/X-N7fALUncM?si=IduV7YMg2FgPfvHv), [Symptoms, and Treatment of Dehydration (website)](https://www.cedars-sinai.org/health-library/diseases-and-conditions/d/dehydration.html)
-  - (2) Heatstroke
+      **Resources:** [Dehydration: Hiking in the Desert (video)](https://youtu.be/X-N7fALUncM?si=IduV7YMg2FgPfvHv), [Symptoms, and Treatment of Dehydration (website)](https://www.cedars-sinai.org/health-library/diseases-and-conditions/d/dehydration.html)
+    - (2) Heatstroke
 
-    **Resources:** [Diagnosis and Treatment of Heat Stroke (video)](https://youtu.be/PpHM4DfPZQU)
-  - (3) Hypothermia
+      **Resources:** [Diagnosis and Treatment of Heat Stroke (video)](https://youtu.be/PpHM4DfPZQU)
+    - (3) Hypothermia
 
-    **Resources:** [Recognize the "Umbles"  and Avoid Hypothermia (video)](https://youtu.be/aDAqWLpHXXU), [Hypothermia (video)](https://youtu.be/my6JB41apTw), [Frostbite and Hypothermia (website)](https://health.mo.gov/living/healthcondiseases/hypothermia/index.php)
-  - (4) Shock
+      **Resources:** [Recognize the "Umbles"  and Avoid Hypothermia (video)](https://youtu.be/aDAqWLpHXXU), [Hypothermia (video)](https://youtu.be/my6JB41apTw), [C.O.L.D. Guidelines for Staying Warm (website)](https://www.scouting.org/health-and-safety/safety-moments/winter-activity/)
+    - (4) Shock
 
-    **Resources:** [Shock (video)](https://youtu.be/BLfFYFr7sWY), [Shock and Bleeding (video)](https://youtu.be/V4R9GSah93g?si=1QtB6-fDOoselWfZ)
-  - (5) Blisters
+      **Resources:** [Shock (video)](https://youtu.be/BLfFYFr7sWY), [Shock and Bleeding (video)](https://youtu.be/V4R9GSah93g?si=1QtB6-fDOoselWfZ)
+    - (5) Blisters
 
-    **Resources:** [How to Prevent and Treat Blisters (website)](https://www.aad.org/public/everyday-care/injured-skin/burns/prevent-treat-blisters)
-  - (6) Eye injuries
+      **Resources:** [How to Prevent and Treat Blisters (website)](https://www.aad.org/public/everyday-care/injured-skin/burns/prevent-treat-blisters)
+    - (6) Eye injuries
 
-    **Resources:** [5 Ways To Safely Remove Something Stuck In Your Eye (video)](https://youtu.be/uJFZPFsHcCE?si=Of3K05cQ2-6Fesii)
-  - (7) Ankle and knee sprains
+      **Resources:** [5 Ways To Safely Remove Something Stuck In Your Eye (video)](https://youtu.be/uJFZPFsHcCE?si=Of3K05cQ2-6Fesii)
+    - (7) Ankle and knee sprains
 
-    **Resources:** [First Aid for Ankle Sprains (video)](https://youtu.be/yrvqNh2q6Tc), [Knee Sprains (website)](https://my.clevelandclinic.org/health/diseases/knee-sprain)
-  - (8) Bug bites of chiggers, ticks, mosquitoes, and biting gnats
+      **Resources:** [First Aid for Ankle Sprains (video)](https://youtu.be/yrvqNh2q6Tc), [Knee Sprains (website)](https://my.clevelandclinic.org/health/diseases/knee-sprain)
+    - (8) Bug bites of chiggers, ticks, mosquitoes, and biting gnats
 
-    **Resources:** [Chiggers 101 (video)](https://youtu.be/d6hneOG2RLA), [Preventng and Treating Tick Bites (website)](https://www.aad.org/public/everyday-care/injured-skin/bites/remove-a-tick), [Preventing and Treating Mosquito Bites (website)](https://www.aad.org/public/everyday-care/injured-skin/bites/prevent-treat-bug-bites), [Biting Gnats (video)](https://youtu.be/QazaIwbtZHs?si=Vh6h3kct40JOQtKj)
-  - (9) Bee stings
+      **Resources:** [Chiggers 101 (video)](https://youtu.be/d6hneOG2RLA), [Preventng and Treating Tick Bites (website)](https://www.aad.org/public/everyday-care/injured-skin/bites/remove-a-tick), [Preventing and Treating Mosquito Bites (website)](https://www.aad.org/public/everyday-care/injured-skin/bites/prevent-treat-bug-bites), [Biting Gnats (video)](https://youtu.be/QazaIwbtZHs?si=Vh6h3kct40JOQtKj)
+    - (9) Bee stings
 
-    **Resources:** [How to Treat a Bee Sting (video)](https://www.youtube.com/watch?v=01Po5RTNfhs)
-  - (10) Bites of spiders
+      **Resources:** [How to Treat a Bee Sting (video)](https://www.youtube.com/watch?v=01Po5RTNfhs)
+    - (10) Bites of spiders
 
-    **Resources:** [Black Widow and Brown Recluse Spider Bites (video)](https://youtu.be/fiV2bYzWH-o), [Black Widow vs. Brown Recluse Spider Bites (video)](https://www.youtube.com/watch?v=cfh7XOc_hgc)
-  - (11) Sting of a scorpion
+      **Resources:** [Black Widow and Brown Recluse Spider Bites (video)](https://youtu.be/fiV2bYzWH-o), [Black Widow vs. Brown Recluse Spider Bites (video)](https://www.youtube.com/watch?v=cfh7XOc_hgc)
+    - (11) Sting of a scorpion
 
-    **Resources:** [Scorpion Stings—Symptoms and Causes (website)](https://www.mayoclinic.org/diseases-conditions/scorpion-stings/symptoms-causes/syc-20353859)
-  - (12) Bite of a wild mammal
+      **Resources:** [Scorpion Stings—Symptoms and Causes (website)](https://www.mayoclinic.org/diseases-conditions/scorpion-stings/symptoms-causes/syc-20353859)
+    - (12) Bite of a wild mammal
 
-    **Resources:** [Treatment of Animal and Human Bites (video)](https://youtu.be/RSJzuk226RI?si=NU3LP-a1tzgH43gf)
-  - (13) Bite of a venomous snake
+      **Resources:** [Treatment of Animal and Human Bites (video)](https://youtu.be/RSJzuk226RI?si=NU3LP-a1tzgH43gf)
+    - (13) Bite of a venomous snake
 
-    **Resources:** [Venomous Snake Bites (website)](https://www.redcross.org/take-a-class/resources/learn-first-aid/venomous-snake-bites)
+      **Resources:** [Venomous Snake Bites (website)](https://www.redcross.org/take-a-class/resources/learn-first-aid/venomous-snake-bites)
   - (b) Explain how the Scout Basic Essentials address hazards of survival situations and are basic to a survival kit.
 
     **Resources:** [The 10 Scout Basic Outdoor Essentials (website)](https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/), [Checklist for a Wilderness Survival Kit (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Checklist%20for%20a%20Wilderness%20Survival%20Kit.pdf)

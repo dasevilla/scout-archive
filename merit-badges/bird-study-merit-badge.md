@@ -48,7 +48,7 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 
 - (5) Observe and be able to identify 20 species of wild birds. Prepare a field notebook, making a separate entry for each species, and record the following information from your field observations and other references.
 
-  **Resources:** [How to Keep Birding Records in a Field Notebook (video)](https://www.youtube.com/watch?v=eIOXLyMm4fE)
+  **Resources:** [Bird Identification Mastery (video)](https://youtu.be/-skC_FNDWV4), [Keeping a Field Notebook (video)](https://youtu.be/B4lgedvwNqQ), [How To Use the Merlin Bird ID App (app)](https://youtu.be/Woe_Q6S8oyw)
 
   - (a) Note the date and time.
   - (b) Note the location and habitat.

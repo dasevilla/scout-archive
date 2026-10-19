@@ -11,7 +11,7 @@ Earning the Backpacking merit badge will be demanding but rewarding. Scouts will
 
 - (1) Discuss the prevention of and treatment for the health concerns that could occur while backpacking, including hypothermia, heat reactions, frostbite, dehydration, insect stings, tick bites, snakebite, and blisters.
 
-  **Resources:** [Backpacking First Aid (What To Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc) (video)](https://youtu.be/nxExCQiWa_U), [Preventing and Treating Blisters (video)](https://youtu.be/lIvLRG31MZI), [Preventing and Treating Frostbite (video)](https://youtu.be/GHN8008brQw)
+  **Resources:** [Outdoor Emergency Plan (website)](https://www.nps.gov/articles/gtgemergencyplan.htm), [Preventing and Treating Blisters (video)](https://youtu.be/lIvLRG31MZI), [Preventing and Treating Frostbite (video)](https://youtu.be/GHN8008brQw)
 
 - (2) Do the following:
   - (a) List the 10 Scout Basic Essentials to be carried on any backpacking trek and explain why each item is necessary.

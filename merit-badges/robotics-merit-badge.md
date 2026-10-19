@@ -10,7 +10,7 @@ Build your own working robot with the Robotics Merit Badge. Learn about the robo
 ## Requirements
 
 - (1) **Safety.** Do the following:
-  - (a) Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate and prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics.
+  - (a) Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics.
 
     **Resources:** [Hazards and Robot Safety (video)](https://youtu.be/7v3cylLL9hw?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce)
   - (b) Discuss first aid and prevention for the types of injuries that could occur while participating in robotics activities and competitions, including cuts, eye injuries, and burns (chemical or heat).

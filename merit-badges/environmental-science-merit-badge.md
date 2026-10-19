@@ -20,7 +20,7 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
   - (a) Choose an area approved by your counselor and observe (sight, sound, and smell) its ecosystem over a two-day period.
 
     **Resources:** [Observe Nature Like a Scientist! (video)](https://www.youtube.com/watch?v=7NVce3RK-Lo), [Observing Nature (video)](https://www.youtube.com/watch?v=3udPykdfCCU), [Backyard Nature (video)](https://www.youtube.com/watch?v=7gyYfKphqsM)
-  - (b) Make notes about the living, nonliving (e.g. rocks) and formerly living components. Include information about interactions among the components, including the food chain, predators, native species, and invasive species, and identify how human activities have affected the ecosystem.
+  - (b) Make notes about the living, nonliving (e.g., rocks), and formerly living components. Include information about interactions among the components, including the food chain, predators, native species, and invasive species, and identify how human activities have affected the ecosystem.
 
 - (3) **Air Pollution.** Do ONE of the following and discuss with your counselor:
 

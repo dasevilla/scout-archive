@@ -172,7 +172,7 @@ First aid—caring for injured or ill persons until they can receive professiona
   - (f) Demonstrate or simulate the proper use of an AED, using an AED training device if available.
 
     **Resources:** [AEDs in Scouting (website)](https://blog.scoutingmagazine.org/2024/06/13/does-your-scout-unit-have-an-aed/)
-  - (g) Identify the typical location(s) of one or more AED(s) at public facilities in your community, such as, your school, place of worship, unit meeting place, sports facilities, and/or camp or by using a smart phone app. Discuss the reasons for choosing locations like these.
+  - (g) Identify the typical location(s) of one or more AED(s) at public facilities in your community, such as, your school, place of worship, unit meeting place, sports facilities, and/or camp or by using a smartphone app. Discuss the reasons for choosing locations like these.
 
     **Resources:** [Where to Place AEDs (website)](https://cpr.heart.org/en/-/media/CPR-Files/Training-Programs/AED-Implementation/2023-updates/KJ1683-AED-Guide.pdf)
 
@@ -187,28 +187,28 @@ First aid—caring for injured or ill persons until they can receive professiona
 
     **Resources:** [Fractures and Dislocations (video)](https://www.youtube.com/watch?v=sPzXAVNVJr0)
   - (d) Demonstrate bandages for these injuries:
-  - (1) Arm slings for forearm or upper arm or collarbone fractures
+    - (1) Arm slings for forearm or upper arm or collarbone fractures
 
-    **Resources:** [Bandages for Sprained Ankle, Head, Upper Arm, Collarbone (video)](https://youtu.be/ybpr7nCelK0?si=2SjPp8f4iMAzfVBv)
-  - (2) Elastic wrap and cravat bandages for ankle sprain
+      **Resources:** [Bandages for Sprained Ankle, Head, Upper Arm, Collarbone (video)](https://youtu.be/ybpr7nCelK0?si=2SjPp8f4iMAzfVBv)
+    - (2) Elastic wrap and cravat bandages for ankle sprain
 
-    **Resources:** [Elastic Wrap for Ankle Sprain (video)](https://youtu.be/KRyaemlcJAM?si=_A2ie3PNfdiH1n-0)
-  - (3) Elastic wrap and cravat bandages for wrist sprain or hand injury
+      **Resources:** [Elastic Wrap for Ankle Sprain (video)](https://youtu.be/KRyaemlcJAM?si=_A2ie3PNfdiH1n-0)
+    - (3) Elastic wrap and cravat bandages for wrist sprain or hand injury
 
-    **Resources:** [Wrist Wrap (video)](https://youtu.be/tdRMJIu2E08)
+      **Resources:** [Wrist Wrap (video)](https://youtu.be/tdRMJIu2E08)
   - (e) Demonstrate the proper procedures for handling and splinting of suspected closed or open fractures or dislocations of the:
-  - (1) Finger and toe
+    - (1) Finger and toe
 
-    **Resources:** [Buddy Taping Toes (video)](https://youtu.be/P-D0njmVMVA)
-  - (2) Forearm or wrist
+      **Resources:** [Buddy Taping Toes (video)](https://youtu.be/P-D0njmVMVA)
+    - (2) Forearm or wrist
 
-    **Resources:** [Splints for Arms and Legs (video)](https://youtu.be/jhXWT4UpC-8)
-  - (3) Upper leg
+      **Resources:** [Splints for Arms and Legs (video)](https://youtu.be/jhXWT4UpC-8)
+    - (3) Upper leg
 
-    **Resources:** [Upper Leg Splint (video)](https://youtu.be/5KJIojnNAPU?si=qfwme0YazWPIMn0c)
-  - (4) Lower leg or ankle
+      **Resources:** [Upper Leg Splint (video)](https://youtu.be/5KJIojnNAPU?si=qfwme0YazWPIMn0c)
+    - (4) Lower leg or ankle
 
-    **Resources:** [Leg Splints (video)](https://youtu.be/TacM-3A5Ozk)
+      **Resources:** [Leg Splints (video)](https://youtu.be/TacM-3A5Ozk)
 
 - (9) **Head and Spine Injuries.** Do the following:
   - (a) Describe the symptoms and signs of, relationships between, possible complications of, and prevention of head, neck, and back injuries.
@@ -259,7 +259,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     **Resources:** [Heart Attacks from Shoveling Snow (video)](https://youtu.be/xP6Nya7nH_g?si=Lk2KfMloGzl6ZgPk)
   - (f) Hypothermia
 
-    **Resources:** [Hypothermia (video)](https://youtu.be/my6JB41apTw), [C.O.L.D. Guidelines for Staying warm (website)](https://www.scouting.org/health-and-safety/safety-moments/winter-activity/), [Frostbite and Hypothermia (website)](https://health.mo.gov/living/healthcondiseases/hypothermia/index.php), [Recognize the "Umbles"  and Avoid Hypothermia (video)](https://youtu.be/aDAqWLpHXXU)
+    **Resources:** [Hypothermia (video)](https://youtu.be/my6JB41apTw), [C.O.L.D. Guidelines for Staying Warm (website)](https://www.scouting.org/health-and-safety/safety-moments/winter-activity/), [How To Recognize and Avoid Hypothermia (video)](https://youtu.be/aDAqWLpHXXU)
 
 - (12) **Mental Health Conditions.** Describe the following:
   - (a) Reactions associated with at least three stressful situations, such as mountain backpacking, rappelling, a ropes course, speaking before an audience, making a phone call to an adult, taking a swim test, missing home, lighting a match, trying out for a sports team, meeting someone for the first time, or other stressful circumstances

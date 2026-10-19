@@ -29,7 +29,7 @@ The ability to use fire safely is essential to human survival. By earning this m
     **Resources:** [The 5 Different Classes of Fires (video)](https://youtu.be/FeLFhRcOWtA)
   - (b) Identify the different classes of fire extinguishers and which should be used for each class of fire.
 
-    **Resources:** [Choose the Right Fire Extinguisher (video)](https://youtu.be/P47BltapQi4)
+    **Resources:** [Choose the Right Fire Extinguisher (video)](https://youtu.be/P47BltapQi4), [Types of Fire Extinguishers (website w/ video)](https://www.homedepot.com/c/ab/types-of-fire-extinguishers/9ba683603be9fa5395fab90bc763ba8)
   - (c) Demonstrate how to use a fire extinguisher and a fire blanket.
 
     **Resources:** [How To Use a Fire Extinguisher (video)](https://youtu.be/s1fne087XAk), [How To Use a Fire Extinguisher Using the PASS Method (video)](https://youtu.be/PQV71INDaqY), [How To Use a Fire Blanket (video)](https://youtu.be/DPsceUJPth8)
@@ -65,13 +65,13 @@ The ability to use fire safely is essential to human survival. By earning this m
     **Resources:** [How To Prevent Holiday Fires (video)](https://youtu.be/6ggmmzFSgpU)
   - (c) Demonstrate how to safely light and extinguish a candle. Discuss with your counselor, then with your family, how to safely use candles.
 
-    **Resources:** [How To Properly Extinguish Your Candles (video)](https://www.tiktok.com/@naturasoy/video/7060598766985858309)
+    **Resources:** [How To Properly Extinguish a Candle (video)](https://youtu.be/rKjWqyplI3U)
   - (d) Using the Home Fire Safety Checklist in the *Fire Safety* merit badge pamphlet or one approved by your counselor, and with the help of an adult, inspect a home (or a similar building near where you live or at a camp) for fire safety hazards. Present your completed checklist to your counselor and discuss your findings.
 
     **Resources:** [Home Fire Safety Checklists (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Fire%20Safety/Home%20Fire%20Safety%20Checklists.pdf)
   - (e) Determine if, and what types of, smoke and CO alarms are required in homes in your community. List what types of smoke and CO alarms your home has, their locations, and their expiration dates.
 
-    **Resources:** [Understanding Smoke and Carbon Monoxide Detectors (video)](https://youtu.be/LKmhqdq1YnI)
+    **Resources:** [Understanding Smoke and Carbon Monoxide Detectors (video)](https://youtu.be/LKmhqdq1YnI), [Types of Smoke Detectors (website w/ video)](https://www.homedepot.com/c/ab/types-of-smoke-detectors/9ba683603be9fa5395fab908311820a), [Where to Place and Install a Carbon Monoxide Detector (website)](https://www.homedepot.com/c/ah/where-to-place-and-install-a-carbon-monoxide-detector/9ba683603be9fa5395fab90e36b7503)
   - (f) Demonstrate maintenance of smoke and CO alarms to your counselor and review plans to replace expired alarms.
 
     **Resources:** [Home Smoke Alarm Testing and Maintenance (video)](https://youtu.be/ZMIHE7UeFTU), [Smoke Alarm Maintenance (video)](https://youtu.be/JvjLPSja6xU)
@@ -113,17 +113,19 @@ The ability to use fire safely is essential to human survival. By earning this m
     **Resources:** [Leave No Trace Principle 5: Minimize Campfire Impacts (video)](https://youtube.com/shorts/knJwXPeiA20)
   - (b) Demonstrate lighting a match safely, the proper way to extinguish it, and to dispose of it. Explain the similarities and differences between safety matches and strike-anywhere matches.
 
-    **Resources:** [How To Light Paper Matches Safely (video)](https://youtube.com/shorts/OinO3OPTWto), [Fire 101 How To Strike Matches (video)](https://youtube.com/shorts/3X_t7bSs_qQ)
+    **Resources:** [How To Light a Match (video)](https://youtu.be/_kiLlvCelr0), [Fire 101 How To Strike Matches (video)](https://youtube.com/shorts/3X_t7bSs_qQ)
   - (c) Explain and demonstrate making sparks with flint and steel or with a ferro rod and catching a spark to create a flame. Extinguish the flame safely using one of the principles of the fire tetrahedron.
 
     **Resources:** [Making Fire With Flint and Steel (video)](https://youtube.com/shorts/EeR8qutMlWc), [How To Start a Fire With Flint and Steel (video)](https://youtube.com/shorts/Xl7VPPFQayE), [How To Start a Campfire in the Rain? (video)](https://youtube.com/shorts/CXsmV34DqXg)
   - (d) Demonstrate the safe way to start a charcoal fire.
+
+    **Resources:** [Charcoal Safety (website)](https://www.scouting.org/health-and-safety/safety-moments/charcoal-safety/), [How To Light a Barbecue (video)](https://www.youtube.com/watch?v=rkZl-KkSjD4)
   - (e) Describe three common campsite fire lays. Collect, prepare, and set up tinder, kindling, and fuel for a campfire following the Leave No Trace Seven Principles and the Outdoor Code. Ignite your fire lay and safely extinguish your fire.
 
-    **Resources:** [3 Campfire Lays—Through the Eyes of a Thermal Camera (video)](https://youtube.com/shorts/Swgwbk0mcH4)
+    **Resources:** [How To Build a Fire (video)](https://youtu.be/0O3Bj8JFcTc), [Minimize Campfire Impacts (video)](https://youtu.be/lRbRtcS1_Yw), [3 Campfire Lays—Through the Eyes of a Thermal Camera (video)](https://youtube.com/shorts/Swgwbk0mcH4)
   - (f) Demonstrate using a camp stove.
 
-    **Resources:** [How To Use a Camping Stove (video)](https://www.tiktok.com/@therealdadhowdoi/video/7131121409199197482)
+    **Resources:** [How To Use Your Coleman Classic Propane Gas Camping Stove (video)](https://youtu.be/6il0aDjwSGI)
   - (g) Explain how to set up and keep a campsite safe from fire.
 
     **Resources:** [Campfire Safety \| How To Make a Fire While Camping \| How To Put Out a Campfire Safely (video)](https://youtu.be/E0YqVXJ4mkc)

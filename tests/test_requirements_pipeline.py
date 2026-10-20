@@ -6,6 +6,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 from scout_archive.requirements_pipeline import (
     HtmlExtractor,
+    LabRequirementsExtractor,
     MarkdownGenerator,
     RawRequirementItem,
     SemanticProcessor,
@@ -827,6 +828,96 @@ class SemanticProcessorTest(unittest.TestCase):
                 for child in requirements[0].sub_requirements[0].sub_requirements
             ],
             ["6.a.1", "6.a.2"],
+        )
+
+
+class LabRequirementsExtractorTest(unittest.TestCase):
+    def test_preserves_lettered_lists_options_and_nested_numbered_items(self) -> None:
+        # Reduced from Sewing & Needlework, including its empty list wrapper
+        # and the mixture of requirements and resource-only sibling items.
+        html = """
+        <div>
+          <p><strong>2. Hand Sewing.</strong> Do the following:</p>
+          <ul style="list-style-type: none;">
+            <li>(a) Assemble a sewing kit.
+              <ul><li><a href="https://example.com/kit">Kit guide</a></li></ul>
+            </li>
+            <li>(b) Thread a needle.</li>
+            <li>(c) Demonstrate the following stitches:
+              <ul><li>(1) Running stitch</li><li>(2) Back stitch</li>
+                <li><a href="https://example.com/stitches">Stitch guide</a></li>
+              </ul>
+            </li>
+          </ul>
+          <p><strong>3.</strong> Choose ONE option:</p>
+          <ul><li style="list-style-type: none;"><ul>
+            <li>A. <strong>Machine Sewing</strong><ul>
+              <li>(a) Explain the history.</li>
+              <li><a href="https://example.com/history">History video</a></li>
+              <li>(b) Do the following:</li>
+              <li><strong><a href="https://example.com/tools">Tool guide</a></strong><ul>
+                <li>(1) Thread the machine.</li><li>(2) Change the needle.</li>
+              </ul></li>
+            </ul></li>
+            <li>B. <strong>Knitting</strong><ul><li>(a) Explain knitting.</li></ul></li>
+          </ul></li></ul>
+        </div>
+        """
+
+        requirements = LabRequirementsExtractor().extract_from_blocks([html.strip()])
+
+        self.assertEqual([req.label for req in requirements], ["2", "3"])
+        hand_sewing, options = requirements
+        self.assertEqual(
+            [child.requirement_path for child in hand_sewing.sub_requirements],
+            ["2.a", "2.b", "2.c"],
+        )
+        self.assertEqual(
+            hand_sewing.sub_requirements[0].resources[0].title, "Kit guide"
+        )
+        self.assertEqual(
+            [child.text for child in hand_sewing.sub_requirements[2].sub_requirements],
+            ["Running stitch", "Back stitch"],
+        )
+        self.assertEqual(
+            [child.label for child in options.sub_requirements], ["A", "B"]
+        )
+        machine = options.sub_requirements[0]
+        self.assertEqual(
+            [child.label for child in machine.sub_requirements], ["a", "b"]
+        )
+        self.assertEqual(
+            machine.sub_requirements[0].resources[0].title, "History video"
+        )
+        self.assertEqual(machine.sub_requirements[1].resources[0].title, "Tool guide")
+        self.assertEqual(
+            [
+                child.requirement_path
+                for child in machine.sub_requirements[1].sub_requirements
+            ],
+            ["3.a.b.1", "3.a.b.2"],
+        )
+        markdown = MarkdownGenerator().generate(requirements)
+        self.assertIn("  - (a) Assemble a sewing kit.", markdown)
+        self.assertIn("    - (1) Running stitch", markdown)
+        self.assertIn("      - (1) Thread the machine.", markdown)
+        self.assertIn("[Kit guide](https://example.com/kit)", markdown)
+        self.assertEqual(markdown.count("History video"), 1)
+
+    def test_numeric_list_does_not_start_a_new_top_level_requirement(self) -> None:
+        html = """
+        <div><p>4. Do the following:</p>
+          <ul><li>(1) Discuss safety.</li><li>(2) Explain the tools.</li></ul>
+          <p>5. Share what you learned.</p>
+        </div>
+        """
+
+        requirements = LabRequirementsExtractor().extract_from_blocks([html.strip()])
+
+        self.assertEqual([req.label for req in requirements], ["4", "5"])
+        self.assertEqual(
+            [child.requirement_path for child in requirements[0].sub_requirements],
+            ["4.1", "4.2"],
         )
 
 

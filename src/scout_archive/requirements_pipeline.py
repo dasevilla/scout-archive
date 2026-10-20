@@ -1345,6 +1345,22 @@ class LabRequirementsExtractor:
                 continue
             if self._is_empty_block(child):
                 continue
+            # A list's text starts with its first descendant's label. Parse the
+            # list before testing labels so its nested items stay separate.
+            if child.name in {"ul", "ol"}:
+                if current_id is None:
+                    continue
+                if self._is_resource_list(child):
+                    if sub_current_id is not None:
+                        sub_resource_blocks.append(child)
+                    else:
+                        resource_blocks.append(child)
+                else:
+                    if sub_current_id is not None:
+                        sub_sub_requirements.extend(self._parse_list(child))
+                    else:
+                        sub_requirements.extend(self._parse_list(child))
+                continue
             if self._is_requirement_start(child):
                 finalize()
                 current_id = self._extract_requirement_id(child)
@@ -1359,19 +1375,6 @@ class LabRequirementsExtractor:
                 finalize_sub()
                 sub_current_id = sub_label
                 sub_content_blocks = [child.decode_contents().strip()]
-                continue
-
-            if child.name in {"ul", "ol"}:
-                if self._is_resource_list(child):
-                    if sub_current_id is not None:
-                        sub_resource_blocks.append(child)
-                    else:
-                        resource_blocks.append(child)
-                else:
-                    if sub_current_id is not None:
-                        sub_sub_requirements.extend(self._parse_list(child))
-                    else:
-                        sub_requirements.extend(self._parse_list(child))
                 continue
 
             if self._is_resource_block(child):
@@ -1411,6 +1414,29 @@ class LabRequirementsExtractor:
                     content_parts.append(str(child))
 
             content_html = "".join(content_parts).strip()
+            if not content_html and not resource_blocks:
+                # Some Test Lab option lists have an extra empty li wrapper.
+                items.extend(sub_requirements)
+                continue
+            content_container = BeautifulSoup(
+                f"<div>{content_html}</div>", "html.parser"
+            ).div
+            if (
+                items
+                and content_container is not None
+                and self._is_resource_block(content_container)
+            ):
+                # Resource-only siblings can also wrap the preceding item's
+                # numbered list; keep both with that requirement.
+                items[-1].content_nodes.extend(
+                    self._extractor.extract_nodes(
+                        self._append_resources(
+                            "", [content_container, *resource_blocks]
+                        )
+                    )
+                )
+                items[-1].sub_requirements.extend(sub_requirements)
+                continue
             text = BeautifulSoup(content_html, "html.parser").get_text(" ", strip=True)
             label = self._extract_explicit_label(text)
             if label_provider and not label:

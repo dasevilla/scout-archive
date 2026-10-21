@@ -29,7 +29,8 @@
       "resources": [
         {
           "title": "Computer Safety Procedures (video)",
-          "url": "https://youtu.be/aaE0ePh7zSo"
+          "url": "https://youtu.be/aaE0ePh7zSo",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -74,11 +75,13 @@
           "resources": [
             {
               "title": "Schematics (video)",
-              "url": "https://youtu.be/9cps7Q_IrX0"
+              "url": "https://youtu.be/9cps7Q_IrX0",
+              "type": "video"
             },
             {
               "title": "How to Read a Schematic (video)",
-              "url": "https://youtu.be/_HZ-EQ8Hc8E"
+              "url": "https://youtu.be/_HZ-EQ8Hc8E",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -101,11 +104,13 @@
           "resources": [
             {
               "title": "Electronic Components Guide (video)",
-              "url": "https://youtu.be/N8_1wb0r0DQ"
+              "url": "https://youtu.be/N8_1wb0r0DQ",
+              "type": "video"
             },
             {
               "title": "10 Common Electronic Components (video)",
-              "url": "https://www.tiktok.com/@jyhhsuelectronics/video/7457467056598977838"
+              "url": "https://www.tiktok.com/@jyhhsuelectronics/video/7457467056598977838",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -152,11 +157,13 @@
           "resources": [
             {
               "title": "Using Solder | Soldering Basics | Soldering for Beginners (video)",
-              "url": "https://youtu.be/-qk-ulz05J8"
+              "url": "https://youtu.be/-qk-ulz05J8",
+              "type": "video"
             },
             {
               "title": "How to Desolder (video)",
-              "url": "https://youtu.be/bG7yW9FigJA"
+              "url": "https://youtu.be/bG7yW9FigJA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -179,7 +186,8 @@
           "resources": [
             {
               "title": "Applying Heat to your Parts (video)",
-              "url": "https://www.youtube.com/shorts/fYk07LcnkPA"
+              "url": "https://www.youtube.com/shorts/fYk07LcnkPA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -202,7 +210,8 @@
           "resources": [
             {
               "title": "What Are Printed Circuit Boards (PCBs)? (video)",
-              "url": "https://youtu.be/BJ3N8gURA1c?si=5Oew7Ys1qIhVBUlP"
+              "url": "https://youtu.be/BJ3N8gURA1c?si=5Oew7Ys1qIhVBUlP",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -236,9 +245,9 @@
           "label": "a",
           "text": "Discuss each of the following with your counselor:",
           "requirement_path": "4.a",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Discuss each of the following with your counselor:",
@@ -271,7 +280,8 @@
               "resources": [
                 {
                   "title": "Inputs, Outputs and Controllers (video)",
-                  "url": "https://www.youtube.com/shorts/oxNmKS6etGM"
+                  "url": "https://www.youtube.com/shorts/oxNmKS6etGM",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -294,7 +304,8 @@
               "resources": [
                 {
                   "title": "Understanding Logic Gates (video)",
-                  "url": "https://youtu.be/INEtYZqtjTo"
+                  "url": "https://youtu.be/INEtYZqtjTo",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -337,11 +348,13 @@
           "resources": [
             {
               "title": "How to Convert Binary to Decimal (video)",
-              "url": "https://youtu.be/a2FpnU9Mm3E"
+              "url": "https://youtu.be/a2FpnU9Mm3E",
+              "type": "video"
             },
             {
               "title": "Convert Decimal to Binary (video)",
-              "url": "https://www.youtube.com/shorts/OYP0pa50a0Q"
+              "url": "https://www.youtube.com/shorts/OYP0pa50a0Q",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -351,9 +364,9 @@
           "label": "c",
           "text": "Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.",
           "requirement_path": "4.c",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Choose ONE of the following THREE projects.",
@@ -373,7 +386,8 @@
           "resources": [
             {
               "title": "How to Read an Electronic Schematic (video)",
-              "url": "https://youtu.be/MxRGXIe1qPo"
+              "url": "https://youtu.be/MxRGXIe1qPo",
+              "type": "video"
             }
           ],
           "sub_requirements": [
@@ -475,11 +489,13 @@
           "resources": [
             {
               "title": "Ohm's Law Formula (video)",
-              "url": "https://youtu.be/KMaQYdTJul0"
+              "url": "https://youtu.be/KMaQYdTJul0",
+              "type": "video"
             },
             {
               "title": "What is OHM'S Law? (video)",
-              "url": "https://youtu.be/uZ-m91IEkjQ"
+              "url": "https://youtu.be/uZ-m91IEkjQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -502,7 +518,8 @@
           "resources": [
             {
               "title": "Circuits & Electronics - Electronics Lab Introduction (video)",
-              "url": "https://youtu.be/ZuFlJ1IZyPs"
+              "url": "https://youtu.be/ZuFlJ1IZyPs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -525,7 +542,8 @@
           "resources": [
             {
               "title": "How to Read a Resistor (video)",
-              "url": "https://youtu.be/GLD7AgAYqwA"
+              "url": "https://youtu.be/GLD7AgAYqwA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -548,7 +566,8 @@
           "resources": [
             {
               "title": "Through Hole vs Surface Mount Method? (video)",
-              "url": "https://youtu.be/RW9NO6H62oY"
+              "url": "https://youtu.be/RW9NO6H62oY",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -573,7 +592,8 @@
       "resources": [
         {
           "title": "Careers in Electronics Engineering (video)",
-          "url": "https://youtu.be/paEw8Y8WlNA"
+          "url": "https://youtu.be/paEw8Y8WlNA",
+          "type": "video"
         }
       ],
       "sub_requirements": []

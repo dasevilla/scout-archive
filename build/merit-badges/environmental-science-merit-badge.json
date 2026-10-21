@@ -29,7 +29,8 @@
       "resources": [
         {
           "title": "What Is Environmental Science? (video)",
-          "url": "https://www.youtube.com/watch?v=kB0JA7jsqMw"
+          "url": "https://www.youtube.com/watch?v=kB0JA7jsqMw",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -68,15 +69,18 @@
       "resources": [
         {
           "title": "Merlin Bird App Description (app)",
-          "url": "https://youtu.be/xmSUOLxyatY"
+          "url": "https://youtu.be/xmSUOLxyatY",
+          "type": "video"
         },
         {
           "title": "INaturalist App Description (app)",
-          "url": "https://youtu.be/Mb_i-WoUKt0"
+          "url": "https://youtu.be/Mb_i-WoUKt0",
+          "type": "video"
         },
         {
           "title": "Observing Nature Through SMELL (video)",
-          "url": "https://youtu.be/4drgulU4kb8"
+          "url": "https://youtu.be/4drgulU4kb8",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -98,15 +102,18 @@
           "resources": [
             {
               "title": "Observe Nature Like a Scientist! (video)",
-              "url": "https://www.youtube.com/watch?v=7NVce3RK-Lo"
+              "url": "https://www.youtube.com/watch?v=7NVce3RK-Lo",
+              "type": "video"
             },
             {
               "title": "Observing Nature (video)",
-              "url": "https://www.youtube.com/watch?v=3udPykdfCCU"
+              "url": "https://www.youtube.com/watch?v=3udPykdfCCU",
+              "type": "video"
             },
             {
               "title": "Backyard Nature (video)",
-              "url": "https://www.youtube.com/watch?v=7gyYfKphqsM"
+              "url": "https://www.youtube.com/watch?v=7gyYfKphqsM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -165,7 +172,8 @@
       "resources": [
         {
           "title": "Air Pollution (video)",
-          "url": "https://www.youtube.com/watch?v=e6rglsLy1Ys"
+          "url": "https://www.youtube.com/watch?v=e6rglsLy1Ys",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -187,7 +195,8 @@
           "resources": [
             {
               "title": "Particulate Matter (video)",
-              "url": "https://www.youtube.com/watch?v=zj4rd77EAt4"
+              "url": "https://www.youtube.com/watch?v=zj4rd77EAt4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -195,7 +204,7 @@
         {
           "id": "12569",
           "label": "b",
-          "text": "Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.). Resources: Your Car's Exhaust (video)\nAir Quality and Transportation (video)",
+          "text": "Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.).",
           "requirement_path": "3.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -204,46 +213,21 @@
           "content": [
             {
               "type": "text",
-              "value": "Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.). Resources: "
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://youtu.be/WTg4i-5N62U"
-              },
-              "children": [
-                {
-                  "type": "text",
-                  "value": "Your Car's Exhaust (video)"
-                }
-              ]
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://youtu.be/TF1hxpcy4so"
-              },
-              "children": [
-                {
-                  "type": "text",
-                  "value": "Air Quality and Transportation (video)"
-                }
-              ]
+              "value": "Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.)."
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Your Car's Exhaust (video)",
+              "url": "https://youtu.be/WTg4i-5N62U",
+              "type": "video"
+            },
+            {
+              "title": "Air Quality and Transportation (video)",
+              "url": "https://youtu.be/TF1hxpcy4so",
+              "type": "video"
+            }
+          ],
           "sub_requirements": []
         },
         {
@@ -264,7 +248,8 @@
           "resources": [
             {
               "title": "Clean Air Act (video)",
-              "url": "https://www.youtube.com/watch?v=um517CsDC2w"
+              "url": "https://www.youtube.com/watch?v=um517CsDC2w",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -305,7 +290,8 @@
       "resources": [
         {
           "title": "Hydrologic Cycle (video)",
-          "url": "https://www.youtube.com/watch?v=ArBYU1SPZ48"
+          "url": "https://www.youtube.com/watch?v=ArBYU1SPZ48",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -327,15 +313,18 @@
           "resources": [
             {
               "title": "Understanding a Drinking Water Quality Report (video)",
-              "url": "https://www.youtube.com/watch?v=Wtc0Se2vz1A"
+              "url": "https://www.youtube.com/watch?v=Wtc0Se2vz1A",
+              "type": "video"
             },
             {
               "title": "Drinking Water Treatment (video)",
-              "url": "https://www.youtube.com/watch?v=0_ZcCqqpS2o"
+              "url": "https://www.youtube.com/watch?v=0_ZcCqqpS2o",
+              "type": "video"
             },
             {
               "title": "Waste Water Treatment (video)",
-              "url": "https://www.youtube.com/watch?v=FvPakzqM3h8"
+              "url": "https://www.youtube.com/watch?v=FvPakzqM3h8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -358,15 +347,18 @@
           "resources": [
             {
               "title": "How to Use FEMA's Flood Search Tool (video)",
-              "url": "https://youtu.be/Drvf9jVyRbs?si=czY2_HE1__ZHYhp7"
+              "url": "https://youtu.be/Drvf9jVyRbs?si=czY2_HE1__ZHYhp7",
+              "type": "video"
             },
             {
               "title": "Watersheds! (video)",
-              "url": "https://youtu.be/2pwW2rlGIa8?si=WyJsK2axpl1AdPkd"
+              "url": "https://youtu.be/2pwW2rlGIa8?si=WyJsK2axpl1AdPkd",
+              "type": "video"
             },
             {
               "title": "US Drought Map (video)",
-              "url": "https://youtu.be/h6GuK1xaKao?si=lYrq3bRq0YcO9ZLh"
+              "url": "https://youtu.be/h6GuK1xaKao?si=lYrq3bRq0YcO9ZLh",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -389,11 +381,13 @@
           "resources": [
             {
               "title": "Clean Water Act (video)",
-              "url": "https://www.youtube.com/watch?v=OYMf9zJikVU"
+              "url": "https://www.youtube.com/watch?v=OYMf9zJikVU",
+              "type": "video"
             },
             {
               "title": "Clean Water Act & the Chesapeake Bay (video)",
-              "url": "https://www.youtube.com/watch?v=pWdw2812U9g"
+              "url": "https://www.youtube.com/watch?v=pWdw2812U9g",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -451,11 +445,13 @@
           "resources": [
             {
               "title": "Do We Really Need Pesticides? (video)",
-              "url": "https://www.youtube.com/watch?v=GLllZ-qiXJA"
+              "url": "https://www.youtube.com/watch?v=GLllZ-qiXJA",
+              "type": "video"
             },
             {
               "title": "Bald Eagle Study (video)",
-              "url": "https://youtu.be/1eXj6QKjw_o?si=oppPQY9SRxO1a7Ne"
+              "url": "https://youtu.be/1eXj6QKjw_o?si=oppPQY9SRxO1a7Ne",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -478,11 +474,13 @@
           "resources": [
             {
               "title": "Soil Erosion | Causes, Effects, and Solutions (video)",
-              "url": "https://www.youtube.com/watch?v=BoSUEIkK_Y4"
+              "url": "https://www.youtube.com/watch?v=BoSUEIkK_Y4",
+              "type": "video"
             },
             {
               "title": "How Was the Grand Canyon Formed? (video)",
-              "url": "https://www.youtube.com/watch?v=t6IBg4Srb6E"
+              "url": "https://www.youtube.com/watch?v=t6IBg4Srb6E",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -505,7 +503,8 @@
           "resources": [
             {
               "title": "Introduction to Superfund (video)",
-              "url": "https://www.youtube.com/watch?v=klO1hJBJjns"
+              "url": "https://www.youtube.com/watch?v=klO1hJBJjns",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -563,15 +562,18 @@
           "resources": [
             {
               "title": "Endangered Species by US State (video)",
-              "url": "https://www.youtube.com/watch?v=uhj1WmVdi3o"
+              "url": "https://www.youtube.com/watch?v=uhj1WmVdi3o",
+              "type": "video"
             },
             {
               "title": "Are Endangered Species Worth Saving? (video)",
-              "url": "https://www.youtube.com/watch?v=h5eTqjzQZDY"
+              "url": "https://www.youtube.com/watch?v=h5eTqjzQZDY",
+              "type": "video"
             },
             {
               "title": "Saving Threatened Plants (video)",
-              "url": "https://www.youtube.com/watch?v=ZCUw8M6Z33g"
+              "url": "https://www.youtube.com/watch?v=ZCUw8M6Z33g",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -594,19 +596,23 @@
           "resources": [
             {
               "title": "10 Success Stories (video)",
-              "url": "https://youtu.be/ZrrdDYmzoME"
+              "url": "https://youtu.be/ZrrdDYmzoME",
+              "type": "video"
             },
             {
               "title": "Condor Saved! (video)",
-              "url": "https://youtu.be/prU4UdQv9P4"
+              "url": "https://youtu.be/prU4UdQv9P4",
+              "type": "video"
             },
             {
               "title": "Whooping Cranes Saved! (video)",
-              "url": "https://youtu.be/vy773WFHpL8"
+              "url": "https://youtu.be/vy773WFHpL8",
+              "type": "video"
             },
             {
               "title": "World Wildlife Fund (website)",
-              "url": "https://www.worldwildlife.org"
+              "url": "https://www.worldwildlife.org",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -629,15 +635,18 @@
           "resources": [
             {
               "title": "Butterfly Habitat Restoration (video)",
-              "url": "https://www.youtube.com/watch?v=YDIdFnXXA84"
+              "url": "https://www.youtube.com/watch?v=YDIdFnXXA84",
+              "type": "video"
             },
             {
               "title": "Fisheries  Habitat Restoration (video)",
-              "url": "https://www.youtube.com/watch?v=uMvM0yZbQSA"
+              "url": "https://www.youtube.com/watch?v=uMvM0yZbQSA",
+              "type": "video"
             },
             {
               "title": "Everglades Restoration (video)",
-              "url": "https://www.youtube.com/watch?v=98d8p49XJGM"
+              "url": "https://www.youtube.com/watch?v=98d8p49XJGM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -695,19 +704,23 @@
           "resources": [
             {
               "title": "10 Ways to Take Care of the Environment (video)",
-              "url": "https://www.youtube.com/watch?v=X2YgM1Zw4_E"
+              "url": "https://www.youtube.com/watch?v=X2YgM1Zw4_E",
+              "type": "video"
             },
             {
               "title": "Scouts and LNT (video)",
-              "url": "https://www.youtube.com/watch?v=oTs29BZzf8U"
+              "url": "https://www.youtube.com/watch?v=oTs29BZzf8U",
+              "type": "video"
             },
             {
               "title": "10 Easy Ways to Save Water at Home and Help the Planet (video)",
-              "url": "https://youtu.be/8tA3GnlaX18?si=zeF88iHsxd1v4LYl"
+              "url": "https://youtu.be/8tA3GnlaX18?si=zeF88iHsxd1v4LYl",
+              "type": "video"
             },
             {
               "title": "The Leave No Trace Basics (video)",
-              "url": "https://www.youtube.com/watch?v=rGY7LpH5tok"
+              "url": "https://www.youtube.com/watch?v=rGY7LpH5tok",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -730,15 +743,18 @@
           "resources": [
             {
               "title": "Reduce, Reuse, Recycle (video)",
-              "url": "https://youtu.be/u8MQwOR2og8"
+              "url": "https://youtu.be/u8MQwOR2og8",
+              "type": "video"
             },
             {
               "title": "Upcycling Hacks (video)",
-              "url": "https://youtu.be/YGzv0IsJFYU"
+              "url": "https://youtu.be/YGzv0IsJFYU",
+              "type": "video"
             },
             {
               "title": "The 3Rs (video)",
-              "url": "https://youtu.be/TPG6E4nxtSw"
+              "url": "https://youtu.be/TPG6E4nxtSw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -761,7 +777,8 @@
           "resources": [
             {
               "title": "Household Hazardous Waste Disposal  (video)",
-              "url": "https://youtu.be/MJX0rvGsRpA?si=f-VNz_J6IBwhQMPd"
+              "url": "https://youtu.be/MJX0rvGsRpA?si=f-VNz_J6IBwhQMPd",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -819,15 +836,18 @@
           "resources": [
             {
               "title": "Is It a Bee, a Wasp, a Fly, or a Moth? (video)",
-              "url": "https://www.youtube.com/watch?v=dDMBykrogXs"
+              "url": "https://www.youtube.com/watch?v=dDMBykrogXs",
+              "type": "video"
             },
             {
               "title": "The Power of Pollinators (video)",
-              "url": "https://www.youtube.com/watch?v=eDxZojp9yNg"
+              "url": "https://www.youtube.com/watch?v=eDxZojp9yNg",
+              "type": "video"
             },
             {
               "title": "How Pollination Works (video)",
-              "url": "https://www.youtube.com/watch?v=qWc8X6YeTv8&t=31s"
+              "url": "https://www.youtube.com/watch?v=qWc8X6YeTv8&t=31s",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -850,11 +870,13 @@
           "resources": [
             {
               "title": "The Beauty of Pollination  (video)",
-              "url": "https://www.youtube.com/watch?v=MQiszdkOwuU"
+              "url": "https://www.youtube.com/watch?v=MQiszdkOwuU",
+              "type": "video"
             },
             {
               "title": "Animal Pollinators! (video)",
-              "url": "https://www.youtube.com/watch?v=gR3E2tGx2vc"
+              "url": "https://www.youtube.com/watch?v=gR3E2tGx2vc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -877,15 +899,18 @@
           "resources": [
             {
               "title": "Pollinators and Agriculture (video)",
-              "url": "https://www.youtube.com/watch?v=RczHxJI57xU"
+              "url": "https://www.youtube.com/watch?v=RczHxJI57xU",
+              "type": "video"
             },
             {
               "title": "Honey Bee Pollinator Contract Hives (video)",
-              "url": "https://www.youtube.com/watch?v=M_AbmAtrCyo"
+              "url": "https://www.youtube.com/watch?v=M_AbmAtrCyo",
+              "type": "video"
             },
             {
               "title": "Almond Pollination (video)",
-              "url": "https://www.youtube.com/watch?v=QdcMncME4io"
+              "url": "https://www.youtube.com/watch?v=QdcMncME4io",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -921,11 +946,13 @@
       "resources": [
         {
           "title": "The Threat of Invasive Species (video)",
-          "url": "https://youtu.be/spTWwqVP_2s?si=BvTcJGLLBgrSN65U"
+          "url": "https://youtu.be/spTWwqVP_2s?si=BvTcJGLLBgrSN65U",
+          "type": "video"
         },
         {
           "title": "Why We Don't Kill Off Invasive Species (video)",
-          "url": "https://youtu.be/TNfIGtZ3k1Q?si=eut02ofY2iwczIP-"
+          "url": "https://youtu.be/TNfIGtZ3k1Q?si=eut02ofY2iwczIP-",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -948,15 +975,18 @@
       "resources": [
         {
           "title": "What Is an EIA? (video)",
-          "url": "https://www.youtube.com/watch?v=V7W3l1Qgj-0"
+          "url": "https://www.youtube.com/watch?v=V7W3l1Qgj-0",
+          "type": "video"
         },
         {
           "title": "EIA issues (video)",
-          "url": "https://www.youtube.com/watch?v=RWtT0EfhNsE"
+          "url": "https://www.youtube.com/watch?v=RWtT0EfhNsE",
+          "type": "video"
         },
         {
           "title": "EIAs-Key to Sustainable Development (video)",
-          "url": "https://www.youtube.com/watch?v=aznhAlo8rJo"
+          "url": "https://www.youtube.com/watch?v=aznhAlo8rJo",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -979,15 +1009,18 @@
       "resources": [
         {
           "title": "EnvSci Future Careers (video)",
-          "url": "https://www.youtube.com/watch?v=PrOPITyZPaU"
+          "url": "https://www.youtube.com/watch?v=PrOPITyZPaU",
+          "type": "video"
         },
         {
           "title": "What Do Environmental Engineers Do? (video)",
-          "url": "https://youtu.be/k2epvAUEdCI?si=ZNkpdjKI880p7xdf"
+          "url": "https://youtu.be/k2epvAUEdCI?si=ZNkpdjKI880p7xdf",
+          "type": "video"
         },
         {
           "title": "What Do Environmental Scientists Do?  (video)",
-          "url": "https://www.youtube.com/watch?v=c5xGwhaNxi4"
+          "url": "https://www.youtube.com/watch?v=c5xGwhaNxi4",
+          "type": "video"
         }
       ],
       "sub_requirements": []

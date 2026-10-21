@@ -29,11 +29,13 @@
       "resources": [
         {
           "title": "What Does It Mean To Be a Global Citizen? (video)",
-          "url": "https://youtu.be/gfZgtP7VGGg"
+          "url": "https://youtu.be/gfZgtP7VGGg",
+          "type": "video"
         },
         {
           "title": "What Is Global Citizenship? (video)",
-          "url": "https://youtu.be/IH8AmE6mV9k"
+          "url": "https://youtu.be/IH8AmE6mV9k",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -56,19 +58,23 @@
       "resources": [
         {
           "title": "What Is Citizenship? (video)",
-          "url": "https://youtu.be/JVXQvJvfuGw"
+          "url": "https://youtu.be/JVXQvJvfuGw",
+          "type": "video"
         },
         {
           "title": "A Guide to the Bill of Rights (video)",
-          "url": "https://youtu.be/yYEfLm5dLMQ"
+          "url": "https://youtu.be/yYEfLm5dLMQ",
+          "type": "video"
         },
         {
           "title": "Duties and Obligations of Being a Filipino Citizen (video)",
-          "url": "https://youtu.be/TYtsc07PiLQ"
+          "url": "https://youtu.be/TYtsc07PiLQ",
+          "type": "video"
         },
         {
           "title": "Fundamental Duties as a Citizen of India (video)",
-          "url": "https://youtu.be/fxnVVftKrhI"
+          "url": "https://youtu.be/fxnVVftKrhI",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -113,7 +119,8 @@
           "resources": [
             {
               "title": "National Interest in International Relations (video)",
-              "url": "https://youtu.be/geCF1K76nEs"
+              "url": "https://youtu.be/geCF1K76nEs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -136,19 +143,23 @@
           "resources": [
             {
               "title": "The Impact of Geography on the Global Economy (website)",
-              "url": "https://geolutins.com/the-impact-of-geography-on-the-global-economy"
+              "url": "https://geolutins.com/the-impact-of-geography-on-the-global-economy",
+              "type": "website"
             },
             {
               "title": "resourcetrade.earth (website)",
-              "url": "https://resourcetrade.earth"
+              "url": "https://resourcetrade.earth",
+              "type": "website"
             },
             {
               "title": "The Observatory of Economic Complexity (OEC) (website)",
-              "url": "https://oec.world/en"
+              "url": "https://oec.world/en",
+              "type": "website"
             },
             {
               "title": "USGS Geospatial Data Sources (website)",
-              "url": "https://www.usgs.gov/educational-resources/usgs-geospatial-data-sources"
+              "url": "https://www.usgs.gov/educational-resources/usgs-geospatial-data-sources",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -195,15 +206,18 @@
           "resources": [
             {
               "title": "National Law vs International Law (video)",
-              "url": "https://youtu.be/-VSD2d35ijI"
+              "url": "https://youtu.be/-VSD2d35ijI",
+              "type": "video"
             },
             {
               "title": "What Are Treaties and How Do They Work? (video)",
-              "url": "https://youtu.be/C9m6IQX87G4"
+              "url": "https://youtu.be/C9m6IQX87G4",
+              "type": "video"
             },
             {
               "title": "Why Do We Need International Law? (video)",
-              "url": "https://youtu.be/ePV1J48cGYI"
+              "url": "https://youtu.be/ePV1J48cGYI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -226,23 +240,28 @@
           "resources": [
             {
               "title": "Free Trade Agreement (video)",
-              "url": "https://youtu.be/1hY8OhTH6ag"
+              "url": "https://youtu.be/1hY8OhTH6ag",
+              "type": "video"
             },
             {
               "title": "What Is Free Trade? (video)",
-              "url": "https://youtu.be/UGLPiyeQVxU"
+              "url": "https://youtu.be/UGLPiyeQVxU",
+              "type": "video"
             },
             {
               "title": "Balance of Payments & Foreign Reserves Explained (video)",
-              "url": "https://youtu.be/QrAwFXiwPnQ"
+              "url": "https://youtu.be/QrAwFXiwPnQ",
+              "type": "video"
             },
             {
               "title": "What Is Currency? Exchange Rates (video)",
-              "url": "https://youtu.be/98U_Vb8rQfs"
+              "url": "https://youtu.be/98U_Vb8rQfs",
+              "type": "video"
             },
             {
               "title": "Free Trade and Protectionism (video)",
-              "url": "https://youtu.be/_tmPnH-JkNg"
+              "url": "https://youtu.be/_tmPnH-JkNg",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -252,9 +271,9 @@
           "label": "c",
           "text": "Select TWO of the following organizations and describe their role in the world.",
           "requirement_path": "4.c",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Select TWO of the following organizations and describe their role in the world.",
@@ -287,11 +306,13 @@
               "resources": [
                 {
                   "title": "What Is the United Nations? (video)",
-                  "url": "https://youtu.be/Ttoad811t88"
+                  "url": "https://youtu.be/Ttoad811t88",
+                  "type": "video"
                 },
                 {
                   "title": "What Is UNICEF? (video)",
-                  "url": "https://youtu.be/cx0QyKoyU6A"
+                  "url": "https://youtu.be/cx0QyKoyU6A",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -314,11 +335,13 @@
               "resources": [
                 {
                   "title": "What Is the International Court of Justice? (video)",
-                  "url": "https://youtu.be/kJKgYZfeMkE"
+                  "url": "https://youtu.be/kJKgYZfeMkE",
+                  "type": "video"
                 },
                 {
                   "title": "International Court of Justice (website)",
-                  "url": "https://www.icj-cij.org/home"
+                  "url": "https://www.icj-cij.org/home",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -341,11 +364,13 @@
               "resources": [
                 {
                   "title": "What Is The INTERPOL? (video)",
-                  "url": "https://youtu.be/nQ1iFMlw0KI"
+                  "url": "https://youtu.be/nQ1iFMlw0KI",
+                  "type": "video"
                 },
                 {
                   "title": "INTERPOL (website)",
-                  "url": "https://www.interpol.int/"
+                  "url": "https://www.interpol.int/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -368,11 +393,13 @@
               "resources": [
                 {
                   "title": "World Organization Scout Movement (WOSM) (video)",
-                  "url": "https://youtu.be/EEyM_ChN1yM"
+                  "url": "https://youtu.be/EEyM_ChN1yM",
+                  "type": "video"
                 },
                 {
                   "title": "World Scouting (website)",
-                  "url": "https://www.scout.org/"
+                  "url": "https://www.scout.org/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -395,11 +422,13 @@
               "resources": [
                 {
                   "title": "The WHO Explained (video)",
-                  "url": "https://youtu.be/qhvx5oxbYn0"
+                  "url": "https://youtu.be/qhvx5oxbYn0",
+                  "type": "video"
                 },
                 {
                   "title": "World Health Organization (WHO) (website)",
-                  "url": "https://www.who.int/"
+                  "url": "https://www.who.int/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -422,11 +451,13 @@
               "resources": [
                 {
                   "title": "What Does Amnesty International Do? (video)",
-                  "url": "https://youtu.be/xLIndY8JuNk"
+                  "url": "https://youtu.be/xLIndY8JuNk",
+                  "type": "video"
                 },
                 {
                   "title": "Amnesty International (website)",
-                  "url": "https://www.amnesty.org/en/"
+                  "url": "https://www.amnesty.org/en/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -449,11 +480,13 @@
               "resources": [
                 {
                   "title": "Together We Are the International Federation of Red Cross and Red Crescent Societies (video)",
-                  "url": "https://youtu.be/ReE835-d8vk"
+                  "url": "https://youtu.be/ReE835-d8vk",
+                  "type": "video"
                 },
                 {
                   "title": "IFRC (website)",
-                  "url": "https://www.ifrc.org/"
+                  "url": "https://www.ifrc.org/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -476,11 +509,13 @@
               "resources": [
                 {
                   "title": "CARE International (video)",
-                  "url": "https://youtu.be/MfRlqpKo_t0"
+                  "url": "https://youtu.be/MfRlqpKo_t0",
+                  "type": "video"
                 },
                 {
                   "title": "CARE International (website)",
-                  "url": "https://www.care.org/"
+                  "url": "https://www.care.org/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -503,11 +538,13 @@
               "resources": [
                 {
                   "title": "What Is the European Union? (video)",
-                  "url": "https://youtu.be/8G1cds52Ko0"
+                  "url": "https://youtu.be/8G1cds52Ko0",
+                  "type": "video"
                 },
                 {
                   "title": "European Union (website)",
-                  "url": "https://european-union.europa.eu/index_en"
+                  "url": "https://european-union.europa.eu/index_en",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -556,7 +593,8 @@
           "resources": [
             {
               "title": "Constitutional vs Nonconstitutional Governments (website)",
-              "url": "https://difbetween.com/constitutional-vs-nonconstitutional-governments.p15758/"
+              "url": "https://difbetween.com/constitutional-vs-nonconstitutional-governments.p15758/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -579,7 +617,8 @@
           "resources": [
             {
               "title": "Types of Government Around the World: Country Comparison (website)",
-              "url": "https://worldostats.com/politics/government-type-by-country/"
+              "url": "https://worldostats.com/politics/government-type-by-country/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -602,11 +641,13 @@
           "resources": [
             {
               "title": "World Maps (website)",
-              "url": "https://worldmapblank.com/pages/free-maps"
+              "url": "https://worldmapblank.com/pages/free-maps",
+              "type": "website"
             },
             {
               "title": "Political World Maps (website)",
-              "url": "https://freeworldmaps.net/political.html"
+              "url": "https://freeworldmaps.net/political.html",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -653,11 +694,13 @@
           "resources": [
             {
               "title": "What Is the State Department? (video)",
-              "url": "https://youtu.be/3kDp6mT1ioE"
+              "url": "https://youtu.be/3kDp6mT1ioE",
+              "type": "video"
             },
             {
               "title": "What Are Embassies, Consulates, and Missions? (video)",
-              "url": "https://youtu.be/bOs5H39dlRA"
+              "url": "https://youtu.be/bOs5H39dlRA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -680,19 +723,23 @@
           "resources": [
             {
               "title": "What Is Diplomacy and How Does It Work? (video)",
-              "url": "https://youtu.be/LdKFN1g62PM"
+              "url": "https://youtu.be/LdKFN1g62PM",
+              "type": "video"
             },
             {
               "title": "Ambassadors: An Overview of the Role and Responsibilities of Diplomatic Representatives (video)",
-              "url": "https://youtu.be/XJAeLeBW6l8"
+              "url": "https://youtu.be/XJAeLeBW6l8",
+              "type": "video"
             },
             {
               "title": "Export With the US Commercial Service (video)",
-              "url": "https://youtu.be/pRRsmcWtpt4"
+              "url": "https://youtu.be/pRRsmcWtpt4",
+              "type": "video"
             },
             {
               "title": "What Is a U.S. Consulate? (website)",
-              "url": "https://diplomacy.state.gov/what-is-a-u-s-consulate/"
+              "url": "https://diplomacy.state.gov/what-is-a-u-s-consulate/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -715,15 +762,18 @@
           "resources": [
             {
               "title": "Becoming a U.S. Citizen: An Overview of the Naturalization Process (video)",
-              "url": "https://youtu.be/gDOXgWtCQxY"
+              "url": "https://youtu.be/gDOXgWtCQxY",
+              "type": "video"
             },
             {
               "title": "What Is the Process for Obtaining a Permanent Residency in the US? (video)",
-              "url": "https://youtube.com/shorts/Pmu0NXzj-Fo"
+              "url": "https://youtube.com/shorts/Pmu0NXzj-Fo",
+              "type": "video"
             },
             {
               "title": "Research Your Destination (video)",
-              "url": "https://youtu.be/YYRkAcJrDXI"
+              "url": "https://youtu.be/YYRkAcJrDXI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -770,11 +820,13 @@
           "resources": [
             {
               "title": "What Does the State Department Do? (video)",
-              "url": "https://youtu.be/jJH1d0hG-RQ"
+              "url": "https://youtu.be/jJH1d0hG-RQ",
+              "type": "video"
             },
             {
               "title": "USA.gov (website)",
-              "url": "https://www.usa.gov/"
+              "url": "https://www.usa.gov/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -797,15 +849,18 @@
           "resources": [
             {
               "title": "Human Rights (video)",
-              "url": "https://youtu.be/ew993Wdc0zo"
+              "url": "https://youtu.be/ew993Wdc0zo",
+              "type": "video"
             },
             {
               "title": "Reuters (website)",
-              "url": "https://www.reuters.com/"
+              "url": "https://www.reuters.com/",
+              "type": "website"
             },
             {
               "title": "The New York Times World News (website)",
-              "url": "https://www.nytimes.com/section/world"
+              "url": "https://www.nytimes.com/section/world",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -828,11 +883,13 @@
           "resources": [
             {
               "title": "Japanese Health & Culture | Japan Food (video)",
-              "url": "https://youtu.be/NGp3lgraFT8"
+              "url": "https://youtu.be/NGp3lgraFT8",
+              "type": "video"
             },
             {
               "title": "Important Australian Celebrations and Commemorations (video)",
-              "url": "https://youtu.be/BJkrNuv1OWw"
+              "url": "https://youtu.be/BJkrNuv1OWw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -855,31 +912,38 @@
           "resources": [
             {
               "title": "A Recap on the 25th World Scout Jamboree (video)",
-              "url": "https://youtu.be/reg45_nepRo"
+              "url": "https://youtu.be/reg45_nepRo",
+              "type": "video"
             },
             {
               "title": "Attending a World Scout Jamboree—Once in a Lifetime or Lifechanging? (website)",
-              "url": "https://www.scouting.org/international/international-adventure/world-scout-jamboree-stories-once-in-a-lifetime-or-lifechanging/"
+              "url": "https://www.scouting.org/international/international-adventure/world-scout-jamboree-stories-once-in-a-lifetime-or-lifechanging/",
+              "type": "website"
             },
             {
               "title": "What Is the World Jamboree (video)",
-              "url": "https://vimeo.com/1157342063/39dc53d4ba?fl=ip&fe=ec"
+              "url": "https://vimeo.com/1157342063/39dc53d4ba?fl=ip&fe=ec",
+              "type": "video"
             },
             {
               "title": "International Scouting Tools and Resources (website)",
-              "url": "https://www.scouting.org/international/resources/"
+              "url": "https://www.scouting.org/international/resources/",
+              "type": "website"
             },
             {
               "title": "World Scout Jamboree—Live Shows (website)",
-              "url": "https://www.scout.org/jamboree-live"
+              "url": "https://www.scout.org/jamboree-live",
+              "type": "website"
             },
             {
               "title": "The Ultimate Scout Camp Packing List (website)",
-              "url": "https://www.scout.org/news/ultimate-scout-packing-list"
+              "url": "https://www.scout.org/news/ultimate-scout-packing-list",
+              "type": "website"
             },
             {
               "title": "World Scout Jamboree Scholarship Information (website)",
-              "url": "https://wsj2019.us/scholarships/"
+              "url": "https://wsj2019.us/scholarships/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -902,11 +966,13 @@
           "resources": [
             {
               "title": "Eventbrite (website)",
-              "url": "https://www.eventbrite.com/"
+              "url": "https://www.eventbrite.com/",
+              "type": "website"
             },
             {
               "title": "Allevents (website)",
-              "url": "https://allevents.in/"
+              "url": "https://allevents.in/",
+              "type": "website"
             }
           ],
           "sub_requirements": []

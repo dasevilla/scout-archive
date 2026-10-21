@@ -51,15 +51,18 @@
           "resources": [
             {
               "title": "5 Common Rowing Injuries and How To Prevent and Treat Them (video)",
-              "url": "https://youtu.be/4hZgnGVo7Og"
+              "url": "https://youtu.be/4hZgnGVo7Og",
+              "type": "video"
             },
             {
               "title": "The Dangers of Cold Water Immersion (video)",
-              "url": "https://youtu.be/fLdw5NBOf6g"
+              "url": "https://youtu.be/fLdw5NBOf6g",
+              "type": "video"
             },
             {
               "title": "How To Stay Safe When Paddling (video)",
-              "url": "https://youtu.be/u-DQpJWCmHs"
+              "url": "https://youtu.be/u-DQpJWCmHs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -82,27 +85,33 @@
           "resources": [
             {
               "title": "How To Prevent and Treat Blisters (website)",
-              "url": "https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/"
+              "url": "https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/",
+              "type": "website"
             },
             {
               "title": "OSHA Heat Illness Prevention Campaign (video)",
-              "url": "https://youtu.be/Kr2ouLj1oW0"
+              "url": "https://youtu.be/Kr2ouLj1oW0",
+              "type": "video"
             },
             {
               "title": "What Happens if You Don't Drink Enough Water? Signs of Dehydration + 4 Ways To Keep Hydrated (video)",
-              "url": "https://youtu.be/EmNieKLjmH4"
+              "url": "https://youtu.be/EmNieKLjmH4",
+              "type": "video"
             },
             {
               "title": "Mayo Clinic Minute—Dangers of Heat-Related Illnesses (video)",
-              "url": "https://youtu.be/Rz6Wxiv4aRA"
+              "url": "https://youtu.be/Rz6Wxiv4aRA",
+              "type": "video"
             },
             {
               "title": "What Causes Sunburns? (video)",
-              "url": "https://youtu.be/9aFm087_XWg"
+              "url": "https://youtu.be/9aFm087_XWg",
+              "type": "video"
             },
             {
               "title": "Sprain or Strain: What To Do (video)",
-              "url": "https://youtu.be/hte5VYbRXJw"
+              "url": "https://youtu.be/hte5VYbRXJw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -125,7 +134,8 @@
           "resources": [
             {
               "title": "Safety Afloat (website)",
-              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/"
+              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -151,6 +161,14 @@
           "tag": "b",
           "attrs": {},
           "children": [
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
             {
               "type": "text",
               "value": "Note:"
@@ -180,7 +198,8 @@
       "resources": [
         {
           "title": "Swimming Merit Badge Pamphlet (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf",
+          "type": "document"
         }
       ],
       "sub_requirements": []
@@ -203,7 +222,8 @@
       "resources": [
         {
           "title": "How To Choose the Right Life Jacket (video)",
-          "url": "https://youtu.be/4y9XPNy1L1U"
+          "url": "https://youtu.be/4y9XPNy1L1U",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -288,11 +308,13 @@
               "resources": [
                 {
                   "title": "How To Row Properly (video)",
-                  "url": "https://youtu.be/4TrFtUbat8g"
+                  "url": "https://youtu.be/4TrFtUbat8g",
+                  "type": "video"
                 },
                 {
                   "title": "Rowing Technique: Mastering Oar Placement for Boat Speed (video)",
-                  "url": "https://youtu.be/4j0LFyrJqh8"
+                  "url": "https://youtu.be/4j0LFyrJqh8",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -351,15 +373,18 @@
               "resources": [
                 {
                   "title": "Essential Sailing Knots Tutorial: How To Tie Bowline, Reef Knot, Clove Hitch & More (video)",
-                  "url": "https://youtu.be/L-SWGGN3nsM"
+                  "url": "https://youtu.be/L-SWGGN3nsM",
+                  "type": "video"
                 },
                 {
                   "title": "Mooring Hitch Knot | How To Tie a Mooring Hitch (video)",
-                  "url": "https://youtu.be/EOEOAaMY_Uo"
+                  "url": "https://youtu.be/EOEOAaMY_Uo",
+                  "type": "video"
                 },
                 {
                   "title": "Rowing and Sailing Knots (PDF)",
-                  "url": "https://padutchbsa.org/wp-content/uploads/2012/04/rowing-and-sailing-knots2.pdf"
+                  "url": "https://padutchbsa.org/wp-content/uploads/2012/04/rowing-and-sailing-knots2.pdf",
+                  "type": "document"
                 }
               ],
               "sub_requirements": []
@@ -482,7 +507,8 @@
       "resources": [
         {
           "title": "Row Rescue (video)",
-          "url": "https://youtu.be/7Dz4xnkbriY"
+          "url": "https://youtu.be/7Dz4xnkbriY",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -527,7 +553,8 @@
           "resources": [
             {
               "title": "8 Things to Know Before You Buy a Rowing Boat (video)",
-              "url": "https://youtu.be/vRTa7w769Rc"
+              "url": "https://youtu.be/vRTa7w769Rc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -550,7 +577,8 @@
           "resources": [
             {
               "title": "Boat Building Basics: Fiberglass, Resin, Composites And Cores (website/videos)",
-              "url": "https://www.boats.com/how-to/boat-building-construction-resin-fiberglass-cores/"
+              "url": "https://www.boats.com/how-to/boat-building-construction-resin-fiberglass-cores/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -573,7 +601,8 @@
           "resources": [
             {
               "title": "Oars, Oarlocks, and Rowing (website)",
-              "url": "https://skills.woodenboat.com/guides/oars-oarlocks-rowing"
+              "url": "https://skills.woodenboat.com/guides/oars-oarlocks-rowing",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -620,11 +649,13 @@
           "resources": [
             {
               "title": "Squaring and Feathering an Oar in Rowing (video)",
-              "url": "https://youtu.be/Pz6FFr7DEto"
+              "url": "https://youtu.be/Pz6FFr7DEto",
+              "type": "video"
             },
             {
               "title": "Master the Perfect Rowing Technique: Feathering Explained (video)",
-              "url": "https://youtu.be/P66B4GXcgO4"
+              "url": "https://youtu.be/P66B4GXcgO4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -665,7 +696,8 @@
           "resources": [
             {
               "title": "What Is the Proper Storage Method for a Rowboat? (website)",
-              "url": "https://www.boatingworld.com/question-answer/what-is-the-proper-storage-method-for-a-rowboat/"
+              "url": "https://www.boatingworld.com/question-answer/what-is-the-proper-storage-method-for-a-rowboat/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -688,7 +720,8 @@
           "resources": [
             {
               "title": "Oar Length and Adjustment (video)",
-              "url": "https://youtu.be/LPBYJS0G6xE"
+              "url": "https://youtu.be/LPBYJS0G6xE",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -762,11 +795,13 @@
           "resources": [
             {
               "title": "Why Is Rowing Good for You? The Full-Body Benefits (website)",
-              "url": "https://biologyinsights.com/why-is-rowing-good-for-you-the-full-body-benefits/"
+              "url": "https://biologyinsights.com/why-is-rowing-good-for-you-the-full-body-benefits/",
+              "type": "website"
             },
             {
               "title": "Scenic Rowing: Stunning Loch Lubnaig in Scotland (video)",
-              "url": "https://youtu.be/01CU5zQCNPc"
+              "url": "https://youtu.be/01CU5zQCNPc",
+              "type": "video"
             }
           ],
           "sub_requirements": []

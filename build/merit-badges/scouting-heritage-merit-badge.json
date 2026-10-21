@@ -632,7 +632,7 @@
     {
       "id": "15656",
       "label": "6",
-      "text": "Make a collection of some of your personal patches and other Scouting memorabilia. With their permission, you may include items borrowed from family members or friends who have been in Scouting in the past, or you may include photographs of these items. Show this collection to your counselor, and share what you have learned about items in the collection. Note: There is no requirement regarding how large or small this collection must be.",
+      "text": "Make a collection of some of your personal patches and other Scouting memorabilia. With their permission, you may include items borrowed from family members or friends who have been in Scouting in the past, or you may include photographs of these items. Show this collection to your counselor, and share what you have learned about items in the collection.\nNote: There is no requirement regarding how large or small this collection must be.",
       "requirement_path": "6",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -642,6 +642,12 @@
         {
           "type": "text",
           "value": "Make a collection of some of your personal patches and other Scouting memorabilia. With their permission, you may include items borrowed from family members or friends who have been in Scouting in the past, or you may include photographs of these items. Show this collection to your counselor, and share what you have learned about items in the collection. "
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
         },
         {
           "type": "element",

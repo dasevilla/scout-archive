@@ -62,11 +62,13 @@
           "resources": [
             {
               "title": "Grounding Explained (video)",
-              "url": "https://youtu.be/JBpQ9Fodz_Q"
+              "url": "https://youtu.be/JBpQ9Fodz_Q",
+              "type": "video"
             },
             {
               "title": "What Is Ground? (video)",
-              "url": "https://youtu.be/zLW_7TPf310"
+              "url": "https://youtu.be/zLW_7TPf310",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -89,11 +91,13 @@
           "resources": [
             {
               "title": "First Aid for Electrical Burns (website)",
-              "url": "https://burncenters.com/burns/burn-services/electrical-burns/"
+              "url": "https://burncenters.com/burns/burn-services/electrical-burns/",
+              "type": "website"
             },
             {
               "title": "Rescue and First Aid for Electric Shock (video)",
-              "url": "https://youtu.be/O2VpgB8Xrzs"
+              "url": "https://youtu.be/O2VpgB8Xrzs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -116,7 +120,8 @@
           "resources": [
             {
               "title": "Preventing Lithium Ion Battery Fires (video)",
-              "url": "https://youtu.be/7OiHAPmv75A"
+              "url": "https://youtu.be/7OiHAPmv75A",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -196,7 +201,8 @@
               "resources": [
                 {
                   "title": "Frequency Bands (video)",
-                  "url": "https://youtu.be/JatvwodZZRY"
+                  "url": "https://youtu.be/JatvwodZZRY",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -219,7 +225,8 @@
               "resources": [
                 {
                   "title": "Radio Frequency Bands (video)",
-                  "url": "https://terasense.com/terahertz-technology/radio-frequency-bands/"
+                  "url": "https://terasense.com/terahertz-technology/radio-frequency-bands/",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -242,7 +249,8 @@
               "resources": [
                 {
                   "title": "Common Uses of Ham Radio Frequencies  (video)",
-                  "url": "https://strykerradios.com/ham-radios/ham-radio-frequencies-common-uses-you-should-know/"
+                  "url": "https://strykerradios.com/ham-radios/ham-radio-frequencies-common-uses-you-should-know/",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -254,9 +262,9 @@
           "label": "b",
           "text": "Discuss the following topics with your counselor:",
           "requirement_path": "2.b",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Discuss the following topics with your counselor:",
@@ -289,11 +297,13 @@
               "resources": [
                 {
                   "title": "Communication and Radio (video)",
-                  "url": "https://youtu.be/bdAxVp5HWis"
+                  "url": "https://youtu.be/bdAxVp5HWis",
+                  "type": "video"
                 },
                 {
                   "title": "What Is a Radio Wave? (video)",
-                  "url": "https://youtu.be/mp6St2hgv8A"
+                  "url": "https://youtu.be/mp6St2hgv8A",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -316,11 +326,13 @@
               "resources": [
                 {
                   "title": "How Broadcast Radio Works (video)",
-                  "url": "https://youtu.be/CU8cVH8YYuo"
+                  "url": "https://youtu.be/CU8cVH8YYuo",
+                  "type": "video"
                 },
                 {
                   "title": "Two-Way Radios Explained: VHF vs UHF, FCC Licenses, and More FAQs (video)",
-                  "url": "https://youtu.be/iEKrp8at6i8"
+                  "url": "https://youtu.be/iEKrp8at6i8",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -343,7 +355,8 @@
               "resources": [
                 {
                   "title": "What Is Ham Radio? How Amateur Radio Works (No Internet Required) (video)",
-                  "url": "https://youtu.be/Xt3RVtfnbPA"
+                  "url": "https://youtu.be/Xt3RVtfnbPA",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -403,11 +416,13 @@
           "resources": [
             {
               "title": "What Is Propagation? (video)",
-              "url": "https://youtu.be/tVAVPpxdg9k"
+              "url": "https://youtu.be/tVAVPpxdg9k",
+              "type": "video"
             },
             {
               "title": "Why Some AM Radio Stations Don't Work at Night (video)",
-              "url": "https://youtu.be/61UqLXVJM7s"
+              "url": "https://youtu.be/61UqLXVJM7s",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -430,7 +445,8 @@
           "resources": [
             {
               "title": "WWV WWVH Time Signals (video)",
-              "url": "https://youtu.be/yB2A_ANhH_k"
+              "url": "https://youtu.be/yB2A_ANhH_k",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -453,11 +469,13 @@
           "resources": [
             {
               "title": "DXing: D for Distance, X for Unknown (video)",
-              "url": "https://youtu.be/VKb9eMZKcSE"
+              "url": "https://youtu.be/VKb9eMZKcSE",
+              "type": "video"
             },
             {
               "title": "Ham Radio DX Fun (video)",
-              "url": "https://youtu.be/KZrhjfKY-9g"
+              "url": "https://youtu.be/KZrhjfKY-9g",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -515,15 +533,18 @@
           "resources": [
             {
               "title": "Radio Wave Modulation (video)",
-              "url": "https://youtu.be/drLxfjqZHVo"
+              "url": "https://youtu.be/drLxfjqZHVo",
+              "type": "video"
             },
             {
               "title": "Frequency Hopping (video)",
-              "url": "https://www.youtube.com/shorts/Dr5Sai2IVuE"
+              "url": "https://www.youtube.com/shorts/Dr5Sai2IVuE",
+              "type": "video"
             },
             {
               "title": "Frequency Hopping and WiFi (video)",
-              "url": "https://www.youtube.com/shorts/GA3vr55ZwmU"
+              "url": "https://www.youtube.com/shorts/GA3vr55ZwmU",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -546,15 +567,18 @@
           "resources": [
             {
               "title": "Analog vs Digital Data (video)",
-              "url": "https://youtu.be/btgAUdbj85E"
+              "url": "https://youtu.be/btgAUdbj85E",
+              "type": "video"
             },
             {
               "title": "Digital vs Analog. What's the Difference? Why Does It Matter? (video)",
-              "url": "https://youtu.be/ZWdT-6Ld71Q"
+              "url": "https://youtu.be/ZWdT-6Ld71Q",
+              "type": "video"
             },
             {
               "title": "Analog vs Digital Radio: A Beginner's Guide to Radio Modes (video)",
-              "url": "https://youtu.be/Yl5ezrw7T1c"
+              "url": "https://youtu.be/Yl5ezrw7T1c",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -577,11 +601,13 @@
           "resources": [
             {
               "title": "Relationship Between Frequency, Data Rate, and Distance (video)",
-              "url": "https://youtu.be/8XC2hv1Tfpc"
+              "url": "https://youtu.be/8XC2hv1Tfpc",
+              "type": "video"
             },
             {
               "title": "How Radio Waves Transmit Information (video)",
-              "url": "https://youtu.be/whEqaxlCVSs"
+              "url": "https://youtu.be/whEqaxlCVSs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -604,11 +630,13 @@
           "resources": [
             {
               "title": "Ethernet vs WiFi, Which One Is Faster？ (video)",
-              "url": "https://youtu.be/mLS9XXiPNcE"
+              "url": "https://youtu.be/mLS9XXiPNcE",
+              "type": "video"
             },
             {
               "title": "Shattering Limits: 402 Terabits per Second (video)",
-              "url": "https://youtube.com/shorts/hlLYg2FUFq8"
+              "url": "https://youtube.com/shorts/hlLYg2FUFq8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -666,7 +694,8 @@
           "resources": [
             {
               "title": "How To Read a Schematic (video)",
-              "url": "https://youtu.be/_HZ-EQ8Hc8E"
+              "url": "https://youtu.be/_HZ-EQ8Hc8E",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -707,7 +736,8 @@
           "resources": [
             {
               "title": "Analog vs Digital Radio: A Beginner's Guide to Radio Modes (video)",
-              "url": "https://youtu.be/Yl5ezrw7T1c"
+              "url": "https://youtu.be/Yl5ezrw7T1c",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -730,11 +760,13 @@
           "resources": [
             {
               "title": "National Weather Service: Weather Warning Process (video)",
-              "url": "https://youtu.be/bWcU_IPnXgY"
+              "url": "https://youtu.be/bWcU_IPnXgY",
+              "type": "video"
             },
             {
               "title": "Ways To Get Warnings (video)",
-              "url": "https://youtu.be/ZqmguEWojYw"
+              "url": "https://youtu.be/ZqmguEWojYw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -757,11 +789,13 @@
           "resources": [
             {
               "title": "What Is RFID Technology? And How It Works? (video)",
-              "url": "https://youtu.be/qRimFDF7FR0"
+              "url": "https://youtu.be/qRimFDF7FR0",
+              "type": "video"
             },
             {
               "title": "What is RFID (Radio Frequency Identification)? (video)",
-              "url": "https://youtu.be/ziDlycAZb9I"
+              "url": "https://youtu.be/ziDlycAZb9I",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -819,7 +853,8 @@
           "resources": [
             {
               "title": "What Is the FCC? (video)",
-              "url": "https://youtu.be/KiSLp7h5Qeo"
+              "url": "https://youtu.be/KiSLp7h5Qeo",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -842,19 +877,23 @@
           "resources": [
             {
               "title": "Ham Radio Call Signs (video)",
-              "url": "https://youtu.be/1ES-I3q-odY"
+              "url": "https://youtu.be/1ES-I3q-odY",
+              "type": "video"
             },
             {
               "title": "Ham 101 Episode 7: Your Call Sign (video)",
-              "url": "https://youtu.be/R_GvgmeRADo"
+              "url": "https://youtu.be/R_GvgmeRADo",
+              "type": "video"
             },
             {
               "title": "Broadcast Call Signs Explained (video)",
-              "url": "https://youtu.be/kcAROYxzJ4U"
+              "url": "https://youtu.be/kcAROYxzJ4U",
+              "type": "video"
             },
             {
               "title": "When To ID With Your Call Sign (video)",
-              "url": "https://youtu.be/vZgWdZImg9Q"
+              "url": "https://youtu.be/vZgWdZImg9Q",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -877,7 +916,8 @@
           "resources": [
             {
               "title": "Learn the Phonetic Alphabet (video)",
-              "url": "https://youtu.be/cFhZLaLDILQ"
+              "url": "https://youtu.be/cFhZLaLDILQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -935,7 +975,8 @@
           "resources": [
             {
               "title": "How Your Mobile Phone Works (video)",
-              "url": "https://youtu.be/1JZG9x_VOwA"
+              "url": "https://youtu.be/1JZG9x_VOwA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -958,11 +999,13 @@
           "resources": [
             {
               "title": "What Really Happens When You Turn On Airplane Mode (video)",
-              "url": "https://youtu.be/841MdLwynXg"
+              "url": "https://youtu.be/841MdLwynXg",
+              "type": "video"
             },
             {
               "title": "What Happens if You Don't Put Your Phone in Airplane Mode? (video)",
-              "url": "https://youtu.be/iKYHf22qVdM"
+              "url": "https://youtu.be/iKYHf22qVdM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -985,11 +1028,13 @@
           "resources": [
             {
               "title": "How GPS Works Today (video)",
-              "url": "https://youtu.be/wCcARVbL_Dk"
+              "url": "https://youtu.be/wCcARVbL_Dk",
+              "type": "video"
             },
             {
               "title": "GPS, How Does It Work? (video)",
-              "url": "https://youtu.be/8eTlI19_57g"
+              "url": "https://youtu.be/8eTlI19_57g",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1012,19 +1057,23 @@
           "resources": [
             {
               "title": "How Reliable Are Cell Phones in an Emergency? (video)",
-              "url": "https://youtu.be/RAa5GHcIki4"
+              "url": "https://youtu.be/RAa5GHcIki4",
+              "type": "video"
             },
             {
               "title": "When Cell Phones Fail: Staying Connected When It Matters Most (video)",
-              "url": "https://youtu.be/6-9HUBO2HeY"
+              "url": "https://youtu.be/6-9HUBO2HeY",
+              "type": "video"
             },
             {
               "title": "We Tested the iPhone 14's Emergency SOS via Satellite (video)",
-              "url": "https://youtu.be/Dx1Wn7JpObM"
+              "url": "https://youtu.be/Dx1Wn7JpObM",
+              "type": "video"
             },
             {
               "title": "Does Your Phone Have a Crash Detection Feature? (website)",
-              "url": "https://www.abc10.com/article/news/local/crash-detection-feature-heres-where-you-can-find-it/103-525d6812-ce6b-4dad-b888-1f5fd490493d"
+              "url": "https://www.abc10.com/article/news/local/crash-detection-feature-heres-where-you-can-find-it/103-525d6812-ce6b-4dad-b888-1f5fd490493d",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -1047,11 +1096,13 @@
           "resources": [
             {
               "title": "How Do Wireless Phone Chargers Work? (video)",
-              "url": "https://youtu.be/CvXJes3BREM"
+              "url": "https://youtu.be/CvXJes3BREM",
+              "type": "video"
             },
             {
               "title": "How Your Phone Charges Through Thin Air (video)",
-              "url": "https://youtu.be/NjeUxwGblm8"
+              "url": "https://youtu.be/NjeUxwGblm8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1142,11 +1193,13 @@
               "resources": [
                 {
                   "title": "Why Do They Call It Ham Radio? (video)",
-                  "url": "https://youtu.be/zWoZ_mqjInA"
+                  "url": "https://youtu.be/zWoZ_mqjInA",
+                  "type": "video"
                 },
                 {
                   "title": "Episode 3: How To Get a Ham Radio License | Bcu Freshman Class (video)",
-                  "url": "https://youtu.be/BCSZH7UzOxg"
+                  "url": "https://youtu.be/BCSZH7UzOxg",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1169,7 +1222,8 @@
               "resources": [
                 {
                   "title": "Ham Radio License Levels (video)",
-                  "url": "https://www.arrl.org/getting-licensed"
+                  "url": "https://www.arrl.org/getting-licensed",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1192,11 +1246,13 @@
               "resources": [
                 {
                   "title": "Q-Codes, Logs, and QRZ.com (video)",
-                  "url": "https://youtu.be/JFdfPSPrwE4"
+                  "url": "https://youtu.be/JFdfPSPrwE4",
+                  "type": "video"
                 },
                 {
                   "title": "Q-Codes and Calling CQ (video)",
-                  "url": "https://youtu.be/580VdJlXZ_A"
+                  "url": "https://youtu.be/580VdJlXZ_A",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1219,15 +1275,18 @@
               "resources": [
                 {
                   "title": "How To Use Your VHF Marine Radio To Call for Help in a Boat Emergency (video)",
-                  "url": "https://youtu.be/9pHZR_aiTPU"
+                  "url": "https://youtu.be/9pHZR_aiTPU",
+                  "type": "video"
                 },
                 {
                   "title": "Ham Radio Disaster Messaging Demo (video)",
-                  "url": "https://youtu.be/33JSFzFB8U8"
+                  "url": "https://youtu.be/33JSFzFB8U8",
+                  "type": "video"
                 },
                 {
                   "title": "Using Ham Radio To Call for Help in an Emergency—What You Should Do! (video)",
-                  "url": "https://youtu.be/MaRLuoJRwFg"
+                  "url": "https://youtu.be/MaRLuoJRwFg",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1250,7 +1309,8 @@
               "resources": [
                 {
                   "title": "How Do Repeaters Work? (video)",
-                  "url": "https://youtu.be/BH19eKBuKwY"
+                  "url": "https://youtu.be/BH19eKBuKwY",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1347,11 +1407,13 @@
               "resources": [
                 {
                   "title": "How To Start a FM Radio Station! (video)",
-                  "url": "https://youtu.be/DioqjwYzJiA"
+                  "url": "https://youtu.be/DioqjwYzJiA",
+                  "type": "video"
                 },
                 {
                   "title": "In Historic Victory for Community Radio, FCC Puts 1,000 Low-Power FM Frequencies Up for Grabs (video)",
-                  "url": "https://youtu.be/9_gFYKGMO5Y"
+                  "url": "https://youtu.be/9_gFYKGMO5Y",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1374,7 +1436,8 @@
               "resources": [
                 {
                   "title": "Build the Best Programming for Your Radio Station! (video)",
-                  "url": "https://youtu.be/oOFdg9roook"
+                  "url": "https://youtu.be/oOFdg9roook",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1397,7 +1460,8 @@
               "resources": [
                 {
                   "title": "Radio Stations Over The World (video)",
-                  "url": "https://youtube.com/shorts/SoCL56dEy_k"
+                  "url": "https://youtube.com/shorts/SoCL56dEy_k",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1420,7 +1484,8 @@
               "resources": [
                 {
                   "title": "Radio Broadcasting Glossary (website)",
-                  "url": "https://www.radioconnection.com/glossary/"
+                  "url": "https://www.radioconnection.com/glossary/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -1443,7 +1508,8 @@
               "resources": [
                 {
                   "title": "Shortwave Radio Top Ten Tips for Beginners Listen to Online Receivers (video)",
-                  "url": "https://youtu.be/HzYX0LQgt-k"
+                  "url": "https://youtu.be/HzYX0LQgt-k",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1501,11 +1567,13 @@
               "resources": [
                 {
                   "title": "Unlock Shortwave Listening: Fun With HF Ham Radios (video)",
-                  "url": "https://youtube.com/shorts/GuGMFXdco_4"
+                  "url": "https://youtube.com/shorts/GuGMFXdco_4",
+                  "type": "video"
                 },
                 {
                   "title": "Incredible Shortwave Radio Stations Listing (video)",
-                  "url": "https://youtu.be/dIeK-3PlL9U"
+                  "url": "https://youtu.be/dIeK-3PlL9U",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1528,7 +1596,8 @@
               "resources": [
                 {
                   "title": "Great Mediumwave AM radio DXers resource for Finding Stations MWLIST  (video)",
-                  "url": "https://youtu.be/KIBRDcNnIk4"
+                  "url": "https://youtu.be/KIBRDcNnIk4",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1551,15 +1620,18 @@
               "resources": [
                 {
                   "title": "Shortwave for Beginners Day and Night Differences in Radio Propagation of Signals (video)",
-                  "url": "https://youtu.be/UL4ZrttSNv4"
+                  "url": "https://youtu.be/UL4ZrttSNv4",
+                  "type": "video"
                 },
                 {
                   "title": "Understanding Daytime and Night Time Patterns To Increase Shortwave Listening Pleasure (video)",
-                  "url": "https://youtu.be/X-Vnpsi46XE"
+                  "url": "https://youtu.be/X-Vnpsi46XE",
+                  "type": "video"
                 },
                 {
                   "title": "Shortwave Propagation 101 Part 1 Daytime and Nighttime Propagation (video)",
-                  "url": "https://youtu.be/byvMpUt7k58"
+                  "url": "https://youtu.be/byvMpUt7k58",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1582,11 +1654,13 @@
               "resources": [
                 {
                   "title": "Why AM Radio Signals Propogate Farther At Night Than During the Day (video)",
-                  "url": "https://youtu.be/_VDUGiJhK78"
+                  "url": "https://youtu.be/_VDUGiJhK78",
+                  "type": "video"
                 },
                 {
                   "title": "Ground Wave Propagation / Types of Radio Waves (video)",
-                  "url": "https://youtu.be/jpbkcakEvWs"
+                  "url": "https://youtu.be/jpbkcakEvWs",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1609,11 +1683,13 @@
               "resources": [
                 {
                   "title": "How To Listen to FM Radio on Android or iPhone! (video)",
-                  "url": "https://youtu.be/EUXYo9vS30w"
+                  "url": "https://youtu.be/EUXYo9vS30w",
+                  "type": "video"
                 },
                 {
                   "title": "Unlock the Hidden FM Radio in Your Android Smart Phone (video)",
-                  "url": "https://youtu.be/K9LbIu4p1fc"
+                  "url": "https://youtu.be/K9LbIu4p1fc",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1671,11 +1747,13 @@
               "resources": [
                 {
                   "title": "Amateur Radio Foxhunting: Equipment, Techniques, & Getting Started—Ham Radio Transmitter Hunting (video)",
-                  "url": "https://youtu.be/1Qseg0mWpcI"
+                  "url": "https://youtu.be/1Qseg0mWpcI",
+                  "type": "video"
                 },
                 {
                   "title": "Radio Direction Finding: AKA How \"They\" Can Find You (video)",
-                  "url": "https://youtu.be/bWs6shlc9m0"
+                  "url": "https://youtu.be/bWs6shlc9m0",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1698,7 +1776,8 @@
               "resources": [
                 {
                   "title": "Ham Radio Fox Hunting 101 (video)",
-                  "url": "https://youtu.be/HQxGJDvRnPU"
+                  "url": "https://youtu.be/HQxGJDvRnPU",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1721,7 +1800,8 @@
               "resources": [
                 {
                   "title": "Two Simple Ham Radio Antennas You Can Use for Fox Hunting (video)",
-                  "url": "https://youtu.be/KihdX-8XKIE"
+                  "url": "https://youtu.be/KihdX-8XKIE",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1744,7 +1824,8 @@
               "resources": [
                 {
                   "title": "Ham Radio Fox Hunt? (video)",
-                  "url": "https://youtube.com/shorts/i2x_t08KUw8"
+                  "url": "https://youtube.com/shorts/i2x_t08KUw8",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1820,7 +1901,8 @@
               "resources": [
                 {
                   "title": "FRS VS GMRS: A Radio Service Comparison Guide (video)",
-                  "url": "https://youtu.be/cuqPawftFhQ"
+                  "url": "https://youtu.be/cuqPawftFhQ",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1865,7 +1947,8 @@
                   "resources": [
                     {
                       "title": "Walkie Talkies—FRS vs GMRS vs Ham (video)",
-                      "url": "https://youtube.com/shorts/8HUTrWX_A_k"
+                      "url": "https://youtube.com/shorts/8HUTrWX_A_k",
+                      "type": "video"
                     }
                   ],
                   "sub_requirements": []
@@ -1888,7 +1971,8 @@
                   "resources": [
                     {
                       "title": "Troubleshooting Radio Connections (video)",
-                      "url": "https://www.tiktok.com/@onthetrailradio/video/7319691451955154222"
+                      "url": "https://www.tiktok.com/@onthetrailradio/video/7319691451955154222",
+                      "type": "video"
                     }
                   ],
                   "sub_requirements": []
@@ -1911,7 +1995,8 @@
                   "resources": [
                     {
                       "title": "FRS vs. GMRS (video)",
-                      "url": "https://www.tiktok.com/@onthetrailradio/video/7490642330546916638"
+                      "url": "https://www.tiktok.com/@onthetrailradio/video/7490642330546916638",
+                      "type": "video"
                     }
                   ],
                   "sub_requirements": []
@@ -1934,7 +2019,8 @@
                   "resources": [
                     {
                       "title": "Differences between GMRS and FRS  (video)",
-                      "url": "https://youtube.com/shorts/wHJCA43UK8Y"
+                      "url": "https://youtube.com/shorts/wHJCA43UK8Y",
+                      "type": "video"
                     }
                   ],
                   "sub_requirements": []
@@ -1993,15 +2079,18 @@
                   "resources": [
                     {
                       "title": "HAM and GMRS Radios for Emergencies (video)",
-                      "url": "https://www.youtube.com/watch?v=zy5lNBGoORw"
+                      "url": "https://www.youtube.com/watch?v=zy5lNBGoORw",
+                      "type": "video"
                     },
                     {
                       "title": "FRS and GMRS Radio for Emergency Communications (video)",
-                      "url": "https://www.youtube.com/watch?v=xT-2IVItSZY"
+                      "url": "https://www.youtube.com/watch?v=xT-2IVItSZY",
+                      "type": "video"
                     },
                     {
                       "title": "The Vital Role of Ham Radio in Disaster Preparedness (video)",
-                      "url": "https://www.radiodesigngroup.com/blog/the-vital-role-of-ham-radio-in-disaster-preparedness"
+                      "url": "https://www.radiodesigngroup.com/blog/the-vital-role-of-ham-radio-in-disaster-preparedness",
+                      "type": "video"
                     }
                   ],
                   "sub_requirements": []
@@ -2081,11 +2170,13 @@
           "resources": [
             {
               "title": "How I Got That Job: Public Radio (video)",
-              "url": "https://youtu.be/0M-WdfQlk3Q"
+              "url": "https://youtu.be/0M-WdfQlk3Q",
+              "type": "video"
             },
             {
               "title": "Broadcast Announcers and Radio Disc Jockeys Careers (video)",
-              "url": "https://youtu.be/ftGPn35lNhw"
+              "url": "https://youtu.be/ftGPn35lNhw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -2108,11 +2199,13 @@
           "resources": [
             {
               "title": "(Hobbies) Ham Radio (video)",
-              "url": "https://youtu.be/sULPHxTkDnk"
+              "url": "https://youtu.be/sULPHxTkDnk",
+              "type": "video"
             },
             {
               "title": "5 MOST POPULAR Ham Radio Hobbies (video)",
-              "url": "https://youtu.be/sEDg7HycNU0"
+              "url": "https://youtu.be/sEDg7HycNU0",
+              "type": "video"
             }
           ],
           "sub_requirements": []

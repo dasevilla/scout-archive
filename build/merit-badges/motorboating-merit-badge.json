@@ -51,19 +51,23 @@
           "resources": [
             {
               "title": "Running Aground Prevention and Response (video)",
-              "url": "https://youtu.be/tQ3cHcqV_8A"
+              "url": "https://youtu.be/tQ3cHcqV_8A",
+              "type": "video"
             },
             {
               "title": "Towsport Tips #4 Carbon Monoxide (video)",
-              "url": "https://youtu.be/gaZQc_trnCs"
+              "url": "https://youtu.be/gaZQc_trnCs",
+              "type": "video"
             },
             {
               "title": "Collision Avoidance Rules (video)",
-              "url": "https://youtu.be/TVD0LxihhR8"
+              "url": "https://youtu.be/TVD0LxihhR8",
+              "type": "video"
             },
             {
               "title": "Preventing a Capsizing / Fall Overboard (video)",
-              "url": "https://youtu.be/Sj2iIZgXRxk"
+              "url": "https://youtu.be/Sj2iIZgXRxk",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -86,19 +90,23 @@
           "resources": [
             {
               "title": "Cold Water Shock—How to Deal With Cold Water Shock (video)",
-              "url": "https://youtu.be/rH3gZuSr6Y8"
+              "url": "https://youtu.be/rH3gZuSr6Y8",
+              "type": "video"
             },
             {
               "title": "What Happens If You Don't Drink Enough Water? Signs of Dehydration + 4 Ways to Keep Hydrated (video)",
-              "url": "https://youtu.be/EmNieKLjmH4"
+              "url": "https://youtu.be/EmNieKLjmH4",
+              "type": "video"
             },
             {
               "title": "Mayo Clinic Minute—Dangers of Heat-Related Illnesses (video)",
-              "url": "https://youtu.be/Rz6Wxiv4aRA"
+              "url": "https://youtu.be/Rz6Wxiv4aRA",
+              "type": "video"
             },
             {
               "title": "How To Prevent and Treat Blisters (website)",
-              "url": "https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/"
+              "url": "https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -121,7 +129,8 @@
           "resources": [
             {
               "title": "Safety Afloat (website)",
-              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/"
+              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -153,7 +162,7 @@
         {
           "id": "14912",
           "label": "a",
-          "text": "Before doing requirement 5, successfully complete the Scouting America swimmer test.Note: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
+          "text": "Before doing requirement 5, successfully complete the Scouting America swimmer test.\nNote: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
           "requirement_path": "2.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -163,6 +172,18 @@
             {
               "type": "text",
               "value": "Before doing requirement 5, successfully complete the Scouting America swimmer test."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
             },
             {
               "type": "element",
@@ -198,7 +219,8 @@
           "resources": [
             {
               "title": "Swimming Merit Badge pamphlet (PDF)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -221,7 +243,8 @@
           "resources": [
             {
               "title": "How To Choose the Right Life Jacket (video)",
-              "url": "https://youtu.be/4y9XPNy1L1U"
+              "url": "https://youtu.be/4y9XPNy1L1U",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -268,11 +291,13 @@
           "resources": [
             {
               "title": "Whats the Difference Between Inboard, Outboard & Sterndrive Boat Engines? (video)",
-              "url": "https://youtu.be/1U10bHSLZQ4"
+              "url": "https://youtu.be/1U10bHSLZQ4",
+              "type": "video"
             },
             {
               "title": "Engine Types (video)",
-              "url": "https://youtu.be/KNOmP3Z8YKg"
+              "url": "https://youtu.be/KNOmP3Z8YKg",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -295,11 +320,13 @@
           "resources": [
             {
               "title": "Fueling Procedures (video)",
-              "url": "https://youtu.be/0LAyvXOn_Ug"
+              "url": "https://youtu.be/0LAyvXOn_Ug",
+              "type": "video"
             },
             {
               "title": "Engine Servicing (website)",
-              "url": "https://www.boat-ed.com/indiana/studyGuide/Engine-Maintenance/10101602_35162"
+              "url": "https://www.boat-ed.com/indiana/studyGuide/Engine-Maintenance/10101602_35162",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -322,7 +349,8 @@
           "resources": [
             {
               "title": "Winterize Your Boat Like a Pro in 7 Steps (video)",
-              "url": "https://youtu.be/5LLUFFq9zgA"
+              "url": "https://youtu.be/5LLUFFq9zgA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -345,7 +373,8 @@
           "resources": [
             {
               "title": "Boat Wakes (video)",
-              "url": "https://youtu.be/h6KbCnRXkyM"
+              "url": "https://youtu.be/h6KbCnRXkyM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -410,7 +439,8 @@
           "resources": [
             {
               "title": "Boating Rules and Regulations by State (website)",
-              "url": "https://www.discoverboating.com/ownership/safety/boating-rules-and-regulations-by-state"
+              "url": "https://www.discoverboating.com/ownership/safety/boating-rules-and-regulations-by-state",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -433,15 +463,18 @@
           "resources": [
             {
               "title": "Foul Weather Boating (video)",
-              "url": "https://youtu.be/pigz13CeesU"
+              "url": "https://youtu.be/pigz13CeesU",
+              "type": "video"
             },
             {
               "title": "Coping With Foul Weather (video)",
-              "url": "https://youtu.be/vbCSQyOPvbE"
+              "url": "https://youtu.be/vbCSQyOPvbE",
+              "type": "video"
             },
             {
               "title": "Operation in Restricted Visibility (video)",
-              "url": "https://youtu.be/6_Q_1_jyHuY"
+              "url": "https://youtu.be/6_Q_1_jyHuY",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -482,7 +515,8 @@
           "resources": [
             {
               "title": "Coast Guard Requirements: What Items You Must Have in Your Boat (ID, Tools, etc) (video)",
-              "url": "https://youtu.be/biRTksu9ZNw"
+              "url": "https://youtu.be/biRTksu9ZNw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -505,7 +539,8 @@
           "resources": [
             {
               "title": "Ventilation Systems (video)",
-              "url": "https://youtu.be/XlhfoJt_m0U"
+              "url": "https://youtu.be/XlhfoJt_m0U",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -528,7 +563,8 @@
           "resources": [
             {
               "title": "Navigation Light Equipment (video)",
-              "url": "https://youtu.be/fbyeg5y_qPE"
+              "url": "https://youtu.be/fbyeg5y_qPE",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -551,15 +587,18 @@
           "resources": [
             {
               "title": "Anchoring (video)",
-              "url": "https://youtu.be/Iv3_8a7N_aE"
+              "url": "https://youtu.be/Iv3_8a7N_aE",
+              "type": "video"
             },
             {
               "title": "Anchoring Tips (video)",
-              "url": "https://youtu.be/tK_d6wYEsP4"
+              "url": "https://youtu.be/tK_d6wYEsP4",
+              "type": "video"
             },
             {
               "title": "Anchoring a Boat | Basics of Boating (video)",
-              "url": "https://youtu.be/3CHgH0irUIA"
+              "url": "https://youtu.be/3CHgH0irUIA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -606,11 +645,13 @@
           "resources": [
             {
               "title": "Boating Equipment—Personal Flotation Devices (PFDs) (video)",
-              "url": "https://youtu.be/PjpUIpX5Fw8"
+              "url": "https://youtu.be/PjpUIpX5Fw8",
+              "type": "video"
             },
             {
               "title": "Life Jacket Safety Essentials | Discover Boating (video)",
-              "url": "https://youtu.be/KVCNH96HqFs"
+              "url": "https://youtu.be/KVCNH96HqFs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -633,7 +674,8 @@
           "resources": [
             {
               "title": "Quick Tip: Pre-Boating Inspection & Safety Checklist (video)",
-              "url": "https://youtu.be/NyqsxYaWJS4"
+              "url": "https://youtu.be/NyqsxYaWJS4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -656,7 +698,8 @@
           "resources": [
             {
               "title": "Launching a Boat (video)",
-              "url": "https://youtu.be/IOM4aTiH2Pc"
+              "url": "https://youtu.be/IOM4aTiH2Pc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -679,7 +722,8 @@
           "resources": [
             {
               "title": "What Every Boater Needs To Know About Boating Rules/Safety (video)",
-              "url": "https://youtu.be/-Ozqi07qgi8"
+              "url": "https://youtu.be/-Ozqi07qgi8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -720,7 +764,8 @@
           "resources": [
             {
               "title": "Retrieving a Boat (video)",
-              "url": "https://youtu.be/7WaH87ZYBLs"
+              "url": "https://youtu.be/7WaH87ZYBLs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -743,11 +788,13 @@
           "resources": [
             {
               "title": "How To Tie a Boat to a Dock (video)",
-              "url": "https://youtu.be/VGfCKxv5t70"
+              "url": "https://youtu.be/VGfCKxv5t70",
+              "type": "video"
             },
             {
               "title": "Beaching Your Boat (website)",
-              "url": "https://www.boatus.com/expert-advice/expert-advice-archive/2014/august/beaching-your-boat"
+              "url": "https://www.boatus.com/expert-advice/expert-advice-archive/2014/august/beaching-your-boat",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -770,11 +817,13 @@
           "resources": [
             {
               "title": "10 Knots You Need for Sailing (video)",
-              "url": "https://youtu.be/TbJGKazU1co"
+              "url": "https://youtu.be/TbJGKazU1co",
+              "type": "video"
             },
             {
               "title": "How To Tie the Anchor Bend Knot | Boating Knots (video)",
-              "url": "https://youtu.be/pEWcxx8998U"
+              "url": "https://youtu.be/pEWcxx8998U",
+              "type": "video"
             }
           ],
           "sub_requirements": []

@@ -54,7 +54,13 @@
           "value": " for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!"
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "HERE",
+          "url": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/wildland-fire-management/",
+          "type": "website"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -86,11 +92,13 @@
       "resources": [
         {
           "title": "A History of Wildfire Prevention (video)",
-          "url": "https://youtu.be/ZnabcDAQ1DU"
+          "url": "https://youtu.be/ZnabcDAQ1DU",
+          "type": "video"
         },
         {
           "title": "Wildfire Education (website)",
-          "url": "https://www.nifc.gov/fire-information/fire-prevention-education-mitigation/wildfire-education"
+          "url": "https://www.nifc.gov/fire-information/fire-prevention-education-mitigation/wildfire-education",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -137,11 +145,13 @@
       "resources": [
         {
           "title": "A Better Way To Think About Wildland Fires (video)",
-          "url": "https://youtu.be/HeOl2N6iLy0"
+          "url": "https://youtu.be/HeOl2N6iLy0",
+          "type": "video"
         },
         {
           "title": "Effects of Wildfires and Forest Fires (video)",
-          "url": "https://youtu.be/bmX4kxdSi98"
+          "url": "https://youtu.be/bmX4kxdSi98",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -181,7 +191,8 @@
           "resources": [
             {
               "title": "The Impact of Wildfires on Wildlife (video)",
-              "url": "https://youtu.be/P5EoR12vHcQ"
+              "url": "https://youtu.be/P5EoR12vHcQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -204,7 +215,8 @@
           "resources": [
             {
               "title": "How Wildfires Affect Water Supply (video)",
-              "url": "https://youtu.be/RV_OZ430GAs"
+              "url": "https://youtu.be/RV_OZ430GAs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -263,7 +275,8 @@
           "resources": [
             {
               "title": "How Are Wildfires Making Us Sick? (video)",
-              "url": "https://youtu.be/8mQllQnJrhg"
+              "url": "https://youtu.be/8mQllQnJrhg",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -304,7 +317,8 @@
       "resources": [
         {
           "title": "Misconceptions and Benefits of Fire  (video)",
-          "url": "https://youtu.be/vFPIoH4ML2U"
+          "url": "https://youtu.be/vFPIoH4ML2U",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -326,7 +340,8 @@
           "resources": [
             {
               "title": "Good Fire: Prescribed Burning (video)",
-              "url": "https://youtu.be/E542gY7uR0s"
+              "url": "https://youtu.be/E542gY7uR0s",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -349,7 +364,8 @@
           "resources": [
             {
               "title": "Wildlife That Depends on Fire To Survive (video)",
-              "url": "https://youtu.be/Q8mD-4rexo0"
+              "url": "https://youtu.be/Q8mD-4rexo0",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -372,7 +388,8 @@
           "resources": [
             {
               "title": "How Does Fire Affect Wildlife? (video)",
-              "url": "https://youtu.be/iKRYDp6VpyA"
+              "url": "https://youtu.be/iKRYDp6VpyA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -395,7 +412,8 @@
           "resources": [
             {
               "title": "Fire Effects in the Forest (video)",
-              "url": "https://youtu.be/BxKh86ukZMc"
+              "url": "https://youtu.be/BxKh86ukZMc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -418,7 +436,8 @@
           "resources": [
             {
               "title": "Insects, Disease, Drought, and Fire (video)",
-              "url": "https://youtu.be/e_cOMAioE54"
+              "url": "https://youtu.be/e_cOMAioE54",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -463,9 +482,9 @@
           "label": "a",
           "text": "Wildfire Prevention:",
           "requirement_path": "4.a",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Wildfire Prevention:",
@@ -481,7 +500,8 @@
           "resources": [
             {
               "title": "Fire Is Everyone's Fight (website)",
-              "url": "https://www.usfa.fema.gov/prevention/fief/"
+              "url": "https://www.usfa.fema.gov/prevention/fief/",
+              "type": "website"
             }
           ],
           "sub_requirements": [
@@ -503,7 +523,8 @@
               "resources": [
                 {
                   "title": "Wildfires 101 (video)",
-                  "url": "https://youtu.be/5hghT1W33cY"
+                  "url": "https://youtu.be/5hghT1W33cY",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -526,7 +547,8 @@
               "resources": [
                 {
                   "title": "Wildfire Prevention With Smokey the Bear (video)",
-                  "url": "https://youtu.be/tUTyDGlJt00"
+                  "url": "https://youtu.be/tUTyDGlJt00",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -538,9 +560,9 @@
           "label": "b",
           "text": "Wildfire Mitigation:",
           "requirement_path": "4.b",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Wildfire Mitigation:",
@@ -573,7 +595,8 @@
               "resources": [
                 {
                   "title": "Understanding the Wildland Urban Interface (website)",
-                  "url": "https://storymaps.arcgis.com/stories/6b2050a0ded0498c863ce30d73460c9e"
+                  "url": "https://storymaps.arcgis.com/stories/6b2050a0ded0498c863ce30d73460c9e",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -596,7 +619,8 @@
               "resources": [
                 {
                   "title": "Separating Your Home From Wildfire—the Zones of Defensible Space (video)",
-                  "url": "https://youtu.be/isf6COwOXPw"
+                  "url": "https://youtu.be/isf6COwOXPw",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -656,11 +680,13 @@
           "resources": [
             {
               "title": "The Relationship Between Relative Humidity, Fuel Moisture, and Fire Behavior (video)",
-              "url": "https://youtu.be/FUdPfKL8lXA"
+              "url": "https://youtu.be/FUdPfKL8lXA",
+              "type": "video"
             },
             {
               "title": "Wildland Fire Behavior (website)",
-              "url": "https://www.nps.gov/articles/wildland-fire-behavior.htm"
+              "url": "https://www.nps.gov/articles/wildland-fire-behavior.htm",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -683,7 +709,8 @@
           "resources": [
             {
               "title": "Fire Triangle Explained (video)",
-              "url": "https://youtu.be/8WPk15XqN2E"
+              "url": "https://youtu.be/8WPk15XqN2E",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -706,7 +733,8 @@
           "resources": [
             {
               "title": "How To Describe the Behavior and Parts of a Wildfire (video)",
-              "url": "https://youtu.be/b1KvTswZYNA"
+              "url": "https://youtu.be/b1KvTswZYNA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -764,7 +792,8 @@
           "resources": [
             {
               "title": "Dressed for Fire (video)",
-              "url": "https://youtu.be/a0NtIJMDUD4"
+              "url": "https://youtu.be/a0NtIJMDUD4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -774,9 +803,9 @@
           "label": "b",
           "text": "Discuss the following with your counselor, including why each is an important consideration for maintaining personal safety and situational awareness during wildland fire suppression activities:",
           "requirement_path": "6.b",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Discuss the following with your counselor, including why each is an important consideration for maintaining personal safety and situational awareness during wildland fire suppression activities:",
@@ -809,7 +838,8 @@
               "resources": [
                 {
                   "title": "Standard Firefighting Orders (video)",
-                  "url": "https://youtu.be/9WhKKSGl9K0"
+                  "url": "https://youtu.be/9WhKKSGl9K0",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -832,7 +862,8 @@
               "resources": [
                 {
                   "title": "The Watchout Situations (video)",
-                  "url": "https://youtu.be/GIMeOZ_d1ko"
+                  "url": "https://youtu.be/GIMeOZ_d1ko",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -855,7 +886,8 @@
               "resources": [
                 {
                   "title": "LCES (video)",
-                  "url": "https://youtu.be/46kiCPcfUyg"
+                  "url": "https://youtu.be/46kiCPcfUyg",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -924,7 +956,8 @@
           "resources": [
             {
               "title": "How We Fight Wildfires  (video)",
-              "url": "https://youtu.be/9EzcA3KvEsY"
+              "url": "https://youtu.be/9EzcA3KvEsY",
+              "type": "video"
             }
           ],
           "sub_requirements": [
@@ -946,7 +979,8 @@
               "resources": [
                 {
                   "title": "Direct and Indirect Attack Strategies on Wildfires (video)",
-                  "url": "https://youtu.be/HDmGToDhgV4"
+                  "url": "https://youtu.be/HDmGToDhgV4",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -987,7 +1021,8 @@
               "resources": [
                 {
                   "title": "Evolution of Fire Management and the Role of Knowledge (video)",
-                  "url": "https://youtu.be/W8GHIZAaUaQ"
+                  "url": "https://youtu.be/W8GHIZAaUaQ",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1010,7 +1045,8 @@
               "resources": [
                 {
                   "title": "California Battles Fires With \"Fire Plane\" (video)",
-                  "url": "https://youtu.be/Dw0wY6SgG2w"
+                  "url": "https://youtu.be/Dw0wY6SgG2w",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1033,7 +1069,8 @@
               "resources": [
                 {
                   "title": "Mop Up Operations on the Mosquito Fire  (video)",
-                  "url": "https://youtu.be/DNFv_cr8r7I"
+                  "url": "https://youtu.be/DNFv_cr8r7I",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1076,7 +1113,8 @@
           "resources": [
             {
               "title": "ICS Organizational Structure and Elements (PDF)",
-              "url": "https://training.fema.gov/emiweb/is/icsresource/assets/ics%20organizational%20structure%20and%20elements.pdf"
+              "url": "https://training.fema.gov/emiweb/is/icsresource/assets/ics%20organizational%20structure%20and%20elements.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -1134,7 +1172,8 @@
           "resources": [
             {
               "title": "Wildland Firefighting Tools (video)",
-              "url": "https://youtu.be/SHXLUEfHlxw"
+              "url": "https://youtu.be/SHXLUEfHlxw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1157,19 +1196,23 @@
           "resources": [
             {
               "title": "Wildland Fire Engines (website w/ video)",
-              "url": "https://www.nps.gov/articles/wildland-fire-engines.htm"
+              "url": "https://www.nps.gov/articles/wildland-fire-engines.htm",
+              "type": "website"
             },
             {
               "title": "Aircraft (website)",
-              "url": "https://www.nifc.gov/resources/aircraft"
+              "url": "https://www.nifc.gov/resources/aircraft",
+              "type": "website"
             },
             {
               "title": "Firefighting Equipment (website)",
-              "url": "https://www.nifc.gov/resources/equipment"
+              "url": "https://www.nifc.gov/resources/equipment",
+              "type": "website"
             },
             {
               "title": "Dozers (website)",
-              "url": "https://www.nifc.gov/resources/equipment/dozers"
+              "url": "https://www.nifc.gov/resources/equipment/dozers",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -1263,11 +1306,13 @@
           "resources": [
             {
               "title": "Firewise USA® (website)",
-              "url": "https://www.nfpa.org/en/education-and-research/wildfire/preparing-homes-for-wildfire"
+              "url": "https://www.nfpa.org/en/education-and-research/wildfire/preparing-homes-for-wildfire",
+              "type": "website"
             },
             {
               "title": "Fire Home Assessment (PDF)",
-              "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/forest/pdf/fire/fire-home-assessment-form.pdf"
+              "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/bnatres/forest/pdf/fire/fire-home-assessment-form.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -1339,19 +1384,23 @@
       "resources": [
         {
           "title": "The Tillamook Burn Forest Fire of August, 1933 (video)",
-          "url": "https://youtu.be/LatzdMh49ps"
+          "url": "https://youtu.be/LatzdMh49ps",
+          "type": "video"
         },
         {
           "title": "The Story Behind the Yellowstone Fires of 1988 (video)",
-          "url": "https://youtu.be/CAgP9fo3f7s"
+          "url": "https://youtu.be/CAgP9fo3f7s",
+          "type": "video"
         },
         {
           "title": "The Smoke Jumper Tragedy of Mann Gulch (video)",
-          "url": "https://youtu.be/uKJdfYijVvQ"
+          "url": "https://youtu.be/uKJdfYijVvQ",
+          "type": "video"
         },
         {
           "title": "Storm King Mountain Tragedy (video)",
-          "url": "https://youtu.be/7UVaFKnN-gI"
+          "url": "https://youtu.be/7UVaFKnN-gI",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -1385,15 +1434,18 @@
       "resources": [
         {
           "title": "Wildland Firefighting & Wildland Fire Ecology Jobs (video)",
-          "url": "https://youtu.be/55iglSp3ki0"
+          "url": "https://youtu.be/55iglSp3ki0",
+          "type": "video"
         },
         {
           "title": "Fire Management Specialist (website)",
-          "url": "https://careers.iafc.org/career/fire-management-specialist"
+          "url": "https://careers.iafc.org/career/fire-management-specialist",
+          "type": "website"
         },
         {
           "title": "The Forest Service's Wildfire Force (video)",
-          "url": "https://youtu.be/ewR1Ryqvr2Y"
+          "url": "https://youtu.be/ewR1Ryqvr2Y",
+          "type": "video"
         }
       ],
       "sub_requirements": []

@@ -57,9 +57,14 @@
           "text": "Write a plan that tells how your family would save money for the purchase identified in requirement 1(a).",
           "requirement_path": "1.b",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
-          "scoped_clauses": [],
+          "scoped_clauses": [
+            {
+              "text": "Write a plan that tells how your family would save money for the purchase identified in requirement 1(a).",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -69,68 +74,71 @@
           "resources": [
             {
               "title": "How To Create a Weekly Savings Plan (video)",
-              "url": "https://youtu.be/WG7j91s-E20&t=37"
+              "url": "https://youtu.be/WG7j91s-E20&t=37",
+              "type": "video"
             },
             {
               "title": "Why and How To Save, Budgeting and Saving (video)",
-              "url": "https://youtu.be/cnW_HDIBmz4"
+              "url": "https://youtu.be/cnW_HDIBmz4",
+              "type": "video"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "8487",
-          "label": "1",
-          "text": "Discuss the plan with your counselor.",
-          "requirement_path": "1.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Discuss the plan with your counselor."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "8488",
-          "label": "2",
-          "text": "Discuss the plan with your family.",
-          "requirement_path": "1.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "8487",
+              "label": "1",
+              "text": "Discuss the plan with your counselor.",
+              "requirement_path": "1.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss the plan with your counselor."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Discuss the plan with your family."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "8489",
-          "label": "3",
-          "text": "Discuss how other family needs must be considered in this plan.",
-          "requirement_path": "1.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "8488",
+              "label": "2",
+              "text": "Discuss the plan with your family.",
+              "requirement_path": "1.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss the plan with your family."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Discuss how other family needs must be considered in this plan."
+              "id": "8489",
+              "label": "3",
+              "text": "Discuss how other family needs must be considered in this plan.",
+              "requirement_path": "1.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Discuss how other family needs must be considered in this plan."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "8490",
@@ -138,7 +146,7 @@
           "text": "Develop a written shopping strategy for the purchase identified in requirement 1(a).",
           "requirement_path": "1.c",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
           "scoped_clauses": [],
           "content": [
@@ -150,72 +158,80 @@
           "resources": [
             {
               "title": "How To Determine Product Quality (website)",
-              "url": "https://awiseconsumer.com/how-to-determine-product-quality-before-buying/"
+              "url": "https://awiseconsumer.com/how-to-determine-product-quality-before-buying/",
+              "type": "website"
             },
             {
               "title": "Can You Really Trust Online Reviews? (video)",
-              "url": "https://youtu.be/MfriPbc8hxM"
+              "url": "https://youtu.be/MfriPbc8hxM",
+              "type": "video"
             },
             {
               "title": "Inside the Consumer Reports Test Lab (video)",
-              "url": "https://youtu.be/nRMp8tVrWk4"
+              "url": "https://youtu.be/nRMp8tVrWk4",
+              "type": "video"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "8491",
-          "label": "1",
-          "text": "Determine the quality of the item or service (using consumer publications or rating systems).",
-          "requirement_path": "1.1-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Determine the quality of the item or service (using consumer publications or rating systems)."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How To Determine Product Quality (website)",
-              "url": "https://awiseconsumer.com/how-to-determine-product-quality-before-buying/"
+              "id": "8491",
+              "label": "1",
+              "text": "Determine the quality of the item or service (using consumer publications or rating systems).",
+              "requirement_path": "1.c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Determine the quality of the item or service (using consumer publications or rating systems)."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Determine Product Quality (website)",
+                  "url": "https://awiseconsumer.com/how-to-determine-product-quality-before-buying/",
+                  "type": "website"
+                },
+                {
+                  "title": "Can You Really Trust Online Reviews? (video)",
+                  "url": "https://youtu.be/MfriPbc8hxM",
+                  "type": "video"
+                },
+                {
+                  "title": "Inside the Consumer Reports Test Lab (video)",
+                  "url": "https://youtu.be/nRMp8tVrWk4",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Can You Really Trust Online Reviews? (video)",
-              "url": "https://youtu.be/MfriPbc8hxM"
-            },
-            {
-              "title": "Inside the Consumer Reports Test Lab (video)",
-              "url": "https://youtu.be/nRMp8tVrWk4"
+              "id": "8492",
+              "label": "2",
+              "text": "Comparison shop for the item. Find out where you can buy the item for the best price. (Provide prices from at least two different price sources.) Call around; study ads. Look for a sale or discount coupon. Consider alternatives. Can you buy the item used? Should you wait for a sale?",
+              "requirement_path": "1.c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Comparison shop for the item. Find out where you can buy the item for the best price. (Provide prices from at least two different price sources.) Call around; study ads. Look for a sale or discount coupon. Consider alternatives. Can you buy the item used? Should you wait for a sale?"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Get the Best Value Every Time You Shop (video)",
+                  "url": "https://youtu.be/hFvwIjFfo_s",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "8492",
-          "label": "2",
-          "text": "Comparison shop for the item. Find out where you can buy the item for the best price. (Provide prices from at least two different price sources.) Call around; study ads. Look for a sale or discount coupon. Consider alternatives. Can you buy the item used? Should you wait for a sale?",
-          "requirement_path": "1.2-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Comparison shop for the item. Find out where you can buy the item for the best price. (Provide prices from at least two different price sources.) Call around; study ads. Look for a sale or discount coupon. Consider alternatives. Can you buy the item used? Should you wait for a sale?"
-            }
-          ],
-          "resources": [
-            {
-              "title": "Get the Best Value Every Time You Shop (video)",
-              "url": "https://youtu.be/hFvwIjFfo_s"
-            }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     },
@@ -259,11 +275,13 @@
           "resources": [
             {
               "title": "How To Create a Budget for Beginners (video)",
-              "url": "https://youtu.be/-cOjBanoNP0"
+              "url": "https://youtu.be/-cOjBanoNP0",
+              "type": "video"
             },
             {
               "title": "Budgeting Basics (video)",
-              "url": "https://youtu.be/vUMV-XUdpuM"
+              "url": "https://youtu.be/vUMV-XUdpuM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -274,9 +292,14 @@
           "text": "Compare expected income with expected expenses.",
           "requirement_path": "2.b",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
-          "scoped_clauses": [],
+          "scoped_clauses": [
+            {
+              "text": "Compare expected income with expected expenses.",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -284,43 +307,44 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "8496",
-          "label": "1",
-          "text": "If expenses exceed budget income, determine steps to balance your budget.",
-          "requirement_path": "2.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "If expenses exceed budget income, determine steps to balance your budget."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "8497",
-          "label": "2",
-          "text": "If income exceeds budget expenses, state how you would use the excess money (new goal, savings).",
-          "requirement_path": "2.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "8496",
+              "label": "1",
+              "text": "If expenses exceed budget income, determine steps to balance your budget.",
+              "requirement_path": "2.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "If expenses exceed budget income, determine steps to balance your budget."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "If income exceeds budget expenses, state how you would use the excess money (new goal, savings)."
+              "id": "8497",
+              "label": "2",
+              "text": "If income exceeds budget expenses, state how you would use the excess money (new goal, savings).",
+              "requirement_path": "2.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "If income exceeds budget expenses, state how you would use the excess money (new goal, savings)."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "8777",
@@ -505,7 +529,8 @@
           "resources": [
             {
               "title": "How To Choose the Right Savings Account (video)",
-              "url": "https://youtu.be/sCiE4X_y1a0"
+              "url": "https://youtu.be/sCiE4X_y1a0",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -528,7 +553,8 @@
           "resources": [
             {
               "title": "What Is a Charity? (video)",
-              "url": "https://youtu.be/PpEOk2botAo"
+              "url": "https://youtu.be/PpEOk2botAo",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -551,7 +577,8 @@
           "resources": [
             {
               "title": "Manage Money Effectively as a Teen (video)",
-              "url": "https://youtu.be/SgQPzcb8Q-A"
+              "url": "https://youtu.be/SgQPzcb8Q-A",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -598,11 +625,13 @@
           "resources": [
             {
               "title": "Why Invest?  (website)",
-              "url": "https://www.wellsfargo.com/goals-investing/saving-vs-investing/"
+              "url": "https://www.wellsfargo.com/goals-investing/saving-vs-investing/",
+              "type": "website"
             },
             {
               "title": "Saving vs Investing (video)",
-              "url": "https://youtu.be/9tr_HxbAaU4"
+              "url": "https://youtu.be/9tr_HxbAaU4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -625,7 +654,8 @@
           "resources": [
             {
               "title": "Risk and Return (video)",
-              "url": "https://youtu.be/acbV1-fErSI"
+              "url": "https://youtu.be/acbV1-fErSI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -648,7 +678,8 @@
           "resources": [
             {
               "title": "Simple vs Compound Interest (video)",
-              "url": "https://youtu.be/lMVwYoiiV0w"
+              "url": "https://youtu.be/lMVwYoiiV0w",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -671,7 +702,8 @@
           "resources": [
             {
               "title": "What Is Diversification? (video)",
-              "url": "https://youtu.be/MZchH0Ddzn8"
+              "url": "https://youtu.be/MZchH0Ddzn8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -694,7 +726,8 @@
           "resources": [
             {
               "title": "Why Plan for Retirement? (video)",
-              "url": "https://youtu.be/J9lTE95LPaA"
+              "url": "https://youtu.be/J9lTE95LPaA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -724,7 +757,8 @@
       "resources": [
         {
           "title": "Every Type of Investment Explained (video)",
-          "url": "https://youtu.be/i-To1GILOhA"
+          "url": "https://youtu.be/i-To1GILOhA",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -861,7 +895,8 @@
       "resources": [
         {
           "title": "Different Types of Insurance and Why You Need Them (website)",
-          "url": "https://www.allstate.com/resources/types-of-insurance"
+          "url": "https://www.allstate.com/resources/types-of-insurance",
+          "type": "website"
         }
       ],
       "sub_requirements": [
@@ -979,7 +1014,8 @@
           "resources": [
             {
               "title": "What Is the Difference Between Interest and APR? (website)",
-              "url": "https://www.investopedia.com/ask/answers/100314/what-difference-between-interest-rate-and-annual-percentage-rate-apr.asp"
+              "url": "https://www.investopedia.com/ask/answers/100314/what-difference-between-interest-rate-and-annual-percentage-rate-apr.asp",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -1002,7 +1038,8 @@
           "resources": [
             {
               "title": "Borrowing Money (video)",
-              "url": "https://www.prageru.com/videos/borrowing"
+              "url": "https://www.prageru.com/videos/borrowing",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1025,7 +1062,8 @@
           "resources": [
             {
               "title": "Credit Cards vs Debit Cards (video)",
-              "url": "https://youtu.be/mllbYh0DFMc"
+              "url": "https://youtu.be/mllbYh0DFMc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1048,7 +1086,8 @@
           "resources": [
             {
               "title": "Your Credit Score Explained (video)",
-              "url": "https://www.britannica.com/video/explanation-credit-scores/-279958"
+              "url": "https://www.britannica.com/video/explanation-credit-scores/-279958",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1071,7 +1110,8 @@
           "resources": [
             {
               "title": "Easy Steps to Eliminate Debt (video)",
-              "url": "https://youtu.be/CHiOBzqcMV8"
+              "url": "https://youtu.be/CHiOBzqcMV8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1101,7 +1141,8 @@
       "resources": [
         {
           "title": "Time Management for Teens (video)",
-          "url": "https://youtu.be/CBEQxJK9Y6Q"
+          "url": "https://youtu.be/CBEQxJK9Y6Q",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -1123,7 +1164,8 @@
           "resources": [
             {
               "title": "Work Smart: How To Write a To-Do List (video)",
-              "url": "https://youtu.be/fjjKuoeYP5A"
+              "url": "https://youtu.be/fjjKuoeYP5A",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1146,7 +1188,8 @@
           "resources": [
             {
               "title": "Master Time Management Tips for Teens (video)",
-              "url": "https://youtu.be/OMcy0PD1jQc"
+              "url": "https://youtu.be/OMcy0PD1jQc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1216,7 +1259,8 @@
       "resources": [
         {
           "title": "How To Create a Project Plan (video)",
-          "url": "https://youtu.be/ntQ1Mx3GZwk"
+          "url": "https://youtu.be/ntQ1Mx3GZwk",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -1352,19 +1396,23 @@
           "resources": [
             {
               "title": "Explore Career Possibilities (website)",
-              "url": "https://bigfuture.collegeboard.org/explore-careers"
+              "url": "https://bigfuture.collegeboard.org/explore-careers",
+              "type": "website"
             },
             {
               "title": "Career Search: Pursuing Passion (video)",
-              "url": "https://youtu.be/dMe69L-v4pI"
+              "url": "https://youtu.be/dMe69L-v4pI",
+              "type": "video"
             },
             {
               "title": "The Cost of Education Careers and Education (video)",
-              "url": "https://youtu.be/9TtKUydRfDM"
+              "url": "https://youtu.be/9TtKUydRfDM",
+              "type": "video"
             },
             {
               "title": "10 Ways To Pay for College (website)",
-              "url": "https://career.cornell.edu/blog/2025/03/05/10-ways-to-pay-for-college-scholarships-grants-and-more/"
+              "url": "https://career.cornell.edu/blog/2025/03/05/10-ways-to-pay-for-college-scholarships-grants-and-more/",
+              "type": "website"
             }
           ],
           "sub_requirements": []

@@ -87,7 +87,8 @@
           "resources": [
             {
               "title": "Automotive Repair Safety Observations (video)",
-              "url": "https://youtu.be/g52rQbJd43w?si=5YRRnfneJqWspPMb"
+              "url": "https://youtu.be/g52rQbJd43w?si=5YRRnfneJqWspPMb",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -110,7 +111,8 @@
           "resources": [
             {
               "title": "Garage and Shop Safety Basics (video)",
-              "url": "https://youtu.be/lT_42grmnUk?si=9Ov1c-5CUwWuXg5m"
+              "url": "https://youtu.be/lT_42grmnUk?si=9Ov1c-5CUwWuXg5m",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -133,19 +135,23 @@
           "resources": [
             {
               "title": "Difference Between Diesel and Gas Engines (video)",
-              "url": "https://youtu.be/rlK7JIAz9WY?si=zlHbl7TXVzW_9W0K"
+              "url": "https://youtu.be/rlK7JIAz9WY?si=zlHbl7TXVzW_9W0K",
+              "type": "video"
             },
             {
               "title": "Different Types of Motors in Electric Vehicles (video)",
-              "url": "https://youtu.be/Bu3p2uf74r8?si=ibB5aVbgyz2uhjp5"
+              "url": "https://youtu.be/Bu3p2uf74r8?si=ibB5aVbgyz2uhjp5",
+              "type": "video"
             },
             {
               "title": "Different Types of Hybrid Engines (video)",
-              "url": "https://youtu.be/H1DvkVKegJY?si=WYSrupa06aH52qsD"
+              "url": "https://youtu.be/H1DvkVKegJY?si=WYSrupa06aH52qsD",
+              "type": "video"
             },
             {
               "title": "How Do Hydrogen Cars Work (video)",
-              "url": "https://youtu.be/wWOVzSmc72E?si=pqjF6dj1ADp72Hpf"
+              "url": "https://youtu.be/wWOVzSmc72E?si=pqjF6dj1ADp72Hpf",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -168,7 +174,8 @@
           "resources": [
             {
               "title": "Working on High Voltage Vehicles (video)",
-              "url": "https://youtu.be/t_jDdsC5UBc?si=X3i6HvfGoSnFMV05"
+              "url": "https://youtu.be/t_jDdsC5UBc?si=X3i6HvfGoSnFMV05",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -191,7 +198,8 @@
           "resources": [
             {
               "title": "Should I Follow the Manufacturer's Maintenance Schedule (video)",
-              "url": "https://youtu.be/vPHd0EHVU1U?si=gKlqtHGZvzRBwG0B"
+              "url": "https://youtu.be/vPHd0EHVU1U?si=gKlqtHGZvzRBwG0B",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -214,15 +222,18 @@
           "resources": [
             {
               "title": "Seatbelt | How Does it Work? (video)",
-              "url": "https://youtu.be/uRaU1HMJyCo?si=35wRwtjnIBBaBQk3"
+              "url": "https://youtu.be/uRaU1HMJyCo?si=35wRwtjnIBBaBQk3",
+              "type": "video"
             },
             {
               "title": "Seatbelts (website)",
-              "url": "https://www.nhtsa.gov/vehicle-safety/seat-belts"
+              "url": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+              "type": "website"
             },
             {
               "title": "On Air Bags (website)",
-              "url": "https://www.nhtsa.gov/vehicle-safety/air-bags"
+              "url": "https://www.nhtsa.gov/vehicle-safety/air-bags",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -245,7 +256,8 @@
           "resources": [
             {
               "title": "Tips on How to Pass State Inspection (video)",
-              "url": "https://youtu.be/Ek-WN2dgjLQ"
+              "url": "https://youtu.be/Ek-WN2dgjLQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -268,7 +280,8 @@
           "resources": [
             {
               "title": "Vehicle Registration Near Me (video)",
-              "url": "https://youtu.be/QBC9o1imZO8?si=iT_DBHrKqiDjAMtL"
+              "url": "https://youtu.be/QBC9o1imZO8?si=iT_DBHrKqiDjAMtL",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -309,7 +322,8 @@
       "resources": [
         {
           "title": "Your Car's Fluids (video)",
-          "url": "https://youtu.be/RaxZUGP1Zr0?si=_Z1CMmzpR5nAPJkp"
+          "url": "https://youtu.be/RaxZUGP1Zr0?si=_Z1CMmzpR5nAPJkp",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -318,9 +332,9 @@
           "label": "a",
           "text": "Demonstrate how to check the following:",
           "requirement_path": "2.a",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Demonstrate how to check the following:",
@@ -336,7 +350,8 @@
           "resources": [
             {
               "title": "Your Car's Fluids (video)",
-              "url": "https://youtu.be/RaxZUGP1Zr0?si=_Z1CMmzpR5nAPJkp"
+              "url": "https://youtu.be/RaxZUGP1Zr0?si=_Z1CMmzpR5nAPJkp",
+              "type": "video"
             }
           ],
           "sub_requirements": [
@@ -466,11 +481,13 @@
               "resources": [
                 {
                   "title": "How to Care for Your Automotive Battery (video)",
-                  "url": "https://youtu.be/-dWtk08fMfw?si=AfrX0oKSRi6fCKoe&t=14"
+                  "url": "https://youtu.be/-dWtk08fMfw?si=AfrX0oKSRi6fCKoe&t=14",
+                  "type": "video"
                 },
                 {
                   "title": "How to Check & Properly Fill Water Levels in a Car Battery (video)",
-                  "url": "https://youtu.be/ytg2TCC6IKw?si=XBSt8SXU0YENVL7J"
+                  "url": "https://youtu.be/ytg2TCC6IKw?si=XBSt8SXU0YENVL7J",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -495,7 +512,8 @@
           "resources": [
             {
               "title": "How to Check Car Fuses (video)",
-              "url": "https://youtu.be/PF5G4llnvQs?si=TTLfI1ev6g2UtMw-"
+              "url": "https://youtu.be/PF5G4llnvQs?si=TTLfI1ev6g2UtMw-",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -518,15 +536,18 @@
           "resources": [
             {
               "title": "How to Inspect Belts (video)",
-              "url": "https://youtu.be/XlUK0XDpCSY?si=mPiotbFHaGk0grht&t=20"
+              "url": "https://youtu.be/XlUK0XDpCSY?si=mPiotbFHaGk0grht&t=20",
+              "type": "video"
             },
             {
               "title": "How to Check Serpentine Belt (video)",
-              "url": "https://youtu.be/Clv2ZlS3hB0?feature=shared"
+              "url": "https://youtu.be/Clv2ZlS3hB0?feature=shared",
+              "type": "video"
             },
             {
               "title": "How to Inspect Hoses (video)",
-              "url": "https://youtu.be/apoc2ZUU51k?feature=shared"
+              "url": "https://youtu.be/apoc2ZUU51k?feature=shared",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -549,11 +570,13 @@
           "resources": [
             {
               "title": "How to Check Car Lights (video)",
-              "url": "https://youtu.be/WLDE5-QVEi8?si=xxbnuJv2QtXKRNuf"
+              "url": "https://youtu.be/WLDE5-QVEi8?si=xxbnuJv2QtXKRNuf",
+              "type": "video"
             },
             {
               "title": "Basics of Automotive Lighting Systems (video)",
-              "url": "https://youtu.be/k3ckC8FCwsU?si=qRWssPgqKCuAH055"
+              "url": "https://youtu.be/k3ckC8FCwsU?si=qRWssPgqKCuAH055",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -576,7 +599,8 @@
           "resources": [
             {
               "title": "Check and Change Air Filter (video)",
-              "url": "https://youtu.be/noid4J2TbpU?si=skrUm5VlKpkcKADO"
+              "url": "https://youtu.be/noid4J2TbpU?si=skrUm5VlKpkcKADO",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -634,7 +658,8 @@
           "resources": [
             {
               "title": "Understanding the Car Gauges (video)",
-              "url": "https://youtu.be/EDZbQdvM-dI?feature=shared"
+              "url": "https://youtu.be/EDZbQdvM-dI?feature=shared",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -657,7 +682,8 @@
           "resources": [
             {
               "title": "Dashboard Warning Lights Explained (video)",
-              "url": "https://youtu.be/DswOF-reMRo?si=N020Ga39csW2d_28"
+              "url": "https://youtu.be/DswOF-reMRo?si=N020Ga39csW2d_28",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -733,7 +759,8 @@
           "resources": [
             {
               "title": "How to Read aTire (video)",
-              "url": "https://youtu.be/bW5XKi8RvR0?si=bUxYodfbQYrUuRzq"
+              "url": "https://youtu.be/bW5XKi8RvR0?si=bUxYodfbQYrUuRzq",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -756,7 +783,8 @@
           "resources": [
             {
               "title": "How to Properly Check and Fill Tires (video)",
-              "url": "https://youtu.be/0Q-Eb7aUyt4?si=aIug5NNg5ISPI_RW"
+              "url": "https://youtu.be/0Q-Eb7aUyt4?si=aIug5NNg5ISPI_RW",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -779,7 +807,8 @@
           "resources": [
             {
               "title": "Understanding Wheel Alignment Process (video)",
-              "url": "https://youtu.be/Zs2-mdUFnrs"
+              "url": "https://youtu.be/Zs2-mdUFnrs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -802,11 +831,13 @@
           "resources": [
             {
               "title": "What is a TIre Wear Indicator Bar? (video)",
-              "url": "https://youtu.be/juwEdAk8fQU?si=tKT9gEm5OWE_sR_V"
+              "url": "https://youtu.be/juwEdAk8fQU?si=tKT9gEm5OWE_sR_V",
+              "type": "video"
             },
             {
               "title": "Knowing When to Replace Your Tires (video)",
-              "url": "https://youtu.be/eX1yNinA14k?si=qF8EliaSn4wuUnrN"
+              "url": "https://youtu.be/eX1yNinA14k?si=qF8EliaSn4wuUnrN",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -829,7 +860,8 @@
           "resources": [
             {
               "title": "Tires: How Do I Get Rid Of Them? (video)",
-              "url": "https://youtu.be/eYbHXvVlPo4?si=RpKB3qZAjN3ZUXCG"
+              "url": "https://youtu.be/eYbHXvVlPo4?si=RpKB3qZAjN3ZUXCG",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -887,15 +919,18 @@
           "resources": [
             {
               "title": "Engines 101: Basics of How Engines Work (video)",
-              "url": "https://youtu.be/gqK3dCpwzxE?si=UPmmasiMdCvH9Z18"
+              "url": "https://youtu.be/gqK3dCpwzxE?si=UPmmasiMdCvH9Z18",
+              "type": "video"
             },
             {
               "title": "Engines 101: How Does a Diesel Engine Work (video)",
-              "url": "https://youtu.be/PFKppLZNVuU?si=IXxylkf44UZj8UOt"
+              "url": "https://youtu.be/PFKppLZNVuU?si=IXxylkf44UZj8UOt",
+              "type": "video"
             },
             {
               "title": "How Hybrid Cars Work (video)",
-              "url": "https://youtu.be/hRYWqdiUlbA?feature=shared"
+              "url": "https://youtu.be/hRYWqdiUlbA?feature=shared",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -918,11 +953,13 @@
           "resources": [
             {
               "title": "API Motor Oil Ratings Explained (video)",
-              "url": "https://youtu.be/zOm_qlge9sE?si=Cmjw88X-dBXCAZC-"
+              "url": "https://youtu.be/zOm_qlge9sE?si=Cmjw88X-dBXCAZC-",
+              "type": "video"
             },
             {
               "title": "What Do SAE Grades Mean  (video)",
-              "url": "https://youtu.be/I09djHVZbaw?si=iAYgnRyx2mwjtNF2"
+              "url": "https://youtu.be/I09djHVZbaw?si=iAYgnRyx2mwjtNF2",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -945,7 +982,8 @@
           "resources": [
             {
               "title": "Choosing the Correct Engine Oil (video)",
-              "url": "https://youtu.be/UdzbRMy0sYU?si=K1C5G09GxYyQ3Q-m"
+              "url": "https://youtu.be/UdzbRMy0sYU?si=K1C5G09GxYyQ3Q-m",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1003,7 +1041,8 @@
           "resources": [
             {
               "title": "Role of Antifreeze/Coolant (video)",
-              "url": "https://youtu.be/E6UieoMzvxM?si=5IYkQMMWHf8N-LIf"
+              "url": "https://youtu.be/E6UieoMzvxM?si=5IYkQMMWHf8N-LIf",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1026,7 +1065,8 @@
           "resources": [
             {
               "title": "Flushing and Filling Your Coolant System (video)",
-              "url": "https://youtu.be/XdyZDw7jOP0?si=erJ4Yd2RGSk2-DGB"
+              "url": "https://youtu.be/XdyZDw7jOP0?si=erJ4Yd2RGSk2-DGB",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1084,11 +1124,13 @@
           "resources": [
             {
               "title": "How Air Filter Works (video)",
-              "url": "https://www.youtube.com/shorts/3RRpjRclwwY"
+              "url": "https://www.youtube.com/shorts/3RRpjRclwwY",
+              "type": "video"
             },
             {
               "title": "Animation Fuel Filter (video)",
-              "url": "https://youtu.be/sZLtnnAgs60?si=JOyTzGI4rwRVabWI"
+              "url": "https://youtu.be/sZLtnnAgs60?si=JOyTzGI4rwRVabWI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1111,7 +1153,8 @@
           "resources": [
             {
               "title": "How a Car Fuel Injection System Works Explained Step-by-Step! (video)",
-              "url": "https://youtu.be/DI4Oci7U2lA"
+              "url": "https://youtu.be/DI4Oci7U2lA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1174,7 +1217,8 @@
           "resources": [
             {
               "title": "Car Electrical System Explained (video)",
-              "url": "https://youtu.be/XO-3nCYHeFQ?si=eNmJgO9ya1a2jzJP"
+              "url": "https://youtu.be/XO-3nCYHeFQ?si=eNmJgO9ya1a2jzJP",
+              "type": "video"
             }
           ],
           "sub_requirements": [
@@ -1196,7 +1240,8 @@
               "resources": [
                 {
                   "title": "Automotive Starting and Charging System (video)",
-                  "url": "https://youtu.be/IixqxkWpT5M?si=iTXN07OTcbwFCpzB"
+                  "url": "https://youtu.be/IixqxkWpT5M?si=iTXN07OTcbwFCpzB",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1219,7 +1264,8 @@
               "resources": [
                 {
                   "title": "The Role of Inverters for EV Propulsion Systems (video)",
-                  "url": "https://youtu.be/wbfOoQgg7Tk?si=CK1dIlvuJJDSXKlC"
+                  "url": "https://youtu.be/wbfOoQgg7Tk?si=CK1dIlvuJJDSXKlC",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1242,7 +1288,8 @@
               "resources": [
                 {
                   "title": "Automotive Lighting Circuits (video)",
-                  "url": "https://youtu.be/ST5nz8M9Lcg?si=yIgLMjiU5VL_Gu1_"
+                  "url": "https://youtu.be/ST5nz8M9Lcg?si=yIgLMjiU5VL_Gu1_",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -1267,7 +1314,8 @@
           "resources": [
             {
               "title": "Explain Engine Firing Order | Automobile Engineering (video)",
-              "url": "https://youtu.be/ss0GMKBYCks?si=jlPZT5HiIhDtQKQw"
+              "url": "https://youtu.be/ss0GMKBYCks?si=jlPZT5HiIhDtQKQw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1290,7 +1338,8 @@
           "resources": [
             {
               "title": "What You Need to Know About Spark Plugs (video)",
-              "url": "https://youtu.be/iGiTXYWmSQs?si=ks9YTt40H9lwDuDR"
+              "url": "https://youtu.be/iGiTXYWmSQs?si=ks9YTt40H9lwDuDR",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1313,11 +1362,13 @@
           "resources": [
             {
               "title": "How to Properly Jump Start a Car (video)",
-              "url": "https://youtu.be/iI1o2hNy2hE?si=t_Z0kfFFLqNt1lkQ"
+              "url": "https://youtu.be/iI1o2hNy2hE?si=t_Z0kfFFLqNt1lkQ",
+              "type": "video"
             },
             {
               "title": "How to Jump Start a Dead Battery (website)",
-              "url": "https://scoutlife.org/features/150888/how-to-jump-start-a-dead-battery/"
+              "url": "https://scoutlife.org/features/150888/how-to-jump-start-a-dead-battery/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -1340,7 +1391,8 @@
           "resources": [
             {
               "title": "Factors Affecting Range (video)",
-              "url": "https://youtu.be/FlaskUlzdmU?si=CIjEtDAEGsjmaiP6"
+              "url": "https://youtu.be/FlaskUlzdmU?si=CIjEtDAEGsjmaiP6",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1363,7 +1415,8 @@
           "resources": [
             {
               "title": "Fundamentals of Automotive Electrical Systems (video)",
-              "url": "https://youtu.be/17DdpIJ6IsI?si=TsLAiKVhMLMmEeh_"
+              "url": "https://youtu.be/17DdpIJ6IsI?si=TsLAiKVhMLMmEeh_",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1421,7 +1474,8 @@
           "resources": [
             {
               "title": "Ultimate Drive Train Guide (video)",
-              "url": "https://youtu.be/-cTJqNWwmf0?si=qapozBPNfBih0PCY"
+              "url": "https://youtu.be/-cTJqNWwmf0?si=qapozBPNfBih0PCY",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1444,7 +1498,8 @@
           "resources": [
             {
               "title": "Manual vs Automatic (video)",
-              "url": "https://youtu.be/qAdJu3cwVME?si=iBSSp4Jwxk3jhgyr"
+              "url": "https://youtu.be/qAdJu3cwVME?si=iBSSp4Jwxk3jhgyr",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1467,7 +1522,8 @@
           "resources": [
             {
               "title": "The Complexities of Today's Automatic Transmission Fluid (video)",
-              "url": "https://youtu.be/0jnewEGKAp0?si=coMA15wWraII-t2m"
+              "url": "https://youtu.be/0jnewEGKAp0?si=coMA15wWraII-t2m",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1490,7 +1546,8 @@
           "resources": [
             {
               "title": "Which Fluids to Use (video)",
-              "url": "https://youtu.be/3le9ZT5HUlk?si=WmA2BT2KcmgCqFqe"
+              "url": "https://youtu.be/3le9ZT5HUlk?si=WmA2BT2KcmgCqFqe",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1513,7 +1570,8 @@
           "resources": [
             {
               "title": "Ultimate Drive Train Guide (video)",
-              "url": "https://youtu.be/-cTJqNWwmf0"
+              "url": "https://youtu.be/-cTJqNWwmf0",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1571,7 +1629,8 @@
           "resources": [
             {
               "title": "Understanding ABS (video)",
-              "url": "https://youtu.be/98DXe3uKwfc?si=G4NpfHoDLA1k-_qu"
+              "url": "https://youtu.be/98DXe3uKwfc?si=G4NpfHoDLA1k-_qu",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1594,7 +1653,8 @@
           "resources": [
             {
               "title": "Drum vs Disc Brakes - What Are the Differences? (Which Is the Better Choice?) (video)",
-              "url": "https://youtu.be/RAQcvP07RHE?si=ppH7voCgequLWmeo"
+              "url": "https://youtu.be/RAQcvP07RHE?si=ppH7voCgequLWmeo",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1617,7 +1677,8 @@
           "resources": [
             {
               "title": "How to Check Pads and Rotor (video)",
-              "url": "https://youtu.be/WzXjTrMu3lg?si=WU6olZplgEwSJXrU"
+              "url": "https://youtu.be/WzXjTrMu3lg?si=WU6olZplgEwSJXrU",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1679,7 +1740,8 @@
           "resources": [
             {
               "title": "How to Negotiate and Buy a Used Car (video)",
-              "url": "https://youtu.be/DW6CbYMz2uM?si=wHJGXS-PhtyOsCfK"
+              "url": "https://youtu.be/DW6CbYMz2uM?si=wHJGXS-PhtyOsCfK",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1702,7 +1764,8 @@
           "resources": [
             {
               "title": "How to Wax Your Car (video)",
-              "url": "https://youtu.be/9vYTXat5jZc?feature=shared"
+              "url": "https://youtu.be/9vYTXat5jZc?feature=shared",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1725,7 +1788,8 @@
           "resources": [
             {
               "title": "How to Change a Flat Tire (video)",
-              "url": "https://youtu.be/owHHcbrytvU?si=NvpQkfFmzJBbYzT9"
+              "url": "https://youtu.be/owHHcbrytvU?si=NvpQkfFmzJBbYzT9",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1748,7 +1812,8 @@
           "resources": [
             {
               "title": "How to Change Your Oil (website)",
-              "url": "https://www.edmunds.com/how-to/how-to-change-your-oil-the-real-down-and-dirty.html"
+              "url": "https://www.edmunds.com/how-to/how-to-change-your-oil-the-real-down-and-dirty.html",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -1773,15 +1838,18 @@
       "resources": [
         {
           "title": "10 Exciting & Rewarding Jobs in the Automotive Industry (website)",
-          "url": "https://www.wyotech.edu/automotive/jobs-in-the-automotive-industry/"
+          "url": "https://www.wyotech.edu/automotive/jobs-in-the-automotive-industry/",
+          "type": "website"
         },
         {
           "title": "Automotive Jobs: The Highest Paying Ones  (video)",
-          "url": "https://youtu.be/BgN-1cQzbRM?si=gYwIG5Ea6V3-bLRy"
+          "url": "https://youtu.be/BgN-1cQzbRM?si=gYwIG5Ea6V3-bLRy",
+          "type": "video"
         },
         {
           "title": "Best Careers in the Automotive Industry (video)",
-          "url": "https://youtu.be/XUmrIRsa3AE?si=fsvj6-CXOovUkJ93"
+          "url": "https://youtu.be/XUmrIRsa3AE?si=fsvj6-CXOovUkJ93",
+          "type": "video"
         }
       ],
       "sub_requirements": []

@@ -14,7 +14,7 @@
     {
       "id": "9796",
       "label": "1",
-      "text": "See or read three full-length plays. Write a review of each. Discuss with your counselor the plot or story. If you chose to watch the plays, comment on the acting and the staging. Note: Watching plays on television, video, or as a movie is not permitted.",
+      "text": "See or read three full-length plays. Write a review of each. Discuss with your counselor the plot or story. If you chose to watch the plays, comment on the acting and the staging.\nNote: Watching plays on television, video, or as a movie is not permitted.",
       "requirement_path": "1",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -24,6 +24,18 @@
         {
           "type": "text",
           "value": "See or read three full-length plays. Write a review of each. Discuss with your counselor the plot or story. If you chose to watch the plays, comment on the acting and the staging. "
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
         },
         {
           "type": "element",
@@ -44,7 +56,8 @@
       "resources": [
         {
           "title": "Theatre Merit Badge (video)",
-          "url": "https://youtu.be/wj2tyVAYlMg"
+          "url": "https://youtu.be/wj2tyVAYlMg",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -67,7 +80,8 @@
       "resources": [
         {
           "title": "How to Write a One-Act Play (video)",
-          "url": "https://youtu.be/ZRTuslMz2Rw?si=cy09j4rU7f5-l9_O"
+          "url": "https://youtu.be/ZRTuslMz2Rw?si=cy09j4rU7f5-l9_O",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -99,7 +113,8 @@
       "resources": [
         {
           "title": "General Safety in the Theatre (video)",
-          "url": "https://youtu.be/4dGuuOgzK5U?si=9KtI0d1RU7ruD-Yg"
+          "url": "https://youtu.be/4dGuuOgzK5U?si=9KtI0d1RU7ruD-Yg",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -308,7 +323,8 @@
       "resources": [
         {
           "title": "What is Pantomime?  (video)",
-          "url": "https://youtu.be/fLTXMZj2saE"
+          "url": "https://youtu.be/fLTXMZj2saE",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -440,7 +456,8 @@
       "resources": [
         {
           "title": "Stage Anatomy (video)",
-          "url": "https://youtu.be/ju6Q_0jXFE0?si=vimJx4FEihmqE6T_"
+          "url": "https://youtu.be/ju6Q_0jXFE0?si=vimJx4FEihmqE6T_",
+          "type": "video"
         }
       ],
       "sub_requirements": []

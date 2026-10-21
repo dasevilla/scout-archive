@@ -69,23 +69,28 @@
           "resources": [
             {
               "title": "Cold Water Shock—How To Deal With Cold Water Shock (video)",
-              "url": "https://youtu.be/rH3gZuSr6Y8"
+              "url": "https://youtu.be/rH3gZuSr6Y8",
+              "type": "video"
             },
             {
               "title": "What Happens if You Don't Drink Enough Water? Signs of Dehydration + 4 Ways To Keep Hydrated (video)",
-              "url": "https://youtu.be/EmNieKLjmH4"
+              "url": "https://youtu.be/EmNieKLjmH4",
+              "type": "video"
             },
             {
               "title": "Dangers of Heat-Related Illnesses (video)",
-              "url": "https://youtu.be/Rz6Wxiv4aRA"
+              "url": "https://youtu.be/Rz6Wxiv4aRA",
+              "type": "video"
             },
             {
               "title": "What Causes Sunburns? (video)",
-              "url": "https://youtu.be/9aFm087_XWg"
+              "url": "https://youtu.be/9aFm087_XWg",
+              "type": "video"
             },
             {
               "title": "Sprain Care With RICE Method (video)",
-              "url": "https://youtu.be/z1gbB_peVDQ"
+              "url": "https://youtu.be/z1gbB_peVDQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -108,7 +113,8 @@
           "resources": [
             {
               "title": "Safety Afloat (website)",
-              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/"
+              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -173,7 +179,8 @@
           "resources": [
             {
               "title": "Watersports Safety Code (PDF)",
-              "url": "http://www.usscouts.org/mb/docs/Water-Sports-Safety-Code.pdf"
+              "url": "http://www.usscouts.org/mb/docs/Water-Sports-Safety-Code.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -183,7 +190,7 @@
     {
       "id": "7415",
       "label": "3",
-      "text": "Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test. Note: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
+      "text": "Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test.\nNote: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
       "requirement_path": "3",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -193,6 +200,18 @@
         {
           "type": "text",
           "value": "Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test. "
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
         },
         {
           "type": "element",
@@ -228,7 +247,8 @@
       "resources": [
         {
           "title": "Swimming Merit Badge  Pamphlet (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf",
+          "type": "document"
         }
       ],
       "sub_requirements": []
@@ -251,7 +271,8 @@
       "resources": [
         {
           "title": "Towed Watersports Hand Signals  (PDF)",
-          "url": "https://aceboater.com/common-hand-signals-for-boaters"
+          "url": "https://aceboater.com/common-hand-signals-for-boaters",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -296,19 +317,23 @@
           "resources": [
             {
               "title": "How To Get Up on a Wakeboard (video)",
-              "url": "https://youtu.be/7h9n_qzP6HY"
+              "url": "https://youtu.be/7h9n_qzP6HY",
+              "type": "video"
             },
             {
               "title": "How To Stand Up on Water Skis (video)",
-              "url": "https://youtu.be/e1yqFxHQz6s"
+              "url": "https://youtu.be/e1yqFxHQz6s",
+              "type": "video"
             },
             {
               "title": "How To Water-Ski for Beginners (video)",
-              "url": "https://youtu.be/df9-EjiGy8A"
+              "url": "https://youtu.be/df9-EjiGy8A",
+              "type": "video"
             },
             {
               "title": "How To Ski on One Ski (video)",
-              "url": "https://youtu.be/rudwod76If8"
+              "url": "https://youtu.be/rudwod76If8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -331,15 +356,18 @@
           "resources": [
             {
               "title": "Wakeboad Tutorial: Moving Around/Edging (video)",
-              "url": "https://youtu.be/mSJ8x0vXkWk"
+              "url": "https://youtu.be/mSJ8x0vXkWk",
+              "type": "video"
             },
             {
               "title": "How To Carve and Cross the Wake (Wakeboard) (video)",
-              "url": "https://youtu.be/p1BbmMuDbQE"
+              "url": "https://youtu.be/p1BbmMuDbQE",
+              "type": "video"
             },
             {
               "title": "How To Get Started in Water Skiing (video)",
-              "url": "https://youtu.be/0wsEnL763c4"
+              "url": "https://youtu.be/0wsEnL763c4",
+              "type": "video"
             }
           ],
           "sub_requirements": []

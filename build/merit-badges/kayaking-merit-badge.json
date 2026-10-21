@@ -51,11 +51,13 @@
           "resources": [
             {
               "title": "Kayaking Tips—Cold Water and Winter Paddling (Wear, Gear, and Risks) (video)",
-              "url": "https://youtu.be/xUUX1VI7i1I"
+              "url": "https://youtu.be/xUUX1VI7i1I",
+              "type": "video"
             },
             {
               "title": "Top 5 Kayak Safety Rules for Beginners (video)",
-              "url": "https://youtu.be/WMU4jNmlCQA"
+              "url": "https://youtu.be/WMU4jNmlCQA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -78,19 +80,23 @@
           "resources": [
             {
               "title": "OSHA Heat Illness Prevention Campaign (video)",
-              "url": "https://youtu.be/Kr2ouLj1oW0"
+              "url": "https://youtu.be/Kr2ouLj1oW0",
+              "type": "video"
             },
             {
               "title": "How To Treat a Sunburn (video)",
-              "url": "https://youtu.be/u0sLzfq_w9s"
+              "url": "https://youtu.be/u0sLzfq_w9s",
+              "type": "video"
             },
             {
               "title": "First Aid Kit for Kayaking—What's in It? (video)",
-              "url": "https://youtu.be/iLbL7fffGAk"
+              "url": "https://youtu.be/iLbL7fffGAk",
+              "type": "video"
             },
             {
               "title": "Cold Water Shock—How To Deal With Cold Water Shock (video)",
-              "url": "https://youtu.be/rH3gZuSr6Y8"
+              "url": "https://youtu.be/rH3gZuSr6Y8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -113,7 +119,8 @@
           "resources": [
             {
               "title": "Safety Afloat (website)",
-              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/"
+              "url": "https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -123,7 +130,7 @@
     {
       "id": "8982",
       "label": "2",
-      "text": "Before doing requirements 3 through 8, successfully complete the Scouting America swimmer test. Note: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
+      "text": "Before doing requirements 3 through 8, successfully complete the Scouting America swimmer test.\nNote: See the Swimming merit badge pamphlet for details about the Scouting America swimmer test.",
       "requirement_path": "2",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -133,6 +140,12 @@
         {
           "type": "text",
           "value": "Before doing requirements 3 through 8, successfully complete the Scouting America swimmer test. "
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
         },
         {
           "type": "element",
@@ -168,7 +181,8 @@
       "resources": [
         {
           "title": "Swimming Merit Badge Pamphlet (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf",
+          "type": "document"
         }
       ],
       "sub_requirements": []
@@ -213,7 +227,8 @@
           "resources": [
             {
               "title": "How To Choose the Right Life Jacket (video)",
-              "url": "https://youtu.be/4y9XPNy1L1U"
+              "url": "https://youtu.be/4y9XPNy1L1U",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -236,15 +251,18 @@
           "resources": [
             {
               "title": "Essential Gear That All Paddlers Need To Carry On the Water (video)",
-              "url": "https://youtu.be/L7DkmwqfcLI"
+              "url": "https://youtu.be/L7DkmwqfcLI",
+              "type": "video"
             },
             {
               "title": "Kayak Safety: How To Use a Kayak Bilge Pump (How To Get Water out of Your Kayak) (video)",
-              "url": "https://youtu.be/-z_h6ShvsHU"
+              "url": "https://youtu.be/-z_h6ShvsHU",
+              "type": "video"
             },
             {
               "title": "Must Have Paddling Safety Gear | How To Kayak or Canoe (video)",
-              "url": "https://youtu.be/xcl4I8V2Pfg"
+              "url": "https://youtu.be/xcl4I8V2Pfg",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -291,7 +309,8 @@
           "resources": [
             {
               "title": "Kayak Overview (video)",
-              "url": "https://youtu.be/JJGYUG8Bfxc"
+              "url": "https://youtu.be/JJGYUG8Bfxc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -314,7 +333,8 @@
           "resources": [
             {
               "title": "How To Choose the Right Kayak for All Types of Flatwater Paddlers (video)",
-              "url": "https://youtu.be/2xlCx8ckfR8"
+              "url": "https://youtu.be/2xlCx8ckfR8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -337,7 +357,8 @@
           "resources": [
             {
               "title": "How To Clean and Maintain Your Kayak (video)",
-              "url": "https://youtu.be/DThGAXJ8hM8"
+              "url": "https://youtu.be/DThGAXJ8hM8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -384,11 +405,13 @@
           "resources": [
             {
               "title": "How To Hold a Kayak Paddle (video)",
-              "url": "https://youtu.be/RZLtB7BmNAc"
+              "url": "https://youtu.be/RZLtB7BmNAc",
+              "type": "video"
             },
             {
               "title": "Proper Technique for Paddling a Kayak (video)",
-              "url": "https://youtu.be/v0-efrwppWQ"
+              "url": "https://youtu.be/v0-efrwppWQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -411,7 +434,8 @@
           "resources": [
             {
               "title": "Kayak Paddles (website)",
-              "url": "https://www.boat-ed.com/paddlesports/paddlesports/studyGuide/Kayak-Paddles/11109901_52043/"
+              "url": "https://www.boat-ed.com/paddlesports/paddlesports/studyGuide/Kayak-Paddles/11109901_52043/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -434,7 +458,8 @@
           "resources": [
             {
               "title": "Kayak Paddle Maintenance (website)",
-              "url": "https://floridasplendors.com/kayak-paddle-maintenance-essential-tips/"
+              "url": "https://floridasplendors.com/kayak-paddle-maintenance-essential-tips/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -481,7 +506,8 @@
           "resources": [
             {
               "title": "Kayak Wet Exit—How To Get Out of Your Kayak (video)",
-              "url": "https://youtu.be/blJFzirv3-E"
+              "url": "https://youtu.be/blJFzirv3-E",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -504,19 +530,23 @@
           "resources": [
             {
               "title": "How To Re-Enter a Sit Inside Kayak for Beginners (video)",
-              "url": "https://youtu.be/O_-a5ngnRew"
+              "url": "https://youtu.be/O_-a5ngnRew",
+              "type": "video"
             },
             {
               "title": "Sea Kayak T-Rescue: Deep Water Rescue / How To Get Back in Your Kayak With Help (video)",
-              "url": "https://youtu.be/YSRCAdCSj8Q"
+              "url": "https://youtu.be/YSRCAdCSj8Q",
+              "type": "video"
             },
             {
               "title": "Master the Sea Kayak Scoop Rescue for Injured Paddlers (video)",
-              "url": "https://youtu.be/wE5y_DW2h04"
+              "url": "https://youtu.be/wE5y_DW2h04",
+              "type": "video"
             },
             {
               "title": "Heel Hook—Kayak Rescue (video)",
-              "url": "https://youtu.be/j-zpJQeiaNc"
+              "url": "https://youtu.be/j-zpJQeiaNc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -539,7 +569,8 @@
           "resources": [
             {
               "title": "Sea Kayak T-Rescue: Deep Water Rescue / How To Get Back in Your Kayak With Help (video)",
-              "url": "https://youtu.be/YSRCAdCSj8Q"
+              "url": "https://youtu.be/YSRCAdCSj8Q",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -562,7 +593,8 @@
           "resources": [
             {
               "title": "Help/Huddle Position (video)",
-              "url": "https://youtu.be/Z5X1K1I8xEc"
+              "url": "https://youtu.be/Z5X1K1I8xEc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -585,7 +617,8 @@
           "resources": [
             {
               "title": "White Water Kayak—Swim to Shore (video)",
-              "url": "https://youtu.be/ykvS7iHeC_g"
+              "url": "https://youtu.be/ykvS7iHeC_g",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -632,7 +665,8 @@
           "resources": [
             {
               "title": "Kayak Forward Stroke (video)",
-              "url": "https://youtu.be/yz00070X04o"
+              "url": "https://youtu.be/yz00070X04o",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -655,7 +689,8 @@
           "resources": [
             {
               "title": "Kayak Reverse Stroke (video)",
-              "url": "https://youtu.be/O-feCLPf-qw"
+              "url": "https://youtu.be/O-feCLPf-qw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -678,7 +713,8 @@
           "resources": [
             {
               "title": "Kayak Sweep Strokes (video)",
-              "url": "https://youtu.be/GWpaWh8AcZw"
+              "url": "https://youtu.be/GWpaWh8AcZw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -701,7 +737,8 @@
           "resources": [
             {
               "title": "Kayak Reverse Stroke (video)",
-              "url": "https://youtu.be/O-feCLPf-qw"
+              "url": "https://youtu.be/O-feCLPf-qw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -724,7 +761,8 @@
           "resources": [
             {
               "title": "Kayak Draw Stroke—In Water Recovery (video)",
-              "url": "https://youtu.be/H3G8Viju93I"
+              "url": "https://youtu.be/H3G8Viju93I",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -747,7 +785,8 @@
           "resources": [
             {
               "title": "Stern Draw (video)",
-              "url": "https://youtu.be/0bWe37-jaD8"
+              "url": "https://youtu.be/0bWe37-jaD8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -794,7 +833,8 @@
           "resources": [
             {
               "title": "Paddling a Kayak in a Straight Line (video)",
-              "url": "https://youtu.be/7CThukQ8b0s"
+              "url": "https://youtu.be/7CThukQ8b0s",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -817,7 +857,8 @@
           "resources": [
             {
               "title": "Fast Sea Kayak Turn—Turning a Sea Kayak 180 Degrees Efficiently (video)",
-              "url": "https://youtu.be/eKGsnIat1NQ"
+              "url": "https://youtu.be/eKGsnIat1NQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -840,7 +881,8 @@
           "resources": [
             {
               "title": "How To Turn a Kayak (video)",
-              "url": "https://youtu.be/1j1DuKmZk1o"
+              "url": "https://youtu.be/1j1DuKmZk1o",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -863,7 +905,8 @@
           "resources": [
             {
               "title": "Paddle Strokes, the Emergency Stopping Procedure (video)",
-              "url": "https://youtu.be/kRUpSLUFMII"
+              "url": "https://youtu.be/kRUpSLUFMII",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -904,7 +947,8 @@
           "resources": [
             {
               "title": "Reverse Stroke (video)",
-              "url": "https://youtu.be/O-feCLPf-qw"
+              "url": "https://youtu.be/O-feCLPf-qw",
+              "type": "video"
             }
           ],
           "sub_requirements": []

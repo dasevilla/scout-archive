@@ -90,11 +90,13 @@
       "resources": [
         {
           "title": "Reptiles of the United States (website)",
-          "url": "https://www.inaturalist.org/places/united-states#taxon=26036"
+          "url": "https://www.inaturalist.org/places/united-states#taxon=26036",
+          "type": "website"
         },
         {
           "title": "Amphibians of the United States (website)",
-          "url": "https://www.inaturalist.org/places/united-states#taxon=20978"
+          "url": "https://www.inaturalist.org/places/united-states#taxon=20978",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -117,7 +119,8 @@
       "resources": [
         {
           "title": "Find Amphibian and Reptile Species in Your Area (website)",
-          "url": "https://geonarrative.usgs.gov/amphibianreptileexplorer/"
+          "url": "https://geonarrative.usgs.gov/amphibianreptileexplorer/",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -162,11 +165,13 @@
           "resources": [
             {
               "title": "Reptiles vs Amphibians: (video)",
-              "url": "https://www.youtube.com/watch?v=6MsTbQi19SA"
+              "url": "https://www.youtube.com/watch?v=6MsTbQi19SA",
+              "type": "video"
             },
             {
               "title": "What's the Difference Between Reptiles and Amphibians? (video)",
-              "url": "https://www.youtube.com/watch?v=j1vMyuYBqA4&t=54s"
+              "url": "https://www.youtube.com/watch?v=j1vMyuYBqA4&t=54s",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -189,7 +194,8 @@
           "resources": [
             {
               "title": "Alligator or Crocodile - What's the Difference? (video)",
-              "url": "https://youtu.be/oins54YQGYI?si=k7YJDZxBk91z5IkW"
+              "url": "https://youtu.be/oins54YQGYI?si=k7YJDZxBk91z5IkW",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -212,15 +218,18 @@
           "resources": [
             {
               "title": "Differences Between Frogs & Toads (video)",
-              "url": "https://www.youtube.com/watch?v=O7QaL3xehRw"
+              "url": "https://www.youtube.com/watch?v=O7QaL3xehRw",
+              "type": "video"
             },
             {
               "title": "What Is the Difference Between Frogs and Toads? (video)",
-              "url": "https://www.youtube.com/watch?v=mM59TQOPDYQ"
+              "url": "https://www.youtube.com/watch?v=mM59TQOPDYQ",
+              "type": "video"
             },
             {
               "title": "Frogs and Toads: What's the Difference? (video)",
-              "url": "https://www.youtube.com/watch?v=IF0EWfbevrM"
+              "url": "https://www.youtube.com/watch?v=IF0EWfbevrM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -243,7 +252,8 @@
           "resources": [
             {
               "title": "How Are Snakes Different From Lizards? (video)",
-              "url": "https://youtu.be/MMFcutNSKZk?si=u6Ux_2x9TxmepTJp"
+              "url": "https://youtu.be/MMFcutNSKZk?si=u6Ux_2x9TxmepTJp",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -268,19 +278,23 @@
       "resources": [
         {
           "title": "Ecological Roles of Reptiles and Amphibians (website with videos)",
-          "url": "https://www.online-field-guide.com/ecological-roles-of-reptiles-and-amphibians/"
+          "url": "https://www.online-field-guide.com/ecological-roles-of-reptiles-and-amphibians/",
+          "type": "website"
         },
         {
           "title": "Dying for Protection: Amphibians and Reptiles (video)",
-          "url": "https://youtu.be/dQpHqkAvNnc?si=2E6kp1GO8McIHRsI"
+          "url": "https://youtu.be/dQpHqkAvNnc?si=2E6kp1GO8McIHRsI",
+          "type": "video"
         },
         {
           "title": "Search for Endangered Species in Your Area | U.S. Fish & Wildlife Service (website)",
-          "url": "https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report?kingdom=V&kingdom=I&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&header=Listed+Animals"
+          "url": "https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report?kingdom=V&kingdom=I&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&header=Listed+Animals",
+          "type": "website"
         },
         {
           "title": "Feeding Our Amphibians (video)",
-          "url": "https://www.youtube.com/watch?v=baY4dzLSWlY"
+          "url": "https://www.youtube.com/watch?v=baY4dzLSWlY",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -303,19 +317,23 @@
       "resources": [
         {
           "title": "Reptile vs Amphibian (video)",
-          "url": "https://youtu.be/GKM_mDDPJh0"
+          "url": "https://youtu.be/GKM_mDDPJh0",
+          "type": "video"
         },
         {
           "title": "Lifecycle of an Amphibian (Frog) (video)",
-          "url": "https://youtu.be/sZnvgGmvuVs"
+          "url": "https://youtu.be/sZnvgGmvuVs",
+          "type": "video"
         },
         {
           "title": "How Lizards Reproduce (video)",
-          "url": "https://youtu.be/ACEpFX2Dnmk"
+          "url": "https://youtu.be/ACEpFX2Dnmk",
+          "type": "video"
         },
         {
           "title": "What Are Oviparous and Viviparous Snakes? (video)",
-          "url": "https://youtu.be/KFCfL99rHpw"
+          "url": "https://youtu.be/KFCfL99rHpw",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -338,11 +356,13 @@
       "resources": [
         {
           "title": "How Snakes Move! (They Don't Just Slither!) (video)",
-          "url": "https://www.youtube.com/watch?v=7-AKPFiIEEw"
+          "url": "https://www.youtube.com/watch?v=7-AKPFiIEEw",
+          "type": "video"
         },
         {
           "title": "How Do Snakes Move? (video)",
-          "url": "https://www.youtube.com/watch?v=aPV0HpPRH2A"
+          "url": "https://www.youtube.com/watch?v=aPV0HpPRH2A",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -365,7 +385,8 @@
       "resources": [
         {
           "title": "The Most VENOMOUS Snakes in the US (video)",
-          "url": "https://youtu.be/guMzO7vzMT0?si=3thQ8FQdwoEHXV75"
+          "url": "https://youtu.be/guMzO7vzMT0?si=3thQ8FQdwoEHXV75",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -410,7 +431,8 @@
           "resources": [
             {
               "title": "Pet Journaling: Track Your Pet's Needs and Your Time Efficiently (website)",
-              "url": "https://fluent-time-management.com/pet-journaling-track-your-pets-needs-and-your-time-efficiently/"
+              "url": "https://fluent-time-management.com/pet-journaling-track-your-pets-needs-and-your-time-efficiently/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -507,7 +529,8 @@
           "resources": [
             {
               "title": "Frog Sounds: Why They Make Them (Examples) (video)",
-              "url": "https://youtu.be/74-vaZv54s8?si=7ClcX_Akwhjh0A_T"
+              "url": "https://youtu.be/74-vaZv54s8?si=7ClcX_Akwhjh0A_T",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -530,11 +553,13 @@
           "resources": [
             {
               "title": "Reptiles of the United States (website)",
-              "url": "https://www.inaturalist.org/places/united-states#taxon=26036"
+              "url": "https://www.inaturalist.org/places/united-states#taxon=26036",
+              "type": "website"
             },
             {
               "title": "Amphibians of the United States (website)",
-              "url": "https://www.inaturalist.org/places/united-states#taxon=20978"
+              "url": "https://www.inaturalist.org/places/united-states#taxon=20978",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -577,7 +602,8 @@
       "resources": [
         {
           "title": "Debunking Common Reptile and Amphibian Myths & Misconceptions (video)",
-          "url": "https://www.youtube.com/watch?v=Nz6VQSlr9mI"
+          "url": "https://www.youtube.com/watch?v=Nz6VQSlr9mI",
+          "type": "video"
         }
       ],
       "sub_requirements": []

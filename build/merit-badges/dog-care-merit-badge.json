@@ -76,11 +76,13 @@
           "resources": [
             {
               "title": "A Brief History of Dogs (video)",
-              "url": "https://www.youtube.com/watch?v=8_KWmzLObQ4"
+              "url": "https://www.youtube.com/watch?v=8_KWmzLObQ4",
+              "type": "video"
             },
             {
               "title": "The Origin of Dogs (video)",
-              "url": "https://www.youtube.com/watch?v=4doKA0VpKgc"
+              "url": "https://www.youtube.com/watch?v=4doKA0VpKgc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -103,11 +105,13 @@
           "resources": [
             {
               "title": "Dog Breed Groups (video)",
-              "url": "https://www.youtube.com/watch?v=CITzpWbTSE8"
+              "url": "https://www.youtube.com/watch?v=CITzpWbTSE8",
+              "type": "video"
             },
             {
               "title": "7 Different Groups of Basic Dog Breeds (website)",
-              "url": "https://petcontrolhq.com/en-us/pages/different-dog-breed-types?srsltid=AfmBOoriR8nmRFZgjdYVNRzqBBq5JrrEedlNFCFNmHuWf31yizOyEUx_"
+              "url": "https://petcontrolhq.com/en-us/pages/different-dog-breed-types?srsltid=AfmBOoriR8nmRFZgjdYVNRzqBBq5JrrEedlNFCFNmHuWf31yizOyEUx_",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -130,7 +134,8 @@
           "resources": [
             {
               "title": "7 Groups of Dog Breeds! (video)",
-              "url": "https://www.youtube.com/watch?v=RqIpI3QhEFs"
+              "url": "https://www.youtube.com/watch?v=RqIpI3QhEFs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -155,7 +160,8 @@
       "resources": [
         {
           "title": "Basic Dog Anatomy (video)",
-          "url": "https://youtu.be/ydzIvqvSKdk?si=uJiETon8SHdKagVg"
+          "url": "https://youtu.be/ydzIvqvSKdk?si=uJiETon8SHdKagVg",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -200,7 +206,8 @@
           "resources": [
             {
               "title": "How Important is Dog Training and Socialization? (video)",
-              "url": "https://www.youtube.com/watch?v=bwB7qNdifP4"
+              "url": "https://www.youtube.com/watch?v=bwB7qNdifP4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -223,7 +230,8 @@
           "resources": [
             {
               "title": "Pet Protector - Responsible Pet Ownership (video)",
-              "url": "https://www.youtube.com/watch?v=R_0HgVBhwBM"
+              "url": "https://www.youtube.com/watch?v=R_0HgVBhwBM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -246,11 +254,13 @@
           "resources": [
             {
               "title": "How to Pick the Right Dog for You! (video)",
-              "url": "https://www.youtube.com/watch?v=l0JWJDFmacs"
+              "url": "https://www.youtube.com/watch?v=l0JWJDFmacs",
+              "type": "video"
             },
             {
               "title": "Top 10 Dogs for First Time Owners (video)",
-              "url": "https://www.youtube.com/watch?v=_JRKX18rTbA"
+              "url": "https://www.youtube.com/watch?v=_JRKX18rTbA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -275,7 +285,8 @@
       "resources": [
         {
           "title": "How to Keep Track of Pet Care (video)",
-          "url": "https://youtu.be/rS4dprT0rg0?si=wZQbDaOU29oFYKDa"
+          "url": "https://youtu.be/rS4dprT0rg0?si=wZQbDaOU29oFYKDa",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -283,7 +294,7 @@
     {
       "id": "13021",
       "label": "5",
-      "text": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" and \"drop it.\" Resources: 10 Most Basic Commands Every Dog Owner Should Know (video)\nHow To Teach Your Dog the Basics (video)",
+      "text": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" and \"drop it.\"",
       "requirement_path": "5",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -292,46 +303,21 @@
       "content": [
         {
           "type": "text",
-          "value": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" and \"drop it.\" Resources: "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/eHbcb2EQC88"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "10 Most Basic Commands Every Dog Owner Should Know (video)"
-            }
-          ]
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "text",
-          "value": " "
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://youtu.be/lUzcA9qa_P8"
-          },
-          "children": [
-            {
-              "type": "text",
-              "value": "How To Teach Your Dog the Basics (video)"
-            }
-          ]
+          "value": "Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch,\" \"get it,\" and \"drop it.\""
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "10 Most Basic Commands Every Dog Owner Should Know (video)",
+          "url": "https://youtu.be/eHbcb2EQC88",
+          "type": "video"
+        },
+        {
+          "title": "How To Teach Your Dog the Basics (video)",
+          "url": "https://youtu.be/lUzcA9qa_P8",
+          "type": "video"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -374,7 +360,8 @@
           "resources": [
             {
               "title": "Puppy Vaccinations 101: What, When, and Why (video)",
-              "url": "https://www.youtube.com/watch?v=BnVVSciMymE"
+              "url": "https://www.youtube.com/watch?v=BnVVSciMymE",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -397,7 +384,8 @@
           "resources": [
             {
               "title": "How to Treat Fleas, Ticks & Worms in Dogs (video)",
-              "url": "https://www.youtube.com/watch?v=NdykIsBmmao"
+              "url": "https://www.youtube.com/watch?v=NdykIsBmmao",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -420,7 +408,8 @@
           "resources": [
             {
               "title": "Dental Health Important for Your Pet Dogs (video)",
-              "url": "https://www.youtube.com/watch?v=Qm92tNqrNAU"
+              "url": "https://www.youtube.com/watch?v=Qm92tNqrNAU",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -443,7 +432,8 @@
           "resources": [
             {
               "title": "Everything You Need to Know About Dog Grooming (video)",
-              "url": "https://www.youtube.com/watch?v=73abRtKHDfI"
+              "url": "https://www.youtube.com/watch?v=73abRtKHDfI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -466,11 +456,13 @@
           "resources": [
             {
               "title": "Hot Weather Tips for Dogs! (video)",
-              "url": "https://www.youtube.com/shorts/JsnPl3mvgG4"
+              "url": "https://www.youtube.com/shorts/JsnPl3mvgG4",
+              "type": "video"
             },
             {
               "title": "Winter Weather - Pet Safety Tips (video)",
-              "url": "https://www.youtube.com/watch?v=P7nVESKP_sA"
+              "url": "https://www.youtube.com/watch?v=P7nVESKP_sA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -493,11 +485,13 @@
           "resources": [
             {
               "title": "Spaying and Neutering Pets: Myths Debunked & Health Benefits Explained (video)",
-              "url": "https://www.youtube.com/watch?v=H9r9J3zlGZI"
+              "url": "https://www.youtube.com/watch?v=H9r9J3zlGZI",
+              "type": "video"
             },
             {
               "title": "To Neuter or Not? (video)",
-              "url": "https://youtu.be/SaQRnYbco5M?si=8BgNtVlMOUSq_8Dd"
+              "url": "https://youtu.be/SaQRnYbco5M?si=8BgNtVlMOUSq_8Dd",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -544,7 +538,8 @@
           "resources": [
             {
               "title": "How to Be Safe When Handling a Sick or Injured Dog (video)",
-              "url": "https://www.youtube.com/watch?v=7JP3IFdClU8"
+              "url": "https://www.youtube.com/watch?v=7JP3IFdClU8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -567,7 +562,8 @@
           "resources": [
             {
               "title": "How Do I Safely Muzzle a Pet in an Emergency? (video)",
-              "url": "https://www.youtube.com/watch?v=E7_77X7hAqQ"
+              "url": "https://www.youtube.com/watch?v=E7_77X7hAqQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -590,7 +586,8 @@
           "resources": [
             {
               "title": "First Aid for Dog Bites (video)",
-              "url": "https://www.youtube.com/watch?v=J5AeWWQ3eN0"
+              "url": "https://www.youtube.com/watch?v=J5AeWWQ3eN0",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -613,7 +610,8 @@
           "resources": [
             {
               "title": "Pet First Aid: How to Bandage Your Pet's Paw in Case of Emergency (video)",
-              "url": "https://www.youtube.com/watch?v=s7ZvhxUv8HU"
+              "url": "https://www.youtube.com/watch?v=s7ZvhxUv8HU",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -636,7 +634,8 @@
           "resources": [
             {
               "title": "What to Do to Help a Dog Hit by a Car (video)",
-              "url": "https://www.youtube.com/watch?v=Zidt9dhMEZ4"
+              "url": "https://www.youtube.com/watch?v=Zidt9dhMEZ4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -659,11 +658,13 @@
           "resources": [
             {
               "title": "DIY Dog First Aid Kit - Basics and Beyond (video)",
-              "url": "https://www.youtube.com/watch?v=Cz_ogJQhWmo"
+              "url": "https://www.youtube.com/watch?v=Cz_ogJQhWmo",
+              "type": "video"
             },
             {
               "title": "What to Put in a Dog First Aid Kit for Hiking (video)",
-              "url": "https://www.youtube.com/watch?v=7sszmRkdOyM"
+              "url": "https://www.youtube.com/watch?v=7sszmRkdOyM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -686,11 +687,13 @@
           "resources": [
             {
               "title": "8 Risks of Treating Your Pet (website)",
-              "url": "https://www.petmd.com/dog/care/8-risks-treating-your-pet-home"
+              "url": "https://www.petmd.com/dog/care/8-risks-treating-your-pet-home",
+              "type": "website"
             },
             {
               "title": "Dangers of Dr. Google (website)",
-              "url": "https://www.thedrakecenter.com/services/blog/diagnosing-and-treating-your-own-pet-dangers-dr-google"
+              "url": "https://www.thedrakecenter.com/services/blog/diagnosing-and-treating-your-own-pet-dangers-dr-google",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -713,15 +716,18 @@
           "resources": [
             {
               "title": "Rabies Information (video)",
-              "url": "https://www.youtube.com/watch?v=_tMORbU5c3Y"
+              "url": "https://www.youtube.com/watch?v=_tMORbU5c3Y",
+              "type": "video"
             },
             {
               "title": "Parvo Information (video)",
-              "url": "https://www.youtube.com/watch?v=7pBKnJQlwSQ"
+              "url": "https://www.youtube.com/watch?v=7pBKnJQlwSQ",
+              "type": "video"
             },
             {
               "title": "Disease Risks for Dogs in Social Settings (website)",
-              "url": "https://www.avma.org/resources-tools/pet-owners/petcare/disease-risks-dogs-social-settings"
+              "url": "https://www.avma.org/resources-tools/pet-owners/petcare/disease-risks-dogs-social-settings",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -746,11 +752,13 @@
       "resources": [
         {
           "title": "Small Animal Hospital Virtual Tour (video)",
-          "url": "https://www.youtube.com/watch?v=O_R3raXyB8s"
+          "url": "https://www.youtube.com/watch?v=O_R3raXyB8s",
+          "type": "video"
         },
         {
           "title": "What is an Animal Shelter (video)",
-          "url": "https://www.youtube.com/watch?v=_CIC1OXl2u0"
+          "url": "https://www.youtube.com/watch?v=_CIC1OXl2u0",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -773,7 +781,8 @@
       "resources": [
         {
           "title": "Michigan's Animal Control Laws (video)",
-          "url": "https://www.youtube.com/watch?v=Hr7n_5GCiUk"
+          "url": "https://www.youtube.com/watch?v=Hr7n_5GCiUk",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -818,19 +827,23 @@
           "resources": [
             {
               "title": "What Is the Difference Between Dog Training Certification Programs? | Animal Care Jobs (video)",
-              "url": "https://www.youtube.com/watch?v=aDYaE4d_H94"
+              "url": "https://www.youtube.com/watch?v=aDYaE4d_H94",
+              "type": "video"
             },
             {
               "title": "Is Vet School Right for You? (video)",
-              "url": "https://youtu.be/Nn3IE61JM00?si=lEr2OMOa_AuiW_FJ"
+              "url": "https://youtu.be/Nn3IE61JM00?si=lEr2OMOa_AuiW_FJ",
+              "type": "video"
             },
             {
               "title": "Careers in Dogs - Skills Needed in Careers With Dogs (website)",
-              "url": "https://www.akc.org/public-education/resources/dog-related-career-skills/"
+              "url": "https://www.akc.org/public-education/resources/dog-related-career-skills/",
+              "type": "website"
             },
             {
               "title": "Becoming a Pet Groomer (video)",
-              "url": "https://www.youtube.com/watch?v=86eSPiTckRA"
+              "url": "https://www.youtube.com/watch?v=86eSPiTckRA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -853,15 +866,18 @@
           "resources": [
             {
               "title": "9 Dog-Friendly Hobbies To Strengthen Your Connection With Your Pup (website)",
-              "url": "https://thenatureofhome.com/dog-friendly-hobbies/"
+              "url": "https://thenatureofhome.com/dog-friendly-hobbies/",
+              "type": "website"
             },
             {
               "title": "Dog Carving (video)",
-              "url": "https://www.youtube.com/shorts/bRJr3fVXGnU"
+              "url": "https://www.youtube.com/shorts/bRJr3fVXGnU",
+              "type": "video"
             },
             {
               "title": "Puppy Raising for the Blind (website)",
-              "url": "https://www.guidingeyes.org/puppy-raising/"
+              "url": "https://www.guidingeyes.org/puppy-raising/",
+              "type": "website"
             }
           ],
           "sub_requirements": []

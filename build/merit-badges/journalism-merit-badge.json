@@ -29,23 +29,28 @@
       "resources": [
         {
           "title": "Freedom of the Press in the United States (video)",
-          "url": "https://youtu.be/sserJ8x1Ec0"
+          "url": "https://youtu.be/sserJ8x1Ec0",
+          "type": "video"
         },
         {
           "title": "What Are Libel and Slander? (video)",
-          "url": "https://youtu.be/yqJKIjHT3RM"
+          "url": "https://youtu.be/yqJKIjHT3RM",
+          "type": "video"
         },
         {
           "title": "How To Identify Fact vs Opinion in Writing & Research (video)",
-          "url": "https://youtu.be/BTZjqOU_6Vc"
+          "url": "https://youtu.be/BTZjqOU_6Vc",
+          "type": "video"
         },
         {
           "title": "Understanding News Media: Fact vs. Opinion (PDF)",
-          "url": "https://nynpa.com/docs/nie/newsmedia/FactvsOpinion.pdf"
+          "url": "https://nynpa.com/docs/nie/newsmedia/FactvsOpinion.pdf",
+          "type": "document"
         },
         {
           "title": "Fair Comment and Criticism (website)",
-          "url": "https://simplyglobalmedia.com/media-law-and-ethics-glossary/fair-comment-and-criticism/"
+          "url": "https://simplyglobalmedia.com/media-law-and-ethics-glossary/fair-comment-and-criticism/",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -187,7 +192,13 @@
                   "value": ")"
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Scout Life magazine",
+                  "url": "https://scoutlife.org/contact-us/journalismvisit/",
+                  "type": "website"
+                }
+              ],
               "sub_requirements": []
             }
           ]
@@ -296,11 +307,13 @@
       "resources": [
         {
           "title": "Feature Writing vs News Writing (video)",
-          "url": "https://youtu.be/RTTQ4wgFPW8"
+          "url": "https://youtu.be/RTTQ4wgFPW8",
+          "type": "video"
         },
         {
           "title": "What Are the 5 W's and H in Journalism? (video)",
-          "url": "https://youtu.be/YMPjDqzTElU"
+          "url": "https://youtu.be/YMPjDqzTElU",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -376,7 +389,8 @@
           "resources": [
             {
               "title": "What Is the Inverted Pyramid? (video)",
-              "url": "https://youtu.be/05wi-BfLDRU"
+              "url": "https://youtu.be/05wi-BfLDRU",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -441,7 +455,8 @@
           "resources": [
             {
               "title": "How To Write Scripts For Your Podcast (video)",
-              "url": "https://youtu.be/eN5YBgu34Fo"
+              "url": "https://youtu.be/eN5YBgu34Fo",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -464,7 +479,8 @@
           "resources": [
             {
               "title": "What Is Photojournalism? (video)",
-              "url": "https://youtu.be/fLeii6OSIAk"
+              "url": "https://youtu.be/fLeii6OSIAk",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -489,19 +505,23 @@
       "resources": [
         {
           "title": "How To Become a Journalist (video)",
-          "url": "https://youtu.be/AiV26v4hkLs"
+          "url": "https://youtu.be/AiV26v4hkLs",
+          "type": "video"
         },
         {
           "title": "What Can I Do With a Journalism Degree? (video)",
-          "url": "https://youtu.be/arUtMrYr_zI"
+          "url": "https://youtu.be/arUtMrYr_zI",
+          "type": "video"
         },
         {
           "title": "26 Jobs for Journalism Majors (Wordsmith Careers Await) (website)",
-          "url": "https://interviewguy.com/jobs-for-journalism-majors/"
+          "url": "https://interviewguy.com/jobs-for-journalism-majors/",
+          "type": "website"
         },
         {
           "title": "What Can You Do With a Journalism Degree? (website)",
-          "url": "https://www.extern.com/post/what-can-you-do-with-a-journalism-degree-guide"
+          "url": "https://www.extern.com/post/what-can-you-do-with-a-journalism-degree-guide",
+          "type": "website"
         }
       ],
       "sub_requirements": []

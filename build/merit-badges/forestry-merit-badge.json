@@ -38,11 +38,13 @@
       "resources": [
         {
           "title": "How To Press Leaves (video)",
-          "url": "https://youtu.be/06nhKenT410"
+          "url": "https://youtu.be/06nhKenT410",
+          "type": "video"
         },
         {
           "title": "Best Tree ID Apps Reviewed (app)",
-          "url": "https://youtu.be/AtoSxXlRzsM"
+          "url": "https://youtu.be/AtoSxXlRzsM",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -142,11 +144,13 @@
           "resources": [
             {
               "title": "How to Identify Wood Species (video)",
-              "url": "https://youtu.be/HKU8EKGSsHY"
+              "url": "https://youtu.be/HKU8EKGSsHY",
+              "type": "video"
             },
             {
               "title": "Mississippi State University  Wood ID Team (video)",
-              "url": "https://youtu.be/Lj5MPkEsuSY"
+              "url": "https://youtu.be/Lj5MPkEsuSY",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -169,11 +173,13 @@
           "resources": [
             {
               "title": "Reading a Tree's Stump (video)",
-              "url": "https://youtu.be/7zMWaFRRExI"
+              "url": "https://youtu.be/7zMWaFRRExI",
+              "type": "video"
             },
             {
               "title": "Aging of Trees; Studying Tree Rings (video)",
-              "url": "https://youtu.be/8qtlZk8QFRw"
+              "url": "https://youtu.be/8qtlZk8QFRw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -196,15 +202,18 @@
           "resources": [
             {
               "title": "Ask an Arborist: How Do I Check for Tree Pests? (video)",
-              "url": "https://youtu.be/LUShQaEXmMA"
+              "url": "https://youtu.be/LUShQaEXmMA",
+              "type": "video"
             },
             {
               "title": "Why You Should Stomp Every Spotted Lanternfly (video)",
-              "url": "https://youtu.be/81edC7KdOCc"
+              "url": "https://youtu.be/81edC7KdOCc",
+              "type": "video"
             },
             {
               "title": "10 Pictures of Tree Diseases and Pests to Help You Spot Problems (website)",
-              "url": "https://www.bhg.com/gardening/pests/insects-diseases-weeds/tree-disease-photos/"
+              "url": "https://www.bhg.com/gardening/pests/insects-diseases-weeds/tree-disease-photos/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -234,11 +243,13 @@
       "resources": [
         {
           "title": "Top 10 Benefits of Forestry (website)",
-          "url": "https://orbisinc.com/top-10-benefits-of-forestry/"
+          "url": "https://orbisinc.com/top-10-benefits-of-forestry/",
+          "type": "website"
         },
         {
           "title": "How Forests Make Our Lives Better (video)",
-          "url": "https://youtu.be/QqDIMbWypDU"
+          "url": "https://youtu.be/QqDIMbWypDU",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -247,9 +258,9 @@
           "label": "a",
           "text": "Describe the contributions forests make to:",
           "requirement_path": "3.a",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Describe the contributions forests make to:",
@@ -428,7 +439,8 @@
           "resources": [
             {
               "title": "Watersheds! (video)",
-              "url": "https://youtu.be/2pwW2rlGIa8"
+              "url": "https://youtu.be/2pwW2rlGIa8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -475,7 +487,8 @@
           "resources": [
             {
               "title": "Managing Forests for Multi-Use (video)",
-              "url": "https://youtu.be/oBDnYd_745s"
+              "url": "https://youtu.be/oBDnYd_745s",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -498,7 +511,8 @@
           "resources": [
             {
               "title": "Serious Science: Sustainable Forests (video)",
-              "url": "https://youtu.be/oJa1uRSHNmA"
+              "url": "https://youtu.be/oJa1uRSHNmA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -521,7 +535,8 @@
           "resources": [
             {
               "title": "Akhlaq Wani Education and Nature Series? (video)",
-              "url": "https://youtu.be/em53n_v7V8g"
+              "url": "https://youtu.be/em53n_v7V8g",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -544,7 +559,8 @@
           "resources": [
             {
               "title": "Tree Thinning Explained (video)",
-              "url": "https://youtu.be/eqEPycreZUo"
+              "url": "https://youtu.be/eqEPycreZUo",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -567,11 +583,13 @@
           "resources": [
             {
               "title": "Prescribed Fire Explained (video)",
-              "url": "https://youtu.be/_835N77EK4g"
+              "url": "https://youtu.be/_835N77EK4g",
+              "type": "video"
             },
             {
               "title": "How Do We Minimize Risk of Catastrophic Wildfires (video)",
-              "url": "https://youtu.be/DFSxtFXRS8k"
+              "url": "https://youtu.be/DFSxtFXRS8k",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -618,7 +636,8 @@
           "resources": [
             {
               "title": "International Paper Managed Forest Tour (video)",
-              "url": "https://youtu.be/1iTvc_8AFVc"
+              "url": "https://youtu.be/1iTvc_8AFVc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -650,7 +669,8 @@
           "resources": [
             {
               "title": "A Possible Virtual Tour: Big Logging Equipment in Action (video)",
-              "url": "https://youtu.be/OBlcDZxHKXY"
+              "url": "https://youtu.be/OBlcDZxHKXY",
+              "type": "video"
             }
           ],
           "sub_requirements": [
@@ -800,7 +820,8 @@
           "resources": [
             {
               "title": "Your Home Can Survive a Wildfire (video)",
-              "url": "https://youtu.be/vL_syp1ZScM"
+              "url": "https://youtu.be/vL_syp1ZScM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -830,7 +851,8 @@
       "resources": [
         {
           "title": "Tree Risk Assessment (video)",
-          "url": "https://youtu.be/wGQmDkBVa64"
+          "url": "https://youtu.be/wGQmDkBVa64",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -912,31 +934,38 @@
           "resources": [
             {
               "title": "Wildfires (video)",
-              "url": "https://youtu.be/5hghT1W33cY"
+              "url": "https://youtu.be/5hghT1W33cY",
+              "type": "video"
             },
             {
               "title": "How Decades of Stopping Forest Fires Made Them Worse (video)",
-              "url": "https://youtu.be/0o6ezu_h6iE"
+              "url": "https://youtu.be/0o6ezu_h6iE",
+              "type": "video"
             },
             {
               "title": "How too Many Deer are Affecting Maryland's Forests (website)",
-              "url": "https://news.maryland.gov/dnr/2025/08/12/how-too-many-deer-are-harming-marylands-forests/"
+              "url": "https://news.maryland.gov/dnr/2025/08/12/how-too-many-deer-are-harming-marylands-forests/",
+              "type": "website"
             },
             {
               "title": "This Tiny Beetle Is Devastating Forests in the Worst Outbreak Ever (video)",
-              "url": "https://youtu.be/vR30qlK0-Cw"
+              "url": "https://youtu.be/vR30qlK0-Cw",
+              "type": "video"
             },
             {
               "title": "What Happens If You Cut Down All of a City's Trees? (video)",
-              "url": "https://youtu.be/zarll9bx6FI"
+              "url": "https://youtu.be/zarll9bx6FI",
+              "type": "video"
             },
             {
               "title": "Deforestation and Diseases: Why Disrupting Ecosystems May Put Us at Risk (video)",
-              "url": "https://youtu.be/mobzZtAafus"
+              "url": "https://youtu.be/mobzZtAafus",
+              "type": "video"
             },
             {
               "title": "How Do You Pollinate 40 Million Almond Trees? (video)",
-              "url": "https://youtu.be/ccS_ZwEoRgA"
+              "url": "https://youtu.be/ccS_ZwEoRgA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -977,7 +1006,8 @@
           "resources": [
             {
               "title": "Fire: Be Safe by Doing the Following (website)",
-              "url": "https://www.fs.usda.gov/visit/know-before-you-go/fire"
+              "url": "https://www.fs.usda.gov/visit/know-before-you-go/fire",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -1002,11 +1032,13 @@
       "resources": [
         {
           "title": "Forestry Degree Requirements (website)",
-          "url": "https://www.environmentalscience.org/degree/forestry"
+          "url": "https://www.environmentalscience.org/degree/forestry",
+          "type": "website"
         },
         {
           "title": "How to Become a Forester - Forestry Jobs, Forest Ecology, and Other Environmental Jobs! (video)",
-          "url": "https://youtu.be/NRloBRkwinc"
+          "url": "https://youtu.be/NRloBRkwinc",
+          "type": "video"
         }
       ],
       "sub_requirements": []

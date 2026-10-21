@@ -62,7 +62,8 @@
           "resources": [
             {
               "title": "Distracted Driving (video)",
-              "url": "https://youtu.be/zWdfeE2YsNc"
+              "url": "https://youtu.be/zWdfeE2YsNc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -85,11 +86,13 @@
           "resources": [
             {
               "title": "The Deadly Truth About Drinking and Driving (video)",
-              "url": "https://youtu.be/6uH75bY8Gd0"
+              "url": "https://youtu.be/6uH75bY8Gd0",
+              "type": "video"
             },
             {
               "title": "Blood Alcohol Content & Driving: What You Need to Know (video)",
-              "url": "https://youtu.be/1cs2t3SiSNw"
+              "url": "https://youtu.be/1cs2t3SiSNw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -112,11 +115,13 @@
           "resources": [
             {
               "title": "Recognizing Fatigue—Warning Signs (video)",
-              "url": "https://youtu.be/YhK2VLGYMng?si=YdLr0d7mJ020XzSV"
+              "url": "https://youtu.be/YhK2VLGYMng?si=YdLr0d7mJ020XzSV",
+              "type": "video"
             },
             {
               "title": "Driver Tiredness, Fatigue, and Road Safety (video)",
-              "url": "https://youtu.be/fVl88Q5DJ2w"
+              "url": "https://youtu.be/fVl88Q5DJ2w",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -139,11 +144,13 @@
           "resources": [
             {
               "title": "7 Common Mistakes New Drivers Make—and How to Avoid Them (website)",
-              "url": "https://studentdrivercarmagnets.com/blogs/news/common-driving-mistakes"
+              "url": "https://studentdrivercarmagnets.com/blogs/news/common-driving-mistakes",
+              "type": "website"
             },
             {
               "title": "Most Common Driving Mistakes to Avoid (video)",
-              "url": "https://youtu.be/Arrgxna3L2E"
+              "url": "https://youtu.be/Arrgxna3L2E",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -201,11 +208,13 @@
           "resources": [
             {
               "title": "How to Wear a Seat Belt Properly (video)",
-              "url": "https://youtu.be/Cq1auN7xtlo"
+              "url": "https://youtu.be/Cq1auN7xtlo",
+              "type": "video"
             },
             {
               "title": "Car Seat Safety (video)",
-              "url": "https://youtu.be/TPGjlzUenL0"
+              "url": "https://youtu.be/TPGjlzUenL0",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -228,7 +237,8 @@
           "resources": [
             {
               "title": "10 Car Safety Features That Every Car Must Have (video)",
-              "url": "https://youtu.be/D2kM8gEoGYY"
+              "url": "https://youtu.be/D2kM8gEoGYY",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -286,7 +296,8 @@
           "resources": [
             {
               "title": "Types of Car Lights & Their Purposes (video)",
-              "url": "https://youtu.be/8FW-7dfAIwQ"
+              "url": "https://youtu.be/8FW-7dfAIwQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -309,7 +320,8 @@
           "resources": [
             {
               "title": "How to Check Your Wipers (video)",
-              "url": "https://youtu.be/MmA6Cbn5vH8"
+              "url": "https://youtu.be/MmA6Cbn5vH8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -332,7 +344,8 @@
           "resources": [
             {
               "title": "How to Check Your Tires (video)",
-              "url": "https://youtu.be/2Tcvmp4Cqao"
+              "url": "https://youtu.be/2Tcvmp4Cqao",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -355,7 +368,8 @@
           "resources": [
             {
               "title": "Tire Inflator and Sealant Kit (video)",
-              "url": "https://youtu.be/X3kjWwCENX4"
+              "url": "https://youtu.be/X3kjWwCENX4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -363,7 +377,7 @@
         {
           "id": "16067",
           "label": "e",
-          "text": "In a location away from traffic hazards, mark off the reaction distances and braking distances that a car will travel as it makes an emergency stop at 25, 55, and 70 miles per hour on level dry and level wet pavement. Discuss how these distances change for normal and impaired drivers, for day and night driving, and for weather conditions. Note: Use the graphics template in the Traffic Safety merit badge pamphlet or one approved by your counselor to set up this demonstration.",
+          "text": "In a location away from traffic hazards, mark off the reaction distances and braking distances that a car will travel as it makes an emergency stop at 25, 55, and 70 miles per hour on level dry and level wet pavement. Discuss how these distances change for normal and impaired drivers, for day and night driving, and for weather conditions.\nNote: Use the graphics template in the Traffic Safety merit badge pamphlet or one approved by your counselor to set up this demonstration.",
           "requirement_path": "3.e",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -373,6 +387,18 @@
             {
               "type": "text",
               "value": "In a location away from traffic hazards, mark off the reaction distances and braking distances that a car will travel as it makes an emergency stop at 25, 55, and 70 miles per hour on level dry and level wet pavement. Discuss how these distances change for normal and impaired drivers, for day and night driving, and for weather conditions. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
             },
             {
               "type": "element",
@@ -408,15 +434,18 @@
           "resources": [
             {
               "title": "Stopping Distance Table and Graphs (PDF)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Traffic%20Safety/Stopping%20Distances%20Table%20and%20Graphs.pdf?_t=1764661254"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Traffic%20Safety/Stopping%20Distances%20Table%20and%20Graphs.pdf?_t=1764661254",
+              "type": "document"
             },
             {
               "title": "Thinking, Braking, and Stopping Distances (video)",
-              "url": "https://youtu.be/ZLHgYgEAPhY"
+              "url": "https://youtu.be/ZLHgYgEAPhY",
+              "type": "video"
             },
             {
               "title": "Stopping Distance Demonstration (video)",
-              "url": "https://youtu.be/3mDp0k8Nfjc?si=Zoy8bAbLADxtlsz3"
+              "url": "https://youtu.be/3mDp0k8Nfjc?si=Zoy8bAbLADxtlsz3",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -474,7 +503,8 @@
           "resources": [
             {
               "title": "Bicycle Rules of the Road (video)",
-              "url": "https://youtu.be/TAwv_BPBAnc"
+              "url": "https://youtu.be/TAwv_BPBAnc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -497,7 +527,8 @@
           "resources": [
             {
               "title": "Traffic Stop Etiquette (video)",
-              "url": "https://youtu.be/twTVubwyp4E?si=asTzoxN88uwMYZ1T"
+              "url": "https://youtu.be/twTVubwyp4E?si=asTzoxN88uwMYZ1T",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -520,7 +551,8 @@
           "resources": [
             {
               "title": "What to Do After a Car Accident (video)",
-              "url": "https://youtu.be/ljjGN6xST_A?si=P4u_Sc1h6nF6rsnL"
+              "url": "https://youtu.be/ljjGN6xST_A?si=P4u_Sc1h6nF6rsnL",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -543,7 +575,8 @@
           "resources": [
             {
               "title": "Three Documents You Should Always Have in Your Car (website)",
-              "url": "https://www.thirdcoastautos.com/blog/what-paperwork-should-you-keep-in-your-car"
+              "url": "https://www.thirdcoastautos.com/blog/what-paperwork-should-you-keep-in-your-car",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -601,7 +634,8 @@
           "resources": [
             {
               "title": "How Highways Are Designed and Built (video)",
-              "url": "https://youtu.be/SdYilULmeAc"
+              "url": "https://youtu.be/SdYilULmeAc",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -624,15 +658,18 @@
           "resources": [
             {
               "title": "Understanding Road Signs  (video)",
-              "url": "https://youtu.be/KxrfkcDAgsY"
+              "url": "https://youtu.be/KxrfkcDAgsY",
+              "type": "video"
             },
             {
               "title": "Traffic Signals (video)",
-              "url": "https://youtu.be/Hj87mH_a4jk"
+              "url": "https://youtu.be/Hj87mH_a4jk",
+              "type": "video"
             },
             {
               "title": "Pavement Markings (video)",
-              "url": "https://youtu.be/Lq3p5i9g9c0"
+              "url": "https://youtu.be/Lq3p5i9g9c0",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -690,15 +727,18 @@
           "resources": [
             {
               "title": "Bike Safety - Sharing the Road (video)",
-              "url": "https://youtu.be/zm_uXZJnCSk"
+              "url": "https://youtu.be/zm_uXZJnCSk",
+              "type": "video"
             },
             {
               "title": "The Basics of Bicycle Safety (video)",
-              "url": "https://youtu.be/DJc18FiARLc?si=tV7T0fXYYDHGVdmm"
+              "url": "https://youtu.be/DJc18FiARLc?si=tV7T0fXYYDHGVdmm",
+              "type": "video"
             },
             {
               "title": "What to Do to Make Driving at Night Safer (video)",
-              "url": "https://youtu.be/uYhwXwVDlF0?si=3M13qEkL7YbemovD"
+              "url": "https://youtu.be/uYhwXwVDlF0?si=3M13qEkL7YbemovD",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -721,7 +761,8 @@
           "resources": [
             {
               "title": "The Basics of Pedestrian Safety (video)",
-              "url": "https://youtu.be/Lsv1TSy8JbA?si=Yv-ODDQIlOvnSNbC"
+              "url": "https://youtu.be/Lsv1TSy8JbA?si=Yv-ODDQIlOvnSNbC",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -744,7 +785,8 @@
           "resources": [
             {
               "title": "Driving Safety 101: School Bus Safety (video)",
-              "url": "https://youtu.be/XSYE2z3LCUI"
+              "url": "https://youtu.be/XSYE2z3LCUI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -767,11 +809,13 @@
           "resources": [
             {
               "title": "Blind Spots Lessons (video)",
-              "url": "https://youtu.be/bkX_NSCM0Hw"
+              "url": "https://youtu.be/bkX_NSCM0Hw",
+              "type": "video"
             },
             {
               "title": "Lane Changes (video)",
-              "url": "https://youtu.be/H0EA2RD-w2c"
+              "url": "https://youtu.be/H0EA2RD-w2c",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -829,11 +873,13 @@
           "resources": [
             {
               "title": "Engineering and Inspector Careers (video)",
-              "url": "https://youtu.be/l39mAUI868w?si=zf_CZPPFbjbUstOW"
+              "url": "https://youtu.be/l39mAUI868w?si=zf_CZPPFbjbUstOW",
+              "type": "video"
             },
             {
               "title": "Women in Road Safety Careers (video)",
-              "url": "https://youtu.be/5UQaWsVS4Ww?si=-wXVuWGizEMaz7dZ"
+              "url": "https://youtu.be/5UQaWsVS4Ww?si=-wXVuWGizEMaz7dZ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -856,11 +902,13 @@
           "resources": [
             {
               "title": "Take the Pledge (website)",
-              "url": "https://www.t-driver.com/pledge/"
+              "url": "https://www.t-driver.com/pledge/",
+              "type": "website"
             },
             {
               "title": "Parent-Teen Driving Agreement (website)",
-              "url": "https://www.healthychildren.org/English/ages-stages/teen/safety/Pages/teen-driving-agreement.aspx"
+              "url": "https://www.healthychildren.org/English/ages-stages/teen/safety/Pages/teen-driving-agreement.aspx",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -883,7 +931,8 @@
           "resources": [
             {
               "title": "Teen Driving Safety Event (video)",
-              "url": "https://youtu.be/v8zcyY194jI?si=St3aTOW9HnAHT7oh"
+              "url": "https://youtu.be/v8zcyY194jI?si=St3aTOW9HnAHT7oh",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -919,11 +968,13 @@
       "resources": [
         {
           "title": "What It's Like to Work in Traffic Control and Safety in Road Construction (video)",
-          "url": "https://youtu.be/RA5GljWCPhQ?si=tzgUiIj2PWhx2-j3"
+          "url": "https://youtu.be/RA5GljWCPhQ?si=tzgUiIj2PWhx2-j3",
+          "type": "video"
         },
         {
           "title": "On The Job: Traffic Signal Technician (video)",
-          "url": "https://youtu.be/qcLQd4eTj8A?si=aQ2EYV2mPDoWlf1Q"
+          "url": "https://youtu.be/qcLQd4eTj8A?si=aQ2EYV2mPDoWlf1Q",
+          "type": "video"
         }
       ],
       "sub_requirements": []

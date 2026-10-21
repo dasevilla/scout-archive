@@ -29,11 +29,13 @@
       "resources": [
         {
           "title": "Why Entrepreneurs Are Important for the Economy (video)",
-          "url": "https://youtu.be/KEuTpRkZqiY"
+          "url": "https://youtu.be/KEuTpRkZqiY",
+          "type": "video"
         },
         {
           "title": "Why Entrepreneurship Is Important to the Economy (website)",
-          "url": "https://www.investopedia.com/articles/personal-finance/101414/why-entrepreneurs-are-important-economy.asp"
+          "url": "https://www.investopedia.com/articles/personal-finance/101414/why-entrepreneurs-are-important-economy.asp",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -56,15 +58,18 @@
       "resources": [
         {
           "title": "The Key Skills of Successful Entrepreneurs (video)",
-          "url": "https://youtu.be/iAWeIBUjRqQ"
+          "url": "https://youtu.be/iAWeIBUjRqQ",
+          "type": "video"
         },
         {
           "title": "The Entrepreneurial Mindset: From Kids to Entrepreneur (video)",
-          "url": "https://youtu.be/JiGJttyiqFs"
+          "url": "https://youtu.be/JiGJttyiqFs",
+          "type": "video"
         },
         {
           "title": "6 Skills All Entrepreneurs Need (website)",
-          "url": "https://online.hbs.edu/blog/post/entrepreneurial-skills"
+          "url": "https://online.hbs.edu/blog/post/entrepreneurial-skills",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -105,7 +110,8 @@
       "resources": [
         {
           "title": "Business Ideas: Finding Your Niche (video)",
-          "url": "https://youtu.be/qJp0j4g3k3o"
+          "url": "https://youtu.be/qJp0j4g3k3o",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -133,11 +139,13 @@
       "resources": [
         {
           "title": "How To Write a Business Plan With 6 Easy Simple Steps (video)",
-          "url": "https://youtu.be/8iDv_WzL3GI"
+          "url": "https://youtu.be/8iDv_WzL3GI",
+          "type": "video"
         },
         {
           "title": "Writing a Business Plan (video)",
-          "url": "https://youtu.be/7ykkhepT9aE"
+          "url": "https://youtu.be/7ykkhepT9aE",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -146,9 +154,9 @@
           "label": "a",
           "text": "Product or Service",
           "requirement_path": "5.a",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [
             {
@@ -164,129 +172,135 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "4585",
-          "label": "1",
-          "text": "Describe the product or service to be offered.",
-          "requirement_path": "5.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Describe the product or service to be offered."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "4586",
-          "label": "2",
-          "text": "Identify goals for your business.",
-          "requirement_path": "5.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify goals for your business."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How To Set SMART Goals for Your Business (Guide) (video)",
-              "url": "https://youtu.be/9DE5gBCNizA"
+              "id": "4585",
+              "label": "1",
+              "text": "Describe the product or service to be offered.",
+              "requirement_path": "5.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Describe the product or service to be offered."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             },
             {
-              "title": "Achieve More by Setting Smart Goals (video)",
-              "url": "https://youtu.be/yA53yhiOe04"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4587",
-          "label": "3",
-          "text": "Explain how you can make enough of the product or perform the service to meet your goals.",
-          "requirement_path": "5.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain how you can make enough of the product or perform the service to meet your goals."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "4588",
-          "label": "4",
-          "text": "Identify and describe the potential liability risks for your product or service.",
-          "requirement_path": "5.4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify and describe the potential liability risks for your product or service."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Mitigating Risk & Managing Liabilities (video)",
-              "url": "https://youtu.be/vlDj76cGzZY"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4589",
-          "label": "5",
-          "text": "Determine what type of license, if any, you might need in order to sell or make your product or service.",
-          "requirement_path": "5.5",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Determine what type of license, if any, you might need in order to sell or make your product or service."
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Is Licensing (video)",
-              "url": "https://youtu.be/1pjqjy1VYwI"
+              "id": "4586",
+              "label": "2",
+              "text": "Identify goals for your business.",
+              "requirement_path": "5.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify goals for your business."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Set SMART Goals for Your Business (Guide) (video)",
+                  "url": "https://youtu.be/9DE5gBCNizA",
+                  "type": "video"
+                },
+                {
+                  "title": "Achieve More by Setting Smart Goals (video)",
+                  "url": "https://youtu.be/yA53yhiOe04",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How To License your Business Idea Step-by-Step (video)",
-              "url": "https://youtu.be/evjpbwHWYLg"
+              "id": "4587",
+              "label": "3",
+              "text": "Explain how you can make enough of the product or perform the service to meet your goals.",
+              "requirement_path": "5.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain how you can make enough of the product or perform the service to meet your goals."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "4588",
+              "label": "4",
+              "text": "Identify and describe the potential liability risks for your product or service.",
+              "requirement_path": "5.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify and describe the potential liability risks for your product or service."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Mitigating Risk & Managing Liabilities (video)",
+                  "url": "https://youtu.be/vlDj76cGzZY",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "4589",
+              "label": "5",
+              "text": "Determine what type of license, if any, you might need in order to sell or make your product or service.",
+              "requirement_path": "5.a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Determine what type of license, if any, you might need in order to sell or make your product or service."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Is Licensing (video)",
+                  "url": "https://youtu.be/1pjqjy1VYwI",
+                  "type": "video"
+                },
+                {
+                  "title": "How To License your Business Idea Step-by-Step (video)",
+                  "url": "https://youtu.be/evjpbwHWYLg",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "4590",
           "label": "b",
           "text": "Market Analysis",
           "requirement_path": "5.b",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [
             {
@@ -302,93 +316,99 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "4591",
-          "label": "1",
-          "text": "Identify the types of people who would buy your product or service.",
-          "requirement_path": "5.1-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Identify the types of people who would buy your product or service."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How To Define Target Market and Customers in Business Plan (video)",
-              "url": "https://youtu.be/g37DCEKILno"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4592",
-          "label": "2",
-          "text": "Identify your business's competitors, and describe their strengths and weaknesses.",
-          "requirement_path": "5.2-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Identify your business's competitors, and describe their strengths and weaknesses."
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Is a Competitive Analysis? (video)",
-              "url": "https://youtu.be/c6UUOXnbNkA"
+              "id": "4591",
+              "label": "1",
+              "text": "Identify the types of people who would buy your product or service.",
+              "requirement_path": "5.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify the types of people who would buy your product or service."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Define Target Market and Customers in Business Plan (video)",
+                  "url": "https://youtu.be/g37DCEKILno",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Advantages to Competitors (video)",
-              "url": "https://youtu.be/yhtGs4cjJ8Q"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4593",
-          "label": "3",
-          "text": "Describe what makes your product or service unique.",
-          "requirement_path": "5.3-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Describe what makes your product or service unique."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Unique Selling Proposition (video)",
-              "url": "https://youtu.be/wpT4OYwSw04"
+              "id": "4592",
+              "label": "2",
+              "text": "Identify your business's competitors, and describe their strengths and weaknesses.",
+              "requirement_path": "5.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify your business's competitors, and describe their strengths and weaknesses."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Is a Competitive Analysis? (video)",
+                  "url": "https://youtu.be/c6UUOXnbNkA",
+                  "type": "video"
+                },
+                {
+                  "title": "Advantages to Competitors (video)",
+                  "url": "https://youtu.be/yhtGs4cjJ8Q",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "3 Strategies to Find Your Unique Selling Proposition (USP) (video)",
-              "url": "https://youtu.be/OEDKuuhipKw"
+              "id": "4593",
+              "label": "3",
+              "text": "Describe what makes your product or service unique.",
+              "requirement_path": "5.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Describe what makes your product or service unique."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Unique Selling Proposition (video)",
+                  "url": "https://youtu.be/wpT4OYwSw04",
+                  "type": "video"
+                },
+                {
+                  "title": "3 Strategies to Find Your Unique Selling Proposition (USP) (video)",
+                  "url": "https://youtu.be/OEDKuuhipKw",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "4594",
           "label": "c",
           "text": "Financial",
           "requirement_path": "5.c",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [
             {
@@ -404,89 +424,94 @@
             }
           ],
           "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "4595",
-          "label": "1",
-          "text": "Determine how much money you will need to start your business, and identify how you will obtain the money.",
-          "requirement_path": "5.1-3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Determine how much money you will need to start your business, and identify how you will obtain the money."
-            }
-          ],
-          "resources": [
-            {
-              "title": "How To Build Financial Projections for Your Startup (video)",
-              "url": "https://youtu.be/Oqw1Rj0MVJo?si=r-FuxHY-H6p28B0c"
+              "id": "4595",
+              "label": "1",
+              "text": "Determine how much money you will need to start your business, and identify how you will obtain the money.",
+              "requirement_path": "5.c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Determine how much money you will need to start your business, and identify how you will obtain the money."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How To Build Financial Projections for Your Startup (video)",
+                  "url": "https://youtu.be/Oqw1Rj0MVJo?si=r-FuxHY-H6p28B0c",
+                  "type": "video"
+                },
+                {
+                  "title": "How To Calculate Startup Costs (video)",
+                  "url": "https://youtu.be/pACo_F_O4Cc?si=xBCevTWHtYYP9_R6",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "How To Calculate Startup Costs (video)",
-              "url": "https://youtu.be/pACo_F_O4Cc?si=xBCevTWHtYYP9_R6"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4596",
-          "label": "2",
-          "text": "Determine the cost of offering your product or service and the price you will charge in order to make a profit.",
-          "requirement_path": "5.2-3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "4596",
+              "label": "2",
+              "text": "Determine the cost of offering your product or service and the price you will charge in order to make a profit.",
+              "requirement_path": "5.c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Determine the cost of offering your product or service and the price you will charge in order to make a profit."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "PRICING STRATEGY: How To Find The Ideal Price For A Product (video)",
+                  "url": "https://youtu.be/xQWUm_eHjGk",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Determine the cost of offering your product or service and the price you will charge in order to make a profit."
+              "id": "4597",
+              "label": "3",
+              "text": "Describe what will happen with the money you make from the sales of your product or service.",
+              "requirement_path": "5.c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Describe what will happen with the money you make from the sales of your product or service."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Revenue vs Gross Income/Profit/Earnings vs Net Income/Profit/Earnings (Bottom Line) (video)",
+                  "url": "https://youtu.be/kmOj1usAmKM",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "resources": [
-            {
-              "title": "PRICING STRATEGY: How To Find The Ideal Price For A Product (video)",
-              "url": "https://youtu.be/xQWUm_eHjGk"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4597",
-          "label": "3",
-          "text": "Describe what will happen with the money you make from the sales of your product or service.",
-          "requirement_path": "5.3-3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Describe what will happen with the money you make from the sales of your product or service."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Revenue vs Gross Income/Profit/Earnings vs Net Income/Profit/Earnings (Bottom Line) (video)",
-              "url": "https://youtu.be/kmOj1usAmKM"
-            }
-          ],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "4598",
           "label": "d",
           "text": "Personnel",
           "requirement_path": "5.d",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [
             {
@@ -504,55 +529,57 @@
           "resources": [
             {
               "title": "How To Create an Investor-Ready Personnel Plan and Forecast Employee Costs (website)",
-              "url": "https://www.liveplan.com/blog/planning/5-steps-to-creating-an-investor-ready-personnel-plan"
+              "url": "https://www.liveplan.com/blog/planning/5-steps-to-creating-an-investor-ready-personnel-plan",
+              "type": "website"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4599",
-          "label": "1",
-          "text": "Determine what parts of the business you will handle yourself, and describe your qualifications.",
-          "requirement_path": "5.1-4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Determine what parts of the business you will handle yourself, and describe your qualifications."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "4600",
-          "label": "2",
-          "text": "Determine whether you will need additional help to operate your business. If you will need help, describe the responsibilities and qualifications needed for the personnel who will fill each role.",
-          "requirement_path": "5.2-4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "4599",
+              "label": "1",
+              "text": "Determine what parts of the business you will handle yourself, and describe your qualifications.",
+              "requirement_path": "5.d.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Determine what parts of the business you will handle yourself, and describe your qualifications."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Determine whether you will need additional help to operate your business. If you will need help, describe the responsibilities and qualifications needed for the personnel who will fill each role."
+              "id": "4600",
+              "label": "2",
+              "text": "Determine whether you will need additional help to operate your business. If you will need help, describe the responsibilities and qualifications needed for the personnel who will fill each role.",
+              "requirement_path": "5.d.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Determine whether you will need additional help to operate your business. If you will need help, describe the responsibilities and qualifications needed for the personnel who will fill each role."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "4601",
           "label": "e",
           "text": "Promotion and Marketing",
           "requirement_path": "5.e",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [
             {
@@ -570,95 +597,104 @@
           "resources": [
             {
               "title": "How To Develop an Effective Marketing Strategy (video)",
-              "url": "https://youtu.be/auRTKgS1bTM"
+              "url": "https://youtu.be/auRTKgS1bTM",
+              "type": "video"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4602",
-          "label": "1",
-          "text": "Describe the methods you will use to promote your business to potential customers.",
-          "requirement_path": "5.1-5",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Describe the methods you will use to promote your business to potential customers."
-            }
-          ],
-          "resources": [
-            {
-              "title": "What Is Marketing in 3 Minutes | Marketing for Beginners (video)",
-              "url": "https://youtu.be/QusJ4fpWQwA"
+              "id": "4602",
+              "label": "1",
+              "text": "Describe the methods you will use to promote your business to potential customers.",
+              "requirement_path": "5.e.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Describe the methods you will use to promote your business to potential customers."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "What Is Marketing in 3 Minutes | Marketing for Beginners (video)",
+                  "url": "https://youtu.be/QusJ4fpWQwA",
+                  "type": "video"
+                },
+                {
+                  "title": "Tips for Elevator Pitches (video)",
+                  "url": "https://youtu.be/Mw8mvlKAjeA",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Tips for Elevator Pitches (video)",
-              "url": "https://youtu.be/Mw8mvlKAjeA"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4603",
-          "label": "2",
-          "text": "Explain how you will utilize the internet and social media to increase awareness of your product or service.",
-          "requirement_path": "5.2-5",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Explain how you will utilize the internet and social media to increase awareness of your product or service."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Four Steps To Building Brand Awareness Through Social Media (video)",
-              "url": "https://youtu.be/h14XHhCbYdo"
-            }
-          ],
-          "sub_requirements": []
-        },
-        {
-          "id": "4604",
-          "label": "3",
-          "text": "Design a promotional flyer or poster for your product or service.",
-          "requirement_path": "5.3-4",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
-            {
-              "type": "text",
-              "value": "Design a promotional flyer or poster for your product or service."
-            }
-          ],
-          "resources": [
-            {
-              "title": "Canva Tutorial For Beginners | How To Design A Flyer in Canva (video)",
-              "url": "https://youtu.be/KglO4C412DA"
+              "id": "4603",
+              "label": "2",
+              "text": "Explain how you will utilize the internet and social media to increase awareness of your product or service.",
+              "requirement_path": "5.e.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain how you will utilize the internet and social media to increase awareness of your product or service."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Four Steps To Building Brand Awareness Through Social Media (video)",
+                  "url": "https://youtu.be/h14XHhCbYdo",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "title": "Canva Brochure Design Tutorial (video)",
-              "url": "https://youtu.be/DWiM3GLw0Z8"
-            },
-            {
-              "title": "How To Make a FLYER in Google Docs (video)",
-              "url": "https://youtu.be/7eeUsOQI5EA"
-            },
-            {
-              "title": "How To Use Lucidpress to Make a Pamphlet or Brochure (video)",
-              "url": "https://youtu.be/pPYcPlTFbwU"
+              "id": "4604",
+              "label": "3",
+              "text": "Design a promotional flyer or poster for your product or service.",
+              "requirement_path": "5.e.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Design a promotional flyer or poster for your product or service."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Canva Tutorial For Beginners | How To Design A Flyer in Canva (video)",
+                  "url": "https://youtu.be/KglO4C412DA",
+                  "type": "video"
+                },
+                {
+                  "title": "Canva Brochure Design Tutorial (video)",
+                  "url": "https://youtu.be/DWiM3GLw0Z8",
+                  "type": "video"
+                },
+                {
+                  "title": "How To Make a FLYER in Google Docs (video)",
+                  "url": "https://youtu.be/7eeUsOQI5EA",
+                  "type": "video"
+                },
+                {
+                  "title": "How To Use Lucidpress to Make a Pamphlet or Brochure (video)",
+                  "url": "https://youtu.be/pPYcPlTFbwU",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             }
-          ],
-          "sub_requirements": []
+          ]
         }
       ]
     },
@@ -680,15 +716,18 @@
       "resources": [
         {
           "title": "15 Challenges Startups Face (and How To Overcome Them) (website)",
-          "url": "https://startup.info/challenges-startups-face/"
+          "url": "https://startup.info/challenges-startups-face/",
+          "type": "website"
         },
         {
           "title": "Understanding Business Ethics (video)",
-          "url": "https://youtu.be/HbrpYeobu-Q"
+          "url": "https://youtu.be/HbrpYeobu-Q",
+          "type": "video"
         },
         {
           "title": "Failures Are Lessons for Future Success (video)",
-          "url": "https://youtu.be/QNB9hnRfgdk"
+          "url": "https://youtu.be/QNB9hnRfgdk",
+          "type": "video"
         }
       ],
       "sub_requirements": []

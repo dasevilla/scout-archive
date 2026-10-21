@@ -129,6 +129,7 @@ def _validate_requirement_tree(requirements, path, errors, warnings):
         errors.append(f"{path} is not a list")
         return
     _validate_governed_numbered_siblings(requirements, path, warnings)
+    _validate_duplicate_sibling_text(requirements, path, warnings)
     for idx, req in enumerate(requirements):
         req_path = f"{path}[{idx}]"
         if not isinstance(req, dict):
@@ -197,6 +198,33 @@ def _validate_requirement_tree(requirements, path, errors, warnings):
             _validate_requirement_tree(
                 sub_requirements, f"{req_path}.sub_requirements", errors, warnings
             )
+
+
+def _validate_duplicate_sibling_text(
+    requirements: list[Any], path: str, warnings: list[str]
+) -> None:
+    """Flag repeated leaf wording for source review without changing requirements."""
+    seen: dict[str, str] = {}
+    for idx, req in enumerate(requirements):
+        if not isinstance(req, dict) or req.get("sub_requirements"):
+            continue
+        text = req.get("text")
+        if not isinstance(text, str):
+            continue
+        # Older exports can retain resource titles inline. Different resource
+        # recommendations do not make identical requirement instructions unique.
+        instruction = re.split(r"\bResources?\s*:", text, maxsplit=1, flags=re.I)[0]
+        instruction = " ".join(instruction.split())
+        if not instruction:
+            continue
+        location = req.get("requirement_path") or f"{path}[{idx}]"
+        if instruction in seen:
+            warnings.append(
+                f"{location} duplicates sibling requirement text at {seen[instruction]}; "
+                "verify the official source (wording preserved)"
+            )
+        else:
+            seen[instruction] = location
 
 
 def _validate_governed_numbered_siblings(requirements, path, warnings):

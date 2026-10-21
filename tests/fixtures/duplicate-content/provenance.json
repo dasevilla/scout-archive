@@ -1,0 +1,47 @@
+[
+  {
+    "badge": "Athletics",
+    "url": "https://www.scouting.org/merit-badges/athletics/",
+    "observed_on": "2026-10-21",
+    "paths": [
+      "5.option-g.2.e",
+      "5.option-g.2.f"
+    ],
+    "status": "upstream-source-issue",
+    "finding": "Duplicate wording is present in distinct requirement elements on the official live page before extraction. Preserve both entries pending an official correction.",
+    "html_fixture": "athletics.html",
+    "expected_text_hierarchy": "athletics.expected.json",
+    "expected_release": "archive-2026-10-19-139-1",
+    "full_response_sha256": "c607403fb429743965b335964624e08cc893afdb552796ae56d08e742bb7dbb5",
+    "fixture_scope": "Complete mb-requirement-container, serialized with BeautifulSoup; excludes surrounding page chrome. Line endings normalized and trailing whitespace removed.",
+    "source_ids": [
+      "14243",
+      "14242"
+    ],
+    "duplicate_instruction": "Where key line and free-throw line meet, left side",
+    "blocker": "The official page must clarify whether the second left-side location is intentional. No right-side substitution is inferred.",
+    "reproduction": "Fresh curl response and make archive-merit-badges-url export both reproduce the duplicate; Scrapy HTTP cache is disabled by default. Not an HTML-selection or semantic-normalization defect."
+  },
+  {
+    "badge": "Insect Study",
+    "url": "https://www.scouting.org/merit-badges/insect-study/",
+    "observed_on": "2026-10-21",
+    "paths": [
+      "9.a",
+      "9.b"
+    ],
+    "status": "upstream-source-issue",
+    "finding": "Duplicate wording is present in distinct requirement elements on the official live page before extraction. Preserve both entries pending an official correction.",
+    "html_fixture": "insect-study.html",
+    "expected_text_hierarchy": "insect-study.expected.json",
+    "expected_release": "archive-2026-10-19-139-1",
+    "full_response_sha256": "c88a26aaa0054e7e420902d1e5a3808b44fb10a5240006d395d5a5a34bd9b96f",
+    "fixture_scope": "Complete mb-requirement-container, serialized with BeautifulSoup; excludes surrounding page chrome. Line endings normalized and trailing whitespace removed.",
+    "source_ids": [
+      "13475",
+      "13476"
+    ],
+    "blocker": "The official page must supply a distinct second choice if one is intended. The heading and beekeeping resource do not authorize replacing the repeated career paragraph with hobby instructions.",
+    "reproduction": "Fresh curl response and make archive-merit-badges-url export both reproduce the duplicate; Scrapy HTTP cache is disabled by default. Not an HTML-selection or semantic-normalization defect."
+  }
+]

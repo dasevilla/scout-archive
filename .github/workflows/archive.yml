@@ -72,6 +72,7 @@ jobs:
           path: |
             run.log
             run-cub-adventures.log
+            build/merit-badges/extraction-failures/
           retention-days: 7
           if-no-files-found: warn
 

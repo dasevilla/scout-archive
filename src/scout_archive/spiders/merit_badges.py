@@ -1,7 +1,9 @@
 import re
+from pathlib import Path
 from urllib.parse import urlparse
 
 import scrapy
+from scrapy.downloadermiddlewares.retry import get_retry_request
 from scrapy.exceptions import CloseSpider
 
 from scout_archive.items import MeritBadgeItem
@@ -321,6 +323,18 @@ class MeritBadgesSpider(scrapy.Spider):
             semantic_requirements = self._requirements_processor.process(
                 raw_requirements
             )
+            if not semantic_requirements:
+                self._save_empty_requirements_response(response, len(raw_requirements))
+                retry = get_retry_request(
+                    response.request,
+                    spider=self,
+                    reason="empty_standard_requirements",
+                )
+                if retry is not None:
+                    yield retry
+                    return
+                # Emit the empty result after exhaustion so archive validation
+                # fails, even when an older badge file exists on disk.
 
         item["requirements_data"] = [
             requirement.model_dump() for requirement in semantic_requirements
@@ -330,6 +344,29 @@ class MeritBadgesSpider(scrapy.Spider):
         )
 
         yield item
+
+    def _save_empty_requirements_response(
+        self, response: scrapy.http.Response, raw_count: int
+    ) -> None:
+        output_dir = (
+            Path(self.settings.get("MERIT_BADGE_OUTPUT_DIR", "../build/merit-badges"))
+            / "extraction-failures"
+        )
+        output_dir.mkdir(parents=True, exist_ok=True)
+        slug = urlparse(response.url).path.rstrip("/").rsplit("/", 1)[-1]
+        attempt = response.meta.get("retry_times", 0)
+        snapshot = output_dir / f"{slug}-{attempt}.html"
+        snapshot.write_bytes(response.body)
+        self.logger.warning(
+            "Empty standard requirements: url=%s status=%s bytes=%s raw_items=%s "
+            "attempt=%s response_saved=%s",
+            response.url,
+            response.status,
+            len(response.body),
+            raw_count,
+            attempt,
+            snapshot,
+        )
 
     def _attach_lab_survey(
         self, response: scrapy.http.Response, requirements: list[SemanticRequirement]

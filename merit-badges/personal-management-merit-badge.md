@@ -14,26 +14,28 @@ Personal management is about mapping a plan for your life that will involve sett
   - (b) Write a plan that tells how your family would save money for the purchase identified in requirement 1(a).
 
     **Resources:** [How To Create a Weekly Savings Plan (video)](https://youtu.be/WG7j91s-E20&t=37), [Why and How To Save, Budgeting and Saving (video)](https://youtu.be/cnW_HDIBmz4)
-  - (1) Discuss the plan with your counselor.
-  - (2) Discuss the plan with your family.
-  - (3) Discuss how other family needs must be considered in this plan.
+
+    - (1) Discuss the plan with your counselor.
+    - (2) Discuss the plan with your family.
+    - (3) Discuss how other family needs must be considered in this plan.
   - (c) Develop a written shopping strategy for the purchase identified in requirement 1(a).
 
     **Resources:** [How To Determine Product Quality (website)](https://awiseconsumer.com/how-to-determine-product-quality-before-buying/), [Can You Really Trust Online Reviews? (video)](https://youtu.be/MfriPbc8hxM), [Inside the Consumer Reports Test Lab (video)](https://youtu.be/nRMp8tVrWk4)
-  - (1) Determine the quality of the item or service (using consumer publications or rating systems).
 
-    **Resources:** [How To Determine Product Quality (website)](https://awiseconsumer.com/how-to-determine-product-quality-before-buying/), [Can You Really Trust Online Reviews? (video)](https://youtu.be/MfriPbc8hxM), [Inside the Consumer Reports Test Lab (video)](https://youtu.be/nRMp8tVrWk4)
-  - (2) Comparison shop for the item. Find out where you can buy the item for the best price. (Provide prices from at least two different price sources.) Call around; study ads. Look for a sale or discount coupon. Consider alternatives. Can you buy the item used? Should you wait for a sale?
+    - (1) Determine the quality of the item or service (using consumer publications or rating systems).
 
-    **Resources:** [Get the Best Value Every Time You Shop (video)](https://youtu.be/hFvwIjFfo_s)
+      **Resources:** [How To Determine Product Quality (website)](https://awiseconsumer.com/how-to-determine-product-quality-before-buying/), [Can You Really Trust Online Reviews? (video)](https://youtu.be/MfriPbc8hxM), [Inside the Consumer Reports Test Lab (video)](https://youtu.be/nRMp8tVrWk4)
+    - (2) Comparison shop for the item. Find out where you can buy the item for the best price. (Provide prices from at least two different price sources.) Call around; study ads. Look for a sale or discount coupon. Consider alternatives. Can you buy the item used? Should you wait for a sale?
+
+      **Resources:** [Get the Best Value Every Time You Shop (video)](https://youtu.be/hFvwIjFfo_s)
 
 - (2) Do the following:
   - (a) Prepare a budget reflecting your expected income (allowance, gifts, wages), expenses, and savings for a period of 13 consecutive weeks.
 
     **Resources:** [How To Create a Budget for Beginners (video)](https://youtu.be/-cOjBanoNP0), [Budgeting Basics (video)](https://youtu.be/vUMV-XUdpuM)
   - (b) Compare expected income with expected expenses.
-  - (1) If expenses exceed budget income, determine steps to balance your budget.
-  - (2) If income exceeds budget expenses, state how you would use the excess money (new goal, savings).
+    - (1) If expenses exceed budget income, determine steps to balance your budget.
+    - (2) If income exceeds budget expenses, state how you would use the excess money (new goal, savings).
   - (c) Track and record your actual income, expenses, and savings for 13 consecutive weeks (the same 13-week period for which you budgeted). (You may use the forms provided in the *Personal Management* merit badge pamphlet, devise your own, or use a computer-generated version.) When complete, present the records showing the results to your counselor.
   - (d) Compare your budget with your actual income and expenses to understand when your budget worked and when it did not work. With your counselor, discuss what you might do differently the next time.
 

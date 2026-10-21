@@ -20,7 +20,8 @@ Kayaking has become one of the fastest-growing paddlesports in the United States
 
     **Resources:** [Safety Afloat (website)](https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/)
 
-- (2) Before doing requirements 3 through 8, successfully complete the Scouting America swimmer test. **Note:** See the *Swimming* merit badge pamphlet for details about the Scouting America swimmer test.
+- (2) Before doing requirements 3 through 8, successfully complete the Scouting America swimmer test.
+  **Note:** See the *Swimming* merit badge pamphlet for details about the Scouting America swimmer test.
 
   **Resources:** [Swimming Merit Badge Pamphlet (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf)
 

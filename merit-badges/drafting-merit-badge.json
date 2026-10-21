@@ -34,7 +34,8 @@
       "resources": [
         {
           "title": "Technical Drawing—Border and Title Block (video)",
-          "url": "https://youtu.be/OOMLwD0ogrk"
+          "url": "https://youtu.be/OOMLwD0ogrk",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -56,7 +57,8 @@
           "resources": [
             {
               "title": "How to Calculate Scale, Papers Size and Maximum Drawing Size (video)",
-              "url": "https://youtu.be/mMBQU2YqKg0?si=tLBF5YIE6FgrNty6"
+              "url": "https://youtu.be/mMBQU2YqKg0?si=tLBF5YIE6FgrNty6",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -79,7 +81,8 @@
           "resources": [
             {
               "title": "Border, Title Block and Lettering (video)",
-              "url": "https://youtu.be/S5xqPw-v3GI?si=QZlk-6uBVX2opXeM"
+              "url": "https://youtu.be/S5xqPw-v3GI?si=QZlk-6uBVX2opXeM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -141,7 +144,8 @@
           "resources": [
             {
               "title": "How to Sketch a Floor Plan | COMPLETE Beginner's Guide!! Step by Step (video)",
-              "url": "https://youtu.be/7IuSTwAB2QQ?si=PwzIxSaP3mVhoFrK"
+              "url": "https://youtu.be/7IuSTwAB2QQ?si=PwzIxSaP3mVhoFrK",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -175,7 +179,8 @@
           "resources": [
             {
               "title": "Isometric Drawing Made Easy: How to Draw Isometric Views with Orthographic Projections (video)",
-              "url": "https://youtu.be/h_u0BHKJ0yk?si=AfIUMBvYIRkn0lC9"
+              "url": "https://youtu.be/h_u0BHKJ0yk?si=AfIUMBvYIRkn0lC9",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -209,7 +214,8 @@
           "resources": [
             {
               "title": "How to Draw an Electrical Circuit in AutoCAD (video)",
-              "url": "https://youtu.be/q3wa6ZPVWd8?si=eSR8nkvqZURN1iGa"
+              "url": "https://youtu.be/q3wa6ZPVWd8?si=eSR8nkvqZURN1iGa",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -271,7 +277,8 @@
           "resources": [
             {
               "title": "AutoCAD 2D Basics - Tutorial to Draw a Simple Floor Plan (Fast and Effective!) (video)",
-              "url": "https://youtu.be/yOGzf_Myxmc?si=OrB47LxA2Bm70HYu"
+              "url": "https://youtu.be/yOGzf_Myxmc?si=OrB47LxA2Bm70HYu",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -305,7 +312,8 @@
           "resources": [
             {
               "title": "Technical Drawing Tutorial - Prepare a Perfect Mechanical Drawing for Machinists (video)",
-              "url": "https://youtu.be/Nn-JuuWsW0s?si=3N4iDuZQ0uaWEjRg"
+              "url": "https://youtu.be/Nn-JuuWsW0s?si=3N4iDuZQ0uaWEjRg",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -339,7 +347,8 @@
           "resources": [
             {
               "title": "How to Draw an Electrical Circuit in AutoCAD (video)",
-              "url": "https://youtu.be/q3wa6ZPVWd8?si=eSR8nkvqZURN1iGa"
+              "url": "https://youtu.be/q3wa6ZPVWd8?si=eSR8nkvqZURN1iGa",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -404,7 +413,8 @@
           "resources": [
             {
               "title": "AutoCAD II 25-19 Revision History Blocks (video)",
-              "url": "https://youtu.be/1XQ2fdCbx9g?si=OgJjHpOp3lt68dWZ"
+              "url": "https://youtu.be/1XQ2fdCbx9g?si=OgJjHpOp3lt68dWZ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -475,9 +485,18 @@
           "text": "Visit a facility or industry workplace where drafting is part of the business. Ask to see an example of the work that is done there, the different drafting facilities, and the tools used.",
           "requirement_path": "7.a",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
-          "scoped_clauses": [],
+          "scoped_clauses": [
+            {
+              "text": "Visit a facility or industry workplace where drafting is part of the business.",
+              "scope": "ambiguous"
+            },
+            {
+              "text": "Ask to see an example of the work that is done there, the different drafting facilities, and the tools used.",
+              "scope": "ambiguous"
+            }
+          ],
           "content": [
             {
               "type": "text",
@@ -487,64 +506,66 @@
           "resources": [
             {
               "title": "Benefits of AutoCAD to Manufacturing Design Workflow (video)",
-              "url": "https://youtu.be/_39brJN-POU?si=9E5Yy4SX8tpPWg7D"
+              "url": "https://youtu.be/_39brJN-POU?si=9E5Yy4SX8tpPWg7D",
+              "type": "video"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "13040",
-          "label": "1",
-          "text": "Find out how much of the drafting done there is manual and how much is done using CAD. If CAD is used, find out what software is used and how and why it was chosen.",
-          "requirement_path": "7.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Find out how much of the drafting done there is manual and how much is done using CAD. If CAD is used, find out what software is used and how and why it was chosen."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13041",
-          "label": "2",
-          "text": "Ask about the drafting services provided. Ask who uses the designs produced in the drafting area and how those designs are used. Discuss how the professionals who perform drafting cooperate with other individuals in the drafting area and other areas of the business.",
-          "requirement_path": "7.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "13040",
+              "label": "1",
+              "text": "Find out how much of the drafting done there is manual and how much is done using CAD. If CAD is used, find out what software is used and how and why it was chosen.",
+              "requirement_path": "7.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Find out how much of the drafting done there is manual and how much is done using CAD. If CAD is used, find out what software is used and how and why it was chosen."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Ask about the drafting services provided. Ask who uses the designs produced in the drafting area and how those designs are used. Discuss how the professionals who perform drafting cooperate with other individuals in the drafting area and other areas of the business."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "13042",
-          "label": "3",
-          "text": "Ask how important the role of drafting is to producing the end product or service that this business supplies. Find out how drafting contributes to the company's end product or service.",
-          "requirement_path": "7.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "13041",
+              "label": "2",
+              "text": "Ask about the drafting services provided. Ask who uses the designs produced in the drafting area and how those designs are used. Discuss how the professionals who perform drafting cooperate with other individuals in the drafting area and other areas of the business.",
+              "requirement_path": "7.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Ask about the drafting services provided. Ask who uses the designs produced in the drafting area and how those designs are used. Discuss how the professionals who perform drafting cooperate with other individuals in the drafting area and other areas of the business."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Ask how important the role of drafting is to producing the end product or service that this business supplies. Find out how drafting contributes to the company's end product or service."
+              "id": "13042",
+              "label": "3",
+              "text": "Ask how important the role of drafting is to producing the end product or service that this business supplies. Find out how drafting contributes to the company's end product or service.",
+              "requirement_path": "7.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Ask how important the role of drafting is to producing the end product or service that this business supplies. Find out how drafting contributes to the company's end product or service."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "13043",
@@ -569,15 +590,18 @@
           "resources": [
             {
               "title": "Tracing the Evolution of Technical Drawings: From Da Vinci to CAD (website)",
-              "url": "https://profiletree.com/evolution-of-technical-drawings"
+              "url": "https://profiletree.com/evolution-of-technical-drawings",
+              "type": "website"
             },
             {
               "title": "The Evolution of Drafting (video)",
-              "url": "https://youtu.be/_ULPY3B2BoQ?si=CH6nDUvqKBIrb4Mb"
+              "url": "https://youtu.be/_ULPY3B2BoQ?si=CH6nDUvqKBIrb4Mb",
+              "type": "video"
             },
             {
               "title": "A Walk Through the History of CAD (video)",
-              "url": "https://youtu.be/mcwIMsh_g3o?si=Ru7dNN8JDco0ycRJ"
+              "url": "https://youtu.be/mcwIMsh_g3o?si=Ru7dNN8JDco0ycRJ",
+              "type": "video"
             }
           ],
           "sub_requirements": [
@@ -657,11 +681,13 @@
       "resources": [
         {
           "title": "Drafter | Careers That Work (video)",
-          "url": "https://youtu.be/w9K7P383cXs?si=72p1e1i6nPm7qRIo"
+          "url": "https://youtu.be/w9K7P383cXs?si=72p1e1i6nPm7qRIo",
+          "type": "video"
         },
         {
           "title": "23 Different Types of Drafting Jobs (Plus Salary Information) (website)",
-          "url": "https://www.indeed.com/career-advice/finding-a-job/different-types-of-drafting-jobs"
+          "url": "https://www.indeed.com/career-advice/finding-a-job/different-types-of-drafting-jobs",
+          "type": "website"
         }
       ],
       "sub_requirements": []

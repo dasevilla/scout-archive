@@ -56,9 +56,10 @@ Drafting is a highly refined form of drawing used to communicate ideas to engine
   - (a) Visit a facility or industry workplace where drafting is part of the business. Ask to see an example of the work that is done there, the different drafting facilities, and the tools used.
 
     **Resources:** [Benefits of AutoCAD to Manufacturing Design Workflow (video)](https://youtu.be/_39brJN-POU?si=9E5Yy4SX8tpPWg7D)
-  - (1) Find out how much of the drafting done there is manual and how much is done using CAD. If CAD is used, find out what software is used and how and why it was chosen.
-  - (2) Ask about the drafting services provided. Ask who uses the designs produced in the drafting area and how those designs are used. Discuss how the professionals who perform drafting cooperate with other individuals in the drafting area and other areas of the business.
-  - (3) Ask how important the role of drafting is to producing the end product or service that this business supplies. Find out how drafting contributes to the company's end product or service.
+
+    - (1) Find out how much of the drafting done there is manual and how much is done using CAD. If CAD is used, find out what software is used and how and why it was chosen.
+    - (2) Ask about the drafting services provided. Ask who uses the designs produced in the drafting area and how those designs are used. Discuss how the professionals who perform drafting cooperate with other individuals in the drafting area and other areas of the business.
+    - (3) Ask how important the role of drafting is to producing the end product or service that this business supplies. Find out how drafting contributes to the company's end product or service.
   - (b) Using resources you find on your own such as at the library and on the internet (with your parent or guardian's permission), learn more about the drafting trade and discuss the following with your counselor.
 
     **Resources:** [Tracing the Evolution of Technical Drawings: From Da Vinci to CAD (website)](https://profiletree.com/evolution-of-technical-drawings), [The Evolution of Drafting (video)](https://youtu.be/_ULPY3B2BoQ?si=CH6nDUvqKBIrb4Mb), [A Walk Through the History of CAD (video)](https://youtu.be/mcwIMsh_g3o?si=Ru7dNN8JDco0ycRJ)

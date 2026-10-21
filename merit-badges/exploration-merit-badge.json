@@ -62,7 +62,8 @@
           "resources": [
             {
               "title": "What's the Difference Between Adventure and Exploration? (website)",
-              "url": "https://medium.com/@idee-explores/whats-the-difference-between-adventure-and-exploration-eb1a4628f925"
+              "url": "https://medium.com/@idee-explores/whats-the-difference-between-adventure-and-exploration-eb1a4628f925",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -85,7 +86,8 @@
           "resources": [
             {
               "title": "What Is Exploration (video)",
-              "url": "https://www.youtube.com/watch?v=7u2QqMSjroQ"
+              "url": "https://www.youtube.com/watch?v=7u2QqMSjroQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -121,19 +123,23 @@
       "resources": [
         {
           "title": "50 Years of Space Exploration (video)",
-          "url": "https://youtu.be/Bj3n1BIq_5I?si=v6V_FbNTqTU5P4FF"
+          "url": "https://youtu.be/Bj3n1BIq_5I?si=v6V_FbNTqTU5P4FF",
+          "type": "video"
         },
         {
           "title": "Into the Abyss: How Humans Became the Astronauts of the Deep Sea (video)",
-          "url": "https://youtu.be/-7xB6BT13nw?si=guCs4QMUPYQPiixG"
+          "url": "https://youtu.be/-7xB6BT13nw?si=guCs4QMUPYQPiixG",
+          "type": "video"
         },
         {
           "title": "The Age of Exploration (video)",
-          "url": "https://www.youtube.com/watch?v=sGeXtUZQScc"
+          "url": "https://www.youtube.com/watch?v=sGeXtUZQScc",
+          "type": "video"
         },
         {
           "title": "How the Higgs Boson Was Discovered (video)",
-          "url": "https://youtu.be/1XpCnCVfuYk?si=XrohO26RBxWr9Epg"
+          "url": "https://youtu.be/1XpCnCVfuYk?si=XrohO26RBxWr9Epg",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -193,7 +199,8 @@
           "resources": [
             {
               "title": "What It Takes to Be an Adventurer (video)",
-              "url": "https://www.youtube.com/watch?v=aoq6jNBtNtw"
+              "url": "https://www.youtube.com/watch?v=aoq6jNBtNtw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -216,7 +223,8 @@
           "resources": [
             {
               "title": "Why We Explore (video)",
-              "url": "https://www.youtube.com/watch?v=6_SRZiU9EuI"
+              "url": "https://www.youtube.com/watch?v=6_SRZiU9EuI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -224,7 +232,7 @@
         {
           "id": "14609",
           "label": "c",
-          "text": "What you think it takes to be an explorer Resources: Why Is It Important To Explore? (video)\nGreatest Explorers in History (video)",
+          "text": "What you think it takes to be an explorer",
           "requirement_path": "3.c",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -233,46 +241,21 @@
           "content": [
             {
               "type": "text",
-              "value": "What you think it takes to be an explorer Resources: "
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://youtu.be/IpXlxS1r5NY"
-              },
-              "children": [
-                {
-                  "type": "text",
-                  "value": "Why Is It Important To Explore? (video)"
-                }
-              ]
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://youtu.be/zKjbCC7rpk4"
-              },
-              "children": [
-                {
-                  "type": "text",
-                  "value": "Greatest Explorers in History (video)"
-                }
-              ]
+              "value": "What you think it takes to be an explorer"
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "Why Is It Important To Explore? (video)",
+              "url": "https://youtu.be/IpXlxS1r5NY",
+              "type": "video"
+            },
+            {
+              "title": "Greatest Explorers in History (video)",
+              "url": "https://youtu.be/zKjbCC7rpk4",
+              "type": "video"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -328,19 +311,23 @@
           "resources": [
             {
               "title": "50 Years of Discovery | Jane Goodall and The Leakey Foundation (video)",
-              "url": "https://www.youtube.com/watch?v=I4ivrfIOKjw"
+              "url": "https://www.youtube.com/watch?v=I4ivrfIOKjw",
+              "type": "video"
             },
             {
               "title": "The World's Greatest Living Explorer | Ranulph Fiennes (video)",
-              "url": "https://youtu.be/ePOa2OpRQ2g?si=uN7djyhK_Zylurjq"
+              "url": "https://youtu.be/ePOa2OpRQ2g?si=uN7djyhK_Zylurjq",
+              "type": "video"
             },
             {
               "title": "Levison Wood / Walking the Nile / Himalayas / Americas / Arabia Badlands & Beyond (video)",
-              "url": "https://youtu.be/MkOV5Ex6puA?si=aq81Mw_U2hC6LRnl"
+              "url": "https://youtu.be/MkOV5Ex6puA?si=aq81Mw_U2hC6LRnl",
+              "type": "video"
             },
             {
               "title": "Unsung Heroes of Everest | Nat Geo Live (video)",
-              "url": "https://youtu.be/ihmfkdEcDyk?si=2aIG3YmL5YzTaVhC"
+              "url": "https://youtu.be/ihmfkdEcDyk?si=2aIG3YmL5YzTaVhC",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -363,11 +350,13 @@
           "resources": [
             {
               "title": "Mars 2020: Perseverance Rover (website)",
-              "url": "https://science.nasa.gov/mission/mars-2020-perseverance/"
+              "url": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+              "type": "website"
             },
             {
               "title": "Expedition Amazon - Into the Waters | National Geographic (video)",
-              "url": "https://youtu.be/Tg27pdTvG4s?si=5MzaADOB_JRPdB2B"
+              "url": "https://youtu.be/Tg27pdTvG4s?si=5MzaADOB_JRPdB2B",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -390,15 +379,18 @@
           "resources": [
             {
               "title": "Research Scientist (video)",
-              "url": "https://www.youtube.com/watch?v=uRreC41dGz4"
+              "url": "https://www.youtube.com/watch?v=uRreC41dGz4",
+              "type": "video"
             },
             {
               "title": "Inside the World's Largest Science Experiment (video)",
-              "url": "https://youtu.be/nrXhK3Gh5EE?si=xSgNbNGvMNmaBl22"
+              "url": "https://youtu.be/nrXhK3Gh5EE?si=xSgNbNGvMNmaBl22",
+              "type": "video"
             },
             {
               "title": "Day in the Life of a Research Scientist (video)",
-              "url": "https://www.youtube.com/watch?v=biS7e79xZcs"
+              "url": "https://www.youtube.com/watch?v=biS7e79xZcs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -456,19 +448,23 @@
           "resources": [
             {
               "title": "The Explorers Club (website)",
-              "url": "https://www.explorers.org/"
+              "url": "https://www.explorers.org/",
+              "type": "website"
             },
             {
               "title": "National Geographic Society (website)",
-              "url": "https://www.nationalgeographic.org/society/"
+              "url": "https://www.nationalgeographic.org/society/",
+              "type": "website"
             },
             {
               "title": "Smithsonian Institution (website)",
-              "url": "https://www.si.edu/"
+              "url": "https://www.si.edu/",
+              "type": "website"
             },
             {
               "title": "World Wildlife Federation (website)",
-              "url": "https://www.worldwildlife.org/"
+              "url": "https://www.worldwildlife.org/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -548,7 +544,8 @@
           "resources": [
             {
               "title": "EXPEDITIONS | How to Get Started! (video)",
-              "url": "https://www.youtube.com/watch?v=80_ltIRYjd0"
+              "url": "https://www.youtube.com/watch?v=80_ltIRYjd0",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -571,15 +568,18 @@
           "resources": [
             {
               "title": "How to Plan an Expedition (video)",
-              "url": "https://www.youtube.com/watch?v=qcLKcFrnzlk&t=8s"
+              "url": "https://www.youtube.com/watch?v=qcLKcFrnzlk&t=8s",
+              "type": "video"
             },
             {
               "title": "Plan Your DREAM ADVENTURE: Expert Tips From a Pro Expedition Leader (video)",
-              "url": "https://youtu.be/WahqTpIFAhs?si=lGt65nOwLExTvtbJ"
+              "url": "https://youtu.be/WahqTpIFAhs?si=lGt65nOwLExTvtbJ",
+              "type": "video"
             },
             {
               "title": "How to Plan an Adventure | Plan a Camping Trip (video)",
-              "url": "https://youtu.be/79WYqkiExZU?si=eSNcCQUrJ53JlcRL"
+              "url": "https://youtu.be/79WYqkiExZU?si=eSNcCQUrJ53JlcRL",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -602,7 +602,8 @@
           "resources": [
             {
               "title": "How to Plan for Permits and Reservations (video)",
-              "url": "https://youtu.be/nup-uvbAfuU?si=CeutkSlZvOuJ81hU"
+              "url": "https://youtu.be/nup-uvbAfuU?si=CeutkSlZvOuJ81hU",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -661,7 +662,8 @@
           "resources": [
             {
               "title": "Essential Expedition Essentials Medical Kit Guide (video)",
-              "url": "https://youtu.be/A-pbC5aDBY0?si=mOFgZoJs9w26Iix6"
+              "url": "https://youtu.be/A-pbC5aDBY0?si=mOFgZoJs9w26Iix6",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -684,7 +686,8 @@
           "resources": [
             {
               "title": "Flight of the Osprey Media Team Selection (video)",
-              "url": "https://youtu.be/pDJHtE3BB_c?si=W6oyFePTcGnXQSM1"
+              "url": "https://youtu.be/pDJHtE3BB_c?si=W6oyFePTcGnXQSM1",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -707,7 +710,8 @@
           "resources": [
             {
               "title": "The 7 Fundamentals of Documenting Your Travels (website)",
-              "url": "https://matadornetwork.com/notebook/the-7-fundamentals-of-documenting-your-travels/"
+              "url": "https://matadornetwork.com/notebook/the-7-fundamentals-of-documenting-your-travels/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -820,7 +824,8 @@
           "resources": [
             {
               "title": "Scouting America SAFE Checklist (PDF)",
-              "url": "https://www.scouting.org/wp-content/uploads/2021/06/680-11421_SAFE.pdf"
+              "url": "https://www.scouting.org/wp-content/uploads/2021/06/680-11421_SAFE.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -896,11 +901,13 @@
           "resources": [
             {
               "title": "Leave No Trace Basics (video)",
-              "url": "https://vimeo.com/1115216743/63b20c0b33?share=copy"
+              "url": "https://vimeo.com/1115216743/63b20c0b33?share=copy",
+              "type": "video"
             },
             {
               "title": "Leave No Trace Outdoor Ethics (video)",
-              "url": "https://youtu.be/jXO1uY0MvmQ?si=_UhIOYBkw69c87ug"
+              "url": "https://youtu.be/jXO1uY0MvmQ?si=_UhIOYBkw69c87ug",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -976,15 +983,18 @@
           "resources": [
             {
               "title": "Ocean Exploration Careers (website)",
-              "url": "https://oceanexplorer.noaa.gov/careers/"
+              "url": "https://oceanexplorer.noaa.gov/careers/",
+              "type": "website"
             },
             {
               "title": "Unlocking Space Careers: Beyond Astronauts and Rocket (video)",
-              "url": "https://youtu.be/ljlpqd1Mjjs?si=V3Yaz18BvlIVnDpQ"
+              "url": "https://youtu.be/ljlpqd1Mjjs?si=V3Yaz18BvlIVnDpQ",
+              "type": "video"
             },
             {
               "title": "How I Became a Researcher (video)",
-              "url": "https://youtu.be/vOhyZ8FYCmw?si=9XLnEqu1IJIin0CH"
+              "url": "https://youtu.be/vOhyZ8FYCmw?si=9XLnEqu1IJIin0CH",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1007,15 +1017,18 @@
           "resources": [
             {
               "title": "Ready to Dive Into the Adventure of a Lifetime? Become a PADI Scuba Diver (video)",
-              "url": "https://youtu.be/XTeCkxJkUuE?si=VmbO1gpifOVW0QBF"
+              "url": "https://youtu.be/XTeCkxJkUuE?si=VmbO1gpifOVW0QBF",
+              "type": "video"
             },
             {
               "title": "Astronomy for Beginners (video)",
-              "url": "https://youtu.be/XLgPe_f-QCc?si=d_gbZFB7Spvr-vog"
+              "url": "https://youtu.be/XLgPe_f-QCc?si=d_gbZFB7Spvr-vog",
+              "type": "video"
             },
             {
               "title": "Permanent Orienteering Course (video)",
-              "url": "https://youtu.be/y4yfyUwkUxw?si=zGblxCqx7N5R4_W9"
+              "url": "https://youtu.be/y4yfyUwkUxw?si=zGblxCqx7N5R4_W9",
+              "type": "video"
             }
           ],
           "sub_requirements": []

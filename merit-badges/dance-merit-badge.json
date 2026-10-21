@@ -62,27 +62,90 @@
           "resources": [
             {
               "title": "Dancing – Preventing Injury",
-              "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/dancing-preventing-injury"
-            },
+              "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/dancing-preventing-injury",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "b",
+          "label": "b",
+          "text": "Explain to your counselor how to appropriately warm-up prior to dancing activities to protect joints and prevent injury. Demonstrate three dance warm-ups.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor how to appropriately warm-up prior to dancing activities to protect joints and prevent injury. Demonstrate three dance warm-ups."
+            }
+          ],
+          "resources": [
             {
               "title": "Dance Warm-up guide",
-              "url": "https://www.masterclass.com/articles/dance-warmups-guide"
+              "url": "https://www.masterclass.com/articles/dance-warmups-guide",
+              "type": "website"
             },
             {
               "title": "Ballet Warm-Up",
-              "url": "https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EULNkTzXWGVLon_nCX_z44cB3KKtQyiIqgevrUV3t25FcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vbl5tR"
-            },
+              "url": "https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EULNkTzXWGVLon_nCX_z44cB3KKtQyiIqgevrUV3t25FcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vbl5tR",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "c",
+          "label": "c",
+          "text": "Show that you know first aid for injuries that could occur while dancing, including cuts, scratches, abrasions, concussions, blisters, sprains, stress fractures, tendonitis, and back injuries.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Show that you know first aid for injuries that could occur while dancing, including cuts, scratches, abrasions, concussions, blisters, sprains, stress fractures, tendonitis, and back injuries."
+            }
+          ],
+          "resources": [
             {
               "title": "Back Injuries",
-              "url": "https://dancemagazine.com/back-injuries/#gsc.tab=0"
+              "url": "https://dancemagazine.com/back-injuries/#gsc.tab=0",
+              "type": "website"
             },
             {
               "title": "Back Injuries Common for Dancers",
-              "url": "https://tututix.com/common-back-injuries-dancers/"
-            },
+              "url": "https://tututix.com/common-back-injuries-dancers/",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "d",
+          "label": "d",
+          "text": "Explain the importance of wearing the right clothing and gear for dance, including appropriate footwear.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the importance of wearing the right clothing and gear for dance, including appropriate footwear."
+            }
+          ],
+          "resources": [
             {
               "title": "Dance Attire and Equipment",
-              "url": "https://www.dancehouseproductions.com/glossary/dance-attire-equipment.html"
+              "url": "https://www.dancehouseproductions.com/glossary/dance-attire-equipment.html",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -92,7 +155,7 @@
     {
       "id": "2",
       "label": "2",
-      "text": "Elements of Dance. Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy.",
+      "text": "Elements of Dance. Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy.\nResources:Do Ya Wanna Dance? Understanding the 5 Elements of Dance",
       "requirement_path": "2",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -113,12 +176,50 @@
         {
           "type": "text",
           "value": " Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy."
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "em",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Resources:"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/dance/do-you-wanna-dance/"
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Do Ya Wanna Dance? Understanding the 5 Elements of Dance"
+                }
+              ]
+            }
+          ]
         }
       ],
       "resources": [
         {
           "title": "Do Ya Wanna Dance? Understanding the 5 Elements of Dance",
-          "url": "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/dance/do-you-wanna-dance/"
+          "url": "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/dance/do-you-wanna-dance/",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -174,99 +275,389 @@
           "resources": [
             {
               "title": "Acrobatics/Acro Dance",
-              "url": "https://zabavaschool.com/what-is-acro-dance-guide-to-acrobatic-dance/"
-            },
+              "url": "https://zabavaschool.com/what-is-acro-dance-guide-to-acrobatic-dance/",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "b",
+          "label": "b",
+          "text": "Aerial (Silks, Hoop, etc.)",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Aerial (Silks, Hoop, etc.)"
+            }
+          ],
+          "resources": [
             {
               "title": "Aerial Dance",
-              "url": "https://aerialcirqueoverdenver.com/what-is-an-aerial-dancer/"
-            },
+              "url": "https://aerialcirqueoverdenver.com/what-is-an-aerial-dancer/",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "c",
+          "label": "c",
+          "text": "Ballet",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Ballet"
+            }
+          ],
+          "resources": [
             {
               "title": "Ballet",
-              "url": "https://fiveable.me/key-terms/ap-euro/ballet"
+              "url": "https://fiveable.me/key-terms/ap-euro/ballet",
+              "type": "website"
             },
             {
               "title": "Ballet Guide",
-              "url": "https://www.masterclass.com/articles/ballet-dance-guide"
-            },
+              "url": "https://www.masterclass.com/articles/ballet-dance-guide",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "d",
+          "label": "d",
+          "text": "Ballroom dances",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Ballroom dances"
+            }
+          ],
+          "resources": [
             {
               "title": "Ballroom dances",
-              "url": "https://www.britannica.com/art/ballroom-dance"
+              "url": "https://www.britannica.com/art/ballroom-dance",
+              "type": "website"
             },
             {
               "title": "Ballroom dance guide",
-              "url": "https://www.masterclass.com/articles/ballroom-dance-guide"
-            },
+              "url": "https://www.masterclass.com/articles/ballroom-dance-guide",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "e",
+          "label": "e",
+          "text": "Breakdancing",
+          "requirement_path": "3.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Breakdancing"
+            }
+          ],
+          "resources": [
             {
               "title": "Breakdancing",
-              "url": "https://www.britannica.com/art/break-dance"
+              "url": "https://www.britannica.com/art/break-dance",
+              "type": "website"
             },
             {
               "title": "Breakdancing guide",
-              "url": "https://www.masterclass.com/articles/breakdancing-guide"
-            },
+              "url": "https://www.masterclass.com/articles/breakdancing-guide",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "f",
+          "label": "f",
+          "text": "Clogging",
+          "requirement_path": "3.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Clogging"
+            }
+          ],
+          "resources": [
             {
               "title": "Clogging",
-              "url": "https://www.britannica.com/art/clog-dance"
+              "url": "https://www.britannica.com/art/clog-dance",
+              "type": "website"
             },
             {
               "title": "Clogging guide",
-              "url": "https://kids.kiddle.co/Clog_dancing"
-            },
+              "url": "https://kids.kiddle.co/Clog_dancing",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "g",
+          "label": "g",
+          "text": "Contemporary/Modern dance",
+          "requirement_path": "3.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Contemporary/Modern dance"
+            }
+          ],
+          "resources": [
             {
               "title": "Contemporary dance",
-              "url": "https://www.masterclass.com/articles/what-is-contemporary-dance"
+              "url": "https://www.masterclass.com/articles/what-is-contemporary-dance",
+              "type": "website"
             },
             {
               "title": "Modern dance",
-              "url": "https://www.britannica.com/art/modern-dance"
-            },
+              "url": "https://www.britannica.com/art/modern-dance",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "h",
+          "label": "h",
+          "text": "Country-Western",
+          "requirement_path": "3.h",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Country-Western"
+            }
+          ],
+          "resources": [
             {
               "title": "Country-Western dance",
-              "url": "https://www.youtube.com/watch?v=3MqEvgnsOHY&t=14s"
+              "url": "https://www.youtube.com/watch?v=3MqEvgnsOHY&t=14s",
+              "type": "video"
             },
             {
               "title": "Country-Western dance guide",
-              "url": "https://kids.kiddle.co/Country-western_dance"
-            },
+              "url": "https://kids.kiddle.co/Country-western_dance",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "i",
+          "label": "i",
+          "text": "Folk & Traditional/Cultural",
+          "requirement_path": "3.i",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Folk & Traditional/Cultural"
+            }
+          ],
+          "resources": [
             {
               "title": "Folk dance",
-              "url": "https://www.britannica.com/art/folk-dance"
+              "url": "https://www.britannica.com/art/folk-dance",
+              "type": "website"
             },
             {
               "title": "Traditional",
-              "url": "https://www.travelinsightpedia.com/13-traditional-dances-around-the-world"
+              "url": "https://www.travelinsightpedia.com/13-traditional-dances-around-the-world",
+              "type": "website"
             },
             {
               "title": "Cultural",
-              "url": "https://danceengagements.org/traditional-dances-from-around-the-world-a-complete-cultural-guide/"
-            },
+              "url": "https://danceengagements.org/traditional-dances-from-around-the-world-a-complete-cultural-guide/",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "j",
+          "label": "j",
+          "text": "Hip Hop",
+          "requirement_path": "3.j",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Hip Hop"
+            }
+          ],
+          "resources": [
             {
               "title": "Hip Hop",
-              "url": "https://www.masterclass.com/articles/hip-hop-dance-explained"
-            },
+              "url": "https://www.masterclass.com/articles/hip-hop-dance-explained",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "k",
+          "label": "k",
+          "text": "Jazz",
+          "requirement_path": "3.k",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Jazz"
+            }
+          ],
+          "resources": [
             {
               "title": "Jazz",
-              "url": "https://www.masterclass.com/articles/jazz-dance-guide"
-            },
+              "url": "https://www.masterclass.com/articles/jazz-dance-guide",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "l",
+          "label": "l",
+          "text": "Latin dances",
+          "requirement_path": "3.l",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Latin dances"
+            }
+          ],
+          "resources": [
             {
               "title": "Latin Dances",
-              "url": "https://www.danceus.org/latin-dance/"
-            },
+              "url": "https://www.danceus.org/latin-dance/",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "m",
+          "label": "m",
+          "text": "Square dances",
+          "requirement_path": "3.m",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Square dances"
+            }
+          ],
+          "resources": [
             {
               "title": "Square Dance",
-              "url": "https://www.masterclass.com/articles/square-dance-explained"
-            },
+              "url": "https://www.masterclass.com/articles/square-dance-explained",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "n",
+          "label": "n",
+          "text": "Swing dance",
+          "requirement_path": "3.n",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Swing dance"
+            }
+          ],
+          "resources": [
             {
               "title": "Swing dance",
-              "url": "https://www.bellaballroom.com/dance-lessons/swing-dance/"
+              "url": "https://www.bellaballroom.com/dance-lessons/swing-dance/",
+              "type": "website"
             },
             {
               "title": "History of Swing Dance",
-              "url": "https://theswingdancecompany.co.uk/history/"
-            },
+              "url": "https://theswingdancecompany.co.uk/history/",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "o",
+          "label": "o",
+          "text": "Tap dance",
+          "requirement_path": "3.o",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Tap dance"
+            }
+          ],
+          "resources": [
             {
               "title": "Tap dance",
-              "url": "https://www.masterclass.com/articles/tap-dance-guide"
+              "url": "https://www.masterclass.com/articles/tap-dance-guide",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -308,9 +699,9 @@
       "sub_requirements": [
         {
           "id": "a",
-          "label": null,
-          "text": "(a) Give a brief history, including its origin, how it came to be in the United States if it originated elsewhere, and where in the world/country it is most often performed. (b) Name/describe different variations of this style of dancing, if any. (c) Name some specific types of dance steps/moves particular to this type of dance. Does this dance tell a story through movement? If so, please describe. (d) Include information on at least one person who became well-known performing, teaching, or choreographing this type of dance. (e) Note if anyone with a physical disability (such a person with hearing or sight impairment or a person who uses a wheelchair) could participate in this type of dancing. What accommodations would that person need to participate? (f) Locate and share a place near you/in your state where you could watch or participate in this type of dance as a part of a performance, competition, or class. Find out when and where this is offered and what the cost would be to watch or participate. (g) Watch a performance of this type of dance and discuss with your counselor. (While viewing an in-person performance is preferable, a recorded performance may also be permitted.)",
-          "requirement_path": "4.item-1",
+          "label": "a",
+          "text": "Give a brief history, including its origin, how it came to be in the United States if it originated elsewhere, and where in the world/country it is most often performed.",
+          "requirement_path": "4.a",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
@@ -318,7 +709,115 @@
           "content": [
             {
               "type": "text",
-              "value": "(a) Give a brief history, including its origin, how it came to be in the United States if it originated elsewhere, and where in the world/country it is most often performed. (b) Name/describe different variations of this style of dancing, if any. (c) Name some specific types of dance steps/moves particular to this type of dance. Does this dance tell a story through movement? If so, please describe. (d) Include information on at least one person who became well-known performing, teaching, or choreographing this type of dance. (e) Note if anyone with a physical disability (such a person with hearing or sight impairment or a person who uses a wheelchair) could participate in this type of dancing. What accommodations would that person need to participate? (f) Locate and share a place near you/in your state where you could watch or participate in this type of dance as a part of a performance, competition, or class. Find out when and where this is offered and what the cost would be to watch or participate. (g) Watch a performance of this type of dance and discuss with your counselor. (While viewing an in-person performance is preferable, a recorded performance may also be permitted.)"
+              "value": "Give a brief history, including its origin, how it came to be in the United States if it originated elsewhere, and where in the world/country it is most often performed."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "b",
+          "label": "b",
+          "text": "Name/describe different variations of this style of dancing, if any.",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Name/describe different variations of this style of dancing, if any."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "c",
+          "label": "c",
+          "text": "Name some specific types of dance steps/moves particular to this type of dance. Does this dance tell a story through movement? If so, please describe.",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Name some specific types of dance steps/moves particular to this type of dance. Does this dance tell a story through movement? If so, please describe."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "d",
+          "label": "d",
+          "text": "Include information on at least one person who became well-known performing, teaching, or choreographing this type of dance.",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Include information on at least one person who became well-known performing, teaching, or choreographing this type of dance."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "e",
+          "label": "e",
+          "text": "Note if anyone with a physical disability (such a person with hearing or sight impairment or a person who uses a wheelchair) could participate in this type of dancing. What accommodations would that person need to participate?",
+          "requirement_path": "4.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Note if anyone with a physical disability (such a person with hearing or sight impairment or a person who uses a wheelchair) could participate in this type of dancing. What accommodations would that person need to participate?"
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "f",
+          "label": "f",
+          "text": "Locate and share a place near you/in your state where you could watch or participate in this type of dance as a part of a performance, competition, or class. Find out when and where this is offered and what the cost would be to watch or participate.",
+          "requirement_path": "4.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Locate and share a place near you/in your state where you could watch or participate in this type of dance as a part of a performance, competition, or class. Find out when and where this is offered and what the cost would be to watch or participate."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "g",
+          "label": "g",
+          "text": "Watch a performance of this type of dance and discuss with your counselor. (While viewing an in-person performance is preferable, a recorded performance may also be permitted.)",
+          "requirement_path": "4.g",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Watch a performance of this type of dance and discuss with your counselor. (While viewing an in-person performance is preferable, a recorded performance may also be permitted.)"
             }
           ],
           "resources": [],
@@ -361,9 +860,9 @@
       "sub_requirements": [
         {
           "id": "a",
-          "label": null,
-          "text": "(a) Learn a dance. Use at least THREE types of warm-ups prior to your routine to prepare different muscle groups for the exercise. The dance may be solo, group, or partner dance and can use a memorized choreographed routine or an improvised dance. It should be a minimum of 2 minutes long or several shorter dances that add up to at least 2 minutes. The dance should demonstrate at least three different dance moves/steps and should contain music with Scout-appropriate lyrics, if applicable. (b) Perform the dance for your counselor or submit a video of your performance to your counselor. Describe to your counselor what precautions you took to avoid injury before and during your performance. Name or describe the 3 different dance moves that you learned, the 3 different warm-ups you chose, and the 5 Elements of Dance in your routine.",
-          "requirement_path": "5.item-1",
+          "label": "a",
+          "text": "Learn a dance. Use at least THREE types of warm-ups prior to your routine to prepare different muscle groups for the exercise. The dance may be solo, group, or partner dance and can use a memorized choreographed routine or an improvised dance. It should be a minimum of 2 minutes long or several shorter dances that add up to at least 2 minutes. The dance should demonstrate at least three different dance moves/steps and should contain music with Scout-appropriate lyrics, if applicable.",
+          "requirement_path": "5.a",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
@@ -371,37 +870,75 @@
           "content": [
             {
               "type": "text",
-              "value": "(a) Learn a dance. Use at least THREE types of warm-ups prior to your routine to prepare different muscle groups for the exercise. The dance may be solo, group, or partner dance and can use a memorized choreographed routine or an improvised dance. It should be a minimum of 2 minutes long or several shorter dances that add up to at least 2 minutes. The dance should demonstrate at least three different dance moves/steps and should contain music with Scout-appropriate lyrics, if applicable. (b) Perform the dance for your counselor or submit a video of your performance to your counselor. Describe to your counselor what precautions you took to avoid injury before and during your performance. Name or describe the 3 different dance moves that you learned, the 3 different warm-ups you chose, and the 5 Elements of Dance in your routine."
+              "value": "Learn a dance. Use at least THREE types of warm-ups prior to your routine to prepare different muscle groups for the exercise. The dance may be solo, group, or partner dance and can use a memorized choreographed routine or an improvised dance. It should be a minimum of 2 minutes long or several shorter dances that add up to at least 2 minutes. The dance should demonstrate at least three different dance moves/steps and should contain music with Scout-appropriate lyrics, if applicable."
             }
           ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "b",
+          "label": "b",
+          "text": "Perform the dance for your counselor or submit a video of your performance to your counselor. Describe to your counselor what precautions you took to avoid injury before and during your performance. Name or describe the 3 different dance moves that you learned, the 3 different warm-ups you chose, and the 5 Elements of Dance in your routine.",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Perform the dance for your counselor or submit a video of your performance to your counselor. Describe to your counselor what precautions you took to avoid injury before and during your performance. Name or describe the 3 different dance moves that you learned, the 3 different warm-ups you chose, and the 5 Elements of Dance in your routine."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "",
+          "label": null,
+          "text": "",
+          "requirement_path": "5.item-3",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [],
           "resources": [
             {
               "title": "Easy Hip Hop Routine tutorial",
-              "url": "https://youtu.be/h3DSYn2jIKE?si=KpKT7NhN9cX-QsIN"
+              "url": "https://youtu.be/h3DSYn2jIKE?si=KpKT7NhN9cX-QsIN",
+              "type": "video"
             },
             {
               "title": "Lyrical Contemporary: Ghost Town",
-              "url": "https://youtu.be/uaV1yiy0UAY?si=ZoPPzT4peamOBJ-v"
+              "url": "https://youtu.be/uaV1yiy0UAY?si=ZoPPzT4peamOBJ-v",
+              "type": "video"
             },
             {
               "title": "Wreck it Ralph: Line Dance",
-              "url": "https://youtu.be/TI4kbjCuL_Y?si=H6xjXDAs0gbWGhr1"
+              "url": "https://youtu.be/TI4kbjCuL_Y?si=H6xjXDAs0gbWGhr1",
+              "type": "video"
             },
             {
               "title": "Disco dance: Napoleon Dynamite",
-              "url": "https://youtu.be/R95dgId-HBQ?si=YHMhOXf_aMxjCPNF"
+              "url": "https://youtu.be/R95dgId-HBQ?si=YHMhOXf_aMxjCPNF",
+              "type": "video"
             },
             {
               "title": "Maori Haka tutorial",
-              "url": "https://www.newzealand.com/int/feature/haka/"
+              "url": "https://www.newzealand.com/int/feature/haka/",
+              "type": "website"
             },
             {
               "title": "Tap Combo Beginning-Intermediate",
-              "url": "https://youtu.be/DVASTJxwsJ8?si=sytjCxBhyJDrRY3U"
+              "url": "https://youtu.be/DVASTJxwsJ8?si=sytjCxBhyJDrRY3U",
+              "type": "video"
             },
             {
               "title": "Latin Cha-cha/solo routine",
-              "url": "https://youtu.be/nCIxB3QEKe8?si=2DiTxEDeW9umIcyf"
+              "url": "https://youtu.be/nCIxB3QEKe8?si=2DiTxEDeW9umIcyf",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -454,30 +991,95 @@
             {
               "type": "text",
               "value": "Explore careers related to Dance. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
             }
           ],
           "resources": [
             {
               "title": "15 Great Dance Related Jobs for Dancers",
-              "url": "https://www.danceinforma.com/2015/04/01/15-great-dance-related-jobs-dancers/"
+              "url": "https://www.danceinforma.com/2015/04/01/15-great-dance-related-jobs-dancers/",
+              "type": "website"
             },
             {
               "title": "Occupational Outlook Handbook",
-              "url": "https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm"
+              "url": "https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm",
+              "type": "website"
             },
             {
               "title": "Cost to become a Dance Instructor",
-              "url": "https://insurefitness.com/dance-instructor/start/cost/"
+              "url": "https://insurefitness.com/dance-instructor/start/cost/",
+              "type": "website"
             },
             {
               "title": "How Dance Can Unleash Your Inner Joy",
-              "url": "https://youtu.be/ZHhmi2bS0hU"
+              "url": "https://youtu.be/ZHhmi2bS0hU",
+              "type": "video"
             },
             {
               "title": "Dancing as a Hobby",
-              "url": "https://hobbyfaqs.com/dancing-hobby/"
+              "url": "https://hobbyfaqs.com/dancing-hobby/",
+              "type": "website"
             }
           ],
+          "sub_requirements": []
+        },
+        {
+          "id": "b",
+          "label": "b",
+          "text": "Explore how you could use knowledge and skills from dance to pursue a hobby. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.\n(video)\nDancing as a Hobby",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Explore how you could use knowledge and skills from dance to pursue a hobby. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "text",
+              "value": "(video)"
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://hobbyfaqs.com/dancing-hobby/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dancing as a Hobby"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "resources": [],
           "sub_requirements": []
         }
       ]
@@ -504,7 +1106,13 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Go to Survey",
+          "url": "https://scouting.co1.qualtrics.com/jfe/form/SV_40brLNN8LSYjUXk",
+          "type": "survey"
+        }
+      ],
       "sub_requirements": []
     }
   ]

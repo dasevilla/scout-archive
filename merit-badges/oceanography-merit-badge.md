@@ -51,7 +51,9 @@ The oceans cover more than 70 percent of our planet and are the dominant feature
   **Resources:** [Nekton, Benthos, and Plankton (video)](https://youtu.be/4cguoY4qTXA), [Feeding the Sea: Phytoplankton Fuel Ocean Life (video)](https://youtu.be/AWfebk0_auY), [NASA \| Earth Science Week: The Ocean's Green Machines (video)](https://youtu.be/H7sACT0Dx0Q), [Open Ocean Food Chain (website)](https://teara.govt.nz/en/video/5354/open-ocean-food-chain)
 
 - (7) Do ONE of the following:
-  - (a) Make a plankton net. Tow the net by a dock, wade with it, hold it in a current, or tow it from a rowboat. Do this for about 20 minutes. Save the sample. Examine it under a microscope or high-power glass. Identify the three most common types of plankton in the sample.**Note:** May be done in lakes or streams.
+  - (a) Make a plankton net. Tow the net by a dock, wade with it, hold it in a current, or tow it from a rowboat. Do this for about 20 minutes. Save the sample. Examine it under a microscope or high-power glass. Identify the three most common types of plankton in the sample.
+
+    **Note:** May be done in lakes or streams.
 
     **Resources:** [How to Make a Soda Bottle Plankton Net (video)](https://youtu.be/e-MYhWcWWXw), [Make Your Own Plankton Net! (video)](https://youtu.be/HBcuGbMc8cU?si=c6sGRZYkRXv9QDtE)
   - (b) Make a series of models (clay or plaster and wood) of a volcanic island. Show the growth of an atoll from a fringing reef through a barrier reef. Describe the Darwinian theory of coral reef formation.

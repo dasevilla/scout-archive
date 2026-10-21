@@ -29,8 +29,9 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
   - (a) Learn what Particulate Matter (PM) is, how PM gets into the air, what the harmful effects of PM are, and what is being done to reduce PM in the air. Then, perform an experiment to test for particulates that contribute to air pollution.
 
     **Resources:** [Particulate Matter (video)](https://www.youtube.com/watch?v=zj4rd77EAt4)
-  - (b) Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.). Resources: [Your Car's Exhaust (video)](https://youtu.be/WTg4i-5N62U)
-    [Air Quality and Transportation (video)](https://youtu.be/TF1hxpcy4so)
+  - (b) Discuss how air pollution and transportation affect each other by giving at least three examples. Then, compare two modes of transportation (e.g., gasoline-powered vs. electric vehicles, gasoline-powered car vs. bicycle, etc.).
+
+    **Resources:** [Your Car's Exhaust (video)](https://youtu.be/WTg4i-5N62U), [Air Quality and Transportation (video)](https://youtu.be/TF1hxpcy4so)
   - (c) Learn about the Clean Air Act. Make notes on when it was passed, its environmental goals, what progress has been made and what remains to be done to achieve the law's goals. Describe the impact, benefits, and costs of the law as well as what is required to implement and enforce the law.
 
     **Resources:** [Clean Air Act (video)](https://www.youtube.com/watch?v=um517CsDC2w)

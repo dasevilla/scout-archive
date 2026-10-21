@@ -73,7 +73,8 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
 
   **Resources:** [Fish Identification Apps (app)](https://freeappsforme.com/fish-identification-apps/), [How To Identify Common Freshwater Fish (video)](https://youtu.be/mZ4M-AP6-iQ)
 
-- (11) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. **Note:** It is not required that you eat the fish.
+- (11) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired.
+  **Note:** It is not required that you eat the fish.
 
   **Resources:** [How To Clean, Descale, and Gut a Fresh Fish (video)](https://youtu.be/ZiGEN2F_spc), [How To Clean and Care for Your Catch (video)](https://youtu.be/uBDYqh8p2fU), [How To Fillet a Fish (video)](https://www.youtube.com/shorts/hca5xiZbulY?feature=share), [How To Clean a Fish Before Cooking (video)](https://www.youtube.com/shorts/u19fJ10kAVo?feature=share), [How To Cook a Fish (video)](https://youtu.be/BSQhEjSalwk), [5 Easy Ways To Cook Fish (video)](https://youtu.be/Tgv7tCx2NsA)
 

@@ -28,7 +28,9 @@ The field of graphic arts includes many kinds of work in the printing and publis
   - (a) **Offset lithography.** Make a layout, and produce a plate using a process approved by your counselor. Run the plate and print at least 50 copies.
 
     **Resources:** [Offset Lithography Demonstration (video)](https://youtu.be/e4GmiXXAvuA)
-  - (b) **Screen printing.** Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies. Resource: [Screen Printing Tutorial (video)](https://youtu.be/LB__fEeO6no)
+  - (b) **Screen printing.** Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies.
+
+    **Resources:** [Screen Printing Tutorial (video)](https://youtu.be/LB__fEeO6no)
   - (c) **Electronic/digital printing.** Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.
 
     **Resources:** [What Is Digital Printing? (video)](https://youtube.com/shorts/pxunJD8QqJI)

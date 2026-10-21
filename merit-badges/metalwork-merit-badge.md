@@ -56,10 +56,11 @@ Scouts will begin their work on this merit badge by learning about the propertie
     - (3) Make two objects out of 24- or 26-gauge sheet metal. Use patterns either provided by your counselor or made by you and approved by your counselor. Construct these objects using a metal that is appropriate to the object's ultimate purpose, and using cutting, bending, edging, and either soldering or brazing.
 
       **Resources:** [How To Make a Sheet Metal Box (video)](https://youtu.be/XtiYADl3PEo)
-    - (a) One object also must include at least one riveted component.
-    - (b) If you do not make your objects from zinc-plated sheet steel or tin-plated sheet steel, preserve your work from oxidation.
 
-      **Resources:** [How To Prevent Rust (video)](https://youtu.be/_-Gfwzc5ASE)
+      - (a) One object also must include at least one riveted component.
+      - (b) If you do not make your objects from zinc-plated sheet steel or tin-plated sheet steel, preserve your work from oxidation.
+
+        **Resources:** [How To Prevent Rust (video)](https://youtu.be/_-Gfwzc5ASE)
   - **Option B—Silversmith.** Do ALL of the following:
     - (1) Name and describe the use of a silversmith's basic tools.
 
@@ -68,25 +69,29 @@ Scouts will begin their work on this merit badge by learning about the propertie
     - (3) Make two objects out of 18- or 20-gauge sheet copper. Use patterns either provided by your counselor or made by you and approved by your counselor. Both objects must include a soldered joint. If you have prior silversmithing experience, you may substitute sterling silver, nickel silver, or lead-free pewter.
 
       **Resources:** [The Basics of Soldering \| Jewelry 101 (video)](https://youtu.be/Q_gejiVEClE)
-    - (a) At least one object must include a sawed component you have made yourself.
 
-      **Resources:** [Step-by-Step Guide to Sawing for Handmade Jewelry (video)](https://youtu.be/KfA9HlzyAHU)
-    - (b) At least one object must include a sunken part you have made yourself.
+      - (a) At least one object must include a sawed component you have made yourself.
 
-      **Resources:** [Basic Sinking & Planishing (video)](https://youtu.be/_kGPPtUYuI4)
-    - (c) Clean and polish your objects.
+        **Resources:** [Step-by-Step Guide to Sawing for Handmade Jewelry (video)](https://youtu.be/KfA9HlzyAHU)
+      - (b) At least one object must include a sunken part you have made yourself.
 
-      **Resources:** [How I Clean & Polish Jewelry RIGHT After Casting \| Step By Step (video)](https://youtu.be/A-NTbRUhASQ)
+        **Resources:** [Basic Sinking & Planishing (video)](https://youtu.be/_kGPPtUYuI4)
+      - (c) Clean and polish your objects.
+
+        **Resources:** [How I Clean & Polish Jewelry RIGHT After Casting \| Step By Step (video)](https://youtu.be/A-NTbRUhASQ)
   - **Option C—Founder.** Do ALL of the following:
     - (1) Name and describe the use of the basic parts of a two-piece mold. Name at least three different types of molds.
 
       **Resources:** [What Are the Common Types of Metal Casting Process in Engineering and Industry (video)](https://youtu.be/VveT7Ve7IeQ)
     - (2) Create a sketch of two objects to cast in metal. Include each component's dimensions on your sketch, which need not be to scale.
-    - (3) Make two molds, one using a pattern provided by your counselor and another one you have made yourself that has been approved by your counselor. Position the pouring gate and vents yourself. **Note:** Do not use copyrighted materials as patterns.
+    - (3) Make two molds, one using a pattern provided by your counselor and another one you have made yourself that has been approved by your counselor. Position the pouring gate and vents yourself.
+
+      **Note:** Do not use copyrighted materials as patterns.
 
       **Resources:** [Sand Casting Lesson for Beginners - Step-by-Step (video)](https://youtu.be/XlRK_SMWX7Y)
-    - (a) Using lead-free pewter, make a casting using a mold provided by your counselor.
-    - (b) Using lead-free pewter, make a casting using the mold that you have made.
+
+      - (a) Using lead-free pewter, make a casting using a mold provided by your counselor.
+      - (b) Using lead-free pewter, make a casting using the mold that you have made.
   - **Option D—Blacksmith.** Do ALL of the following:
     - (1) Name and describe the use of a blacksmith's basic tools.
 
@@ -106,15 +111,15 @@ Scouts will begin their work on this merit badge by learning about the propertie
 
         **Resources:** [Fundamentals of Blacksmithing - Bending (video)](https://youtu.be/Rudy5ZNGp1A?si=p_11xuWq6tk_Nq6M)
     - (4) Using low-carbon steel at least 1/4 inch thick, make the two objects you sketched that require hot-forging. Be sure you have your counselor's approval before you begin.
-    - (a) Include a decorative twist on one object.
+      - (a) Include a decorative twist on one object.
 
-      **Resources:** [Blacksmithing for Beginners - Twisting Bar Stock (video)](https://youtu.be/PINugkxOues?si=XuDneyIAtlTuzb78)
-    - (b) Include a hammer-riveted joint in one object.
+        **Resources:** [Blacksmithing for Beginners - Twisting Bar Stock (video)](https://youtu.be/PINugkxOues?si=XuDneyIAtlTuzb78)
+      - (b) Include a hammer-riveted joint in one object.
 
-      **Resources:** [Forging Red Hot Rivet on This Awesome Anvil (video)](https://youtube.com/shorts/A73-0yq-XKQ?si=KfdUqcsa5E1Q-NBS)
-    - (c) Preserve your work from oxidation.
+        **Resources:** [Forging Red Hot Rivet on This Awesome Anvil (video)](https://youtube.com/shorts/A73-0yq-XKQ?si=KfdUqcsa5E1Q-NBS)
+      - (c) Preserve your work from oxidation.
 
-      **Resources:** [Preventing Rust The Old Fashioned Way And Protecting Some Gifts (video)](https://youtu.be/xIvjVN7bk5w?si=QWPSQ_-ghLJ1hi45)
+        **Resources:** [Preventing Rust The Old Fashioned Way And Protecting Some Gifts (video)](https://youtu.be/xIvjVN7bk5w?si=QWPSQ_-ghLJ1hi45)
 
 ## Resources
 

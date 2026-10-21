@@ -11,6 +11,8 @@ Realize the benefits of diversity, equity, inclusion, and ethical leadership wit
 
 - **NOTE: "Discussion" requirements will be either with a counselor and another individual (in accordance with Safeguarding Youth Guidelines [https://www.scouting.org/health-and-safety/gss/gss01/](https://www.scouting.org/health-and-safety/gss/gss01/)), or with your counselor and a small group (of Scouts), depending upon your preference.**
 
+  **Resources:** [https://www.scouting.org/health-and-safety/gss/gss01/](https://www.scouting.org/health-and-safety/gss/gss01/)
+
 - (1) Before beginning work on other requirements for this merit badge, research the following terms and explain to your counselor how you feel they relate to the Scout Oath and Scout Law: identities, diversity, equality, equity, inclusion, discrimination, ethical leadership, and upstander.
 
 - (2) Document and discuss with your counselor what leadership means to you. Share what it means to make ethical decisions.

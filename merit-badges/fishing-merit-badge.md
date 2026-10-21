@@ -61,7 +61,8 @@ Fishing is one of Scouting’s essential skills and teaches Scouts to feed thems
 
   **Resources:** [Fish Identification Apps (app)](https://freeappsforme.com/fish-identification-apps/), [FishBase Identification  (website)](https://www.fishbase.us/), [How to Identify Common Freshwater Fish (video)](https://youtu.be/mZ4M-AP6-iQ)
 
-- (10) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. **Note:** It is not required that you eat the fish.
+- (10) If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired.
+  **Note:** It is not required that you eat the fish.
 
   **Resources:** [How To Clean and Care for Your Catch (video)](https://youtu.be/uBDYqh8p2fU), [How To Fillet a Fish (video)](https://www.youtube.com/shorts/hca5xiZbulY), [How To Cook a Fish (video)](https://youtu.be/BSQhEjSalwk), [5 Easy Ways To Cook Fish (video)](https://youtu.be/Tgv7tCx2NsA)
 

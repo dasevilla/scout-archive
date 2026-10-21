@@ -29,11 +29,13 @@
       "resources": [
         {
           "title": "How Coins Are Made—Inside U.S. Coin Factory (video)",
-          "url": "https://youtu.be/PIwUqiedeRo"
+          "url": "https://youtu.be/PIwUqiedeRo",
+          "type": "video"
         },
         {
           "title": "US Mint Locations in the US (website)",
-          "url": "https://www.usmint.gov/about/tours-and-locations"
+          "url": "https://www.usmint.gov/about/tours-and-locations",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -56,11 +58,13 @@
       "resources": [
         {
           "title": "Coin Term Glossary (website)",
-          "url": "https://www.usmint.gov/learn/collecting-basics/glossary"
+          "url": "https://www.usmint.gov/learn/collecting-basics/glossary",
+          "type": "website"
         },
         {
           "title": "Coin Collecting for Beginners; Coin Terminology and Coin Anatomy (video)",
-          "url": "https://youtu.be/-tWMpOVGyOU"
+          "url": "https://youtu.be/-tWMpOVGyOU",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -83,7 +87,8 @@
       "resources": [
         {
           "title": "Coin Storage Tips | How and Where to Keep Your Collection Safe (video)",
-          "url": "https://youtu.be/hlrjZhNcaUk"
+          "url": "https://youtu.be/hlrjZhNcaUk",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -111,7 +116,8 @@
       "resources": [
         {
           "title": "Coin Collecting 101 for Beginners: What You Need to Know to Start Coin Collecting (video)",
-          "url": "https://youtu.be/cdeGZ8yJyZQ"
+          "url": "https://youtu.be/cdeGZ8yJyZQ",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -187,15 +193,18 @@
           "resources": [
             {
               "title": "Collecting State Quarters (video)",
-              "url": "https://youtu.be/aT93UvK8GKs"
+              "url": "https://youtu.be/aT93UvK8GKs",
+              "type": "video"
             },
             {
               "title": "America the Beautiful Quarters® Program (video)",
-              "url": "https://youtu.be/EhT0DuFrWgY"
+              "url": "https://youtu.be/EhT0DuFrWgY",
+              "type": "video"
             },
             {
               "title": "American Women Quarters® Program (video)",
-              "url": "https://youtu.be/F9vlvwHOQWQ"
+              "url": "https://youtu.be/F9vlvwHOQWQ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -236,15 +245,18 @@
           "resources": [
             {
               "title": "Susan B. Anthony Coins (website)",
-              "url": "https://susanbanthonycoin.com/"
+              "url": "https://susanbanthonycoin.com/",
+              "type": "website"
             },
             {
               "title": "Sacagawea Coins (website)",
-              "url": "https://sacagawea-coin.com/"
+              "url": "https://sacagawea-coin.com/",
+              "type": "website"
             },
             {
               "title": "Presidential Dollar Coins (website)",
-              "url": "https://www.usmint.gov/learn/coins-and-medals/collectible-coins/presidential-dollar-coins"
+              "url": "https://www.usmint.gov/learn/coins-and-medals/collectible-coins/presidential-dollar-coins",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -269,7 +281,8 @@
       "resources": [
         {
           "title": "Bicentennial Coins & Medals (website)",
-          "url": "https://www.usmint.gov/learn/coins-and-medals/bicentennial-coins-and-medals"
+          "url": "https://www.usmint.gov/learn/coins-and-medals/bicentennial-coins-and-medals",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -292,11 +305,13 @@
       "resources": [
         {
           "title": "How Money is Made (video)",
-          "url": "https://www.bep.gov/currency/how-money-is-made"
+          "url": "https://www.bep.gov/currency/how-money-is-made",
+          "type": "video"
         },
         {
           "title": "Do You Know Who Is on Every US Banknote? (video)",
-          "url": "https://www.youtube.com/shorts/Mdlw67Rt7lA?feature=share"
+          "url": "https://www.youtube.com/shorts/Mdlw67Rt7lA?feature=share",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -377,7 +392,8 @@
           "resources": [
             {
               "title": "Exonumia (Tokens and Medals) (website)",
-              "url": "https://stacksbowers.com/coin-resource-center/coin-collectors-guide/exonumia-tokens-medals-guide/"
+              "url": "https://stacksbowers.com/coin-resource-center/coin-collectors-guide/exonumia-tokens-medals-guide/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -387,9 +403,9 @@
           "label": "d",
           "text": "Complete one of the following and report to your counselor what you experienced:",
           "requirement_path": "7.d",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Complete one of the following and report to your counselor what you experienced:",
@@ -422,7 +438,8 @@
               "resources": [
                 {
                   "title": "National and Regional Coin Shows for Collectors (website)",
-                  "url": "https://www.govmint.com/learn/post/best-national-regional-coin-shows-for-collectors"
+                  "url": "https://www.govmint.com/learn/post/best-national-regional-coin-shows-for-collectors",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -445,7 +462,8 @@
               "resources": [
                 {
                   "title": "Local Coin Club Directory (website)",
-                  "url": "https://www.money.org/club-directory/"
+                  "url": "https://www.money.org/club-directory/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -468,7 +486,8 @@
               "resources": [
                 {
                   "title": "US Mint Locations in the US (website)",
-                  "url": "https://www.usmint.gov/about/tours-and-locations"
+                  "url": "https://www.usmint.gov/about/tours-and-locations",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []
@@ -491,15 +510,18 @@
               "resources": [
                 {
                   "title": "Virtual Tours (website)",
-                  "url": "https://www.money.org/money-museum/virtual-tours/"
+                  "url": "https://www.money.org/money-museum/virtual-tours/",
+                  "type": "website"
                 },
                 {
                   "title": "History of Money Exhibit (website)",
-                  "url": "https://www.money.org/money-museum/virtual-exhibits-hom/"
+                  "url": "https://www.money.org/money-museum/virtual-exhibits-hom/",
+                  "type": "website"
                 },
                 {
                   "title": "Medal in America Exhibit (website)",
-                  "url": "https://www.money.org/money-museum/virtual-exhibits-mia/"
+                  "url": "https://www.money.org/money-museum/virtual-exhibits-mia/",
+                  "type": "website"
                 }
               ],
               "sub_requirements": []

@@ -54,7 +54,13 @@
           "value": " for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!"
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "HERE",
+          "url": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/competitive-gaming/",
+          "type": "website"
+        }
+      ],
       "sub_requirements": []
     },
     {
@@ -108,19 +114,23 @@
           "resources": [
             {
               "title": "Video Game History Timeline (website)",
-              "url": "https://www.museumofplay.org/video-game-history-timeline/"
+              "url": "https://www.museumofplay.org/video-game-history-timeline/",
+              "type": "website"
             },
             {
               "title": "The History of Video Games: From Pong to Fortnite (video)",
-              "url": "https://youtu.be/vQ0XSceaPNs"
+              "url": "https://youtu.be/vQ0XSceaPNs",
+              "type": "video"
             },
             {
               "title": "The Video Game Revolution (website)",
-              "url": "https://www.pbs.org/kcts/videogamerevolution/history/index.html"
+              "url": "https://www.pbs.org/kcts/videogamerevolution/history/index.html",
+              "type": "website"
             },
             {
               "title": "The Worst Video Game Ever (website w/ video)",
-              "url": "https://www.si.edu/sidedoor/ep-15-worst-video-game-ever?page=1"
+              "url": "https://www.si.edu/sidedoor/ep-15-worst-video-game-ever?page=1",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -143,15 +153,18 @@
           "resources": [
             {
               "title": "Glitchwave Game Genres (website)",
-              "url": "https://glitchwave.com/games/genre/"
+              "url": "https://glitchwave.com/games/genre/",
+              "type": "website"
             },
             {
               "title": "Esports Genres Explained (website)",
-              "url": "https://esportsinsider.com/esports-genres-explained"
+              "url": "https://esportsinsider.com/esports-genres-explained",
+              "type": "website"
             },
             {
               "title": "Explore All Video Game Genres (website)",
-              "url": "https://gamedesigning.org/gaming/video-game-genres/"
+              "url": "https://gamedesigning.org/gaming/video-game-genres/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -174,15 +187,18 @@
           "resources": [
             {
               "title": "Gaming vs. Esports (video)",
-              "url": "https://drive.google.com/file/d/12HVwGZbzfuvZNJ1fT7Htygk7BgyFnSXF/view"
+              "url": "https://drive.google.com/file/d/12HVwGZbzfuvZNJ1fT7Htygk7BgyFnSXF/view",
+              "type": "video"
             },
             {
               "title": "Video Gaming and Esports (website)",
-              "url": "https://hwb.gov.wales/keeping-safe-online/views-from-the-experts/video-gaming-and-esports-the-differences-and-distinctions-in-detail"
+              "url": "https://hwb.gov.wales/keeping-safe-online/views-from-the-experts/video-gaming-and-esports-the-differences-and-distinctions-in-detail",
+              "type": "website"
             },
             {
               "title": "PlayVS Game Title Overview (website)",
-              "url": "https://help.playvs.com/en/articles/5915810-game-title-overview"
+              "url": "https://help.playvs.com/en/articles/5915810-game-title-overview",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -205,7 +221,8 @@
           "resources": [
             {
               "title": "Major Milestones in Esports History: A Timeline (website)",
-              "url": "https://whatisesports.xyz/major-milestones-esports-history-timeline/"
+              "url": "https://whatisesports.xyz/major-milestones-esports-history-timeline/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -249,6 +266,10 @@
           "children": [
             {
               "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
               "value": "Note:"
             }
           ]
@@ -261,7 +282,8 @@
       "resources": [
         {
           "title": "Digital Safety (video)",
-          "url": "https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4"
+          "url": "https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -283,11 +305,13 @@
           "resources": [
             {
               "title": "Good Game Playbook for Teens (PDF)",
-              "url": "https://staticctf.ubisoft.com/8aefmxkxpxwl/1wJowtd0nH3HS8gAANwF3i/0d0f9fe2d3f9ac6315e069b109aad640/Good_Game_Playbook_for_Teens_EN.pdf"
+              "url": "https://staticctf.ubisoft.com/8aefmxkxpxwl/1wJowtd0nH3HS8gAANwF3i/0d0f9fe2d3f9ac6315e069b109aad640/Good_Game_Playbook_for_Teens_EN.pdf",
+              "type": "document"
             },
             {
               "title": "Game Changer Resource Guide (website)",
-              "url": "https://alltogethernow.org.au/our-work/far-right-extremism/game-changers-resources-guide/"
+              "url": "https://alltogethernow.org.au/our-work/far-right-extremism/game-changers-resources-guide/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -310,11 +334,13 @@
           "resources": [
             {
               "title": "How To Deal With Toxic Players: A Gamer's Guide to Staying Sane Online (website)",
-              "url": "https://www.twoaveragegamers.com/how-to-deal-with-toxic-players-a-gamers-guide-to-staying-sane-online/"
+              "url": "https://www.twoaveragegamers.com/how-to-deal-with-toxic-players-a-gamers-guide-to-staying-sane-online/",
+              "type": "website"
             },
             {
               "title": "Bullying and Cyberbullying (website)",
-              "url": "https://www.childline.org.uk/info-advice/bullying-abuse-safety/types-bullying/bullying-cyberbullying/"
+              "url": "https://www.childline.org.uk/info-advice/bullying-abuse-safety/types-bullying/bullying-cyberbullying/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -337,11 +363,13 @@
           "resources": [
             {
               "title": "Video Games Age Ratings Explained (website)",
-              "url": "https://www.internetmatters.org/resources/video-games-age-ratings-explained/"
+              "url": "https://www.internetmatters.org/resources/video-games-age-ratings-explained/",
+              "type": "website"
             },
             {
               "title": "Search ESRB Game Ratings (website)",
-              "url": "https://www.esrb.org/search/"
+              "url": "https://www.esrb.org/search/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -364,11 +392,13 @@
           "resources": [
             {
               "title": "The Ultimate Guide to Non-Toxic Gaming Communities (website)",
-              "url": "https://www.twoaveragegamers.com/the-ultimate-guide-to-non-toxic-gaming-communities/"
+              "url": "https://www.twoaveragegamers.com/the-ultimate-guide-to-non-toxic-gaming-communities/",
+              "type": "website"
             },
             {
               "title": "What Kids Can Do (website)",
-              "url": "https://www.stopbullying.gov/kids/what-you-can-do"
+              "url": "https://www.stopbullying.gov/kids/what-you-can-do",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -426,27 +456,33 @@
           "resources": [
             {
               "title": "The Surprising Benefits of Video Games (website)",
-              "url": "https://www.popsci.com/health/video-game-benefits/"
+              "url": "https://www.popsci.com/health/video-game-benefits/",
+              "type": "website"
             },
             {
               "title": "Are Video Games Good for You? (website)",
-              "url": "https://health.clevelandclinic.org/are-video-games-good-for-you"
+              "url": "https://health.clevelandclinic.org/are-video-games-good-for-you",
+              "type": "website"
             },
             {
               "title": "How Video Games Can Level Up the Way You Learn (video)",
-              "url": "https://www.ted.com/talks/kris_alexander_how_video_games_can_level_up_the_way_you_learn"
+              "url": "https://www.ted.com/talks/kris_alexander_how_video_games_can_level_up_the_way_you_learn",
+              "type": "video"
             },
             {
               "title": "How Video Games Affect Kids' Behavioral Health: The Hidden Risks (website)",
-              "url": "https://www.kidsvillepeds.com/blog/1290873-how-video-games-affect-kids-behavioral-health-the-hidden-risks/"
+              "url": "https://www.kidsvillepeds.com/blog/1290873-how-video-games-affect-kids-behavioral-health-the-hidden-risks/",
+              "type": "website"
             },
             {
               "title": "Effects of Video Games on Teen Mental Health (website)",
-              "url": "https://www.brightpathbh.com/effects-of-video-games-on-teen-mental-health/"
+              "url": "https://www.brightpathbh.com/effects-of-video-games-on-teen-mental-health/",
+              "type": "website"
             },
             {
               "title": "What Is the Link Between Screen Time and ADHD? (PDF)",
-              "url": "https://www.sciencejournalforkids.org/wp-content/uploads/2025/05/screentime-ADHD_Article.pdf"
+              "url": "https://www.sciencejournalforkids.org/wp-content/uploads/2025/05/screentime-ADHD_Article.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -469,7 +505,8 @@
           "resources": [
             {
               "title": "ActivityWatch (website)",
-              "url": "https://activitywatch.net/"
+              "url": "https://activitywatch.net/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -492,7 +529,8 @@
           "resources": [
             {
               "title": "My Physical Activity Diary (website)",
-              "url": "https://www.cdc.gov/healthyweight/pdf/physical_activity_diary_cdc.pdf"
+              "url": "https://www.cdc.gov/healthyweight/pdf/physical_activity_diary_cdc.pdf",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -515,7 +553,8 @@
           "resources": [
             {
               "title": "Sleep Calculator (website)",
-              "url": "https://www.calculator.net/sleep-calculator.html"
+              "url": "https://www.calculator.net/sleep-calculator.html",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -538,7 +577,8 @@
           "resources": [
             {
               "title": "Weekly Activity Schedule (website)",
-              "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Depression/Depression-Worksheets/Depression-Worksheet---03---Weekly-Activity-Schedule.pdf"
+              "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Depression/Depression-Worksheets/Depression-Worksheet---03---Weekly-Activity-Schedule.pdf",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -596,11 +636,13 @@
           "resources": [
             {
               "title": "The Real Benefits of Video Games (website)",
-              "url": "https://builtin.com/articles/online-gaming-social-benefits"
+              "url": "https://builtin.com/articles/online-gaming-social-benefits",
+              "type": "website"
             },
             {
               "title": "Are Video Games, Screens Another Addiction? (website)",
-              "url": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/are-video-games-and-screens-another-addiction"
+              "url": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/are-video-games-and-screens-another-addiction",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -623,11 +665,13 @@
           "resources": [
             {
               "title": "Online Safety Issues (website)",
-              "url": "https://www.internetmatters.org/issues/"
+              "url": "https://www.internetmatters.org/issues/",
+              "type": "website"
             },
             {
               "title": "Gaming Safety (PDF)",
-              "url": "https://www.dhs.gov/sites/default/files/2024-09/24_09_20_K2P_Gaming-Safety.pdf"
+              "url": "https://www.dhs.gov/sites/default/files/2024-09/24_09_20_K2P_Gaming-Safety.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -650,7 +694,8 @@
           "resources": [
             {
               "title": "Online Gaming Safety Settings (PDF)",
-              "url": "https://internetsafety101.org/wp-content/uploads/2025/07/Gaming-controls-quick-guide-03-24-2025.pdf"
+              "url": "https://internetsafety101.org/wp-content/uploads/2025/07/Gaming-controls-quick-guide-03-24-2025.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -726,7 +771,8 @@
           "resources": [
             {
               "title": "Console vs. PC Gaming: Which Is Better? (website)",
-              "url": "https://www.seagate.com/blog/console-vs-pc-gaming/"
+              "url": "https://www.seagate.com/blog/console-vs-pc-gaming/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -788,11 +834,13 @@
           "resources": [
             {
               "title": "PCPartPicker (website)",
-              "url": "https://pcpartpicker.com/"
+              "url": "https://pcpartpicker.com/",
+              "type": "website"
             },
             {
               "title": "Micro Center (website)",
-              "url": "https://www.microcenter.com/site/content/custom-pc-builder.aspx?k=1772572403500"
+              "url": "https://www.microcenter.com/site/content/custom-pc-builder.aspx?k=1772572403500",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -939,7 +987,8 @@
           "resources": [
             {
               "title": "NACE School Directory (website)",
-              "url": "https://www.nacesports.org/school-directory"
+              "url": "https://www.nacesports.org/school-directory",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -962,11 +1011,13 @@
           "resources": [
             {
               "title": "100 Jobs in Esports (website)",
-              "url": "https://www.flipbookpdf.net/web/site/0f69cbe0b3ab4127778010bc84c0383f86c1f5a5FBP25582848.pdf.html#page/5"
+              "url": "https://www.flipbookpdf.net/web/site/0f69cbe0b3ab4127778010bc84c0383f86c1f5a5FBP25582848.pdf.html#page/5",
+              "type": "website"
             },
             {
               "title": "Hitmarker (website)",
-              "url": "https://hitmarker.net/"
+              "url": "https://hitmarker.net/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -989,19 +1040,23 @@
           "resources": [
             {
               "title": "Careers at Blizzard Entertainment (website)",
-              "url": "https://careers.blizzard.com/global/en"
+              "url": "https://careers.blizzard.com/global/en",
+              "type": "website"
             },
             {
               "title": "Riot Games - Work With Us (website)",
-              "url": "https://www.riotgames.com/en/work-with-us"
+              "url": "https://www.riotgames.com/en/work-with-us",
+              "type": "website"
             },
             {
               "title": "Epic Games Careers, Jobs and Employment Opportunity (website)",
-              "url": "https://www.epicgames.com/site/en-US/careers"
+              "url": "https://www.epicgames.com/site/en-US/careers",
+              "type": "website"
             },
             {
               "title": "Careers at Nintendo of America (website)",
-              "url": "https://careers.nintendo.com/"
+              "url": "https://careers.nintendo.com/",
+              "type": "website"
             }
           ],
           "sub_requirements": []

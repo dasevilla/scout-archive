@@ -38,7 +38,8 @@ Cattle, horses, sheep, goats, hogs, poultry, and other domesticated animals are 
 
 - (6) Complete ONE of the following options:
   - **Option A—Beef Cattle.** Do ALL of the following:
-    - (1) Visit a farm or ranch where beef cattle are produced under any of these systems: feeding market cattle for harvest, cow/calf operation (producing cattle for sale to commercial feeders), or producing purebred cattle for sale as breeding stock to others. Talk with the operator to learn how the cattle were handled, fed, weighed, and shipped. Describe what you saw and explain what you learned. If you cannot visit a cattle ranch or farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on beef cattle production. Tell about your findings.
+    - (1) Visit a farm or ranch where beef cattle are produced under any of these systems: feeding market cattle for harvest, cow/calf operation (producing cattle for sale to commercial feeders), or producing purebred cattle for sale as breeding stock to others.
+      Talk with the operator to learn how the cattle were handled, fed, weighed, and shipped. Describe what you saw and explain what you learned. If you cannot visit a cattle ranch or farm, view a video from a breed association, or research the internet (with your parent or guardian's permission) for information on beef cattle production. Tell about your findings.
 
       **Resources:** [A Tour of Our Cattle Ranch - 20,000+ Head of Cattle per Year (video)](https://youtu.be/1kA7wQCIoqI)
     - (2) Sketch a plan of a feedlot to include its forage and grain storage facilities, and loading chute for 30 or more fattening steers; or sketch a corral plan with cutting and loading chutes for handling 50 or more beef cows and their calves at one time.

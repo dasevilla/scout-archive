@@ -75,22 +75,24 @@ Birds are among the most fascinating creatures on Earth. Many are beautifully co
 
 - (8) Do ONE of the following:
   - (a) Go on a field trip with a local club or with others who are knowledgeable about birds in your area.
-  - (1) Keep a list or fill out a checklist of all the birds your group observed during the field trip.
-  - (2) Tell your counselor which birds your group saw and why some species were common and some were present in small numbers.
-  - (3) Tell your counselor what makes the area you visited good for finding birds.
+    - (1) Keep a list or fill out a checklist of all the birds your group observed during the field trip.
+    - (2) Tell your counselor which birds your group saw and why some species were common and some were present in small numbers.
+    - (3) Tell your counselor what makes the area you visited good for finding birds.
   - (b) By using a public library, the internet, or contacting the National Audubon Society, find the name and location of the Christmas Bird Count nearest your home and obtain the results of a recent count.
 
     **Resources:** [Christmas Bird Count (video)](https://youtu.be/Ar1plhHY6i8?si=xjOMdoRDb_otqg1I), [What Is the Christmas Bird Count? Everything You Need to Know (video)](https://www.youtube.com/watch?v=T2s3pRwu8yo)
-  - (1) Explain what kinds of information are collected during the annual event.
-  - (2) Tell your counselor which species are most common, and explain why these birds are abundant.
-  - (3) Tell your counselor which species are uncommon, and explain why these were present in small numbers. If the number of birds of these species is decreasing, explain why, and what, if anything, could be done to reverse their decline.
+
+    - (1) Explain what kinds of information are collected during the annual event.
+    - (2) Tell your counselor which species are most common, and explain why these birds are abundant.
+    - (3) Tell your counselor which species are uncommon, and explain why these were present in small numbers. If the number of birds of these species is decreasing, explain why, and what, if anything, could be done to reverse their decline.
   - (c) Participate in a bird banding program with an approved federal or state agency, university researcher, bird observatory, or certified private individual.
 
     **Resources:** [Introduction to Bird Banding (video)](https://www.youtube.com/watch?v=A1uhtLSqwV0)
-  - (1) Explain who is able to band birds and why.
-  - (2) Explain why birds get banded.
-  - (3) Explain what kinds of birds get banded.
-  - (4) Tell how the birds were captured, the number of bird species recorded during your visit, and your role in the program.
+
+    - (1) Explain who is able to band birds and why.
+    - (2) Explain why birds get banded.
+    - (3) Explain what kinds of birds get banded.
+    - (4) Tell how the birds were captured, the number of bird species recorded during your visit, and your role in the program.
 
 - (9) Do ONE of the following. For the item you choose, describe what birds you hope to attract, and why. Describe the necessary maintenance required with the item that you choose.
   - (a) Build a bird feeder and put it in an appropriate place in your yard or another location.

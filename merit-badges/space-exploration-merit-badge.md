@@ -25,7 +25,11 @@ Discover the why and how we explore space. Learn about current and historic spac
 
   **Resources:** [Here's How I Make Custom Trading Cards (video)](https://youtu.be/PkCCLH_f1us?si=fw5ZdX03GwDyn_eo), [How to Make Trading Cards By Hand (video)](https://youtu.be/vYbeo4iS1Pc)
 
-- (3) Build, launch, and recover a model rocket under the supervision of an experienced or qualified person approved by your counselor. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: **Safety Note:** All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines **Alternative Requirement:** If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.
+- (3) Build, launch, and recover a model rocket under the supervision of an experienced or qualified person approved by your counselor. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts:
+
+  **Safety Note:** All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines
+
+  **Alternative Requirement:** If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.
 
   **Resources:** [Scouting America Rocket Safety Guidelines (website w/ video)](https://www.scouting.org/health-and-safety/safety-moments/rocket-safety/), [NASA Rocket Parts—Beginner's Guide (website)](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bgmr.html), [National Association of Rocketry Educational video on model rocketry (website)](https://www.nar.org/content.aspx?page_id=22&club_id=114127&module_id=669619), [(website)](https://www.scouting.org/health-and-safety/safety-moments/rocket-safety/)
 

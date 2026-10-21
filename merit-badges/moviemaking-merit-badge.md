@@ -17,7 +17,9 @@ Moviemaking is a way to tell stories visually through the art and science of mot
   - (a) In a three- or four-paragraph treatment, tell the story you plan to produce, making sure that the treatment conveys a visual picture.
 
     **Resources:** [Film Production Explained, Each Step of the Production Process (video)](https://youtu.be/puF9CkvmJt0?si=jiFW5a-I3X0vZDV4)
-  - (b) Prepare a storyboard for your motion picture. **Note:** This can be done with rough sketches and stick figures.
+  - (b) Prepare a storyboard for your motion picture.
+
+    **Note:** This can be done with rough sketches and stick figures.
 
     **Resources:** [What Is a Storyboard and Why Is It Important? Pre-Production Filmmaking (video)](https://youtu.be/yPtqHdQcOOw?si=24Rdiz36nJTayneu)
   - (c) Demonstrate the following motion picture shooting techniques:

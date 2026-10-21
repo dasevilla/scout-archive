@@ -32,7 +32,12 @@ The Cooking merit badge introduces principles of cooking that can be used both a
   - (a) Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:
 
     **Resources:** [MyPlate Food Groups (website)](https://www.myplate.gov/eat-healthy/what-is-myplate)
-  - (1) Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy
+
+    - (1) Fruits
+    - (2) Vegetables
+    - (3) Grains
+    - (4) Proteins
+    - (5) Dairy
   - (b) Explain why you should limit your intake of oils and sugars.
 
     **Resources:** [Tips for Limiting Sugar in Your Diet (video)](https://youtu.be/rvEVY6SCEUg?si=rzAoy8sQR3eLK4QI)
@@ -60,7 +65,9 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 
     **Resources:** [How Your Sense of Smell Helps You Savor Flavor (video)](https://youtu.be/3NFTa9kTVRU?si=GXdAHD3F6vfyveN8)
 
-- (4) **Cooking at Home.** Do the following: **Note:** The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.
+- (4) **Cooking at Home.** Do the following:
+
+  **Note:** The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.
 
   **Resources:** [The Five Tastes (video)](https://youtu.be/MZn2PMUWO-Y?si=DlM3rdYtgJGpJ5hB)
 

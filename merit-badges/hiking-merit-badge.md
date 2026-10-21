@@ -11,6 +11,8 @@ Hiking is a terrific way to keep your body and mind in top shape, both now and f
 
 - **NOTE:** Check out the Digital Resource Guide for the Hiking merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/hiking/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
 
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/hiking/)
+
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
 

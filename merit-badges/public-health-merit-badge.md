@@ -42,18 +42,18 @@ The field of public health deals with maintaining and monitoring the health of c
 
 - (5) With your parent or guardian's and counselor's approval, do ONE of the following:
   - (a) Visit a municipal wastewater treatment facility or a solid-waste management operation in your community.
-  - (1) Describe how the facility safely treats and disposes of sewage or solid waste.
-  - (2) Discuss your visit and what you learned with your counselor.
-  - (3) Describe how sewage and solid waste should be disposed of under wilderness camping conditions.
+    - (1) Describe how the facility safely treats and disposes of sewage or solid waste.
+    - (2) Discuss your visit and what you learned with your counselor.
+    - (3) Describe how sewage and solid waste should be disposed of under wilderness camping conditions.
   - (b) Visit a food service facility, such as a restaurant or school cafeteria.
-  - (1) Observe food preparation, handling, and storage. Learn how the facility keeps food from becoming contaminated.
-  - (2) Find out what conditions allow microorganisms to multiply in food, what can be done to help prevent them from growing and spreading, and how to kill them.
+    - (1) Observe food preparation, handling, and storage. Learn how the facility keeps food from becoming contaminated.
+    - (2) Find out what conditions allow microorganisms to multiply in food, what can be done to help prevent them from growing and spreading, and how to kill them.
 
-    **Resources:** [Food Safety: Meet Bacteria (video)](https://youtu.be/_8s2FsT9VYY)
-  - (3) Discuss the importance of using a thermometer to check food temperatures.
+      **Resources:** [Food Safety: Meet Bacteria (video)](https://youtu.be/_8s2FsT9VYY)
+    - (3) Discuss the importance of using a thermometer to check food temperatures.
 
-    **Resources:** [The Importance of Cooking to a Safe Internal Temperature and How To Use a Food Thermometer (video)](https://youtu.be/-2KkV2yFiN0)
-  - (4) Discuss your visit and what you learned with your counselor.
+      **Resources:** [The Importance of Cooking to a Safe Internal Temperature and How To Use a Food Thermometer (video)](https://youtu.be/-2KkV2yFiN0)
+    - (4) Discuss your visit and what you learned with your counselor.
 
 - (6) Do the following:
   - (a) Describe the health dangers from air, water, and noise pollution.

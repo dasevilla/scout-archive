@@ -18,15 +18,16 @@ Golf is unique because the players police themselves. Other sports depend upon r
     - (1) Study the USGA *Rules of Golf* now in use.
 
       **Resources:** [USGA Rules of Golf (website)](https://www.usga.org/rules/rules-and-clarifications/rules-and-clarifications.html#!ruletype=fr&section=rule&rulenum=1), [USGA Rules of Golf (Free Course) (website)](https://rules.usga.org/courses/rules-101/), [The Golf Clubs in Your Bag (video)](https://youtu.be/jbCekejTJXA?si=bsNNU6FHDV0kRcmb)
-    - (a) Tell about the three categories of golf etiquette.
 
-      **Resources:** [Three Categories of Golf Etiquette (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Golf/three_categories_of_golf_etiquette.pdf)
-    - (b) Demonstrate that you understand the definitions of golf terms.
+      - (a) Tell about the three categories of golf etiquette.
 
-      **Resources:** [Basic Golf Terminology (video)](https://youtu.be/3qWh2Wruokg?si=8wh6SORdQITXot0t)
-    - (c) Show that you understand the *Rules of Amateur Status.*
+        **Resources:** [Three Categories of Golf Etiquette (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Golf/three_categories_of_golf_etiquette.pdf)
+      - (b) Demonstrate that you understand the definitions of golf terms.
 
-      **Resources:** [Rules of Amateur Status (video)](https://youtu.be/TeMdMFFOaTo?si=v2Fu90PKhD6_ixkf)
+        **Resources:** [Basic Golf Terminology (video)](https://youtu.be/3qWh2Wruokg?si=8wh6SORdQITXot0t)
+      - (c) Show that you understand the *Rules of Amateur Status.*
+
+        **Resources:** [Rules of Amateur Status (video)](https://youtu.be/TeMdMFFOaTo?si=v2Fu90PKhD6_ixkf)
     - (2) Tell about your understanding of the World Handicap System.
 
       **Resources:** [World Handicap System (video)](https://youtu.be/IGZ9IGOAWLw?si=2SS8GJeIHCLr5WRq)
@@ -86,12 +87,13 @@ Golf is unique because the players police themselves. Other sports depend upon r
     - (1) Study the *PDGA Official Rules of Disc Golf* now in use.
 
       **Resources:** [PDGA Rules of Disc Golf (website)](https://www.pdga.com/rules/official-rules-disc-golf), [PDGA Rules 1: Overview (video)](https://youtu.be/iYxbSRG7xjc), [PDGA Rules School (playlist)](https://www.youtube.com/playlist?list=PLo_ubqHIquFvqTqm8C8UkLT7dMzc2sd_d)
-    - (a) Tell about the six areas of Courtesy (812).
 
-      **Resources:** [Disc Course Etiquette (video)](https://youtu.be/8_80I2NenwQ?si=7tHglRmPTWy59pey)
-    - (b) Describe the seven areas of Scoring (808).
+      - (a) Tell about the six areas of Courtesy (812).
 
-      **Resources:** [Disc Golf Scoring Rules (website)](https://www.pdga.com/rules/official-rules-disc-golf/808)
+        **Resources:** [Disc Course Etiquette (video)](https://youtu.be/8_80I2NenwQ?si=7tHglRmPTWy59pey)
+      - (b) Describe the seven areas of Scoring (808).
+
+        **Resources:** [Disc Golf Scoring Rules (website)](https://www.pdga.com/rules/official-rules-disc-golf/808)
     - (2) Tell about the history of disc golf and why it is an inclusive game.
 
       **Resources:** [PDGA Disc Golfer's Code (website)](https://www.pdga.com/files/disc-golfers-code-en-us_1.pdf)

@@ -20,11 +20,15 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
 
     **Resources:** [Safety Afloat (website)](https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/)
 
-- (2) Before doing the following requirements, successfully complete the Scouting America swimmer test. **Note:** See the *Swimming* merit badge pamphlet for details about the Scouting America swimmer test.
+- (2) Before doing the following requirements, successfully complete the Scouting America swimmer test.
+
+  **Note:** See the *Swimming* merit badge pamphlet for details about the Scouting America swimmer test.
 
   **Resources:** [Swimming Merit Badge Pamphlet (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf)
 
-- (3) Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts. **Note:** The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward.
+- (3) Describe the boat you will be using for the sailing requirement, naming all of the major parts and the function of those parts.
+
+  **Note:** The skills may be demonstrated on any boat available to the Scout; sailboards are not acceptable. While no specific sail plan is recommended, it is suggested that the craft be smaller than 20 feet. The boat must be capsizable and have the capability of sailing to windward.
 
   **Resources:** [Sailboat Parts Explained: Overview and Names (video)](https://youtu.be/hJHkil8HOHo)
 
@@ -63,7 +67,9 @@ Sailing is one of the most enjoyable pastimes on the open water. The quiet and p
     **Resources:** [How To Tack (Turn Around) a One Person Sailboat (video)](https://youtu.be/gMEOex9GQWU), [How To Jib a Single Person Sailboat (Turning Away From the Wind) (video)](https://youtu.be/LVQyaWa4riw)
   - (e) Demonstrate getting out of irons.
   - (f) Demonstrate the safety position.
-  - (g) Demonstrate capsize procedures and the rescue of a person overboard. **Note:** Capsize procedures should be conducted under the close supervision of the counselor. A rescue boat should be standing by to assist, if necessary, and to tow the capsized craft to shore. Self-bailing boats are acceptable for this requirement. Extreme care should be taken to avoid personal injury and damage to the boat or equipment.
+  - (g) Demonstrate capsize procedures and the rescue of a person overboard.
+
+    **Note:** Capsize procedures should be conducted under the close supervision of the counselor. A rescue boat should be standing by to assist, if necessary, and to tow the capsized craft to shore. Self-bailing boats are acceptable for this requirement. Extreme care should be taken to avoid personal injury and damage to the boat or equipment.
 
     **Resources:** [Capsize a Single Handed Sailboat (video)](https://youtu.be/0flyv_GPwwc)
   - (h) Demonstrate the procedure to take after running aground.

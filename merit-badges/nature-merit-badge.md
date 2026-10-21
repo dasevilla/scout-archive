@@ -74,12 +74,12 @@ There is a very close connection between the soil, the plants, and all animal li
 
       **Resources:** [How to Identify Wild Plants - A Guide To Botanical Terms (video)](https://www.youtube.com/watch?v=5Aj82u2he6s)
     - (2) Do ONE of the following:
-  - (a) Collect and label the seeds of six plants OR the leaves of 12 plants.
+      - (a) Collect and label the seeds of six plants OR the leaves of 12 plants.
 
-    **Resources:** [Science at Play: Preserving Fall Leaves (video)](https://www.youtube.com/watch?v=06nhKenT410), [Harvesting & Saving Seeds! (video)](https://www.youtube.com/watch?v=QqIoGe-m2OM)
-  - (b) Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.
+        **Resources:** [Science at Play: Preserving Fall Leaves (video)](https://www.youtube.com/watch?v=06nhKenT410), [Harvesting & Saving Seeds! (video)](https://www.youtube.com/watch?v=QqIoGe-m2OM)
+      - (b) Photograph the seeds of six plants OR the leaves of 12 plants and create a catalog of your photos.
 
-    **Resources:** [Plant Photography for Beginners (video)](https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv), [How I Shot My First Plant Time-Lapse (video)](https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH)
+        **Resources:** [Plant Photography for Beginners (video)](https://youtu.be/ChxvvKV2Gx8?si=PXSE1d46dKsQqDmv), [How I Shot My First Plant Time-Lapse (video)](https://youtu.be/gqoAL4-XTNg?si=p-r1McCO7JyXONJH)
   - (h) **Soils and Rocks.** Do ALL of the following:
     - (1) Collect and identify three different types of soil that represent soils high in sand, clay and humus.
 

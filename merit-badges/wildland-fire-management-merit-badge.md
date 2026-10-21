@@ -11,6 +11,8 @@ Wildfires cause significant destruction across the U.S. each year, with smoke af
 
 - **NOTE:** Check out the Digital Resource Guide for the Wildland Fire Management merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/wildland-fire-management/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
 
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/wildland-fire-management/)
+
 - (1) **History of Wildland Fire.** Research and discuss with your counselor the history of wildland fire, its suppression, prevention, and management in the United States.
 
   **Resources:** [A History of Wildfire Prevention (video)](https://youtu.be/ZnabcDAQ1DU), [Wildfire Education (website)](https://www.nifc.gov/fire-information/fire-prevention-education-mitigation/wildfire-education)

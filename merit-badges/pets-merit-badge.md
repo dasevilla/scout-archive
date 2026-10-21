@@ -9,7 +9,9 @@ Pet ownership is a mixture of fun, excitement, responsibility, commitment, expen
 
 ## Requirements
 
-- (1) Present evidence that you have cared for a pet for four months. Get approval before you start.**Note:** Work done for other merit badges cannot be used for this requirement.
+- (1) Present evidence that you have cared for a pet for four months. Get approval before you start.
+
+  **Note:** Work done for other merit badges cannot be used for this requirement.
 
   **Resources:** [Create an Activity Log (video)](https://www.youtube.com/watch?v=uh8tDZj9I_A)
 

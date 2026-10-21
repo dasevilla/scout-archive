@@ -106,7 +106,8 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
     - (9) On a cross-country trail, demonstrate effective propulsion by showing proper weight transfer from ski to ski, pole timing, rhythm, flow, and glide.
 
       **Resources:** [Basic Moves on Cross-Country Skis (video)](https://youtu.be/ctrIUq9kCJI)
-    - (10) Demonstrate your ability, on a 4-mile tour, to cope with an average variety of snow conditions. **Note:** Adaptive skiers may complete a 1-mile tour with prior approval from their counselor.
+    - (10) Demonstrate your ability, on a 4-mile tour, to cope with an average variety of snow conditions.
+      **Note:** Adaptive skiers may complete a 1-mile tour with prior approval from their counselor.
 
       **Resources:** [Skiing on Varied Conditions (video)](https://youtu.be/nCqNLC8PzNM?si=_vD2U1nIhE-khHVQ)
     - (11) Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, and pole drag.
@@ -174,7 +175,9 @@ Skiing and snowboarding are the fastest and most thrilling ways to travel on foo
     - (8) Demonstrate the most efficient ways to break trail, climb uphill, travel downhill, and traverse a slope.
 
       **Resources:** [How To Break Trail  (video)](https://youtu.be/9gLm2viPkT4), [How To Snowshoe on Hills (video)](https://youtu.be/Mr1uR6ENxBY), [How To Sidestep (video)](https://youtu.be/zWabuDZBcVQ)
-    - (9) Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions. **Note:** Adaptive snowshoers may complete a 1-mile hike with prior approval from their counselor.
+    - (9) Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average variety of snow conditions.
+
+      **Note:** Adaptive snowshoers may complete a 1-mile hike with prior approval from their counselor.
 
       **Resources:** [How To Travel Cross-Country on Snowshoes (video)](https://youtu.be/3U37kHrGlvo)
     - (10) Demonstrate the proper use of a topographic map and compass.

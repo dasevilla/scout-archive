@@ -40,7 +40,8 @@
       "resources": [
         {
           "title": "The Sewcial Experiment Video!: Hand Sewing Tools & Safety",
-          "url": "https://youtu.be/_7ms3poMc98?si=aas-IiQkRqGh8PQF"
+          "url": "https://youtu.be/_7ms3poMc98?si=aas-IiQkRqGh8PQF",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -80,9 +81,9 @@
       "sub_requirements": [
         {
           "id": "a",
-          "label": null,
-          "text": "(a) Assemble a basic sewing and repair kit and explain the purpose of each item.\nOfficial BSA Sewing Kits – Artifact of the Week 20211008 (b) Thread a needle and tie a quilter’s or tailor’s knot in a piece of fabric.\nHOW TO THREAD A NEEDLE FOR HAND SEWING A tutorial for modern and historic sewing How to tie a Tailor’s Knot for hand sewing (c) Demonstrate the following sewing techniques, including when and why each is used:\n(1) Running stitch (2) Back stitch (3) Hem stitch (4) Whip stitch. Learn to Hand Sew! Three Stitches You Can’t Sew Without Hand Sewing Whipstitch (Stitch Lessons) | @laurenfairwx (d) Sew a patch on your uniform or other fabric.\nHow to Sew a Patch onto Anything (e) Sew a button onto an item.\nHow to Sew on a Button to Any Garment (f) Upcycle by practicing visible mending to patch a piece of clothing or material.\nVisible Mending: 10 Basic Principles to Get You Started Mending Your Clothes Nine Ways to Patch Holes in Clothes. Amazing Embroidery Stitches For Beginners /Guide to Sewing",
-          "requirement_path": "2.item-1",
+          "label": "a",
+          "text": "Assemble a basic sewing and repair kit and explain the purpose of each item.",
+          "requirement_path": "2.a",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
@@ -90,282 +91,266 @@
           "content": [
             {
               "type": "text",
-              "value": "(a) Assemble a basic sewing and repair kit and explain the purpose of each item."
+              "value": "Assemble a basic sewing and repair kit and explain the purpose of each item."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Official BSA Sewing Kits – Artifact of the Week 20211008",
+              "url": "https://www.youtube.com/watch?v=wKhZbj7Qrz0",
+              "type": "video"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "b",
+          "label": "b",
+          "text": "Thread a needle and tie a quilter’s or tailor’s knot in a piece of fabric.",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Thread a needle and tie a quilter’s or tailor’s knot in a piece of fabric."
+            }
+          ],
+          "resources": [
+            {
+              "title": "HOW TO THREAD A NEEDLE FOR HAND SEWING A tutorial for modern and historic sewing",
+              "url": "https://youtu.be/2cZ9MrpmLf4?si=_Z034M1PM6NaS3KC",
+              "type": "video"
+            },
+            {
+              "title": "How to tie a Tailor’s Knot for hand sewing",
+              "url": "https://youtu.be/uZfxHOa5-6Y?si=WhrcGeSRUurdrsiB",
+              "type": "video"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "c",
+          "label": "c",
+          "text": "Demonstrate the following sewing techniques, including when and why each is used:",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": true,
+          "requires_response": true,
+          "scoped_clauses": [
+            {
+              "text": "Demonstrate the following sewing techniques, including when and why each is used:",
+              "scope": "children"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate the following sewing techniques, including when and why each is used:"
             },
             {
               "type": "element",
               "tag": "br",
               "attrs": {},
               "children": []
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.youtube.com/watch?v=wKhZbj7Qrz0"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Official BSA Sewing Kits – Artifact of the Week 20211008"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (b) Thread a needle and tie a quilter’s or tailor’s knot in a piece of fabric."
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/2cZ9MrpmLf4?si=_Z034M1PM6NaS3KC"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "HOW TO THREAD A NEEDLE FOR HAND SEWING A tutorial for modern and historic sewing"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/uZfxHOa5-6Y?si=WhrcGeSRUurdrsiB"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to tie a Tailor’s Knot for hand sewing"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (c) Demonstrate the following sewing techniques, including when and why each is used:"
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Running stitch (2) Back stitch (3) Hem stitch (4) Whip stitch. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/oE1LnH8egMk?si=QKcfKITVM4FUNTzj"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Learn to Hand Sew! Three Stitches You Can’t Sew Without"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/3lTAiUY69K8?si=uHpMYfOkFtShV4l2"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Hand Sewing Whipstitch (Stitch Lessons) | @laurenfairwx"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (d) Sew a patch on your uniform or other fabric."
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/fWlDFDmzNp0"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Sew a Patch onto Anything"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (e) Sew a button onto an item."
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/G52t0Aq6dJI?si=tyg2oZR0Ha8opEtl"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Sew on a Button to Any Garment"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (f) Upcycle by practicing visible mending to patch a piece of clothing or material."
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/IKlKEbkbX_M?si=rogpcMxw4hwsMuGc"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Visible Mending: 10 Basic Principles to Get You Started Mending Your Clothes"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/1QnTMc4H8ig?si=1Pif8CWJo_FdIS1E"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Nine Ways to Patch Holes in Clothes. Amazing Embroidery Stitches For Beginners /Guide to Sewing"
-                    }
-                  ]
-                }
-              ]
             }
           ],
           "resources": [],
+          "sub_requirements": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Running stitch",
+              "requirement_path": "2.c.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Running stitch"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Back stitch",
+              "requirement_path": "2.c.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Back stitch"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Hem stitch",
+              "requirement_path": "2.c.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Hem stitch"
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Whip stitch.Resources:Hand Sewing Whipstitch (Stitch Lessons) | @laurenfairwx",
+              "requirement_path": "2.c.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Whip stitch."
+                },
+                {
+                  "type": "element",
+                  "tag": "em",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Resources:"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/3lTAiUY69K8?si=uHpMYfOkFtShV4l2"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Hand Sewing Whipstitch (Stitch Lessons) | @laurenfairwx"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Learn to Hand Sew! Three Stitches You Can’t Sew Without",
+                  "url": "https://youtu.be/oE1LnH8egMk?si=QKcfKITVM4FUNTzj",
+                  "type": "video"
+                },
+                {
+                  "title": "Hand Sewing Whipstitch (Stitch Lessons) | @laurenfairwx",
+                  "url": "https://youtu.be/3lTAiUY69K8?si=uHpMYfOkFtShV4l2",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
+            }
+          ]
+        },
+        {
+          "id": "d",
+          "label": "d",
+          "text": "Sew a patch on your uniform or other fabric.",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Sew a patch on your uniform or other fabric."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Sew a Patch onto Anything",
+              "url": "https://youtu.be/fWlDFDmzNp0",
+              "type": "video"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "e",
+          "label": "e",
+          "text": "Sew a button onto an item.",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Sew a button onto an item."
+            }
+          ],
+          "resources": [
+            {
+              "title": "How to Sew on a Button to Any Garment",
+              "url": "https://youtu.be/G52t0Aq6dJI?si=tyg2oZR0Ha8opEtl",
+              "type": "video"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "f",
+          "label": "f",
+          "text": "Upcycle by practicing visible mending to patch a piece of clothing or material.",
+          "requirement_path": "2.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
+              "type": "text",
+              "value": "Upcycle by practicing visible mending to patch a piece of clothing or material."
+            }
+          ],
+          "resources": [
+            {
+              "title": "Visible Mending: 10 Basic Principles to Get You Started Mending Your Clothes",
+              "url": "https://youtu.be/IKlKEbkbX_M?si=rogpcMxw4hwsMuGc",
+              "type": "video"
+            },
+            {
+              "title": "Nine Ways to Patch Holes in Clothes. Amazing Embroidery Stitches For Beginners /Guide to Sewing",
+              "url": "https://youtu.be/1QnTMc4H8ig?si=1Pif8CWJo_FdIS1E",
+              "type": "video"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -394,18 +379,14 @@
       "sub_requirements": [
         {
           "id": "A",
-          "label": null,
-          "text": "A. Machine Sewing\n(a) Provide a brief overview of the evolution of the sewing machine The History of Sewing Machines Documentary (b) Read your machine manual and do the following:\n(1) Explain the parts of a sewing machine and their functions. Understanding the Basic Parts of a Sewing Machine (2) Thread the machine and the bobbin. How to Thread a Sewing Machine for Absolute Beginners (3) Explain how to properly clean and oil the machine and change the needle. How to Clean a Sewing Machine: A Step By Step Guide – Hailey Stitches (c) Identify other tools you will need for machine sewing. Demonstrate the following sewing techniques, including when and why each is used: List of Basic Sewing Tools\n(1) Pinning How To Pin Your Fabric For Sewing (2) Sewing in a straight line How To: Sew in a Straight Line (Sewing for Beginners) (3) Back stitch How to Backstitch On A Sewing Machine (4) Basting stitch What Is a Baste Stitch and Why Should You Use It? (5) Gathering stitch How to Gather Fabric with a Sewing Machine: A Beginner Sewing Tutorial (6) Unpicking or seam ripping. HOW TO DO UNPICKING AND SEAM RIPPING? – Is there a difference? And what’s the red ball for anyway? (d) Do the following using a sewing machine:\n(1) Sew a Scout patch on your uniform or other fabric. How to Sew a Patch on the Sleeve of Scrubs or Shirt (2) Repair a tear or small hole in fabric using a patch or darning technique. How to Repair Holes in Jeans and Other Fabrics How to: Repairs Pants with Hand Stitch (Super Simple) | Tailor Series (e) Sew ONE item from this list using a pattern, using THREE or more techniques from requirement 3(c):\n(1) Drawstring backpack Drawstring Backpack (2) Camp utensil holder How to Sew a Utensil Roll (3) Storage bag for tent stakes or school supplies DIY drawstring pouches, easy sew. (4) Pillowcase How to sew a pillowcase | Sewing Tutorial with Angela Wolf (5) An item of your own choosing, approved in advance by your counselor. B.Knitting\n(a) Provide a brief overview of the history of knitting. How Knitting Transformed The Ancient World Spies, Socks, & Soldiers // The Fascinating History of Wartime Knitting (b) Explain the tools used when knitting. Demonstrate the ability to read a pattern, including deciphering symbols. Knitting Supplies for Beginners | Essential Tools You Actually Need to Start Knitting How to Read a Knitting Pattern (c) Using knitting needles, demonstrate how to tie a slip knot, cast on and bind off. Knitting Help – Slow Motion Slip Knot Knitting Help – Slow-Motion Cast-On Knitting Help – Slow Motion Bind-Off (d) Demonstrate the following stitches:\n(1) Knit stitch Knitting Help – Slow Motion Knit Stitch (2) Purl stitch. Knitting Help – Slow Motion Purl Stitch (e) Knit a small item such as a dishcloth, scarf, or an item of your own choosing, approved in advance by your counselor, using ONE of the following stitch patterns with at least two colors of yarn:\n(1) Garter stitch Garter Stitch for Beginners (worked slowly) (2) Stockinette stitch Stockinette Stitch for Beginners – Learn to Knit (3) Ribbing. Learn the English Rib Stitch Learn to Knit a Dishcloth How to knit a scarf evenly: 5 tips | Knitting Tutorial with Stefanie Japel C.Crochet\n(a)Provide a brief overview of the history of crochet OR the history of Amigurumi. CROCHET’S SECRET HISTORY REVEALED: EPIC Full History from the ANCIENTS to TODAY’S TRENDS Where Did Amigurumi Come From❓ A History of Crocheted & Knitted Toys 💓 (b) Explain the tools used when crocheting. Demonstrate the ability to read a pattern, including deciphering symbols. Supplies Needed for Crochet – The Beginner’s Guide to Crochet – Lesson One https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern (c) Demonstrate how to tie a slip knot and how to hold a crochet hook and yarn to crochet. How to Hold a Crochet Hook and Yarn – The Beginner’s Guide to Crochet – Lesson TwoKnitting Help – Slow Motion Slip Knot (d) Demonstrate the following stitches in a small practice piece:\n(1) Single crochet Crochet for Knitters – Slow Motion Single Crochet (2) Double crochet Crochet for Knitters – Slow Motion Double Crochet (3) Half-double crochet. Crochet for Knitters – Slow Motion Half Double Crochet (e) Crochet a small item such as a dishcloth, scrub, or an item of your own choosing, approved in advance by your counselor, using at least two colors of yarn. How to Change Yarn in the Middle of a Crochet Project | Crochet Tutorial 30-minute Crochet Projects Crocheted Dish Cloths (Free Pattern) D.Hand Embroidery\n(a) Provide a brief overview of the history of hand embroidery. HISTORY of EMBROIDERY – From King Tut to the 21st Century – Domestika (b) Explain the tools used in hand embroidery. Embroidery for beginners – Basic tools (c) Embroider a small sampler of your own design or from a purchased kit or embroider a temporary patch for your uniform. Include SIX of the following basic stitches: running stitch, back stitch, stem stitch, chain stitch, surface couching, blanket stitch, herringbone stitch, chevron stitch, feather stitch, weave stitch, seed stitch, French knots, fishbone stitch, satin stitch, cross stitch. Backside of 15 Basic Stitches E.Appliqué\n(a) Provide a brief overview of the history of hand appliqué. A Brief History of Appliqué (b) In a small sample, demonstrate how to do appliqué by hand using the following methods: needle turn or freezer paper using an invisible (ladder) stitch or blanket stitch. Needle Turn Appliqué for Beginners Freezer Paper Appliqué The Invisible Stitch for Appliqué How to do Blanket Stitch Around Appliqué Using a Sewing Machine (c) In a small sample, demonstrate machine appliqué using a raw edge fusible technique and a blanket stitch. Tips and Tricks for Fusible Appliqué Sizzle Quilt: Machine appliqué with a Blanket Stitch (d) Appliqué a design onto a T-shirt by hand or machine or reverse appliqué a shape by hand sewing. How toappliquéwith a sewing machine (sewing on knits) How to appliqué on a t-shirt Appliqué- How to Do Reverse Appliqué F.Quilting\n(a) Research historical quilts and show your counselor examples of types of quilts that interest you. Discuss how they were made. The History of Quilting What is Quilting and Patchwork? (b) Explain the tools used when quilting and how to use them safely. Discuss why accuracy is important in traditional quilting. Sew an accurate ¼” seam. Essential tools for a beginner quilter How to Check your 1/4 Inch seam for Accurate Quilting with On Williams Street (c) Using scraps of cotton quilting fabric, sort into light, medium and dark colors. Choose a focus fabric and find a group of fabrics that would work well in a scrap quilt. Demonstrate how the value and scale of a printed fabric can create interest. 5 Tips for Using Color and Prints in your Quilting Jen Kingwell ~ Choosing Colours (d) Using three copies of a quilting design, color blocks to achieve different quilt designs. Show your counselor your designs and which one is your favorite. Quilt Patterns Coloring (PDF) (e) Make a small quilt (12” square plus borders):\n(1) Using a rotary cutter, cut fabric into strips and pieces to make a four patch, rail fence block pattern, or design of your choice. Sew together on a machine or by hand using a ¼” seam allowance and press flat. Cut and add borders. Quilting for Beginners: Essential Techniques | Quilting Tutorial How to Design a Quilt: No Pattern Needed! | Quilting Tutorial (2) Make a sandwich with backing and batting. Baste. Beginner Quilt Series – How to Layer a Quilt Sandwich and Pin Baste a Quilt (3) Hand quilt with a running stitch or big stitch. Hand quilting techniques for beginners (on perle cotton) | Sarah Fielke Craftsy Quilting Tutorial How to Do Big Stitch Hand Quilting (4) Label your quilt. Explain why this is important. The Final Stitch Episode 6: Labeling Your Quilt (5) Bind to finish the edge of the quilt. The Ultimate Quilt Binding Tutorial with Jenny Doan of Missouri Star (Instructional Video)",
-          "requirement_path": "3.item-1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
+          "label": "A",
+          "text": "Machine Sewing",
+          "requirement_path": "3.a",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [
-            {
-              "type": "text",
-              "value": "A. "
-            },
             {
               "type": "element",
               "tag": "strong",
@@ -422,486 +403,584 @@
               "tag": "br",
               "attrs": {},
               "children": []
-            },
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": " (a) Provide a brief overview of the evolution of the sewing machine "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "a",
+              "label": "a",
+              "text": "Provide a brief overview of the evolution of the sewing machine",
+              "requirement_path": "3.a.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/pyP8Q6Xv1ng?si=fmeGdHOZgilVvZ8X"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "The History of Sewing Machines Documentary"
-                    }
-                  ]
+                  "type": "text",
+                  "value": "Provide a brief overview of the evolution of the sewing machine"
                 }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (b) Read your machine manual and do the following:"
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Explain the parts of a sewing machine and their functions. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              ],
+              "resources": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.youtube.com/watch?v=tzf4BZ7zNC0"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Understanding the Basic Parts of a Sewing Machine"
-                    }
-                  ]
+                  "title": "The History of Sewing Machines Documentary",
+                  "url": "https://youtu.be/pyP8Q6Xv1ng?si=fmeGdHOZgilVvZ8X",
+                  "type": "video"
                 }
-              ]
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " (2) Thread the machine and the bobbin. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "b",
+              "label": "b",
+              "text": "Read your machine manual and do the following:",
+              "requirement_path": "3.a.b",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "scoped_clauses": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/fzlT-SOqxZY?si=gTe790PtBm6UYz4e"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Thread a Sewing Machine for Absolute Beginners"
-                    }
-                  ]
+                  "text": "Read your machine manual and do the following:",
+                  "scope": "ambiguous"
                 }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (3) Explain how to properly clean and oil the machine and change the needle. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Read your machine manual and do the following:"
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://haileystitches.com/how-to-clean-a-sewing-machine-a-step-by-step-guide/"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Clean a Sewing Machine: A Step By Step Guide – Hailey Stitches"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (c) Identify other tools you will need for machine sewing. Demonstrate the following sewing techniques, including when and why each is used: "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "strong",
+                  "tag": "br",
                   "attrs": {},
-                  "children": [
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "1",
+                  "label": "1",
+                  "text": "Explain the parts of a sewing machine and their functions.",
+                  "requirement_path": "3.a.b.1",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Explain the parts of a sewing machine and their functions."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Understanding the Basic Parts of a Sewing Machine",
+                      "url": "https://www.youtube.com/watch?v=tzf4BZ7zNC0",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "2",
+                  "label": "2",
+                  "text": "Thread the machine and the bobbin.",
+                  "requirement_path": "3.a.b.2",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Thread the machine and the bobbin."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "How to Thread a Sewing Machine for Absolute Beginners",
+                      "url": "https://youtu.be/fzlT-SOqxZY?si=gTe790PtBm6UYz4e",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "3",
+                  "label": "3",
+                  "text": "Explain how to properly clean and oil the machine and change the needle.",
+                  "requirement_path": "3.a.b.3",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Explain how to properly clean and oil the machine and change the needle."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "How to Clean a Sewing Machine: A Step By Step Guide – Hailey Stitches",
+                      "url": "https://haileystitches.com/how-to-clean-a-sewing-machine-a-step-by-step-guide/",
+                      "type": "website"
+                    }
+                  ],
+                  "sub_requirements": []
+                }
+              ]
+            },
+            {
+              "id": "c",
+              "label": "c",
+              "text": "Identify other tools you will need for machine sewing. Demonstrate the following sewing techniques, including when and why each is used:",
+              "requirement_path": "3.a.c",
+              "node_kind": "action_requirement",
+              "is_container": true,
+              "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Identify other tools you will need for machine sewing.",
+                  "scope": "requirement"
+                },
+                {
+                  "text": "Demonstrate the following sewing techniques, including when and why each is used:",
+                  "scope": "children"
+                }
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Identify other tools you will need for machine sewing. Demonstrate the following sewing techniques, including when and why each is used:"
+                }
+              ],
+              "resources": [
+                {
+                  "title": "List of Basic Sewing Tools",
+                  "url": "https://youtu.be/WHlrqFQA_u4?si=ZTCAlUfoB5jh3U3g",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": [
+                {
+                  "id": "1",
+                  "label": "1",
+                  "text": "Pinning",
+                  "requirement_path": "3.a.c.1",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Pinning"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "How To Pin Your Fabric For Sewing",
+                      "url": "https://youtu.be/VFz20O_sTMw?si=LhEYE-xbrF5iyFWp",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "2",
+                  "label": "2",
+                  "text": "Sewing in a straight line",
+                  "requirement_path": "3.a.c.2",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Sewing in a straight line"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "How To: Sew in a Straight Line (Sewing for Beginners)",
+                      "url": "https://youtu.be/meVu_3Iv-3U?si=NKgMyCcjenfm1XIs",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "3",
+                  "label": "3",
+                  "text": "Back stitch",
+                  "requirement_path": "3.a.c.3",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Back stitch"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "How to Backstitch On A Sewing Machine",
+                      "url": "https://youtu.be/WmfbvS784CI",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "4",
+                  "label": "4",
+                  "text": "Basting stitch",
+                  "requirement_path": "3.a.c.4",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Basting stitch"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "What Is a Baste Stitch and Why Should You Use It?",
+                      "url": "https://youtu.be/932s5gAhJHg",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "5",
+                  "label": "5",
+                  "text": "Gathering stitch",
+                  "requirement_path": "3.a.c.5",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Gathering stitch"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "How to Gather Fabric with a Sewing Machine: A Beginner Sewing Tutorial",
+                      "url": "https://youtu.be/a4s1pKb9wKE?si=zFcY3sDxQgow7l3G",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "6",
+                  "label": "6",
+                  "text": "Unpicking or seam ripping.",
+                  "requirement_path": "3.a.c.6",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Unpicking or seam ripping."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "HOW TO DO UNPICKING AND SEAM RIPPING? – Is there a difference? And what’s the red ball for anyway?",
+                      "url": "https://youtu.be/bwfHiDE6kss?si=n12K3AAl3_BoHnpe",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                }
+              ]
+            },
+            {
+              "id": "d",
+              "label": "d",
+              "text": "Do the following using a sewing machine:",
+              "requirement_path": "3.a.d",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do the following using a sewing machine:",
+                  "scope": "children"
+                }
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Do the following using a sewing machine:"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "1",
+                  "label": "1",
+                  "text": "Sew a Scout patch on your uniform or other fabric.",
+                  "requirement_path": "3.a.d.1",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Sew a Scout patch on your uniform or other fabric."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "How to Sew a Patch on the Sleeve of Scrubs or Shirt",
+                      "url": "https://youtu.be/Rogxb__0GjI?si=Et7Dz-taE8MsuTtb",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "2",
+                  "label": "2",
+                  "text": "Repair a tear or small hole in fabric using a patch or darning technique.Resources:How to: Repairs Pants with Hand Stitch (Super Simple) | Tailor Series",
+                  "requirement_path": "3.a.d.2",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Repair a tear or small hole in fabric using a patch or darning technique."
+                    },
                     {
                       "type": "element",
-                      "tag": "a",
-                      "attrs": {
-                        "href": "https://youtu.be/WHlrqFQA_u4?si=ZTCAlUfoB5jh3U3g"
-                      },
+                      "tag": "em",
+                      "attrs": {},
                       "children": [
                         {
                           "type": "text",
-                          "value": "List of Basic Sewing Tools"
+                          "value": "Resources:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attrs": {
+                            "href": "https://youtu.be/0dMp1YXaSM8?si=CL9t87Lt688lnyA0"
+                          },
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "How to: Repairs Pants with Hand Stitch (Super Simple) | Tailor Series"
+                            }
+                          ]
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "resources": [
+                    {
+                      "title": "How to Repair Holes in Jeans and Other Fabrics",
+                      "url": "https://youtu.be/dXvFmoqfXEc?si=27pwLphw4aT9uq_4",
+                      "type": "video"
+                    },
+                    {
+                      "title": "How to: Repairs Pants with Hand Stitch (Super Simple) | Tailor Series",
+                      "url": "https://youtu.be/0dMp1YXaSM8?si=CL9t87Lt688lnyA0",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
                 }
               ]
             },
             {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Pinning "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "e",
+              "label": "e",
+              "text": "Sew ONE item from this list using a pattern, using THREE or more techniques from requirement 3(c):",
+              "requirement_path": "3.a.e",
+              "node_kind": "action_requirement",
+              "is_container": true,
+              "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Sew ONE item from this list using a pattern, using THREE or more techniques from requirement 3(c):",
+                  "scope": "children"
+                }
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Sew ONE item from this list using a pattern, using THREE or more techniques from requirement 3(c):"
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/VFz20O_sTMw?si=LhEYE-xbrF5iyFWp"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How To Pin Your Fabric For Sewing"
-                    }
-                  ]
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
                 }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (2) Sewing in a straight line "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              ],
+              "resources": [],
+              "sub_requirements": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/meVu_3Iv-3U?si=NKgMyCcjenfm1XIs"
-                  },
-                  "children": [
+                  "id": "1",
+                  "label": "1",
+                  "text": "Drawstring backpack",
+                  "requirement_path": "3.a.e.1",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "How To: Sew in a Straight Line (Sewing for Beginners)"
+                      "value": "Drawstring backpack"
                     }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (3) Back stitch "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+                  ],
+                  "resources": [
+                    {
+                      "title": "Drawstring Backpack",
+                      "url": "https://youtu.be/sJmqKhv2nWs?si=1zkVkFf3u3akiMRy",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/WmfbvS784CI"
-                  },
-                  "children": [
+                  "id": "2",
+                  "label": "2",
+                  "text": "Camp utensil holder",
+                  "requirement_path": "3.a.e.2",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "How to Backstitch On A Sewing Machine"
+                      "value": "Camp utensil holder"
                     }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (4) Basting stitch "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+                  ],
+                  "resources": [
+                    {
+                      "title": "How to Sew a Utensil Roll",
+                      "url": "https://youtu.be/GSYhN0nHmls",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/932s5gAhJHg"
-                  },
-                  "children": [
+                  "id": "3",
+                  "label": "3",
+                  "text": "Storage bag for tent stakes or school supplies",
+                  "requirement_path": "3.a.e.3",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "What Is a Baste Stitch and Why Should You Use It?"
+                      "value": "Storage bag for tent stakes or school supplies"
                     }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (5) Gathering stitch "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+                  ],
+                  "resources": [
+                    {
+                      "title": "DIY drawstring pouches, easy sew.",
+                      "url": "https://youtu.be/jylJvQMKRLI?si=rSULAs0RsG_S8g7j",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/a4s1pKb9wKE?si=zFcY3sDxQgow7l3G"
-                  },
-                  "children": [
+                  "id": "4",
+                  "label": "4",
+                  "text": "Pillowcase",
+                  "requirement_path": "3.a.e.4",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "How to Gather Fabric with a Sewing Machine: A Beginner Sewing Tutorial"
+                      "value": "Pillowcase"
                     }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (6) Unpicking or seam ripping. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+                  ],
+                  "resources": [
+                    {
+                      "title": "How to sew a pillowcase | Sewing Tutorial with Angela Wolf",
+                      "url": "https://youtu.be/yMoJWSmZI-U?si=22E1fmewy7TUDBGb",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/bwfHiDE6kss?si=n12K3AAl3_BoHnpe"
-                  },
-                  "children": [
+                  "id": "5",
+                  "label": "5",
+                  "text": "An item of your own choosing, approved in advance by your counselor.",
+                  "requirement_path": "3.a.e.5",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "HOW TO DO UNPICKING AND SEAM RIPPING? – Is there a difference? And what’s the red ball for anyway?"
+                      "value": "An item of your own choosing, approved in advance by your counselor."
                     }
-                  ]
+                  ],
+                  "resources": [],
+                  "sub_requirements": []
                 }
               ]
-            },
-            {
-              "type": "text",
-              "value": " (d) Do the following using a sewing machine:"
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Sew a Scout patch on your uniform or other fabric. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/Rogxb__0GjI?si=Et7Dz-taE8MsuTtb"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Sew a Patch on the Sleeve of Scrubs or Shirt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (2) Repair a tear or small hole in fabric using a patch or darning technique. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/dXvFmoqfXEc?si=27pwLphw4aT9uq_4"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Repair Holes in Jeans and Other Fabrics"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/0dMp1YXaSM8?si=CL9t87Lt688lnyA0"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to: Repairs Pants with Hand Stitch (Super Simple) | Tailor Series"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (e) Sew ONE item from this list using a pattern, using THREE or more techniques from requirement 3(c):"
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Drawstring backpack "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/sJmqKhv2nWs?si=1zkVkFf3u3akiMRy"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Drawstring Backpack"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (2) Camp utensil holder "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/GSYhN0nHmls"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Sew a Utensil Roll"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (3) Storage bag for tent stakes or school supplies "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/jylJvQMKRLI?si=rSULAs0RsG_S8g7j"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "DIY drawstring pouches, easy sew."
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (4) Pillowcase "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/yMoJWSmZI-U?si=22E1fmewy7TUDBGb"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to sew a pillowcase | Sewing Tutorial with Angela Wolf"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (5) An item of your own choosing, approved in advance by your counselor. B."
-            },
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Knitting",
+          "requirement_path": "3.b",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
+          "scoped_clauses": [],
+          "content": [
             {
               "type": "element",
               "tag": "strong",
@@ -918,367 +997,428 @@
               "tag": "br",
               "attrs": {},
               "children": []
-            },
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": " (a) Provide a brief overview of the history of knitting. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "a",
+              "label": "a",
+              "text": "Provide a brief overview of the history of knitting.Resources:Spies, Socks, & Soldiers // The Fascinating History of Wartime Knitting",
+              "requirement_path": "3.b.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Provide a brief overview of the history of knitting."
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/JOxF_7LplGE?si=7Iq1NQ65mZSPjuLM"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "How Knitting Transformed The Ancient World"
+                      "value": "Resources:"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/XCQVJfEdO6k?si=4KXrd9Xkl7-zrDS-"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Spies, Socks, & Soldiers // The Fascinating History of Wartime Knitting"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (b) Explain the tools used when knitting. Demonstrate the ability to read a pattern, including deciphering symbols. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/rbEsyps7v6Q?si=zgVVGPRZfd0PiAWd"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Knitting Supplies for Beginners | Essential Tools You Actually Need to Start Knitting"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.craftyarncouncil.com/standards/how-to-read-knitting-pattern"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Read a Knitting Pattern"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (c) Using knitting needles, demonstrate how to tie a slip knot, cast on and bind off. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/Mf6MxSDIfaA?si=eVzX8OduVD-MOOfs"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Knitting Help – Slow Motion Slip Knot"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/iHZy0-tXUtU?si=E13XEX8prDl0xbFQ"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Knitting Help – Slow-Motion Cast-On"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/VrcZDngom_E?si=IYjO1tKHn7BUDSav"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Knitting Help – Slow Motion Bind-Off"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (d) Demonstrate the following stitches:"
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Knit stitch "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/OPDbHdhKvng?si=Yg6fXVaiLAoCZL6F"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Knitting Help – Slow Motion Knit Stitch"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (2) Purl stitch. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/b3JpVdB6MAU?si=UmXkIyCicTQOLPUE"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Knitting Help – Slow Motion Purl Stitch"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (e) Knit a small item such as a dishcloth, scarf, or an item of your own choosing, approved in advance by your counselor, using ONE of the following stitch patterns with at least two colors of yarn:"
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Garter stitch "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/UoDKx9g0EFw?si=-iIm-QT-So8gu3v7"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Garter Stitch for Beginners (worked slowly)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (2) Stockinette stitch "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/rlaC5C5nJR8?si=VVaXVAXWc5Ck9AAR"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Stockinette Stitch for Beginners – Learn to Knit"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (3) Ribbing. "
-            },
-            {
-              "type": "element",
-              "tag": "a",
-              "attrs": {
-                "href": "https://www.youtube.com/watch?v=u__L0q-Ap8U"
-              },
-              "children": [
+                },
                 {
                   "type": "element",
                   "tag": "strong",
                   "attrs": {},
                   "children": [
                     {
-                      "type": "text",
-                      "value": "Learn the English Rib Stitch"
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/XCQVJfEdO6k?si=4KXrd9Xkl7-zrDS-"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Spies, Socks, & Soldiers // The Fascinating History of Wartime Knitting"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "How Knitting Transformed The Ancient World",
+                  "url": "https://youtu.be/JOxF_7LplGE?si=7Iq1NQ65mZSPjuLM",
+                  "type": "video"
+                },
+                {
+                  "title": "Spies, Socks, & Soldiers // The Fascinating History of Wartime Knitting",
+                  "url": "https://youtu.be/XCQVJfEdO6k?si=4KXrd9Xkl7-zrDS-",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "b",
+              "label": "b",
+              "text": "Explain the tools used when knitting. Demonstrate the ability to read a pattern, including deciphering symbols.Resources:How to Read a Knitting Pattern",
+              "requirement_path": "3.b.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the tools used when knitting. Demonstrate the ability to read a pattern, including deciphering symbols."
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/F6t1upQeNAE?si=-P-f2Yr6v4mXFGvU"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "Learn to Knit a Dishcloth"
+                      "value": "Resources:"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://www.craftyarncouncil.com/standards/how-to-read-knitting-pattern"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "How to Read a Knitting Pattern"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "Knitting Supplies for Beginners | Essential Tools You Actually Need to Start Knitting",
+                  "url": "https://youtu.be/rbEsyps7v6Q?si=zgVVGPRZfd0PiAWd",
+                  "type": "video"
+                },
+                {
+                  "title": "How to Read a Knitting Pattern",
+                  "url": "https://www.craftyarncouncil.com/standards/how-to-read-knitting-pattern",
+                  "type": "website"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "c",
+              "label": "c",
+              "text": "Using knitting needles, demonstrate how to tie a slip knot, cast on and bind off.Resources:Knitting Help – Slow-Motion Cast-On",
+              "requirement_path": "3.b.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Using knitting needles, demonstrate how to tie a slip knot, cast on and bind off."
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/6-5HHme5zFs?si=qWPR6AvTTXK9rP3m"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "How to knit a scarf evenly: 5 tips | Knitting Tutorial with Stefanie Japel"
+                      "value": "Resources:"
                     }
                   ]
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/iHZy0-tXUtU?si=E13XEX8prDl0xbFQ"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Knitting Help – Slow-Motion Cast-On"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Knitting Help – Slow Motion Slip Knot",
+                  "url": "https://youtu.be/Mf6MxSDIfaA?si=eVzX8OduVD-MOOfs",
+                  "type": "video"
+                },
+                {
+                  "title": "Knitting Help – Slow Motion Bind-Off",
+                  "url": "https://youtu.be/VrcZDngom_E?si=IYjO1tKHn7BUDSav",
+                  "type": "video"
+                },
+                {
+                  "title": "Knitting Help – Slow-Motion Cast-On",
+                  "url": "https://youtu.be/iHZy0-tXUtU?si=E13XEX8prDl0xbFQ",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "d",
+              "label": "d",
+              "text": "Demonstrate the following stitches:",
+              "requirement_path": "3.b.d",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Demonstrate the following stitches:",
+                  "scope": "children"
+                }
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the following stitches:"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "1",
+                  "label": "1",
+                  "text": "Knit stitch",
+                  "requirement_path": "3.b.d.1",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Knit stitch"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Knitting Help – Slow Motion Knit Stitch",
+                      "url": "https://youtu.be/OPDbHdhKvng?si=Yg6fXVaiLAoCZL6F",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "2",
+                  "label": "2",
+                  "text": "Purl stitch.",
+                  "requirement_path": "3.b.d.2",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Purl stitch."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Knitting Help – Slow Motion Purl Stitch",
+                      "url": "https://youtu.be/b3JpVdB6MAU?si=UmXkIyCicTQOLPUE",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
                 }
               ]
             },
             {
-              "type": "text",
-              "value": " C."
-            },
+              "id": "e",
+              "label": "e",
+              "text": "Knit a small item such as a dishcloth, scarf, or an item of your own choosing, approved in advance by your counselor, using ONE of the following stitch patterns with at least two colors of yarn:",
+              "requirement_path": "3.b.e",
+              "node_kind": "action_requirement",
+              "is_container": true,
+              "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Knit a small item such as a dishcloth, scarf, or an item of your own choosing, approved in advance by your counselor, using ONE of the following stitch patterns with at least two colors of yarn:",
+                  "scope": "children"
+                }
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Knit a small item such as a dishcloth, scarf, or an item of your own choosing, approved in advance by your counselor, using ONE of the following stitch patterns with at least two colors of yarn:"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "1",
+                  "label": "1",
+                  "text": "Garter stitch",
+                  "requirement_path": "3.b.e.1",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Garter stitch"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Garter Stitch for Beginners (worked slowly)",
+                      "url": "https://youtu.be/UoDKx9g0EFw?si=-iIm-QT-So8gu3v7",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "2",
+                  "label": "2",
+                  "text": "Stockinette stitch",
+                  "requirement_path": "3.b.e.2",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Stockinette stitch"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Stockinette Stitch for Beginners – Learn to Knit",
+                      "url": "https://youtu.be/rlaC5C5nJR8?si=VVaXVAXWc5Ck9AAR",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "3",
+                  "label": "3",
+                  "text": "Ribbing.Resources:Learn to Knit a Dishcloth",
+                  "requirement_path": "3.b.e.3",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Ribbing."
+                    },
+                    {
+                      "type": "element",
+                      "tag": "em",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Resources:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attrs": {
+                            "href": "https://youtu.be/F6t1upQeNAE?si=-P-f2Yr6v4mXFGvU"
+                          },
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Learn to Knit a Dishcloth"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Learn the English Rib Stitch",
+                      "url": "https://www.youtube.com/watch?v=u__L0q-Ap8U",
+                      "type": "video"
+                    },
+                    {
+                      "title": "How to knit a scarf evenly: 5 tips | Knitting Tutorial with Stefanie Japel",
+                      "url": "https://youtu.be/6-5HHme5zFs?si=qWPR6AvTTXK9rP3m",
+                      "type": "video"
+                    },
+                    {
+                      "title": "Learn to Knit a Dishcloth",
+                      "url": "https://youtu.be/F6t1upQeNAE?si=-P-f2Yr6v4mXFGvU",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Crochet",
+          "requirement_path": "3.c",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
+          "scoped_clauses": [],
+          "content": [
             {
               "type": "element",
               "tag": "strong",
@@ -1295,298 +1435,338 @@
               "tag": "br",
               "attrs": {},
               "children": []
-            },
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": " (a)Provide a brief overview of the history of crochet OR the history of Amigurumi. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "a",
+              "label": "a",
+              "text": "Provide a brief overview of the history of crochet OR the history of Amigurumi.Resources:Where Did Amigurumi Come From❓ A History of Crocheted & Knitted Toys 💓",
+              "requirement_path": "3.c.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Provide a brief overview of the history of crochet OR the history of Amigurumi."
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/dHgbptcqziM?si=fkpZYhlMPve_b-Cn"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "CROCHET’S SECRET HISTORY REVEALED: EPIC Full History from the ANCIENTS to TODAY’S TRENDS"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/okOZnJksA9Y?si=mHHY6vzZUDWSLlWG"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Where Did Amigurumi Come From❓ A History of Crocheted & Knitted Toys 💓"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (b) Explain the tools used when crocheting. Demonstrate the ability to read a pattern, including deciphering symbols. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/paRgZbyQ-co?si=c-fT21WCDz3mpt63"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Supplies Needed for Crochet – The Beginner’s Guide to Crochet – Lesson One"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (c) Demonstrate how to tie a slip knot and how to hold a crochet hook and yarn to crochet. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/xKdp1ycZI5I?si=w1VOq5A82KeuX6nA"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Hold a Crochet Hook and Yarn – The Beginner’s Guide to Crochet – Lesson Two"
+                      "value": "Resources:"
                     }
                   ]
                 },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/Mf6MxSDIfaA?si=eVzX8OduVD-MOOfs"
-                  },
+                  "tag": "strong",
+                  "attrs": {},
                   "children": [
                     {
-                      "type": "text",
-                      "value": "Knitting Help – Slow Motion Slip Knot"
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/okOZnJksA9Y?si=mHHY6vzZUDWSLlWG"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Where Did Amigurumi Come From❓ A History of Crocheted & Knitted Toys 💓"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "CROCHET’S SECRET HISTORY REVEALED: EPIC Full History from the ANCIENTS to TODAY’S TRENDS",
+                  "url": "https://youtu.be/dHgbptcqziM?si=fkpZYhlMPve_b-Cn",
+                  "type": "video"
+                },
+                {
+                  "title": "Where Did Amigurumi Come From❓ A History of Crocheted & Knitted Toys 💓",
+                  "url": "https://youtu.be/okOZnJksA9Y?si=mHHY6vzZUDWSLlWG",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " (d) Demonstrate the following stitches in a small practice piece:"
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Single crochet "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "b",
+              "label": "b",
+              "text": "Explain the tools used when crocheting. Demonstrate the ability to read a pattern, including deciphering symbols.Resources:https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern",
+              "requirement_path": "3.c.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the tools used when crocheting. Demonstrate the ability to read a pattern, including deciphering symbols."
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.youtube.com/watch?v=PdpfodLDWbE"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "Crochet for Knitters – Slow Motion Single Crochet"
+                      "value": "Resources:"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (2) Double crochet "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/6gk79wDP50I?si=-kDZsWGUBlvttTNg"
-                  },
+                  "tag": "strong",
+                  "attrs": {},
                   "children": [
                     {
-                      "type": "text",
-                      "value": "Crochet for Knitters – Slow Motion Double Crochet"
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "Supplies Needed for Crochet – The Beginner’s Guide to Crochet – Lesson One",
+                  "url": "https://youtu.be/paRgZbyQ-co?si=c-fT21WCDz3mpt63",
+                  "type": "video"
+                },
+                {
+                  "title": "https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern",
+                  "url": "https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern",
+                  "type": "website"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " (3) Half-double crochet. "
+              "id": "c",
+              "label": "c",
+              "text": "Demonstrate how to tie a slip knot and how to hold a crochet hook and yarn to crochet.",
+              "requirement_path": "3.c.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate how to tie a slip knot and how to hold a crochet hook and yarn to crochet."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to Hold a Crochet Hook and Yarn – The Beginner’s Guide to Crochet – Lesson Two",
+                  "url": "https://youtu.be/xKdp1ycZI5I?si=w1VOq5A82KeuX6nA",
+                  "type": "video"
+                },
+                {
+                  "title": "Knitting Help – Slow Motion Slip Knot",
+                  "url": "https://youtu.be/Mf6MxSDIfaA?si=eVzX8OduVD-MOOfs",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "d",
+              "label": "d",
+              "text": "Demonstrate the following stitches in a small practice piece:",
+              "requirement_path": "3.c.d",
+              "node_kind": "action_requirement",
+              "is_container": true,
+              "requires_response": true,
+              "scoped_clauses": [
+                {
+                  "text": "Demonstrate the following stitches in a small practice piece:",
+                  "scope": "children"
+                }
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Demonstrate the following stitches in a small practice piece:"
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/Wf1t33SAWm4?si=H6iNYeZ52FCp0wZk"
-                  },
-                  "children": [
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "1",
+                  "label": "1",
+                  "text": "Single crochet",
+                  "requirement_path": "3.c.d.1",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
                     {
                       "type": "text",
-                      "value": "Crochet for Knitters – Slow Motion Half Double Crochet"
+                      "value": "Single crochet"
                     }
-                  ]
+                  ],
+                  "resources": [
+                    {
+                      "title": "Crochet for Knitters – Slow Motion Single Crochet",
+                      "url": "https://www.youtube.com/watch?v=PdpfodLDWbE",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "2",
+                  "label": "2",
+                  "text": "Double crochet",
+                  "requirement_path": "3.c.d.2",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Double crochet"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Crochet for Knitters – Slow Motion Double Crochet",
+                      "url": "https://youtu.be/6gk79wDP50I?si=-kDZsWGUBlvttTNg",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "3",
+                  "label": "3",
+                  "text": "Half-double crochet.",
+                  "requirement_path": "3.c.d.3",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Half-double crochet."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Crochet for Knitters – Slow Motion Half Double Crochet",
+                      "url": "https://youtu.be/Wf1t33SAWm4?si=H6iNYeZ52FCp0wZk",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
                 }
               ]
             },
             {
-              "type": "text",
-              "value": " (e) Crochet a small item such as a dishcloth, scrub, or an item of your own choosing, approved in advance by your counselor, using at least two colors of yarn. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "e",
+              "label": "e",
+              "text": "Crochet a small item such as a dishcloth, scrub, or an item of your own choosing, approved in advance by your counselor, using at least two colors of yarn.Resources:30-minute Crochet Projects",
+              "requirement_path": "3.c.e",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Crochet a small item such as a dishcloth, scrub, or an item of your own choosing, approved in advance by your counselor, using at least two colors of yarn."
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/kObezncg4jY?si=WBdx_u1Jy92LiTCn"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "How to Change Yarn in the Middle of a Crochet Project | Crochet Tutorial"
+                      "value": "Resources:"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://easycrochet.com/30-minute-crochet-projects-for-beginners/"
-                  },
+                  "tag": "strong",
+                  "attrs": {},
                   "children": [
                     {
-                      "type": "text",
-                      "value": "30-minute Crochet Projects"
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://easycrochet.com/30-minute-crochet-projects-for-beginners/"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "30-minute Crochet Projects"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              ],
+              "resources": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/vdLd9SPpI6w"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Crocheted Dish Cloths (Free Pattern)"
-                    }
-                  ]
+                  "title": "How to Change Yarn in the Middle of a Crochet Project | Crochet Tutorial",
+                  "url": "https://youtu.be/kObezncg4jY?si=WBdx_u1Jy92LiTCn",
+                  "type": "video"
+                },
+                {
+                  "title": "Crocheted Dish Cloths (Free Pattern)",
+                  "url": "https://youtu.be/vdLd9SPpI6w",
+                  "type": "video"
+                },
+                {
+                  "title": "30-minute Crochet Projects",
+                  "url": "https://easycrochet.com/30-minute-crochet-projects-for-beginners/",
+                  "type": "website"
                 }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " D."
-            },
+              ],
+              "sub_requirements": []
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Hand Embroidery",
+          "requirement_path": "3.d",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
+          "scoped_clauses": [],
+          "content": [
             {
               "type": "element",
               "tag": "strong",
@@ -1603,83 +1783,94 @@
               "tag": "br",
               "attrs": {},
               "children": []
-            },
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": " (a) Provide a brief overview of the history of hand embroidery. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "a",
+              "label": "a",
+              "text": "Provide a brief overview of the history of hand embroidery.",
+              "requirement_path": "3.d.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/it89FMRuwS0?si=Xdkd4OEQeXaipTCd"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "HISTORY of EMBROIDERY – From King Tut to the 21st Century – Domestika"
-                    }
-                  ]
+                  "type": "text",
+                  "value": "Provide a brief overview of the history of hand embroidery."
                 }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (b) Explain the tools used in hand embroidery. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              ],
+              "resources": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/sX9-_kJ-qgM?si=WBNJR80K4oTVw9OG"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Embroidery for beginners – Basic tools"
-                    }
-                  ]
+                  "title": "HISTORY of EMBROIDERY – From King Tut to the 21st Century – Domestika",
+                  "url": "https://youtu.be/it89FMRuwS0?si=Xdkd4OEQeXaipTCd",
+                  "type": "video"
                 }
-              ]
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " (c) Embroider a small sampler of your own design or from a purchased kit or embroider a temporary patch for your uniform. Include SIX of the following basic stitches: running stitch, back stitch, stem stitch, chain stitch, surface couching, blanket stitch, herringbone stitch, chevron stitch, feather stitch, weave stitch, seed stitch, French knots, fishbone stitch, satin stitch, cross stitch. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "b",
+              "label": "b",
+              "text": "Explain the tools used in hand embroidery.",
+              "requirement_path": "3.d.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/hoQMv_n7Jio?si=03jGeZpGFDzjk0KZ"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Backside of 15 Basic Stitches"
-                    }
-                  ]
+                  "type": "text",
+                  "value": "Explain the tools used in hand embroidery."
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "Embroidery for beginners – Basic tools",
+                  "url": "https://youtu.be/sX9-_kJ-qgM?si=WBNJR80K4oTVw9OG",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " E."
-            },
+              "id": "c",
+              "label": "c",
+              "text": "Embroider a small sampler of your own design or from a purchased kit or embroider a temporary patch for your uniform. Include SIX of the following basic stitches: running stitch, back stitch, stem stitch, chain stitch, surface couching, blanket stitch, herringbone stitch, chevron stitch, feather stitch, weave stitch, seed stitch, French knots, fishbone stitch, satin stitch, cross stitch.",
+              "requirement_path": "3.d.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Embroider a small sampler of your own design or from a purchased kit or embroider a temporary patch for your uniform. Include SIX of the following basic stitches: running stitch, back stitch, stem stitch, chain stitch, surface couching, blanket stitch, herringbone stitch, chevron stitch, feather stitch, weave stitch, seed stitch, French knots, fishbone stitch, satin stitch, cross stitch."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Backside of 15 Basic Stitches",
+                  "url": "https://youtu.be/hoQMv_n7Jio?si=03jGeZpGFDzjk0KZ",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
+            }
+          ]
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Appliqué",
+          "requirement_path": "3.e",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
+          "scoped_clauses": [],
+          "content": [
             {
               "type": "element",
               "tag": "strong",
@@ -1696,277 +1887,282 @@
               "tag": "br",
               "attrs": {},
               "children": []
-            },
+            }
+          ],
+          "resources": [],
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": " (a) Provide a brief overview of the history of hand appliqué. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "a",
+              "label": "a",
+              "text": "Provide a brief overview of the history of hand appliqué.",
+              "requirement_path": "3.e.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://theappliquesociety.org/A-Brief-History-of-Applique"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "A Brief History of Appliqué"
-                    }
-                  ]
+                  "type": "text",
+                  "value": "Provide a brief overview of the history of hand appliqué."
                 }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (b) In a small sample, demonstrate how to do appliqué by hand using the following methods: needle turn or freezer paper using an invisible (ladder) stitch or blanket stitch. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              ],
+              "resources": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/gAo4NG53rVs?si=u8Jkw4hfuLMm83Jn"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Needle Turn Appliqué for Beginners"
-                    }
-                  ]
+                  "title": "A Brief History of Appliqué",
+                  "url": "https://theappliquesociety.org/A-Brief-History-of-Applique",
+                  "type": "website"
                 }
-              ]
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "b",
+              "label": "b",
+              "text": "In a small sample, demonstrate how to do appliqué by hand using the following methods: needle turn or freezer paper using an invisible (ladder) stitch or blanket stitch.Resources:Freezer Paper AppliquéResources:How to do Blanket Stitch Around Appliqué Using a Sewing Machine",
+              "requirement_path": "3.e.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "In a small sample, demonstrate how to do appliqué by hand using the following methods: needle turn or freezer paper using an invisible (ladder) stitch or blanket stitch."
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/TlBj8DAp-Jk?si=pk_9NlgOHIyfje3Z"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "Freezer Paper Appliqué"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/X2e2hP-Hdg8?si=MNTU9vH7JgHhmbKa"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "The Invisible Stitch for Appliqué"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/5z_UHuuJriw?si=Cl72_MsldAMwt807"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to do Blanket Stitch Around Appliqué Using a Sewing Machine"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (c) In a small sample, demonstrate machine appliqué using a raw edge fusible technique and a blanket stitch. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/gqsyj0nQZoA?si=No_RMgOh464r03Ug"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Tips and Tricks for Fusible Appliqué"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/MOTs-73YZhs?si=5FaXKBexKgR_He4Q"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Sizzle Quilt: Machine appliqué with a Blanket Stitch"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (d) Appliqué a design onto a T-shirt by hand or machine or reverse appliqué a shape by hand sewing. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/jtNlfbrj1Ps?si=n47rP1GnkoO5BlmZ"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to"
+                      "value": "Resources:"
                     }
                   ]
                 },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv"
-                  },
+                  "tag": "strong",
+                  "attrs": {},
                   "children": [
                     {
-                      "type": "text",
-                      "value": "appliqué"
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/TlBj8DAp-Jk?si=pk_9NlgOHIyfje3Z"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Freezer Paper Appliqué"
+                        }
+                      ]
                     }
                   ]
                 },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/jtNlfbrj1Ps?si=n47rP1GnkoO5BlmZ"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "with a sewing machine (sewing on knits)"
+                      "value": "Resources:"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv"
-                  },
+                  "tag": "strong",
+                  "attrs": {},
                   "children": [
                     {
-                      "type": "text",
-                      "value": "How to appliqué on a t-shirt"
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/5z_UHuuJriw?si=Cl72_MsldAMwt807"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "How to do Blanket Stitch Around Appliqué Using a Sewing Machine"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "Needle Turn Appliqué for Beginners",
+                  "url": "https://youtu.be/gAo4NG53rVs?si=u8Jkw4hfuLMm83Jn",
+                  "type": "video"
+                },
+                {
+                  "title": "The Invisible Stitch for Appliqué",
+                  "url": "https://youtu.be/X2e2hP-Hdg8?si=MNTU9vH7JgHhmbKa",
+                  "type": "video"
+                },
+                {
+                  "title": "Freezer Paper Appliqué",
+                  "url": "https://youtu.be/TlBj8DAp-Jk?si=pk_9NlgOHIyfje3Z",
+                  "type": "video"
+                },
+                {
+                  "title": "How to do Blanket Stitch Around Appliqué Using a Sewing Machine",
+                  "url": "https://youtu.be/5z_UHuuJriw?si=Cl72_MsldAMwt807",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
+              "id": "c",
+              "label": "c",
+              "text": "In a small sample, demonstrate machine appliqué using a raw edge fusible technique and a blanket stitch.Resources:Sizzle Quilt: Machine appliqué with a Blanket Stitch",
+              "requirement_path": "3.e.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "In a small sample, demonstrate machine appliqué using a raw edge fusible technique and a blanket stitch."
+                },
                 {
                   "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/vYqDtaHsAK4?si=fkna2G_oeM7XC_UF"
-                  },
+                  "tag": "em",
+                  "attrs": {},
                   "children": [
                     {
                       "type": "text",
-                      "value": "Appliqué- How to Do Reverse Appliqué"
+                      "value": "Resources:"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/MOTs-73YZhs?si=5FaXKBexKgR_He4Q"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Sizzle Quilt: Machine appliqué with a Blanket Stitch"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
+              ],
+              "resources": [
+                {
+                  "title": "Tips and Tricks for Fusible Appliqué",
+                  "url": "https://youtu.be/gqsyj0nQZoA?si=No_RMgOh464r03Ug",
+                  "type": "video"
+                },
+                {
+                  "title": "Sizzle Quilt: Machine appliqué with a Blanket Stitch",
+                  "url": "https://youtu.be/MOTs-73YZhs?si=5FaXKBexKgR_He4Q",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
             },
             {
-              "type": "text",
-              "value": " F."
-            },
+              "id": "d",
+              "label": "d",
+              "text": "Appliqué a design onto a T-shirt by hand or machine or reverse appliqué a shape by hand sewing.Resources:How to appliqué on a t-shirt",
+              "requirement_path": "3.e.d",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Appliqué a design onto a T-shirt by hand or machine or reverse appliqué a shape by hand sewing."
+                },
+                {
+                  "type": "element",
+                  "tag": "em",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Resources:"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "How to appliqué on a t-shirt"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "resources": [
+                {
+                  "title": "How to",
+                  "url": "https://youtu.be/jtNlfbrj1Ps?si=n47rP1GnkoO5BlmZ",
+                  "type": "video"
+                },
+                {
+                  "title": "appliqué",
+                  "url": "https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv",
+                  "type": "video"
+                },
+                {
+                  "title": "with a sewing machine (sewing on knits)",
+                  "url": "https://youtu.be/jtNlfbrj1Ps?si=n47rP1GnkoO5BlmZ",
+                  "type": "video"
+                },
+                {
+                  "title": "Appliqué- How to Do Reverse Appliqué",
+                  "url": "https://youtu.be/vYqDtaHsAK4?si=fkna2G_oeM7XC_UF",
+                  "type": "video"
+                },
+                {
+                  "title": "How to appliqué on a t-shirt",
+                  "url": "https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
+            }
+          ]
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Quilting",
+          "requirement_path": "3.f",
+          "node_kind": "option_container",
+          "is_container": true,
+          "requires_response": false,
+          "scoped_clauses": [],
+          "content": [
             {
               "type": "element",
               "tag": "strong",
@@ -1983,356 +2179,437 @@
               "tag": "br",
               "attrs": {},
               "children": []
-            },
-            {
-              "type": "text",
-              "value": " (a) Research historical quilts and show your counselor examples of types of quilts that interest you. Discuss how they were made. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://www.youtube.com/watch?v=SGgFsNuvk3E"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "The History of Quilting"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://createwhimsy.com/projects/what-is-quilting-and-patchwork/"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "What is Quilting and Patchwork?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (b) Explain the tools used when quilting and how to use them safely. Discuss why accuracy is important in traditional quilting. Sew an accurate ¼” seam. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/yQw4SyiWjQI?si=GQ5u9yXyi_ku4bqi"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Essential tools for a beginner quilter"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/GOO2-0lD4pw?si=xVrWfpVEzwHPsGwz"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Check your 1/4 Inch seam for Accurate Quilting with On Williams Street"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (c) Using scraps of cotton quilting fabric, sort into light, medium and dark colors. Choose a focus fabric and find a group of fabrics that would work well in a scrap quilt. Demonstrate how the value and scale of a printed fabric can create interest. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/LCC6aysaVXk?si=j2ZoPNxl0IO8FtWp"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "5 Tips for Using Color and Prints in your Quilting"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/-wx85BU1hO0?si=0_4ZP68ZoBItiMDJ"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Jen Kingwell ~ Choosing Colours"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (d) Using three copies of a quilting design, color blocks to achieve different quilt designs. Show your counselor your designs and which one is your favorite. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://blog.missouriquiltco.com/wp-content/uploads/2020/04/QuiltPatternsColoring.pdf"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Quilt Patterns Coloring (PDF)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (e) Make a small quilt (12” square plus borders):"
-            },
-            {
-              "type": "element",
-              "tag": "br",
-              "attrs": {},
-              "children": []
-            },
-            {
-              "type": "text",
-              "value": " (1) Using a rotary cutter, cut fabric into strips and pieces to make a four patch, rail fence block pattern, or design of your choice. Sew together on a machine or by hand using a ¼” seam allowance and press flat. Cut and add borders. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/8fHfmqEI31g?si=ekDqnjyvzCe9gTnV"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Quilting for Beginners: Essential Techniques | Quilting Tutorial"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/5yL3VeiTQcs?si=2z-DGOLpojI3hT7H"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Design a Quilt: No Pattern Needed! | Quilting Tutorial"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (2) Make a sandwich with backing and batting. Baste. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/hG50jcN2xSE"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Beginner Quilt Series – How to Layer a Quilt Sandwich and Pin Baste a Quilt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (3) Hand quilt with a running stitch or big stitch. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/8DXN5Ger_jo?si=XZJ7lFt1h6wH1Z7Y"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Hand quilting techniques for beginners (on perle cotton) | Sarah Fielke Craftsy Quilting Tutorial"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/SfoIOv8avMU?si=HyoELuq8g_yeuB1e"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Do Big Stitch Hand Quilting"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (4) Label your quilt. Explain why this is important. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/jYajgujAb0M"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "The Final Stitch Episode 6: Labeling Your Quilt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " (5) Bind to finish the edge of the quilt. "
-            },
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/0vCWpxBRs20?si=EWJtIiYiFuGfVyeS"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "The Ultimate Quilt Binding Tutorial with Jenny Doan of Missouri Star (Instructional Video)"
-                    }
-                  ]
-                }
-              ]
             }
           ],
           "resources": [],
-          "sub_requirements": []
+          "sub_requirements": [
+            {
+              "id": "a",
+              "label": "a",
+              "text": "Research historical quilts and show your counselor examples of types of quilts that interest you. Discuss how they were made.Resources:What is Quilting and Patchwork?",
+              "requirement_path": "3.f.a",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Research historical quilts and show your counselor examples of types of quilts that interest you. Discuss how they were made."
+                },
+                {
+                  "type": "element",
+                  "tag": "em",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Resources:"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://createwhimsy.com/projects/what-is-quilting-and-patchwork/"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "What is Quilting and Patchwork?"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "resources": [
+                {
+                  "title": "The History of Quilting",
+                  "url": "https://www.youtube.com/watch?v=SGgFsNuvk3E",
+                  "type": "video"
+                },
+                {
+                  "title": "What is Quilting and Patchwork?",
+                  "url": "https://createwhimsy.com/projects/what-is-quilting-and-patchwork/",
+                  "type": "website"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "b",
+              "label": "b",
+              "text": "Explain the tools used when quilting and how to use them safely. Discuss why accuracy is important in traditional quilting. Sew an accurate ¼” seam.Resources:How to Check your 1/4 Inch seam for Accurate Quilting with On Williams Street",
+              "requirement_path": "3.f.b",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Explain the tools used when quilting and how to use them safely. Discuss why accuracy is important in traditional quilting. Sew an accurate ¼” seam."
+                },
+                {
+                  "type": "element",
+                  "tag": "em",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Resources:"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/GOO2-0lD4pw?si=xVrWfpVEzwHPsGwz"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "How to Check your 1/4 Inch seam for Accurate Quilting with On Williams Street"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Essential tools for a beginner quilter",
+                  "url": "https://youtu.be/yQw4SyiWjQI?si=GQ5u9yXyi_ku4bqi",
+                  "type": "video"
+                },
+                {
+                  "title": "How to Check your 1/4 Inch seam for Accurate Quilting with On Williams Street",
+                  "url": "https://youtu.be/GOO2-0lD4pw?si=xVrWfpVEzwHPsGwz",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "c",
+              "label": "c",
+              "text": "Using scraps of cotton quilting fabric, sort into light, medium and dark colors. Choose a focus fabric and find a group of fabrics that would work well in a scrap quilt. Demonstrate how the value and scale of a printed fabric can create interest.Resources:Jen Kingwell ~ Choosing Colours",
+              "requirement_path": "3.f.c",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Using scraps of cotton quilting fabric, sort into light, medium and dark colors. Choose a focus fabric and find a group of fabrics that would work well in a scrap quilt. Demonstrate how the value and scale of a printed fabric can create interest."
+                },
+                {
+                  "type": "element",
+                  "tag": "em",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Resources:"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attrs": {
+                        "href": "https://youtu.be/-wx85BU1hO0?si=0_4ZP68ZoBItiMDJ"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Jen Kingwell ~ Choosing Colours"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "resources": [
+                {
+                  "title": "5 Tips for Using Color and Prints in your Quilting",
+                  "url": "https://youtu.be/LCC6aysaVXk?si=j2ZoPNxl0IO8FtWp",
+                  "type": "video"
+                },
+                {
+                  "title": "Jen Kingwell ~ Choosing Colours",
+                  "url": "https://youtu.be/-wx85BU1hO0?si=0_4ZP68ZoBItiMDJ",
+                  "type": "video"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "d",
+              "label": "d",
+              "text": "Using three copies of a quilting design, color blocks to achieve different quilt designs. Show your counselor your designs and which one is your favorite.",
+              "requirement_path": "3.f.d",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Using three copies of a quilting design, color blocks to achieve different quilt designs. Show your counselor your designs and which one is your favorite."
+                }
+              ],
+              "resources": [
+                {
+                  "title": "Quilt Patterns Coloring (PDF)",
+                  "url": "https://blog.missouriquiltco.com/wp-content/uploads/2020/04/QuiltPatternsColoring.pdf",
+                  "type": "document"
+                }
+              ],
+              "sub_requirements": []
+            },
+            {
+              "id": "e",
+              "label": "e",
+              "text": "Make a small quilt (12” square plus borders):",
+              "requirement_path": "3.f.e",
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Make a small quilt (12” square plus borders):",
+                  "scope": "children"
+                }
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Make a small quilt (12” square plus borders):"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": [
+                {
+                  "id": "1",
+                  "label": "1",
+                  "text": "Using a rotary cutter, cut fabric into strips and pieces to make a four patch, rail fence block pattern, or design of your choice. Sew together on a machine or by hand using a ¼” seam allowance and press flat. Cut and add borders.Resources:How to Design a Quilt: No Pattern Needed! | Quilting Tutorial",
+                  "requirement_path": "3.f.e.1",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Using a rotary cutter, cut fabric into strips and pieces to make a four patch, rail fence block pattern, or design of your choice. Sew together on a machine or by hand using a ¼” seam allowance and press flat. Cut and add borders."
+                    },
+                    {
+                      "type": "element",
+                      "tag": "em",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Resources:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attrs": {
+                            "href": "https://youtu.be/5yL3VeiTQcs?si=2z-DGOLpojI3hT7H"
+                          },
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "How to Design a Quilt: No Pattern Needed! | Quilting Tutorial"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Quilting for Beginners: Essential Techniques | Quilting Tutorial",
+                      "url": "https://youtu.be/8fHfmqEI31g?si=ekDqnjyvzCe9gTnV",
+                      "type": "video"
+                    },
+                    {
+                      "title": "How to Design a Quilt: No Pattern Needed! | Quilting Tutorial",
+                      "url": "https://youtu.be/5yL3VeiTQcs?si=2z-DGOLpojI3hT7H",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "2",
+                  "label": "2",
+                  "text": "Make a sandwich with backing and batting. Baste.",
+                  "requirement_path": "3.f.e.2",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Make a sandwich with backing and batting. Baste."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Beginner Quilt Series – How to Layer a Quilt Sandwich and Pin Baste a Quilt",
+                      "url": "https://youtu.be/hG50jcN2xSE",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "3",
+                  "label": "3",
+                  "text": "Hand quilt with a running stitch or big stitch.Resources:How to Do Big Stitch Hand Quilting",
+                  "requirement_path": "3.f.e.3",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Hand quilt with a running stitch or big stitch."
+                    },
+                    {
+                      "type": "element",
+                      "tag": "em",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Resources:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attrs": {
+                            "href": "https://youtu.be/SfoIOv8avMU?si=HyoELuq8g_yeuB1e"
+                          },
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "How to Do Big Stitch Hand Quilting"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Hand quilting techniques for beginners (on perle cotton) | Sarah Fielke Craftsy Quilting Tutorial",
+                      "url": "https://youtu.be/8DXN5Ger_jo?si=XZJ7lFt1h6wH1Z7Y",
+                      "type": "video"
+                    },
+                    {
+                      "title": "How to Do Big Stitch Hand Quilting",
+                      "url": "https://youtu.be/SfoIOv8avMU?si=HyoELuq8g_yeuB1e",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "4",
+                  "label": "4",
+                  "text": "Label your quilt. Explain why this is important.",
+                  "requirement_path": "3.f.e.4",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Label your quilt. Explain why this is important."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "The Final Stitch Episode 6: Labeling Your Quilt",
+                      "url": "https://youtu.be/jYajgujAb0M",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                },
+                {
+                  "id": "5",
+                  "label": "5",
+                  "text": "Bind to finish the edge of the quilt.",
+                  "requirement_path": "3.f.e.5",
+                  "node_kind": "action_requirement",
+                  "is_container": false,
+                  "requires_response": true,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Bind to finish the edge of the quilt."
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "The Ultimate Quilt Binding Tutorial with Jenny Doan of Missouri Star (Instructional Video)",
+                      "url": "https://youtu.be/0vCWpxBRs20?si=EWJtIiYiFuGfVyeS",
+                      "type": "video"
+                    }
+                  ],
+                  "sub_requirements": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -2406,19 +2683,23 @@
       "resources": [
         {
           "title": "How to Sew for Charity",
-          "url": "https://sewingtrip.com/how-to-sew-for-charity/"
+          "url": "https://sewingtrip.com/how-to-sew-for-charity/",
+          "type": "website"
         },
         {
           "title": "Quilts of Valor®",
-          "url": "https://www.qovf.org/"
+          "url": "https://www.qovf.org/",
+          "type": "website"
         },
         {
           "title": "Project Linus",
-          "url": "https://www.projectlinus.org/"
+          "url": "https://www.projectlinus.org/",
+          "type": "website"
         },
         {
           "title": "Case for Smiles",
-          "url": "https://caseforsmiles.org/get-involved/#sew"
+          "url": "https://caseforsmiles.org/get-involved/#sew",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -2458,9 +2739,9 @@
       "sub_requirements": [
         {
           "id": "a",
-          "label": null,
-          "text": "(a) Identify three career opportunities that would use skills and knowledge in sewing and/or needlework. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. Jobs For Sewing Jobs For Quilters Jobs For Knitters Jobs For Crocheters (b) Identify how you might use the skills and knowledge in sewing and/or needlework to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this. 14 THINGS YOU NEED TO KNOW ABOUT SEWING BEFORE YOU START! – What this sewing hobby REALLY is?? What is Slow Stitching? Mindful Stitch Project Ideas",
-          "requirement_path": "6.item-1",
+          "label": "a",
+          "text": "Identify three career opportunities that would use skills and knowledge in sewing and/or needlework. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.Resources:Jobs For QuiltersResources:Jobs For Crocheters",
+          "requirement_path": "6.a",
           "node_kind": "action_requirement",
           "is_container": false,
           "requires_response": true,
@@ -2468,31 +2749,18 @@
           "content": [
             {
               "type": "text",
-              "value": "(a) Identify three career opportunities that would use skills and knowledge in sewing and/or needlework. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career. "
+              "value": "Identify three career opportunities that would use skills and knowledge in sewing and/or needlework. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career."
             },
             {
               "type": "element",
-              "tag": "strong",
+              "tag": "em",
               "attrs": {},
               "children": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://interviewguy.com/jobs-for-sewing/"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Jobs For Sewing"
-                    }
-                  ]
+                  "type": "text",
+                  "value": "Resources:"
                 }
               ]
-            },
-            {
-              "type": "text",
-              "value": " "
             },
             {
               "type": "element",
@@ -2515,32 +2783,15 @@
               ]
             },
             {
-              "type": "text",
-              "value": " "
-            },
-            {
               "type": "element",
-              "tag": "strong",
+              "tag": "em",
               "attrs": {},
               "children": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://interviewguy.com/jobs-for-knitters/"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Jobs For Knitters"
-                    }
-                  ]
+                  "type": "text",
+                  "value": "Resources:"
                 }
               ]
-            },
-            {
-              "type": "text",
-              "value": " "
             },
             {
               "type": "element",
@@ -2561,34 +2812,56 @@
                   ]
                 }
               ]
+            }
+          ],
+          "resources": [
+            {
+              "title": "Jobs For Sewing",
+              "url": "https://interviewguy.com/jobs-for-sewing/",
+              "type": "website"
             },
             {
+              "title": "Jobs For Knitters",
+              "url": "https://interviewguy.com/jobs-for-knitters/",
+              "type": "website"
+            },
+            {
+              "title": "Jobs For Quilters",
+              "url": "https://interviewguy.com/jobs-for-quilters/",
+              "type": "website"
+            },
+            {
+              "title": "Jobs For Crocheters",
+              "url": "https://interviewguy.com/jobs-for-crocheters/",
+              "type": "website"
+            }
+          ],
+          "sub_requirements": []
+        },
+        {
+          "id": "b",
+          "label": "b",
+          "text": "Identify how you might use the skills and knowledge in sewing and/or needlework to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.Resources:What is Slow Stitching? Mindful Stitch Project Ideas",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "scoped_clauses": [],
+          "content": [
+            {
               "type": "text",
-              "value": " (b) Identify how you might use the skills and knowledge in sewing and/or needlework to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this. "
+              "value": "Identify how you might use the skills and knowledge in sewing and/or needlework to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this."
             },
             {
               "type": "element",
-              "tag": "strong",
+              "tag": "em",
               "attrs": {},
               "children": [
                 {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/jdTdBiDzqtc?si=QIk96DZzW02p61lY"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "14 THINGS YOU NEED TO KNOW ABOUT SEWING BEFORE YOU START! – What this sewing hobby REALLY is??"
-                    }
-                  ]
+                  "type": "text",
+                  "value": "Resources:"
                 }
               ]
-            },
-            {
-              "type": "text",
-              "value": " "
             },
             {
               "type": "element",
@@ -2611,7 +2884,18 @@
               ]
             }
           ],
-          "resources": [],
+          "resources": [
+            {
+              "title": "14 THINGS YOU NEED TO KNOW ABOUT SEWING BEFORE YOU START! – What this sewing hobby REALLY is??",
+              "url": "https://youtu.be/jdTdBiDzqtc?si=QIk96DZzW02p61lY",
+              "type": "video"
+            },
+            {
+              "title": "What is Slow Stitching? Mindful Stitch Project Ideas",
+              "url": "https://createwhimsy.com/projects/what-is-slow-stitching-mindful-stitch-project-ideas/",
+              "type": "website"
+            }
+          ],
           "sub_requirements": []
         }
       ]
@@ -2638,7 +2922,13 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Go to Survey",
+          "url": "https://scouting.co1.qualtrics.com/jfe/form/SV_40brLNN8LSYjUXk",
+          "type": "survey"
+        }
+      ],
       "sub_requirements": []
     }
   ]

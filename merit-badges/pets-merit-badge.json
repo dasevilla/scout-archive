@@ -14,7 +14,7 @@
     {
       "id": "15252",
       "label": "1",
-      "text": "Present evidence that you have cared for a pet for four months. Get approval before you start.Note: Work done for other merit badges cannot be used for this requirement.",
+      "text": "Present evidence that you have cared for a pet for four months. Get approval before you start.\nNote: Work done for other merit badges cannot be used for this requirement.",
       "requirement_path": "1",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -24,6 +24,18 @@
         {
           "type": "text",
           "value": "Present evidence that you have cared for a pet for four months. Get approval before you start."
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
         },
         {
           "type": "element",
@@ -44,7 +56,8 @@
       "resources": [
         {
           "title": "Create an Activity Log (video)",
-          "url": "https://www.youtube.com/watch?v=uh8tDZj9I_A"
+          "url": "https://www.youtube.com/watch?v=uh8tDZj9I_A",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -67,7 +80,8 @@
       "resources": [
         {
           "title": "Understanding Hamsters: Care, Feeding, Housing, and More (video)",
-          "url": "https://www.youtube.com/watch?v=Pi_slxuGJUg"
+          "url": "https://www.youtube.com/watch?v=Pi_slxuGJUg",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -130,7 +144,8 @@
           "resources": [
             {
               "title": "Cat Agility Course at Cat Fanciers Cat Show (video)",
-              "url": "https://www.youtube.com/watch?v=QABTG6FldFE"
+              "url": "https://www.youtube.com/watch?v=QABTG6FldFE",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -153,11 +168,13 @@
           "resources": [
             {
               "title": "Train Your Cat To Do Fun Tricks (video)",
-              "url": "https://youtu.be/oX7vgQTK9fo"
+              "url": "https://youtu.be/oX7vgQTK9fo",
+              "type": "video"
             },
             {
               "title": "How I Trained My Cat To Fetch (video)",
-              "url": "https://youtu.be/zrDskEObBs8"
+              "url": "https://youtu.be/zrDskEObBs8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -204,7 +221,8 @@
           "resources": [
             {
               "title": "15 Awesome Jobs for Animal Lovers (video)",
-              "url": "https://youtu.be/k5LGDo2OwY8"
+              "url": "https://youtu.be/k5LGDo2OwY8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -227,7 +245,8 @@
           "resources": [
             {
               "title": "Animal Hobbies (video)",
-              "url": "https://youtu.be/U8RImRv8HC0"
+              "url": "https://youtu.be/U8RImRv8HC0",
+              "type": "video"
             }
           ],
           "sub_requirements": []

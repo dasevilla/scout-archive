@@ -29,7 +29,8 @@
       "resources": [
         {
           "title": "Film Making Basics (video)",
-          "url": "https://youtu.be/BFwMRVwrKcA?si=uW4whxq0-SZjyFHJ"
+          "url": "https://youtu.be/BFwMRVwrKcA?si=uW4whxq0-SZjyFHJ",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -74,7 +75,8 @@
           "resources": [
             {
               "title": "Film Production Explained, Each Step of the Production Process (video)",
-              "url": "https://youtu.be/puF9CkvmJt0?si=jiFW5a-I3X0vZDV4"
+              "url": "https://youtu.be/puF9CkvmJt0?si=jiFW5a-I3X0vZDV4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -82,7 +84,7 @@
         {
           "id": "14951",
           "label": "b",
-          "text": "Prepare a storyboard for your motion picture. Note: This can be done with rough sketches and stick figures.",
+          "text": "Prepare a storyboard for your motion picture.\nNote: This can be done with rough sketches and stick figures.",
           "requirement_path": "2.b",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -92,6 +94,18 @@
             {
               "type": "text",
               "value": "Prepare a storyboard for your motion picture. "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
             },
             {
               "type": "element",
@@ -112,7 +126,8 @@
           "resources": [
             {
               "title": "What Is a Storyboard and Why Is It Important? Pre-Production Filmmaking (video)",
-              "url": "https://youtu.be/yPtqHdQcOOw?si=24Rdiz36nJTayneu"
+              "url": "https://youtu.be/yPtqHdQcOOw?si=24Rdiz36nJTayneu",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -122,9 +137,9 @@
           "label": "c",
           "text": "Demonstrate the following motion picture shooting techniques:",
           "requirement_path": "2.c",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": true,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [
             {
               "text": "Demonstrate the following motion picture shooting techniques:",
@@ -157,7 +172,8 @@
               "resources": [
                 {
                   "title": "7 Tripod Tricks for Filmaking (video)",
-                  "url": "https://youtu.be/pAvn034VcCg"
+                  "url": "https://youtu.be/pAvn034VcCg",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -180,7 +196,8 @@
               "resources": [
                 {
                   "title": "Camera Panning (video)",
-                  "url": "https://youtu.be/Km7Rfpda_Lw"
+                  "url": "https://youtu.be/Km7Rfpda_Lw",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -203,11 +220,13 @@
               "resources": [
                 {
                   "title": "Reverse Shot (video)",
-                  "url": "https://youtu.be/5UE3jz_O_EM"
+                  "url": "https://youtu.be/5UE3jz_O_EM",
+                  "type": "video"
                 },
                 {
                   "title": "Frame It Right Essential Framing (video)",
-                  "url": "https://www.youtube.com/shorts/DAwz2Wnrr90?feature=share"
+                  "url": "https://www.youtube.com/shorts/DAwz2Wnrr90?feature=share",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -230,11 +249,13 @@
               "resources": [
                 {
                   "title": "Filmmaking 101: 5 Camera Angles (video)",
-                  "url": "https://youtu.be/nfHvSnILXl0?si=9ObCi1MwUvu3CHyW"
+                  "url": "https://youtu.be/nfHvSnILXl0?si=9ObCi1MwUvu3CHyW",
+                  "type": "video"
                 },
                 {
                   "title": "12 CAMERA ANGLES to Enhance Your Films (video)",
-                  "url": "https://youtu.be/SlNviMsi0K0"
+                  "url": "https://youtu.be/SlNviMsi0K0",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -257,11 +278,13 @@
               "resources": [
                 {
                   "title": "Ultimate Guide to Cinematic Lighting (video)",
-                  "url": "https://youtu.be/r2nD_knsNrc"
+                  "url": "https://youtu.be/r2nD_knsNrc",
+                  "type": "video"
                 },
                 {
                   "title": "Zack Snyder Justice League Martian Man Hunter Meets Lois (video)",
-                  "url": "https://youtu.be/zdZ2zza5WbY?si=m3eF-8tZrS-NaOC5"
+                  "url": "https://youtu.be/zdZ2zza5WbY?si=m3eF-8tZrS-NaOC5",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -284,11 +307,13 @@
               "resources": [
                 {
                   "title": "5 Tips for Shooting Handheld Videos (video)",
-                  "url": "https://youtu.be/LuJdvwm8-0k"
+                  "url": "https://youtu.be/LuJdvwm8-0k",
+                  "type": "video"
                 },
                 {
                   "title": "Birdman: Anatomy of a Scene (video)",
-                  "url": "https://youtu.be/PVmaJAmQ3yQ"
+                  "url": "https://youtu.be/PVmaJAmQ3yQ",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -335,7 +360,8 @@
               "resources": [
                 {
                   "title": "4 Videography Tips for Beginners (video)",
-                  "url": "https://youtu.be/oPfet0ypjmY?si=flKBth5nUkcFZelI"
+                  "url": "https://youtu.be/oPfet0ypjmY?si=flKBth5nUkcFZelI",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -358,7 +384,8 @@
               "resources": [
                 {
                   "title": "10 Tips for Beginner Videographers (video)",
-                  "url": "https://youtu.be/kZWH6OBDdR0?si=e1VBvG2lGwQHKqEY"
+                  "url": "https://youtu.be/kZWH6OBDdR0?si=e1VBvG2lGwQHKqEY",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -381,7 +408,8 @@
               "resources": [
                 {
                   "title": "How to Make a Great Instructional Video (video)",
-                  "url": "https://youtu.be/cLLuuV_57JY?si=vcdpLOuyRcHeC1jf"
+                  "url": "https://youtu.be/cLLuuV_57JY?si=vcdpLOuyRcHeC1jf",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -430,7 +458,8 @@
           "resources": [
             {
               "title": "Film Set Order of Operations (video)",
-              "url": "https://youtu.be/zqUAiM-FLrs?si=xK2hkF_sD9zCzGcM"
+              "url": "https://youtu.be/zqUAiM-FLrs?si=xK2hkF_sD9zCzGcM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -453,11 +482,13 @@
           "resources": [
             {
               "title": "How Lens Work in Camera (video)",
-              "url": "https://youtu.be/fRKsKR9wvqE"
+              "url": "https://youtu.be/fRKsKR9wvqE",
+              "type": "video"
             },
             {
               "title": "The Parts of a Camera Lens - Anatomy of a DSLR Lens (video)",
-              "url": "https://youtu.be/15h9iG-Rdwk?si=TUp4-HL00H50ZX79"
+              "url": "https://youtu.be/15h9iG-Rdwk?si=TUp4-HL00H50ZX79",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -504,7 +535,8 @@
           "resources": [
             {
               "title": "Top 10 Careers in Film & Video Production (video)",
-              "url": "https://youtu.be/CNMBMhNh2S0"
+              "url": "https://youtu.be/CNMBMhNh2S0",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -527,7 +559,8 @@
           "resources": [
             {
               "title": "Filmmaking as a Hobby - Getting Started (video)",
-              "url": "https://youtu.be/d30kfqueNKI"
+              "url": "https://youtu.be/d30kfqueNKI",
+              "type": "video"
             }
           ],
           "sub_requirements": []

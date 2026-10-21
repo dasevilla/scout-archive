@@ -51,15 +51,18 @@
           "resources": [
             {
               "title": "The History of Space Exploration (video)",
-              "url": "https://youtu.be/TL__l9gC1Ss?si=BXoLcRCoNZXPEALe"
+              "url": "https://youtu.be/TL__l9gC1Ss?si=BXoLcRCoNZXPEALe",
+              "type": "video"
             },
             {
               "title": "The History of Space Exploration: A Timeline (video)",
-              "url": "https://youtu.be/3JuKR7jf46o"
+              "url": "https://youtu.be/3JuKR7jf46o",
+              "type": "video"
             },
             {
               "title": "The History of the Space Race (website)",
-              "url": "https://education.nationalgeographic.org/resource/history-space-exploration/"
+              "url": "https://education.nationalgeographic.org/resource/history-space-exploration/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -100,15 +103,18 @@
           "resources": [
             {
               "title": "How Space Benefits Earth (video)",
-              "url": "https://youtube.com/shorts/i3D4pCq_lyg?si=S_3HJWJ9TrvcHvry"
+              "url": "https://youtube.com/shorts/i3D4pCq_lyg?si=S_3HJWJ9TrvcHvry",
+              "type": "video"
             },
             {
               "title": "Space Exploration, Is It Really Worth It? Yes. (video)",
-              "url": "https://youtube.com/shorts/jPuqA136SfA?si=EgcAXSXcMBJmVLw4"
+              "url": "https://youtube.com/shorts/jPuqA136SfA?si=EgcAXSXcMBJmVLw4",
+              "type": "video"
             },
             {
               "title": "10 Surprising Ways Space Exploration Benefits Life on Earth (video)",
-              "url": "https://youtube.com/shorts/_2uSv1C-FDw?si=JCFVs8xAXqeJvozN"
+              "url": "https://youtube.com/shorts/_2uSv1C-FDw?si=JCFVs8xAXqeJvozN",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -131,7 +137,8 @@
           "resources": [
             {
               "title": "The Power of International Collaboration in Space Exploration (video)",
-              "url": "https://youtu.be/HvH8fmT9r6U"
+              "url": "https://youtu.be/HvH8fmT9r6U",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -156,11 +163,13 @@
       "resources": [
         {
           "title": "Here's How I Make Custom Trading Cards (video)",
-          "url": "https://youtu.be/PkCCLH_f1us?si=fw5ZdX03GwDyn_eo"
+          "url": "https://youtu.be/PkCCLH_f1us?si=fw5ZdX03GwDyn_eo",
+          "type": "video"
         },
         {
           "title": "How to Make Trading Cards By Hand (video)",
-          "url": "https://youtu.be/vYbeo4iS1Pc"
+          "url": "https://youtu.be/vYbeo4iS1Pc",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -168,7 +177,7 @@
     {
       "id": "16015",
       "label": "3",
-      "text": "Build, launch, and recover a model rocket under the supervision of an experienced or qualified person approved by your counselor. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts: Safety Note: All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines Alternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.",
+      "text": "Build, launch, and recover a model rocket under the supervision of an experienced or qualified person approved by your counselor. Make a second launch to accomplish a specific objective. Identify and explain the following rocket parts:\nSafety Note: All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines\nAlternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.",
       "requirement_path": "3",
       "node_kind": "action_requirement",
       "is_container": true,
@@ -183,7 +192,7 @@
           "scope": "requirement"
         },
         {
-          "text": "Identify and explain the following rocket parts: Safety Note: All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines Alternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket.",
+          "text": "Identify and explain the following rocket parts:\nSafety Note: All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines\nAlternative Requirement: If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket.",
           "scope": "children"
         },
         {
@@ -202,6 +211,18 @@
         },
         {
           "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
           "tag": "b",
           "attrs": {},
           "children": [
@@ -214,6 +235,22 @@
         {
           "type": "text",
           "value": " All scouting activities involving rocket launches should follow the Scouting rocket safety guidelines "
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "text",
+          "value": " "
         },
         {
           "type": "element",
@@ -234,19 +271,23 @@
       "resources": [
         {
           "title": "Scouting America Rocket Safety Guidelines (website w/ video)",
-          "url": "https://www.scouting.org/health-and-safety/safety-moments/rocket-safety/"
+          "url": "https://www.scouting.org/health-and-safety/safety-moments/rocket-safety/",
+          "type": "website"
         },
         {
           "title": "NASA Rocket Parts—Beginner's Guide (website)",
-          "url": "https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bgmr.html"
+          "url": "https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bgmr.html",
+          "type": "website"
         },
         {
           "title": "National Association of Rocketry Educational video on model rocketry (website)",
-          "url": "https://www.nar.org/content.aspx?page_id=22&club_id=114127&module_id=669619"
+          "url": "https://www.nar.org/content.aspx?page_id=22&club_id=114127&module_id=669619",
+          "type": "website"
         },
         {
           "title": "(website)",
-          "url": "https://www.scouting.org/health-and-safety/safety-moments/rocket-safety/"
+          "url": "https://www.scouting.org/health-and-safety/safety-moments/rocket-safety/",
+          "type": "website"
         }
       ],
       "sub_requirements": [
@@ -437,7 +478,8 @@
       "resources": [
         {
           "title": "NASA \"Basics of Space Flight\" (website)",
-          "url": "https://science.nasa.gov/learn/basics-of-space-flight/"
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/",
+          "type": "website"
         }
       ],
       "sub_requirements": [
@@ -459,7 +501,8 @@
           "resources": [
             {
               "title": "Newton's Law of Motion (website)",
-              "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+              "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -482,15 +525,18 @@
           "resources": [
             {
               "title": "How Rocket Engines Work (website)",
-              "url": "https://science.howstuffworks.com/rocket.htm"
+              "url": "https://science.howstuffworks.com/rocket.htm",
+              "type": "website"
             },
             {
               "title": "Rocket Engines Explained (website)",
-              "url": "https://youtu.be/gz8L1i0ODeA"
+              "url": "https://youtu.be/gz8L1i0ODeA",
+              "type": "website"
             },
             {
               "title": "How Do We Launch Things Into Space (video)",
-              "url": "https://plus.nasa.gov/video/how-do-we-launch-things-into-space/"
+              "url": "https://plus.nasa.gov/video/how-do-we-launch-things-into-space/",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -513,15 +559,18 @@
           "resources": [
             {
               "title": "How Do Satellites Get & Stay in Orbit? (video)",
-              "url": "https://youtu.be/IC1JQu9xGHQ"
+              "url": "https://youtu.be/IC1JQu9xGHQ",
+              "type": "video"
             },
             {
               "title": "How Do Satellites Stay in Orbit Around the Earth (video)",
-              "url": "https://www.youtube.com/shorts/V08iOHrNyMU?t=46"
+              "url": "https://www.youtube.com/shorts/V08iOHrNyMU?t=46",
+              "type": "video"
             },
             {
               "title": "How Orbit Works: Perpetual Free Fall Explained (video)",
-              "url": "https://www.youtube.com/shorts/Ieyn5Xzg_nA"
+              "url": "https://www.youtube.com/shorts/Ieyn5Xzg_nA",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -544,15 +593,18 @@
           "resources": [
             {
               "title": "What Is The Deep Space Network & How Does It Work? (video)",
-              "url": "https://youtu.be/dZRC6Tf2YEo"
+              "url": "https://youtu.be/dZRC6Tf2YEo",
+              "type": "video"
             },
             {
               "title": "How Do We Communicate with Faraway Spacecraft? (video)",
-              "url": "https://youtu.be/6WFj-CKldv4"
+              "url": "https://youtu.be/6WFj-CKldv4",
+              "type": "video"
             },
             {
               "title": "How do Spacecraft Photograph the Planets & get the Images Back to Earth? (video)",
-              "url": "https://youtu.be/rrD1oe5_zvw"
+              "url": "https://youtu.be/rrD1oe5_zvw",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -599,19 +651,23 @@
           "resources": [
             {
               "title": "Voyager (video)",
-              "url": "https://youtu.be/uJpJ79AxrzI?list=PLTiv_XWHnOZq5bv1w9Db2uNJVFiVCkWW5"
+              "url": "https://youtu.be/uJpJ79AxrzI?list=PLTiv_XWHnOZq5bv1w9Db2uNJVFiVCkWW5",
+              "type": "video"
             },
             {
               "title": "Putting Man on The Moon in 11 Years | The Apollo Program (video)",
-              "url": "https://youtu.be/jUW_1XlrWmg"
+              "url": "https://youtu.be/jUW_1XlrWmg",
+              "type": "video"
             },
             {
               "title": "NASA SpaceX Crew Dragon Launch (video)",
-              "url": "https://youtu.be/1gmvUPTdoP4"
+              "url": "https://youtu.be/1gmvUPTdoP4",
+              "type": "video"
             },
             {
               "title": "Mars Perseverance Rover (video)",
-              "url": "https://www.youtube.com/watch?v=0-oQRSViZQE&pp=ygUUcGVyc2VydmVyYW5jZSByb3ZlciA%3D"
+              "url": "https://www.youtube.com/watch?v=0-oQRSViZQE&pp=ygUUcGVyc2VydmVyYW5jZSByb3ZlciA%3D",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -694,19 +750,23 @@
           "resources": [
             {
               "title": "First Space Shuttle (video)",
-              "url": "https://youtu.be/9zu6gReRV98"
+              "url": "https://youtu.be/9zu6gReRV98",
+              "type": "video"
             },
             {
               "title": "How the Space Shuttle Worked (video)",
-              "url": "https://www.youtube.com/watch?v=w4FCkbPykdQ"
+              "url": "https://www.youtube.com/watch?v=w4FCkbPykdQ",
+              "type": "video"
             },
             {
               "title": "NASA SpaceX Crew Dragon Launch (video)",
-              "url": "https://youtu.be/1gmvUPTdoP4"
+              "url": "https://youtu.be/1gmvUPTdoP4",
+              "type": "video"
             },
             {
               "title": "Soyuz (video)",
-              "url": "https://youtu.be/_v7YgDum2Sg"
+              "url": "https://youtu.be/_v7YgDum2Sg",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -729,11 +789,13 @@
           "resources": [
             {
               "title": "What is the International Space Station? (website)",
-              "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-international-space-station-grades-5-8/"
+              "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-international-space-station-grades-5-8/",
+              "type": "website"
             },
             {
               "title": "How to Spot the International Space Station (ISS) (website)",
-              "url": "https://www.nasa.gov/spot-the-station/"
+              "url": "https://www.nasa.gov/spot-the-station/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -771,7 +833,8 @@
       "resources": [
         {
           "title": "How NASA Will Build a City on the Moon (video)",
-          "url": "https://youtu.be/ATgwz_hS3Qg"
+          "url": "https://youtu.be/ATgwz_hS3Qg",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -793,7 +856,8 @@
           "resources": [
             {
               "title": "You Can't Take It All With You (PDF)",
-              "url": "https://www.nasa.gov/wp-content/uploads/2023/05/you-cant-take-it-all-with-you-grades-6-12-students-tagged.pdf"
+              "url": "https://www.nasa.gov/wp-content/uploads/2023/05/you-cant-take-it-all-with-you-grades-6-12-students-tagged.pdf",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -816,7 +880,8 @@
           "resources": [
             {
               "title": "How NASA Plans to Build the First Moon Base (video)",
-              "url": "https://youtu.be/ajP0AlYxhug?si=lKaqYRoM8V4LiXSg"
+              "url": "https://youtu.be/ajP0AlYxhug?si=lKaqYRoM8V4LiXSg",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -839,7 +904,8 @@
           "resources": [
             {
               "title": "Robots Building a Mars Base (video)",
-              "url": "https://youtu.be/2tr6rJrv8hs?si=dm1LYgNqLCH7smpr"
+              "url": "https://youtu.be/2tr6rJrv8hs?si=dm1LYgNqLCH7smpr",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -862,7 +928,8 @@
           "resources": [
             {
               "title": "How Robots Will Build on Mars (video)",
-              "url": "https://youtu.be/ZbOg_cC1_Eo"
+              "url": "https://youtu.be/ZbOg_cC1_Eo",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -887,19 +954,23 @@
       "resources": [
         {
           "title": "Astronaut Requirements (website)",
-          "url": "https://www.nasa.gov/humans-in-space/astronauts/astronaut-requirements/"
+          "url": "https://www.nasa.gov/humans-in-space/astronauts/astronaut-requirements/",
+          "type": "website"
         },
         {
           "title": "So You Want to Be an Aerospace Engineer (video)",
-          "url": "https://youtu.be/uTreDAUe7w4"
+          "url": "https://youtu.be/uTreDAUe7w4",
+          "type": "video"
         },
         {
           "title": "Should I Become an Aerospace Engineer? (video)",
-          "url": "https://youtu.be/2Y2fNtYnsFQ"
+          "url": "https://youtu.be/2Y2fNtYnsFQ",
+          "type": "video"
         },
         {
           "title": "Becoming an Astrobiologist (website)",
-          "url": "https://astrobiology.nasa.gov/resources/graphic-histories/"
+          "url": "https://astrobiology.nasa.gov/resources/graphic-histories/",
+          "type": "website"
         }
       ],
       "sub_requirements": []

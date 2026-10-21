@@ -24,7 +24,9 @@ Water sports are a fun and exhilarating way to enjoy being outdoors while develo
 
     **Resources:** [Watersports Safety Code (PDF)](http://www.usscouts.org/mb/docs/Water-Sports-Safety-Code.pdf)
 
-- (3) Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test. **Note:** See the *Swimming* merit badge pamphlet for details about the Scouting America swimmer test.
+- (3) Before doing requirements 4 through 6, successfully complete the Scouting America swimmer test.
+
+  **Note:** See the *Swimming* merit badge pamphlet for details about the Scouting America swimmer test.
 
   **Resources:** [Swimming Merit Badge  Pamphlet (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf)
 

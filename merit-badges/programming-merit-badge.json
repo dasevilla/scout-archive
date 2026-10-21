@@ -62,7 +62,8 @@
           "resources": [
             {
               "title": "Scouting Digital Safety Video (video)",
-              "url": "https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4"
+              "url": "https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -85,15 +86,18 @@
           "resources": [
             {
               "title": "Treating Repetitive Stress (video)",
-              "url": "https://www.youtube.com/shorts/1yp0jOyARCk"
+              "url": "https://www.youtube.com/shorts/1yp0jOyARCk",
+              "type": "video"
             },
             {
               "title": "Treating Eye Strain (video)",
-              "url": "https://www.youtube.com/watch?v=j3ff4aeItl0"
+              "url": "https://www.youtube.com/watch?v=j3ff4aeItl0",
+              "type": "video"
             },
             {
               "title": "5 Tips to Reduce Eye Strain (website)",
-              "url": "https://www.uab.edu/news/health-medicine/new-uab-eye-care-clinic-helps-improve-vision-in-the-workplace"
+              "url": "https://www.uab.edu/news/health-medicine/new-uab-eye-care-clinic-helps-improve-vision-in-the-workplace",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -129,23 +133,28 @@
       "resources": [
         {
           "title": "5 Minutes of Programming Language History (video)",
-          "url": "https://youtu.be/K5yv7dY17EA"
+          "url": "https://youtu.be/K5yv7dY17EA",
+          "type": "video"
         },
         {
           "title": "Example With Code Examples and Pictures (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.docx"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.docx",
+          "type": "document"
         },
         {
           "title": "Text Descriptions of Historical Progression of Programming Languages (website)",
-          "url": "https://www.computer.org/publications/tech-news/insider-membership-news/timeline-of-programming-languages"
+          "url": "https://www.computer.org/publications/tech-news/insider-membership-news/timeline-of-programming-languages",
+          "type": "website"
         },
         {
           "title": "Computer History Museum Timeline With Pictures (website)",
-          "url": "https://www.computerhistory.org/timeline/software-languages/"
+          "url": "https://www.computerhistory.org/timeline/software-languages/",
+          "type": "website"
         },
         {
           "title": "History Handout (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.pdf"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.pdf",
+          "type": "document"
         }
       ],
       "sub_requirements": []
@@ -184,7 +193,8 @@
       "resources": [
         {
           "title": "General Knowledge Handout (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.pdf"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.pdf",
+          "type": "document"
         }
       ],
       "sub_requirements": [
@@ -206,7 +216,8 @@
           "resources": [
             {
               "title": "Eight Popular Programming Languages, Their Industries and Coding Examples (PDF)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.docx"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.docx",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -265,7 +276,8 @@
       "resources": [
         {
           "title": "Intellectual Property Handout (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.pdf"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.pdf",
+          "type": "document"
         }
       ],
       "sub_requirements": [
@@ -287,7 +299,8 @@
           "resources": [
             {
               "title": "Four Different Types of Intellectual Property (PDF)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -310,7 +323,8 @@
           "resources": [
             {
               "title": "The Difference Between Licensing and Owning Software (PDF)",
-              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx"
+              "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx",
+              "type": "document"
             }
           ],
           "sub_requirements": []
@@ -333,11 +347,13 @@
           "resources": [
             {
               "title": "Open Source VS Commercial Software (video)",
-              "url": "https://www.youtube.com/watch?v=SdW5pnha9kg"
+              "url": "https://www.youtube.com/watch?v=SdW5pnha9kg",
+              "type": "video"
             },
             {
               "title": "Free VS Open Source Software (website)",
-              "url": "https://www.geeksforgeeks.org/software-engineering/difference-between-free-software-and-open-source-software/"
+              "url": "https://www.geeksforgeeks.org/software-engineering/difference-between-free-software-and-open-source-software/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -386,7 +402,8 @@
       "resources": [
         {
           "title": "Project Handout (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req5-Project.pdf"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req5-Project.pdf",
+          "type": "document"
         }
       ],
       "sub_requirements": [
@@ -408,7 +425,8 @@
           "resources": [
             {
               "title": "Scout Life Programming Merit Badge (website)",
-              "url": "https://scoutlife.org/merit-badges/programming-merit-badge/"
+              "url": "https://scoutlife.org/merit-badges/programming-merit-badge/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -431,7 +449,8 @@
           "resources": [
             {
               "title": "Programming Merit Badge Welcome! From AutomationDirect (video)",
-              "url": "https://www.youtube.com/watch?v=s07aEbPwThM"
+              "url": "https://www.youtube.com/watch?v=s07aEbPwThM",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -454,7 +473,8 @@
           "resources": [
             {
               "title": "Codedex / Start Your Coding Adventure (website)",
-              "url": "https://www.codedex.io/"
+              "url": "https://www.codedex.io/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -495,7 +515,8 @@
       "resources": [
         {
           "title": "Careers Handout (PDF)",
-          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req6-Careers.pdf"
+          "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req6-Careers.pdf",
+          "type": "document"
         }
       ],
       "sub_requirements": [
@@ -517,19 +538,23 @@
           "resources": [
             {
               "title": "Variety of Jobs for Computer Scientists (video)",
-              "url": "https://youtu.be/2VpDcjFshJI"
+              "url": "https://youtu.be/2VpDcjFshJI",
+              "type": "video"
             },
             {
               "title": "9 Computer Coding Careers (website)",
-              "url": "https://www.rasmussen.edu/degrees/technology/blog/programming-careers-for-coding-connoisseurs/"
+              "url": "https://www.rasmussen.edu/degrees/technology/blog/programming-careers-for-coding-connoisseurs/",
+              "type": "website"
             },
             {
               "title": "Education Required to Become a Computer Programmer (website)",
-              "url": "https://www.wgu.edu/career-guide/information-technology/computer-programmer-career.html"
+              "url": "https://www.wgu.edu/career-guide/information-technology/computer-programmer-career.html",
+              "type": "website"
             },
             {
               "title": "Design Technologist at Meow Wolf (video)",
-              "url": "https://youtu.be/dhvQ7L5UScs"
+              "url": "https://youtu.be/dhvQ7L5UScs",
+              "type": "video"
             }
           ],
           "sub_requirements": []

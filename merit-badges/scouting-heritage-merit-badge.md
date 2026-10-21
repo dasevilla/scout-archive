@@ -50,8 +50,9 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
     - (3) *Scouts BSA Handbook*
 
       **Resources:** [NSM History of the Scout Handbook (video)](https://youtu.be/X2njF0Sv5q8), [Artifact of the Week - First Scout Handbook (video)](https://youtu.be/JaGjYXkcyLU)
-    - (4) *Scout Life* magazine (formerly *Boys' Life*) Resources: [Artifact of the Week—*Boys' Life* to *Scout Life* (video)](https://youtu.be/R55NMMY21TM)
-      [The Story of *Boys' Life* /*Scout Life* (video)](https://youtu.be/OIyZwBnlF5c)
+    - (4) *Scout Life* magazine (formerly *Boys' Life*)
+
+      **Resources:** [Artifact of the Week—Boys' Life to Scout Life (video)](https://youtu.be/R55NMMY21TM), [The Story of Boys' Life/Scout Life (video)](https://youtu.be/OIyZwBnlF5c)
 
 - (3) Discuss with your counselor how Scouting's programs have developed over time and been adapted to fit different age groups and interests (Cub Scouting, Scouts BSA, Exploring, Venturing).
 
@@ -70,7 +71,8 @@ Explore the origins of the Scouting movement by earning the Scouting Heritage Me
 
 - (5) Research the history of your unit, council, summer camp, or Order of the Arrow lodge. With the permission of a parent or guardian, your research methods may include an internet or library search, interviews with Scout leaders, or visits to locations where you learn about your topic. Prepare an oral or written report, a presentation, or a video of your research and review it with your counselor.
 
-- (6) Make a collection of some of your personal patches and other Scouting memorabilia. With their permission, you may include items borrowed from family members or friends who have been in Scouting in the past, or you may include photographs of these items. Show this collection to your counselor, and share what you have learned about items in the collection. **Note:** There is no requirement regarding how large or small this collection must be.
+- (6) Make a collection of some of your personal patches and other Scouting memorabilia. With their permission, you may include items borrowed from family members or friends who have been in Scouting in the past, or you may include photographs of these items. Show this collection to your counselor, and share what you have learned about items in the collection.
+  **Note:** There is no requirement regarding how large or small this collection must be.
 
   **Resources:** [Scouting Memorabilia Collection - Philmont License Plates (video)](https://www.youtube.com/watch?v=njI2Wb4sAEw&t=1s), [Philmont Recognition Patches (video)](https://www.youtube.com/watch?v=2u8drmz3T-s&t=7s)
 

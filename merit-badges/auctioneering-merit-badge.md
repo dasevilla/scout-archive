@@ -55,6 +55,8 @@
 
 - (9) **Complete the survey below to complete the test lab requirements**
 
+  **Resources:** [Go to Survey](https://scouting.co1.qualtrics.com/jfe/form/SV_40brLNN8LSYjUXk)
+
 ## Resources
 
 - [Auctioneering merit badge page](https://www.scouting.org/skills/merit-badges/test-lab/auctioneering/)

@@ -36,7 +36,8 @@
       "resources": [
         {
           "title": "See Support Items",
-          "url": "https://www.auctioneers.org/req1"
+          "url": "https://www.auctioneers.org/req1",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -66,7 +67,8 @@
       "resources": [
         {
           "title": "See Support Items",
-          "url": "https://www.auctioneers.org/req2"
+          "url": "https://www.auctioneers.org/req2",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -96,7 +98,8 @@
       "resources": [
         {
           "title": "See Support Items",
-          "url": "https://www.auctioneers.org/req3"
+          "url": "https://www.auctioneers.org/req3",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -135,7 +138,8 @@
       "resources": [
         {
           "title": "See Support Items",
-          "url": "https://www.auctioneers.org/req4"
+          "url": "https://www.auctioneers.org/req4",
+          "type": "website"
         }
       ],
       "sub_requirements": [
@@ -218,6 +222,10 @@
             {
               "type": "text",
               "value": "Discuss with your counselor:"
+            },
+            {
+              "type": "text",
+              "value": " "
             }
           ]
         }
@@ -225,7 +233,8 @@
       "resources": [
         {
           "title": "See Support Items",
-          "url": "https://www.auctioneers.org/req5"
+          "url": "https://www.auctioneers.org/req5",
+          "type": "website"
         }
       ],
       "sub_requirements": [
@@ -310,7 +319,8 @@
       "resources": [
         {
           "title": "See Support Items",
-          "url": "https://www.auctioneers.org/req6"
+          "url": "https://www.auctioneers.org/req6",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -340,7 +350,8 @@
       "resources": [
         {
           "title": "See Support Items",
-          "url": "https://www.auctioneers.org/req7"
+          "url": "https://www.auctioneers.org/req7",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -372,6 +383,10 @@
             {
               "type": "text",
               "value": "Describe for your counselor the steps you can take to become involved in the auction industry, both as a youth and an adult. Investigate and describe to your counselor what it takes to become a professional auctioneer, including"
+            },
+            {
+              "type": "text",
+              "value": " "
             }
           ]
         }
@@ -379,7 +394,8 @@
       "resources": [
         {
           "title": "See Support Items",
-          "url": "https://www.auctioneers.org/req8"
+          "url": "https://www.auctioneers.org/req8",
+          "type": "website"
         }
       ],
       "sub_requirements": [
@@ -461,7 +477,13 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "title": "Go to Survey",
+          "url": "https://scouting.co1.qualtrics.com/jfe/form/SV_40brLNN8LSYjUXk",
+          "type": "survey"
+        }
+      ],
       "sub_requirements": []
     }
   ]

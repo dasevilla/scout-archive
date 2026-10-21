@@ -44,7 +44,9 @@ Staying safe in traffic wherever you live is getting more difficult all the time
   - (d) Check the vehicle for tools needed to change a flat tire or to use tire sealant to fix a puncture. Demonstrate you know how to change a flat tire and how to use tire sealant.
 
     **Resources:** [Tire Inflator and Sealant Kit (video)](https://youtu.be/X3kjWwCENX4)
-  - (e) In a location away from traffic hazards, mark off the reaction distances and braking distances that a car will travel as it makes an emergency stop at 25, 55, and 70 miles per hour on level dry and level wet pavement. Discuss how these distances change for normal and impaired drivers, for day and night driving, and for weather conditions. **Note:** Use the graphics template in the *Traffic Safety* merit badge pamphlet or one approved by your counselor to set up this demonstration.
+  - (e) In a location away from traffic hazards, mark off the reaction distances and braking distances that a car will travel as it makes an emergency stop at 25, 55, and 70 miles per hour on level dry and level wet pavement. Discuss how these distances change for normal and impaired drivers, for day and night driving, and for weather conditions.
+
+    **Note:** Use the graphics template in the *Traffic Safety* merit badge pamphlet or one approved by your counselor to set up this demonstration.
 
     **Resources:** [Stopping Distance Table and Graphs (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Traffic%20Safety/Stopping%20Distances%20Table%20and%20Graphs.pdf?_t=1764661254), [Thinking, Braking, and Stopping Distances (video)](https://youtu.be/ZLHgYgEAPhY), [Stopping Distance Demonstration (video)](https://youtu.be/3mDp0k8Nfjc?si=Zoy8bAbLADxtlsz3)
 

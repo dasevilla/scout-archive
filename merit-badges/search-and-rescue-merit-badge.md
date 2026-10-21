@@ -11,6 +11,8 @@ A search is an emergency situation requiring a team of trained searchers to loca
 
 - **NOTE: Prohibited Activities  The Scouting America's *Guide to Safe Scouting* states under "Prohibited Activities" that flying in aircraft as part of a search and rescue mission is a prohibited activity for youth members. For complete information, see Scouting America's [*Guide to Safe Scouting.*](https://www.scouting.org/health-and-safety/gss/)**
 
+  **Resources:** [Guide to Safe Scouting.](https://www.scouting.org/health-and-safety/gss/)
+
 - (1) **Hazards and First Aid.** Do the following:
   - (a) Show or explain first aid for, and prevention of, injuries and conditions that searchers and subjects could develop during an SAR situation, including:
     - (1) Dehydration

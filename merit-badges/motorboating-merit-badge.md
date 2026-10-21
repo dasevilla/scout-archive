@@ -21,7 +21,9 @@ The Motorboating Merit Badge is a fun merit badge for Scouts interested in Sea S
     **Resources:** [Safety Afloat (website)](https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/)
 
 - (2) Do the following:
-  - (a) Before doing requirement 5, successfully complete the Scouting America swimmer test.**Note:** See the *Swimming* merit badge pamphlet for details about the Scouting America swimmer test.
+  - (a) Before doing requirement 5, successfully complete the Scouting America swimmer test.
+
+    **Note:** See the *Swimming* merit badge pamphlet for details about the Scouting America swimmer test.
 
     **Resources:** [Swimming Merit Badge pamphlet (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf)
   - (b) Name the different types of personal flotation devices (PFDs), and explain when each type should be used. Show how to choose and properly fit a PFD.

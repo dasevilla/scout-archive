@@ -12,22 +12,82 @@
 - (1) **Preventing Injury.** Do the following:
   - (a) Explain to your counselor how you can prevent injuries while participating in dancing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Explain what you need to take into consideration before trying potentially dangerous moves including but not limited to jumps, flips, and lifts.
 
-    **Resources:** [Dancing – Preventing Injury](https://www.betterhealth.vic.gov.au/health/healthyliving/dancing-preventing-injury), [Dance Warm-up guide](https://www.masterclass.com/articles/dance-warmups-guide), [Ballet Warm-Up](https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EULNkTzXWGVLon_nCX_z44cB3KKtQyiIqgevrUV3t25FcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vbl5tR), [Back Injuries](https://dancemagazine.com/back-injuries/#gsc.tab=0), [Back Injuries Common for Dancers](https://tututix.com/common-back-injuries-dancers/), [Dance Attire and Equipment](https://www.dancehouseproductions.com/glossary/dance-attire-equipment.html)
+    **Resources:** [Dancing – Preventing Injury](https://www.betterhealth.vic.gov.au/health/healthyliving/dancing-preventing-injury)
+  - (b) Explain to your counselor how to appropriately warm-up prior to dancing activities to protect joints and prevent injury. Demonstrate three dance warm-ups.
+
+    **Resources:** [Dance Warm-up guide](https://www.masterclass.com/articles/dance-warmups-guide), [Ballet Warm-Up](https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EULNkTzXWGVLon_nCX_z44cB3KKtQyiIqgevrUV3t25FcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vbl5tR)
+  - (c) Show that you know first aid for injuries that could occur while dancing, including cuts, scratches, abrasions, concussions, blisters, sprains, stress fractures, tendonitis, and back injuries.
+
+    **Resources:** [Back Injuries](https://dancemagazine.com/back-injuries/#gsc.tab=0), [Back Injuries Common for Dancers](https://tututix.com/common-back-injuries-dancers/)
+  - (d) Explain the importance of wearing the right clothing and gear for dance, including appropriate footwear.
+
+    **Resources:** [Dance Attire and Equipment](https://www.dancehouseproductions.com/glossary/dance-attire-equipment.html)
 
 - (2) **Elements of Dance.** Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy.
+  *Resources:*[**Do Ya Wanna Dance? Understanding the 5 Elements of Dance**](https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/dance/do-you-wanna-dance/)
 
   **Resources:** [Do Ya Wanna Dance? Understanding the 5 Elements of Dance](https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/dance/do-you-wanna-dance/)
 
 - (3) **Styles of Dance.** Name and briefly describe SIX types or styles of dancing from the following list, noting if this is a dance that may be performed alone, if the dance generally requires a partner or group, or if it could be either a solo or partner dance.
   - (a) Acrobatics/Acro Dance
 
-    **Resources:** [Acrobatics/Acro Dance](https://zabavaschool.com/what-is-acro-dance-guide-to-acrobatic-dance/), [Aerial Dance](https://aerialcirqueoverdenver.com/what-is-an-aerial-dancer/), [Ballet](https://fiveable.me/key-terms/ap-euro/ballet), [Ballet Guide](https://www.masterclass.com/articles/ballet-dance-guide), [Ballroom dances](https://www.britannica.com/art/ballroom-dance), [Ballroom dance guide](https://www.masterclass.com/articles/ballroom-dance-guide), [Breakdancing](https://www.britannica.com/art/break-dance), [Breakdancing guide](https://www.masterclass.com/articles/breakdancing-guide), [Clogging](https://www.britannica.com/art/clog-dance), [Clogging guide](https://kids.kiddle.co/Clog_dancing), [Contemporary dance](https://www.masterclass.com/articles/what-is-contemporary-dance), [Modern dance](https://www.britannica.com/art/modern-dance), [Country-Western dance](https://www.youtube.com/watch?v=3MqEvgnsOHY&t=14s), [Country-Western dance guide](https://kids.kiddle.co/Country-western_dance), [Folk dance](https://www.britannica.com/art/folk-dance), [Traditional](https://www.travelinsightpedia.com/13-traditional-dances-around-the-world), [Cultural](https://danceengagements.org/traditional-dances-from-around-the-world-a-complete-cultural-guide/), [Hip Hop](https://www.masterclass.com/articles/hip-hop-dance-explained), [Jazz](https://www.masterclass.com/articles/jazz-dance-guide), [Latin Dances](https://www.danceus.org/latin-dance/), [Square Dance](https://www.masterclass.com/articles/square-dance-explained), [Swing dance](https://www.bellaballroom.com/dance-lessons/swing-dance/), [History of Swing Dance](https://theswingdancecompany.co.uk/history/), [Tap dance](https://www.masterclass.com/articles/tap-dance-guide)
+    **Resources:** [Acrobatics/Acro Dance](https://zabavaschool.com/what-is-acro-dance-guide-to-acrobatic-dance/)
+  - (b) Aerial (Silks, Hoop, etc.)
+
+    **Resources:** [Aerial Dance](https://aerialcirqueoverdenver.com/what-is-an-aerial-dancer/)
+  - (c) Ballet
+
+    **Resources:** [Ballet](https://fiveable.me/key-terms/ap-euro/ballet), [Ballet Guide](https://www.masterclass.com/articles/ballet-dance-guide)
+  - (d) Ballroom dances
+
+    **Resources:** [Ballroom dances](https://www.britannica.com/art/ballroom-dance), [Ballroom dance guide](https://www.masterclass.com/articles/ballroom-dance-guide)
+  - (e) Breakdancing
+
+    **Resources:** [Breakdancing](https://www.britannica.com/art/break-dance), [Breakdancing guide](https://www.masterclass.com/articles/breakdancing-guide)
+  - (f) Clogging
+
+    **Resources:** [Clogging](https://www.britannica.com/art/clog-dance), [Clogging guide](https://kids.kiddle.co/Clog_dancing)
+  - (g) Contemporary/Modern dance
+
+    **Resources:** [Contemporary dance](https://www.masterclass.com/articles/what-is-contemporary-dance), [Modern dance](https://www.britannica.com/art/modern-dance)
+  - (h) Country-Western
+
+    **Resources:** [Country-Western dance](https://www.youtube.com/watch?v=3MqEvgnsOHY&t=14s), [Country-Western dance guide](https://kids.kiddle.co/Country-western_dance)
+  - (i) Folk & Traditional/Cultural
+
+    **Resources:** [Folk dance](https://www.britannica.com/art/folk-dance), [Traditional](https://www.travelinsightpedia.com/13-traditional-dances-around-the-world), [Cultural](https://danceengagements.org/traditional-dances-from-around-the-world-a-complete-cultural-guide/)
+  - (j) Hip Hop
+
+    **Resources:** [Hip Hop](https://www.masterclass.com/articles/hip-hop-dance-explained)
+  - (k) Jazz
+
+    **Resources:** [Jazz](https://www.masterclass.com/articles/jazz-dance-guide)
+  - (l) Latin dances
+
+    **Resources:** [Latin Dances](https://www.danceus.org/latin-dance/)
+  - (m) Square dances
+
+    **Resources:** [Square Dance](https://www.masterclass.com/articles/square-dance-explained)
+  - (n) Swing dance
+
+    **Resources:** [Swing dance](https://www.bellaballroom.com/dance-lessons/swing-dance/), [History of Swing Dance](https://theswingdancecompany.co.uk/history/)
+  - (o) Tap dance
+
+    **Resources:** [Tap dance](https://www.masterclass.com/articles/tap-dance-guide)
 
 - (4) **Research.** Research TWO of the types of dance you learned about in requirement 3 by doing the following for EACH type of dance you chose:
-  - (a) Give a brief history, including its origin, how it came to be in the United States if it originated elsewhere, and where in the world/country it is most often performed. (b) Name/describe different variations of this style of dancing, if any. (c) Name some specific types of dance steps/moves particular to this type of dance. Does this dance tell a story through movement? If so, please describe. (d) Include information on at least one person who became well-known performing, teaching, or choreographing this type of dance. (e) Note if anyone with a physical disability (such a person with hearing or sight impairment or a person who uses a wheelchair) could participate in this type of dancing. What accommodations would that person need to participate? (f) Locate and share a place near you/in your state where you could watch or participate in this type of dance as a part of a performance, competition, or class. Find out when and where this is offered and what the cost would be to watch or participate. (g) Watch a performance of this type of dance and discuss with your counselor. (While viewing an in-person performance is preferable, a recorded performance may also be permitted.)
+  - (a) Give a brief history, including its origin, how it came to be in the United States if it originated elsewhere, and where in the world/country it is most often performed.
+  - (b) Name/describe different variations of this style of dancing, if any.
+  - (c) Name some specific types of dance steps/moves particular to this type of dance. Does this dance tell a story through movement? If so, please describe.
+  - (d) Include information on at least one person who became well-known performing, teaching, or choreographing this type of dance.
+  - (e) Note if anyone with a physical disability (such a person with hearing or sight impairment or a person who uses a wheelchair) could participate in this type of dancing. What accommodations would that person need to participate?
+  - (f) Locate and share a place near you/in your state where you could watch or participate in this type of dance as a part of a performance, competition, or class. Find out when and where this is offered and what the cost would be to watch or participate.
+  - (g) Watch a performance of this type of dance and discuss with your counselor. (While viewing an in-person performance is preferable, a recorded performance may also be permitted.)
 
 - (5) **Learn and Perform a Dance.** Do the following:
-  - (a) Learn a dance. Use at least THREE types of warm-ups prior to your routine to prepare different muscle groups for the exercise. The dance may be solo, group, or partner dance and can use a memorized choreographed routine or an improvised dance. It should be a minimum of 2 minutes long or several shorter dances that add up to at least 2 minutes. The dance should demonstrate at least three different dance moves/steps and should contain music with Scout-appropriate lyrics, if applicable. (b) Perform the dance for your counselor or submit a video of your performance to your counselor. Describe to your counselor what precautions you took to avoid injury before and during your performance. Name or describe the 3 different dance moves that you learned, the 3 different warm-ups you chose, and the 5 Elements of Dance in your routine.
+  - (a) Learn a dance. Use at least THREE types of warm-ups prior to your routine to prepare different muscle groups for the exercise. The dance may be solo, group, or partner dance and can use a memorized choreographed routine or an improvised dance. It should be a minimum of 2 minutes long or several shorter dances that add up to at least 2 minutes. The dance should demonstrate at least three different dance moves/steps and should contain music with Scout-appropriate lyrics, if applicable.
+  - (b) Perform the dance for your counselor or submit a video of your performance to your counselor. Describe to your counselor what precautions you took to avoid injury before and during your performance. Name or describe the 3 different dance moves that you learned, the 3 different warm-ups you chose, and the 5 Elements of Dance in your routine.
+  -
 
     **Resources:** [Easy Hip Hop Routine tutorial](https://youtu.be/h3DSYn2jIKE?si=KpKT7NhN9cX-QsIN), [Lyrical Contemporary: Ghost Town](https://youtu.be/uaV1yiy0UAY?si=ZoPPzT4peamOBJ-v), [Wreck it Ralph: Line Dance](https://youtu.be/TI4kbjCuL_Y?si=H6xjXDAs0gbWGhr1), [Disco dance: Napoleon Dynamite](https://youtu.be/R95dgId-HBQ?si=YHMhOXf_aMxjCPNF), [Maori Haka tutorial](https://www.newzealand.com/int/feature/haka/), [Tap Combo Beginning-Intermediate](https://youtu.be/DVASTJxwsJ8?si=sytjCxBhyJDrRY3U), [Latin Cha-cha/solo routine](https://youtu.be/nCIxB3QEKe8?si=2DiTxEDeW9umIcyf)
 
@@ -35,8 +95,13 @@
   - (a) Explore careers related to Dance. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
     **Resources:** [15 Great Dance Related Jobs for Dancers](https://www.danceinforma.com/2015/04/01/15-great-dance-related-jobs-dancers/), [Occupational Outlook Handbook](https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm), [Cost to become a Dance Instructor](https://insurefitness.com/dance-instructor/start/cost/), [How Dance Can Unleash Your Inner Joy](https://youtu.be/ZHhmi2bS0hU), [Dancing as a Hobby](https://hobbyfaqs.com/dancing-hobby/)
+  - (b) Explore how you could use knowledge and skills from dance to pursue a hobby. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.
+    (video)
+    **[Dancing as a Hobby](https://hobbyfaqs.com/dancing-hobby/)**
 
 - (7) **Complete the survey below to complete the test lab requirements**
+
+  **Resources:** [Go to Survey](https://scouting.co1.qualtrics.com/jfe/form/SV_40brLNN8LSYjUXk)
 
 ## Resources
 

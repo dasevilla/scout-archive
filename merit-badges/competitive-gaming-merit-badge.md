@@ -11,6 +11,8 @@ Where passion for gaming meets leadership, learning, and the future of technolog
 
 - **NOTE:** Check out the Digital Resource Guide for the Competitive Gaming merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/competitive-gaming/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
 
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/competitive-gaming/)
+
 - (1) **History of Gaming.** Do the following:
   - (a) Create a timeline showing how video gaming has evolved since 1958. Include at least one significant event from each decade.
 

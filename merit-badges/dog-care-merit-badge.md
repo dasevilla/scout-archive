@@ -41,8 +41,9 @@ The love and interdependence between humans and dogs has endured for thousands o
 
   **Resources:** [How to Keep Track of Pet Care (video)](https://youtu.be/rS4dprT0rg0?si=wZQbDaOU29oFYKDa)
 
-- (5) Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: "come," "sit," "down," "heel," "stay," "fetch," "get it," and "drop it." Resources: [10 Most Basic Commands Every Dog Owner Should Know (video)](https://youtu.be/eHbcb2EQC88)
-  [How To Teach Your Dog the Basics (video)](https://youtu.be/lUzcA9qa_P8)
+- (5) Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: "come," "sit," "down," "heel," "stay," "fetch," "get it," and "drop it."
+
+  **Resources:** [10 Most Basic Commands Every Dog Owner Should Know (video)](https://youtu.be/eHbcb2EQC88), [How To Teach Your Dog the Basics (video)](https://youtu.be/lUzcA9qa_P8)
 
 - (6) Do the following:
   - (a) Discuss the proper vaccination schedule for a dog in your area from puppyhood through adulthood.

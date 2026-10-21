@@ -30,8 +30,9 @@ Canoeing or kayaking through whitewater rapids can be a thrilling experience. Sa
   - (c) Explain how to tilt or edge the boat without leaning your body
 
     **Resources:** [Edging Your Whitewater Kayak (video)](https://youtu.be/Tp9gcA0bBoo), [Basic Canoe Control: Edge (video)](https://youtu.be/TEobm0VU7cs)
-  - (1) When entering and exiting an eddy.
-  - (2) When ferrying in downstream and upstream directions.
+
+    - (1) When entering and exiting an eddy.
+    - (2) When ferrying in downstream and upstream directions.
   - (d) Explain when, why, and how you should scout a river while ashore, while on the river, and when you should portage your boat.
 
     **Resources:** [Advanced River Running—Scouting and Breaking Down Rapids (video)](https://youtu.be/qBn7YOJMK7g)

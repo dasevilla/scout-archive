@@ -9,7 +9,9 @@ While earning the Theater merit badge, Scouts will learn to appreciate live perf
 
 ## Requirements
 
-- (1) See or read three full-length plays. Write a review of each. Discuss with your counselor the plot or story. If you chose to watch the plays, comment on the acting and the staging. **Note:** Watching plays on television, video, or as a movie is not permitted.
+- (1) See or read three full-length plays. Write a review of each. Discuss with your counselor the plot or story. If you chose to watch the plays, comment on the acting and the staging.
+
+  **Note:** Watching plays on television, video, or as a movie is not permitted.
 
   **Resources:** [Theatre Merit Badge (video)](https://youtu.be/wj2tyVAYlMg)
 

@@ -62,7 +62,8 @@
           "resources": [
             {
               "title": "What Is Animation? (video)",
-              "url": "https://youtu.be/frP_5YQ0GfY?si=W1Bd6rnb4ksWo5p7"
+              "url": "https://youtu.be/frP_5YQ0GfY?si=W1Bd6rnb4ksWo5p7",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -85,11 +86,13 @@
           "resources": [
             {
               "title": "A Brief History of Animation (video)",
-              "url": "https://youtu.be/5Y6eInX7H-s?si=elo9NM-TCqmqnQpb"
+              "url": "https://youtu.be/5Y6eInX7H-s?si=elo9NM-TCqmqnQpb",
+              "type": "video"
             },
             {
               "title": "Discover Japan's First Anime: Hidden History! (video)",
-              "url": "https://youtu.be/mQlAHrQ2-h8?si=9YNDKARTlRJ5omrg"
+              "url": "https://youtu.be/mQlAHrQ2-h8?si=9YNDKARTlRJ5omrg",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -125,11 +128,13 @@
       "resources": [
         {
           "title": "The 12 Principles of Animation Explained - The Most Important Rules for Animating (video)",
-          "url": "https://youtu.be/tYc1yUt0IeA?si=6KmGm0SXDmXXOzeO"
+          "url": "https://youtu.be/tYc1yUt0IeA?si=6KmGm0SXDmXXOzeO",
+          "type": "video"
         },
         {
           "title": "12 Principles of Animation (video)",
-          "url": "https://youtu.be/uDqjIdI4bF4?si=Hw0CusAukKKkJ1oI"
+          "url": "https://youtu.be/uDqjIdI4bF4?si=Hw0CusAukKKkJ1oI",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -172,9 +177,9 @@
           "label": "a",
           "text": "Technique 1",
           "requirement_path": "3.a",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [
             {
@@ -192,81 +197,85 @@
           "resources": [
             {
               "title": "Pencil2D | Learn 2D Animation Tutorial Overview (video)",
-              "url": "https://youtu.be/QPqap-onmv8?si=R7BiYvl5Ku2fcf6I"
+              "url": "https://youtu.be/QPqap-onmv8?si=R7BiYvl5Ku2fcf6I",
+              "type": "video"
             },
             {
               "title": "OpenToonz (video)",
-              "url": "https://youtu.be/r9XieJu5s8Y?si=zsPzqgpeuMP5Yz5U"
+              "url": "https://youtu.be/r9XieJu5s8Y?si=zsPzqgpeuMP5Yz5U",
+              "type": "video"
             },
             {
               "title": "StoryBoarder (video)",
-              "url": "https://youtu.be/gPurQv4rC1E?si=VvVgSOBGPVPSOZTF"
+              "url": "https://youtu.be/gPurQv4rC1E?si=VvVgSOBGPVPSOZTF",
+              "type": "video"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "5981",
-          "label": "1",
-          "text": "Plan your animation using thumbnail sketches and/or layout drawings either on paper or using an animation software program.",
-          "requirement_path": "3.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Plan your animation using thumbnail sketches and/or layout drawings either on paper or using an animation software program."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "5982",
-          "label": "2",
-          "text": "Create the animation.",
-          "requirement_path": "3.2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "5981",
+              "label": "1",
+              "text": "Plan your animation using thumbnail sketches and/or layout drawings either on paper or using an animation software program.",
+              "requirement_path": "3.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Plan your animation using thumbnail sketches and/or layout drawings either on paper or using an animation software program."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Create the animation."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "5983",
-          "label": "3",
-          "text": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made.",
-          "requirement_path": "3.3",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "5982",
+              "label": "2",
+              "text": "Create the animation.",
+              "requirement_path": "3.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Create the animation."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made."
+              "id": "5983",
+              "label": "3",
+              "text": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made.",
+              "requirement_path": "3.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "5980",
           "label": "b",
           "text": "Technique 2",
           "requirement_path": "3.b",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
+          "node_kind": "instruction_container",
+          "is_container": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [
             {
@@ -284,72 +293,76 @@
           "resources": [
             {
               "title": "How to Make a Flipbook (video)",
-              "url": "https://youtu.be/Un-BdBSOGKY?si=VYoP1vpGjMei_OY-"
+              "url": "https://youtu.be/Un-BdBSOGKY?si=VYoP1vpGjMei_OY-",
+              "type": "video"
             },
             {
               "title": "How to Make Flipbook Animation Machine at Home (video)",
-              "url": "https://youtu.be/4WLU50bsNOY?si=CmQ60SH6rck6eDQj"
+              "url": "https://youtu.be/4WLU50bsNOY?si=CmQ60SH6rck6eDQj",
+              "type": "video"
             },
             {
               "title": "FlipAnim: How to Make Flipbook Animations Online (website)",
-              "url": "https://flipanim.com/"
+              "url": "https://flipanim.com/",
+              "type": "website"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "5984",
-          "label": "1",
-          "text": "Plan your animation using thumbnail sketches and/or layout drawings.",
-          "requirement_path": "3.1-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Plan your animation using thumbnail sketches and/or layout drawings."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "5985",
-          "label": "2",
-          "text": "Create the animation.",
-          "requirement_path": "3.2-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "5984",
+              "label": "1",
+              "text": "Plan your animation using thumbnail sketches and/or layout drawings.",
+              "requirement_path": "3.b.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Plan your animation using thumbnail sketches and/or layout drawings."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Create the animation."
-            }
-          ],
-          "resources": [],
-          "sub_requirements": []
-        },
-        {
-          "id": "5986",
-          "label": "3",
-          "text": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made.",
-          "requirement_path": "3.3-2",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+              "id": "5985",
+              "label": "2",
+              "text": "Create the animation.",
+              "requirement_path": "3.b.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Create the animation."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
             {
-              "type": "text",
-              "value": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made."
+              "id": "5986",
+              "label": "3",
+              "text": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made.",
+              "requirement_path": "3.b.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made."
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         }
       ]
     },
@@ -404,19 +417,23 @@
           "resources": [
             {
               "title": "What It's Like Working at Disney Animation & Studio Tour (video)",
-              "url": "https://youtu.be/1KUAO2hfdBE?si=x4yxTOYqlnh4KVS_"
+              "url": "https://youtu.be/1KUAO2hfdBE?si=x4yxTOYqlnh4KVS_",
+              "type": "video"
             },
             {
               "title": "CGI Dreamworks Animation Studio Pipeline (video)",
-              "url": "https://youtu.be/ru0tQRJ4qKs?si=_s5HH3nCS7hflRoB"
+              "url": "https://youtu.be/ru0tQRJ4qKs?si=_s5HH3nCS7hflRoB",
+              "type": "video"
             },
             {
               "title": "What It's Like to Work at Pixar Animation Studios (video)",
-              "url": "https://youtu.be/C3IdS20YzHg?si=EBYH71frOfara-ns"
+              "url": "https://youtu.be/C3IdS20YzHg?si=EBYH71frOfara-ns",
+              "type": "video"
             },
             {
               "title": "'Inside Out 2' Creatives Give Emily Uribe an Exclusive Pixar Studio Tour (video)",
-              "url": "https://youtu.be/3NaZsIdXtC4?si=B3HEHhLVRuIMgMrs"
+              "url": "https://youtu.be/3NaZsIdXtC4?si=B3HEHhLVRuIMgMrs",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -439,11 +456,13 @@
           "resources": [
             {
               "title": "A Deep Dive Into the Present and Future of Animation (website with videos)",
-              "url": "https://motioncue.com/present-and-future-of-animation/"
+              "url": "https://motioncue.com/present-and-future-of-animation/",
+              "type": "website"
             },
             {
               "title": "AI Short Film: The Future of Animation in Cinematic Style (video)",
-              "url": "https://youtu.be/apFxEcMJ5Mg?si=L8oObx0T_SnQCQqO"
+              "url": "https://youtu.be/apFxEcMJ5Mg?si=L8oObx0T_SnQCQqO",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -479,7 +498,8 @@
       "resources": [
         {
           "title": "Animation as a Career Choice (video)",
-          "url": "https://youtu.be/t8zUTh1wYM4?si=-IUsEDT5mck_ttAd"
+          "url": "https://youtu.be/t8zUTh1wYM4?si=-IUsEDT5mck_ttAd",
+          "type": "video"
         }
       ],
       "sub_requirements": []

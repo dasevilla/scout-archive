@@ -447,10 +447,15 @@
               "label": "5",
               "text": "Do ALL of the requirements in ONE of the following alternatives:",
               "requirement_path": "8.option-a.5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do ALL of the requirements in ONE of the following alternatives:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -458,482 +463,488 @@
                 }
               ],
               "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "a",
-              "label": "a",
-              "text": "Corn",
-              "requirement_path": "8.option-a.a",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
+              "sub_requirements": [
                 {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
+                  "id": "15262",
+                  "label": "a",
+                  "text": "Corn",
+                  "requirement_path": "8.option-a.5.a",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
                     {
-                      "type": "text",
-                      "value": "Corn"
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Corn"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15263",
+                      "label": "1",
+                      "text": "Grow a plot of corn and have your plot inspected by your counselor. Record seed variety or experimental code number.",
+                      "requirement_path": "8.option-a.5.a.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Grow a plot of corn and have your plot inspected by your counselor. Record seed variety or experimental code number."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "The Incredible Logistics Behind Corn Farming (video)",
+                          "url": "https://youtu.be/R9pxFgJwxFE"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15264",
+                      "label": "2",
+                      "text": "Tell about modern methods of commercial corn farming and the contributions that corn makes to today's food and fuel supply.",
+                      "requirement_path": "8.option-a.5.a.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell about modern methods of commercial corn farming and the contributions that corn makes to today's food and fuel supply."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15265",
+                      "label": "3",
+                      "text": "Tell about an insect that can damage corn, and explain how it affects corn production and how it is controlled.",
+                      "requirement_path": "8.option-a.5.a.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell about an insect that can damage corn, and explain how it affects corn production and how it is controlled."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Different Types of Diseases in Corn (video)",
+                          "url": "https://youtu.be/lpIsRU63qIE"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "15266",
+                  "label": "b",
+                  "text": "Cotton",
+                  "requirement_path": "8.option-a.5.b",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Cotton"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15267",
+                      "label": "1",
+                      "text": "Grow a plot of cotton and have your plot inspected by your counselor.",
+                      "requirement_path": "8.option-a.5.b.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Grow a plot of cotton and have your plot inspected by your counselor."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15268",
+                      "label": "2",
+                      "text": "Tell about modern methods of commercial cotton farming, and about the uses of cotton fiber and seed and the economic value of this crop.",
+                      "requirement_path": "8.option-a.5.b.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell about modern methods of commercial cotton farming, and about the uses of cotton fiber and seed and the economic value of this crop."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "How American Farmers Produce 14.68 Million Bales Of Cotton - American Farming (video)",
+                          "url": "https://youtu.be/ODLRz9H_FLU"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15269",
+                      "label": "3",
+                      "text": "Tell about an insect that can damage cotton, and explain how it affects cotton production and how it is controlled.",
+                      "requirement_path": "8.option-a.5.b.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell about an insect that can damage cotton, and explain how it affects cotton production and how it is controlled."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Major Pest of Cotton (video)",
+                          "url": "https://youtu.be/Yt_Z3SJmw3c"
+                        },
+                        {
+                          "title": "Insect Lockdown Pest Profiles: The Cotton Fleahopper (video)",
+                          "url": "https://youtu.be/B0ApDCtkdQk?si=mmYbeVgPAk-9o9DL"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "15270",
+                  "label": "c",
+                  "text": "Forage Crops",
+                  "requirement_path": "8.option-a.5.c",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Forage Crops"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15271",
+                      "label": "1",
+                      "text": "Collect, count, and label samples of each for display: perennial grasses, annual grasses, legumes, and broadleaf weeds. Indicate how each grass and legume is used. Keep a log of the site where you found each sample and share it with your counselor.",
+                      "requirement_path": "8.option-a.5.c.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Collect, count, and label samples of each for display: perennial grasses, annual grasses, legumes, and broadleaf weeds. Indicate how each grass and legume is used. Keep a log of the site where you found each sample and share it with your counselor."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15272",
+                      "label": "2",
+                      "text": "Explain how legumes can be used to enrich the soil and how they may deplete it under certain conditions. Explain how livestock may enrich or deplete the soil.",
+                      "requirement_path": "8.option-a.5.c.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Explain how legumes can be used to enrich the soil and how they may deplete it under certain conditions. Explain how livestock may enrich or deplete the soil."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Importance of Legumes (video)",
+                          "url": "https://youtu.be/fUJXV-lHDKk"
+                        },
+                        {
+                          "title": "The Science of Soil Health: Understanding the Value of Legumes and Nitrogen-Fixing Microbes (video)",
+                          "url": "https://youtu.be/0yRYdvEzXag?si=vcj8GD4Awd1EoLJZ"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15273",
+                      "label": "3",
+                      "text": "Name five poisonous plants that are dangerous to livestock, and tell the different ways of using forage crops as feed for livestock.",
+                      "requirement_path": "8.option-a.5.c.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Name five poisonous plants that are dangerous to livestock, and tell the different ways of using forage crops as feed for livestock."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Local Veterinarian Explains What Plants Are Toxic to Large Animals (video)",
+                          "url": "https://youtu.be/vwrNGUx0TJ4"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "15274",
+                  "label": "d",
+                  "text": "Small Grains",
+                  "requirement_path": "8.option-a.5.d",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Small Grains"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15275",
+                      "label": "1",
+                      "text": "Give production figures for small grain crops listed in the U.S. Statistical Report or Agricultural Statistics Handbook for the latest year available.",
+                      "requirement_path": "8.option-a.5.d.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Give production figures for small grain crops listed in the U.S. Statistical Report or Agricultural Statistics Handbook for the latest year available."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "USDA - National Agricultural Statistics Service - Charts and Maps - Field Crops (website)",
+                          "url": "https://www.nass.usda.gov/Charts_and_Maps/Field_Crops/index.php"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15276",
+                      "label": "2",
+                      "text": "Help in harvesting a crop of grain. Tell how to reduce harvesting losses and about modern methods of growing one small grain crop.",
+                      "requirement_path": "8.option-a.5.d.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Help in harvesting a crop of grain. Tell how to reduce harvesting losses and about modern methods of growing one small grain crop."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Growing and Harvesting Wheat on a Small Scale (video)",
+                          "url": "https://youtu.be/RYn_yUUpwSQ"
+                        },
+                        {
+                          "title": "Reducing Soybean Harvest Losses | Michigan Soybean | Harvest Demonstration (video)",
+                          "url": "https://youtu.be/PEgONTJko6s"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15277",
+                      "label": "3",
+                      "text": "Visit a grain elevator, flour mill, cereal plant, feed or seed company. Talk with the operator. Take notes, and describe the processes used and tell your patrol, troop, or class about your visit.",
+                      "requirement_path": "8.option-a.5.d.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Visit a grain elevator, flour mill, cereal plant, feed or seed company. Talk with the operator. Take notes, and describe the processes used and tell your patrol, troop, or class about your visit."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "The Journey: Wheat into Flour (video)",
+                          "url": "https://youtu.be/PYP6AnNQjNo?si=mL4eQyG6nOPebuk5"
+                        },
+                        {
+                          "title": "Everything About Grain Bins (Farmers are Geniuses) (video)",
+                          "url": "https://youtu.be/ywBV6M7VOFU?si=ngV-w_iXGlnwjTox"
+                        },
+                        {
+                          "title": "How Does a Seed Company Work? (video)",
+                          "url": "https://youtu.be/zFzQE7kKAck?si=TaPtU3MhtTWMCv_Q"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "15278",
+                  "label": "e",
+                  "text": "Oil Crops",
+                  "requirement_path": "8.option-a.5.e",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Oil Crops"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15279",
+                      "label": "1",
+                      "text": "Grow a plot of soybeans and have your plot inspected by your counselor.",
+                      "requirement_path": "8.option-a.5.e.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Grow a plot of soybeans and have your plot inspected by your counselor."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "How to Produce Millions Of Tons Of Soybeans | Modern Agricultural Technology | Soy milk Processing (video)",
+                          "url": "https://youtu.be/1olmtb3MpME"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15280",
+                      "label": "2",
+                      "text": "Tell about modern methods of growing soybeans on a commercial scale, and discuss the contributions soybeans make to our food supply.",
+                      "requirement_path": "8.option-a.5.e.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell about modern methods of growing soybeans on a commercial scale, and discuss the contributions soybeans make to our food supply."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Soybeans and Oil Crops - Oil Crops Sector at a Glance | Economic Research Service (website)",
+                          "url": "https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/oil-crops-sector-at-a-glance"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15281",
+                      "label": "3",
+                      "text": "Explain why a hard frost can be dangerous to soybeans just after emergence.",
+                      "requirement_path": "8.option-a.5.e.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Explain why a hard frost can be dangerous to soybeans just after emergence."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Soybean School: Assessing the Impact of Frost (video)",
+                          "url": "https://youtu.be/x86tt8PPwiA"
+                        }
+                      ],
+                      "sub_requirements": []
                     }
                   ]
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15263",
-              "label": "1",
-              "text": "Grow a plot of corn and have your plot inspected by your counselor. Record seed variety or experimental code number.",
-              "requirement_path": "8.option-a.1-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Grow a plot of corn and have your plot inspected by your counselor. Record seed variety or experimental code number."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "The Incredible Logistics Behind Corn Farming (video)",
-                  "url": "https://youtu.be/R9pxFgJwxFE"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15264",
-              "label": "2",
-              "text": "Tell about modern methods of commercial corn farming and the contributions that corn makes to today's food and fuel supply.",
-              "requirement_path": "8.option-a.2-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell about modern methods of commercial corn farming and the contributions that corn makes to today's food and fuel supply."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15265",
-              "label": "3",
-              "text": "Tell about an insect that can damage corn, and explain how it affects corn production and how it is controlled.",
-              "requirement_path": "8.option-a.3-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell about an insect that can damage corn, and explain how it affects corn production and how it is controlled."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Different Types of Diseases in Corn (video)",
-                  "url": "https://youtu.be/lpIsRU63qIE"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "b",
-              "label": "b",
-              "text": "Cotton",
-              "requirement_path": "8.option-a.b",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Cotton"
-                    }
-                  ]
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15267",
-              "label": "1",
-              "text": "Grow a plot of cotton and have your plot inspected by your counselor.",
-              "requirement_path": "8.option-a.1-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Grow a plot of cotton and have your plot inspected by your counselor."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15268",
-              "label": "2",
-              "text": "Tell about modern methods of commercial cotton farming, and about the uses of cotton fiber and seed and the economic value of this crop.",
-              "requirement_path": "8.option-a.2-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell about modern methods of commercial cotton farming, and about the uses of cotton fiber and seed and the economic value of this crop."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "How American Farmers Produce 14.68 Million Bales Of Cotton - American Farming (video)",
-                  "url": "https://youtu.be/ODLRz9H_FLU"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15269",
-              "label": "3",
-              "text": "Tell about an insect that can damage cotton, and explain how it affects cotton production and how it is controlled.",
-              "requirement_path": "8.option-a.3-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell about an insect that can damage cotton, and explain how it affects cotton production and how it is controlled."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Major Pest of Cotton (video)",
-                  "url": "https://youtu.be/Yt_Z3SJmw3c"
-                },
-                {
-                  "title": "Insect Lockdown Pest Profiles: The Cotton Fleahopper (video)",
-                  "url": "https://youtu.be/B0ApDCtkdQk?si=mmYbeVgPAk-9o9DL"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "c",
-              "label": "c",
-              "text": "Forage Crops",
-              "requirement_path": "8.option-a.c",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Forage Crops"
-                    }
-                  ]
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15271",
-              "label": "1",
-              "text": "Collect, count, and label samples of each for display: perennial grasses, annual grasses, legumes, and broadleaf weeds. Indicate how each grass and legume is used. Keep a log of the site where you found each sample and share it with your counselor.",
-              "requirement_path": "8.option-a.1-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Collect, count, and label samples of each for display: perennial grasses, annual grasses, legumes, and broadleaf weeds. Indicate how each grass and legume is used. Keep a log of the site where you found each sample and share it with your counselor."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15272",
-              "label": "2",
-              "text": "Explain how legumes can be used to enrich the soil and how they may deplete it under certain conditions. Explain how livestock may enrich or deplete the soil.",
-              "requirement_path": "8.option-a.2-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Explain how legumes can be used to enrich the soil and how they may deplete it under certain conditions. Explain how livestock may enrich or deplete the soil."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Importance of Legumes (video)",
-                  "url": "https://youtu.be/fUJXV-lHDKk"
-                },
-                {
-                  "title": "The Science of Soil Health: Understanding the Value of Legumes and Nitrogen-Fixing Microbes (video)",
-                  "url": "https://youtu.be/0yRYdvEzXag?si=vcj8GD4Awd1EoLJZ"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15273",
-              "label": "3",
-              "text": "Name five poisonous plants that are dangerous to livestock, and tell the different ways of using forage crops as feed for livestock.",
-              "requirement_path": "8.option-a.3-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Name five poisonous plants that are dangerous to livestock, and tell the different ways of using forage crops as feed for livestock."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Local Veterinarian Explains What Plants Are Toxic to Large Animals (video)",
-                  "url": "https://youtu.be/vwrNGUx0TJ4"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "d",
-              "label": "d",
-              "text": "Small Grains",
-              "requirement_path": "8.option-a.d",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Small Grains"
-                    }
-                  ]
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15275",
-              "label": "1",
-              "text": "Give production figures for small grain crops listed in the U.S. Statistical Report or Agricultural Statistics Handbook for the latest year available.",
-              "requirement_path": "8.option-a.1-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Give production figures for small grain crops listed in the U.S. Statistical Report or Agricultural Statistics Handbook for the latest year available."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "USDA - National Agricultural Statistics Service - Charts and Maps - Field Crops (website)",
-                  "url": "https://www.nass.usda.gov/Charts_and_Maps/Field_Crops/index.php"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15276",
-              "label": "2",
-              "text": "Help in harvesting a crop of grain. Tell how to reduce harvesting losses and about modern methods of growing one small grain crop.",
-              "requirement_path": "8.option-a.2-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Help in harvesting a crop of grain. Tell how to reduce harvesting losses and about modern methods of growing one small grain crop."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Growing and Harvesting Wheat on a Small Scale (video)",
-                  "url": "https://youtu.be/RYn_yUUpwSQ"
-                },
-                {
-                  "title": "Reducing Soybean Harvest Losses | Michigan Soybean | Harvest Demonstration (video)",
-                  "url": "https://youtu.be/PEgONTJko6s"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15277",
-              "label": "3",
-              "text": "Visit a grain elevator, flour mill, cereal plant, feed or seed company. Talk with the operator. Take notes, and describe the processes used and tell your patrol, troop, or class about your visit.",
-              "requirement_path": "8.option-a.3-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Visit a grain elevator, flour mill, cereal plant, feed or seed company. Talk with the operator. Take notes, and describe the processes used and tell your patrol, troop, or class about your visit."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "The Journey: Wheat into Flour (video)",
-                  "url": "https://youtu.be/PYP6AnNQjNo?si=mL4eQyG6nOPebuk5"
-                },
-                {
-                  "title": "Everything About Grain Bins (Farmers are Geniuses) (video)",
-                  "url": "https://youtu.be/ywBV6M7VOFU?si=ngV-w_iXGlnwjTox"
-                },
-                {
-                  "title": "How Does a Seed Company Work? (video)",
-                  "url": "https://youtu.be/zFzQE7kKAck?si=TaPtU3MhtTWMCv_Q"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "e",
-              "label": "e",
-              "text": "Oil Crops",
-              "requirement_path": "8.option-a.e",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Oil Crops"
-                    }
-                  ]
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15279",
-              "label": "1",
-              "text": "Grow a plot of soybeans and have your plot inspected by your counselor.",
-              "requirement_path": "8.option-a.1-6",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Grow a plot of soybeans and have your plot inspected by your counselor."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "How to Produce Millions Of Tons Of Soybeans | Modern Agricultural Technology | Soy milk Processing (video)",
-                  "url": "https://youtu.be/1olmtb3MpME"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15280",
-              "label": "2",
-              "text": "Tell about modern methods of growing soybeans on a commercial scale, and discuss the contributions soybeans make to our food supply.",
-              "requirement_path": "8.option-a.2-6",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell about modern methods of growing soybeans on a commercial scale, and discuss the contributions soybeans make to our food supply."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Soybeans and Oil Crops - Oil Crops Sector at a Glance | Economic Research Service (website)",
-                  "url": "https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/oil-crops-sector-at-a-glance"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15281",
-              "label": "3",
-              "text": "Explain why a hard frost can be dangerous to soybeans just after emergence.",
-              "requirement_path": "8.option-a.3-6",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Explain why a hard frost can be dangerous to soybeans just after emergence."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Soybean School: Assessing the Impact of Frost (video)",
-                  "url": "https://youtu.be/x86tt8PPwiA"
-                }
-              ],
-              "sub_requirements": []
+              ]
             }
           ]
         },
@@ -1246,10 +1257,15 @@
               "label": "5",
               "text": "Do ALL of the requirements in ONE of the following alternatives:",
               "requirement_path": "8.option-b.5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
+              "node_kind": "instruction_container",
+              "is_container": true,
+              "requires_response": false,
+              "scoped_clauses": [
+                {
+                  "text": "Do ALL of the requirements in ONE of the following alternatives:",
+                  "scope": "children"
+                }
+              ],
               "content": [
                 {
                   "type": "text",
@@ -1257,514 +1273,519 @@
                 }
               ],
               "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "a",
-              "label": "a",
-              "text": "Bedding Plants",
-              "requirement_path": "8.option-b.a",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
+              "sub_requirements": [
                 {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
+                  "id": "15297",
+                  "label": "a",
+                  "text": "Bedding Plants",
+                  "requirement_path": "8.option-b.5.a",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
                     {
-                      "type": "text",
-                      "value": "Bedding Plants"
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Bedding Plants"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15298",
+                      "label": "1",
+                      "text": "Grow bedding plants appropriate for your area in pots or flats from seed or cuttings in a manufactured soil mix. Explain why you chose the mix and tell what is in it.",
+                      "requirement_path": "8.option-b.5.a.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Grow bedding plants appropriate for your area in pots or flats from seed or cuttings in a manufactured soil mix. Explain why you chose the mix and tell what is in it."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15299",
+                      "label": "2",
+                      "text": "Transplant plants to a bed in the landscape and maintain the bed until the end of the growing season. Record your activities, observations, materials used, and costs.",
+                      "requirement_path": "8.option-b.5.a.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Transplant plants to a bed in the landscape and maintain the bed until the end of the growing season. Record your activities, observations, materials used, and costs."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Transplanting Ferns & Other Plants: A Guide to Success (video)",
+                          "url": "https://youtu.be/vd3w_hmtm9A?si=ryWERSwz8LEQQssw"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15300",
+                      "label": "3",
+                      "text": "Demonstrate mulching, fertilizing, watering, weeding, and deadheading, and tell how each practice helps your plants.",
+                      "requirement_path": "8.option-b.5.a.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Demonstrate mulching, fertilizing, watering, weeding, and deadheading, and tell how each practice helps your plants."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "The Big Five - Weeding, Pruning, Fertilizing, Mulching, Watering (video)",
+                          "url": "https://youtu.be/mgviGaoWO1w"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15301",
+                      "label": "4",
+                      "text": "Tell some differences between gardening with annuals and perennials.",
+                      "requirement_path": "8.option-b.5.a.4",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell some differences between gardening with annuals and perennials."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "The Difference Between Annuals and Perennials (video)",
+                          "url": "https://youtu.be/-jQsd1fNFA8"
+                        },
+                        {
+                          "title": "Annuals or Perennials? Which Is Best, and How Do I Choose? (video)",
+                          "url": "https://youtu.be/nbJJMwsp0TM?si=eweSHAYVtUPc8cs4"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "15302",
+                  "label": "b",
+                  "text": "Fruit, Berry, and Nut Crops",
+                  "requirement_path": "8.option-b.5.b",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Fruit, Berry, and Nut Crops"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15303",
+                      "label": "1",
+                      "text": "Plant five fruit or nut trees, grapevines, or berry plants that are suited to your area. Take full care of fruit or nut trees, grapevines, or berry plants through one season.",
+                      "requirement_path": "8.option-b.5.b.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Plant five fruit or nut trees, grapevines, or berry plants that are suited to your area. Take full care of fruit or nut trees, grapevines, or berry plants through one season."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15304",
+                      "label": "2",
+                      "text": "Prune a tree, vine, or shrub properly. Explain why pruning is necessary.",
+                      "requirement_path": "8.option-b.5.b.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Prune a tree, vine, or shrub properly. Explain why pruning is necessary."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Why You Should Prune Your Shrubs and Trees (video)",
+                          "url": "https://youtu.be/nZ4Fn1_rVRo"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15305",
+                      "label": "3",
+                      "text": "Demonstrate one type of graft and tell why this method is useful.",
+                      "requirement_path": "8.option-b.5.b.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Demonstrate one type of graft and tell why this method is useful."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "How Plant Grafting Actually Works and Why It's So Cool (video)",
+                          "url": "https://youtu.be/NN1Y_giTMeE?si=NHHCKRuR32-NH0pa"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15306",
+                      "label": "4",
+                      "text": "Describe how one fruit, nut, or berry crop is processed for use.",
+                      "requirement_path": "8.option-b.5.b.4",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Describe how one fruit, nut, or berry crop is processed for use."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "How Pecans Are Manufactured | How It's Made (video)",
+                          "url": "https://youtu.be/EhqW-eZ9Vtg?si=HBV3u_RDnqeAiGbI"
+                        },
+                        {
+                          "title": "How Are Raisins Made - Sun-Dried or Machine-Made? (video)",
+                          "url": "https://youtu.be/QfyUcGuc8ww?si=1hEFDzcQt-kf2uBA"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "15307",
+                  "label": "c",
+                  "text": "Woody Ornamentals",
+                  "requirement_path": "8.option-b.5.c",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Woody Ornamentals"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15308",
+                      "label": "1",
+                      "text": "Plant five or more trees or shrubs in a landscape setting. Take full care of the trees or shrubs you have planted for one growing season.",
+                      "requirement_path": "8.option-b.5.c.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Plant five or more trees or shrubs in a landscape setting. Take full care of the trees or shrubs you have planted for one growing season."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15309",
+                      "label": "2",
+                      "text": "Prune a tree or shrub properly. Explain why pruning is necessary.",
+                      "requirement_path": "8.option-b.5.c.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Prune a tree or shrub properly. Explain why pruning is necessary."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Ask an Arborist: Why Do I Need to Prune? (video)",
+                          "url": "https://youtu.be/-RjCGdgF7Jo?si=TFYAJs23hB21ewOn"
+                        },
+                        {
+                          "title": "Ask an Arborist: What Are the Rules of Pruning? (video)",
+                          "url": "https://youtu.be/O1UBV35JAxI?si=v9bsuqKs9l5Tdjj8"
+                        },
+                        {
+                          "title": "Ask an Arborist: The ABC's of Pruning (video)",
+                          "url": "https://youtu.be/IQhmIK-0HOc?si=owIKfbXa8G-lcX1q"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15310",
+                      "label": "3",
+                      "text": "List 10 trees (in addition to those listed in general requirement 6 above) and tell your counselor how each is used in the landscape. Give the common and scientific names.",
+                      "requirement_path": "8.option-b.5.c.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "List 10 trees (in addition to those listed in general requirement 6 above) and tell your counselor how each is used in the landscape. Give the common and scientific names."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "10 Most Popular Ornamental Trees for Your Garden (video)",
+                          "url": "https://youtu.be/pTcQTifb6lI?si=JzJ9j6xsPbckdtjW"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15311",
+                      "label": "4",
+                      "text": "Describe the size, texture, color, flowers, leaves, fruit, hardiness, cultural requirements, and any special characteristics that make each type of tree or shrub attractive or interesting.",
+                      "requirement_path": "8.option-b.5.c.4",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Describe the size, texture, color, flowers, leaves, fruit, hardiness, cultural requirements, and any special characteristics that make each type of tree or shrub attractive or interesting."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15312",
+                      "label": "5",
+                      "text": "Tell five ways trees help improve the quality of our environment.",
+                      "requirement_path": "8.option-b.5.c.5",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell five ways trees help improve the quality of our environment."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "The Importance of Trees for Our Environment and Health (video)",
+                          "url": "https://youtu.be/E6VvooVLgq4?si=wpybhPMXwOSnZ8y5"
+                        },
+                        {
+                          "title": "6 Ways Trees Benefit All of Us (website)",
+                          "url": "https://www.nature.org/en-us/what-we-do/our-priorities/build-healthy-cities/cities-stories/benefits-of-trees-forests/"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "15313",
+                  "label": "d",
+                  "text": "Home Gardening",
+                  "requirement_path": "8.option-b.5.d",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Home Gardening"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15314",
+                      "label": "1",
+                      "text": "Design and plant a garden or landscape that is at least 10 by 10 feet.",
+                      "requirement_path": "8.option-b.5.d.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Design and plant a garden or landscape that is at least 10 by 10 feet."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "How to Design the Perfect Landscape | Landscape Design 101 (video)",
+                          "url": "https://youtu.be/e-wO-LqEQb4?si=_RjhdI1Bh7eIlgd-"
+                        },
+                        {
+                          "title": "10 Plants for a Bird-Friendly Yard | Audubon (website)",
+                          "url": "https://www.audubon.org/news/10-plants-bird-friendly-yard"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15315",
+                      "label": "2",
+                      "text": "Plant 10 or more different types of plants in your garden. Tell why you selected particular varieties of vegetables and flowers. Take care of the plants in your garden for one season.",
+                      "requirement_path": "8.option-b.5.d.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Plant 10 or more different types of plants in your garden. Tell why you selected particular varieties of vegetables and flowers. Take care of the plants in your garden for one season."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Caring for a Vegetable Garden | HowStuffWorks (website)",
+                          "url": "https://home.howstuffworks.com/caring-for-a-vegetable-garden.htm"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15316",
+                      "label": "3",
+                      "text": "Demonstrate soil preparation, staking, watering, weeding, mulching, composting, fertilizing, pest management, and pruning. Tell why each technique is used.",
+                      "requirement_path": "8.option-b.5.d.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Demonstrate soil preparation, staking, watering, weeding, mulching, composting, fertilizing, pest management, and pruning. Tell why each technique is used."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Remove Weeds Using These Effective Methods | Gardening 101 (video)",
+                          "url": "https://youtu.be/3zNij-aGpVw?si=_alv-L6QxChk5Ukk"
+                        },
+                        {
+                          "title": "How to Mulch Your Garden: A Step-by-Step Guide (video)",
+                          "url": "https://youtu.be/gy6q5f75O7k?si=HJltpHrtGxdpt2i_"
+                        },
+                        {
+                          "title": "Composting For Beginners (video)",
+                          "url": "https://youtu.be/1LZzgi1k9aA?si=8UAYVwjNPRBB90g5"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15317",
+                      "label": "4",
+                      "text": "Tell four types of things you could provide to make your home landscape or park a better place for birds and wildlife. List the common and scientific names of 10 kinds of native plants that are beneficial to birds and wildlife in your area.",
+                      "requirement_path": "8.option-b.5.d.4",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell four types of things you could provide to make your home landscape or park a better place for birds and wildlife. List the common and scientific names of 10 kinds of native plants that are beneficial to birds and wildlife in your area."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Get to Know These 20 Common Types of Native Plants (website)",
+                          "url": "https://www.audubon.org/news/get-know-these-20-common-types-native-plants"
+                        },
+                        {
+                          "title": "Native Plant Recommendations | United States Botanic Garden (website)",
+                          "url": "https://www.usbg.gov/native-plant-recommendations"
+                        }
+                      ],
+                      "sub_requirements": []
                     }
                   ]
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15298",
-              "label": "1",
-              "text": "Grow bedding plants appropriate for your area in pots or flats from seed or cuttings in a manufactured soil mix. Explain why you chose the mix and tell what is in it.",
-              "requirement_path": "8.option-b.1-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Grow bedding plants appropriate for your area in pots or flats from seed or cuttings in a manufactured soil mix. Explain why you chose the mix and tell what is in it."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15299",
-              "label": "2",
-              "text": "Transplant plants to a bed in the landscape and maintain the bed until the end of the growing season. Record your activities, observations, materials used, and costs.",
-              "requirement_path": "8.option-b.2-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Transplant plants to a bed in the landscape and maintain the bed until the end of the growing season. Record your activities, observations, materials used, and costs."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Transplanting Ferns & Other Plants: A Guide to Success (video)",
-                  "url": "https://youtu.be/vd3w_hmtm9A?si=ryWERSwz8LEQQssw"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15300",
-              "label": "3",
-              "text": "Demonstrate mulching, fertilizing, watering, weeding, and deadheading, and tell how each practice helps your plants.",
-              "requirement_path": "8.option-b.3-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Demonstrate mulching, fertilizing, watering, weeding, and deadheading, and tell how each practice helps your plants."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "The Big Five - Weeding, Pruning, Fertilizing, Mulching, Watering (video)",
-                  "url": "https://youtu.be/mgviGaoWO1w"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15301",
-              "label": "4",
-              "text": "Tell some differences between gardening with annuals and perennials.",
-              "requirement_path": "8.option-b.4-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell some differences between gardening with annuals and perennials."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "The Difference Between Annuals and Perennials (video)",
-                  "url": "https://youtu.be/-jQsd1fNFA8"
-                },
-                {
-                  "title": "Annuals or Perennials? Which Is Best, and How Do I Choose? (video)",
-                  "url": "https://youtu.be/nbJJMwsp0TM?si=eweSHAYVtUPc8cs4"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "b",
-              "label": "b",
-              "text": "Fruit, Berry, and Nut Crops",
-              "requirement_path": "8.option-b.b",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Fruit, Berry, and Nut Crops"
-                    }
-                  ]
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15303",
-              "label": "1",
-              "text": "Plant five fruit or nut trees, grapevines, or berry plants that are suited to your area. Take full care of fruit or nut trees, grapevines, or berry plants through one season.",
-              "requirement_path": "8.option-b.1-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Plant five fruit or nut trees, grapevines, or berry plants that are suited to your area. Take full care of fruit or nut trees, grapevines, or berry plants through one season."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15304",
-              "label": "2",
-              "text": "Prune a tree, vine, or shrub properly. Explain why pruning is necessary.",
-              "requirement_path": "8.option-b.2-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Prune a tree, vine, or shrub properly. Explain why pruning is necessary."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Why You Should Prune Your Shrubs and Trees (video)",
-                  "url": "https://youtu.be/nZ4Fn1_rVRo"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15305",
-              "label": "3",
-              "text": "Demonstrate one type of graft and tell why this method is useful.",
-              "requirement_path": "8.option-b.3-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Demonstrate one type of graft and tell why this method is useful."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "How Plant Grafting Actually Works and Why It's So Cool (video)",
-                  "url": "https://youtu.be/NN1Y_giTMeE?si=NHHCKRuR32-NH0pa"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15306",
-              "label": "4",
-              "text": "Describe how one fruit, nut, or berry crop is processed for use.",
-              "requirement_path": "8.option-b.4-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Describe how one fruit, nut, or berry crop is processed for use."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "How Pecans Are Manufactured | How It's Made (video)",
-                  "url": "https://youtu.be/EhqW-eZ9Vtg?si=HBV3u_RDnqeAiGbI"
-                },
-                {
-                  "title": "How Are Raisins Made - Sun-Dried or Machine-Made? (video)",
-                  "url": "https://youtu.be/QfyUcGuc8ww?si=1hEFDzcQt-kf2uBA"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "c",
-              "label": "c",
-              "text": "Woody Ornamentals",
-              "requirement_path": "8.option-b.c",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Woody Ornamentals"
-                    }
-                  ]
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15308",
-              "label": "1",
-              "text": "Plant five or more trees or shrubs in a landscape setting. Take full care of the trees or shrubs you have planted for one growing season.",
-              "requirement_path": "8.option-b.1-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Plant five or more trees or shrubs in a landscape setting. Take full care of the trees or shrubs you have planted for one growing season."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15309",
-              "label": "2",
-              "text": "Prune a tree or shrub properly. Explain why pruning is necessary.",
-              "requirement_path": "8.option-b.2-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Prune a tree or shrub properly. Explain why pruning is necessary."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Ask an Arborist: Why Do I Need to Prune? (video)",
-                  "url": "https://youtu.be/-RjCGdgF7Jo?si=TFYAJs23hB21ewOn"
-                },
-                {
-                  "title": "Ask an Arborist: What Are the Rules of Pruning? (video)",
-                  "url": "https://youtu.be/O1UBV35JAxI?si=v9bsuqKs9l5Tdjj8"
-                },
-                {
-                  "title": "Ask an Arborist: The ABC's of Pruning (video)",
-                  "url": "https://youtu.be/IQhmIK-0HOc?si=owIKfbXa8G-lcX1q"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15310",
-              "label": "3",
-              "text": "List 10 trees (in addition to those listed in general requirement 6 above) and tell your counselor how each is used in the landscape. Give the common and scientific names.",
-              "requirement_path": "8.option-b.3-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "List 10 trees (in addition to those listed in general requirement 6 above) and tell your counselor how each is used in the landscape. Give the common and scientific names."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "10 Most Popular Ornamental Trees for Your Garden (video)",
-                  "url": "https://youtu.be/pTcQTifb6lI?si=JzJ9j6xsPbckdtjW"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15311",
-              "label": "4",
-              "text": "Describe the size, texture, color, flowers, leaves, fruit, hardiness, cultural requirements, and any special characteristics that make each type of tree or shrub attractive or interesting.",
-              "requirement_path": "8.option-b.4-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Describe the size, texture, color, flowers, leaves, fruit, hardiness, cultural requirements, and any special characteristics that make each type of tree or shrub attractive or interesting."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15312",
-              "label": "5",
-              "text": "Tell five ways trees help improve the quality of our environment.",
-              "requirement_path": "8.option-b.5-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell five ways trees help improve the quality of our environment."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "The Importance of Trees for Our Environment and Health (video)",
-                  "url": "https://youtu.be/E6VvooVLgq4?si=wpybhPMXwOSnZ8y5"
-                },
-                {
-                  "title": "6 Ways Trees Benefit All of Us (website)",
-                  "url": "https://www.nature.org/en-us/what-we-do/our-priorities/build-healthy-cities/cities-stories/benefits-of-trees-forests/"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "d",
-              "label": "d",
-              "text": "Home Gardening",
-              "requirement_path": "8.option-b.d",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Home Gardening"
-                    }
-                  ]
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15314",
-              "label": "1",
-              "text": "Design and plant a garden or landscape that is at least 10 by 10 feet.",
-              "requirement_path": "8.option-b.1-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Design and plant a garden or landscape that is at least 10 by 10 feet."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "How to Design the Perfect Landscape | Landscape Design 101 (video)",
-                  "url": "https://youtu.be/e-wO-LqEQb4?si=_RjhdI1Bh7eIlgd-"
-                },
-                {
-                  "title": "10 Plants for a Bird-Friendly Yard | Audubon (website)",
-                  "url": "https://www.audubon.org/news/10-plants-bird-friendly-yard"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15315",
-              "label": "2",
-              "text": "Plant 10 or more different types of plants in your garden. Tell why you selected particular varieties of vegetables and flowers. Take care of the plants in your garden for one season.",
-              "requirement_path": "8.option-b.2-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Plant 10 or more different types of plants in your garden. Tell why you selected particular varieties of vegetables and flowers. Take care of the plants in your garden for one season."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Caring for a Vegetable Garden | HowStuffWorks (website)",
-                  "url": "https://home.howstuffworks.com/caring-for-a-vegetable-garden.htm"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15316",
-              "label": "3",
-              "text": "Demonstrate soil preparation, staking, watering, weeding, mulching, composting, fertilizing, pest management, and pruning. Tell why each technique is used.",
-              "requirement_path": "8.option-b.3-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Demonstrate soil preparation, staking, watering, weeding, mulching, composting, fertilizing, pest management, and pruning. Tell why each technique is used."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Remove Weeds Using These Effective Methods | Gardening 101 (video)",
-                  "url": "https://youtu.be/3zNij-aGpVw?si=_alv-L6QxChk5Ukk"
-                },
-                {
-                  "title": "How to Mulch Your Garden: A Step-by-Step Guide (video)",
-                  "url": "https://youtu.be/gy6q5f75O7k?si=HJltpHrtGxdpt2i_"
-                },
-                {
-                  "title": "Composting For Beginners (video)",
-                  "url": "https://youtu.be/1LZzgi1k9aA?si=8UAYVwjNPRBB90g5"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15317",
-              "label": "4",
-              "text": "Tell four types of things you could provide to make your home landscape or park a better place for birds and wildlife. List the common and scientific names of 10 kinds of native plants that are beneficial to birds and wildlife in your area.",
-              "requirement_path": "8.option-b.4-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell four types of things you could provide to make your home landscape or park a better place for birds and wildlife. List the common and scientific names of 10 kinds of native plants that are beneficial to birds and wildlife in your area."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Get to Know These 20 Common Types of Native Plants (website)",
-                  "url": "https://www.audubon.org/news/get-know-these-20-common-types-native-plants"
-                },
-                {
-                  "title": "Native Plant Recommendations | United States Botanic Garden (website)",
-                  "url": "https://www.usbg.gov/native-plant-recommendations"
-                }
-              ],
-              "sub_requirements": []
+              ]
             }
           ]
         },
@@ -1989,9 +2010,9 @@
               "label": "6",
               "text": "Do ALL of the requirements in ONE of the following alternatives:",
               "requirement_path": "8.option-c.6",
-              "node_kind": "action_requirement",
+              "node_kind": "instruction_container",
               "is_container": true,
-              "requires_response": true,
+              "requires_response": false,
               "scoped_clauses": [
                 {
                   "text": "Do ALL of the requirements in ONE of the following alternatives:",
@@ -2011,9 +2032,9 @@
                   "label": "a",
                   "text": "Tree Inventory",
                   "requirement_path": "8.option-c.6.a",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
                   "scoped_clauses": [],
                   "content": [
                     {
@@ -2029,219 +2050,221 @@
                     }
                   ],
                   "resources": [],
-                  "sub_requirements": []
-                }
-              ]
-            },
-            {
-              "id": "15327",
-              "label": "1",
-              "text": "Identify the trees of your neighborhood, a park, a section of your town, or a Scout camp.",
-              "requirement_path": "8.option-c.1-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Identify the trees of your neighborhood, a park, a section of your town, or a Scout camp."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "How to Use Twigs to Identify Trees (video)",
-                  "url": "https://youtu.be/X2TDSiaqfbQ?si=h0rb2-D_5zUSTcgN"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15328",
-              "label": "2",
-              "text": "Collect, press, and label leaves, flowers, or fruits to document your inventory.",
-              "requirement_path": "8.option-c.2-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Collect, press, and label leaves, flowers, or fruits to document your inventory."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15329",
-              "label": "3",
-              "text": "List the types of trees by scientific name and give common names. Note the number and size (diameter at 4½ feet above ground) of trees observed and determine the largest of each species in your study area.",
-              "requirement_path": "8.option-c.3-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "List the types of trees by scientific name and give common names. Note the number and size (diameter at 4½ feet above ground) of trees observed and determine the largest of each species in your study area."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15330",
-              "label": "4",
-              "text": "Show two or more people how to use a leaf or twig key to identify at least five species of trees or shrubs.",
-              "requirement_path": "8.option-c.4-2",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Show two or more people how to use a leaf or twig key to identify at least five species of trees or shrubs."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15331",
-              "label": "b",
-              "text": "Transect Study",
-              "requirement_path": "8.option-c.b",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
+                  "sub_requirements": [
                     {
-                      "type": "text",
-                      "value": "Transect Study"
+                      "id": "15327",
+                      "label": "1",
+                      "text": "Identify the trees of your neighborhood, a park, a section of your town, or a Scout camp.",
+                      "requirement_path": "8.option-c.6.a.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Identify the trees of your neighborhood, a park, a section of your town, or a Scout camp."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "How to Use Twigs to Identify Trees (video)",
+                          "url": "https://youtu.be/X2TDSiaqfbQ?si=h0rb2-D_5zUSTcgN"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15328",
+                      "label": "2",
+                      "text": "Collect, press, and label leaves, flowers, or fruits to document your inventory.",
+                      "requirement_path": "8.option-c.6.a.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Collect, press, and label leaves, flowers, or fruits to document your inventory."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15329",
+                      "label": "3",
+                      "text": "List the types of trees by scientific name and give common names. Note the number and size (diameter at 4½ feet above ground) of trees observed and determine the largest of each species in your study area.",
+                      "requirement_path": "8.option-c.6.a.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "List the types of trees by scientific name and give common names. Note the number and size (diameter at 4½ feet above ground) of trees observed and determine the largest of each species in your study area."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15330",
+                      "label": "4",
+                      "text": "Show two or more people how to use a leaf or twig key to identify at least five species of trees or shrubs.",
+                      "requirement_path": "8.option-c.6.a.4",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Show two or more people how to use a leaf or twig key to identify at least five species of trees or shrubs."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
                     }
                   ]
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15335",
-              "label": "1",
-              "text": "Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1.",
-              "requirement_path": "8.option-c.1-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15336",
-              "label": "2",
-              "text": "Use the transect method to study the two different kinds of plant communities. The transects should be at least 500 feet long.",
-              "requirement_path": "8.option-c.2-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Use the transect method to study the two different kinds of plant communities. The transects should be at least 500 feet long."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Weekly Science Challenge #5: Create a Transect (video)",
-                  "url": "https://youtu.be/hbhR8hgFqG0?si=nlHaeSRLkK4NzRFs"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15332",
-              "label": "3",
-              "text": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies.",
-              "requirement_path": "8.option-c.3-3",
-              "node_kind": "action_requirement",
-              "is_container": true,
-              "requires_response": true,
-              "scoped_clauses": [
-                {
-                  "text": "At each site, record observations about the soil and other influencing factors AND do the following.",
-                  "scope": "ambiguous"
-                }
-              ],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": [
-                {
-                  "id": "15333",
-                  "label": "a",
-                  "text": "Identify each tree within 10 feet of the transect line.",
-                  "requirement_path": "8.option-c.3-3.a",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
-                  "scoped_clauses": [],
-                  "content": [
-                    {
-                      "type": "text",
-                      "value": "Identify each tree within 10 feet of the transect line."
-                    }
-                  ],
-                  "resources": [],
-                  "sub_requirements": []
                 },
                 {
-                  "id": "15334",
+                  "id": "15331",
                   "label": "b",
-                  "text": "Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree.",
-                  "requirement_path": "8.option-c.3-3.b",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
+                  "text": "Transect Study",
+                  "requirement_path": "8.option-c.6.b",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
                   "scoped_clauses": [],
                   "content": [
                     {
-                      "type": "text",
-                      "value": "Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree."
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Transect Study"
+                        }
+                      ]
                     }
                   ],
                   "resources": [],
-                  "sub_requirements": []
+                  "sub_requirements": [
+                    {
+                      "id": "15335",
+                      "label": "1",
+                      "text": "Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1.",
+                      "requirement_path": "8.option-c.6.b.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15336",
+                      "label": "2",
+                      "text": "Use the transect method to study the two different kinds of plant communities. The transects should be at least 500 feet long.",
+                      "requirement_path": "8.option-c.6.b.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Use the transect method to study the two different kinds of plant communities. The transects should be at least 500 feet long."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Weekly Science Challenge #5: Create a Transect (video)",
+                          "url": "https://youtu.be/hbhR8hgFqG0?si=nlHaeSRLkK4NzRFs"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15332",
+                      "label": "3",
+                      "text": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies.",
+                      "requirement_path": "8.option-c.6.b.3",
+                      "node_kind": "action_requirement",
+                      "is_container": true,
+                      "requires_response": true,
+                      "scoped_clauses": [
+                        {
+                          "text": "At each site, record observations about the soil and other influencing factors AND do the following.",
+                          "scope": "ambiguous"
+                        }
+                      ],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": [
+                        {
+                          "id": "15333",
+                          "label": "a",
+                          "text": "Identify each tree within 10 feet of the transect line.",
+                          "requirement_path": "8.option-c.6.b.3.a",
+                          "node_kind": "action_requirement",
+                          "is_container": false,
+                          "requires_response": true,
+                          "scoped_clauses": [],
+                          "content": [
+                            {
+                              "type": "text",
+                              "value": "Identify each tree within 10 feet of the transect line."
+                            }
+                          ],
+                          "resources": [],
+                          "sub_requirements": []
+                        },
+                        {
+                          "id": "15334",
+                          "label": "b",
+                          "text": "Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree.",
+                          "requirement_path": "8.option-c.6.b.3.b",
+                          "node_kind": "action_requirement",
+                          "is_container": false,
+                          "requires_response": true,
+                          "scoped_clauses": [],
+                          "content": [
+                            {
+                              "type": "text",
+                              "value": "Measure the diameter of each tree at 4½ feet above the ground, and map and list each tree."
+                            }
+                          ],
+                          "resources": [],
+                          "sub_requirements": []
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
                   "id": "15337",
                   "label": "c",
                   "text": "Nested Plot",
-                  "requirement_path": "8.option-c.3-3.c",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
+                  "requirement_path": "8.option-c.6.c",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
                   "scoped_clauses": [],
                   "content": [
                     {
@@ -2257,156 +2280,157 @@
                     }
                   ],
                   "resources": [],
-                  "sub_requirements": []
-                }
-              ]
-            },
-            {
-              "id": "15342",
-              "label": "1",
-              "text": "Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1.",
-              "requirement_path": "8.option-c.1-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15343",
-              "label": "2",
-              "text": "Mark off nested plots and inventory two different kinds of plant communities.",
-              "requirement_path": "8.option-c.2-4",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Mark off nested plots and inventory two different kinds of plant communities."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15338",
-              "label": "3",
-              "text": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies.",
-              "requirement_path": "8.option-c.3-4",
-              "node_kind": "action_requirement",
-              "is_container": true,
-              "requires_response": true,
-              "scoped_clauses": [
-                {
-                  "text": "At each site, record observations about the soil and other influencing factors AND do the following.",
-                  "scope": "ambiguous"
-                }
-              ],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": [
-                {
-                  "id": "15339",
-                  "label": "a",
-                  "text": "Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)",
-                  "requirement_path": "8.option-c.3-4.a",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
-                  "scoped_clauses": [],
-                  "content": [
+                  "sub_requirements": [
                     {
-                      "type": "text",
-                      "value": "Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)"
-                    }
-                  ],
-                  "resources": [],
-                  "sub_requirements": []
-                },
-                {
-                  "id": "15340",
-                  "label": "b",
-                  "text": "Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas.",
-                  "requirement_path": "8.option-c.3-4.b",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
-                  "scoped_clauses": [],
-                  "content": [
-                    {
-                      "type": "text",
-                      "value": "Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas."
-                    }
-                  ],
-                  "resources": [
-                    {
-                      "title": "Tree Identification | Ask the Arborist (video)",
-                      "url": "https://youtu.be/7M4PUM_eIIQ"
-                    }
-                  ],
-                  "sub_requirements": []
-                },
-                {
-                  "id": "15341",
-                  "label": "c",
-                  "text": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) and all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot.\nNote: If individual plants like ferns, grasses, and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot.",
-                  "requirement_path": "8.option-c.3-4.c",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
-                  "scoped_clauses": [],
-                  "content": [
-                    {
-                      "type": "text",
-                      "value": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) and all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot. "
-                    },
-                    {
-                      "type": "element",
-                      "tag": "br",
-                      "attrs": {},
-                      "children": []
-                    },
-                    {
-                      "type": "element",
-                      "tag": "b",
-                      "attrs": {},
-                      "children": [
+                      "id": "15342",
+                      "label": "1",
+                      "text": "Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1.",
+                      "requirement_path": "8.option-c.6.c.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
                         {
                           "type": "text",
-                          "value": "Note:"
+                          "value": "Visit two sites, at least one of which is different from the one you visited for Field Botany requirement 1."
                         }
-                      ]
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
                     },
                     {
-                      "type": "text",
-                      "value": " If individual plants like ferns, grasses, and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot."
+                      "id": "15343",
+                      "label": "2",
+                      "text": "Mark off nested plots and inventory two different kinds of plant communities.",
+                      "requirement_path": "8.option-c.6.c.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Mark off nested plots and inventory two different kinds of plant communities."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15338",
+                      "label": "3",
+                      "text": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies.",
+                      "requirement_path": "8.option-c.6.c.3",
+                      "node_kind": "action_requirement",
+                      "is_container": true,
+                      "requires_response": true,
+                      "scoped_clauses": [
+                        {
+                          "text": "At each site, record observations about the soil and other influencing factors AND do the following.",
+                          "scope": "ambiguous"
+                        }
+                      ],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "At each site, record observations about the soil and other influencing factors AND do the following. Then make a graph or chart to show the results of your studies."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": [
+                        {
+                          "id": "15339",
+                          "label": "a",
+                          "text": "Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)",
+                          "requirement_path": "8.option-c.6.c.3.a",
+                          "node_kind": "action_requirement",
+                          "is_container": false,
+                          "requires_response": true,
+                          "scoped_clauses": [],
+                          "content": [
+                            {
+                              "type": "text",
+                              "value": "Identify, measure, and map each tree in a 100-by-100-foot plot. (Measure the diameter of each tree larger than 3 inches in diameter at 4½ feet above the ground.)"
+                            }
+                          ],
+                          "resources": [],
+                          "sub_requirements": []
+                        },
+                        {
+                          "id": "15340",
+                          "label": "b",
+                          "text": "Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas.",
+                          "requirement_path": "8.option-c.6.c.3.b",
+                          "node_kind": "action_requirement",
+                          "is_container": false,
+                          "requires_response": true,
+                          "scoped_clauses": [],
+                          "content": [
+                            {
+                              "type": "text",
+                              "value": "Identify and count all trees and shrubs in a 10-by-10-foot plot within each of the larger areas."
+                            }
+                          ],
+                          "resources": [
+                            {
+                              "title": "Tree Identification | Ask the Arborist (video)",
+                              "url": "https://youtu.be/7M4PUM_eIIQ"
+                            }
+                          ],
+                          "sub_requirements": []
+                        },
+                        {
+                          "id": "15341",
+                          "label": "c",
+                          "text": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) and all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot.\nNote: If individual plants like ferns, grasses, and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot.",
+                          "requirement_path": "8.option-c.6.c.3.c",
+                          "node_kind": "action_requirement",
+                          "is_container": false,
+                          "requires_response": true,
+                          "scoped_clauses": [],
+                          "content": [
+                            {
+                              "type": "text",
+                              "value": "Identify and count all broad-leaved plants (trees, shrubs, vines, and herbaceous plants) and all plants (wildflowers, ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within the 10-by-10-foot plot. "
+                            },
+                            {
+                              "type": "element",
+                              "tag": "br",
+                              "attrs": {},
+                              "children": []
+                            },
+                            {
+                              "type": "element",
+                              "tag": "b",
+                              "attrs": {},
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "value": "Note:"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "value": " If individual plants like ferns, grasses, and mosses cannot be clearly distinguished, make a reasonable estimate of area (square inches of cover) for each species and record that as an estimate within the 4 x 4 subplot."
+                            }
+                          ],
+                          "resources": [],
+                          "sub_requirements": []
+                        }
+                      ]
                     }
-                  ],
-                  "resources": [],
-                  "sub_requirements": []
+                  ]
                 },
                 {
                   "id": "15344",
                   "label": "d",
                   "text": "Herbarium Visit",
-                  "requirement_path": "8.option-c.3-4.d",
-                  "node_kind": "action_requirement",
-                  "is_container": false,
-                  "requires_response": true,
+                  "requirement_path": "8.option-c.6.d",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
                   "scoped_clauses": [],
                   "content": [
                     {
@@ -2422,175 +2446,177 @@
                     }
                   ],
                   "resources": [],
-                  "sub_requirements": []
-                }
-              ]
-            },
-            {
-              "id": "15345",
-              "label": "1",
-              "text": "Write ahead and arrange to visit an herbarium at a university, park, or botanical garden; OR, visit an herbarium website (with your parent or guardian's permission).",
-              "requirement_path": "8.option-c.1-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Write ahead and arrange to visit an herbarium at a university, park, or botanical garden; OR, visit an herbarium website (with your parent or guardian's permission)."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "What Is a Herbarium? The Scientific and Historical Treasures of the Cambridge University Herbarium (video)",
-                  "url": "https://youtu.be/wQkEYZAlnGw?si=LnLjPuh2pyMQpdAF"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15346",
-              "label": "2",
-              "text": "Tell how the specimens are arranged and how they are used by researchers. If possible, observe voucher specimens of a plant that is rare in your state.",
-              "requirement_path": "8.option-c.2-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell how the specimens are arranged and how they are used by researchers. If possible, observe voucher specimens of a plant that is rare in your state."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15347",
-              "label": "3",
-              "text": "Tell how a voucher specimen is mounted and prepared for permanent storage. Tell how specimens should be handled so that they will not be damaged.",
-              "requirement_path": "8.option-c.3-5",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell how a voucher specimen is mounted and prepared for permanent storage. Tell how specimens should be handled so that they will not be damaged."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "Pressing Plants for Herbarium Study (video)",
-                  "url": "https://youtu.be/zEevM61u4Ew"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15348",
-              "label": "4",
-              "text": "Tell about the tools and references used by botanists in an herbarium.",
-              "requirement_path": "8.option-c.4-3",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell about the tools and references used by botanists in an herbarium."
-                }
-              ],
-              "resources": [
-                {
-                  "title": "How Herbarium Specimens Are Prepared at the Cambridge University Herbarium (video)",
-                  "url": "https://youtu.be/fpfmfTZV4G4?si=W6olcrOUEL6u1VTA"
-                }
-              ],
-              "sub_requirements": []
-            },
-            {
-              "id": "15349",
-              "label": "e",
-              "text": "Plant Conservation Organization Visit",
-              "requirement_path": "8.option-c.e",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "element",
-                  "tag": "b",
-                  "attrs": {},
-                  "children": [
+                  "sub_requirements": [
                     {
-                      "type": "text",
-                      "value": "Plant Conservation Organization Visit"
+                      "id": "15345",
+                      "label": "1",
+                      "text": "Write ahead and arrange to visit an herbarium at a university, park, or botanical garden; OR, visit an herbarium website (with your parent or guardian's permission).",
+                      "requirement_path": "8.option-c.6.d.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Write ahead and arrange to visit an herbarium at a university, park, or botanical garden; OR, visit an herbarium website (with your parent or guardian's permission)."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "What Is a Herbarium? The Scientific and Historical Treasures of the Cambridge University Herbarium (video)",
+                          "url": "https://youtu.be/wQkEYZAlnGw?si=LnLjPuh2pyMQpdAF"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15346",
+                      "label": "2",
+                      "text": "Tell how the specimens are arranged and how they are used by researchers. If possible, observe voucher specimens of a plant that is rare in your state.",
+                      "requirement_path": "8.option-c.6.d.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell how the specimens are arranged and how they are used by researchers. If possible, observe voucher specimens of a plant that is rare in your state."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15347",
+                      "label": "3",
+                      "text": "Tell how a voucher specimen is mounted and prepared for permanent storage. Tell how specimens should be handled so that they will not be damaged.",
+                      "requirement_path": "8.option-c.6.d.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell how a voucher specimen is mounted and prepared for permanent storage. Tell how specimens should be handled so that they will not be damaged."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "Pressing Plants for Herbarium Study (video)",
+                          "url": "https://youtu.be/zEevM61u4Ew"
+                        }
+                      ],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15348",
+                      "label": "4",
+                      "text": "Tell about the tools and references used by botanists in an herbarium.",
+                      "requirement_path": "8.option-c.6.d.4",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell about the tools and references used by botanists in an herbarium."
+                        }
+                      ],
+                      "resources": [
+                        {
+                          "title": "How Herbarium Specimens Are Prepared at the Cambridge University Herbarium (video)",
+                          "url": "https://youtu.be/fpfmfTZV4G4?si=W6olcrOUEL6u1VTA"
+                        }
+                      ],
+                      "sub_requirements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "15349",
+                  "label": "e",
+                  "text": "Plant Conservation Organization Visit",
+                  "requirement_path": "8.option-c.6.e",
+                  "node_kind": "option_container",
+                  "is_container": true,
+                  "requires_response": false,
+                  "scoped_clauses": [],
+                  "content": [
+                    {
+                      "type": "element",
+                      "tag": "b",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Plant Conservation Organization Visit"
+                        }
+                      ]
+                    }
+                  ],
+                  "resources": [],
+                  "sub_requirements": [
+                    {
+                      "id": "15350",
+                      "label": "1",
+                      "text": "Write ahead and arrange to visit a private conservation organization or government agency that is concerned with protecting rare plants and natural areas.",
+                      "requirement_path": "8.option-c.6.e.1",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Write ahead and arrange to visit a private conservation organization or government agency that is concerned with protecting rare plants and natural areas."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15351",
+                      "label": "2",
+                      "text": "Tell about the activities of the organization in studying and protecting rare plants and natural areas.",
+                      "requirement_path": "8.option-c.6.e.2",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Tell about the activities of the organization in studying and protecting rare plants and natural areas."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
+                    },
+                    {
+                      "id": "15352",
+                      "label": "3",
+                      "text": "If possible, visit a nature preserve managed by the organization. Tell about land management practices such as controlled burning, or measures to eradicate invasive (non-native) plants or other threats to the plants that are native to the area.",
+                      "requirement_path": "8.option-c.6.e.3",
+                      "node_kind": "action_requirement",
+                      "is_container": false,
+                      "requires_response": true,
+                      "scoped_clauses": [],
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "If possible, visit a nature preserve managed by the organization. Tell about land management practices such as controlled burning, or measures to eradicate invasive (non-native) plants or other threats to the plants that are native to the area."
+                        }
+                      ],
+                      "resources": [],
+                      "sub_requirements": []
                     }
                   ]
                 }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15350",
-              "label": "1",
-              "text": "Write ahead and arrange to visit a private conservation organization or government agency that is concerned with protecting rare plants and natural areas.",
-              "requirement_path": "8.option-c.1-6",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Write ahead and arrange to visit a private conservation organization or government agency that is concerned with protecting rare plants and natural areas."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15351",
-              "label": "2",
-              "text": "Tell about the activities of the organization in studying and protecting rare plants and natural areas.",
-              "requirement_path": "8.option-c.2-6",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "Tell about the activities of the organization in studying and protecting rare plants and natural areas."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
-            },
-            {
-              "id": "15352",
-              "label": "3",
-              "text": "If possible, visit a nature preserve managed by the organization. Tell about land management practices such as controlled burning, or measures to eradicate invasive (non-native) plants or other threats to the plants that are native to the area.",
-              "requirement_path": "8.option-c.3-6",
-              "node_kind": "action_requirement",
-              "is_container": false,
-              "requires_response": true,
-              "scoped_clauses": [],
-              "content": [
-                {
-                  "type": "text",
-                  "value": "If possible, visit a nature preserve managed by the organization. Tell about land management practices such as controlled burning, or measures to eradicate invasive (non-native) plants or other threats to the plants that are native to the area."
-                }
-              ],
-              "resources": [],
-              "sub_requirements": []
+              ]
             }
           ]
         }

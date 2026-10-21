@@ -56,6 +56,7 @@ class SemanticRequirement(BaseModel):
     # Reparenting changes the tree shape but must not turn its action owner into
     # a shape-classified instruction container. Private state is not archived.
     _owns_repaired_numbered_list: bool = PrivateAttr(default=False)
+    _is_governed_option: bool = PrivateAttr(default=False)
 
 
 RawElementNode.model_rebuild()
@@ -115,11 +116,30 @@ class HtmlExtractor:
     def _parse_children_list(self, list_tag: Optional[Tag]) -> List[RawRequirementItem]:
         if not list_tag:
             return []
+        tags = list_tag.find_all("li", class_="mb-requirement-child", recursive=False)
+        items = [self._parse_child_item(tag) for tag in tags]
+        by_id = {item.id: (index, item) for index, item in enumerate(items) if item.id}
         children = []
-        for child in list_tag.find_all(
-            "li", class_="mb-requirement-child", recursive=False
-        ):
-            children.append(self._parse_child_item(child))
+        # WordPress emits deeply nested requirements as flat li siblings with
+        # explicit parent IDs. Prefer those links to label-based inference.
+        for index, (tag, item) in enumerate(zip(tags, items)):
+            parent_id = next(
+                (
+                    match.group(1)
+                    for value in tag.get("class", [])
+                    if (match := re.fullmatch(r"mb-parent-(\d+)", value))
+                ),
+                None,
+            )
+            parent_entry = by_id.get(parent_id)
+            if parent_entry is not None:
+                # Only earlier siblings can own a following flat list item;
+                # malformed forward references cannot introduce cycles.
+                parent_index, parent = parent_entry
+                if parent_index < index:
+                    parent.sub_requirements.append(item)
+                    continue
+            children.append(item)
         return children
 
     def _parse_child_item(self, item_tag: Tag) -> RawRequirementItem:
@@ -190,7 +210,7 @@ class SemanticProcessor:
     RESOURCE_LABEL_RE = re.compile(r"^\s*resources?:\s*$", re.IGNORECASE)
     INLINE_SPACE_TAGS = {"a", "b", "em", "i", "strong"}
     RESOURCE_LABEL_TAGS = {"b", "em", "i", "span", "strong"}
-    TEXT_LABEL_RE = re.compile(r"^\s*(\([A-Za-z0-9]+\)|[A-Za-z0-9]+[.)]+)\s*")
+    TEXT_LABEL_RE = re.compile(r"^\s*((?:\([A-Za-z0-9]+\))+|[A-Za-z0-9]+[.)]+)\s*")
     INLINE_LABEL_RE = re.compile(r"(\([a-z]\)|\([0-9]+\))\s+")
     OPTION_PREFIX_RE = re.compile(r"^\s*Option\s+([A-Za-z0-9]+)\b", re.IGNORECASE)
     EXCLUDED_NOTE_RE = re.compile(
@@ -347,6 +367,10 @@ class SemanticProcessor:
 
     def _normalize_label(self, label: str) -> Optional[str]:
         cleaned = label.strip()
+        # A compound source label repeats its parent's number: (5)(a).
+        compound = re.fullmatch(r"(?:\([A-Za-z0-9]+\)){2,}", cleaned)
+        if compound:
+            return re.findall(r"\(([A-Za-z0-9]+)\)", cleaned)[-1]
         if not cleaned:
             return None
         if cleaned.startswith("(") and cleaned.endswith(")"):
@@ -404,6 +428,8 @@ class SemanticProcessor:
             return node, False, False
 
         if isinstance(node, RawElementNode):
+            if node.tag == "br" and not in_resources:
+                return node, False, False
             if not in_resources and self._is_resource_label_node(node):
                 return None, True, True
 
@@ -621,7 +647,7 @@ class SemanticProcessor:
                 return [requirement]
             split_requirements.append(
                 SemanticRequirement(
-                    id=normalized_label,
+                    id=requirement.id if index == 0 else normalized_label,
                     label=normalized_label,
                     content=self._normalize_text(content),
                     resources=requirement.resources if index == 0 else [],
@@ -653,7 +679,7 @@ class SemanticProcessor:
             nonlocal current_label, current_nodes, seen_label, found_inline_label
             if seen_label and current_label is not None:
                 segments.append((current_label, current_nodes))
-            current_label = label
+            current_label = self._normalize_label(label)
             current_nodes = []
             seen_label = True
             found_inline_label = True
@@ -1064,6 +1090,14 @@ class SemanticProcessor:
             requirement.node_kind = self._classify_requirement(requirement)
             requirement.scoped_clauses = self._infer_scoped_clauses(requirement)
             self._apply_scoped_clause_semantics(requirement)
+            if re.search(
+                r"\bONE\b.*\b(?:options?|alternatives?)\b", requirement.text, re.I
+            ):
+                for child in requirement.sub_requirements:
+                    if child.sub_requirements and self._is_section_heading_requirement(
+                        child
+                    ):
+                        child._is_governed_option = True
             self._annotate_requirements(
                 requirement.sub_requirements, requirement.requirement_path
             )
@@ -1157,6 +1191,8 @@ class SemanticProcessor:
         return "action_requirement"
 
     def _is_option_container_candidate(self, requirement: SemanticRequirement) -> bool:
+        if requirement._is_governed_option:
+            return True
         text = self._clean_plain_text(self._plain_text(requirement.content))
         if not self.OPTION_PREFIX_RE.match(text):
             return False
@@ -1203,6 +1239,12 @@ class SemanticProcessor:
         return self._is_standalone_list_instruction(text)
 
     def _is_standalone_list_instruction(self, text: str) -> bool:
+        if re.fullmatch(
+            r"Do ALL of the requirements in ONE of the following alternatives:",
+            text,
+            re.IGNORECASE,
+        ):
+            return True
         return bool(
             re.fullmatch(
                 r"(?:[A-Z][A-Za-z0-9 ,&/'-]{1,80}\.\s*)?"

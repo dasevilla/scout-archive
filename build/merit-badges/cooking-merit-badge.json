@@ -259,18 +259,29 @@
       "resources": [],
       "sub_requirements": [
         {
-          "id": "a",
+          "id": "12839",
           "label": "a",
           "text": "Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:",
           "requirement_path": "2.a",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
-          "scoped_clauses": [],
+          "scoped_clauses": [
+            {
+              "text": "Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
-              "value": "Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:"
+              "value": "Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size: "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
             }
           ],
           "resources": [
@@ -279,25 +290,128 @@
               "url": "https://www.myplate.gov/eat-healthy/what-is-myplate"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "1",
-          "label": "1",
-          "text": "Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy",
-          "requirement_path": "2.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy"
+              "id": "1",
+              "label": "1",
+              "text": "Fruits",
+              "requirement_path": "2.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Fruits"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Vegetables",
+              "requirement_path": "2.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Vegetables"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Grains",
+              "requirement_path": "2.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Grains"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Proteins",
+              "requirement_path": "2.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Proteins"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Dairy",
+              "requirement_path": "2.a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Dairy"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "12840",
@@ -531,14 +645,14 @@
     {
       "id": "12849",
       "label": "4",
-      "text": "Cooking at Home. Do the following: Note: The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.",
+      "text": "Cooking at Home. Do the following:\nNote: The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.",
       "requirement_path": "4",
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
       "scoped_clauses": [
         {
-          "text": "Do the following: Note: The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively.",
+          "text": "Do the following:\nNote: The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively.",
           "scope": "children"
         }
       ],
@@ -557,6 +671,18 @@
         {
           "type": "text",
           "value": " Do the following: "
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
         },
         {
           "type": "element",

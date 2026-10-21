@@ -32,7 +32,9 @@ Requirement object (semantic tree):
   stable identifier.
 - `label` (string | null): Normalized display label (e.g., `"1"`, `"a"`).
 - `text` (string): Flattened plain-text content for display, search, and
-  downstream renderers. This excludes child requirement text and resource links.
+  downstream renderers. This excludes child requirement text and separately
+  labeled resource sections. Embedded citations that form part of an instruction
+  retain their titles in the prose and are also indexed in `resources`.
 - `requirement_path` (string): Stable best-effort semantic path derived from
   the visible hierarchy (e.g., `"1"`, `"1.a"`, `"2.option-a.3.b"`).
 - `node_kind` (string): One of `"action_requirement"`,
@@ -56,6 +58,25 @@ Resource object:
 
 - `title` (string)
 - `url` (string)
+- `type` (string): `website`, `video`, `document`, or `survey`. Types use explicit
+  source labels where available, recognized video hosts and document extensions,
+  and otherwise default to `website`. Titles and destinations retain the source
+  wording and URLs. Older archives omit this additive field.
+
+Resource extraction recognizes both formatted markers and plain `Resources:`
+markers joined to requirement prose. It keeps subsequent instruction text and
+does not replace official wording with generated explanations.
+
+Test Lab pages place their **Go to Survey** button outside the requirement
+text-editor widgets. That link is attached to the requirement that says to
+complete the survey, with `type: "survey"`. As verified on October 21, 2026,
+Auctioneering, Physics, Psychology, Sewing & Needlework, and Dance link to the
+same external Qualtrics form. The source still says "below"; the archive preserves
+that wording. The survey is an external interactive resource rather than missing
+inline questions. Its complete questions and branching flow are not archived,
+and the linked service may change or close independently of the requirements.
+Consumers that omit structured resources must provide their own way to access
+this required external activity.
 
 Scoped clause object:
 

@@ -24,6 +24,15 @@ Validate the merit badge archive:
 make validate-merit-badges
 ```
 
+Validation warns about identical sibling leaf instructions, including exports
+that still contain inline resource titles. These warnings request source review;
+they do not change or remove official wording. The [duplicate-content source
+evidence](tests/fixtures/duplicate-content/provenance.json) records the Athletics
+`5.option-g.2.e`/`.f` and Insect Study `9.a`/`.b` issues verified on the official
+pages on October 21, 2026. Both remain upstream-source issues pending an official
+correction. Complete requirement HTML fixtures and release text/hierarchy
+snapshots accompany the evidence for offline regression testing.
+
 Generate the merit badge index file:
 
 ```shell

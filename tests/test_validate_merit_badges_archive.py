@@ -2,6 +2,7 @@ import importlib.util
 import json
 import tempfile
 import unittest
+from copy import deepcopy
 from pathlib import Path
 
 
@@ -53,6 +54,52 @@ def badge(requirements: list[dict]) -> dict:
 
 
 class ValidateMeritBadgesArchiveTest(unittest.TestCase):
+    def test_duplicate_sibling_warning_preserves_content(self) -> None:
+        first = requirement("a")
+        first["text"] = "Explain the career. Resources: Career video"
+        second = requirement("b")
+        second["text"] = "Explain\n the career."
+        second["resources"] = [{"title": "Hobby video", "url": "https://example.org"}]
+        requirements = [first, second]
+        original = deepcopy(requirements)
+        warnings: list[str] = []
+
+        validate_merit_badges_archive._validate_duplicate_sibling_text(
+            requirements, "requirements", warnings
+        )
+
+        self.assertEqual(requirements, original)
+        self.assertEqual(len(warnings), 1)
+        self.assertIn("b duplicates sibling requirement text at a", warnings[0])
+
+    def test_duplicate_check_skips_containers_empty_and_invalid_text(self) -> None:
+        container = requirement("a")
+        container["sub_requirements"] = [requirement("1")]
+        leaf = requirement("b")
+        leaf["text"] = container["text"]
+        warnings: list[str] = []
+
+        validate_merit_badges_archive._validate_duplicate_sibling_text(
+            [container, leaf, {}, {"text": ""}, {"text": None}, None],
+            "requirements",
+            warnings,
+        )
+
+        self.assertEqual(warnings, [])
+
+    def test_distinct_instructions_and_different_parents_do_not_warn(self) -> None:
+        first = requirement("1")
+        first["sub_requirements"] = [requirement("a")]
+        second = requirement("2")
+        second["sub_requirements"] = [requirement("a")]
+        warnings: list[str] = []
+
+        validate_merit_badges_archive._validate_requirement_tree(
+            [first, second], "requirements", [], warnings
+        )
+
+        self.assertFalse(any("duplicates sibling" in warning for warning in warnings))
+
     def test_empty_lab_record_is_still_rejected(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
             file_path = Path(tmpdir) / "expired-content-merit-badge.json"

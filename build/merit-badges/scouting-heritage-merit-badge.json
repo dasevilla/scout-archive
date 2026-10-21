@@ -29,7 +29,8 @@
       "resources": [
         {
           "title": "Baden Powell - Father of Scouting, Origins of Scouting (video)",
-          "url": "https://youtu.be/tn9S4qB-fdw"
+          "url": "https://youtu.be/tn9S4qB-fdw",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -96,7 +97,8 @@
               "resources": [
                 {
                   "title": "Daniel Carter Beard - BSA Founder (video)",
-                  "url": "https://www.youtube.com/watch?v=GIaIyxfuLCQ&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=2"
+                  "url": "https://www.youtube.com/watch?v=GIaIyxfuLCQ&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=2",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -137,7 +139,8 @@
               "resources": [
                 {
                   "title": "Waite Phillips - BSA Benefactor and Donor of Philmont (video)",
-                  "url": "https://youtu.be/QiKK97PQ7Us"
+                  "url": "https://youtu.be/QiKK97PQ7Us",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -160,7 +163,8 @@
               "resources": [
                 {
                   "title": "Ernest Thompson Seton - BSA Founder (video)",
-                  "url": "https://youtu.be/-azpLxf8wpA?si=tiMSbrOyFEHx0L9u"
+                  "url": "https://youtu.be/-azpLxf8wpA?si=tiMSbrOyFEHx0L9u",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -183,7 +187,8 @@
               "resources": [
                 {
                   "title": "James E. West - BSA Founder (video)",
-                  "url": "https://youtu.be/cpIpdHl4cug"
+                  "url": "https://youtu.be/cpIpdHl4cug",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -206,7 +211,8 @@
               "resources": [
                 {
                   "title": "Green Bar Bill Hillcourt Biography (video)",
-                  "url": "https://www.youtube.com/watch?v=ZJofraVDGuA"
+                  "url": "https://www.youtube.com/watch?v=ZJofraVDGuA",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -229,7 +235,8 @@
               "resources": [
                 {
                   "title": "Frederick Russell Burnham and B–P's Campaign Hat (video)",
-                  "url": "https://youtu.be/YeCxTplW-Fc"
+                  "url": "https://youtu.be/YeCxTplW-Fc",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -252,7 +259,8 @@
               "resources": [
                 {
                   "title": "Dr. Charles Eastman (video)",
-                  "url": "https://www.youtube.com/watch?v=xzW4DLLuLoc"
+                  "url": "https://www.youtube.com/watch?v=xzW4DLLuLoc",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -275,7 +283,8 @@
               "resources": [
                 {
                   "title": "Edgar Robinson (video)",
-                  "url": "https://www.youtube.com/watch?v=PuIILshyM2k"
+                  "url": "https://www.youtube.com/watch?v=PuIILshyM2k",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -322,7 +331,8 @@
               "resources": [
                 {
                   "title": "Artifact of the Week - Brownsea Island (video)",
-                  "url": "https://www.youtube.com/watch?v=HWPZkK5YL2k"
+                  "url": "https://www.youtube.com/watch?v=HWPZkK5YL2k",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -345,11 +355,13 @@
               "resources": [
                 {
                   "title": "Artifact of the Week - World Scout Jamborees Part 01 (video)",
-                  "url": "https://www.youtube.com/watch?v=8p-SalnhA4Q"
+                  "url": "https://www.youtube.com/watch?v=8p-SalnhA4Q",
+                  "type": "video"
                 },
                 {
                   "title": "Artifact of the Week - World Scout Jamborees Part 02 (video)",
-                  "url": "https://www.youtube.com/watch?v=JjdgmAKqUS4"
+                  "url": "https://www.youtube.com/watch?v=JjdgmAKqUS4",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -379,11 +391,13 @@
               "resources": [
                 {
                   "title": "NSM History of the Scout Handbook (video)",
-                  "url": "https://youtu.be/X2njF0Sv5q8"
+                  "url": "https://youtu.be/X2njF0Sv5q8",
+                  "type": "video"
                 },
                 {
                   "title": "Artifact of the Week - First Scout Handbook (video)",
-                  "url": "https://youtu.be/JaGjYXkcyLU"
+                  "url": "https://youtu.be/JaGjYXkcyLU",
+                  "type": "video"
                 }
               ],
               "sub_requirements": []
@@ -391,7 +405,7 @@
             {
               "id": "15648",
               "label": "4",
-              "text": "Scout Life magazine (formerly Boys' Life) Resources: Artifact of the Week—Boys' Life to Scout Life (video)\nThe Story of Boys' Life /Scout Life (video)",
+              "text": "Scout Life magazine (formerly Boys' Life)",
               "requirement_path": "2.b.4",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -426,106 +440,21 @@
                 },
                 {
                   "type": "text",
-                  "value": ") Resources: "
-                },
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/R55NMMY21TM"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Artifact of the Week—"
-                    },
-                    {
-                      "type": "element",
-                      "tag": "em",
-                      "attrs": {},
-                      "children": [
-                        {
-                          "type": "text",
-                          "value": "Boys' Life"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "value": " to "
-                    },
-                    {
-                      "type": "element",
-                      "tag": "em",
-                      "attrs": {},
-                      "children": [
-                        {
-                          "type": "text",
-                          "value": "Scout Life"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "value": " (video)"
-                    }
-                  ]
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                },
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://youtu.be/OIyZwBnlF5c"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "The Story of "
-                    },
-                    {
-                      "type": "element",
-                      "tag": "em",
-                      "attrs": {},
-                      "children": [
-                        {
-                          "type": "text",
-                          "value": "Boys' Life"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "value": " /"
-                    },
-                    {
-                      "type": "element",
-                      "tag": "em",
-                      "attrs": {},
-                      "children": [
-                        {
-                          "type": "text",
-                          "value": "Scout Life"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "value": " (video)"
-                    }
-                  ]
+                  "value": ")"
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "Artifact of the Week—Boys' Life to Scout Life (video)",
+                  "url": "https://youtu.be/R55NMMY21TM",
+                  "type": "video"
+                },
+                {
+                  "title": "The Story of Boys' Life/Scout Life (video)",
+                  "url": "https://youtu.be/OIyZwBnlF5c",
+                  "type": "video"
+                }
+              ],
               "sub_requirements": []
             }
           ]
@@ -550,23 +479,28 @@
       "resources": [
         {
           "title": "Scouting History Timeline (video)",
-          "url": "https://youtu.be/33Qn5-chofk"
+          "url": "https://youtu.be/33Qn5-chofk",
+          "type": "video"
         },
         {
           "title": "Artifact of the Week—Development of Cub Scouting (video)",
-          "url": "https://youtu.be/p8DUnLSK3Zo"
+          "url": "https://youtu.be/p8DUnLSK3Zo",
+          "type": "video"
         },
         {
           "title": "Artifact of the Week—Sea  Scouts (video)",
-          "url": "https://youtu.be/FxKOogN-oiU"
+          "url": "https://youtu.be/FxKOogN-oiU",
+          "type": "video"
         },
         {
           "title": "About Exploring (website)",
-          "url": "https://www.exploring.org/about-us/"
+          "url": "https://www.exploring.org/about-us/",
+          "type": "website"
         },
         {
           "title": "History of Venturing (website)",
-          "url": "https://www.scouting.org/programs/venturing/about-venturing/history"
+          "url": "https://www.scouting.org/programs/venturing/about-venturing/history",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -611,11 +545,13 @@
           "resources": [
             {
               "title": "100 Years of the World Scout Jamboree (video)",
-              "url": "https://youtu.be/cpbtEAtIlWc?si=T4QAeuUnWo_uy9PT"
+              "url": "https://youtu.be/cpbtEAtIlWc?si=T4QAeuUnWo_uy9PT",
+              "type": "video"
             },
             {
               "title": "Scouting America High Adventure Overview (video)",
-              "url": "https://youtu.be/EbC5b5dyBo0?si=0iu96JjlTcPaVrjq"
+              "url": "https://youtu.be/EbC5b5dyBo0?si=0iu96JjlTcPaVrjq",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -638,11 +574,13 @@
           "resources": [
             {
               "title": "National Scouting Museum at Summit Bechtel Reserve Virtual Tour (video)",
-              "url": "https://www.youtube.com/watch?v=QU8IcMvygmc&list=PLeqxtqwBBzS_SXfxztRYSvmUzirJSZ1SU&index=8"
+              "url": "https://www.youtube.com/watch?v=QU8IcMvygmc&list=PLeqxtqwBBzS_SXfxztRYSvmUzirJSZ1SU&index=8",
+              "type": "video"
             },
             {
               "title": "National Scouting Museum at Philmont Virtual Tour (website)",
-              "url": "https://www.philmontscoutranch.org/museums/national-scouting-museum-virtual-tour/"
+              "url": "https://www.philmontscoutranch.org/museums/national-scouting-museum-virtual-tour/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -665,7 +603,8 @@
           "resources": [
             {
               "title": "Interactive Scouting Museum Map (website)",
-              "url": "https://www.google.com/maps/d/u/0/viewer?mid=1shEPLaVDO3GPNW8-4HCVVdfUWFK1KKU&femb=1&ll=40.002876433582884%2C-96.50590200000002&z=4"
+              "url": "https://www.google.com/maps/d/u/0/viewer?mid=1shEPLaVDO3GPNW8-4HCVVdfUWFK1KKU&femb=1&ll=40.002876433582884%2C-96.50590200000002&z=4",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -723,11 +662,13 @@
       "resources": [
         {
           "title": "Scouting Memorabilia Collection - Philmont License Plates (video)",
-          "url": "https://www.youtube.com/watch?v=njI2Wb4sAEw&t=1s"
+          "url": "https://www.youtube.com/watch?v=njI2Wb4sAEw&t=1s",
+          "type": "video"
         },
         {
           "title": "Philmont Recognition Patches (video)",
-          "url": "https://www.youtube.com/watch?v=2u8drmz3T-s&t=7s"
+          "url": "https://www.youtube.com/watch?v=2u8drmz3T-s&t=7s",
+          "type": "video"
         }
       ],
       "sub_requirements": []
@@ -765,15 +706,18 @@
       "resources": [
         {
           "title": "Troop Games - Large Area (website)",
-          "url": "https://troopleader.scouting.org/activities/troop-games/troop-games-large-area/"
+          "url": "https://troopleader.scouting.org/activities/troop-games/troop-games-large-area/",
+          "type": "website"
         },
         {
           "title": "Troop Games - Small Space (website)",
-          "url": "https://troopleader.scouting.org/activities/troop-games/troop-games-small-space/"
+          "url": "https://troopleader.scouting.org/activities/troop-games/troop-games-small-space/",
+          "type": "website"
         },
         {
           "title": "Troop Games - Pre-Meeting (website)",
-          "url": "https://troopleader.scouting.org/activities/troop-games/pre-opening-gathering-period-activities/"
+          "url": "https://troopleader.scouting.org/activities/troop-games/pre-opening-gathering-period-activities/",
+          "type": "website"
         }
       ],
       "sub_requirements": []
@@ -847,7 +791,8 @@
           "resources": [
             {
               "title": "Become a Professional Scouter (website)",
-              "url": "https://www.scouting.org/careers/become-a-professional-scouter/"
+              "url": "https://www.scouting.org/careers/become-a-professional-scouter/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -870,7 +815,8 @@
           "resources": [
             {
               "title": "Why Do You Volunteer? (video)",
-              "url": "https://youtu.be/uJUwdk9xDKM?si=NkoLxlpy4bB1S-Y4"
+              "url": "https://youtu.be/uJUwdk9xDKM?si=NkoLxlpy4bB1S-Y4",
+              "type": "video"
             }
           ],
           "sub_requirements": []

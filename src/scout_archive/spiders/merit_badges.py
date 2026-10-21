@@ -9,6 +9,8 @@ from scout_archive.requirements_pipeline import (
     HtmlExtractor,
     LabRequirementsExtractor,
     MarkdownGenerator,
+    Resource,
+    SemanticRequirement,
     SemanticProcessor,
 )
 from scout_archive.settings import MIN_BADGE_COUNT
@@ -310,6 +312,7 @@ class MeritBadgesSpider(scrapy.Spider):
                 semantic_requirements = (
                     self._lab_requirements_extractor.extract_from_blocks(lab_blocks)
                 )
+                self._attach_lab_survey(response, semantic_requirements)
         else:
             requirements_html = response.css("div.mb-requirement-container").get()
             if not requirements_html:
@@ -327,6 +330,29 @@ class MeritBadgesSpider(scrapy.Spider):
         )
 
         yield item
+
+    def _attach_lab_survey(
+        self, response: scrapy.http.Response, requirements: list[SemanticRequirement]
+    ) -> None:
+        # Elementor places this button outside the requirement text-editor
+        # widgets. Keep the source's "below" wording and expose its destination.
+        survey_links = response.xpath(
+            "//a[@href][translate(normalize-space(string(.)), "
+            "'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz')='go to survey']"
+        )
+        for requirement in requirements:
+            if not re.search(
+                r"\bcomplete the survey\b", requirement.text, re.IGNORECASE
+            ):
+                continue
+            for link in survey_links:
+                resource = Resource(
+                    title=" ".join(link.xpath(".//text()").getall()).strip(),
+                    url=response.urljoin(link.attrib["href"]),
+                    type="survey",
+                )
+                if resource not in requirement.resources:
+                    requirement.resources.append(resource)
 
     def _extract_badge_name(self, response, is_lab=False):
         if is_lab:

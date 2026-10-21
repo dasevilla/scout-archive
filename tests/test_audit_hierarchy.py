@@ -130,6 +130,10 @@ class VisualAuditHierarchyTest(unittest.TestCase):
         )
         self.assertIn("minimum of 2 minutes", nodes["5.a"].text)
         self.assertIn("5 Elements of Dance", nodes["5.b"].text)
+        # Resource extraction must preserve the hobby alternative that follows
+        # career resource links within the same source list item.
+        self.assertEqual([n.label for n in nodes["6"].sub_requirements], ["a", "b"])
+        self.assertIn("pursue a hobby", nodes["6.b"].text)
 
     def test_sewing_preserves_six_crafts_and_every_lettered_prompt(self) -> None:
         nodes = {

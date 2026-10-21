@@ -114,11 +114,13 @@
           "resources": [
             {
               "title": "6 Campfire Cooking Mistakes to Avoid *Do This Instead* (video)",
-              "url": "https://youtu.be/mJvu1d-Y10I?si=tRd5StGLFOf7OlQX"
+              "url": "https://youtu.be/mJvu1d-Y10I?si=tRd5StGLFOf7OlQX",
+              "type": "video"
             },
             {
               "title": "5 Mistakes EVERY New Camper Makes COOKING (video)",
-              "url": "https://youtu.be/qBdJOYEvA0A?si=s7XfLMxdfBIC59xv"
+              "url": "https://youtu.be/qBdJOYEvA0A?si=s7XfLMxdfBIC59xv",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -141,11 +143,13 @@
           "resources": [
             {
               "title": "Food Allergy with Anaphylaxis (video)",
-              "url": "https://youtu.be/veHAMX6vukY"
+              "url": "https://youtu.be/veHAMX6vukY",
+              "type": "video"
             },
             {
               "title": "What To Do When an Adult Is Choking (Responsive) (video)",
-              "url": "https://youtu.be/8R3RWC-xx1I"
+              "url": "https://youtu.be/8R3RWC-xx1I",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -168,7 +172,8 @@
           "resources": [
             {
               "title": "Basic Food Safety: Avoiding Cross Contamination (video)",
-              "url": "https://youtu.be/yiNTqUU-h6w?si=vlMbmOnZnVFqYRTW"
+              "url": "https://youtu.be/yiNTqUU-h6w?si=vlMbmOnZnVFqYRTW",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -191,11 +196,13 @@
           "resources": [
             {
               "title": "Food Allergy Awareness (video)",
-              "url": "https://youtu.be/ZCiPJoIajV4?si=2Oqv-3UIA2XCgJ8m"
+              "url": "https://youtu.be/ZCiPJoIajV4?si=2Oqv-3UIA2XCgJ8m",
+              "type": "video"
             },
             {
               "title": "What's a Food Allergy—and What's Not? (video)",
-              "url": "https://youtu.be/8GxhiuN_bY0?si=5mU948QM9RzjOBw4"
+              "url": "https://youtu.be/8GxhiuN_bY0?si=5mU948QM9RzjOBw4",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -218,7 +225,8 @@
           "resources": [
             {
               "title": "10 Rules for Reading a Food Label (video)",
-              "url": "https://youtu.be/R-o-83k8dP0?si=67Y3d8V1j407TPAn"
+              "url": "https://youtu.be/R-o-83k8dP0?si=67Y3d8V1j407TPAn",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -259,45 +267,160 @@
       "resources": [],
       "sub_requirements": [
         {
-          "id": "a",
+          "id": "12839",
           "label": "a",
           "text": "Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:",
           "requirement_path": "2.a",
           "node_kind": "action_requirement",
-          "is_container": false,
+          "is_container": true,
           "requires_response": true,
-          "scoped_clauses": [],
+          "scoped_clauses": [
+            {
+              "text": "Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:",
+              "scope": "children"
+            }
+          ],
           "content": [
             {
               "type": "text",
-              "value": "Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:"
+              "value": "Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size: "
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
             }
           ],
           "resources": [
             {
               "title": "MyPlate Food Groups (website)",
-              "url": "https://www.myplate.gov/eat-healthy/what-is-myplate"
+              "url": "https://www.myplate.gov/eat-healthy/what-is-myplate",
+              "type": "website"
             }
           ],
-          "sub_requirements": []
-        },
-        {
-          "id": "1",
-          "label": "1",
-          "text": "Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy",
-          "requirement_path": "2.1",
-          "node_kind": "action_requirement",
-          "is_container": false,
-          "requires_response": true,
-          "scoped_clauses": [],
-          "content": [
+          "sub_requirements": [
             {
-              "type": "text",
-              "value": "Fruits (2) Vegetables (3) Grains (4) Proteins (5) Dairy"
+              "id": "1",
+              "label": "1",
+              "text": "Fruits",
+              "requirement_path": "2.a.1",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Fruits"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Vegetables",
+              "requirement_path": "2.a.2",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Vegetables"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Grains",
+              "requirement_path": "2.a.3",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Grains"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Proteins",
+              "requirement_path": "2.a.4",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Proteins"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Dairy",
+              "requirement_path": "2.a.5",
+              "node_kind": "action_requirement",
+              "is_container": false,
+              "requires_response": true,
+              "scoped_clauses": [],
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Dairy"
+                },
+                {
+                  "type": "element",
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                }
+              ],
+              "resources": [],
+              "sub_requirements": []
             }
-          ],
-          "resources": [],
-          "sub_requirements": []
+          ]
         },
         {
           "id": "12840",
@@ -317,7 +440,8 @@
           "resources": [
             {
               "title": "Tips for Limiting Sugar in Your Diet (video)",
-              "url": "https://youtu.be/rvEVY6SCEUg?si=rzAoy8sQR3eLK4QI"
+              "url": "https://youtu.be/rvEVY6SCEUg?si=rzAoy8sQR3eLK4QI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -340,7 +464,8 @@
           "resources": [
             {
               "title": "MyPlate Food Plan (website)",
-              "url": "https://www.myplate.gov/myplate-plan"
+              "url": "https://www.myplate.gov/myplate-plan",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -363,7 +488,8 @@
           "resources": [
             {
               "title": "Healthy Eating Tip Sheets (website)",
-              "url": "https://www.myplate.gov/myplate-tip-sheets"
+              "url": "https://www.myplate.gov/myplate-tip-sheets",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -386,7 +512,8 @@
           "resources": [
             {
               "title": "How to Read Food Labels (video)",
-              "url": "https://youtu.be/76g2wabvA-w?si=gUuXZXKcrK7HY4vZ"
+              "url": "https://youtu.be/76g2wabvA-w?si=gUuXZXKcrK7HY4vZ",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -444,15 +571,18 @@
           "resources": [
             {
               "title": "Types of Cooking Techniques, Cooking Methods (video)",
-              "url": "https://youtu.be/GE7FJU_9JsA?si=pahlJikaqGxsi8yK"
+              "url": "https://youtu.be/GE7FJU_9JsA?si=pahlJikaqGxsi8yK",
+              "type": "video"
             },
             {
               "title": "6 Tips to Master Foil Packet Cooking (video)",
-              "url": "https://youtu.be/HoZElsSBEPk?si=iBtzoe7NaEvwVTfa"
+              "url": "https://youtu.be/HoZElsSBEPk?si=iBtzoe7NaEvwVTfa",
+              "type": "video"
             },
             {
               "title": "Dutch Oven Basics for Beginners (video)",
-              "url": "https://youtu.be/9uP1mauAtuI?si=tD0sbJHF2nxcapP8"
+              "url": "https://youtu.be/9uP1mauAtuI?si=tD0sbJHF2nxcapP8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -475,7 +605,8 @@
           "resources": [
             {
               "title": "Camp Stove vs Campfires (website)",
-              "url": "https://hotashstove.com/blogs/news/camping-stoves-vs-campfires"
+              "url": "https://hotashstove.com/blogs/news/camping-stoves-vs-campfires",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -498,7 +629,8 @@
           "resources": [
             {
               "title": "Timing Your Meals (video)",
-              "url": "https://youtu.be/ED4Cm-xz-_k?si=sk-7jnMuLwLqFJyp"
+              "url": "https://youtu.be/ED4Cm-xz-_k?si=sk-7jnMuLwLqFJyp",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -521,7 +653,8 @@
           "resources": [
             {
               "title": "How Your Sense of Smell Helps You Savor Flavor (video)",
-              "url": "https://youtu.be/3NFTa9kTVRU?si=GXdAHD3F6vfyveN8"
+              "url": "https://youtu.be/3NFTa9kTVRU?si=GXdAHD3F6vfyveN8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -531,14 +664,14 @@
     {
       "id": "12849",
       "label": "4",
-      "text": "Cooking at Home. Do the following: Note: The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.",
+      "text": "Cooking at Home. Do the following:\nNote: The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.",
       "requirement_path": "4",
       "node_kind": "action_requirement",
       "is_container": true,
       "requires_response": true,
       "scoped_clauses": [
         {
-          "text": "Do the following: Note: The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively.",
+          "text": "Do the following:\nNote: The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively.",
           "scope": "children"
         }
       ],
@@ -560,6 +693,18 @@
         },
         {
           "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
           "tag": "b",
           "attrs": {},
           "children": [
@@ -577,7 +722,8 @@
       "resources": [
         {
           "title": "The Five Tastes (video)",
-          "url": "https://youtu.be/MZn2PMUWO-Y?si=DlM3rdYtgJGpJ5hB"
+          "url": "https://youtu.be/MZn2PMUWO-Y?si=DlM3rdYtgJGpJ5hB",
+          "type": "video"
         }
       ],
       "sub_requirements": [
@@ -599,7 +745,8 @@
           "resources": [
             {
               "title": "MyPlate Kitchen (website)",
-              "url": "https://www.myplate.gov/myplate-kitchen"
+              "url": "https://www.myplate.gov/myplate-kitchen",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -622,7 +769,8 @@
           "resources": [
             {
               "title": "MyPlate Kitchen (website)",
-              "url": "https://www.myplate.gov/myplate-kitchen"
+              "url": "https://www.myplate.gov/myplate-kitchen",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -645,7 +793,8 @@
           "resources": [
             {
               "title": "MyPlate Kitchen (website)",
-              "url": "https://www.myplate.gov/myplate-kitchen"
+              "url": "https://www.myplate.gov/myplate-kitchen",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -686,7 +835,8 @@
           "resources": [
             {
               "title": "Timing Your Meals (video)",
-              "url": "https://youtu.be/ED4Cm-xz-_k?si=sk-7jnMuLwLqFJyp"
+              "url": "https://youtu.be/ED4Cm-xz-_k?si=sk-7jnMuLwLqFJyp",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -762,7 +912,8 @@
           "resources": [
             {
               "title": "MyPlate Tools (website)",
-              "url": "https://www.myplate.gov/resources/tools"
+              "url": "https://www.myplate.gov/resources/tools",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -785,7 +936,8 @@
           "resources": [
             {
               "title": "MyPlate Tools (website)",
-              "url": "https://www.myplate.gov/resources/tools"
+              "url": "https://www.myplate.gov/resources/tools",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -826,19 +978,23 @@
           "resources": [
             {
               "title": "How to Use a Propane Stove (video)",
-              "url": "https://youtu.be/6il0aDjwSGI?si=IMrR6Ycu03lWzTtU"
+              "url": "https://youtu.be/6il0aDjwSGI?si=IMrR6Ycu03lWzTtU",
+              "type": "video"
             },
             {
               "title": "How to Use a Liquid Fuel Stove (video)",
-              "url": "https://youtu.be/2XRqdVIqimY?si=Wj7JsttaHkIADW9a"
+              "url": "https://youtu.be/2XRqdVIqimY?si=Wj7JsttaHkIADW9a",
+              "type": "video"
             },
             {
               "title": "6 Tips to Master Foil Packet Cooking (video)",
-              "url": "https://youtu.be/HoZElsSBEPk?si=iBtzoe7NaEvwVTfa"
+              "url": "https://youtu.be/HoZElsSBEPk?si=iBtzoe7NaEvwVTfa",
+              "type": "video"
             },
             {
               "title": "Dutch Oven Basics for Beginners (video)",
-              "url": "https://youtu.be/9uP1mauAtuI?si=tD0sbJHF2nxcapP8"
+              "url": "https://youtu.be/9uP1mauAtuI?si=tD0sbJHF2nxcapP8",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -897,7 +1053,8 @@
           "resources": [
             {
               "title": "How to Wash Dishes at Camp (video)",
-              "url": "https://youtu.be/4tNLdcjBlQc?si=u2FkF5Ct3KmmnRtj"
+              "url": "https://youtu.be/4tNLdcjBlQc?si=u2FkF5Ct3KmmnRtj",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -920,11 +1077,13 @@
           "resources": [
             {
               "title": "7 Principles of LNT (website)",
-              "url": "https://lnt.org/why/7-principles/"
+              "url": "https://lnt.org/why/7-principles/",
+              "type": "website"
             },
             {
               "title": "Outdoor Code (website)",
-              "url": "https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/"
+              "url": "https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -982,7 +1141,8 @@
           "resources": [
             {
               "title": "MyPlate Kitchen (website)",
-              "url": "https://www.myplate.gov/myplate-kitchen"
+              "url": "https://www.myplate.gov/myplate-kitchen",
+              "type": "website"
             }
           ],
           "sub_requirements": []
@@ -1023,7 +1183,8 @@
           "resources": [
             {
               "title": "Repackaging Food for Backpacking (video)",
-              "url": "https://youtu.be/r7hQE1zp0uk?si=LrlA2WaX3L5IMzMh"
+              "url": "https://youtu.be/r7hQE1zp0uk?si=LrlA2WaX3L5IMzMh",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1046,7 +1207,8 @@
           "resources": [
             {
               "title": "Lighting a Liquid Fuel Stove (video)",
-              "url": "https://youtu.be/2XRqdVIqimY?si=ZyyBNl0sWqmn5gKI"
+              "url": "https://youtu.be/2XRqdVIqimY?si=ZyyBNl0sWqmn5gKI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1087,7 +1249,8 @@
           "resources": [
             {
               "title": "Cleaning Up & Washing Dishes  (video)",
-              "url": "https://youtu.be/NNcu_Ujoiv4?si=_ihxT_zdA1-mfoJI"
+              "url": "https://youtu.be/NNcu_Ujoiv4?si=_ihxT_zdA1-mfoJI",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1145,15 +1308,18 @@
           "resources": [
             {
               "title": "13 Careers in the Food Industry (website)",
-              "url": "https://www.escoffier.edu/blog/culinary-pastry-careers/13-great-careers-in-the-food-industry/"
+              "url": "https://www.escoffier.edu/blog/culinary-pastry-careers/13-great-careers-in-the-food-industry/",
+              "type": "website"
             },
             {
               "title": "Exploring Culinary Career Paths: Popular Specializations and Opportunities (video)",
-              "url": "https://youtu.be/yZ966pNSB0w?si=Bz8cbvOk3e3JZ5o3"
+              "url": "https://youtu.be/yZ966pNSB0w?si=Bz8cbvOk3e3JZ5o3",
+              "type": "video"
             },
             {
               "title": "How to Become a Chocolatier (video)",
-              "url": "https://youtu.be/wIfmCuKRIk8?si=DlJe74iFtNVcdWxk"
+              "url": "https://youtu.be/wIfmCuKRIk8?si=DlJe74iFtNVcdWxk",
+              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -1176,11 +1342,13 @@
           "resources": [
             {
               "title": "Sharpen Your Cooking Skills and Improve Your Diet (and Even Your Social Life) (website)",
-              "url": "https://www.health.harvard.edu/blog/sharpen-cooking-skills-improve-diet-even-social-life-2017030311204"
+              "url": "https://www.health.harvard.edu/blog/sharpen-cooking-skills-improve-diet-even-social-life-2017030311204",
+              "type": "website"
             },
             {
               "title": "70 Cooking Hobbies: Discover Delicious Culinary Adventures (website)",
-              "url": "https://sometimes-homemade.com/cooking-hobbies/"
+              "url": "https://sometimes-homemade.com/cooking-hobbies/",
+              "type": "website"
             }
           ],
           "sub_requirements": []

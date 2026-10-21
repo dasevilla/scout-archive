@@ -43,7 +43,9 @@ def flatten(requirements: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
 
 
 class DuplicateSourceContentTest(unittest.TestCase):
-    def test_live_source_snapshots_preserve_release_text_and_hierarchy(self) -> None:
+    def test_live_source_snapshots_preserve_requirement_text_and_hierarchy(
+        self,
+    ) -> None:
         for record in json.loads((FIXTURES / "provenance.json").read_text()):
             with self.subTest(badge=record["badge"]):
                 raw = HtmlExtractor().extract(
@@ -52,6 +54,8 @@ class DuplicateSourceContentTest(unittest.TestCase):
                 requirements = [
                     node.model_dump() for node in SemanticProcessor().process(raw)
                 ]
+                # Resource titles now live in structured records; the snapshot
+                # compares official instruction prose and the complete tree.
                 expected = json.loads(
                     (FIXTURES / record["expected_text_hierarchy"]).read_text()
                 )

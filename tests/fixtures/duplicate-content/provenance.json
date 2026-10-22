@@ -42,6 +42,21 @@
       "13476"
     ],
     "blocker": "The official page must supply a distinct second choice if one is intended. The heading and beekeeping resource do not authorize replacing the repeated career paragraph with hobby instructions.",
-    "reproduction": "Fresh curl response and make archive-merit-badges-url export both reproduce the duplicate; Scrapy HTTP cache is disabled by default. Not an HTML-selection or semantic-normalization defect."
+    "reproduction": "Fresh curl response and make archive-merit-badges-url export both reproduce the duplicate; Scrapy HTTP cache is disabled by default. Not an HTML-selection or semantic-normalization defect.",
+    "release141_recheck": {
+      "observed_on": "2026-10-21",
+      "release": "archive-2026-10-21-141-1",
+      "archive_commit": "fc6447b4f009f0b210befd392c76ceddd4654881",
+      "full_response_sha256": "ea3b581cda3bc0d6d4853044e9344f51658ad5227a47cb9ac47b788359afe486",
+      "fixture_comparison": "Complete live mb-requirement-container matches insect-study.html after whitespace normalization; no fixture replacement needed.",
+      "heading": "Careers and Hobbies. Do ONE of the following:",
+      "parent_source_id": "13458",
+      "context": "Distinct li elements 13475 (a) and 13476 (b) both carry mb-parent-13458 under the same requirement item. Career prose is identical before extraction. The two entomologist resources belong to 9.a; the beekeeping resource belongs to 9.b.",
+      "pamphlet_url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Insect%20Study.pdf",
+      "pamphlet_sha256": "8ce2b577d23bb974ef3607bfd20d314dafe60d86624889b795c58f4c7895378f",
+      "pamphlet_evidence": "2026 Printing, PDF page 6 (printed page 4), Requirements: directs Scouts to scouting.org/merit-badges/insect-study or Scoutbook for latest requirements. Does not supply alternate hobby wording.",
+      "fresh_export": "make archive-merit-badges-url reproduces release141 JSON byte-for-byte. 9 top-level requirements, 33 total nodes, 39 structured requirement resources; 4.c has 4, 7.b has 2, 9.a has 2, 9.b has 1.",
+      "resolution": "Source-authored duplicate remains unresolved upstream. Preserve both official choices and their resources; validator warns that 9.b duplicates 9.a. Do not infer hobby wording from the heading or video."
+    }
   }
 ]

@@ -899,9 +899,9 @@
           "label": null,
           "text": "",
           "requirement_path": "5.item-3",
-          "node_kind": "action_requirement",
+          "node_kind": "instruction_container",
           "is_container": false,
-          "requires_response": true,
+          "requires_response": false,
           "scoped_clauses": [],
           "content": [],
           "resources": [

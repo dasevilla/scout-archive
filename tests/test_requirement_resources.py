@@ -162,6 +162,34 @@ class RequirementResourcesTest(unittest.TestCase):
 
 
 class ResourceBoundaryRegressionTest(unittest.TestCase):
+    def test_repeated_resource_markers_preserve_all_links_and_later_prose(self) -> None:
+        html = (
+            "Demonstrate the stitch."
+            '<em>Resources:</em><strong>'
+            '<a href="https://example.org/first">First guide</a></strong>'
+            '<em>Resources:</em><strong>'
+            '<a href="https://example.org/second">Second guide</a></strong>'
+            'Resources:<a href="https://example.org/third">Third guide</a>'
+            "<p>Note: Explain why this stitch is appropriate.</p>"
+            "<p>Discuss the results with your counselor.</p>"
+        )
+        result = SemanticProcessor().process(
+            [RawRequirementItem(id="1", content_nodes=HtmlExtractor().extract_nodes(html))]
+        )[0]
+        self.assertEqual(
+            result.text,
+            "Demonstrate the stitch. "
+            "Note: Explain why this stitch is appropriate. "
+            "Discuss the results with your counselor.",
+        )
+        self.assertEqual(
+            [(r.title, r.url) for r in result.resources],
+            [
+                (f"{label} guide", f"https://example.org/{label.lower()}")
+                for label in ["First", "Second", "Third"]
+            ],
+        )
+
     def test_cybersecurity_suggestions_and_support_groups(self) -> None:
         raw = HtmlExtractor().extract((FIXTURES / "cybersecurity.html").read_text())
         nodes = flatten(SemanticProcessor().process(raw))
@@ -246,13 +274,29 @@ class ResourceBoundaryRegressionTest(unittest.TestCase):
             )
             nodes = flatten(requirements)
             self.assertEqual(len(nodes), count)
+            for path, node in nodes.items():
+                with self.subTest(slug=slug, path=path):
+                    self.assertNotIn("Resources:", node.text)
             if slug == "dance":
+                self.assertEqual(len(nodes["2"].resources), 1)
+                self.assertTrue(nodes["2"].text.endswith("Space, Time, and Energy."))
                 self.assertNotIn("(video)", nodes["6.b"].text)
                 self.assertEqual(len(nodes["6.b"].resources), 2)
                 self.assertEqual(nodes["6.b"].resources[0].type, "video")
                 self.assertIn(
                     "What accommodations would that person need", nodes["4.e"].text
                 )
+            else:
+                self.assertEqual(nodes["2.c.4"].text, "Whip stitch.")
+                self.assertEqual(len(nodes["2.c.4"].resources), 2)
+                self.assertEqual(
+                    nodes["3.b.c"].text,
+                    "Using knitting needles, demonstrate how to tie a slip knot, "
+                    "cast on and bind off.",
+                )
+                self.assertEqual(len(nodes["3.b.c"].resources), 3)
+                self.assertEqual(len(nodes["3.e.b"].resources), 4)
+                self.assertEqual(len(nodes["6.a"].resources), 4)
 
     def test_notes_and_inline_links_remain_instructional(self) -> None:
         html = (

@@ -69,6 +69,8 @@ Resource object:
 Resource extraction recognizes both formatted markers and plain `Resources:`
 markers joined to requirement prose. It keeps subsequent instruction text and
 does not replace official wording with generated explanations.
+Repeated markers on consecutive Test Lab resource-only siblings continue the same
+resource section; every link remains associated with its owning requirement.
 Link-only lines following prose also become resources; inline citations remain
 in the instruction. Explicit suggested movie/book lists retain their full wording
 as one reference per source list, avoiding ambiguous comma-based title splitting.

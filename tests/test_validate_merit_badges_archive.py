@@ -54,6 +54,67 @@ def badge(requirements: list[dict]) -> dict:
 
 
 class ValidateMeritBadgesArchiveTest(unittest.TestCase):
+    def test_duplicate_option_check_stays_inside_mandatory_instruction_groups(
+        self,
+    ) -> None:
+        first = requirement("2.option-b.2")
+        second = requirement("2.option-b.3.a")
+        second["text"] = first["text"]
+        group = requirement("2.option-b.3")
+        group.update(
+            node_kind="instruction_container",
+            text="Do the following:",
+            sub_requirements=[second],
+        )
+        option = requirement("2.option-b")
+        option.update(
+            node_kind="option_container",
+            text="Option B—Disc Golf. Do ALL of the following:",
+            sub_requirements=[first, group],
+        )
+        warnings: list[str] = []
+        original = deepcopy(option)
+        validate_merit_badges_archive._validate_duplicate_option_instructions(
+            option, warnings
+        )
+        self.assertEqual(len(warnings), 1)
+        self.assertEqual(option, original)
+
+        # Choice wording, nested alternatives, non-response leaves, containers,
+        # and distinct instructions must not trigger this cross-branch warning.
+        for change in (
+            "choice",
+            "alternative",
+            "nested_choice",
+            "nonresponse",
+            "container",
+            "distinct",
+            "siblings",
+        ):
+            candidate = deepcopy(option)
+            nested = candidate["sub_requirements"][1]
+            leaf = nested["sub_requirements"][0]
+            if change == "choice":
+                candidate["text"] = "Do ONE of the following:"
+            elif change == "alternative":
+                nested["node_kind"] = "option_container"
+            elif change == "nested_choice":
+                nested["text"] = "Do ONE of the following:"
+            elif change == "nonresponse":
+                leaf["requires_response"] = False
+            elif change == "container":
+                leaf["node_kind"] = "instruction_container"
+            elif change == "distinct":
+                leaf["text"] = "A distinct task."
+            else:
+                candidate["sub_requirements"] = [first, second]
+            with self.subTest(change=change):
+                warnings = []
+                validate_merit_badges_archive._validate_duplicate_option_instructions(
+                    candidate, warnings
+                )
+                self.assertEqual(warnings, [])
+
     def test_duplicate_sibling_warning_preserves_content(self) -> None:
         first = requirement("a")
         first["text"] = "Explain the career. Resources: Career video"

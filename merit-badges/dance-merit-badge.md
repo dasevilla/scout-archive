@@ -94,10 +94,10 @@
 - (6) **Careers.** Do ONE of the following:
   - (a) Explore careers related to Dance. Research one career to learn about the training and education needed, costs, job prospects, salary, job duties, and career advancement. Your research methods may include — with your parent or guardian’s permission — an internet or library search, an interview with a professional in the field, or a visit to a location where people in this career work. Discuss with your counselor both your findings and what about this profession might make it an interesting career.
 
-    **Resources:** [15 Great Dance Related Jobs for Dancers](https://www.danceinforma.com/2015/04/01/15-great-dance-related-jobs-dancers/), [Occupational Outlook Handbook](https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm), [Cost to become a Dance Instructor](https://insurefitness.com/dance-instructor/start/cost/), [How Dance Can Unleash Your Inner Joy](https://youtu.be/ZHhmi2bS0hU), [Dancing as a Hobby](https://hobbyfaqs.com/dancing-hobby/)
+    **Resources:** [15 Great Dance Related Jobs for Dancers](https://www.danceinforma.com/2015/04/01/15-great-dance-related-jobs-dancers/), [Occupational Outlook Handbook](https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm), [Cost to become a Dance Instructor](https://insurefitness.com/dance-instructor/start/cost/)
   - (b) Explore how you could use knowledge and skills from dance to pursue a hobby. Research any training needed, expenses, and organizations that promote or support it. Discuss with your counselor what short-term and long-term goals you might have if you pursued this.
-    (video)
-    **[Dancing as a Hobby](https://hobbyfaqs.com/dancing-hobby/)**
+
+    **Resources:** [How Dance Can Unleash Your Inner Joy (video)](https://youtu.be/ZHhmi2bS0hU), [Dancing as a Hobby](https://hobbyfaqs.com/dancing-hobby/)
 
 - (7) **Complete the survey below to complete the test lab requirements**
 

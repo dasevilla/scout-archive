@@ -553,7 +553,7 @@
             {
               "id": "13959",
               "label": "2",
-              "text": "With your parent or guardian's permission, watch a movie or read a book in which cybersecurity plays a significant role. Discuss how cybersecurity topics were depicted and how realistic you think it was.\nSuggested Movies: WarGames (1983, PG), Tron (1982, PG), Code 2600 (2011 Documentary, PG), Superman III (1983, PG), Scooby-Doo and the Cyber Chase (2001, Not Rated), Cyber War 2022 (2023 Documentary, G), Hackers (1995, PG-13), Terms and Conditions May Apply (2013 Documentary, Not Rated), Cyber War (2016 Documentary, Not Rated), and Zero Days (2016 Documentary, PG-13).\nSuggested Books: The Cuckoo's Egg by Cliff Stoll, Tom Clancy's Net Force Explorers YA series, The Enigma Girls: How Ten Teenagers Broke Ciphers, Kept Secrets, and Helped Win World War II by Candace Fleming, Cyber-Thief Showdown (Geronimo Stilton #68) by Geronimo Stilton, Little Brother by Cory Doctorow (read for free online), Cyberama: A Children's Book on Internet Safety and Cybersecurity, The Renegade Reporters by Elissa Brent Weissman, The Oracle Code by Marieke Nijkamp, Hacker by Malorie Blackman, and City Spies series by James Ponti.",
+              "text": "With your parent or guardian's permission, watch a movie or read a book in which cybersecurity plays a significant role. Discuss how cybersecurity topics were depicted and how realistic you think it was.",
               "requirement_path": "4.e.2",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -562,36 +562,23 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "With your parent or guardian's permission, watch a movie or read a book in which cybersecurity plays a significant role. Discuss how cybersecurity topics were depicted and how realistic you think it was. "
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " Suggested Movies: WarGames (1983, PG), Tron (1982, PG), Code 2600 (2011 Documentary, PG), Superman III (1983, PG), Scooby-Doo and the Cyber Chase (2001, Not Rated), Cyber War 2022 (2023 Documentary, G), Hackers (1995, PG-13), Terms and Conditions May Apply (2013 Documentary, Not Rated), Cyber War (2016 Documentary, Not Rated), and Zero Days (2016 Documentary, PG-13). "
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " Suggested Books: The Cuckoo's Egg by Cliff Stoll, Tom Clancy's Net Force Explorers YA series, The Enigma Girls: How Ten Teenagers Broke Ciphers, Kept Secrets, and Helped Win World War II by Candace Fleming, Cyber-Thief Showdown (Geronimo Stilton #68) by Geronimo Stilton, Little Brother by Cory Doctorow (read for free online), Cyberama: A Children's Book on Internet Safety and Cybersecurity, The Renegade Reporters by Elissa Brent Weissman, The Oracle Code by Marieke Nijkamp, Hacker by Malorie Blackman, and City Spies series by James Ponti."
+                  "value": "With your parent or guardian's permission, watch a movie or read a book in which cybersecurity plays a significant role. Discuss how cybersecurity topics were depicted and how realistic you think it was."
                 }
               ],
-              "resources": [],
+              "resources": [
+                {
+                  "title": "WarGames (1983, PG), Tron (1982, PG), Code 2600 (2011 Documentary, PG), Superman III (1983, PG), Scooby-Doo and the Cyber Chase (2001, Not Rated), Cyber War 2022 (2023 Documentary, G), Hackers (1995, PG-13),  Terms and Conditions May Apply (2013 Documentary, Not Rated), Cyber War (2016 Documentary, Not Rated), and Zero Days (2016 Documentary, PG-13).",
+                  "url": "",
+                  "type": "reference",
+                  "category": "Suggested Movies"
+                },
+                {
+                  "title": "The Cuckoo's Egg by Cliff Stoll, Tom Clancy's Net Force Explorers YA series, The Enigma Girls: How Ten Teenagers Broke Ciphers, Kept Secrets, and Helped Win World War II by Candace Fleming, Cyber-Thief Showdown (Geronimo Stilton #68) by Geronimo Stilton, Little Brother by Cory Doctorow (read for free online), Cyberama: A Children's Book on Internet Safety and Cybersecurity, The Renegade Reporters by Elissa Brent Weissman, The Oracle Code by Marieke Nijkamp, Hacker by Malorie Blackman, and City Spies series by James Ponti.",
+                  "url": "",
+                  "type": "reference",
+                  "category": "Suggested Books"
+                }
+              ],
               "sub_requirements": []
             }
           ]
@@ -1037,7 +1024,7 @@
             {
               "id": "13979",
               "label": "7",
-              "text": "Demonstrate how to back up your data from a mobile device to a local computer or the cloud.\nApple:\nHow to Back Up With iCloud - Apple Support (website)\nHow to Back up Your iPhone, iPad, and iPod Touch - Apple Support (website)\niCloud Data Security Overview - Apple Support (website)\nAndroid:\nBack Up or Restore Data on Your Android Device - Android Help (google.com) (website)\nBack Up Your Device - Android - Google One Help (website)",
+              "text": "Demonstrate how to back up your data from a mobile device to a local computer or the cloud.",
               "requirement_path": "5.c.7",
               "node_kind": "action_requirement",
               "is_container": false,
@@ -1046,169 +1033,39 @@
               "content": [
                 {
                   "type": "text",
-                  "value": "Demonstrate how to back up your data from a mobile device to a local computer or the cloud. "
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " Apple:"
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                },
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://support.apple.com/en-us/108366"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Back Up With iCloud - Apple Support (website)"
-                    }
-                  ]
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                },
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://support.apple.com/en-us/118426"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "How to Back up Your iPhone, iPad, and iPod Touch - Apple Support (website)"
-                    }
-                  ]
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                },
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://support.apple.com/en-us/102651"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "iCloud Data Security Overview - Apple Support (website)"
-                    }
-                  ]
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": "Android:"
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                },
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://support.google.com/android/answer/2819582"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Back Up or Restore Data on Your Android Device - Android Help (google.com) (website)"
-                    }
-                  ]
-                },
-                {
-                  "type": "element",
-                  "tag": "br",
-                  "attrs": {},
-                  "children": []
-                },
-                {
-                  "type": "text",
-                  "value": " "
-                },
-                {
-                  "type": "element",
-                  "tag": "a",
-                  "attrs": {
-                    "href": "https://support.google.com/googleone/answer/9149304"
-                  },
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Back Up Your Device - Android - Google One Help (website)"
-                    }
-                  ]
+                  "value": "Demonstrate how to back up your data from a mobile device to a local computer or the cloud."
                 }
               ],
               "resources": [
                 {
                   "title": "How to Back Up With iCloud - Apple Support (website)",
                   "url": "https://support.apple.com/en-us/108366",
-                  "type": "website"
+                  "type": "website",
+                  "category": "Apple"
                 },
                 {
                   "title": "How to Back up Your iPhone, iPad, and iPod Touch - Apple Support (website)",
                   "url": "https://support.apple.com/en-us/118426",
-                  "type": "website"
+                  "type": "website",
+                  "category": "Apple"
                 },
                 {
                   "title": "iCloud Data Security Overview - Apple Support (website)",
                   "url": "https://support.apple.com/en-us/102651",
-                  "type": "website"
+                  "type": "website",
+                  "category": "Apple"
                 },
                 {
                   "title": "Back Up or Restore Data on Your Android Device - Android Help (google.com) (website)",
                   "url": "https://support.google.com/android/answer/2819582",
-                  "type": "website"
+                  "type": "website",
+                  "category": "Android"
                 },
                 {
                   "title": "Back Up Your Device - Android - Google One Help (website)",
                   "url": "https://support.google.com/googleone/answer/9149304",
-                  "type": "website"
+                  "type": "website",
+                  "category": "Android"
                 }
               ],
               "sub_requirements": []

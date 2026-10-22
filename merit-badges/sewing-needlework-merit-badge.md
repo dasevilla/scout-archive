@@ -24,7 +24,7 @@
     - (1) Running stitch
     - (2) Back stitch
     - (3) Hem stitch
-    - (4) Whip stitch.*Resources:***[Hand Sewing Whipstitch (Stitch Lessons) \| @laurenfairwx](https://youtu.be/3lTAiUY69K8?si=uHpMYfOkFtShV4l2)**
+    - (4) Whip stitch.
 
       **Resources:** [Learn to Hand Sew! Three Stitches You Can’t Sew Without](https://youtu.be/oE1LnH8egMk?si=QKcfKITVM4FUNTzj), [Hand Sewing Whipstitch (Stitch Lessons) \| @laurenfairwx](https://youtu.be/3lTAiUY69K8?si=uHpMYfOkFtShV4l2)
   - (d) Sew a patch on your uniform or other fabric.
@@ -78,7 +78,7 @@
       - (1) Sew a Scout patch on your uniform or other fabric.
 
         **Resources:** [How to Sew a Patch on the Sleeve of Scrubs or Shirt](https://youtu.be/Rogxb__0GjI?si=Et7Dz-taE8MsuTtb)
-      - (2) Repair a tear or small hole in fabric using a patch or darning technique.*Resources:***[How to: Repairs Pants with Hand Stitch (Super Simple) \| Tailor Series](https://youtu.be/0dMp1YXaSM8?si=CL9t87Lt688lnyA0)**
+      - (2) Repair a tear or small hole in fabric using a patch or darning technique.
 
         **Resources:** [How to Repair Holes in Jeans and Other Fabrics](https://youtu.be/dXvFmoqfXEc?si=27pwLphw4aT9uq_4), [How to: Repairs Pants with Hand Stitch (Super Simple) \| Tailor Series](https://youtu.be/0dMp1YXaSM8?si=CL9t87Lt688lnyA0)
     - (e) Sew ONE item from this list using a pattern, using THREE or more techniques from requirement 3(c):
@@ -96,15 +96,15 @@
         **Resources:** [How to sew a pillowcase \| Sewing Tutorial with Angela Wolf](https://youtu.be/yMoJWSmZI-U?si=22E1fmewy7TUDBGb)
       - (5) An item of your own choosing, approved in advance by your counselor.
   - (B) **Knitting**
-    - (a) Provide a brief overview of the history of knitting.*Resources:***[Spies, Socks, & Soldiers // The Fascinating History of Wartime Knitting](https://youtu.be/XCQVJfEdO6k?si=4KXrd9Xkl7-zrDS-)**
+    - (a) Provide a brief overview of the history of knitting.
 
       **Resources:** [How Knitting Transformed The Ancient World](https://youtu.be/JOxF_7LplGE?si=7Iq1NQ65mZSPjuLM), [Spies, Socks, & Soldiers // The Fascinating History of Wartime Knitting](https://youtu.be/XCQVJfEdO6k?si=4KXrd9Xkl7-zrDS-)
-    - (b) Explain the tools used when knitting. Demonstrate the ability to read a pattern, including deciphering symbols.*Resources:***[How to Read a Knitting Pattern](https://www.craftyarncouncil.com/standards/how-to-read-knitting-pattern)**
+    - (b) Explain the tools used when knitting. Demonstrate the ability to read a pattern, including deciphering symbols.
 
       **Resources:** [Knitting Supplies for Beginners \| Essential Tools You Actually Need to Start Knitting](https://youtu.be/rbEsyps7v6Q?si=zgVVGPRZfd0PiAWd), [How to Read a Knitting Pattern](https://www.craftyarncouncil.com/standards/how-to-read-knitting-pattern)
-    - (c) Using knitting needles, demonstrate how to tie a slip knot, cast on and bind off.*Resources:***[Knitting Help – Slow-Motion Cast-On](https://youtu.be/iHZy0-tXUtU?si=E13XEX8prDl0xbFQ)**
+    - (c) Using knitting needles, demonstrate how to tie a slip knot, cast on and bind off.
 
-      **Resources:** [Knitting Help – Slow Motion Slip Knot](https://youtu.be/Mf6MxSDIfaA?si=eVzX8OduVD-MOOfs), [Knitting Help – Slow Motion Bind-Off](https://youtu.be/VrcZDngom_E?si=IYjO1tKHn7BUDSav), [Knitting Help – Slow-Motion Cast-On](https://youtu.be/iHZy0-tXUtU?si=E13XEX8prDl0xbFQ)
+      **Resources:** [Knitting Help – Slow Motion Slip Knot](https://youtu.be/Mf6MxSDIfaA?si=eVzX8OduVD-MOOfs), [Knitting Help – Slow-Motion Cast-On](https://youtu.be/iHZy0-tXUtU?si=E13XEX8prDl0xbFQ), [Knitting Help – Slow Motion Bind-Off](https://youtu.be/VrcZDngom_E?si=IYjO1tKHn7BUDSav)
     - (d) Demonstrate the following stitches:
       - (1) Knit stitch
 
@@ -119,14 +119,14 @@
       - (2) Stockinette stitch
 
         **Resources:** [Stockinette Stitch for Beginners – Learn to Knit](https://youtu.be/rlaC5C5nJR8?si=VVaXVAXWc5Ck9AAR)
-      - (3) Ribbing.*Resources:***[Learn to Knit a Dishcloth](https://youtu.be/F6t1upQeNAE?si=-P-f2Yr6v4mXFGvU)**
+      - (3) Ribbing.
 
-        **Resources:** [Learn the English Rib Stitch](https://www.youtube.com/watch?v=u__L0q-Ap8U), [How to knit a scarf evenly: 5 tips \| Knitting Tutorial with Stefanie Japel](https://youtu.be/6-5HHme5zFs?si=qWPR6AvTTXK9rP3m), [Learn to Knit a Dishcloth](https://youtu.be/F6t1upQeNAE?si=-P-f2Yr6v4mXFGvU)
+        **Resources:** [Learn the English Rib Stitch](https://www.youtube.com/watch?v=u__L0q-Ap8U), [Learn to Knit a Dishcloth](https://youtu.be/F6t1upQeNAE?si=-P-f2Yr6v4mXFGvU), [How to knit a scarf evenly: 5 tips \| Knitting Tutorial with Stefanie Japel](https://youtu.be/6-5HHme5zFs?si=qWPR6AvTTXK9rP3m)
   - (C) **Crochet**
-    - (a) Provide a brief overview of the history of crochet OR the history of Amigurumi.*Resources:***[Where Did Amigurumi Come From❓ A History of Crocheted & Knitted Toys 💓](https://youtu.be/okOZnJksA9Y?si=mHHY6vzZUDWSLlWG)**
+    - (a) Provide a brief overview of the history of crochet OR the history of Amigurumi.
 
       **Resources:** [CROCHET’S SECRET HISTORY REVEALED: EPIC Full History from the ANCIENTS to TODAY’S TRENDS](https://youtu.be/dHgbptcqziM?si=fkpZYhlMPve_b-Cn), [Where Did Amigurumi Come From❓ A History of Crocheted & Knitted Toys 💓](https://youtu.be/okOZnJksA9Y?si=mHHY6vzZUDWSLlWG)
-    - (b) Explain the tools used when crocheting. Demonstrate the ability to read a pattern, including deciphering symbols.*Resources:***[https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern](https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern)**
+    - (b) Explain the tools used when crocheting. Demonstrate the ability to read a pattern, including deciphering symbols.
 
       **Resources:** [Supplies Needed for Crochet – The Beginner’s Guide to Crochet – Lesson One](https://youtu.be/paRgZbyQ-co?si=c-fT21WCDz3mpt63), [https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern](https://www.craftyarncouncil.com/standards/how-to-read-crochet-pattern)
     - (c) Demonstrate how to tie a slip knot and how to hold a crochet hook and yarn to crochet.
@@ -142,9 +142,9 @@
       - (3) Half-double crochet.
 
         **Resources:** [Crochet for Knitters – Slow Motion Half Double Crochet](https://youtu.be/Wf1t33SAWm4?si=H6iNYeZ52FCp0wZk)
-    - (e) Crochet a small item such as a dishcloth, scrub, or an item of your own choosing, approved in advance by your counselor, using at least two colors of yarn.*Resources:***[30-minute Crochet Projects](https://easycrochet.com/30-minute-crochet-projects-for-beginners/)**
+    - (e) Crochet a small item such as a dishcloth, scrub, or an item of your own choosing, approved in advance by your counselor, using at least two colors of yarn.
 
-      **Resources:** [How to Change Yarn in the Middle of a Crochet Project \| Crochet Tutorial](https://youtu.be/kObezncg4jY?si=WBdx_u1Jy92LiTCn), [Crocheted Dish Cloths (Free Pattern)](https://youtu.be/vdLd9SPpI6w), [30-minute Crochet Projects](https://easycrochet.com/30-minute-crochet-projects-for-beginners/)
+      **Resources:** [How to Change Yarn in the Middle of a Crochet Project \| Crochet Tutorial](https://youtu.be/kObezncg4jY?si=WBdx_u1Jy92LiTCn), [30-minute Crochet Projects](https://easycrochet.com/30-minute-crochet-projects-for-beginners/), [Crocheted Dish Cloths (Free Pattern)](https://youtu.be/vdLd9SPpI6w)
   - (D) **Hand Embroidery**
     - (a) Provide a brief overview of the history of hand embroidery.
 
@@ -159,36 +159,36 @@
     - (a) Provide a brief overview of the history of hand appliqué.
 
       **Resources:** [A Brief History of Appliqué](https://theappliquesociety.org/A-Brief-History-of-Applique)
-    - (b) In a small sample, demonstrate how to do appliqué by hand using the following methods: needle turn or freezer paper using an invisible (ladder) stitch or blanket stitch.*Resources:***[Freezer Paper Appliqué](https://youtu.be/TlBj8DAp-Jk?si=pk_9NlgOHIyfje3Z)***Resources:***[How to do Blanket Stitch Around Appliqué Using a Sewing Machine](https://youtu.be/5z_UHuuJriw?si=Cl72_MsldAMwt807)**
+    - (b) In a small sample, demonstrate how to do appliqué by hand using the following methods: needle turn or freezer paper using an invisible (ladder) stitch or blanket stitch.
 
-      **Resources:** [Needle Turn Appliqué for Beginners](https://youtu.be/gAo4NG53rVs?si=u8Jkw4hfuLMm83Jn), [The Invisible Stitch for Appliqué](https://youtu.be/X2e2hP-Hdg8?si=MNTU9vH7JgHhmbKa), [Freezer Paper Appliqué](https://youtu.be/TlBj8DAp-Jk?si=pk_9NlgOHIyfje3Z), [How to do Blanket Stitch Around Appliqué Using a Sewing Machine](https://youtu.be/5z_UHuuJriw?si=Cl72_MsldAMwt807)
-    - (c) In a small sample, demonstrate machine appliqué using a raw edge fusible technique and a blanket stitch.*Resources:***[Sizzle Quilt: Machine appliqué with a Blanket Stitch](https://youtu.be/MOTs-73YZhs?si=5FaXKBexKgR_He4Q)**
+      **Resources:** [Needle Turn Appliqué for Beginners](https://youtu.be/gAo4NG53rVs?si=u8Jkw4hfuLMm83Jn), [Freezer Paper Appliqué](https://youtu.be/TlBj8DAp-Jk?si=pk_9NlgOHIyfje3Z), [The Invisible Stitch for Appliqué](https://youtu.be/X2e2hP-Hdg8?si=MNTU9vH7JgHhmbKa), [How to do Blanket Stitch Around Appliqué Using a Sewing Machine](https://youtu.be/5z_UHuuJriw?si=Cl72_MsldAMwt807)
+    - (c) In a small sample, demonstrate machine appliqué using a raw edge fusible technique and a blanket stitch.
 
       **Resources:** [Tips and Tricks for Fusible Appliqué](https://youtu.be/gqsyj0nQZoA?si=No_RMgOh464r03Ug), [Sizzle Quilt: Machine appliqué with a Blanket Stitch](https://youtu.be/MOTs-73YZhs?si=5FaXKBexKgR_He4Q)
-    - (d) Appliqué a design onto a T-shirt by hand or machine or reverse appliqué a shape by hand sewing.*Resources:***[How to appliqué on a t-shirt](https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv)**
+    - (d) Appliqué a design onto a T-shirt by hand or machine or reverse appliqué a shape by hand sewing.
 
-      **Resources:** [How to](https://youtu.be/jtNlfbrj1Ps?si=n47rP1GnkoO5BlmZ), [appliqué](https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv), [with a sewing machine (sewing on knits)](https://youtu.be/jtNlfbrj1Ps?si=n47rP1GnkoO5BlmZ), [Appliqué- How to Do Reverse Appliqué](https://youtu.be/vYqDtaHsAK4?si=fkna2G_oeM7XC_UF), [How to appliqué on a t-shirt](https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv)
+      **Resources:** [How to](https://youtu.be/jtNlfbrj1Ps?si=n47rP1GnkoO5BlmZ), [appliqué](https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv), [with a sewing machine (sewing on knits)](https://youtu.be/jtNlfbrj1Ps?si=n47rP1GnkoO5BlmZ), [How to appliqué on a t-shirt](https://youtu.be/PW4RKNpiv8U?si=GP1mLSVSdw5L1SMv), [Appliqué- How to Do Reverse Appliqué](https://youtu.be/vYqDtaHsAK4?si=fkna2G_oeM7XC_UF)
   - (F) **Quilting**
-    - (a) Research historical quilts and show your counselor examples of types of quilts that interest you. Discuss how they were made.*Resources:***[What is Quilting and Patchwork?](https://createwhimsy.com/projects/what-is-quilting-and-patchwork/)**
+    - (a) Research historical quilts and show your counselor examples of types of quilts that interest you. Discuss how they were made.
 
       **Resources:** [The History of Quilting](https://www.youtube.com/watch?v=SGgFsNuvk3E), [What is Quilting and Patchwork?](https://createwhimsy.com/projects/what-is-quilting-and-patchwork/)
-    - (b) Explain the tools used when quilting and how to use them safely. Discuss why accuracy is important in traditional quilting. Sew an accurate ¼” seam.*Resources:***[How to Check your 1/4 Inch seam for Accurate Quilting with On Williams Street](https://youtu.be/GOO2-0lD4pw?si=xVrWfpVEzwHPsGwz)**
+    - (b) Explain the tools used when quilting and how to use them safely. Discuss why accuracy is important in traditional quilting. Sew an accurate ¼” seam.
 
       **Resources:** [Essential tools for a beginner quilter](https://youtu.be/yQw4SyiWjQI?si=GQ5u9yXyi_ku4bqi), [How to Check your 1/4 Inch seam for Accurate Quilting with On Williams Street](https://youtu.be/GOO2-0lD4pw?si=xVrWfpVEzwHPsGwz)
-    - (c) Using scraps of cotton quilting fabric, sort into light, medium and dark colors. Choose a focus fabric and find a group of fabrics that would work well in a scrap quilt. Demonstrate how the value and scale of a printed fabric can create interest.*Resources:***[Jen Kingwell ~ Choosing Colours](https://youtu.be/-wx85BU1hO0?si=0_4ZP68ZoBItiMDJ)**
+    - (c) Using scraps of cotton quilting fabric, sort into light, medium and dark colors. Choose a focus fabric and find a group of fabrics that would work well in a scrap quilt. Demonstrate how the value and scale of a printed fabric can create interest.
 
       **Resources:** [5 Tips for Using Color and Prints in your Quilting](https://youtu.be/LCC6aysaVXk?si=j2ZoPNxl0IO8FtWp), [Jen Kingwell ~ Choosing Colours](https://youtu.be/-wx85BU1hO0?si=0_4ZP68ZoBItiMDJ)
     - (d) Using three copies of a quilting design, color blocks to achieve different quilt designs. Show your counselor your designs and which one is your favorite.
 
       **Resources:** [Quilt Patterns Coloring (PDF)](https://blog.missouriquiltco.com/wp-content/uploads/2020/04/QuiltPatternsColoring.pdf)
     - (e) Make a small quilt (12” square plus borders):
-      - (1) Using a rotary cutter, cut fabric into strips and pieces to make a four patch, rail fence block pattern, or design of your choice. Sew together on a machine or by hand using a ¼” seam allowance and press flat. Cut and add borders.*Resources:***[How to Design a Quilt: No Pattern Needed! \| Quilting Tutorial](https://youtu.be/5yL3VeiTQcs?si=2z-DGOLpojI3hT7H)**
+      - (1) Using a rotary cutter, cut fabric into strips and pieces to make a four patch, rail fence block pattern, or design of your choice. Sew together on a machine or by hand using a ¼” seam allowance and press flat. Cut and add borders.
 
         **Resources:** [Quilting for Beginners: Essential Techniques \| Quilting Tutorial](https://youtu.be/8fHfmqEI31g?si=ekDqnjyvzCe9gTnV), [How to Design a Quilt: No Pattern Needed! \| Quilting Tutorial](https://youtu.be/5yL3VeiTQcs?si=2z-DGOLpojI3hT7H)
       - (2) Make a sandwich with backing and batting. Baste.
 
         **Resources:** [Beginner Quilt Series – How to Layer a Quilt Sandwich and Pin Baste a Quilt](https://youtu.be/hG50jcN2xSE)
-      - (3) Hand quilt with a running stitch or big stitch.*Resources:***[How to Do Big Stitch Hand Quilting](https://youtu.be/SfoIOv8avMU?si=HyoELuq8g_yeuB1e)**
+      - (3) Hand quilt with a running stitch or big stitch.
 
         **Resources:** [Hand quilting techniques for beginners (on perle cotton) \| Sarah Fielke Craftsy Quilting Tutorial](https://youtu.be/8DXN5Ger_jo?si=XZJ7lFt1h6wH1Z7Y), [How to Do Big Stitch Hand Quilting](https://youtu.be/SfoIOv8avMU?si=HyoELuq8g_yeuB1e)
       - (4) Label your quilt. Explain why this is important.
@@ -205,10 +205,10 @@
   **Resources:** [How to Sew for Charity](https://sewingtrip.com/how-to-sew-for-charity/), [Quilts of Valor®](https://www.qovf.org/), [Project Linus](https://www.projectlinus.org/), [Case for Smiles](https://caseforsmiles.org/get-involved/#sew)
 
 - (6) **Careers**. Do ONE of the following:
-  - (a) Identify three career opportunities that would use skills and knowledge in sewing and/or needlework. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.*Resources:***[Jobs For Quilters](https://interviewguy.com/jobs-for-quilters/)***Resources:***[Jobs For Crocheters](https://interviewguy.com/jobs-for-crocheters/)**
+  - (a) Identify three career opportunities that would use skills and knowledge in sewing and/or needlework. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
-    **Resources:** [Jobs For Sewing](https://interviewguy.com/jobs-for-sewing/), [Jobs For Knitters](https://interviewguy.com/jobs-for-knitters/), [Jobs For Quilters](https://interviewguy.com/jobs-for-quilters/), [Jobs For Crocheters](https://interviewguy.com/jobs-for-crocheters/)
-  - (b) Identify how you might use the skills and knowledge in sewing and/or needlework to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.*Resources:***[What is Slow Stitching? Mindful Stitch Project Ideas](https://createwhimsy.com/projects/what-is-slow-stitching-mindful-stitch-project-ideas/)**
+    **Resources:** [Jobs For Sewing](https://interviewguy.com/jobs-for-sewing/), [Jobs For Quilters](https://interviewguy.com/jobs-for-quilters/), [Jobs For Knitters](https://interviewguy.com/jobs-for-knitters/), [Jobs For Crocheters](https://interviewguy.com/jobs-for-crocheters/)
+  - (b) Identify how you might use the skills and knowledge in sewing and/or needlework to pursue a personal hobby. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
 
     **Resources:** [14 THINGS YOU NEED TO KNOW ABOUT SEWING BEFORE YOU START! – What this sewing hobby REALLY is??](https://youtu.be/jdTdBiDzqtc?si=QIk96DZzW02p61lY), [What is Slow Stitching? Mindful Stitch Project Ideas](https://createwhimsy.com/projects/what-is-slow-stitching-mindful-stitch-project-ideas/)
 

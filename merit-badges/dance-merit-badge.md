@@ -24,7 +24,6 @@
     **Resources:** [Dance Attire and Equipment](https://www.dancehouseproductions.com/glossary/dance-attire-equipment.html)
 
 - (2) **Elements of Dance.** Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy.
-  *Resources:*[**Do Ya Wanna Dance? Understanding the 5 Elements of Dance**](https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/dance/do-you-wanna-dance/)
 
   **Resources:** [Do Ya Wanna Dance? Understanding the 5 Elements of Dance](https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/dance/do-you-wanna-dance/)
 

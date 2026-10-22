@@ -155,7 +155,7 @@
     {
       "id": "2",
       "label": "2",
-      "text": "Elements of Dance. Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy.\nResources:Do Ya Wanna Dance? Understanding the 5 Elements of Dance",
+      "text": "Elements of Dance. Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy.",
       "requirement_path": "2",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -176,43 +176,6 @@
         {
           "type": "text",
           "value": " Describe the 5 Elements of dance: Body, Action (Relationships), Space, Time, and Energy."
-        },
-        {
-          "type": "element",
-          "tag": "br",
-          "attrs": {},
-          "children": []
-        },
-        {
-          "type": "element",
-          "tag": "em",
-          "attrs": {},
-          "children": [
-            {
-              "type": "text",
-              "value": "Resources:"
-            }
-          ]
-        },
-        {
-          "type": "element",
-          "tag": "a",
-          "attrs": {
-            "href": "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/dance/do-you-wanna-dance/"
-          },
-          "children": [
-            {
-              "type": "element",
-              "tag": "strong",
-              "attrs": {},
-              "children": [
-                {
-                  "type": "text",
-                  "value": "Do Ya Wanna Dance? Understanding the 5 Elements of Dance"
-                }
-              ]
-            }
-          ]
         }
       ],
       "resources": [

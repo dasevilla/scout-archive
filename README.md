@@ -42,6 +42,16 @@ readers to the web requirements; it provides no replacement wording. Both entrie
 their IDs, links, response flags, and hierarchy remain preserved. The complete
 release141 semantic tree is an offline regression fixture.
 
+The release141 Insect Study recheck confirms that both distinct source elements
+belong to requirement 9, **Careers and Hobbies**, and that the beekeeping resource
+belongs to `9.b`. The linked 2026 pamphlet directs readers back to the live page
+for current requirements; it supplies no alternate hobby instruction. The
+provenance record includes response hashes and heading/parent associations.
+Regression coverage preserves all 33 requirement nodes and 39 structured
+requirement resources, including the separate resources on both repeated choices.
+An official clarification is still required before changing `9.b`; the duplicate
+warning is the intended diagnostic, not an extraction failure.
+
 Generate the merit badge index file:
 
 ```shell

@@ -126,7 +126,7 @@ class VisualAuditHierarchyTest(unittest.TestCase):
             [n.label for n in nodes["4"].sub_requirements], list("abcdefg")
         )
         self.assertEqual(
-            [n.label for n in nodes["5"].sub_requirements if n.text], ["a", "b"]
+            [n.label for n in nodes["5"].sub_requirements], ["a", "b", None]
         )
         self.assertIn("minimum of 2 minutes", nodes["5.a"].text)
         self.assertIn("5 Elements of Dance", nodes["5.b"].text)
@@ -134,6 +134,40 @@ class VisualAuditHierarchyTest(unittest.TestCase):
         # career resource links within the same source list item.
         self.assertEqual([n.label for n in nodes["6"].sub_requirements], ["a", "b"])
         self.assertIn("pursue a hobby", nodes["6.b"].text)
+
+    def test_dance_tutorial_leaf_preserves_source_without_requiring_response(
+        self,
+    ) -> None:
+        requirements = extract("dance", lab=True)
+        nodes = {n.requirement_path: n for n in walk(requirements)}
+        tutorials = nodes["5.item-3"]
+        self.assertEqual(tutorials.id, "")
+        self.assertIsNone(tutorials.label)
+        self.assertEqual(tutorials.text, "")
+        self.assertEqual(tutorials.content, [])
+        self.assertEqual(tutorials.sub_requirements, [])
+        self.assertEqual(tutorials.node_kind, "instruction_container")
+        self.assertFalse(tutorials.is_container)
+        self.assertFalse(tutorials.requires_response)
+        self.assertTrue(nodes["5.a"].requires_response)
+        self.assertTrue(nodes["5.b"].requires_response)
+        # The source's third, unnumbered list item is a Resources block, not
+        # a missing (c) instruction. Keep all seven titles and URLs in order.
+        source = BeautifulSoup((FIXTURES / "dance.html").read_text(), "html.parser")
+        source_item = next(
+            li
+            for li in source.find_all("li")
+            if "Easy Hip Hop Routine tutorial" in li.get_text()
+        )
+        self.assertTrue(source_item.get_text().startswith("Resources:"))
+        self.assertEqual(len(tutorials.resources), 7)
+        self.assertEqual(
+            [(r.title, r.url) for r in tutorials.resources],
+            [(a.get_text(strip=True), a["href"]) for a in source_item.find_all("a")],
+        )
+        markdown = MarkdownGenerator().generate(requirements)
+        for resource in tutorials.resources:
+            self.assertIn(resource.url, markdown)
 
     def test_sewing_preserves_six_crafts_and_every_lettered_prompt(self) -> None:
         nodes = {

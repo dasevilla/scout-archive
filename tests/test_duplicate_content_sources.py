@@ -13,7 +13,11 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
-from scout_archive.requirements_pipeline import HtmlExtractor, SemanticProcessor
+from scout_archive.requirements_pipeline import (
+    HtmlExtractor,
+    MarkdownGenerator,
+    SemanticProcessor,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 SPEC = importlib.util.spec_from_file_location(
@@ -86,6 +90,65 @@ class DuplicateSourceContentTest(unittest.TestCase):
             ],
         )
         self.assertEqual(requirements, original)
+
+    def test_insect_study_career_choices_keep_source_context_and_resources(
+        self,
+    ) -> None:
+        html = (FIXTURES / "insect-study.html").read_text()
+        soup = BeautifulSoup(html, "html.parser")
+        requirements = SemanticProcessor().process(HtmlExtractor().extract(html))
+        nodes = flatten([node.model_dump() for node in requirements])
+        self.assertEqual(len(requirements), 9)
+        self.assertEqual(len(nodes), 33)
+        self.assertEqual(sum(len(node["resources"]) for node in nodes.values()), 39)
+
+        parent = soup.select_one(".mb-requirement-id-13458")
+        self.assertEqual(parent.select_one("b").get_text(), "Careers and Hobbies.")
+        self.assertEqual(
+            nodes["9"]["text"], "Careers and Hobbies. Do ONE of the following:"
+        )
+        self.assertTrue(nodes["9"]["is_container"])
+        self.assertFalse(nodes["9"]["requires_response"])
+        self.assertEqual(
+            [child["requirement_path"] for child in nodes["9"]["sub_requirements"]],
+            ["9.a", "9.b"],
+        )
+        for path, source_id in [("9.a", "13475"), ("9.b", "13476")]:
+            source = soup.select_one(f".mb-requirement-id-{source_id}")
+            self.assertIn("mb-parent-13458", source["class"])
+            self.assertIs(source.parent.parent, parent.parent)
+            self.assertEqual(nodes[path]["id"], source_id)
+            self.assertTrue(nodes[path]["requires_response"])
+
+        # Check resource ownership independently against every source element,
+        # including the beekeeping link attached to the duplicated second choice.
+        markdown = MarkdownGenerator().generate(requirements)
+        for node in nodes.values():
+            source = soup.select_one(f".mb-requirement-id-{node['id']}")
+            expected = [
+                (" ".join(link.get_text(" ", strip=True).split()), link["href"])
+                for link in source.select("a[href]")
+            ]
+            self.assertEqual(
+                [(r["title"], r["url"]) for r in node["resources"]], expected
+            )
+            for resource in node["resources"]:
+                self.assertNotIn(resource["title"], node["text"])
+                self.assertIn(resource["url"], markdown)
+        self.assertEqual(len(nodes["4.c"]["resources"]), 4)
+        self.assertEqual(len(nodes["7.b"]["resources"]), 2)
+        self.assertEqual(len(nodes["9.a"]["resources"]), 2)
+        self.assertEqual(
+            nodes["9.b"]["resources"],
+            [
+                {
+                    "title": "Beekeeping 101—Quick Guide for Beginners (video)",
+                    "url": "https://youtube.com/shorts/WagGi28NJzY",
+                    "type": "video",
+                }
+            ],
+        )
+        self.assertEqual(markdown.count(nodes["9.a"]["text"]), 2)
 
     def test_live_source_snapshots_preserve_requirement_text_and_hierarchy(
         self,

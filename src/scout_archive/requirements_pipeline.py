@@ -563,7 +563,7 @@ class SemanticProcessor:
         self, node: RawNode, resources: List[Resource], in_resources: bool
     ) -> tuple[Optional[RawNode], bool, bool]:
         if isinstance(node, RawTextNode):
-            if not in_resources and self.RESOURCE_LABEL_RE.match(node.value.strip()):
+            if self.RESOURCE_LABEL_RE.match(node.value.strip()):
                 return None, True, True
             if in_resources:
                 # Resource sections contain links separated by whitespace or
@@ -576,7 +576,9 @@ class SemanticProcessor:
         if isinstance(node, RawElementNode):
             if node.tag == "br" and not in_resources:
                 return node, False, False
-            if not in_resources and self._is_resource_label_node(node):
+            # Test Lab resource-only siblings each introduce a marker. Repeated
+            # markers continue the resource section instead of becoming prose.
+            if self._is_resource_label_node(node):
                 return None, True, True
 
             if (

@@ -1266,6 +1266,15 @@ class SemanticProcessor:
     def _classify_requirement(
         self, requirement: SemanticRequirement
     ) -> Literal["action_requirement", "instruction_container", "option_container"]:
+        # An unnumbered resource-only leaf (Dance 5's tutorial list) retains
+        # source structure and links, but contains no instruction to answer.
+        if (
+            not requirement.label
+            and not requirement.text.strip()
+            and requirement.resources
+            and not requirement.sub_requirements
+        ):
+            return "instruction_container"
         if self._is_option_container_candidate(requirement):
             return "option_container"
         if self._is_instruction_container(requirement):

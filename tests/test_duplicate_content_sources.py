@@ -5,6 +5,7 @@ import json
 import re
 import sys
 import unittest
+from copy import deepcopy
 from pathlib import Path
 from typing import Any
 
@@ -47,6 +48,49 @@ def flatten(requirements: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
 
 
 class DuplicateSourceContentTest(unittest.TestCase):
+    def test_golf_source_duplicate_preserves_complete_release141_tree(self) -> None:
+        record = json.loads((FIXTURES / "golf.provenance.json").read_text())
+        html = (FIXTURES / record["html_fixture"]).read_text()
+        requirements = [
+            node.model_dump()
+            for node in SemanticProcessor().process(HtmlExtractor().extract(html))
+        ]
+        expected = json.loads((FIXTURES / record["expected_requirements"]).read_text())
+        # Includes wording, hierarchy, cardinality, flags, links and source IDs.
+        self.assertEqual(requirements, expected)
+        soup = BeautifulSoup(html, "html.parser")
+        for source_id, parent_id, path in zip(
+            record["source_ids"],
+            record["source_parent_ids"],
+            record["paths"],
+            strict=True,
+        ):
+            elements = soup.select(f".mb-requirement-id-{source_id}")
+            self.assertEqual(len(elements), 1)
+            self.assertIn(f"mb-parent-{parent_id}", elements[0]["class"])
+            text = re.sub(
+                r"^\([a-z0-9]+\)\s*", "", elements[0].get_text(" ", strip=True)
+            )
+            text = re.split(r"\bResource\s*:", text, maxsplit=1)[0]
+            self.assertEqual(" ".join(text.split()), record["duplicate_instruction"])
+            self.assertEqual(flatten(requirements)[path]["id"], source_id)
+
+        original = deepcopy(requirements)
+        errors: list[str] = []
+        warnings: list[str] = []
+        validator._validate_requirement_tree(
+            requirements, "requirements", errors, warnings
+        )
+        self.assertEqual(errors, [])
+        self.assertEqual(
+            warnings,
+            [
+                "2.option-b.3.a duplicates instruction text at 2.option-b.2 "
+                "within the same ALL option; verify the official source (wording preserved)"
+            ],
+        )
+        self.assertEqual(requirements, original)
+
     def test_insect_study_career_choices_keep_source_context_and_resources(
         self,
     ) -> None:

@@ -1,0 +1,37 @@
+{
+  "badge": "Golf",
+  "url": "https://www.scouting.org/merit-badges/golf/",
+  "observed_on": "2026-10-21",
+  "paths": [
+    "2.option-b.2",
+    "2.option-b.3.a"
+  ],
+  "reported_downstream_path": "2.option-b.3.1",
+  "path_note": "Release141 and live extraction label source ID 11879 as a, so the canonical path is 2.option-b.3.a; no IDs or labels are changed.",
+  "status": "upstream-source-issue",
+  "finding": "The official HTML repeats the history/inclusivity instruction in distinct elements 11877 and 11879. Extraction preserves this source-authored duplication. The linked pamphlet defers requirements to the official page or Scoutbook and supplies no competing requirement wording.",
+  "html_fixture": "golf.html",
+  "expected_requirements": "golf.expected.json",
+  "expected_release": "archive-2026-10-21-141-1",
+  "release_commit": "fc6447b4f009f0b210befd392c76ceddd4654881",
+  "full_response_sha256": "090d9b9507c311af6f4125c8853bf61f560865fb1d46404f41ce463ec0e20c83",
+  "fixture_scope": "Complete mb-requirement-container, serialized with BeautifulSoup; excludes surrounding page chrome. Line endings normalized and trailing whitespace removed.",
+  "source_ids": [
+    "11877",
+    "11879"
+  ],
+  "source_parent_ids": [
+    "11866",
+    "11878"
+  ],
+  "duplicate_instruction": "Tell about the history of disc golf and why it is an inclusive game.",
+  "pamphlet": {
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Golf.pdf",
+    "sha256": "a46989c1a7b09033d721d68d62b491ecef4f79401047c620770d5d1aeaca2b8e",
+    "printing": "2026",
+    "pdf_page": 4,
+    "finding": "The Requirements page directs Scouts to scouting.org/merit-badges/golf or Scoutbook for the latest requirements. It does not print the numbered requirements. Verified by PDF text extraction and rendered page inspection."
+  },
+  "blocker": "Only an official clarification can establish whether the repetition is intentional or supply replacement wording. The PDGA Code resource attached to 2.option-b.2 does not authorize substituting a Code discussion.",
+  "reproduction": "Fresh curl HTML, release141 JSON asset, and make archive-merit-badges-url export agree. The offline regression compares the complete semantic tree including IDs, labels, paths, content, resources, response flags and option wording. The diagnostic reports both paths without mutating the tree."
+}

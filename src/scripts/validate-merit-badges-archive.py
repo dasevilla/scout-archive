@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run
 """
 Validate that the archive process produced expected output.
 This helps detect if the source website has changed in a way that breaks our archiving.
@@ -135,6 +135,7 @@ def _validate_requirement_tree(requirements, path, errors, warnings):
         if not isinstance(req, dict):
             errors.append(f"{req_path} is not an object")
             continue
+        _validate_duplicate_option_instructions(req, warnings)
         if "id" not in req:
             errors.append(f"{req_path} missing id")
         label = req.get("label")
@@ -200,6 +201,69 @@ def _validate_requirement_tree(requirements, path, errors, warnings):
             )
 
 
+def _instruction_text(req: dict[str, Any]) -> str:
+    """Compare instructions independently of whitespace and inline resources."""
+    text = req.get("text")
+    if not isinstance(text, str):
+        return ""
+    return " ".join(
+        re.split(r"\bResources?\s*:", text, maxsplit=1, flags=re.I)[0].split()
+    )
+
+
+def _validate_duplicate_option_instructions(
+    option: dict[str, Any], warnings: list[str]
+) -> None:
+    """Review repeated leaves across mandatory branches of the same option.
+
+    Golf repeats a direct instruction inside a sibling's instruction group.
+    Restrict review to explicit ALL options and instruction containers so
+    identical tasks in separate alternatives do not generate warnings.
+    """
+    if option.get("node_kind") != "option_container" or not re.search(
+        r"\bDo ALL of the following\b", _instruction_text(option), re.I
+    ):
+        return
+
+    seen: dict[str, tuple[str, str]] = {}
+
+    def visit(nodes: Any, parent: str) -> None:
+        if not isinstance(nodes, list):
+            return
+        for node in nodes:
+            if not isinstance(node, dict):
+                continue
+            location = node.get("requirement_path")
+            if not isinstance(location, str) or not location:
+                continue
+            children = node.get("sub_requirements")
+            if children:
+                if node.get("node_kind") == "instruction_container" and re.fullmatch(
+                    r"Do (?:ALL of )?the following:", _instruction_text(node), re.I
+                ):
+                    visit(children, location)
+                continue
+            if node.get("node_kind") != "action_requirement" or not node.get(
+                "requires_response"
+            ):
+                continue
+            instruction = _instruction_text(node)
+            if not instruction:
+                continue
+            if instruction in seen:
+                previous, previous_parent = seen[instruction]
+                if parent != previous_parent:
+                    warnings.append(
+                        f"{location} duplicates instruction text at {previous} "
+                        "within the same ALL option; verify the official source "
+                        "(wording preserved)"
+                    )
+            else:
+                seen[instruction] = (location, parent)
+
+    visit(option.get("sub_requirements"), option.get("requirement_path", ""))
+
+
 def _validate_duplicate_sibling_text(
     requirements: list[Any], path: str, warnings: list[str]
 ) -> None:
@@ -208,13 +272,9 @@ def _validate_duplicate_sibling_text(
     for idx, req in enumerate(requirements):
         if not isinstance(req, dict) or req.get("sub_requirements"):
             continue
-        text = req.get("text")
-        if not isinstance(text, str):
-            continue
         # Older exports can retain resource titles inline. Different resource
         # recommendations do not make identical requirement instructions unique.
-        instruction = re.split(r"\bResources?\s*:", text, maxsplit=1, flags=re.I)[0]
-        instruction = " ".join(instruction.split())
+        instruction = _instruction_text(req)
         if not instruction:
             continue
         location = req.get("requirement_path") or f"{path}[{idx}]"

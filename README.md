@@ -33,6 +33,15 @@ pages on October 21, 2026. Both remain upstream-source issues pending an officia
 correction. Complete requirement HTML fixtures and release text/hierarchy
 snapshots accompany the evidence for offline regression testing.
 
+Validation also checks repeated action leaves across mandatory instruction groups
+within an explicit “Do ALL of the following” option. It does not compare separate
+alternatives. [Golf source evidence](tests/fixtures/duplicate-content/golf.provenance.json)
+records the official page's repeated history instruction at `2.option-b.2` and
+`2.option-b.3.a` (reported downstream as `.3.1`). The linked 2026 pamphlet refers
+readers to the web requirements; it provides no replacement wording. Both entries,
+their IDs, links, response flags, and hierarchy remain preserved. The complete
+release141 semantic tree is an offline regression fixture.
+
 The release141 Insect Study recheck confirms that both distinct source elements
 belong to requirement 9, **Careers and Hobbies**, and that the beekeeping resource
 belongs to `9.b`. The linked 2026 pamphlet directs readers back to the live page

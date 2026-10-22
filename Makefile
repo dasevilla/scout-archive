@@ -1,4 +1,4 @@
-.PHONY: all all-with-cub-adventures archive-merit-badges archive-merit-badges-url archive-cub-adventures archive-cub-adventures-url index-merit-badges index-cub-adventures validate-merit-badges validate-cub-adventures report-merit-badges report-cub-adventures clean clean-cub-adventures build-website format lint pre-commit check
+.PHONY: all all-with-cub-adventures archive-merit-badges archive-merit-badges-url archive-cub-adventures archive-cub-adventures-url index-merit-badges index-cub-adventures validate-merit-badges validate-cub-adventures report-merit-badges report-cub-adventures clean clean-cub-adventures build-website format lint pre-commit check test
 
 RUN_CMD=uv run
 
@@ -100,3 +100,6 @@ pre-commit:
 	
 # Run all code quality checks
 check: lint format pre-commit
+
+test:
+	$(RUN_CMD) python -m unittest discover -s tests

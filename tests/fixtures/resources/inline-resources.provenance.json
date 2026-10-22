@@ -1,0 +1,18 @@
+{
+  "cybersecurity.html": {
+    "source_url": "https://www.scouting.org/merit-badges/cybersecurity/",
+    "fetched_date": "2026-10-21",
+    "scope": "Current requirement divs; verified in browser and HTTP HTML. Resource markers, text and links are source-authored. Trailing line whitespace normalized.",
+    "sha256": "cabe2be7275095c6a874fb11cc2c33af6821a61a99dd43a2a709011304c13840"
+  },
+  "life-skills.release141.json": {
+    "source_url": "https://www.scouting.org/skills/merit-badges/test-lab/life-skills/",
+    "archive_release": "archive-2026-10-21-141-1",
+    "archive_commit": "fc6447b4f009f0b210befd392c76ceddd4654881",
+    "archive_path": "build/merit-badges/life-skills-merit-badge.json",
+    "scope": "Exact archived JSON, not a live HTML snapshot. Original content node markup and URLs retained.",
+    "live_check_date": "2026-10-21",
+    "live_check": "Source URL and /merit-badges/life-skills/ return Page not found; Test Lab index Life Skills card has no link. Inline Stress Management reference is retained because the archived markup supplies no resource marker or line break.",
+    "sha256": "3122807d128045aa3d489b1bcad8da0c721a11dc4c723144ed12a725a5f42254"
+  }
+}

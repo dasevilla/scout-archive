@@ -1,0 +1,1512 @@
+{
+  "name": "Life Skills",
+  "overview": "",
+  "is_eagle_required": false,
+  "is_lab": true,
+  "url": "https://www.scouting.org/skills/merit-badges/test-lab/life-skills/",
+  "pdf_url": "",
+  "workbook_pdf_url": null,
+  "workbook_docx_url": null,
+  "shop_url": null,
+  "image_url": "https://www.scouting.org/wp-content/uploads/2025/01/life-skills-nobg-1@3x.png",
+  "image_filename": "life-skills-merit-badge.jpg",
+  "requirements": [
+    {
+      "id": "1",
+      "label": "1",
+      "text": "Health. Do the following:",
+      "requirement_path": "1",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Health. Do the following:"
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Describe the steps to make a doctor’s appointment.",
+          "requirement_path": "1.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the steps to make a doctor’s appointment."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Locate the hospital or urgent care center closest to your home.",
+          "requirement_path": "1.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Locate the hospital or urgent care center closest to your home."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Explain what health insurance is and why it is important to have.",
+          "requirement_path": "1.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what health insurance is and why it is important to have."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Identify 5 ways to practice medication safety at home.",
+          "requirement_path": "1.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify 5 ways to practice medication safety at home."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Describe what information should be included in your personal health record and create one for yourself.",
+          "requirement_path": "1.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe what information should be included in your personal health record and create one for yourself."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Identify 5 everyday situations where first aid would be required and what to do when first aid is needed.",
+          "requirement_path": "1.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Identify 5 everyday situations where first aid would be required and what to do when first aid is needed."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "text": "Household. Do the following:",
+      "requirement_path": "2",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Household. Do the following:"
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry.\nHow to Do Laundry",
+          "requirement_path": "2.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the steps required to do laundry. With your parent or guardian’s permission, wash and dry one load of laundry."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Do Laundry"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing.\nIroning 101: Everything You Need to Know About Ironing Clothes",
+          "requirement_path": "2.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the steps required to iron clothes. With your parent or guardian’s permission, demonstrate how to iron two different articles of clothing."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://321zips.com/blog/ironing-101-how-to-iron-clothes/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ironing 101: Everything You Need to Know About Ironing Clothes"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants.\nYouTube: How to Sew a Button by Hand YouTube: How to Sew On your Badges",
+          "requirement_path": "2.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate your knowledge of sewing by sewing a patch or button on a shirt or pair of pants."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.youtube.com/watch?v=MmcEF2GR584"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "YouTube: How to Sew a Button by Hand"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.youtube.com/watch?v=JI2YIwiEvTw"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "YouTube: How to Sew On your Badges"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen.\nEssential Home Maintenance Cleaning at Home",
+          "requirement_path": "2.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the importance of maintaining a clean household. Describe why it is important to control clutter. Demonstrate your knowledge by cleaning your bedroom, bathroom, or kitchen."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://bookstore.ksre.ksu.edu/download/essential-living-skills-essential-home-maintenance_S134C"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Essential Home Maintenance"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.cleaninginstitute.org/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cleaning at Home"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Demonstrate how to set a casual dining table and a formal dining table.\nHow to Set a Table: Basic, Casual, and Formal Table Settings How to Set a Formal Dinner Table, According to Etiquette Experts",
+          "requirement_path": "2.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate how to set a casual dining table and a formal dining table."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.realsimple.com/holidays-entertaining/entertaining/how-to-set-a-table"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Set a Table: Basic, Casual, and Formal Table Settings"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.marthastewart.com/276333/how-to-set-a-formal-dinner-table"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Set a Formal Dinner Table, According to Etiquette Experts"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "text": "Money. Do the following:",
+      "requirement_path": "3",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Money. Do the following:"
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Explain what is required to open a bank account and compare the differences between a traditional bank, an online bank, and a credit union.",
+          "requirement_path": "3.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what is required to open a bank account and compare the differences between a traditional bank, an online bank, and a credit union."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Explain the importance of saving money.",
+          "requirement_path": "3.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the importance of saving money."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Explain what online bill pay is and compare the pros and cons of paying your bills online.",
+          "requirement_path": "3.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what online bill pay is and compare the pros and cons of paying your bills online."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Describe how a credit card works, the reasons to get a credit card, the costs you may incur by using a credit card, and how to use a credit card effectively.",
+          "requirement_path": "3.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how a credit card works, the reasons to get a credit card, the costs you may incur by using a credit card, and how to use a credit card effectively."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Social. Do the following:",
+      "requirement_path": "4",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Social. Do the following:"
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Demonstrate how to properly introduce yourself in a social situation.\nHow to Introduce Yourself in Any Situation",
+          "requirement_path": "4.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate how to properly introduce yourself in a social situation."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.wikihow.com/Introduce-Yourself"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Introduce Yourself in Any Situation"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Explain what social etiquette means and how to practice it.\nWhat Is Social Etiquette?",
+          "requirement_path": "4.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what social etiquette means and how to practice it."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://thebritishschoolofexcellence.com/social-etiquette/what-is-social-etiquette/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "What Is Social Etiquette?"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Explain what it means to set personal boundaries and what to do when those boundaries are crossed.\n10 Steps to Set Healthy Boundaries",
+          "requirement_path": "4.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what it means to set personal boundaries and what to do when those boundaries are crossed."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.youtube.com/watch?v=Zb9L4XQNwPw"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "10 Steps to Set Healthy Boundaries"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Give six examples of appropriate table manners\nTop Table Manners Tips For Kids",
+          "requirement_path": "4.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Give six examples of appropriate table manners"
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://emilypost.com/client_media/files/top_table_manners_tip_for_kids.pdf"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Top Table Manners Tips For Kids"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "text": "Self-Care. Do the following:",
+      "requirement_path": "5",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Self-Care. Do the following:"
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Explain what self-respect means and how you can demonstrate it.\n20 Ways to Respect Yourself and Why It Matters",
+          "requirement_path": "5.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what self-respect means and how you can demonstrate it."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://lauraconteuse.com/ways-to-respect-yourself/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "20 Ways to Respect Yourself and Why It Matters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Explain to your counselor what might cause stress and how to manage it. Stress Management",
+          "requirement_path": "5.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain to your counselor what might cause stress and how to manage it."
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relievers/art-20047257"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Stress Management"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Explain the importance of good personal hygiene and give examples of how to practice it.\nThe Importance Of Good Hygiene",
+          "requirement_path": "5.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the importance of good personal hygiene and give examples of how to practice it."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://healthyhomefront.com/stay-well/the-importance-of-good-hygiene/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The Importance Of Good Hygiene"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Explain the benefits of exercise and demonstrate three types of exercise found in the fitness section of your Scouts BSA handbook.",
+          "requirement_path": "5.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the benefits of exercise and demonstrate three types of exercise found in the fitness section of your Scouts BSA handbook."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "text": "Employment. Do THREE of the following:",
+      "requirement_path": "6",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Employment. Do THREE of the following:"
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Create a resume and review it with your counselor.",
+          "requirement_path": "6.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Create a resume and review it with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Write a cover letter for a job posting and review it with your counselor.",
+          "requirement_path": "6.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Write a cover letter for a job posting and review it with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Describe how to make a great impression during a job interview and give 5 examples of questions that you would ask during an interview.",
+          "requirement_path": "6.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe how to make a great impression during a job interview and give 5 examples of questions that you would ask during an interview."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Explain why it is essential to write professional emails. Write a professional email thanking someone for interviewing you for a job. Share your email with your counselor.",
+          "requirement_path": "6.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain why it is essential to write professional emails. Write a professional email thanking someone for interviewing you for a job. Share your email with your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Demonstrate how to leave a professional voicemail message.",
+          "requirement_path": "6.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Demonstrate how to leave a professional voicemail message."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Explain how posts to social media can affect you when applying for a job.",
+          "requirement_path": "6.f",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain how posts to social media can affect you when applying for a job."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "text": "Transportation. Do TWO of the following:",
+      "requirement_path": "7",
+      "node_kind": "instruction_container",
+      "is_container": true,
+      "requires_response": false,
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Transportation. Do TWO of the following:"
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Explain what to do if you are involved in a car accident.\nWhat to do after a car accident: a step-by-step guide",
+          "requirement_path": "7.a",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain what to do if you are involved in a car accident."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.allstate.com/resources/car-insurance/in-case-of-a-car-accident"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "What to do after a car accident: a step-by-step guide"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Describe the steps on jumpstarting a car battery.\nHow to Jump-Start a Car in 6 Steps",
+          "requirement_path": "7.b",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Describe the steps on jumpstarting a car battery."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.kbb.com/car-advice/how-to-jump-start-battery/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "How to Jump-Start a Car in 6 Steps"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Explain the benefits of regular car maintenance.\nThe Benefits of Regular Car Maintenance",
+          "requirement_path": "7.c",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Explain the benefits of regular car maintenance."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.victorytoyota.com/the-benefits-of-regular-car-maintenance/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The Benefits of Regular Car Maintenance"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                },
+                {
+                  "type": "text",
+                  "value": " "
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Compare the differences between leasing versus buying a new car.\nLeasing vs. Buying a New Car",
+          "requirement_path": "7.d",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "Compare the differences between leasing versus buying a new car."
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://www.consumerreports.org/cars/buying-a-car/leasing-vs-buying-a-new-car-a9135602164/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Leasing vs. Buying a New Car"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "On a map of your community or using an electronic device, locate and point out the public transportation infrastructure. Plan how to get to a friend’s home or shopping center from your house. Explain the route and cost of the roundtrip to your counselor.",
+          "requirement_path": "7.e",
+          "node_kind": "action_requirement",
+          "is_container": false,
+          "requires_response": true,
+          "content": [
+            {
+              "type": "text",
+              "value": "On a map of your community or using an electronic device, locate and point out the public transportation infrastructure. Plan how to get to a friend’s home or shopping center from your house. Explain the route and cost of the roundtrip to your counselor."
+            }
+          ],
+          "resources": [],
+          "sub_requirements": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "text": "Complete the survey below to complete the test lab requirements",
+      "requirement_path": "8",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "content": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Complete the survey below to complete the test lab requirements"
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    }
+  ]
+}

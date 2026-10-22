@@ -187,7 +187,12 @@ def _validate_requirement_tree(requirements, path, errors, warnings):
                 if not isinstance(resource, dict):
                     errors.append(f"{req_path} resources[{ridx}] is not an object")
                     continue
-                if not resource.get("title") or not resource.get("url"):
+                unlinked_reference = (
+                    resource.get("type") == "reference" and resource.get("url") == ""
+                )
+                if not resource.get("title") or (
+                    not resource.get("url") and not unlinked_reference
+                ):
                     warnings.append(
                         f"{req_path} resources[{ridx}] missing title or url"
                     )

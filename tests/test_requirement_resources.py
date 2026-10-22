@@ -1,3 +1,4 @@
+import json
 import sys
 import unittest
 from pathlib import Path
@@ -8,8 +9,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 from scout_archive.requirements_pipeline import (
     HtmlExtractor,
+    LabRequirementsExtractor,
     MarkdownGenerator,
     RawRequirementItem,
+    RawTextNode,
     Resource,
     SemanticProcessor,
 )
@@ -156,3 +159,152 @@ class RequirementResourcesTest(unittest.TestCase):
         )
         MeritBadgesSpider()._attach_lab_survey(response, requirements)
         self.assertEqual(requirements[0].resources, [])
+
+
+class ResourceBoundaryRegressionTest(unittest.TestCase):
+    def test_cybersecurity_suggestions_and_support_groups(self) -> None:
+        raw = HtmlExtractor().extract((FIXTURES / "cybersecurity.html").read_text())
+        nodes = flatten(SemanticProcessor().process(raw))
+        media = nodes["4.e.2"]
+        self.assertEqual(
+            media.text,
+            "With your parent or guardian's permission, watch a movie or read a book in which cybersecurity plays a significant role. Discuss how cybersecurity topics were depicted and how realistic you think it was.",
+        )
+        self.assertEqual(
+            [r.category for r in media.resources],
+            ["Suggested Movies", "Suggested Books"],
+        )
+        self.assertTrue(
+            all(r.type == "reference" and r.url == "" for r in media.resources)
+        )
+        self.assertIn("WarGames (1983, PG)", media.resources[0].title)
+        self.assertTrue(
+            media.resources[1].title.endswith("City Spies series by James Ponti.")
+        )
+        support = nodes["5.c.7"]
+        self.assertEqual(
+            support.text,
+            "Demonstrate how to back up your data from a mobile device to a local computer or the cloud.",
+        )
+        self.assertEqual(
+            [r.category for r in support.resources], ["Apple"] * 3 + ["Android"] * 2
+        )
+        self.assertEqual(len(nodes), 50)
+        markdown = MarkdownGenerator().generate(SemanticProcessor().process(raw))
+        self.assertIn("Suggested Movies: WarGames", markdown)
+        self.assertNotIn("]()", markdown)
+        self.assertIn("Apple: [How to Back Up With iCloud", markdown)
+
+    def test_release141_life_skills_standalone_links(self) -> None:
+        archive = json.loads((FIXTURES / "life-skills.release141.json").read_text())
+        for node in flatten_archive(archive["requirements"]):
+            raw = RawRequirementItem(
+                id=node["id"],
+                content_nodes=[
+                    RawTextNode(value=f"{node['label']}. "),
+                    *node["content"],
+                ],
+            )
+            result = SemanticProcessor().process([raw])[0]
+            if node["requirement_path"] in {
+                "2.a",
+                "2.b",
+                "2.c",
+                "2.d",
+                "2.e",
+                "4.a",
+                "4.b",
+                "4.c",
+                "4.d",
+                "5.a",
+                "5.c",
+                "7.a",
+                "7.b",
+                "7.c",
+                "7.d",
+            }:
+                with self.subTest(path=node["requirement_path"]):
+                    self.assertEqual(result.text, node["text"].split("\n")[0])
+                    self.assertTrue(result.resources)
+                    self.assertTrue(
+                        all(r.title not in result.text for r in result.resources)
+                    )
+            elif node["requirement_path"] == "5.b":
+                # This link is inline, without a source resource marker or line break.
+                self.assertIn("Stress Management", result.text)
+
+    def test_lab_resource_suffix_and_instruction_protection(self) -> None:
+        fixtures = FIXTURES.parent / "hierarchy"
+        for slug, count in [("dance", 38), ("sewing-needlework", 81)]:
+            from bs4 import BeautifulSoup
+
+            blocks = BeautifulSoup(
+                (fixtures / f"{slug}.html").read_text(), "html.parser"
+            ).select(".elementor-widget-container")
+            requirements = LabRequirementsExtractor().extract_from_blocks(
+                [str(b) for b in blocks]
+            )
+            nodes = flatten(requirements)
+            self.assertEqual(len(nodes), count)
+            if slug == "dance":
+                self.assertNotIn("(video)", nodes["6.b"].text)
+                self.assertEqual(len(nodes["6.b"].resources), 2)
+                self.assertEqual(nodes["6.b"].resources[0].type, "video")
+                self.assertIn(
+                    "What accommodations would that person need", nodes["4.e"].text
+                )
+
+    def test_notes_and_inline_links_remain_instructional(self) -> None:
+        html = (
+            'Use <a href="https://example.org/tool">this tool</a> to record results.'
+            '<br><strong><a href="https://example.org/guide">Guide</a></strong>'
+            "<br>Note: Discuss limitations with your counselor."
+            '<br>Resources: <a href="https://example.org/video">Film</a> (video)'
+            "<p>Suggested Books: Read a book and explain your choice.</p>"
+        )
+        result = SemanticProcessor().process(
+            [
+                RawRequirementItem(
+                    id="1", content_nodes=HtmlExtractor().extract_nodes(html)
+                )
+            ]
+        )[0]
+        self.assertIn("Use this tool to record results.", result.text)
+        self.assertIn("Note: Discuss limitations with your counselor.", result.text)
+        # A prose paragraph is retained even if it uses a resource-like phrase.
+        self.assertIn("Read a book and explain your choice.", result.text)
+        self.assertNotIn("Guide", result.text)
+        self.assertNotIn("(video)", result.text)
+        self.assertEqual(
+            Resource(title="Guide", url="https://example.org").model_dump(),
+            {"title": "Guide", "url": "https://example.org", "type": "website"},
+        )
+
+    def test_unlabeled_governed_and_action_links_stay_in_prose(self) -> None:
+        for html, retained in [
+            (
+                'Discuss the following:<br><a href="https://example.org/topic">Conservation</a>',
+                "Conservation",
+            ),
+            (
+                'Discuss safety.<br><a href="https://example.org/course">Complete this course</a>',
+                "Complete this course",
+            ),
+        ]:
+            with self.subTest(html=html):
+                result = SemanticProcessor().process(
+                    [
+                        RawRequirementItem(
+                            id="1", content_nodes=HtmlExtractor().extract_nodes(html)
+                        )
+                    ]
+                )[0]
+                self.assertIn(retained, result.text)
+
+
+def flatten_archive(nodes: list[dict]) -> list[dict]:
+    result = []
+    for node in nodes:
+        result.append(node)
+        result.extend(flatten_archive(node["sub_requirements"]))
+    return result

@@ -1,5 +1,5 @@
 version = 1
-revision = 3
+revision = 5
 requires-python = ">=3.12"
 
 [[package]]
@@ -770,7 +770,7 @@ requires-dist = [
     { name = "jinja2", specifier = ">=3.1.4" },
     { name = "markdownify", specifier = ">=0.13.1" },
     { name = "pillow", specifier = ">=10.4.0" },
-    { name = "pydantic", specifier = ">=2.8.2" },
+    { name = "pydantic", specifier = ">=2.12" },
     { name = "scrapy", specifier = ">=2.11.2" },
 ]
 

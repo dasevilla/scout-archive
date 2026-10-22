@@ -115,6 +115,26 @@ class ValidateMeritBadgesArchiveTest(unittest.TestCase):
                 )
                 self.assertEqual(warnings, [])
 
+    def test_unlinked_references_require_explicit_type_and_title(self) -> None:
+        for resource, expect_warning in [
+            ({"title": "Book list", "url": "", "type": "reference"}, False),
+            ({"title": "Book list", "url": "", "type": "website"}, True),
+            ({"title": "Book list", "type": "reference"}, True),
+            ({"title": "", "url": "", "type": "reference"}, True),
+        ]:
+            with self.subTest(resource=resource):
+                node = requirement("1")
+                node["resources"] = [resource]
+                errors: list[str] = []
+                warnings: list[str] = []
+                validate_merit_badges_archive._validate_requirement_tree(
+                    [node], "requirements", errors, warnings
+                )
+                self.assertEqual(errors, [])
+                self.assertEqual(
+                    any("missing title or url" in w for w in warnings), expect_warning
+                )
+
     def test_duplicate_sibling_warning_preserves_content(self) -> None:
         first = requirement("a")
         first["text"] = "Explain the career. Resources: Career video"

@@ -46,7 +46,7 @@ Requirement object (semantic tree):
   be inferred from the semantic tree (see below). This list is not intended to
   be an exhaustive grammatical decomposition.
 - `content` (array): Requirement content as a semantic HTML node list.
-- `resources` (array): Resource links (see below).
+- `resources` (array): Linked or unlinked references (see below).
 - `sub_requirements` (array): Child requirements.
 
 Raw node object (`content` tree):
@@ -57,8 +57,11 @@ Raw node object (`content` tree):
 Resource object:
 
 - `title` (string)
-- `url` (string)
-- `type` (string): `website`, `video`, `document`, or `survey`. Types use explicit
+- `url` (string): Empty for an unlinked source reference; no URL is invented.
+- `category` (optional string): Exact source grouping, such as `Apple`, `Android`,
+  `Suggested Movies`, or `Suggested Books`. Omitted for ungrouped resources.
+- `type` (string): `website`, `video`, `document`, `survey`, or `reference` (an
+  unlinked source list). Types use explicit
   source labels where available, recognized video hosts and document extensions,
   and otherwise default to `website`. Titles and destinations retain the source
   wording and URLs. Older archives omit this additive field.
@@ -66,6 +69,10 @@ Resource object:
 Resource extraction recognizes both formatted markers and plain `Resources:`
 markers joined to requirement prose. It keeps subsequent instruction text and
 does not replace official wording with generated explanations.
+Link-only lines following prose also become resources; inline citations remain
+in the instruction. Explicit suggested movie/book lists retain their full wording
+as one reference per source list, avoiding ambiguous comma-based title splitting.
+Markdown prints unlinked references as text and retains resource categories.
 
 Test Lab pages place their **Go to Survey** button outside the requirement
 text-editor widgets. That link is attached to the requirement that says to

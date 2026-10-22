@@ -33,7 +33,10 @@ class RawRequirementItem(BaseModel):
 class Resource(BaseModel):
     title: str
     url: str
-    type: Literal["website", "video", "document", "survey"] = "website"
+    type: Literal["website", "video", "document", "survey", "reference"] = "website"
+    category: Optional[str] = Field(
+        default=None, exclude_if=lambda value: value is None
+    )
 
     @model_validator(mode="before")
     @classmethod
@@ -85,6 +88,7 @@ class SemanticRequirement(BaseModel):
     # a shape-classified instruction container. Private state is not archived.
     _owns_repaired_numbered_list: bool = PrivateAttr(default=False)
     _is_governed_option: bool = PrivateAttr(default=False)
+    _source_content: List[RawNode] = PrivateAttr(default_factory=list)
 
 
 RawElementNode.model_rebuild()
@@ -283,6 +287,7 @@ class SemanticProcessor:
 
     def _process_item(self, item: RawRequirementItem) -> SemanticRequirement:
         label, content_nodes = self._promote_label(item.content_nodes)
+        source_content = content_nodes
         resources: List[Resource] = []
         content_nodes = self._extract_resources(content_nodes, resources)
         # Embedded citations are also discoverable as resources, but their titles
@@ -295,13 +300,15 @@ class SemanticProcessor:
             for sub in item.sub_requirements
             if not self._is_excluded_requirement(sub)
         ]
-        return SemanticRequirement(
+        requirement = SemanticRequirement(
             id=item.id,
             label=label,
             content=content_nodes,
             resources=resources,
             sub_requirements=sub_requirements,
         )
+        requirement._source_content = source_content
+        return requirement
 
     def _is_excluded_requirement(self, item: RawRequirementItem) -> bool:
         text = self._nodes_text(item.content_nodes)
@@ -416,13 +423,44 @@ class SemanticProcessor:
     ) -> List[RawNode]:
         nodes = self._split_resource_labels(nodes)
         if not self._has_resource_label(nodes):
-            return nodes
+            return self._extract_standalone_links(nodes, resources)
         cleaned, _, label_found = self._extract_resources_nodes(
             nodes, resources, in_resources=False
         )
         if label_found:
             cleaned = self._trim_trailing_breaks(cleaned)
-        return cleaned
+        return self._extract_standalone_links(cleaned, resources)
+
+    def _extract_standalone_links(
+        self, nodes: List[RawNode], resources: List[Resource]
+    ) -> List[RawNode]:
+        """Separate link-only lines after prose; retain inline citations and notes."""
+        cleaned: List[RawNode] = []
+        line: List[RawNode] = []
+
+        def flush() -> None:
+            links = self._collect_links(line)
+            preceding_text = self._nodes_text(cleaned).strip()
+            if (
+                preceding_text
+                and links
+                and not self._text_without_links(line).strip()
+                and not introduces_numbered_list(preceding_text)
+                and not any(self.ACTION_CLAUSE_RE.match(link.title) for link in links)
+            ):
+                self._extend_unique_resources(resources, links)
+            else:
+                cleaned.extend(line)
+            line.clear()
+
+        for node in nodes:
+            if isinstance(node, RawElementNode) and node.tag == "br":
+                flush()
+                cleaned.append(node)
+            else:
+                line.append(node)
+        flush()
+        return self._trim_trailing_breaks(cleaned)
 
     def _split_resource_labels(self, nodes: List[RawNode]) -> List[RawNode]:
         """Separate a trailing resource marker even when joined to prose."""
@@ -473,10 +511,48 @@ class SemanticProcessor:
     ) -> tuple[List[RawNode], bool, bool]:
         cleaned: List[RawNode] = []
         label_found = False
+        category: Optional[str] = None
         for node in nodes:
+            if in_resources and isinstance(node, RawTextNode):
+                text = node.value.strip()
+                # These are explicit source resource labels, not arbitrary prose
+                # following Resources (which may be another instruction or note).
+                suggested = re.fullmatch(
+                    r"Suggested (Movies|Books):\s*(.+)", text, re.DOTALL
+                )
+                if suggested:
+                    resources.append(
+                        Resource(
+                            title=suggested.group(2),
+                            url="",
+                            type="reference",
+                            category=f"Suggested {suggested.group(1)}",
+                        )
+                    )
+                    continue
+                if text in {"Apple:", "Android:"}:
+                    category = text[:-1]
+                    continue
+                if (
+                    re.fullmatch(r"\(\s*(?:video|website)\s*\)", text, re.IGNORECASE)
+                    and resources
+                ):
+                    previous = resources[-1]
+                    resources[-1] = Resource(
+                        title=f"{previous.title} {text}",
+                        url=previous.url,
+                        category=previous.category,
+                    )
+                    continue
+            resource_start = len(resources)
             updated_node, in_resources, node_label_found = (
                 self._extract_resources_from_node(node, resources, in_resources)
             )
+            if category:
+                for resource in resources[resource_start:]:
+                    resource.category = category
+            if not in_resources:
+                category = None
             if node_label_found:
                 label_found = True
             if updated_node is not None:
@@ -502,6 +578,15 @@ class SemanticProcessor:
                 return node, False, False
             if not in_resources and self._is_resource_label_node(node):
                 return None, True, True
+
+            if (
+                in_resources
+                and node.tag in {"p", "div"}
+                and self._text_without_links([node]).strip()
+            ):
+                # A new prose paragraph ends the resource section. Its own
+                # instructions and notes do not inherit a previous marker.
+                return node, False, False
 
             if node.tag == "a":
                 if in_resources:
@@ -722,16 +807,33 @@ class SemanticProcessor:
             return [requirement]
 
         split_requirements: List[SemanticRequirement] = []
+        source_segments = self._split_nodes_on_inline_labels(
+            requirement._source_content, initial_label=requirement.label
+        )
+        source_labels_match = [label for label, _ in source_segments] == [
+            label for label, _ in segments
+        ] and all(
+            self._label_kind(label) == self._label_kind(segments[0][0])
+            for label, _ in segments
+        )
         for index, (label, content) in enumerate(segments):
             normalized_label = self._normalize_label(label)
             if not normalized_label:
                 return [requirement]
+            resources = requirement.resources if index == 0 else []
+            if source_labels_match:
+                # Extract each segment's resources before discarding source
+                # markers, so later subrequirements keep their own references.
+                resources = []
+                content = self._extract_resources(source_segments[index][1], resources)
+                self._extend_unique_resources(resources, self._collect_links(content))
+                content = self._clean_attributes(self._normalize_text(content))
             split_requirements.append(
                 SemanticRequirement(
                     id=requirement.id if index == 0 else normalized_label,
                     label=normalized_label,
                     content=self._normalize_text(content),
-                    resources=requirement.resources if index == 0 else [],
+                    resources=resources,
                     sub_requirements=[],
                 )
             )
@@ -1145,9 +1247,11 @@ class SemanticProcessor:
     def _extend_unique_resources(
         self, resources: List[Resource], additions: List[Resource]
     ) -> None:
-        seen = {(resource.title, resource.url) for resource in resources}
+        seen = {
+            (resource.title, resource.url, resource.category) for resource in resources
+        }
         for resource in additions:
-            key = (resource.title, resource.url)
+            key = (resource.title, resource.url, resource.category)
             if key in seen:
                 continue
             resources.append(resource)
@@ -1766,7 +1870,12 @@ class MarkdownGenerator:
         if requirement.resources:
             lines.append("")
             resources_text = ", ".join(
-                f"[{self._escape_link_label(resource.title)}]({resource.url})"
+                (f"{resource.category}: " if resource.category else "")
+                + (
+                    f"[{self._escape_link_label(resource.title)}]({resource.url})"
+                    if resource.url
+                    else self._escape_link_label(resource.title)
+                )
                 for resource in requirement.resources
             )
             lines.append(continuation_indent + f"**Resources:** {resources_text}")

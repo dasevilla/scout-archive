@@ -38,7 +38,7 @@ First aid—caring for injured or ill persons until they can receive professiona
     **Resources:** [Scout Health Forms (website)](https://www.scouting.org/health-and-safety/safety-moments/annual-health-and-medical-record/)
   - (b) Using checklists provided in the *First Aid* merit badge pamphlet or ones approved by your counselor, do the following:
 
-    **Resources:** [Personal, Family, and Troop First Aid Kit Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf), [First Aid Kit Checklists (website)](https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/)
+    **Resources:** [Personal, Family, and Troop First Aid Kit Checklist (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist%20Version%20Oct%202026.pdf)
 
     - (1) Assemble a personal first-aid kit for hiking and backpacking. Demonstrate the proper use of each item in your first-aid kit to your counselor.
     - (2) With your counselor, inspect a unit, home, vehicle, or camp first-aid kit and discuss your findings.

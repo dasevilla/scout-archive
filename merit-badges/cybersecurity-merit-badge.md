@@ -129,7 +129,7 @@ The Cybersecurity Merit Badge equips Scouts with essential knowledge and skills 
     **Resources:** [CyberPatriot: National Youth Cyber Defense Competition (website)](https://www.uscyberpatriot.org/), [AFA CyberCamps (website)](https://www.uscyberpatriot.org/afa-cybercamp-overview/), [U.S. Cyber Camp (website)](https://www.rocketcenter.com/SpaceCamp), [National Cyber League (website)](https://nationalcyberleague.org/)
   - (b) Participate in a cybersecurity competition with members of your troop, school, or some other group approved by your counselor. Either design your own competition or use an existing platform.
 
-    **Resources:** [Cyber Challenge: Online Cybersecurity Game \| Cybermission (website)](https://www.cybermission.tech/game), [Cyber Threat Defender—The UTSA CIAS (website)](https://cias.utsa.edu/ctd/), [K-12 Cybersecurity Games—The UTSA CIAS (website)](https://cias.utsa.edu/k-12/cybersecurity-games/), [picoCTF—CMU Cybersecurity Competition (website)](https://picoctf.org/)
+    **Resources:** [Cyber Threat Defender—The UTSA CIAS (website)](https://cias.utsa.edu/ctd/), [K-12 Cybersecurity Games—The UTSA CIAS (website)](https://cias.utsa.edu/k-12/cybersecurity-games/), [picoCTF—CMU Cybersecurity Competition (website)](https://picoctf.org/)
   - (c) Give a presentation to your patrol, troop, or another group approved by your counselor, on a cybersecurity topic of your choice. Your presentation must include at least one demonstration and/or hands-on activity.
 
 - (9) **Careers.** Do ONE of the following:

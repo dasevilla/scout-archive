@@ -38,7 +38,7 @@ Rowing is the use of oars as a means of propelling boats, has grown from a basic
     - (4) Land and moor or rack your craft.
     - (5) Tie the following mooring knots—clove hitch, roundturn with two half-hitches, bowline, Wellman's knot, and mooring hitch.
 
-      **Resources:** [Essential Sailing Knots Tutorial: How To Tie Bowline, Reef Knot, Clove Hitch & More (video)](https://youtu.be/L-SWGGN3nsM), [Mooring Hitch Knot \| How To Tie a Mooring Hitch (video)](https://youtu.be/EOEOAaMY_Uo), [Rowing and Sailing Knots (PDF)](https://padutchbsa.org/wp-content/uploads/2012/04/rowing-and-sailing-knots2.pdf)
+      **Resources:** [Essential Sailing Knots Tutorial: How To Tie Bowline, Reef Knot, Clove Hitch & More (video)](https://youtu.be/L-SWGGN3nsM), [Mooring Hitch Knot \| How To Tie a Mooring Hitch (video)](https://youtu.be/EOEOAaMY_Uo)
   - (b) Participate as a rowing team member in a competitive rowing meet. The team may be sponsored by a school, club, or Scout unit. The meet must include competition between two or more teams with different sponsors. Complete at least 10 hours of team practice prior to the meet.
 
 - (5) Do ONE of the following:

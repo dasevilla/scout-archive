@@ -50,7 +50,7 @@ If you have ever wanted to go back in time or wished you could visit the future,
 
 - (5) Read about the world around you from any two sources: books, magazines, newspapers, the internet (with your parent or guardian's permission), field manuals, etc. Topics may include Scouting, sports, environmental problems, politics, social issues, current events, nature, religion, etc. Discuss what you have learned with your counselor.
 
-  **Resources:** [Summarizing Main Ideas (video)](https://youtu.be/LbO3lRXT0ww?si=GDgqXvC8Jw_0S09p), [Youth Read Sacred Texts (video)](https://vimeo.com/1153345240)
+  **Resources:** [Summarizing Main Ideas (video)](https://youtu.be/LbO3lRXT0ww?si=GDgqXvC8Jw_0S09p), [Youth Read Sacred Texts (video)](https://youtu.be/d54LzFqZnOI)
 
 - (6) With your counselor's and parent or guardian's permission, choose ONE of the following activities and devote at least four hours of service to that activity. Discuss your participation with your counselor.
   - (a) Read to a sick, blind, or homebound person in a hospital or in an extended-care facility.

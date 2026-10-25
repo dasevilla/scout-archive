@@ -52,7 +52,7 @@ Earning this merit badge enables a Scout to learn about the history and kinds of
 
 - (10) Tell where people can go to obtain the help of a lawyer if they are unable to pay for one. Tell what you can do if you can afford a lawyer but do not know of any in your area.
 
-  **Resources:** [Legal Help Program If You Cannot Afford an Attorney (website)](https://www.lsc.gov/), [How To Find An Attorney (website)](https://www.americanbar.org/groups/public_education/resources/public-information/how-do-i-find-a-lawyer-/), [How Do I Find a Lawyer (video)](https://youtu.be/8V35XuRqr-c)
+  **Resources:** [Legal Help Program If You Cannot Afford an Attorney (website)](https://www.lsc.gov/), [How To Find An Attorney (website)](https://www.americanbar.org/groups/public_education/resources/public-information/how-do-i-find-a-lawyer/), [How Do I Find a Lawyer (video)](https://youtu.be/8V35XuRqr-c)
 
 - (11) Discuss with your counselor the importance in our society of TWO of the following areas of the law or process:
   - (a) Administrative

@@ -129,8 +129,6 @@ A search is an emergency situation requiring a team of trained searchers to loca
     **Resources:** [Search and Rescue Glossary (website)](https://myem.jibc.ca/wp-content/uploads/2018/04/SAR-Glossary-from-SAR-Mgmt-Course.pdf)
 
     - (1) Evaluating search urgency
-
-      **Resources:** [Urban Search Urgency Evaluation Form (PDF)](https://www.criminaljustice.ny.gov/missing/docs/search-urgency-chart.pdf)
     - (2) Establishing confinement
 
       **Resources:** [Establishing Confinement (video)](https://youtu.be/JxWP2D538PY)

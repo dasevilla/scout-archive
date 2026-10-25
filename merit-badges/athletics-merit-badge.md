@@ -26,8 +26,6 @@ Being involved in an athletic endeavor is not only a way to have fun, but it als
     **Resources:** [Nutrition Tips for High School Athletes (video)](https://youtu.be/dISDEsTr1Rc?si=4QkQnfQQjYs4GRuf), [Refusing Use of Harmful Substances (video)](https://youtu.be/_NUo_52vkkg?si=cy-fCChvsa8SVNQT)
   - (c) Describe the elements of a nutritious, balanced diet, and explain what you do to maintain a healthy diet.
 
-    **Resources:** [What Is MyPlate? (website)](https://www.myplate.gov/eat-healthy/what-is-myplate)
-
 - (3) Select an athletic activity that interests you, then do the following:
 
   **Resources:** [Which Sport Are You Made for? Take Our 60-Second Test (website)](https://www.bbc.com/news/uk-28062001)

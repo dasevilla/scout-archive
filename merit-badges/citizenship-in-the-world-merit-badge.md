@@ -23,7 +23,7 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
     **Resources:** [National Interest in International Relations (video)](https://youtu.be/geCF1K76nEs)
   - (b) Select a foreign country and discuss with your counselor how its geography, natural resources, and climate influence its economy and its global partnerships with other countries.
 
-    **Resources:** [The Impact of Geography on the Global Economy (website)](https://geolutins.com/the-impact-of-geography-on-the-global-economy), [resourcetrade.earth (website)](https://resourcetrade.earth), [The Observatory of Economic Complexity (OEC) (website)](https://oec.world/en), [USGS Geospatial Data Sources (website)](https://www.usgs.gov/educational-resources/usgs-geospatial-data-sources)
+    **Resources:** [Resource Transitions (website)](https://resourcetrade.earth), [The Observatory of Economic Complexity (OEC) (website)](https://oec.world/en), [USGS Geospatial Data Sources (website)](https://www.usgs.gov/educational-resources/usgs-geospatial-data-sources)
 
 - (4) Do TWO of the following:
   - (a) Explain international law and how it differs from national law. Explain the role of international law and how international law can be used as a tool for conflict resolution.

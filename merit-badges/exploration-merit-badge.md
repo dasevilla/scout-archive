@@ -46,7 +46,7 @@ Discover the history and importance of various kinds of exploration by earning t
 - (5) **Exploration in Lab and Field.** Do ONE of the following, and share what you learned with your counselor:
   - (a) With your parent or guardian's permission and counselor's approval, visit either in person or via the internet an exploration sponsoring organization (such as The Explorers Club, National Geographic Society, Smithsonian Institution, American Alpine Club, World Wildlife Fund, or similar organization). Find out what type(s) of exploration the organization supports.
 
-    **Resources:** [The Explorers Club (website)](https://www.explorers.org/), [National Geographic Society (website)](https://www.nationalgeographic.org/society/), [Smithsonian Institution (website)](https://www.si.edu/), [World Wildlife Federation (website)](https://www.worldwildlife.org/)
+    **Resources:** [The Explorers Club (website)](https://www.explorers.org/), [National Geographic Society (website)](https://www.nationalgeographic.org), [Smithsonian Institution (website)](https://www.si.edu/), [World Wildlife Federation (website)](https://www.worldwildlife.org/), [American Alpine Club (website)](https://americanalpineclub.org/)
   - (b) With permission and approval, visit either in person or via the internet a science lab, astronomical observatory, medical research facility, or similar site. Learn what exploration is done in this facility.
 
 - (6) **Expedition Planning.** Discuss with your counselor each of the following steps for conducting a successful exploration activity. Explain the need for each step.

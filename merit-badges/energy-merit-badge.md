@@ -37,7 +37,7 @@ Saving, producing, and using energy wisely will be critical to America’s futur
 
 - (4) Conduct an energy audit of your home. Keep a 14-day log that records what you and your family did to reduce energy use. Include the following in your report and, after the 14-day period, discuss what you have learned with your counselor.
 
-  **Resources:** [Energy 101: Home Energy Assessment (video)](https://youtu.be/YolBP0-vkBU), [Do-It-Yourself Home Energy Assessments (website)](https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments), [Do It Yourself Home Energy Audit Form (PDF)](https://www.seattle.gov/Documents/Departments/OSE/GreenHomeGuide-FYIenergyaudit.pdf)
+  **Resources:** [Energy 101: Home Energy Assessment (video)](https://youtu.be/YolBP0-vkBU), [Do It Yourself Home Energy Audit Form (PDF)](https://www.seattle.gov/Documents/Departments/OSE/GreenHomeGuide-FYIenergyaudit.pdf)
 
   - (a) List the types of energy used in your home such as electricity, wood, oil, liquid petroleum, and natural gas, and tell how each is delivered and measured, and the current cost; OR record the transportation fuel used, miles driven, miles per gallon, and trips using your family car or another vehicle.
 

@@ -79,8 +79,6 @@ Personal fitness is an individual effort and desire to be the best one can be. R
     **Resources:** [3-Day Food and Drink Log (fillable) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/3-Day%20Food%20and%20Drink%20Log%20%28fillable%29.pdf)
   - (d) Based on your diet log, identify at least two improvement goals related to diet and nutrition.
 
-    **Resources:** [Food Groups and MyPlate (video)](https://youtu.be/L7QOUiQCb5E?si=aSUG980t0c5bQt0p)
-
 - (6) **Plan the Program.** Outline with your counselor a comprehensive 12-week physical fitness and nutrition program that you will complete based on your improvement goals and ability. The program must incorporate the following:
 
   **Resources:** [12-Week Physical Fitness Program (fillable) (PDF)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/physical_fitness_12week_program%20%28fillable%29.pdf), [Sample Full Workout—Warm-Up, Cardiorespiratory, Strength, Flexibility, and Cool-Down (video)](https://youtu.be/WpIFlh5whcs?si=khfLv9X7TNHJ3kqF), [Sample Short Workout—Core Strength (video)](https://youtu.be/jYfda_ccTjc?si=iATnjRp8ZHz6uy6a), [Sample Short Workout—Variety (video)](https://youtu.be/bhsu24pEgVY?si=_4LBRA_N3sWjx777)

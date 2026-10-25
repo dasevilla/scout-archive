@@ -25,7 +25,7 @@ Scouts are often called upon to help because they know first aid and they know a
       **Resources:** [What to Do If You Smell Gas (video)](https://youtu.be/RPJGdDOeGx0?si=1sYjSYZy3Hn1xwUW), [How to Turn Off Main Gas Valve (video)](https://youtu.be/W8OKKu0dVUA)
     - (4) Food poisoning
 
-      **Resources:** [Stomach Flu and Food Poisoning (video)](https://youtu.be/VKw0cpNLALI?si=c2nZIN0OgYjoKABA), [Safe Food Handling (video)](https://www.youtube.com/watch?v=nf4R6XHCU4Q), [How to Know If You Have Food Poisoning (video)](https://youtu.be/U7yq-GwbcgE)
+      **Resources:** [Food Safety in Seconds (video)](https://youtu.be/iguM_pqetzo), [How To Know if You Have Food Poisoning (video)](https://youtu.be/U7yq-GwbcgE)
     - (5) Automobile crash
 
       **Resources:** [Responding to a Car Crash (video)](https://youtu.be/uMAgxMFjz6A?si=HSF5Su0SyabxF-Rl)
@@ -49,7 +49,7 @@ Scouts are often called upon to help because they know first aid and they know a
       **Resources:** [How to Stay Safe in a Nuclear Emergency (video)](https://youtu.be/tqDna6z4F9c)
     - (12) Fire or explosion in a public place
 
-      **Resources:** [How to Survive a Building Explosion (video)](https://youtu.be/uXG31J68dcY), [How to Survive a Burning High-Rise (video)](https://youtu.be/P8Naa4pzDdo?si=PAoTGFJgturiTeSm)
+      **Resources:** [How To Survive a Burning High-Rise (video)](https://youtu.be/P8Naa4pzDdo)
     - (13) Violence in a public place
 
       **Resources:** [How To Respond to an Active Shooter (video)](https://www.youtube.com/watch?v=sshDd_AgRAA&t=6s)
@@ -99,8 +99,6 @@ Scouts are often called upon to help because they know first aid and they know a
 
 - (4) **Dangerous Situations.** Show how you could save a person from the following dangerous situations without putting yourself in danger:
   - (a) Live household electric wire
-
-    **Resources:** [Rescue and First Aid for Electric Shock (video)](https://youtu.be/O2VpgB8Xrzs?si=gEteTmTENwWE4AWh)
   - (b) A structure filled with carbon monoxide
 
     **Resources:** [Rescue from CO Poisoning (video)](https://youtu.be/bnjg17WkxHI)

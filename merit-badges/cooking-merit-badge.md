@@ -30,9 +30,6 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 
 - (2) **Nutrition.** Do the following:
   - (a) Using the MyPlate food guide or the current USDA nutrition model, give five examples for EACH of the following food groups, the recommended number of daily servings, and the recommended serving size:
-
-    **Resources:** [MyPlate Food Groups (website)](https://www.myplate.gov/eat-healthy/what-is-myplate)
-
     - (1) Fruits
     - (2) Vegetables
     - (3) Grains
@@ -42,8 +39,6 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 
     **Resources:** [Tips for Limiting Sugar in Your Diet (video)](https://youtu.be/rvEVY6SCEUg?si=rzAoy8sQR3eLK4QI)
   - (c) Track your daily level of activity and your daily caloric need based on your activity for five days. Then, based on the MyPlate food guide, discuss with your counselor an appropriate meal plan for yourself for one day.
-
-    **Resources:** [MyPlate Food Plan (website)](https://www.myplate.gov/myplate-plan)
   - (d) Discuss your current eating habits with your counselor and what you can do to eat healthier, based on the MyPlate food guide.
 
     **Resources:** [Healthy Eating Tip Sheets (website)](https://www.myplate.gov/myplate-tip-sheets)
@@ -72,14 +67,8 @@ The Cooking merit badge introduces principles of cooking that can be used both a
   **Resources:** [The Five Tastes (video)](https://youtu.be/MZn2PMUWO-Y?si=DlM3rdYtgJGpJ5hB)
 
   - (a) Using the MyPlate food guide or the current USDA nutrition model, plan menus for three full days of meals (three breakfasts, three lunches, and three dinners) plus one dessert. Your menus should include enough to feed yourself and at least one adult, keeping in mind any special needs (such as food allergies) and how you keep your foods safe and free from cross-contamination. List the equipment and utensils needed to prepare and serve these meals.
-
-    **Resources:** [MyPlate Kitchen (website)](https://www.myplate.gov/myplate-kitchen)
   - (b) Find recipes for each meal. Create a shopping list for your meals showing the amount of food needed to prepare for the number of people you will serve. Determine the cost for each meal.
-
-    **Resources:** [MyPlate Kitchen (website)](https://www.myplate.gov/myplate-kitchen)
   - (c) Share and discuss your meal plan and shopping list with your counselor.
-
-    **Resources:** [MyPlate Kitchen (website)](https://www.myplate.gov/myplate-kitchen)
   - (d) Using at least five of the 10 cooking methods from requirement 3, prepare and serve yourself and at least one adult (parent, family member, guardian, or other responsible adult) one breakfast, one lunch, one dinner, and one dessert from the meals you planned.
   - (e) Time your cooking to have each meal ready to serve at the proper time. Have an adult verify the preparation of the meal to your counselor.
 
@@ -89,10 +78,8 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 - (5) **Camp Cooking.** Do the following:
   - (a) Using the MyPlate food guide or the current USDA nutrition model, plan a menu that includes four meals, one snack, and one dessert for your patrol (or a similar size group of up to eight youth, including you) on a camping trip. These four meals must include two breakfasts, one lunch, and one dinner. Additionally, you must plan one snack and one dessert. Your menus should include enough food for each person, keeping in mind any special needs (such as food allergies) and how you keep your foods safe and free from cross-contamination. List the equipment and utensils needed to prepare and serve these meals.
 
-    **Resources:** [MyPlate Tools (website)](https://www.myplate.gov/resources/tools)
+    **Resources:** [Meal Planner (XLS)](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cooking/Blank_Menu_Template.xlsx)
   - (b) Find or create recipes for the four meals, the snack, and the dessert you have planned. Adjust menu items in the recipes for the number to be served. Create a shopping list and budget to determine the per-person cost.
-
-    **Resources:** [MyPlate Tools (website)](https://www.myplate.gov/resources/tools)
   - (c) Share and discuss your menu plans and shopping list with your counselor.
   - (d) In the outdoors, using your menu plans and recipes for this requirement, cook two of the four meals you planned using either a camp stove OR backpacking stove. Use a skillet OR a Dutch oven over campfire coals for the third meal, and cook the fourth meal in a foil pack OR on a skewer. Serve all of these meals to your patrol or a group of youth.
 
@@ -109,7 +96,7 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 - (6) **Trail and Backpacking Meals.** Do the following:
   - (a) Using the MyPlate food guide or the current USDA nutrition model, plan a day of meals for trail hiking or backpacking that includes one breakfast, one lunch, one dinner, and one snack. These meals must consider weight, not require refrigeration and are to be consumed by three to five people (including you). List the equipment and utensils needed to prepare and serve these meals.
 
-    **Resources:** [MyPlate Kitchen (website)](https://www.myplate.gov/myplate-kitchen)
+    **Resources:** [Repackaging Food for Backpacking (video)](https://youtu.be/r7hQE1zp0uk)
   - (b) Create a shopping list for your meals, showing the amount of food needed to prepare and serve each meal, and the cost for each meal.
   - (c) Share and discuss your menu and shopping list with your counselor. Your plan must include how to repackage foods for your hike or backpacking trip to eliminate as much bulk, weight, and garbage as possible.
 

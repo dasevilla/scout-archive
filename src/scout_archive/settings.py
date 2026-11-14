@@ -115,7 +115,6 @@ CUB_ADVENTURE_OUTPUT_DIR = pathlib.Path("cub-adventures")
 
 # Cub Scout Adventures Configuration
 CUB_SCOUT_RANKS = ["lion", "tiger", "wolf", "bear", "webelos", "arrow-of-light"]
-MIN_REQUIREMENT_WORDS = 5
 
 # Validation Constants
 CUB_SCOUT_RANK_NAMES = ["Lion", "Tiger", "Wolf", "Bear", "Webelos", "Arrow of Light"]

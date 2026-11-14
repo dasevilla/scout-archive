@@ -2,6 +2,7 @@ import re
 import json
 
 import scrapy
+from scrapy import Selector
 
 from scout_archive.items import CubScoutAdventureItem
 from scout_archive.requirements_pipeline import (
@@ -263,37 +264,23 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         )
 
         for req_section in req_sections:
-            req_heading = req_section.xpath("text()").get() or ""
-            req_match = re.search(r"Requirement (\d+)", req_heading)
-
+            req_match = self._match_requirement_heading(req_section)
             if not req_match:
                 continue
 
             req_number = req_match.group(1)
             if req_number in seen_requirements:
                 continue
-            seen_requirements.add(req_number)
-
-            text_container = req_section.xpath(
-                "ancestor::div[contains(@class, 'elementor-element') and contains(@class, 'elementor-widget-heading')][1]"
-                "/following-sibling::div[contains(@class, 'elementor-widget-text-editor')][1]"
-                "//div[contains(@class, 'elementor-widget-container')][1]"
-            )
-
-            requirement_html = text_container.get() if text_container else ""
-            fallback_text = " ".join(
-                text_container.xpath(".//text()").getall() if text_container else []
-            ).strip()
-
-            activities = self.extract_activities_for_requirement(response, req_section)
             requirement_data = self._build_requirement_data(
                 req_number=req_number,
-                requirement_html=requirement_html,
-                fallback_text=fallback_text,
-                activities=activities,
+                content=self._requirement_widget_content(req_section),
+                activities=self.extract_activities_for_requirement(
+                    response, req_section
+                ),
             )
             if requirement_data:
                 requirements_list.append(requirement_data)
+                seen_requirements.add(req_number)
 
         return requirements_list
 
@@ -301,7 +288,7 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         requirements_list = []
         seen_requirements = set()
         req_sections = response.xpath(
-            "//h2[contains(text(), 'Requirement')] | //h3[contains(text(), 'Requirement')]"
+            "//h2[contains(., 'Requirement')] | //h3[contains(., 'Requirement')]"
         )
 
         self.logger.info(
@@ -309,66 +296,74 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         )
 
         for req_section in req_sections:
-            req_heading = req_section.xpath("text()").get() or ""
-            req_match = re.search(r"Requirement (\d+)", req_heading)
-
+            req_match = self._match_requirement_heading(req_section)
             if not req_match:
                 continue
 
             req_number = req_match.group(1)
             if req_number in seen_requirements:
                 continue
-            seen_requirements.add(req_number)
-
-            req_text_parts = []
-
-            if not req_text_parts:
-                req_text_parts = req_section.xpath(
-                    "following-sibling::p[1]//text()"
-                ).getall()
-
-            if not req_text_parts:
-                req_text_parts = req_section.xpath(
-                    "../following-sibling::p[1]//text()"
-                ).getall()
-
-            if not req_text_parts:
-                req_text_parts = req_section.xpath(
-                    "parent::*/following-sibling::*/p[1]//text()"
-                ).getall()
-
-            if not req_text_parts:
-                req_text_parts = req_section.xpath("following::p[1]//text()").getall()
-
-            fallback_text = " ".join(
-                text.strip() for text in req_text_parts if text.strip()
-            )
-
-            activities = self.extract_activities_for_requirement(response, req_section)
+            # Older pages can put the paragraph next to the heading or its wrapper.
+            # Stay within that block so a missing paragraph cannot borrow later text.
+            content = self._requirement_widget_content(req_section)
+            if content is None:
+                paragraphs = req_section.xpath(
+                    "following-sibling::*[1][self::p]"
+                    " | ../following-sibling::*[1][self::p]"
+                    " | ../following-sibling::*[1][self::div]/p[1]"
+                )
+                content = paragraphs[0] if paragraphs else None
             requirement_data = self._build_requirement_data(
                 req_number=req_number,
-                requirement_html=fallback_text,
-                fallback_text=fallback_text,
-                activities=activities,
+                content=content,
+                activities=self.extract_activities_for_requirement(
+                    response, req_section
+                ),
             )
             if requirement_data:
                 requirements_list.append(requirement_data)
-            else:
-                self.logger.warning(
-                    f"Requirement {req_number} too short: '{fallback_text}'"
-                )
+                seen_requirements.add(req_number)
 
         return requirements_list
 
+    @staticmethod
+    def _match_requirement_heading(heading: Selector) -> re.Match[str] | None:
+        return re.fullmatch(
+            r"Requirement (\d+)", heading.xpath("normalize-space(.)").get("")
+        )
+
+    @staticmethod
+    def _requirement_widget_content(heading: Selector) -> Selector | None:
+        containers = heading.xpath(
+            "ancestor::div[contains(@class, 'elementor-widget-heading')][1]"
+            "/following-sibling::*[1][self::div and contains(@class, 'elementor-widget-text-editor')]"
+            "//div[contains(@class, 'elementor-widget-container')][1]"
+        )
+        return containers[0] if containers else None
+
     def _build_requirement_data(
-        self, req_number, requirement_html, fallback_text, activities
-    ):
-        content_html = requirement_html or fallback_text or ""
-        content_nodes = self._requirements_extractor.extract_nodes(content_html)
+        self,
+        req_number: str,
+        content: Selector | None,
+        activities: list[dict[str, str]],
+    ) -> dict | None:
+        if content is None:
+            return None
+        visible_text = "".join(
+            content.xpath(
+                ".//text()[not(ancestor::script or ancestor::style or ancestor::template)]"
+            ).getall()
+        )
+        if not any(char.isalnum() for char in visible_text):
+            return None
+        content_nodes = self._requirements_extractor.extract_nodes(content.get())
         raw_item = RawRequirementItem(
             id=req_number, content_nodes=content_nodes, sub_requirements=[]
         )
-        semantic_requirement = self._requirements_processor.process([raw_item])[0]
+        requirements = self._requirements_processor.process([raw_item])
+        if not requirements:
+            return None
+        semantic_requirement = requirements[0]
         if not semantic_requirement.label:
             semantic_requirement.label = req_number
         semantic_requirement.requirement_path = semantic_requirement.label or req_number
@@ -376,11 +371,7 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         req_text = self._requirements_generator.render_content(
             semantic_requirement.content
         )
-        if not req_text and fallback_text:
-            req_text = fallback_text
-
-        min_words = self.settings.get("MIN_REQUIREMENT_WORDS", 5)
-        if not req_text or len(req_text.split()) < min_words:
+        if not any(char.isalnum() for char in req_text):
             return None
 
         requirement_data = semantic_requirement.model_dump()

@@ -3,7 +3,7 @@
   "adventure_name": "Build It",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "If you visit a lumber store, you’ll see rows and rows of all sorts of wood: boards, dowel rods, sheets of plywood, cedar shingles, and more. With some tools and time, a skilled craftsperson can turn that wood into toys, bookcases, or even an entire house. You won’t build a house in this Adventure, but you will build a smaller carpentry project. You’ll also learn about the tools you could use to build just about anything you can dream up. So, grab your tool belt, and let’s get started. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "If you visit a lumber store, you’ll see rows and rows of all sorts of wood: boards, dowel rods, sheets of plywood, cedar shingles, and more. With some tools and time, a skilled craftsperson can turn that wood into toys, bookcases, or even an entire house. You won’t build a house in this Adventure, but you will build a smaller carpentry project. You’ll also learn about the tools you could use to build just about anything you can dream up. So, grab your tool belt, and let’s get started.",
   "url": "https://www.scouting.org/cub-scout-adventures/build-it/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Build_It.jpg",
   "image_filename": "build-it.jpg",
@@ -101,6 +101,53 @@
           "energy_level": "1",
           "supply_list": "2",
           "prep_time": "1"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Build your carpentry project.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Build your carpentry project."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Project Build – Step Stool",
+          "url": "https://www.scouting.org/cub-scout-activities/project-build-step-stool/",
+          "description": "Cub Scouts build a step stool.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "4"
+        },
+        {
+          "name": "Project Build – Paper Towel Holder",
+          "url": "https://www.scouting.org/cub-scout-activities/project-build-paper-towel-holder/",
+          "description": "Cub Scouts build a paper towel holder.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "4"
+        },
+        {
+          "name": "Project Build – Wall Shelf",
+          "url": "https://www.scouting.org/cub-scout-activities/project-build-wall-shelf/",
+          "description": "Cub Scouts build a wall shelf.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "4"
         }
       ]
     }

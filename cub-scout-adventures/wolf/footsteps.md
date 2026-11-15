@@ -9,7 +9,7 @@
 
 ## Overview
 
-In this Adventure, you are encouraged to learn more about your family’s faith traditions. You will complete most of these requirements at home with your family. Faith means having complete trust or confidence in someone or something.  “Trustworthy” is the first part of the Scout Law. Through Aesop’s fable you will learn why being trustworthy is so important. This Adventure is commonly done at home with the Cub Scout’s family. If it is being done as a den ensure that every parent and guardian is aware of the content and the activities that the den will do and allow for parents to opt out of doing it as a den activity and choose to complete the requirement at home. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+In this Adventure, you are encouraged to learn more about your family’s faith traditions. You will complete most of these requirements at home with your family. Faith means having complete trust or confidence in someone or something.  “Trustworthy” is the first part of the Scout Law. Through Aesop’s fable you will learn why being trustworthy is so important. This Adventure is commonly done at home with the Cub Scout’s family. If it is being done as a den ensure that every parent and guardian is aware of the content and the activities that the den will do and allow for parents to opt out of doing it as a den activity and choose to complete the requirement at home.
 
 ## Requirements
 

@@ -9,6 +9,8 @@ Plant scientists use their curiosity and knowledge to develop questions about th
 
 ## Requirements
 
+- **NOTE: If collecting is permitted, do so ethically and sustainably. Collect sparingly, only taking what you need, and ensure that your collection practices do not harm the surrounding environment. Be aware of and adhere to local laws regarding collection. Pictures or sketches may suffice for a collection and limit impacted disturbances.**
+
 - (1) Make a drawing and identify five or more parts of a flowering plant. Tell what each part does.
 
   **Resources:** [Flower Dissection - Reproduction in Flowering Plants (video)](https://youtu.be/493WeySyf-8?si=u7d6_2RKO2h03wNo), [Flower Structures and Functions (video)](https://youtu.be/GkzFimUJdD8)

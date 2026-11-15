@@ -9,7 +9,7 @@
 
 ## Overview
 
-There are many ways to make things go — electricity, fuel, and batteries, to name a few. Did you know that you have the power to make a boat sail in the water or that a car can move using the force of gravity? Propulsion is what gives an object (such as a plane, car, or boat) the power to move. You will learn different ways to make and propel vehicles. Think about how the shapes of cars, boats, and planes affect the distance they can go. In this Adventure, you’ll explore how you can use the air in your lungs, the force of gravity, and the power of your imagination to make things go. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+There are many ways to make things go — electricity, fuel, and batteries, to name a few. Did you know that you have the power to make a boat sail in the water or that a car can move using the force of gravity? Propulsion is what gives an object (such as a plane, car, or boat) the power to move. You will learn different ways to make and propel vehicles. Think about how the shapes of cars, boats, and planes affect the distance they can go. In this Adventure, you’ll explore how you can use the air in your lungs, the force of gravity, and the power of your imagination to make things go.
 
 ## Requirements
 

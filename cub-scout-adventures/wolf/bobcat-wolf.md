@@ -9,7 +9,7 @@
 
 ## Overview
 
-The Bobcat Adventure is the first required Adventure on the trail to earn the Wolf badge of rank. Once the Bobcat Adventure is completed, Wolves can start any other of the Adventures in any order. ​ ​ ​ Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+The Bobcat Adventure is the first required Adventure on the trail to earn the Wolf badge of rank. Once the Bobcat Adventure is completed, Wolves can start any other of the Adventures in any order.
 
 ## Requirements
 

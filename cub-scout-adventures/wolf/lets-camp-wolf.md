@@ -9,7 +9,7 @@
 
 ## Overview
 
-You are about to go on an overnight campout. Sleeping in a tent, roasting marshmallows, and exploring nature are some of the best parts of being a Cub Scout. Before you go, make a list of what you need to bring. Your den leader and parent(s) will help you get ready. Each time you go camping, you can show you are a Wolf Scout by doing more on your own. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+You are about to go on an overnight campout. Sleeping in a tent, roasting marshmallows, and exploring nature are some of the best parts of being a Cub Scout. Before you go, make a list of what you need to bring. Your den leader and parent(s) will help you get ready. Each time you go camping, you can show you are a Wolf Scout by doing more on your own.
 
 ## Requirements
 
@@ -49,6 +49,17 @@ In addition to your Cub Scout Six Essentials, list the personal items you need f
   Cub Scout teams pack a backpack for a camping trip.
 - **[What Would You Bring?](https://www.scouting.org/cub-scout-activities/what-would-you-bring/)** (Indoor, energy 3, supplies 4, prep 3)
   Cub Scouts determine what is a “need” or “want” for a campout.
+
+### Requirement 4
+
+Learn a camping skill.
+
+**Activities:**
+
+- **[Nothing But Knots](https://www.scouting.org/cub-scout-activities/nothing-but-knots/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts learn about square knots.
+- **[Stuff Sack Relay](https://www.scouting.org/cub-scout-activities/stuff-sack-relay/)** (Indoor, energy 4, supplies 3, prep 3)
+  Cub Scouts will learn about storing their sleeping bags in this fast-paced relay.
 
 ### Requirement 5
 

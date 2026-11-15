@@ -9,7 +9,7 @@
 
 ## Overview
 
-Under properly qualified supervision and following Safety Afloat rules, Lions will learn how to stay safe in the water and get comfortable with being in the water.  Lions can earn this Adventure by completing the requirements OR by taking swim lessons. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Under properly qualified supervision and following Safety Afloat rules, Lions will learn how to stay safe in the water and get comfortable with being in the water.  Lions can earn this Adventure by completing the requirements OR by taking swim lessons.
 
 ## Requirements
 

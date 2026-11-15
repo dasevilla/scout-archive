@@ -9,7 +9,7 @@
 
 ## Overview
 
-In this Adventure, you will learn how to estimate the time it takes you to take a walk. If you know your pace, you can estimate how long it will take you and others to walk any given distance. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In this Adventure, you will learn how to estimate the time it takes you to take a walk. If you know your pace, you can estimate how long it will take you and others to walk any given distance.
 
 ## Requirements
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-Summertime is a great time to get together with your patrol or pack. The requirement for this Adventure is simple. Participate in three Cub Scout activities during the summer months. This can be at council-organized camps like day camp or resident camp, or it can be a patrol or pack get-together for a summertime picnic. To earn this Adventure as an Arrow of Light Scout, you participate in summer activities during the summer after you have completed fourth grade. If you’re just now learning about this Adventure, don’t worry, this coming summer you’ll be in Scouts BSA. You may attend Scouts BSA resident camp where you’ll get to spend a week camping, earning merit badges, making new friends, and learning new skills. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved.
+Summertime is a great time to get together with your patrol or pack. The requirement for this Adventure is simple. Participate in three Cub Scout activities during the summer months. This can be at council-organized camps like day camp or resident camp, or it can be a patrol or pack get-together for a summertime picnic. To earn this Adventure as an Arrow of Light Scout, you participate in summer activities during the summer after you have completed fourth grade. If you’re just now learning about this Adventure, don’t worry, this coming summer you’ll be in Scouts BSA. You may attend Scouts BSA resident camp where you’ll get to spend a week camping, earning merit badges, making new friends, and learning new skills.
 
 ## Requirements
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-Learning teamwork, good sportsmanship, and having fun with their family or den by playing outdoor games or sports in packed into this Adventure including attending a sporting event together. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Learning teamwork, good sportsmanship, and having fun with their family or den by playing outdoor games or sports in packed into this Adventure including attending a sporting event together.
 
 ## Requirements
 
@@ -51,6 +51,21 @@ Discuss what it means to be a good sport in a game with your Tiger adult partner
   Cub Scouts will learn about and practice good sportsmanship.
 - **[Who is Being a Good Sport](https://www.scouting.org/cub-scout-activities/who-is-being-a-good-sport/)** (Indoor, energy 2, supplies 2, prep 1)
   Cub Scouts complete activity in the Tiger handbook to  identify  good sportsmanship.
+
+### Requirement 4
+
+Attend a sporting event.
+
+**Activities:**
+
+- **[Tiger Catch the Game On TV](https://www.scouting.org/cub-scout-activities/tiger-catch-the-game-on-tv/)** (Indoor, energy 1, supplies 3, prep 5)
+  Watch a sporting event on television.
+- **[Tiger Friday Night Lights](https://www.scouting.org/cub-scout-activities/tiger-friday-night-lights/)** (Travel, energy 1, supplies 1, prep 5)
+  Attend a high school football game.
+- **[Tiger Let’s Play Ball](https://www.scouting.org/cub-scout-activities/tiger-lets-play-ball/)** (Travel, energy 1, supplies 1, prep 5)
+  Attend  a professional baseball game.
+- **[Tiger Youth Sporting Event](https://www.scouting.org/cub-scout-activities/tiger-youth-sporting-event/)** (Travel, energy 2, supplies 1, prep 5)
+  Attend  a youth sporting event.
 
 
 ## Resources

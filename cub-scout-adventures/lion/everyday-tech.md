@@ -9,7 +9,7 @@
 
 ## Overview
 
-Explore how technology has made life easier and the ways to use technology safely. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Explore how technology has made life easier and the ways to use technology safely.
 
 ## Requirements
 

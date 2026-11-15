@@ -9,7 +9,7 @@
 
 ## Overview
 
-About half of the land on Earth is being used for some type of agriculture. Agriculture is often in the form of a farm. How we farm, either growing crops or raising animals for food, has an impact on our planet. The country of India has the most land mass used for agriculture. The United States is second. Combined, these two countries account for 22% of the land on the planet being used for agriculture. How the United States grows, distributes, and uses food has an impact on the world. In this Adventure, you will explore food and ways to conserve it, and the resources used to produce food. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+About half of the land on Earth is being used for some type of agriculture. Agriculture is often in the form of a farm. How we farm, either growing crops or raising animals for food, has an impact on our planet. The country of India has the most land mass used for agriculture. The United States is second. Combined, these two countries account for 22% of the land on the planet being used for agriculture. How the United States grows, distributes, and uses food has an impact on the world. In this Adventure, you will explore food and ways to conserve it, and the resources used to produce food.
 
 ## Requirements
 

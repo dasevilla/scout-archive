@@ -9,7 +9,7 @@
 
 ## Overview
 
-Many Americans have a pet dog, cat, horse, bird, fish, hamster, or other animal. The most popular pet is a dog. Almost one out of three American households have a dog as a pet. One out of four have a cat as a pet. Pets are fun, but they are also a big responsibility. Pets need food, water, shelter, and exercise to stay healthy. When you look after a pet, whether it belongs to you or a neighbor, you learn a lot about love, loyalty, and caring. Learning to look after pets — and having fun with them — is what this Adventure is all about. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+Many Americans have a pet dog, cat, horse, bird, fish, hamster, or other animal. The most popular pet is a dog. Almost one out of three American households have a dog as a pet. One out of four have a cat as a pet. Pets are fun, but they are also a big responsibility. Pets need food, water, shelter, and exercise to stay healthy. When you look after a pet, whether it belongs to you or a neighbor, you learn a lot about love, loyalty, and caring. Learning to look after pets — and having fun with them — is what this Adventure is all about.
 
 ## Requirements
 

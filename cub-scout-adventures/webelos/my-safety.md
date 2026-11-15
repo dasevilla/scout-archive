@@ -9,7 +9,7 @@
 
 ## Overview
 
-In this Adventure, you will strengthen your ability to keep yourself safe with the “Protect Yourself Rules” and learn ways to keep your home and meeting space safe. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In this Adventure, you will strengthen your ability to keep yourself safe with the “Protect Yourself Rules” and learn ways to keep your home and meeting space safe.
 
 ## Requirements
 

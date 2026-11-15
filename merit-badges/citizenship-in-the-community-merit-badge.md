@@ -9,6 +9,10 @@ A nation is a patchwork of communities that differ from each other and may be go
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Citizenship in the Community merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/citizenship-community/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/citizenship-community/)
+
 - (1) Discuss with your counselor what citizenship in the community means and what it takes to be a good citizen in your community. Discuss the rights, duties, and obligations of citizenship, and explain how you can demonstrate good citizenship in your community, Scouting unit, place of worship, or school.
 
   **Resources:** [What is Citizenship? (video)](https://vimeo.com/1154745110/47ffbada43), [Rights and Responsibilities (video)](https://youtu.be/FWwEMFSY1r0), [Responsibilities of the Charter Commission (video)](https://youtu.be/Bv2XHEcGSOU)

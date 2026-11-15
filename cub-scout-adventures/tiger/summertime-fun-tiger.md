@@ -9,7 +9,7 @@
 
 ## Overview
 
-This Adventure is for the summer after a Cub Scout has completed Kindergarten and is now considered a Tiger . Stay active in the summertime by attending den or pack events, Cub Scout Day Camp, or Resident Camp. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+This Adventure is for the summer after a Cub Scout has completed Kindergarten and is now considered a Tiger . Stay active in the summertime by attending den or pack events, Cub Scout Day Camp, or Resident Camp.
 
 ## Requirements
 

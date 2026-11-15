@@ -9,7 +9,7 @@
 
 ## Overview
 
-Get together with your den, pack, or family to go on a bike ride . You will learn about what to take, how to make sure your bike is ready, and then go for a ride ! Grab your helmet, check your tires, and a buddy to head out on another Cub Scout Adventure. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Get together with your den, pack, or family to go on a bike ride . You will learn about what to take, how to make sure your bike is ready, and then go for a ride ! Grab your helmet, check your tires, and a buddy to head out on another Cub Scout Adventure.
 
 ## Requirements
 
@@ -54,6 +54,19 @@ Demonstrate you can start and stop your bicycle without help.
   Cub Scouts will practice starting and stopping on their bikes.
 - **[Stop on the Spot](https://www.scouting.org/cub-scout-activities/stop-on-the-spot/)** (Outdoor, energy 4, supplies 2, prep 2)
   Cub Scouts will practice stopping their bikes.
+
+### Requirement 5
+
+Demonstrate proper hand signals.
+
+**Activities:**
+
+- **[Bike Rider Simon Says](https://www.scouting.org/cub-scout-activities/bike-rider-simon-says/)** (Indoor, energy 1, supplies 1, prep 1)
+  Cub Scouts will learn hand signals for bike riding.
+- **[Show Me A Sign](https://www.scouting.org/cub-scout-activities/show-me-a-sign/)** (Travel, energy 4, supplies 3, prep 2)
+  Cub Scouts  demonstrate  hand signals while riding a bike.
+- **[Traffic Signal Obstacle Course](https://www.scouting.org/cub-scout-activities/traffic-signal-obstacle-course/)** (Outdoor, energy 3, supplies 4, prep 2)
+  Cub Scouts will learn about traffic signals.
 
 ### Requirement 6
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-Scouts understand just how many things people with disabilities are able to do. You will discover some challenges people with disabilities face, and you will have the chance to try facing similar challenges yourself . A single activity can’t show you everything about life with a disability, but it can help you understand a little more about the ways a person with a disability is able to do things. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Scouts understand just how many things people with disabilities are able to do. You will discover some challenges people with disabilities face, and you will have the chance to try facing similar challenges yourself . A single activity can’t show you everything about life with a disability, but it can help you understand a little more about the ways a person with a disability is able to do things.
 
 ## Requirements
 

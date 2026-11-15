@@ -9,7 +9,7 @@
 
 ## Overview
 
-In the Scout Oath, Cub Scouts promise to keep themselves physically strong and mentally awake. Personal fitness is about keeping your body strong by eating right and exercising, but it also means getting enough rest and exercising your mind by reading, solving problems, or even listening to music. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In the Scout Oath, Cub Scouts promise to keep themselves physically strong and mentally awake. Personal fitness is about keeping your body strong by eating right and exercising, but it also means getting enough rest and exercising your mind by reading, solving problems, or even listening to music.
 
 ## Requirements
 

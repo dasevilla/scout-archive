@@ -9,7 +9,7 @@
 
 ## Overview
 
-Citizenship is one of the four aims of Scouting America program.  For Tigers citizenship begins at home and their den.  They will explore how they can contribute to their home and community. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Citizenship is one of the four aims of Scouting America program.  For Tigers citizenship begins at home and their den.  They will explore how they can contribute to their home and community.
 
 ## Requirements
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-Tigers will identify technology that is common in most homes and discover how technology has improved along with safety rules around technology they come in contact with . Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Tigers will identify technology that is common in most homes and discover how technology has improved along with safety rules around technology they come in contact with .
 
 ## Requirements
 

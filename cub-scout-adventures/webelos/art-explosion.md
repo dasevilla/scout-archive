@@ -9,7 +9,7 @@
 
 ## Overview
 
-Art is a powerful way to capture a moment in time, an idea, or an emotion. It’s a lot of fun, too. You get to work with all sorts of gooey and gloppy materials, and you never have to worry about getting the right answer, because everybody’s art is different. Whether you’re into drawing, painting, sculpture, computer illustration, or photography, you’ll find something to love in this Adventure. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Art is a powerful way to capture a moment in time, an idea, or an emotion. It’s a lot of fun, too. You get to work with all sorts of gooey and gloppy materials, and you never have to worry about getting the right answer, because everybody’s art is different. Whether you’re into drawing, painting, sculpture, computer illustration, or photography, you’ll find something to love in this Adventure.
 
 ## Requirements
 

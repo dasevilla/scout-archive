@@ -9,7 +9,7 @@
 
 ## Overview
 
-You may have gone fishing before and know some basics. In this Adventure, you will learn how to plan a fishing experience using Scouting America’s SAFE Checklist. This will help you be prepared for future adventures in Scouts BSA. Adventure Safety Moment Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved.
+You may have gone fishing before and know some basics. In this Adventure, you will learn how to plan a fishing experience using Scouting America’s SAFE Checklist. This will help you be prepared for future adventures in Scouts BSA.
 
 ## Requirements
 

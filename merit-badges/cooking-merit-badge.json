@@ -64,6 +64,58 @@
       "sub_requirements": []
     },
     {
+      "id": "14079",
+      "label": null,
+      "text": "NOTE: Check out the Digital Resource Guide for the Cooking merit badge HERE for information and helpful resources to engage your learning and assist you along on your merit badge journey!",
+      "requirement_path": "item-2",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Check out the Digital Resource Guide for the Cooking merit badge "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/cooking/"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " for information and helpful resources to engage your learning and assist you along on your merit badge journey!"
+        }
+      ],
+      "resources": [
+        {
+          "title": "HERE",
+          "url": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/cooking/",
+          "type": "website"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
       "id": "12832",
       "label": "1",
       "text": "Health and safety. Do the following:",

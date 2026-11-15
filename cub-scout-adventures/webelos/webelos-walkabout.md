@@ -9,7 +9,7 @@
 
 ## Overview
 
-Some places you can only get to if you walk. Walking is great exercise and a fun activity to do with your den or family. In the Webelos Walkabout Adventure, you’ll learn how to prepare for a 2-mile walk, what you should bring along, and what you should do if there is an emergency.  And when you are ready, take your walk! Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Some places you can only get to if you walk. Walking is great exercise and a fun activity to do with your den or family. In the Webelos Walkabout Adventure, you’ll learn how to prepare for a 2-mile walk, what you should bring along, and what you should do if there is an emergency.  And when you are ready, take your walk!
 
 ## Requirements
 

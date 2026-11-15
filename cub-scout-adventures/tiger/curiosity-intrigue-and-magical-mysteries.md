@@ -9,7 +9,7 @@
 
 ## Overview
 
-A fun Adventure where Tigers learn how to perform a magic trick and create a secret code. For more magic tricks, check out the Cub Scout Magic Book available at www.scoutshop.org Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+A fun Adventure where Tigers learn how to perform a magic trick and create a secret code. For more magic tricks, check out the Cub Scout Magic Book available at www.scoutshop.org
 
 ## Requirements
 

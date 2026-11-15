@@ -9,7 +9,7 @@
 
 ## Overview
 
-You can use math to have fun!  The great thing about math is that it can be more than just adding and subtracting numbers.  Math is also about patterns and can be used to create messages.  In the world of computers, math is used to create a secret code to protect information.  Encryption is when you take a message and use a code to change it into something that no one can read unless they have a way to read the code.  This is called a key.  Making and creating codes is a form of math. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+You can use math to have fun!  The great thing about math is that it can be more than just adding and subtracting numbers.  Math is also about patterns and can be used to create messages.  In the world of computers, math is used to create a secret code to protect information.  Encryption is when you take a message and use a code to change it into something that no one can read unless they have a way to read the code.  This is called a key.  Making and creating codes is a form of math.
 
 ## Requirements
 

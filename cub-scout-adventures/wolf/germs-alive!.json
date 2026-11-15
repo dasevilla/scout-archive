@@ -3,7 +3,7 @@
   "adventure_name": "Germs Alive!",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "In this Adventure, you’ll get to explore how to keep your body healthy. Why is it important to wash your hands? Why is the slimy mucus in your nose (yep, snot) important to your health? What happens if you sneeze into the air instead of into the bend in your elbow? How does keeping your room clean help keep you healthy? We will explore all of these questions while we journey through the sticky, sickening world of germs. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "In this Adventure, you’ll get to explore how to keep your body healthy. Why is it important to wash your hands? Why is the slimy mucus in your nose (yep, snot) important to your health? What happens if you sneeze into the air instead of into the bend in your elbow? How does keeping your room clean help keep you healthy? We will explore all of these questions while we journey through the sticky, sickening world of germs.",
   "url": "https://www.scouting.org/cub-scout-adventures/germs-alive/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2023/11/2023_2024_loops_pins_Germs_Alive.jpg",
   "image_filename": "germs-alive!.jpg",
@@ -72,6 +72,64 @@
           "energy_level": "3",
           "supply_list": "4",
           "prep_time": "3"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "text": "Conduct the sneeze demonstration.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Conduct the sneeze demonstration."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Sneeze-splosion!",
+          "url": "https://www.scouting.org/cub-scout-activities/sneeze-splosion/",
+          "description": "Cub Scouts learn about how far a sneeze can travel.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Conduct the mucus demonstration.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Conduct the mucus demonstration."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Mucus-tastic",
+          "url": "https://www.scouting.org/cub-scout-activities/mucus-tastic/",
+          "description": "Cub Scouts learn about the importance of mucus and how it works.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "2"
         }
       ]
     },

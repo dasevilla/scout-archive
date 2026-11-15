@@ -9,7 +9,7 @@
 
 ## Overview
 
-In this Adventure, you’ll get to explore how to keep your body healthy. Why is it important to wash your hands? Why is the slimy mucus in your nose (yep, snot) important to your health? What happens if you sneeze into the air instead of into the bend in your elbow? How does keeping your room clean help keep you healthy? We will explore all of these questions while we journey through the sticky, sickening world of germs. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In this Adventure, you’ll get to explore how to keep your body healthy. Why is it important to wash your hands? Why is the slimy mucus in your nose (yep, snot) important to your health? What happens if you sneeze into the air instead of into the bend in your elbow? How does keeping your room clean help keep you healthy? We will explore all of these questions while we journey through the sticky, sickening world of germs.
 
 ## Requirements
 
@@ -32,6 +32,24 @@ Play Germ Magnet with our den or your family. Wash your hands afterward.
   Play Glitter Germ Magnet to see how germs are easily spread.
 - **[Glo Germ™ Exploration](https://www.scouting.org/cub-scout-activities/glo-germ-exploration/)** (Indoor, energy 3, supplies 4, prep 3)
   Using Glo Germ ™ , Cub Scouts learn about the spread of germs.
+
+### Requirement 3
+
+Conduct the sneeze demonstration.
+
+**Activities:**
+
+- **[Sneeze-splosion!](https://www.scouting.org/cub-scout-activities/sneeze-splosion/)** (Indoor, energy 3, supplies 3, prep 2)
+  Cub Scouts learn about how far a sneeze can travel.
+
+### Requirement 4
+
+Conduct the mucus demonstration.
+
+**Activities:**
+
+- **[Mucus-tastic](https://www.scouting.org/cub-scout-activities/mucus-tastic/)** (Indoor, energy 3, supplies 4, prep 2)
+  Cub Scouts learn about the importance of mucus and how it works.
 
 ### Requirement 5
 

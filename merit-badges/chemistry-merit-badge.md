@@ -45,7 +45,7 @@ Chemistry explores how substances react with each other, how they change, how ce
 - (4) **Chemistry and Camping.** After successfully completing requirement 1, do TWO of the following:
   - (a) Design and conduct an experiment to compare at least two different types of waterproofing. Discuss with your counselor which one you would prefer to use on your tent and which one you would prefer to use on your boots, and why.
 
-    **Resources:** [Transforming Paper into a Waterproof Marvel (video)](https://www.youtube.com/shorts/s3fDbnfolCM), [Waterproofing Fabrics (video)](https://youtu.be/y83uXupu5tY), [Waterproofing Tent Seams (video)](https://youtu.be/UlHfbltn6hI)
+    **Resources:** [Transforming Paper Into a Waterproof Marvel (video)](https://www.youtube.com/shorts/s3fDbnfolCM), [How To Waterproof a Tent (video)](https://youtu.be/XiLeIv7y0KE), [Waterproofing Tent Seams (video)](https://youtu.be/UlHfbltn6hI)
   - (b) Describe the four classes of fires, and the four classes of fire extinguishers. Discuss with your counselor how sand, baking soda, and the four classes of extinguishers work to put out fires.
 
     **Resources:** [Four Classes of Fires (video)](https://www.youtube.com/watch?v=B8PrA_AOa6w), [Four Types of Fires (video)](https://www.youtube.com/watch?v=Epa_2mCi4lw)

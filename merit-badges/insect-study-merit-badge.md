@@ -9,6 +9,8 @@ In earning the Insect Study merit badge, Scouts will glance into the strange and
 
 ## Requirements
 
+- **NOTE: If collecting is permitted, do so ethically and sustainably. Collect sparingly, only taking what you need, and ensure that your collection practices do not harm the surrounding environment. Be aware of and adhere to local laws regarding collection.**
+
 - (1) **Safety.** Do the following:
   - (a) Explain to your counselor the most likely hazards associated with exposure to ants and bees and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
 

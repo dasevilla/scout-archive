@@ -9,9 +9,20 @@
 
 ## Overview
 
-There are times when we need to be exact, like when building a model or baking from a recipe. When we do not need to be exact, or we only need a general idea of something or its cost, we can estimate. There are some simple ways to estimate things like the time of day or even the height of an object. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+There are times when we need to be exact, like when building a model or baking from a recipe. When we do not need to be exact, or we only need a general idea of something or its cost, we can estimate. There are some simple ways to estimate things like the time of day or even the height of an object.
 
 ## Requirements
+
+### Requirement 1
+
+Estimate food measurements.
+
+**Activities:**
+
+- **[Hungry, Hungry Campers](https://www.scouting.org/cub-scout-activities/hungry-hungry-campers/)** (Indoor, energy 1, supplies 2, prep 2)
+  Calculate ingredients needed for a campout meal.
+- **[Size it Up!](https://www.scouting.org/cub-scout-activities/size-it-up/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts estimate serving sizes of different foods.
 
 ### Requirement 2
 

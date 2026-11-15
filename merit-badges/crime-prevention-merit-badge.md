@@ -12,7 +12,7 @@ Preventing crime, which can be as simple as reducing the opportunities for crime
 - (1) **Laws and Society.** Discuss the following with your counselor:
   - (a) Why we have criminal laws
 
-    **Resources:** [The Purposes of Criminal Law (video)](https://youtu.be/j9IvbB50YB0)
+    **Resources:** [The Purposes of Criminal Law (video)](https://youtu.be/p8YFYywFfZA)
   - (b) The types of crimes, including property crimes, crimes against people, white collar crime, and environmental crime
 
     **Resources:** [Seven Types of Crime (video)](https://youtu.be/BSyY9RRR6ds)

@@ -12,6 +12,39 @@
   "image_filename": "insect-study-merit-badge.jpg",
   "requirements": [
     {
+      "id": "14116",
+      "label": null,
+      "text": "NOTE: If collecting is permitted, do so ethically and sustainably. Collect sparingly, only taking what you need, and ensure that your collection practices do not harm the surrounding environment. Be aware of and adhere to local laws regarding collection.",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE: If collecting is permitted, do so ethically and sustainably. Collect sparingly, only taking what you need, and ensure that your collection practices do not harm the surrounding environment. Be aware of and adhere to local laws regarding collection. "
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
       "id": "13437",
       "label": "1",
       "text": "Safety. Do the following:",

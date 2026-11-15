@@ -766,7 +766,7 @@
     {
       "id": "13023",
       "label": "9",
-      "text": "Know the laws and ordinances involving dogs that are in force in your community.",
+      "text": "Know the laws and ordinances involving dogs that are in force in your community. Discuss these laws and ordinances with your counselor.",
       "requirement_path": "9",
       "node_kind": "action_requirement",
       "is_container": false,
@@ -775,16 +775,10 @@
       "content": [
         {
           "type": "text",
-          "value": "Know the laws and ordinances involving dogs that are in force in your community."
+          "value": "Know the laws and ordinances involving dogs that are in force in your community. Discuss these laws and ordinances with your counselor."
         }
       ],
-      "resources": [
-        {
-          "title": "Michigan's Animal Control Laws (video)",
-          "url": "https://www.youtube.com/watch?v=Hr7n_5GCiUk",
-          "type": "video"
-        }
-      ],
+      "resources": [],
       "sub_requirements": []
     },
     {
@@ -826,23 +820,18 @@
           ],
           "resources": [
             {
-              "title": "What Is the Difference Between Dog Training Certification Programs? | Animal Care Jobs (video)",
-              "url": "https://www.youtube.com/watch?v=aDYaE4d_H94",
-              "type": "video"
-            },
-            {
               "title": "Is Vet School Right for You? (video)",
-              "url": "https://youtu.be/Nn3IE61JM00?si=lEr2OMOa_AuiW_FJ",
+              "url": "https://youtu.be/Nn3IE61JM00",
               "type": "video"
             },
             {
-              "title": "Careers in Dogs - Skills Needed in Careers With Dogs (website)",
+              "title": "Careers in Dogs—Skills Needed in Careers With Dogs (website)",
               "url": "https://www.akc.org/public-education/resources/dog-related-career-skills/",
               "type": "website"
             },
             {
               "title": "Becoming a Pet Groomer (video)",
-              "url": "https://www.youtube.com/watch?v=86eSPiTckRA",
+              "url": "https://youtu.be/86eSPiTckRA",
               "type": "video"
             }
           ],

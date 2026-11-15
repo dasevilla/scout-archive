@@ -12,6 +12,39 @@
   "image_filename": "forestry-merit-badge.jpg",
   "requirements": [
     {
+      "id": "14638",
+      "label": null,
+      "text": "NOTE: Scouts must remember to follow the Leave No Trace Seven Principles and the Outdoor Code while on field trips and when collecting specimens. Make sure you have permission of the land manager prior to taking any samples for your collection. Collecting is prohibited in most National and State Parks. Pictures or sketches may suffice for a collection and limit impacted disturbances.",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE: Scouts must remember to follow the Leave No Trace Seven Principles and the Outdoor Code while on field trips and when collecting specimens. Make sure you have permission of the land manager prior to taking any samples for your collection. Collecting is prohibited in most National and State Parks. Pictures or sketches may suffice for a collection and limit impacted disturbances."
+            },
+            {
+              "type": "text",
+              "value": " "
+            },
+            {
+              "type": "text",
+              "value": " "
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
       "id": "14639",
       "label": "1",
       "text": "Prepare a field notebook, make a collection, and identify 15 species of trees, wild shrubs, or vines in a local forested area. Write a description in which you identify and discuss the following:",

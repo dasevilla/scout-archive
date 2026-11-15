@@ -9,6 +9,10 @@ The word geocache is a combination of “geo,” which means “earth,” and �
 
 ## Requirements
 
+- Additional educational resources are available on our [**Counselor Information Page.**](https://www.scouting.org/skills/merit-badges/counselor-information/)
+
+  **Resources:** [Counselor Information Page.](https://www.scouting.org/skills/merit-badges/counselor-information/)
+
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while participating in geocaching activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
 

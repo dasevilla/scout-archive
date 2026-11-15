@@ -9,7 +9,7 @@
 
 ## Overview
 
-As part of the World Organization of the Scouting Movement, this program is part of a global effort to teach youth about the conservation of natural resources.  This includes participating in a service project. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+As part of the World Organization of the Scouting Movement, this program is part of a global effort to teach youth about the conservation of natural resources.  This includes participating in a service project.
 
 ## Requirements
 

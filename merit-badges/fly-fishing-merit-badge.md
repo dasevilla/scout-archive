@@ -9,6 +9,8 @@ Fly-fishing is a specialized form of fishing that combines skill and artistry. B
 
 ## Requirements
 
+- **NOTE: Scouts should obey all local fishing regulations and property laws.**
+
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while participating in fly-fishing activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards. Name and explain five safety practices you should always follow while fly-fishing.
 

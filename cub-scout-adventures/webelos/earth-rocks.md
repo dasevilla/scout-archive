@@ -9,7 +9,7 @@
 
 ## Overview
 
-Rocks and minerals are more than just things that lie in the ground. Yes, they help form our planet, but people also use them to create things that make our lives easier. In this Adventure, you’ll dig into the world of rocks and minerals and discover some surprises about the science of geology — like how the ground beneath your feet is constantly on the move. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Rocks and minerals are more than just things that lie in the ground. Yes, they help form our planet, but people also use them to create things that make our lives easier. In this Adventure, you’ll dig into the world of rocks and minerals and discover some surprises about the science of geology — like how the ground beneath your feet is constantly on the move.
 
 ## Requirements
 
@@ -47,6 +47,17 @@ Make a mineral test kit and test minerals according to the Mohs scale of mineral
 
 - **[Mineral Lab](https://www.scouting.org/cub-scout-activities/mineral-lab/)** (Indoor, energy 3, supplies 5, prep 4)
   Cub Scout study and share observation of the mineral test.
+
+### Requirement 4
+
+Grow a crystal.
+
+**Activities:**
+
+- **[Crystal Shapes](https://www.scouting.org/cub-scout-activities/crystal-shapes/)** (Indoor, energy 3, supplies 4, prep 4)
+  Cub Scouts create their own crystal.
+- **[Sweet Crystal](https://www.scouting.org/cub-scout-activities/sweet-crystal/)** (Indoor, energy 3, supplies 3, prep 4)
+  Cub Scouts create their own crystal that they can eat.
 
 
 ## Resources

@@ -36,10 +36,10 @@ In learning about astronomy, Scouts study how activities in space affect our own
     **Resources:** [Telescopes:  Crash Course in Astronomy (video)](https://youtu.be/mYhy7eaazIk), [Exploring the Universe: Non-Optical Telescopes Unveiled! (video)](https://youtu.be/-acMlVE9u60?si=eWMfU1ICMelBaKEa), [The Basic Telescope Types (video)](https://youtu.be/_v1RWyzQAng?si=YUR2jhjGpQwmznyw), [10 Types of Space Telescopes (video)](https://youtu.be/PA15nmA4zbI)
   - (c) Explain the purposes of three instruments used with astronomical telescopes.
 
-    **Resources:** [10 Types of Space Telescopes (video)](https://youtu.be/PA15nmA4zbI), [Hubble Instruments (website)](https://science.nasa.gov/mission/hubble/observatory/design/instruments/), [The Hubble Space Telescope: Revolutionizing Our View of the Universe (video)](https://youtu.be/W6JB9stip_o?si=RAUic_y3ifcHcWHe), [What Astronomers Use to Explore the Universe (video)](https://youtube.com/shorts/Y5lAHoiWGBc?si=o5t6cgN-LmUHOKEr)
+    **Resources:** [10 Types of Space Telescopes (video)](https://youtu.be/PA15nmA4zbI), [Hubble Instruments (website)](https://science.nasa.gov/mission/hubble/observatory/design/instruments/), [What Astronomers Use To Explore the Universe. (video)](https://youtube.com/shorts/Y5lAHoiWGBc)
   - (d) Describe the proper care and storage of telescopes and binoculars both at home and in the field.
 
-    **Resources:** [How to Care for Your Telescope (website)](https://www.astronomy.com/observing/how-to-care-for-your-telescope/), [How to Care for Your Telescope Optics the Right Way. (website)](https://skyandtelescope.org/astronomy-resources/caring-for-your-optics/), [How to Care for Your Telescope (video)](https://youtu.be/8W-7NkNUJas?si=xjoAbP4s3RQjKYIn), [Caring for Your Celestron Telescope: How to Maintain, Store, and Ship Your Telescope (website)](https://www.celestron.com/blogs/knowledgebase/caring-for-your-celestron-telescope-how-to-maintain-store-and-ship-your-telescope?srsltid=AfmBOopGO5xdG8YN2b93_gRGY1SlvJtNBCyKEo9Y6fDXu9u54MLNLwZ4)
+    **Resources:** [How To Care for Your Telescope (website)](https://www.astronomy.com/observing/how-to-care-for-your-telescope/), [How To Care for Your Telescope Optics the Right Way. (website)](https://skyandtelescope.org/astronomy-resources/caring-for-your-optics/), [Telescope Maintenance (video)](https://youtu.be/izxMI30YROQ), [Caring for Your Celestron Telescope: How To Maintain, Store, and Ship Your Telescope (website)](https://www.celestron.com/blogs/knowledgebase/caring-for-your-celestron-telescope-how-to-maintain-store-and-ship-your-telescope)
 
 - (4) Do the following (if instruction is done in a planetarium, Scouts must still identify the required stars and constellations outside under the natural night sky):
   - (a) Identify in the sky 10 constellations, at least four of which are in the zodiac.
@@ -58,7 +58,7 @@ In learning about astronomy, Scouts study how activities in space affect our own
 - (5) Do the following:
   - (a) List the names of the five most visible planets. Explain which ones can appear in phases similar to lunar phases and which ones cannot, and explain why.
 
-    **Resources:** [WOLFRAM Demonstrations Project (website)](https://demonstrations.wolfram.com/PhasesOfPlanets/), [Which Planets Appear in Phases Similar to Lunar Phases? (website)](https://education.seattlepi.com/planets-appear-phases-similar-lunar-phases-5897.html), [Which Planets Appear in Phases Similar to Lunar Phases? (video)](https://youtu.be/S9d4SBxB9e0?si=7aEIzJpzpXq6XchL)
+    **Resources:** [Visible Planets Tonite (website)](https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/), [Skywatching (website)](https://science.nasa.gov/skywatching/)
   - (b) Using the internet (with your parent or guardian's permission) and other resources, find out when each of the five most visible planets that you identified in requirement 5(a) will be observable in the evening sky during the next 12 months, then compile this information in the form of a chart or table.
 
     **Resources:** [Visible Planets Tonite (website)](https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/), [Skywatching (website)](https://science.nasa.gov/skywatching/)
@@ -70,9 +70,9 @@ In learning about astronomy, Scouts study how activities in space affect our own
     **Resources:** [Planets Visible Tonight (website)](https://theskylive.com/planets-visible-tonight), [Night Sky Tonight (website)](https://www.timeanddate.com/astronomy/night/), [Skywatching (website)](https://science.nasa.gov/skywatching/)
 
 - (6) Do the following:
-  - (a) Sketch the face of the Moon and indicate five seas and five craters. Label these landmarks.
+  - (a) Sketch the face of the moon and indicate five seas and five craters. Label these landmarks.
 
-    **Resources:** [Moon Craters Explained (video)](https://www.youtube.com/shorts/3TvnmKBPyow?feature=share), [Easy Moon Sketching Step by Step (video)](https://youtube.com/shorts/CEmHs_s9CwE?si=9GlgNNRok3MDmLHT), [The Craters on the Moon with Neil deGrasse Tyson (video)](https://www.youtube.com/shorts/hp6Mm-ypup0?feature=share), [Why Does the Moon Have Craters? (website)](https://spaceplace.nasa.gov/craters/en/)
+    **Resources:** [Moon Craters Explained (video)](https://www.youtube.com/shorts/3TvnmKBPyow), [Easy Moon Sketching Step-by-Step (video)](https://youtube.com/shorts/CEmHs_s9CwE), [Why the Moon Has Craters (video)](https://youtube.com/shorts/W9mDfwNHTLk), [Why Does the Moon Have Craters? (website)](https://spaceplace.nasa.gov/craters/en/), [The Phases of the Moon Explained (video)](https://youtu.be/mQwvHn_qkBA)
   - (b) Sketch the phase and position of the Moon, at the same hour and place, for four nights (or days) within a one-week period by direct observation. Include landmarks on the horizon such as hills, trees, and buildings. Explain the changes you observe.
 
     **Resources:** [The Phases of the Moon Explained (video)](https://youtu.be/mQwvHn_qkBA?si=EI5mtx_S8DCIGA2t), [Moon Phase Animation (video)](https://youtu.be/LHD4Pk0D8_g?si=hqx3QddiynV0uG7U), [Why Does the Moon Have Phases, but Planets Like Venus Also Show Phases? (video)](https://www.youtube.com/shorts/pq9SGd8bR4I?feature=share)

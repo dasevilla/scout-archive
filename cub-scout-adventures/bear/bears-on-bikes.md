@@ -9,7 +9,7 @@
 
 ## Overview
 
-Get together with your den, pack, or family to go on a bike ride. In this Adventure, you’ll learn what to wear to ride your bike safely and some basic maintenance. Then get ready for a bike ride. Grab your helmet, check your tires, and take a buddy to head out on another Cub Scout Adventure. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Get together with your den, pack, or family to go on a bike ride. In this Adventure, you’ll learn what to wear to ride your bike safely and some basic maintenance. Then get ready for a bike ride. Grab your helmet, check your tires, and take a buddy to head out on another Cub Scout Adventure.
 
 ## Requirements
 
@@ -38,6 +38,19 @@ Decide what you should wear when riding a bike.
   Cub Scouts quickly decide if clothing is safe to wear when riding a bike.
 - **[What to Wear on my Bike Worksheet](https://www.scouting.org/cub-scout-activities/what-to-wear-on-my-bike-worksheet/)** (Indoor, energy 2, supplies 2, prep 1)
   Cub Scouts will use a worksheet to show what to wear when riding a bike.
+
+### Requirement 3
+
+Demonstrate proper hand signals.
+
+**Activities:**
+
+- **[Bear Says](https://www.scouting.org/cub-scout-activities/bear-says/)** (Outdoor, energy 3, supplies 1, prep 1)
+  Cub Scouts learn and  demonstrate  proper biking hand signals by playing “Bear Says.”
+- **[Hand Signals Worksheet](https://www.scouting.org/cub-scout-activities/hand-signals-worksheet/)** (Indoor, energy 2, supplies 1, prep 1)
+  Cub Scouts will demonstrate knowledge of hand signals through a worksheet.
+- **[Left Turn, Right Turn](https://www.scouting.org/cub-scout-activities/left-turn-right-turn/)** (Outdoor, energy 4, supplies 1, prep 1)
+  Cub Scouts learn and practice bike hand signals.
 
 ### Requirement 4
 

@@ -9,6 +9,10 @@ Build your own working robot with the Robotics Merit Badge. Learn about the robo
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Robotics merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/robotics/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/robotics/)
+
 - (1) **Safety.** Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while working with robots and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Describe the appropriate safety gear and clothing that should be used when working with robotics.
 

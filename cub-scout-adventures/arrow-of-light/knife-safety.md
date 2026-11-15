@@ -9,7 +9,7 @@
 
 ## Overview
 
-A knife is a tool. A pocketknife or multipurpose tool is one of the Scout Basic Essentials. On campouts, you will be preparing your own food. It’s more than likely you’ll use a kitchen knife. In this Adventure, you will learn the safety rules about using a knife and some basic instructions on how to use a pocketknife and kitchen knife. This Adventure allows you as an Arrow of Light Scout to use a knife, with adult permission, during Cub Scout activities. Your pocket certificate for this Adventure may serve as proof you have heard this Adventure.
+A knife is a tool. A pocketknife or multipurpose tool is one of the Scout Basic Essentials. On campouts, you will be preparing your own food. It’s more than likely you’ll use a kitchen knife. In this Adventure, you will learn the safety rules about using a knife and some basic instructions on how to use a pocketknife and kitchen knife. This Adventure allows you as an Arrow of Light Scout to use a knife, with adult permission, during Cub Scout activities. Your pocket certificate for this Adventure may serve as proof you have heard this Adventure. If you earned the Whittling Adventure as a Bear and/or the Chef’s Knife Adventure as a Webelos, you must earn the Knife Safety Adventure as an Arrow of Light Scout to earn the privilege of using a knife during a Cub Scout activity. When joining a Scouts BSA troop, you will be asked to share what you need to know about pocketknife safety for your first rank, Scout. You will also be required to earn the Totin’ Chip certification to earn the privilege of using a knife during a Scouts BSA activity. The Totin’ Chip also covers the proper use of a saw and ax.
 
 ## Requirements
 

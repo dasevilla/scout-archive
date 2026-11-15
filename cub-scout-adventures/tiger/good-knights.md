@@ -9,7 +9,7 @@
 
 ## Overview
 
-Tigers will have fun making their own shield or coat of arms and even a castle. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Tigers will have fun making their own shield or coat of arms and even a castle.
 
 ## Requirements
 
@@ -51,6 +51,15 @@ Using recycled and other materials, design and build a small castle in your den 
   Make a castle using modular building blocks such as Legos
 - **[Yesterdays Trash is Todays Castle](https://www.scouting.org/cub-scout-activities/yesterdays-trash-is-todays-castle/)** (Indoor, energy 2, supplies 3, prep 3)
   Using recycled or reused materials, build a model castle.
+
+### Requirement 4
+
+Do a Good Turn.
+
+**Activities:**
+
+- **[Knights Do a Good Turn Like Scouts Do](https://www.scouting.org/cub-scout-activities/knights-do-a-good-turn-like-scouts-do/)** (Indoor, energy 1, supplies 1, prep 1)
+  This is not a service project it is simply a good turn, a good deed for someone else.
 
 
 ## Resources

@@ -9,7 +9,7 @@
 
 ## Overview
 
-This Adventure is about America and the powerful symbols that represent the best of our country and how communities come together to help solve problems they are facing.  Citizenship in America is about participation.  One way to show citizenship is by making an impact locally through nonprofit organizations.  Nonprofit organizations are a place for people to give their time, talents, and resources to make a difference in their community.  You, too, can make an impact by participating in a service project that makes your community a better place. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+This Adventure is about America and the powerful symbols that represent the best of our country and how communities come together to help solve problems they are facing.  Citizenship in America is about participation.  One way to show citizenship is by making an impact locally through nonprofit organizations.  Nonprofit organizations are a place for people to give their time, talents, and resources to make a difference in their community.  You, too, can make an impact by participating in a service project that makes your community a better place.
 
 ## Requirements
 

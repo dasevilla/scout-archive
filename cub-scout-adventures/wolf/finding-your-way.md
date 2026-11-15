@@ -9,7 +9,7 @@
 
 ## Overview
 
-The ancient Greeks went on many adventures. Their writings told of faraway lands and treasures. To explain where their adventures took them, they created geography. Geography is the science of the Earth’s surface. Geo means “earth” and grapho means “to write.” Maps and compasses are tools that have helped travelers know if they are headed in the right direction. In this Adventure, you will learn to read maps and use one on a walk. You’ll also get to make your own map and use a compass on a scavenger hunt. Just like the ancient Greek explorers, it’s time for you to lead the way on another great adventure. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+The ancient Greeks went on many adventures. Their writings told of faraway lands and treasures. To explain where their adventures took them, they created geography. Geography is the science of the Earth’s surface. Geo means “earth” and grapho means “to write.” Maps and compasses are tools that have helped travelers know if they are headed in the right direction. In this Adventure, you will learn to read maps and use one on a walk. You’ll also get to make your own map and use a compass on a scavenger hunt. Just like the ancient Greek explorers, it’s time for you to lead the way on another great adventure.
 
 ## Requirements
 

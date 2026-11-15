@@ -9,6 +9,10 @@ The family is the basic unit of society and is important to both individuals and
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Family Life merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/family-life/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/family-life/)
+
 - (1) Prepare an outline on what a family is and discuss this with your counselor. Tell why families are important to individuals and to society. Discuss how the actions of one member can affect other members.
 
   **Resources:** [Why Family Matters in Shaping Teens' Passions and Identity (podcast)](https://youtu.be/Ag5jWg4QBUQ?si=WJVd1UyHAZVP_mgJ), [Introduction to Family Life (video)](https://vimeo.com/1114227663)

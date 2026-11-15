@@ -9,6 +9,10 @@ While earning the Environmental Science merit badge, Scouts will get a taste of 
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Environmental Science merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/environmental-science/) for information and helpful resources to engage your learning and assist you along on your merit badge journey! Additional educational resources are available on our [**Counselor Information Page.**](https://www.scouting.org/skills/merit-badges/counselor-information/)
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/environmental-science/), [Counselor Information Page.](https://www.scouting.org/skills/merit-badges/counselor-information/)
+
 - (1) Describe the meaning of environmental science in your own words. Explain how you think we can use science to understand, conserve, and improve our environment.
 
   **Resources:** [What Is Environmental Science? (video)](https://www.youtube.com/watch?v=kB0JA7jsqMw)

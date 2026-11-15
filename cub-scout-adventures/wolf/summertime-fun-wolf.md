@@ -9,7 +9,7 @@
 
 ## Overview
 
-​ ​ The summertime is a great time to get together with your den or pack. The requirement for this Adventure is simple. Participate in three Cub Scout activities during the summer months. This can be at council-organized camps like day camp or resident camp, or it can be a den or pack get-together for a summertime picnic. ​ ​ ​ To earn this Adventure as a Wolf, you participate in summer activities during the summer after you have completed the 1 st grade.  If you are just now learning about this Adventure don’t worry, the requirement to earn it as a Bear Cub Scout is exactly the same. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+​ ​ The summertime is a great time to get together with your den or pack. The requirement for this Adventure is simple. Participate in three Cub Scout activities during the summer months. This can be at council-organized camps like day camp or resident camp, or it can be a den or pack get-together for a summertime picnic. ​ ​ ​ To earn this Adventure as a Wolf, you participate in summer activities during the summer after you have completed the 1 st grade.  If you are just now learning about this Adventure don’t worry, the requirement to earn it as a Bear Cub Scout is exactly the same.
 
 ## Requirements
 

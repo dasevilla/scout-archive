@@ -9,7 +9,7 @@
 
 ## Overview
 
-If you visit a lumber store, you’ll see rows and rows of all sorts of wood: boards, dowel rods, sheets of plywood, cedar shingles, and more. With some tools and time, a skilled craftsperson can turn that wood into toys, bookcases, or even an entire house. You won’t build a house in this Adventure, but you will build a smaller carpentry project. You’ll also learn about the tools you could use to build just about anything you can dream up. So, grab your tool belt, and let’s get started. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+If you visit a lumber store, you’ll see rows and rows of all sorts of wood: boards, dowel rods, sheets of plywood, cedar shingles, and more. With some tools and time, a skilled craftsperson can turn that wood into toys, bookcases, or even an entire house. You won’t build a house in this Adventure, but you will build a smaller carpentry project. You’ll also learn about the tools you could use to build just about anything you can dream up. So, grab your tool belt, and let’s get started.
 
 ## Requirements
 
@@ -41,6 +41,19 @@ With the guidance of your Webelos den leader, parent, or legal guardian, select 
 
 - **[Build Project Prep](https://www.scouting.org/cub-scout-activities/build-project-prep/)** (Indoor, energy 1, supplies 2, prep 1)
   Pick a project from the Webelos handbook and put together a list of materials and tools.
+
+### Requirement 4
+
+Build your carpentry project.
+
+**Activities:**
+
+- **[Project Build – Step Stool](https://www.scouting.org/cub-scout-activities/project-build-step-stool/)** (Indoor, energy 3, supplies 4, prep 4)
+  Cub Scouts build a step stool.
+- **[Project Build – Paper Towel Holder](https://www.scouting.org/cub-scout-activities/project-build-paper-towel-holder/)** (Indoor, energy 3, supplies 4, prep 4)
+  Cub Scouts build a paper towel holder.
+- **[Project Build – Wall Shelf](https://www.scouting.org/cub-scout-activities/project-build-wall-shelf/)** (Indoor, energy 3, supplies 4, prep 4)
+  Cub Scouts build a wall shelf.
 
 
 ## Resources

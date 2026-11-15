@@ -9,6 +9,10 @@ As Scouts fulfill the requirements for this merit badge, they will learn how to 
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Citizenship in the Nation merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/citizenship-nation/) for information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/citizenship-nation/)
+
 - (1) What is the Constitution of the United States? What does the Constitution do? What principles does it reflect? Why is it important to have a Constitution?
 
   **Resources:** [Creating the Constitution (video)](https://vimeo.com/1157341979/58d0d206c3?fl=pl&fe=vl), [What Is Federalism? \| Things Explained (video)](https://youtu.be/vHm_b7QOc7U), [Walkthrough of the Constitution \| Constitution 101 (video)](https://youtu.be/XfS-bZ69p0E), [The Bill of Rights (video)](https://youtu.be/R2h8CrX84Eo)

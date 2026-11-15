@@ -3,7 +3,7 @@
   "adventure_name": "Digging in the Past",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Dinosaurs and other giant creatures lived and died out millions of years ago, so thankfully you won’t run into one on a walk.  A scientist who studies dinosaurs is called a paleontologist (pa-le-on-to-lo-gist).  They study dinosaur bones and fossils to learn more about their habits, the food they ate, and their size. During this Adventure, you will match dinosaurs to their names, and you’ll use your imagination to create your own dinosaur. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Dinosaurs and other giant creatures lived and died out millions of years ago, so thankfully you won’t run into one on a walk.  A scientist who studies dinosaurs is called a paleontologist (pa-le-on-to-lo-gist).  They study dinosaur bones and fossils to learn more about their habits, the food they ate, and their size. During this Adventure, you will match dinosaurs to their names, and you’ll use your imagination to create your own dinosaur.",
   "url": "https://www.scouting.org/cub-scout-adventures/digging-in-the-past/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2023/11/2023_2024_loops_pins_Digging_Into_the_Past.jpg",
   "image_filename": "digging-in-the-past.jpg",
@@ -146,6 +146,53 @@
           "energy_level": "4",
           "supply_list": "2",
           "prep_time": "7"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Build a fossil layer.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Build a fossil layer."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Dig in and Devour",
+          "url": "https://www.scouting.org/cub-scout-activities/dig-in-and-devour/",
+          "description": "Cub Scouts learn about fossil layers by making edible fossil layers.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Dino Canvas",
+          "url": "https://www.scouting.org/cub-scout-activities/dino-canvas/",
+          "description": "Draw fossil layers and add in dinosaurs.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Fossil Dough Discovery",
+          "url": "https://www.scouting.org/cub-scout-activities/fossil-dough-discovery/",
+          "description": "Cub Scouts build fossil layers with play dough.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
         }
       ]
     }

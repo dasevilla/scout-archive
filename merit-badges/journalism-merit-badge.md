@@ -9,6 +9,10 @@ One thing is for sure about journalism: It is never boring. For a reporter, almo
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Law merit badge [HERE](https://www.scouting.org/skills/merit-badges/law) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/law)
+
 - (1) Explain what freedom of the press is and how the First Amendment guarantees that you can voice your opinion. In your discussion, tell how to distinguish between fact and opinion, and explain the terms libel, slander, defamation, fair comment and criticism, public figure, privacy, and malice. Discuss how these matters relate to ethics in journalism.
 
   **Resources:** [Freedom of the Press in the United States (video)](https://youtu.be/sserJ8x1Ec0), [What Are Libel and Slander? (video)](https://youtu.be/yqJKIjHT3RM), [How To Identify Fact vs Opinion in Writing & Research (video)](https://youtu.be/BTZjqOU_6Vc), [Understanding News Media: Fact vs. Opinion (PDF)](https://nynpa.com/docs/nie/newsmedia/FactvsOpinion.pdf), [Fair Comment and Criticism (website)](https://simplyglobalmedia.com/media-law-and-ethics-glossary/fair-comment-and-criticism/)

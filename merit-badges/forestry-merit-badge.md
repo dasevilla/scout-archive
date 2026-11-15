@@ -9,6 +9,8 @@ In working through the Forestry merit badge requirements, Scouts will explore th
 
 ## Requirements
 
+- **NOTE: Scouts must remember to follow the Leave No Trace Seven Principles and the Outdoor Code while on field trips and when collecting specimens. Make sure you have permission of the land manager prior to taking any samples for your collection. Collecting is prohibited in most National and State Parks. Pictures or sketches may suffice for a collection and limit impacted disturbances.**
+
 - (1) Prepare a field notebook, make a collection, and identify 15 species of trees, wild shrubs, or vines in a local forested area. Write a description in which you identify and discuss the following:
 
   **Resources:** [How To Press Leaves (video)](https://youtu.be/06nhKenT410), [Best Tree ID Apps Reviewed (app)](https://youtu.be/AtoSxXlRzsM)

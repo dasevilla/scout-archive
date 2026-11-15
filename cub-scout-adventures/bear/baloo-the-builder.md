@@ -9,7 +9,7 @@
 
 ## Overview
 
-Learning to build things that are useful or fun is an important skill. You might grow up to build houses as a career or models as a hobby. Or you might just learn some skills that will help you in everyday life. Building materials may include wood, cement, plastic, steel, or a combination of all these things. For this Adventure, we will focus on wood. You will learn about hand tools and how to use them safely. You will learn how to choose the right type of wood for a project and follow project instructions. And before you’re finished, you will use your new skills to make two projects from wood. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+Learning to build things that are useful or fun is an important skill. You might grow up to build houses as a career or models as a hobby. Or you might just learn some skills that will help you in everyday life. Building materials may include wood, cement, plastic, steel, or a combination of all these things. For this Adventure, we will focus on wood. You will learn about hand tools and how to use them safely. You will learn how to choose the right type of wood for a project and follow project instructions. And before you’re finished, you will use your new skills to make two projects from wood.
 
 ## Requirements
 
@@ -56,6 +56,21 @@ Determine the tools and materials needed to build your project in requirement 3.
 
 - **[Tool and Material Selection](https://www.scouting.org/cub-scout-activities/tool-and-material-selection/)** (Indoor, energy 2, supplies 2, prep 1)
   Cub Scouts determine tools and materials are needed to build their selected project.
+
+### Requirement 5
+
+Build your project.
+
+**Activities:**
+
+- **[Project Build – Bat Box](https://www.scouting.org/cub-scout-activities/project-build-bat-box/)** (Indoor, energy 3, supplies 4, prep 4)
+  Cub Scouts build a bat house.
+- **[Project Build – Candy Dispenser](https://www.scouting.org/cub-scout-activities/project-build-candy-dispenser/)** (Indoor, energy 3, supplies 4, prep 4)
+  Cub Scouts build a candy dispenser.
+- **[Project Build – Tic-Tac-Toe Board](https://www.scouting.org/cub-scout-activities/project-build-tic-tac-toe-board/)** (Indoor, energy 3, supplies 4, prep 4)
+  Cub Scouts build a tic-tac-toe board.
+- **[Project Build – Tool or Art Caddy](https://www.scouting.org/cub-scout-activities/project-build-tool-or-art-caddy/)** (Indoor, energy 3, supplies 4, prep 4)
+  Cub Scouts build a caddy for tools or art supplies.
 
 
 ## Resources

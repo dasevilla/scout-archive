@@ -9,7 +9,7 @@
 
 ## Overview
 
-When you go “into the wild,” you will begin to learn about some of the mammals, birds, reptiles, amphibians, and insects that live with us day and night and how they contribute to the world in which we live. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+When you go “into the wild,” you will begin to learn about some of the mammals, birds, reptiles, amphibians, and insects that live with us day and night and how they contribute to the world in which we live.
 
 ## Requirements
 

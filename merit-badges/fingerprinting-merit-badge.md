@@ -9,6 +9,10 @@ In earning the Fingerprinting merit badge, Scouts will learn about and use an im
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Communication merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/fingerprinting/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/fingerprinting/)
+
 - (1) Give a short history of fingerprinting. Tell the difference between civil and criminal identification.
 
   **Resources:** [How Did Detectives Solve the Case of the Bloody Fingerprints? (video)](https://youtu.be/__nlupHISg0), [History of Fingerprinting (video)](https://youtu.be/wg-lgiPV4rw)

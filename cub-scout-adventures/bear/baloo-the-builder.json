@@ -3,7 +3,7 @@
   "adventure_name": "Baloo the Builder",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Learning to build things that are useful or fun is an important skill. You might grow up to build houses as a career or models as a hobby. Or you might just learn some skills that will help you in everyday life. Building materials may include wood, cement, plastic, steel, or a combination of all these things. For this Adventure, we will focus on wood. You will learn about hand tools and how to use them safely. You will learn how to choose the right type of wood for a project and follow project instructions. And before you’re finished, you will use your new skills to make two projects from wood. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.",
+  "adventure_overview": "Learning to build things that are useful or fun is an important skill. You might grow up to build houses as a career or models as a hobby. Or you might just learn some skills that will help you in everyday life. Building materials may include wood, cement, plastic, steel, or a combination of all these things. For this Adventure, we will focus on wood. You will learn about hand tools and how to use them safely. You will learn how to choose the right type of wood for a project and follow project instructions. And before you’re finished, you will use your new skills to make two projects from wood.",
   "url": "https://www.scouting.org/cub-scout-adventures/baloo-the-builder/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Baloo_the_Builder.jpg",
   "image_filename": "baloo-the-builder.jpg",
@@ -157,6 +157,62 @@
           "energy_level": "2",
           "supply_list": "2",
           "prep_time": "1"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "text": "Build your project.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Build your project."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Project Build – Bat Box",
+          "url": "https://www.scouting.org/cub-scout-activities/project-build-bat-box/",
+          "description": "Cub Scouts build a bat house.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "4"
+        },
+        {
+          "name": "Project Build – Candy Dispenser",
+          "url": "https://www.scouting.org/cub-scout-activities/project-build-candy-dispenser/",
+          "description": "Cub Scouts build a candy dispenser.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "4"
+        },
+        {
+          "name": "Project Build – Tic-Tac-Toe Board",
+          "url": "https://www.scouting.org/cub-scout-activities/project-build-tic-tac-toe-board/",
+          "description": "Cub Scouts build a tic-tac-toe board.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "4"
+        },
+        {
+          "name": "Project Build – Tool or Art Caddy",
+          "url": "https://www.scouting.org/cub-scout-activities/project-build-tool-or-art-caddy/",
+          "description": "Cub Scouts build a caddy for tools or art supplies.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "4"
         }
       ]
     }

@@ -9,6 +9,10 @@ Learn to reduce waste and teach sustainable practices to others so you can help 
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Sustainability merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/sustainability/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/sustainability/)
+
 - (1) Describe the meaning of sustainability in your own words. Explain the importance of sustainability to society and how you can contribute to fulfilling the needs of current generations without compromising the needs of future generations.
 
   **Resources:** [What is Sustainability (video)](https://www.youtube.com/watch?v=zx04Kl8y4dE), [Introduction to Sustainability (video)](https://youtu.be/k6jUaaQNY28?si=lLm_GCjG4LjRhh6Z)

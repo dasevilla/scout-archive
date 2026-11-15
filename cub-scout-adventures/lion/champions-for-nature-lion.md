@@ -9,7 +9,7 @@
 
 ## Overview
 
-As part of the World Organization of the Scouting Movement, this program is part of a global effort to teach youth about the conservation of natural resources.  This includes participating in a service project. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+As part of the World Organization of the Scouting Movement, this program is part of a global effort to teach youth about the conservation of natural resources.  This includes participating in a service project.
 
 ## Requirements
 
@@ -34,6 +34,17 @@ Discover the difference between organic, paper, plastic, metal and glass waste.
 
 - **[Types of Trash](https://www.scouting.org/cub-scout-activities/types-of-trash/)** (Indoor, energy 2, supplies 2, prep 1)
   Identify the difference between items that are organic, paper, and glass.
+
+### Requirement 3
+
+Discover recycling.
+
+**Activities:**
+
+- **[Use It Again](https://www.scouting.org/cub-scout-activities/use-it-again/)** (Travel, energy 2, supplies 1, prep 5)
+  Take a trip to a recycling center.
+- **[You Can Recycle](https://www.scouting.org/cub-scout-activities/you-can-recycle/)** (Indoor, energy 1, supplies 1, prep 5)
+  Invite a guest speaker to share how Cub Scouts can recycle in their community.
 
 ### Requirement 4
 

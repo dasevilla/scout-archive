@@ -9,7 +9,7 @@
 
 ## Overview
 
-T ​ ​ he sleeper , over the falls, walk the dog, and around the ​ world are ​ just some of the tricks to learn with a yo – yo . Did you know that there are world champions of yo – yo ? There are professional yo – yo champions who tour the world giving demonstrations and competing. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+T ​ ​ he sleeper , over the falls, walk the dog, and around the ​ world are ​ just some of the tricks to learn with a yo – yo . Did you know that there are world champions of yo – yo ? There are professional yo – yo champions who tour the world giving demonstrations and competing.
 
 ## Requirements
 

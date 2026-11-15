@@ -9,6 +9,8 @@ Learn how animal diversity impacts the planet and the longevity of communities a
 
 ## Requirements
 
+- **NOTE: Scouts must remember to follow the Leave No Trace Seven Principles and the Outdoor Code while on field trips and when collecting specimens. Make sure you have permission of the land manager prior to taking any samples. Your state may require that you purchase and carry a license to collect certain species. Check with the wildlife and fish and game officials in your state regarding species regulations before you begin to collect.**
+
 - (1) Describe the meaning and purposes of fish and wildlife conservation and management.
 
   **Resources:** [Managing Fish and Wildlife  (video)](https://youtu.be/1eux6YDkSlU?si=ZJzJVOHHGSDRUm7g)

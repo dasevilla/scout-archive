@@ -9,7 +9,7 @@
 
 ## Overview
 
-In this Adventure you will design and build your own Pinewood Derby® car or Raingutter Regatta™ boat. As an Arrow of Light Scout, you will mentor younger Cub Scouts on design, building, and good sportsmanship. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In this Adventure you will design and build your own Pinewood Derby® car or Raingutter Regatta™ boat. As an Arrow of Light Scout, you will mentor younger Cub Scouts on design, building, and good sportsmanship.
 
 ## Requirements
 

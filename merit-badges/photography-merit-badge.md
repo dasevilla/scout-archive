@@ -9,6 +9,10 @@ Beyond capturing family memories, photography offers a chance to be creative. Ma
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Photography merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/photography/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/photography/)
+
 - (1) Safety. Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water.
 

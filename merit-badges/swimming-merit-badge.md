@@ -9,6 +9,10 @@ Swimming is a leisure activity, a competitive sport, and a basic survival skill.
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Swimming merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/swimming/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/swimming/)
+
 - (1) Do the following:
   - (a) Review with your counselor how Scouting America's Safe Swim Defense guidelines anticipate and deal with common drowning situations such as unfenced residential pools, nonswimmers entering deep water, risky behaviors, medical impairment in the water, drop-offs, cold water, murky water, river currents, rip currents, and surf.
 

@@ -12,6 +12,58 @@
   "image_filename": "swimming-merit-badge.jpg",
   "requirements": [
     {
+      "id": "14174",
+      "label": null,
+      "text": "NOTE: Check out the Digital Resource Guide for the Swimming merit badge HERE for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Check out the Digital Resource Guide for the Swimming merit badge "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/swimming/"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!"
+        }
+      ],
+      "resources": [
+        {
+          "title": "HERE",
+          "url": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/swimming/",
+          "type": "website"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
       "id": "12179",
       "label": "1",
       "text": "Do the following:",

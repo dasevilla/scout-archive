@@ -9,7 +9,7 @@
 
 ## Overview
 
-Afloat rules, Tigers will learn how to stay safe in the water and get comfortable with being in the water. Tigers can earn this Adventure by completing the requirements OR by taking swim lessons. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+Afloat rules, Tigers will learn how to stay safe in the water and get comfortable with being in the water. Tigers can earn this Adventure by completing the requirements OR by taking swim lessons.
 
 ## Requirements
 
@@ -48,6 +48,15 @@ Place your face in the water and blow bubbles.
 
 - **[Bubbles in the Water](https://www.scouting.org/cub-scout-activities/bubbles-in-the-water/)** (Travel, energy 3, supplies 2, prep 5)
   While in the pool Cub Scouts will blow bubbles in the water.
+
+### Requirement 5
+
+Demonstrate a flutter kick.
+
+**Activities:**
+
+- **[Flutter Kicking](https://www.scouting.org/cub-scout-activities/flutter-kicking/)** (Travel, energy 5, supplies 3, prep 5)
+  Demonstrate the flutter kick using the side of the pool for  assistance .
 
 ### Requirement 6
 

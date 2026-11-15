@@ -9,7 +9,7 @@
 
 ## Overview
 
-Volunteering to make your community and country better is part of being both a Scout and a good citizen. This Adventure may only have two requirements, but the goal is for you to take an active part in identifying and planning a service project, not just participating in one. This will help you in the future as you learn how to plan and conduct service projects in Scouts BSA. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Volunteering to make your community and country better is part of being both a Scout and a good citizen. This Adventure may only have two requirements, but the goal is for you to take an active part in identifying and planning a service project, not just participating in one. This will help you in the future as you learn how to plan and conduct service projects in Scouts BSA.
 
 ## Requirements
 

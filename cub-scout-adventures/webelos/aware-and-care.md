@@ -9,7 +9,7 @@
 
 ## Overview
 
-Everyone has differences, and everyone faces challenges. That’s what makes us human. In this Adventure, you’ll learn about the challenges other people face by looking at the world through their eyes. The more you understand, the more helpful you can be — and the more you can show your friends how to be nice to everyone, including people who are different. After all, we are all different in one way or another. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Everyone has differences, and everyone faces challenges. That’s what makes us human. In this Adventure, you’ll learn about the challenges other people face by looking at the world through their eyes. The more you understand, the more helpful you can be — and the more you can show your friends how to be nice to everyone, including people who are different. After all, we are all different in one way or another.
 
 ## Requirements
 
@@ -40,6 +40,17 @@ Do an activity that shows the challenges of being hearing impaired.
   Tell a story using American Sign Language.
 - **[What Animal](https://www.scouting.org/cub-scout-activities/what-animal-webelos/)** (Indoor, energy 3, supplies 2, prep 2)
   Cub Scout guess the animal without talking.
+
+### Requirement 3
+
+Explore barriers to access.
+
+**Activities:**
+
+- **[Can You Reach It?](https://www.scouting.org/cub-scout-activities/can-you-reach-it/)** (Indoor, energy 3, supplies 2, prep 2)
+  Cub Scouts experience what it is like to have an object out of reach.
+- **[Outdoors Barriers to Access](https://www.scouting.org/cub-scout-activities/outdoors-barriers-to-access/)** (Outdoor, energy 3, supplies 3, prep 2)
+  Cub Scouts go outdoors looking for barriers to access.
 
 ### Requirement 4
 

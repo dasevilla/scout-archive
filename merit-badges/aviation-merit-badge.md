@@ -9,6 +9,10 @@ For most of history, people have dreamed of flying, imagining how it would feel 
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Aviation merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/aviation/?utm_source=mb&utm_medium=requirements&utm_campaign=aviation) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey! Additional educational resources are available on our [**Counselor Information Page.**](https://www.scouting.org/skills/merit-badges/counselor-information/)
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/aviation/?utm_source=mb&utm_medium=requirements&utm_campaign=aviation), [Counselor Information Page.](https://www.scouting.org/skills/merit-badges/counselor-information/)
+
 - (1) **Aviation Basics and Mechanics of Flight.** Do the following:
   - (a) Define "aircraft." Describe three kinds of aircraft today, and their typical uses.
 

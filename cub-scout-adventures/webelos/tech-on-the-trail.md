@@ -9,7 +9,7 @@
 
 ## Overview
 
-Getting outside is a fun part of being a Cub Scout . Using technology outdoors can be an important part of helping you explore the world around you . Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Getting outside is a fun part of being a Cub Scout . Using technology outdoors can be an important part of helping you explore the world around you .
 
 ## Requirements
 
@@ -41,6 +41,15 @@ With an adult, choose an online mapping program tool and plan a 2-mile trek.
 
 - **[Where and How Long?](https://www.scouting.org/cub-scout-activities/where-and-how-long/)** (Indoor, energy 2, supplies 5, prep 2)
   Cub Scouts use technology to find a place to take a 2-mile trek.
+
+### Requirement 4
+
+Take your 2-mile trek.
+
+**Activities:**
+
+- **[2-Mile Tech Trek](https://www.scouting.org/cub-scout-activities/2-mile-tech-trek/)** (Outdoor, energy 4, supplies 5, prep 5)
+  Cub Scout take a 2-mile trek they planned.
 
 
 ## Resources

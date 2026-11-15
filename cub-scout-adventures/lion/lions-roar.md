@@ -9,7 +9,7 @@
 
 ## Overview
 
-In partnership with the Barbara Sinatra Children’s Center Foundation, Lions will learn about the “Protect Yourself Rules” and other skills needed to stay safe. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In partnership with the Barbara Sinatra Children’s Center Foundation, Lions will learn about the “Protect Yourself Rules” and other skills needed to stay safe.
 
 ## Requirements
 

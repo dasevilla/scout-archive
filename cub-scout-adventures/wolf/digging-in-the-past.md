@@ -9,7 +9,7 @@
 
 ## Overview
 
-Dinosaurs and other giant creatures lived and died out millions of years ago, so thankfully you won’t run into one on a walk.  A scientist who studies dinosaurs is called a paleontologist (pa-le-on-to-lo-gist).  They study dinosaur bones and fossils to learn more about their habits, the food they ate, and their size. During this Adventure, you will match dinosaurs to their names, and you’ll use your imagination to create your own dinosaur. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Dinosaurs and other giant creatures lived and died out millions of years ago, so thankfully you won’t run into one on a walk.  A scientist who studies dinosaurs is called a paleontologist (pa-le-on-to-lo-gist).  They study dinosaur bones and fossils to learn more about their habits, the food they ate, and their size. During this Adventure, you will match dinosaurs to their names, and you’ll use your imagination to create your own dinosaur.
 
 ## Requirements
 
@@ -51,6 +51,19 @@ Be a paleontologist and dig through a dinosaur dig.
   Cub Scouts will make dinosaur eggs.
 - **[Fossil Expedition](https://www.scouting.org/cub-scout-activities/fossil-expedition/)** (Travel, energy 4, supplies 2, prep 7)
   Visit a location where fossils can be found.
+
+### Requirement 4
+
+Build a fossil layer.
+
+**Activities:**
+
+- **[Dig in and Devour](https://www.scouting.org/cub-scout-activities/dig-in-and-devour/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts learn about fossil layers by making edible fossil layers.
+- **[Dino Canvas](https://www.scouting.org/cub-scout-activities/dino-canvas/)** (Indoor, energy 2, supplies 2, prep 2)
+  Draw fossil layers and add in dinosaurs.
+- **[Fossil Dough Discovery](https://www.scouting.org/cub-scout-activities/fossil-dough-discovery/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts build fossil layers with play dough.
 
 
 ## Resources

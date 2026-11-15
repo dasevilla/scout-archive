@@ -13,6 +13,15 @@ As you get ready to join Scouts BSA, there are new aquatic activities that you w
 
 ## Requirements
 
+### Requirement 1
+
+Review Safe Swim Defense.
+
+**Activities:**
+
+- **[Swimming Do’s and Don’ts](https://www.scouting.org/cub-scout-activities/swimming-dos-and-donts/)** (Indoor, energy 1, supplies 2, prep 2)
+  Cub Scouts play a game to learn Safe Swim Defense.
+
 ### Requirement 2
 
 Explain the meaning of “order of rescue” and demonstrate the reach and throw rescue techniques from land.

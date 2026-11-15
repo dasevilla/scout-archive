@@ -9,7 +9,7 @@
 
 ## Overview
 
-This Adventure is all about being a good citizen. You’ll learn about the different types of voting and how our national government maintains the balance of power. You’ll meet with a local politician and discuss how they were elected and their role in government. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+This Adventure is all about being a good citizen. You’ll learn about the different types of voting and how our national government maintains the balance of power. You’ll meet with a local politician and discuss how they were elected and their role in government.
 
 ## Requirements
 

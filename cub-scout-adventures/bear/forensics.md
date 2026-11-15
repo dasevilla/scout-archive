@@ -26,6 +26,32 @@ Explore the term “forensics” and how it is used to help solve crimes.
 - **[Visit an Expert](https://www.scouting.org/cub-scout-activities/visit-an-expert/)** (Travel, energy 2, supplies 1, prep 5)
   Cub Scouts learn from an expert more about how forensics is used to help solve crimes.
 
+### Requirement 2
+
+Analyze your fingerprints.
+
+**Activities:**
+
+- **[Are You There?](https://www.scouting.org/cub-scout-activities/are-you-there/)** (Indoor, energy 2, supplies 5, prep 5)
+  Cub Scouts discover that even if they can’t see their fingerprint with their naked eye, they are still there.
+- **[Fingerprint Fun](https://www.scouting.org/cub-scout-activities/fingerprint-fun/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts learn the different patterns in fingerprints and analyze their own fingerprints.
+- **[Whose Fingerprint Is It](https://www.scouting.org/cub-scout-activities/whose-fingerprint-is-it/)** (Indoor, energy 3, supplies 2, prep 2)
+  Cub Scouts look at fingerprints and try to match them.
+
+### Requirement 3
+
+Make a shoe imprint.
+
+**Activities:**
+
+- **[Gumshoe](https://www.scouting.org/cub-scout-activities/gumshoe/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scout investigate how their shoe can leave a print.
+- **[Heavy Shoes](https://www.scouting.org/cub-scout-activities/heavy-shoes/)** (Indoor, energy 2, supplies 5, prep 5)
+  Cub Scout make a shoe impression.
+- **[Muddy Shoe](https://www.scouting.org/cub-scout-activities/muddy-shoe/)** (Outdoor, energy 3, supplies 1, prep 2)
+  Cub Scout investigate how their shoe can leave a print in the dirt.
+
 ### Requirement 4
 
 Do an analysis of four different substances: salt, sugar, baking soda and cornstarch.

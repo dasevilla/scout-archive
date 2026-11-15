@@ -9,6 +9,10 @@ Personal fitness is an individual effort and desire to be the best one can be. R
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Personal Fitness merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/personal-fitness/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/personal-fitness/)
+
 - (1) **Defining Personal Fitness.** Explain to your counselor what personal fitness means to you, including:
   - (a) Describe a person who is physically fit.
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-People have been fishing since long before they started farming.  Today most people fish as a hobby or just for fun, and not for survival.  In this Adventure you will get ready to learn the basics of fishing where you live and join your family, den, or pack on a fishing trip. Do wolves fish in the wild? Yes, they do. In Alaska wolves fish for salmon, and in Minnesota they fish for freshwater fish in creeks.  Let’s learn about the different types of water in which fish and how to catch them. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+People have been fishing since long before they started farming.  Today most people fish as a hobby or just for fun, and not for survival.  In this Adventure you will get ready to learn the basics of fishing where you live and join your family, den, or pack on a fishing trip. Do wolves fish in the wild? Yes, they do. In Alaska wolves fish for salmon, and in Minnesota they fish for freshwater fish in creeks.  Let’s learn about the different types of water in which fish and how to catch them.
 
 ## Requirements
 

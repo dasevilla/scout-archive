@@ -9,7 +9,7 @@
 
 ## Overview
 
-Water is an important force in our lives. It can be as gentle as a spring sun-shower or as powerful as a hurricane. All living things need water to live, but we use water for more than just survival. In this Adventure, you will learn where the water you use comes from and how to conserve it. Adventure Safety Moment Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+Water is an important force in our lives. It can be as gentle as a spring sun-shower or as powerful as a hurricane. All living things need water to live, but we use water for more than just survival. In this Adventure, you will learn where the water you use comes from and how to conserve it.
 
 ## Requirements
 

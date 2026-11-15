@@ -9,7 +9,7 @@
 
 ## Overview
 
-Trees and plants play important roles in nature. In this Adventure, you will get to learn about the plants and trees in your community by exploring your area on a walk or visit to a local nature center, tree farm, or park. If you have ever stood beneath a towering redwood, enjoyed the colors of fall leaves, or watched pine trees swaying in the wind, you know that trees and plants are beautiful. But they are also important to life on Earth. As you go into the woods, you will learn what trees and plants do for us and for animals, and why taking care of them is important to our planet’s well-being. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved.
+Trees and plants play important roles in nature. In this Adventure, you will get to learn about the plants and trees in your community by exploring your area on a walk or visit to a local nature center, tree farm, or park. If you have ever stood beneath a towering redwood, enjoyed the colors of fall leaves, or watched pine trees swaying in the wind, you know that trees and plants are beautiful. But they are also important to life on Earth. As you go into the woods, you will learn what trees and plants do for us and for animals, and why taking care of them is important to our planet’s well-being.
 
 ## Requirements
 

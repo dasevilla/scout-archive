@@ -9,9 +9,37 @@
 
 ## Overview
 
-Lions with their adult partner will build a useful object together and explore the properties of motion and force. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Lions with their adult partner will build a useful object together and explore the properties of motion and force.
 
 ## Requirements
+
+### Requirement 1
+
+Explore properties of motion.
+
+**Activities:**
+
+- **[Jumping Cars](https://www.scouting.org/cub-scout-activities/jumping-cars/)** (Indoor, energy 2, supplies 4, prep 3)
+  Use Hot Wheels™ cars to conduct some tests of motion.
+- **[Moving Marbles](https://www.scouting.org/cub-scout-activities/moving-marbles/)** (Indoor, energy 2, supplies 2, prep 2)
+  Make a marble maze out of a paper plate.
+- **[On a Roll](https://www.scouting.org/cub-scout-activities/on-a-roll/)** (Indoor, energy 2, supplies 3, prep 2)
+  Roll different-sized balls to explore the movement and rotation.
+- **[Ping Pong Ball Derby](https://www.scouting.org/cub-scout-activities/ping-pong-ball-derby/)** (Indoor, energy 3, supplies 2, prep 2)
+  Race ping pong balls across a table by blowing through a straw.
+
+### Requirement 2
+
+Explore properties of force.
+
+**Activities:**
+
+- **[Cars That Run On Air](https://www.scouting.org/cub-scout-activities/cars-that-run-on-air/)** (Indoor, energy 2, supplies 2, prep 3)
+  Build balloon cars to see how air can be a force to move things.
+- **[Does This Thing Fly?](https://www.scouting.org/cub-scout-activities/does-this-thing-fly/)** (Indoor, energy 2, supplies 2, prep 1)
+  Making paper airplanes and comparing it to paper balls explores the concept of friction as a force.
+- **[The Force Pushes and Pulls](https://www.scouting.org/cub-scout-activities/the-force-pushes-and-pulls/)** (Indoor, energy 2, supplies 2, prep 1)
+  Cub Scouts identify the difference between pushing and pulling as a force.
 
 ### Requirement 3
 

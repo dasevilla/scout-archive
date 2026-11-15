@@ -9,6 +9,11 @@ Since 1911, hundreds of thousands of Scouts have made the most of their two-whee
 
 ## Requirements
 
+- **NOTE: Requirements in this merit badge are to be completed using a manually-powered cycle. Use of electric or hybrid-electric bikes is not permitted.**
+  Check out the Digital Resource Guide for the Cycling merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/cycling/) for information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/cycling/)
+
 - (1) Do the following:
 
   **Resources:** [Hazards, Prevention, and First Aid \| Produced by Scouting America (video)](https://vimeo.com/1125028263)

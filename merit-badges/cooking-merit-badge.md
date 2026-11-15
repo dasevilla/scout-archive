@@ -11,6 +11,10 @@ The Cooking merit badge introduces principles of cooking that can be used both a
 
 - **NOTE: Repeating Meals or Menus: The meals prepared for Cooking merit badge requirements 4, 5, and 6 will count only toward this merit badge and may not be used for rank advancement or any other merit badge. Meals prepared for rank advancement or other merit badges may not be counted toward the *Cooking* merit badge. Menus used for meals in requirements 4, 5, and 6 must not be repeated.    Outdoor Cooking: Where local regulations do not allow you to build a fire, the counselor may adjust the requirement to meet the law. The meals in requirements 5 and 6 may be prepared for different trips and need not be prepared consecutively. Scouts working on this badge in summer camp should take into consideration foods that can be obtained at the camp commissary.**
 
+- **NOTE:** Check out the Digital Resource Guide for the Cooking merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/cooking/) for information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/cooking/)
+
 - (1) **Health and safety.** Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while participating in cooking activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-To most people, coins are used to buy things they want or need. But coins can also tell a story. The pictures on United States coins tell a lot about our country’s culture and history. In this Adventure, you will get to be a numismatist (noo-MIZmuh-tist). A numismatist is a person who studies coins and money. You’ll learn where coins are made and the meaning of their pictures and words. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+To most people, coins are used to buy things they want or need. But coins can also tell a story. The pictures on United States coins tell a lot about our country’s culture and history. In this Adventure, you will get to be a numismatist (noo-MIZmuh-tist). A numismatist is a person who studies coins and money. You’ll learn where coins are made and the meaning of their pictures and words.
 
 ## Requirements
 
@@ -38,6 +38,21 @@ Find the mint mark on a coin and identify the mint facility where it was made an
   Cub Scouts will learn about coin mint marks.
 - **[Pile of Pennies](https://www.scouting.org/cub-scout-activities/pile-of-pennies/)** (Indoor, energy 2, supplies 2, prep 2)
   Learning to find the mint mark and date on pennies.
+
+### Requirement 3
+
+Play a coin game.
+
+**Activities:**
+
+- **[Coin Basketball](https://www.scouting.org/cub-scout-activities/coin-basketball/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts will play basketball with coins.
+- **[Coin Bingo](https://www.scouting.org/cub-scout-activities/coin-bingo/)** (Indoor, energy 2, supplies 2, prep 2)
+  Play Coin Bingo.
+- **[Coin Wars Game](https://www.scouting.org/cub-scout-activities/coin-wars-game/)** (Indoor, energy 2, supplies 2, prep 2)
+  The coin wars game will help teach Cub Scouts to add up the value of coins.
+- **[Eggstravaganza Coin Quest](https://www.scouting.org/cub-scout-activities/eggstravaganza-coin-quest/)** (Indoor, energy 4, supplies 3, prep 2)
+  Cub Scouts will practice their coin-counting skills with this fun coin game using plastic Easter eggs.
 
 ### Requirement 4
 

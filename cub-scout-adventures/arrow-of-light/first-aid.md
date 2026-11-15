@@ -9,7 +9,7 @@
 
 ## Overview
 
-In this Adventure, you will learn how to protect yourself and how to help others when they have been hurt. The skills you learn in this Adventure could help someone in trouble or even save a life. Your patrol may have a trained professional like an emergency medical technician (EMT), medical doctor, or registered nurse provide instruction for this Adventure. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In this Adventure, you will learn how to protect yourself and how to help others when they have been hurt. The skills you learn in this Adventure could help someone in trouble or even save a life. Your patrol may have a trained professional like an emergency medical technician (EMT), medical doctor, or registered nurse provide instruction for this Adventure.
 
 ## Requirements
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically . Most electronic computers use a simple code based on an electronic switch being on or off, this is known as binary . In this Adventure, get ready to see the inside of a computer and the main parts that make it work Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically . Most electronic computers use a simple code based on an electronic switch being on or off, this is known as binary . In this Adventure, get ready to see the inside of a computer and the main parts that make it work
 
 ## Requirements
 

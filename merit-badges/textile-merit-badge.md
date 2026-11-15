@@ -20,7 +20,7 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
     **Resources:** [Natural vs Synthetic Fibers (Which to Choose and Why) (video)](https://youtu.be/cRLPUAPCfuo)
   - (c) Describe the main steps in making raw fiber into yarn, and yarn into fabric.
 
-    **Resources:** [From Cotton to Yarn (video)](https://youtu.be/vFaNiTlHeCY), [Weaving Process (video)](https://youtu.be/NIt9SGk55b4), [Knitting Process (video)](https://youtu.be/yRXuKFy89Mg), [Complete Process of Textile Manufacturing Fiber to Complete Garments (video)](https://youtu.be/5nUjGNDImIk)
+    **Resources:** [Weaving Process (video)](https://youtu.be/NIt9SGk55b4), [Knitting Process (video)](https://youtu.be/yRXuKFy89Mg), [Complete Process of Textile Manufacturing Fiber to Complete Garments (video)](https://youtu.be/5nUjGNDImIk)
   - (d) Assume you will soon buy a new garment or other textile item. Tell your counselor what fiber or blend of fibers you want the item to be, and give reasons for your choice.
 
 - (3) Do TWO of the following:
@@ -39,7 +39,7 @@ People use countless fibers and fabrics in their everyday lives: clothes, carpet
     **Resources:** [Natural Dyes From Plants and Vegetables \| DIY Eco-Friendly Dyes \| Homeschool with Everyday Food (video)](https://youtu.be/jHpPuvibjZ8), [Short Tie Dye Demo - No Narration (video)](https://www.youtube.com/shorts/J6Ib3Ehy_pw?feature=share), [Short Tie Dye Demo - With Narration (video)](https://www.youtube.com/shorts/Oeth97r7VCw?feature=share)
   - (f) Waterproof a fabric.
 
-    **Resources:** [A Simple DIY Way to Waterproof Anything (video)](https://youtu.be/y83uXupu5tY), [DIY Seam Seal (video)](https://youtu.be/UlHfbltn6hI)
+    **Resources:** [How to Waterproof a Tent (video)](https://youtu.be/XiLeIv7y0KE), [DIY Seam Seal (video)](https://youtu.be/UlHfbltn6hI)
   - (g) Demonstrate how to identify fibers, using microscope identification or the breaking test.
 
     **Resources:** [Identification of Basic Textile Fibers by Polarized Light Microscopy (video)](https://youtu.be/BbeZvRi3eUI)

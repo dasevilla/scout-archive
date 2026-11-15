@@ -9,6 +9,35 @@
   "image_filename": "swimming.jpg",
   "requirements": [
     {
+      "id": "1",
+      "label": "1",
+      "text": "Review Safe Swim Defense.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Review Safe Swim Defense."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Swimming Do’s and Don’ts",
+          "url": "https://www.scouting.org/cub-scout-activities/swimming-dos-and-donts/",
+          "description": "Cub Scouts play a game to learn Safe Swim Defense.",
+          "location": "Indoor",
+          "energy_level": "1",
+          "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
       "id": "2",
       "label": "2",
       "text": "Explain the meaning of “order of rescue” and demonstrate the reach and throw rescue techniques from land.",

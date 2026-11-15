@@ -9,6 +9,10 @@ Scouts who earn the Citizenship in the World merit badge will discover that they
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Citizenship in the World merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/citizenship-in-the-world/) for information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/citizenship-in-the-world/)
+
 - (1) Explain what citizenship in the world means to you and what you think it takes to be a good world citizen.
 
   **Resources:** [What Does It Mean To Be a Global Citizen? (video)](https://youtu.be/gfZgtP7VGGg), [What Is Global Citizenship? (video)](https://youtu.be/IH8AmE6mV9k)

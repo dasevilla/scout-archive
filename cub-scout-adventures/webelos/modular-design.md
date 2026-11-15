@@ -9,7 +9,7 @@
 
 ## Overview
 
-Some of your favorite building toys are probably modular. Learning to build using modular design is a good way to conserve resources. In this Adventure, you will gain an understanding of modular design, build using modular-based materials, and practice making directions for others to follow. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Some of your favorite building toys are probably modular. Learning to build using modular design is a good way to conserve resources. In this Adventure, you will gain an understanding of modular design, build using modular-based materials, and practice making directions for others to follow.
 
 ## Requirements
 

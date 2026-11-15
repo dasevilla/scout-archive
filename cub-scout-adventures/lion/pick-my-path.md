@@ -9,7 +9,7 @@
 
 ## Overview
 
-Through game play, Lions are exposed to the idea that choices have consequences. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Through game play, Lions are exposed to the idea that choices have consequences.
 
 ## Requirements
 

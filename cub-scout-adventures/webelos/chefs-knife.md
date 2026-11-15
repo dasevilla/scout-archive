@@ -9,7 +9,7 @@
 
 ## Overview
 
-The most common use of a knife is in the kitchen.  In this Adventure, you will learn the safety rules about using a knife in the kitchen and some basic instructions on how to use a kitchen knife. This Adventure is required in order for you to use any knife during a Cub Scout activity.  Even if you earned the Whittling Adventure as a Bear, you must earn the Chef’s Knife Adventure as a Webelos to earn the privilege of using a knife during a Cub Scout activity. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+The most common use of a knife is in the kitchen.  In this Adventure, you will learn the safety rules about using a knife in the kitchen and some basic instructions on how to use a kitchen knife. This Adventure is required in order for you to use any knife during a Cub Scout activity.  Even if you earned the Whittling Adventure as a Bear, you must earn the Chef’s Knife Adventure as a Webelos to earn the privilege of using a knife during a Cub Scout activity.
 
 ## Requirements
 

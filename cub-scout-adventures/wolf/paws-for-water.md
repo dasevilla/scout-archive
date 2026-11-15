@@ -9,7 +9,7 @@
 
 ## Overview
 
-Swimming is a great way to stay healthy.  In this Adventure you will ​ ​ have a chance to get wet while you learn the rules to swimming safely. To earn this Adventure, you may enroll in and complete a swimming instruction program offered by an accredited instructor OR ​ ​ pass ​ ​Scouting America swimmer test OR complete the requirements below. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+Swimming is a great way to stay healthy.  In this Adventure you will ​ ​ have a chance to get wet while you learn the rules to swimming safely. To earn this Adventure, you may enroll in and complete a swimming instruction program offered by an accredited instructor OR ​ ​ pass ​ ​Scouting America swimmer test OR complete the requirements below.
 
 ## Requirements
 

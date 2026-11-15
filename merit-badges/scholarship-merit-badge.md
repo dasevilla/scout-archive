@@ -9,6 +9,10 @@ Working on the Scholarship merit badge provides Scouts with a great opportunity 
 
 ## Requirements
 
+- Check out the Digital Resource Guide for the Scholarship merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/scholarship/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/scholarship/)
+
 - (1) Do ONE of the following:
   - (a) Show that you have had an average grade of B or higher (80% or higher) for one term or semester.
 

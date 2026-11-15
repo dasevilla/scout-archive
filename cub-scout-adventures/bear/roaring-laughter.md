@@ -9,7 +9,7 @@
 
 ## Overview
 
-Laughing makes you feel good, and when you laugh others may start laughing, too. With just a smile, you can meet a new friend, make someone else smile, and create a happy feeling in yourself and other people. In this Adventure, you’ll find lots of ways to smile and laugh. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Laughing makes you feel good, and when you laugh others may start laughing, too. With just a smile, you can meet a new friend, make someone else smile, and create a happy feeling in yourself and other people. In this Adventure, you’ll find lots of ways to smile and laugh.
 
 ## Requirements
 
@@ -25,6 +25,19 @@ Think about what makes you laugh. Discuss these with your den or family.
   Cub Scouts grab and read jokes out loud to den.
 - **[Laughter Unleashed](https://www.scouting.org/cub-scout-activities/laugher-unleashed/)** (Indoor, energy 2, supplies 2, prep 2)
   Cub Scouts write down things that make them laugh and share with the den.
+
+### Requirement 2
+
+Practice reading tongue twisters.
+
+**Activities:**
+
+- **[Tongue Twister Challenge](https://www.scouting.org/cub-scout-activities/tongue-twister-challenge/)** (Indoor, energy 3, supplies 2, prep 2)
+  Cub Scouts practice tongue twisters.
+- **[Tongue Twister Dice Game](https://www.scouting.org/cub-scout-activities/tongue-twister-dice-game/)** (Indoor, energy 2, supplies 2, prep 2)
+  Cub Scouts play a tongue twister game with dice.
+- **[Tongue Twister Tales](https://www.scouting.org/cub-scout-activities/tongue-twister-tales/)** (Indoor, energy 2, supplies 3, prep 2)
+  Cub Scouts read a Dr. Suess story.
 
 ### Requirement 3
 

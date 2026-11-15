@@ -9,7 +9,7 @@
 
 ## Overview
 
-Are you ready for a 10-mile bike ride? Gather your Scout Basic Essentials, check your bike and safety gear, and get ready to hit the open road or trail. Cycling is a wonderful way to travel and a great hobby to stay physically strong. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Are you ready for a 10-mile bike ride? Gather your Scout Basic Essentials, check your bike and safety gear, and get ready to hit the open road or trail. Cycling is a wonderful way to travel and a great hobby to stay physically strong.
 
 ## Requirements
 
@@ -48,6 +48,15 @@ Review different bicycle locks. Demonstrate the operation of locks and, how to s
 
 - **[AOL Lock It Up](https://www.scouting.org/cub-scout-activities/aol-lock-it-up/)** (Outdoor, energy 3, supplies 5, prep 5)
   Cub Scouts learn about different types of bike locks and how to open them.
+
+### Requirement 5
+
+Repair a flat tire.
+
+**Activities:**
+
+- **[AOL Fix Your Flat](https://www.scouting.org/cub-scout-activities/aol-fix-your-flat/)** (Outdoor, energy 3, supplies 5, prep 5)
+  Cub Scouts learn how to repair a flat tire on a bike.
 
 ### Requirement 6
 

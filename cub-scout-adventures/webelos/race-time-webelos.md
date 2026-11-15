@@ -9,7 +9,7 @@
 
 ## Overview
 
-Propulsion is what gives an object (such as a plane, car, or boat) the power to move. Friction is what causes an object to stop. In this Adventure, you’ll learn different ways to make and propel vehicles. Think about how the shapes of cars, boats, and planes affect the distance they can go. You’ll explore how you can use the air in your lungs, the force of gravity, and the power of your imagination to make things go. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Propulsion is what gives an object (such as a plane, car, or boat) the power to move. Friction is what causes an object to stop. In this Adventure, you’ll learn different ways to make and propel vehicles. Think about how the shapes of cars, boats, and planes affect the distance they can go. You’ll explore how you can use the air in your lungs, the force of gravity, and the power of your imagination to make things go.
 
 ## Requirements
 

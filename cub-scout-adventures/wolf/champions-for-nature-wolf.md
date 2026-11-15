@@ -9,7 +9,7 @@
 
 ## Overview
 
-Planet Earth is our home. It provides us with all the things we need to live: air, water, and food. Earth also provides us with natural beauty like mountains, oceans, forests, and waterfalls. All these things are valuable resources that we need. In this Adventure, you will discover the things that you can do to help ensure the resources of Earth are taken care of and respected. Some of these things may seem small. When done by everyone, these small actions impact our world, our home, and the planet Earth. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Planet Earth is our home. It provides us with all the things we need to live: air, water, and food. Earth also provides us with natural beauty like mountains, oceans, forests, and waterfalls. All these things are valuable resources that we need. In this Adventure, you will discover the things that you can do to help ensure the resources of Earth are taken care of and respected. Some of these things may seem small. When done by everyone, these small actions impact our world, our home, and the planet Earth.
 
 ## Requirements
 

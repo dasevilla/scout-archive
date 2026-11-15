@@ -9,7 +9,7 @@
 
 ## Overview
 
-A bear is at home in the outdoors, and so is a Bear Cub Scout. In this Adventure, you’ll learn how to plan a one-mile walk with your den. Your walk may be around where you live, it may be on a historical trail that has been in use for hundreds of years, or it may be on a nature trail. When we are outside we also have responsibilities to make sure that others can enjoy the outdoors, too.  Knowing and following the Leave No Trace Principles for Kids helps us do just that. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+A bear is at home in the outdoors, and so is a Bear Cub Scout. In this Adventure, you’ll learn how to plan a one-mile walk with your den. Your walk may be around where you live, it may be on a historical trail that has been in use for hundreds of years, or it may be on a nature trail. When we are outside we also have responsibilities to make sure that others can enjoy the outdoors, too.  Knowing and following the Leave No Trace Principles for Kids helps us do just that.
 
 ## Requirements
 

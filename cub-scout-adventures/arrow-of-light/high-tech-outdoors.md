@@ -9,7 +9,7 @@
 
 ## Overview
 
-Long ago, tents were made from cotton canvas. They were heavy and were not waterproof. If you put them away wet, they could mold and rot. Today, tents are made using synthetic (human-made) materials that are waterproof, lightweight, breathable, and resistant to mold and rot. Not only has technology improved tents, but it’s also given us digital devices that help us navigate, learn, and stay safe. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Long ago, tents were made from cotton canvas. They were heavy and were not waterproof. If you put them away wet, they could mold and rot. Today, tents are made using synthetic (human-made) materials that are waterproof, lightweight, breathable, and resistant to mold and rot. Not only has technology improved tents, but it’s also given us digital devices that help us navigate, learn, and stay safe.
 
 ## Requirements
 

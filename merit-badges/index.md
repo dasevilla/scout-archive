@@ -117,6 +117,7 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Lifesaving](lifesaving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/lifesaving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Lifesaving.pdf) 🦅
 1. [Mammal Study](mammal-study-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/mammal-study/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mammal%20Study.pdf)
 1. [Metalwork](metalwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/metalwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Metalwork.pdf)
+1. [Military Service and Veterans](military-service-veterans-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/military-service-veterans/)
 1. [Mining in Society](mining-in-society-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/mining-in-society/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mining%20in%20Society.pdf)
 1. [Model Design and Building](model-design-and-building-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/model-design-and-building/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Model%20Design.pdf)
 1. [Motorboating](motorboating-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/motorboating/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Motorboating.pdf)
@@ -183,4 +184,4 @@ This is an unofficial archive of [Scouts BSA Merit Badges](https://www.scouting.
 1. [Wood Carving](wood-carving-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/wood-carving/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf)
 1. [Woodwork](woodwork-merit-badge.md) - [Original](https://www.scouting.org/merit-badges/woodwork/) - [PDF](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork.pdf)
 
-Generated on 2026-11-08 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)
+Generated on 2026-11-15 by [Scouts BSA Merit Badge Archive](https://github.com/dasevilla)

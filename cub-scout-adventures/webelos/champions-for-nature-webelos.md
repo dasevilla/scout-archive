@@ -9,7 +9,7 @@
 
 ## Overview
 
-It is estimated that 80% of Earth’s species (including humans) live on land. We share the planet with a lot of different animal species on land. Humans can make a positive impact on wildlife. Using what we have learned about wildlife, humans have been able to limit negative impacts on wildlife. We have successfully protected and increased the populations of many animals including the American bald eagle, American alligator, green sea turtle, and the whooping crane. In this Adventure, you will learn more about the wildlife we share our planet with. You may put what you learn into action with a conservation project. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+It is estimated that 80% of Earth’s species (including humans) live on land. We share the planet with a lot of different animal species on land. Humans can make a positive impact on wildlife. Using what we have learned about wildlife, humans have been able to limit negative impacts on wildlife. We have successfully protected and increased the populations of many animals including the American bald eagle, American alligator, green sea turtle, and the whooping crane. In this Adventure, you will learn more about the wildlife we share our planet with. You may put what you learn into action with a conservation project.
 
 ## Requirements
 

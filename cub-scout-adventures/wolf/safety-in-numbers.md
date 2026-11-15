@@ -9,7 +9,7 @@
 
 ## Overview
 
-Your parent(s) or legal guardian is an important part of this Adventure, as you will do most of the requirements with them. Part of the Scout Law is to be brave.  Knowing what to do when you think you are in danger helps you to be brave.  In this Adventure, you will learn about the ”Protect Yourself Rules” and the things that you can do to keep yourself safe. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+Your parent(s) or legal guardian is an important part of this Adventure, as you will do most of the requirements with them. Part of the Scout Law is to be brave.  Knowing what to do when you think you are in danger helps you to be brave.  In this Adventure, you will learn about the ”Protect Yourself Rules” and the things that you can do to keep yourself safe.
 
 ## Requirements
 

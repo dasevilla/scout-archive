@@ -9,7 +9,7 @@
 
 ## Overview
 
-Grizzly bears in the wild use their fishing skills to catch good, nutritious food. After you complete this Adventure, you’ll be able to do the same thing. You won’t have to use your paws and teeth, however. Instead, you’ll use a cane pole or a rod and reel. You’ll also learn about the fish that live nearby and the rules that must be followed when fishing. And who knows? You may discover a hobby that you can enjoy for years to come. So, grab your tackle, and let’s go fishing. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Grizzly bears in the wild use their fishing skills to catch good, nutritious food. After you complete this Adventure, you’ll be able to do the same thing. You won’t have to use your paws and teeth, however. Instead, you’ll use a cane pole or a rod and reel. You’ll also learn about the fish that live nearby and the rules that must be followed when fishing. And who knows? You may discover a hobby that you can enjoy for years to come. So, grab your tackle, and let’s go fishing.
 
 ## Requirements
 

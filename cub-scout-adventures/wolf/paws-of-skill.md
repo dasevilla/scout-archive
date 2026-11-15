@@ -9,7 +9,7 @@
 
 ## Overview
 
-Sports and active games are great ways to have fun and be healthy. Sports teach you to work with a team, help others, and follow rules. You can use the Scout Oath and the Scout Law as guides when you are playing games and sports. In this Adventure, you’ll be challenged to exercise, play a team sport with your den, and show how to be a good sport. Time to move your powerful paws. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+Sports and active games are great ways to have fun and be healthy. Sports teach you to work with a team, help others, and follow rules. You can use the Scout Oath and the Scout Law as guides when you are playing games and sports. In this Adventure, you’ll be challenged to exercise, play a team sport with your den, and show how to be a good sport. Time to move your powerful paws.
 
 ## Requirements
 

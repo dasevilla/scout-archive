@@ -9,7 +9,7 @@
 
 ## Overview
 
-Tigers will learn about fire safety and other ways to prepare and respond to emergencies. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Tigers will learn about fire safety and other ways to prepare and respond to emergencies.
 
 ## Requirements
 

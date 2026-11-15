@@ -9,7 +9,7 @@
 
 ## Overview
 
-Astronomy is the focus of this Adventure as Tigers explore the night sky and discover constellations. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Astronomy is the focus of this Adventure as Tigers explore the night sky and discover constellations.
 
 ## Requirements
 

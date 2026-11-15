@@ -9,6 +9,8 @@ Learning to shoot is like mastering any other skill — it takes study and pract
 
 ## Requirements
 
+- **NOTE:** To enable safe and responsible learning and enjoyment of range and target activities, Scouting America has established rigorous standards for approved equipment and materials, ranges, qualified supervision, training, proper technique, and discipline. Details of the requirements and safe practices for activities in this merit badge may be found in the current Scouting America *Guide to Safe Scouting* and the *National Range and Target Activities Manual*.
+
 - (1) Do the following:
   - (a) Explain what a projectile is, and why any device that shoots a projectile at high speed must be handled with care and respect, and used only in approved locations.
 

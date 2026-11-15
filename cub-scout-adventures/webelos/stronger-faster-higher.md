@@ -9,7 +9,7 @@
 
 ## Overview
 
-The Stronger, Faster, Higher Adventure will help you understand how to eat well,  exercise , and the importance of rest . Personal fitness is a balance of these three things. What you eat is what your body is able to turn into energy and can keep your body working to keep you healthy. Exercise not only keeps your body working, it also is good for your mind . Your body needs rest, and so does your mind. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+The Stronger, Faster, Higher Adventure will help you understand how to eat well,  exercise , and the importance of rest . Personal fitness is a balance of these three things. What you eat is what your body is able to turn into energy and can keep your body working to keep you healthy. Exercise not only keeps your body working, it also is good for your mind . Your body needs rest, and so does your mind.
 
 ## Requirements
 

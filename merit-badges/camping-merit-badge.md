@@ -9,6 +9,10 @@ Camping is one of the best-known methods of the Scouting movement. When he found
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Camping merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/camping/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/camping/)
+
 - (1) Do the following:
   - (a) Explain to your counselor the most likely hazards you may encounter while participating in camping activities and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
 

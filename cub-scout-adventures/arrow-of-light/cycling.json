@@ -3,7 +3,7 @@
   "adventure_name": "Cycling",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Are you ready for a 10-mile bike ride? Gather your Scout Basic Essentials, check your bike and safety gear, and get ready to hit the open road or trail. Cycling is a wonderful way to travel and a great hobby to stay physically strong. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Are you ready for a 10-mile bike ride? Gather your Scout Basic Essentials, check your bike and safety gear, and get ready to hit the open road or trail. Cycling is a wonderful way to travel and a great hobby to stay physically strong.",
   "url": "https://www.scouting.org/cub-scout-adventures/cycling/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/05/2023_2024_loops_pins_Cycling.jpg",
   "image_filename": "cycling.jpg",
@@ -117,6 +117,35 @@
           "name": "AOL Lock It Up",
           "url": "https://www.scouting.org/cub-scout-activities/aol-lock-it-up/",
           "description": "Cub Scouts learn about different types of bike locks and how to open them.",
+          "location": "Outdoor",
+          "energy_level": "3",
+          "supply_list": "5",
+          "prep_time": "5"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "text": "Repair a flat tire.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Repair a flat tire."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "AOL Fix Your Flat",
+          "url": "https://www.scouting.org/cub-scout-activities/aol-fix-your-flat/",
+          "description": "Cub Scouts learn how to repair a flat tire on a bike.",
           "location": "Outdoor",
           "energy_level": "3",
           "supply_list": "5",

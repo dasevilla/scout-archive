@@ -9,7 +9,7 @@
 
 ## Overview
 
-It’s time to take flight. Do you know the secret to making a paper airplane fly longer or farther? In this Adventure, you will have fun making different types of airplanes and other flying objects. Before any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+It’s time to take flight. Do you know the secret to making a paper airplane fly longer or farther? In this Adventure, you will have fun making different types of airplanes and other flying objects.
 
 ## Requirements
 

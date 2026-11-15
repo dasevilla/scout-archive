@@ -9,6 +9,10 @@ This clear and concise definition comes from the U.S. Department of Education: â
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Communication merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/communication/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/communication/)
+
 - (1) Do ONE of the following:
   - (a) For one day, keep a log in which you describe your communication activities. Keep track of the time and different ways you spend communicating, such as talking person-to-person, listening to teachers, listening to the radio or podcasts, watching television, using social media, reading books and other print media, and using any electronic communication device. Discuss with your counselor what your log reveals about the importance of communication in your life. Think of ways to improve your communication skills.
 

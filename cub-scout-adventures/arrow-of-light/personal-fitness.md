@@ -9,7 +9,7 @@
 
 ## Overview
 
-In the Scout Oath we promise to keep ourselves physically strong. Proper nutrition, staying active with group activities, and personal exercises are key to being physically strong. You are now old enough to also know about your personal Scouting America Health and Medical Record. Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In the Scout Oath we promise to keep ourselves physically strong. Proper nutrition, staying active with group activities, and personal exercises are key to being physically strong. You are now old enough to also know about your personal Scouting America Health and Medical Record.
 
 ## Requirements
 

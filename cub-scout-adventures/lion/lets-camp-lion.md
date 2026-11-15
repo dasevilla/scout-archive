@@ -9,7 +9,7 @@
 
 ## Overview
 
-Here is the opportunity for Lions and their adult partners to go on an overnight campout. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Here is the opportunity for Lions and their adult partners to go on an overnight campout.
 
 ## Requirements
 

@@ -9,7 +9,7 @@
 
 ## Overview
 
-Here is the opportunity for Tigers and their adult partners to go on an overnight campout. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Here is the opportunity for Tigers and their adult partners to go on an overnight campout.
 
 ## Requirements
 
@@ -49,6 +49,19 @@ Pack up your Cub Scout Six Essentials for the campout.
   Cub Scouts go on a scavenger hunt to collect Cub Scout Six Essentials.
 - **[Six Essentials Shopping Spree](https://www.scouting.org/cub-scout-activities/six-essentials-shopping-spree/)** (Indoor, energy 3, supplies 4, prep 2)
   Provide Cub Scouts their own Cub Scout Six Essentials.
+
+### Requirement 4
+
+Learn a camping skill.
+
+**Activities:**
+
+- **[Flashlight Tiger Hunt](https://www.scouting.org/cub-scout-activities/flashlight-tiger-hunt/)** (Outdoor, energy 3, supplies 3, prep 2)
+  Learn about the different flashlight and flashlight etiquette.
+- **[My First Knot](https://www.scouting.org/cub-scout-activities/my-first-knot/)** (Indoor, energy 3, supplies 3, prep 2)
+  Cub Scouts will learn about the square knot and attempt to tie it.
+- **[Tent Time!](https://www.scouting.org/cub-scout-activities/tent-time/)** (Outdoor, energy 4, supplies 3, prep 2)
+  Cub Scout and adult partners will practice setting up a tent.
 
 ### Requirement 5
 

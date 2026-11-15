@@ -9,7 +9,7 @@
 
 ## Overview
 
-Lions with their adult partners work with and identify geometric shapes. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Lions with their adult partners work with and identify geometric shapes.
 
 ## Requirements
 

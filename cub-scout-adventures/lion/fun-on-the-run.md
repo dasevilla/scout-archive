@@ -9,7 +9,7 @@
 
 ## Overview
 
-In this Adventure, Lions will explore the different food groups, have fun being active, and the importance of rest. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+In this Adventure, Lions will explore the different food groups, have fun being active, and the importance of rest.
 
 ## Requirements
 

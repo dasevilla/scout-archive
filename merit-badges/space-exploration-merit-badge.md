@@ -9,6 +9,10 @@ Discover the why and how we explore space. Learn about current and historic spac
 
 ## Requirements
 
+- **NOTE:** Check out the Digital Resource Guide for the Space Exploration merit badge [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/space-exploration/) for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!
+
+  **Resources:** [HERE](https://www.scouting.org/skills/merit-badges/digital-resource-guides/space-exploration/)
+
 - (1) Tell the purpose of space exploration and include the following:
   - (a) Historical reasons
 

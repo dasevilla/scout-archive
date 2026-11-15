@@ -9,7 +9,7 @@
 
 ## Overview
 
-Adult leaders supervising activities afloat must have completed Safety Afloat training within the previous two years. Cub Scout activities afloat are limited to council, district, pack, or den events on calm or gently flowing water that do not include float trips (expeditions). Safety Afloat standards apply to the use of canoes, kayaks, rowboats, rafts, floating tubes, sailboats, motorboats (including waterskiing), and other small craft (Stand Up Paddle Boards). Getting out on the water and paddling around is a great way to enjoy the outdoors and go places that you can only get to with a paddle craft . The boundary waters of Minnesota, the shoals of the Florida Keys, and countless rivers and lakes across the United States are available to only those who choose to paddle there . In this Adventure, you can choose a canoe, kayak, or stand-up paddleboard to complete the requirements. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
+Adult leaders supervising activities afloat must have completed Safety Afloat training within the previous two years. Cub Scout activities afloat are limited to council, district, pack, or den events on calm or gently flowing water that do not include float trips (expeditions). Safety Afloat standards apply to the use of canoes, kayaks, rowboats, rafts, floating tubes, sailboats, motorboats (including waterskiing), and other small craft (Stand Up Paddle Boards). Getting out on the water and paddling around is a great way to enjoy the outdoors and go places that you can only get to with a paddle craft . The boundary waters of Minnesota, the shoals of the Florida Keys, and countless rivers and lakes across the United States are available to only those who choose to paddle there . In this Adventure, you can choose a canoe, kayak, or stand-up paddleboard to complete the requirements.
 
 ## Requirements
 
@@ -30,6 +30,15 @@ Pick a paddle craft for which to complete all requirements: canoe, kayak, or sta
 
 - **[AOL Pick a Paddle](https://www.scouting.org/cub-scout-activities/aol-pick-a-paddle/)** (Indoor, energy 1, supplies 1, prep 1)
   Cub Scouts pick from one of the paddle crafts to complete remaining requirements.
+
+### Requirement 3
+
+Review Safety Afloat.
+
+**Activities:**
+
+- **[AOL Swimming Safely](https://www.scouting.org/cub-scout-activities/aol-swimming-safely/)** (Indoor, energy 1, supplies 1, prep 2)
+  Cub Scouts review the attributes of being on the water safely.
 
 ### Requirement 4
 

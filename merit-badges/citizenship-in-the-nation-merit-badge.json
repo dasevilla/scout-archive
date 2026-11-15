@@ -12,6 +12,58 @@
   "image_filename": "citizenship-in-the-nation-merit-badge.jpg",
   "requirements": [
     {
+      "id": "14072",
+      "label": null,
+      "text": "NOTE: Check out the Digital Resource Guide for the Citizenship in the Nation merit badge HERE for information and helpful resources to engage your learning and assist you along on your merit badge journey!",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Check out the Digital Resource Guide for the Citizenship in the Nation merit badge "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/citizenship-nation/"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " for information and helpful resources to engage your learning and assist you along on your merit badge journey!"
+        }
+      ],
+      "resources": [
+        {
+          "title": "HERE",
+          "url": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/citizenship-nation/",
+          "type": "website"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
       "id": "10141",
       "label": "1",
       "text": "What is the Constitution of the United States? What does the Constitution do? What principles does it reflect? Why is it important to have a Constitution?",

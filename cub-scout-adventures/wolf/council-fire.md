@@ -9,7 +9,7 @@
 
 ## Overview
 
-A real wolf pack works like a large family where everyone works together to keep the members of the pack safe, healthy, and happy. Working together is part of being a good citizen. In this Adventure, you will build a model community and become an active member in your community. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+A real wolf pack works like a large family where everyone works together to keep the members of the pack safe, healthy, and happy. Working together is part of being a good citizen. In this Adventure, you will build a model community and become an active member in your community.
 
 ## Requirements
 

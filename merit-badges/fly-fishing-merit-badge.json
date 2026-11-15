@@ -12,6 +12,47 @@
   "image_filename": "fly-fishing-merit-badge.jpg",
   "requirements": [
     {
+      "id": "14102",
+      "label": null,
+      "text": "NOTE: Scouts should obey all local fishing regulations and property laws.",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE: Scouts should obey all local fishing regulations and property laws."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " "
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        },
+        {
+          "type": "element",
+          "tag": "br",
+          "attrs": {},
+          "children": []
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
       "id": "11386",
       "label": "1",
       "text": "Do the following:",

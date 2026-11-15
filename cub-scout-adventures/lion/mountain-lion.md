@@ -9,7 +9,7 @@
 
 ## Overview
 
-Lions and adult partners will take a walk to explore the outdoors.  Along the way, they will see and identify things that are natural and things that are man-made. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.
+Lions and adult partners will take a walk to explore the outdoors.  Along the way, they will see and identify things that are natural and things that are man-made.
 
 ## Requirements
 
@@ -36,6 +36,19 @@ With your den, pack, or family, take a walk outside spending for at least 20 min
   While on a walk,  play “I Spy” to identify natural items and things that are man-made.
 - **[Outdoor Scavenger Hunt Lion](https://www.scouting.org/cub-scout-activities/outdoor-scavenger-hunt-lion/)** (Outdoor, energy 3, supplies 3, prep 4)
   While on a walk play a scavenger hunt for things that are natural.
+
+### Requirement 3
+
+Discover what S.A.W. means.
+
+**Activities:**
+
+- **[Does My Whistle Work?](https://www.scouting.org/cub-scout-activities/does-my-whistle-work/)** (Indoor, energy 2, supplies 3, prep 1)
+  Cub Scouts will blow whistles and demonstrate how to use the whistle if they get lost.
+- **[Reverse Hide and Seek](https://www.scouting.org/cub-scout-activities/reverse-hide-and-seek/)** (Outdoor, energy 4, supplies 2, prep 2)
+  Play a version of hide and seek where the idea is to be found.
+- **[S.A.W. Maze](https://www.scouting.org/cub-scout-activities/s-a-w-maze/)** (Indoor, energy 2, supplies 2, prep 2)
+  Complete a maze that helps teach the S.A.W. method.
 
 ### Requirement 4
 

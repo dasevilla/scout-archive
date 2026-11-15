@@ -323,7 +323,12 @@ class MeritBadgesSpider(scrapy.Spider):
             semantic_requirements = self._requirements_processor.process(
                 raw_requirements
             )
-            if not semantic_requirements:
+            if not any(
+                requirement.label
+                or requirement.requires_response
+                or requirement.sub_requirements
+                for requirement in semantic_requirements
+            ):
                 self._save_empty_requirements_response(response, len(raw_requirements))
                 retry = get_retry_request(
                     response.request,
@@ -335,6 +340,7 @@ class MeritBadgesSpider(scrapy.Spider):
                     return
                 # Emit the empty result after exhaustion so archive validation
                 # fails, even when an older badge file exists on disk.
+                semantic_requirements = []
 
         item["requirements_data"] = [
             requirement.model_dump() for requirement in semantic_requirements

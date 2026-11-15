@@ -3,6 +3,7 @@ import json
 
 import scrapy
 from scrapy import Selector
+from scrapy.http import HtmlResponse
 
 from scout_archive.items import CubScoutAdventureItem
 from scout_archive.requirements_pipeline import (
@@ -117,26 +118,7 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         item["adventure_type"] = adventure_type
         item["adventure_category"] = adventure_category
 
-        # Get adventure overview - skip "Adventure Snapshot" labels
-        overview_paragraphs = response.xpath(
-            "//h2[contains(text(), 'Snapshot of adventure')]/following::p[position() <= 3]//text()"
-        ).getall()
-
-        overview_text = ""
-        if overview_paragraphs:
-            full_text = " ".join(
-                text.strip() for text in overview_paragraphs if text.strip()
-            )
-            # If it starts with "Adventure Snapshot", try to get the next meaningful content
-            if full_text.startswith("Adventure Snapshot"):
-                # Split by "Adventure Snapshot" and take what comes after
-                parts = full_text.split("Adventure Snapshot", 1)
-                if len(parts) > 1 and parts[1].strip():
-                    overview_text = parts[1].strip()
-            else:
-                overview_text = full_text
-
-        item["adventure_overview"] = overview_text
+        item["adventure_overview"] = self._extract_adventure_overview(response)
 
         # Get adventure image URL
         image_url = ""
@@ -202,6 +184,24 @@ class CubScoutAdventuresSpider(scrapy.Spider):
             )
 
         yield item
+
+    def _extract_adventure_overview(self, response: HtmlResponse) -> str:
+        headings = response.xpath(
+            "//h2[translate(normalize-space(.), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', "
+            "'abcdefghijklmnopqrstuvwxyz') = 'snapshot of adventure']"
+        )
+        if not headings:
+            return ""
+        heading = headings[0]
+        content = self._heading_widget_content(heading)
+        # Some pages place the description directly beside its heading.
+        paragraphs = (
+            content.xpath(".//text()")
+            if content is not None
+            else heading.xpath("following-sibling::*[1][self::p]//text()")
+        )
+        text = " ".join(part.strip() for part in paragraphs.getall() if part.strip())
+        return text.removeprefix("Adventure Snapshot").strip()
 
     def extract_activities_for_requirement(self, response, req_section):
         """Extract activities for a specific requirement section."""
@@ -273,7 +273,7 @@ class CubScoutAdventuresSpider(scrapy.Spider):
                 continue
             requirement_data = self._build_requirement_data(
                 req_number=req_number,
-                content=self._requirement_widget_content(req_section),
+                content=self._heading_widget_content(req_section),
                 activities=self.extract_activities_for_requirement(
                     response, req_section
                 ),
@@ -305,7 +305,7 @@ class CubScoutAdventuresSpider(scrapy.Spider):
                 continue
             # Older pages can put the paragraph next to the heading or its wrapper.
             # Stay within that block so a missing paragraph cannot borrow later text.
-            content = self._requirement_widget_content(req_section)
+            content = self._heading_widget_content(req_section)
             if content is None:
                 paragraphs = req_section.xpath(
                     "following-sibling::*[1][self::p]"
@@ -333,7 +333,7 @@ class CubScoutAdventuresSpider(scrapy.Spider):
         )
 
     @staticmethod
-    def _requirement_widget_content(heading: Selector) -> Selector | None:
+    def _heading_widget_content(heading: Selector) -> Selector | None:
         containers = heading.xpath(
             "ancestor::div[contains(@class, 'elementor-widget-heading')][1]"
             "/following-sibling::*[1][self::div and contains(@class, 'elementor-widget-text-editor')]"

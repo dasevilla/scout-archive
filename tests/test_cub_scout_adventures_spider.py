@@ -4,11 +4,12 @@ from scrapy import Request
 from scrapy.http import HtmlResponse
 from scrapy.settings import Settings
 
+from scout_archive.items import CubScoutAdventureItem
 from scout_archive.spiders.cub_scout_adventures import CubScoutAdventuresSpider
 
 
 class CubScoutAdventuresSpiderTest(unittest.TestCase):
-    def parse_requirements(self, html: str) -> list[dict]:
+    def parse_adventure(self, html: str) -> CubScoutAdventureItem:
         url = "https://www.scouting.org/cub-scout-adventures/germs-alive/"
         response = HtmlResponse(
             url=url,
@@ -20,7 +21,31 @@ class CubScoutAdventuresSpiderTest(unittest.TestCase):
         )
         spider = CubScoutAdventuresSpider()
         spider.settings = Settings()
-        return next(spider.parse_adventure(response))["requirements_data"]
+        return next(spider.parse_adventure(response))
+
+    def parse_requirements(self, html: str) -> list[dict]:
+        return self.parse_adventure(html)["requirements_data"]
+
+    def test_overview_stays_within_snapshot_widget(self) -> None:
+        adventure = self.parse_adventure("""
+            <section>
+              <div class="elementor-widget-heading"><h2>Snapshot of adventure</h2></div>
+              <div class="elementor-widget-text-editor">
+                <div class="elementor-widget-container">
+                  <p>Explore how to keep your body healthy.</p>
+                  <p>Find out why washing your hands matters.</p>
+                </div>
+              </div>
+              <div class="elementor-widget-heading"><h3>Safety Moment</h3></div>
+              <div class="elementor-widget-text-editor">
+                <div class="elementor-widget-container"><p>Review the SAFE Checklist.</p></div>
+              </div>
+            </section>
+        """)
+        self.assertEqual(
+            adventure["adventure_overview"],
+            "Explore how to keep your body healthy. Find out why washing your hands matters.",
+        )
 
     def test_short_numbered_requirements_keep_their_activity_cards(self) -> None:
         requirements = self.parse_requirements("""

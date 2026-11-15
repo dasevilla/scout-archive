@@ -297,13 +297,8 @@
               "type": "website"
             },
             {
-              "title": "The Hubble Space Telescope: Revolutionizing Our View of the Universe (video)",
-              "url": "https://youtu.be/W6JB9stip_o?si=RAUic_y3ifcHcWHe",
-              "type": "video"
-            },
-            {
-              "title": "What Astronomers Use to Explore the Universe (video)",
-              "url": "https://youtube.com/shorts/Y5lAHoiWGBc?si=o5t6cgN-LmUHOKEr",
+              "title": "What Astronomers Use To Explore the Universe. (video)",
+              "url": "https://youtube.com/shorts/Y5lAHoiWGBc",
               "type": "video"
             }
           ],
@@ -326,23 +321,23 @@
           ],
           "resources": [
             {
-              "title": "How to Care for Your Telescope (website)",
+              "title": "How To Care for Your Telescope (website)",
               "url": "https://www.astronomy.com/observing/how-to-care-for-your-telescope/",
               "type": "website"
             },
             {
-              "title": "How to Care for Your Telescope Optics the Right Way. (website)",
+              "title": "How To Care for Your Telescope Optics the Right Way. (website)",
               "url": "https://skyandtelescope.org/astronomy-resources/caring-for-your-optics/",
               "type": "website"
             },
             {
-              "title": "How to Care for Your Telescope (video)",
-              "url": "https://youtu.be/8W-7NkNUJas?si=xjoAbP4s3RQjKYIn",
+              "title": "Telescope Maintenance (video)",
+              "url": "https://youtu.be/izxMI30YROQ",
               "type": "video"
             },
             {
-              "title": "Caring for Your Celestron Telescope: How to Maintain, Store, and Ship Your Telescope (website)",
-              "url": "https://www.celestron.com/blogs/knowledgebase/caring-for-your-celestron-telescope-how-to-maintain-store-and-ship-your-telescope?srsltid=AfmBOopGO5xdG8YN2b93_gRGY1SlvJtNBCyKEo9Y6fDXu9u54MLNLwZ4",
+              "title": "Caring for Your Celestron Telescope: How To Maintain, Store, and Ship Your Telescope (website)",
+              "url": "https://www.celestron.com/blogs/knowledgebase/caring-for-your-celestron-telescope-how-to-maintain-store-and-ship-your-telescope",
               "type": "website"
             }
           ],
@@ -544,19 +539,14 @@
           ],
           "resources": [
             {
-              "title": "WOLFRAM Demonstrations Project (website)",
-              "url": "https://demonstrations.wolfram.com/PhasesOfPlanets/",
+              "title": "Visible Planets Tonite (website)",
+              "url": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
               "type": "website"
             },
             {
-              "title": "Which Planets Appear in Phases Similar to Lunar Phases? (website)",
-              "url": "https://education.seattlepi.com/planets-appear-phases-similar-lunar-phases-5897.html",
+              "title": "Skywatching (website)",
+              "url": "https://science.nasa.gov/skywatching/",
               "type": "website"
-            },
-            {
-              "title": "Which Planets Appear in Phases Similar to Lunar Phases? (video)",
-              "url": "https://youtu.be/S9d4SBxB9e0?si=7aEIzJpzpXq6XchL",
-              "type": "video"
             }
           ],
           "sub_requirements": []
@@ -680,7 +670,7 @@
         {
           "id": "12642",
           "label": "a",
-          "text": "Sketch the face of the Moon and indicate five seas and five craters. Label these landmarks.",
+          "text": "Sketch the face of the moon and indicate five seas and five craters. Label these landmarks.",
           "requirement_path": "6.a",
           "node_kind": "action_requirement",
           "is_container": false,
@@ -689,29 +679,34 @@
           "content": [
             {
               "type": "text",
-              "value": "Sketch the face of the Moon and indicate five seas and five craters. Label these landmarks."
+              "value": "Sketch the face of the moon and indicate five seas and five craters. Label these landmarks."
             }
           ],
           "resources": [
             {
               "title": "Moon Craters Explained (video)",
-              "url": "https://www.youtube.com/shorts/3TvnmKBPyow?feature=share",
+              "url": "https://www.youtube.com/shorts/3TvnmKBPyow",
               "type": "video"
             },
             {
-              "title": "Easy Moon Sketching Step by Step (video)",
-              "url": "https://youtube.com/shorts/CEmHs_s9CwE?si=9GlgNNRok3MDmLHT",
+              "title": "Easy Moon Sketching Step-by-Step (video)",
+              "url": "https://youtube.com/shorts/CEmHs_s9CwE",
               "type": "video"
             },
             {
-              "title": "The Craters on the Moon with Neil deGrasse Tyson (video)",
-              "url": "https://www.youtube.com/shorts/hp6Mm-ypup0?feature=share",
+              "title": "Why the Moon Has Craters (video)",
+              "url": "https://youtube.com/shorts/W9mDfwNHTLk",
               "type": "video"
             },
             {
               "title": "Why Does the Moon Have Craters? (website)",
               "url": "https://spaceplace.nasa.gov/craters/en/",
               "type": "website"
+            },
+            {
+              "title": "The Phases of the Moon Explained (video)",
+              "url": "https://youtu.be/mQwvHn_qkBA",
+              "type": "video"
             }
           ],
           "sub_requirements": []

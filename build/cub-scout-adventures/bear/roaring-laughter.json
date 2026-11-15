@@ -3,7 +3,7 @@
   "adventure_name": "Roaring Laughter",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Laughing makes you feel good, and when you laugh others may start laughing, too. With just a smile, you can meet a new friend, make someone else smile, and create a happy feeling in yourself and other people. In this Adventure, you’ll find lots of ways to smile and laugh. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Laughing makes you feel good, and when you laugh others may start laughing, too. With just a smile, you can meet a new friend, make someone else smile, and create a happy feeling in yourself and other people. In this Adventure, you’ll find lots of ways to smile and laugh.",
   "url": "https://www.scouting.org/cub-scout-adventures/roaring-laughter/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Roaring_Laughter.jpg",
   "image_filename": "roaring-laughter.jpg",
@@ -51,6 +51,53 @@
           "location": "Indoor",
           "energy_level": "2",
           "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "text": "Practice reading tongue twisters.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Practice reading tongue twisters."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Tongue Twister Challenge",
+          "url": "https://www.scouting.org/cub-scout-activities/tongue-twister-challenge/",
+          "description": "Cub Scouts practice tongue twisters.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Tongue Twister Dice Game",
+          "url": "https://www.scouting.org/cub-scout-activities/tongue-twister-dice-game/",
+          "description": "Cub Scouts play a tongue twister game with dice.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Tongue Twister Tales",
+          "url": "https://www.scouting.org/cub-scout-activities/tongue-twister-tales/",
+          "description": "Cub Scouts read a Dr. Suess story.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
           "prep_time": "2"
         }
       ]

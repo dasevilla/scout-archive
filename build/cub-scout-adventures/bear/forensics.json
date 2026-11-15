@@ -56,6 +56,100 @@
       ]
     },
     {
+      "id": "2",
+      "label": "2",
+      "text": "Analyze your fingerprints.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Analyze your fingerprints."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Are You There?",
+          "url": "https://www.scouting.org/cub-scout-activities/are-you-there/",
+          "description": "Cub Scouts discover that even if they can’t see their fingerprint with their naked eye, they are still there.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "5",
+          "prep_time": "5"
+        },
+        {
+          "name": "Fingerprint Fun",
+          "url": "https://www.scouting.org/cub-scout-activities/fingerprint-fun/",
+          "description": "Cub Scouts learn the different patterns in fingerprints and analyze their own fingerprints.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Whose Fingerprint Is It",
+          "url": "https://www.scouting.org/cub-scout-activities/whose-fingerprint-is-it/",
+          "description": "Cub Scouts look at fingerprints and try to match them.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "text": "Make a shoe imprint.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a shoe imprint."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Gumshoe",
+          "url": "https://www.scouting.org/cub-scout-activities/gumshoe/",
+          "description": "Cub Scout investigate how their shoe can leave a print.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Heavy Shoes",
+          "url": "https://www.scouting.org/cub-scout-activities/heavy-shoes/",
+          "description": "Cub Scout make a shoe impression.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "5",
+          "prep_time": "5"
+        },
+        {
+          "name": "Muddy Shoe",
+          "url": "https://www.scouting.org/cub-scout-activities/muddy-shoe/",
+          "description": "Cub Scout investigate how their shoe can leave a print in the dirt.",
+          "location": "Outdoor",
+          "energy_level": "3",
+          "supply_list": "1",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
       "id": "4",
       "label": "4",
       "text": "Do an analysis of four different substances: salt, sugar, baking soda and cornstarch.",

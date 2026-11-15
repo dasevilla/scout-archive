@@ -12,6 +12,50 @@
   "image_filename": "geocaching-merit-badge.jpg",
   "requirements": [
     {
+      "id": "14107",
+      "label": null,
+      "text": "Additional educational resources are available on our Counselor Information Page.",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Additional educational resources are available on our "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/skills/merit-badges/counselor-information/"
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Counselor Information Page."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "resources": [
+        {
+          "title": "Counselor Information Page.",
+          "url": "https://www.scouting.org/skills/merit-badges/counselor-information/",
+          "type": "website"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
       "id": "8577",
       "label": "1",
       "text": "Do the following:",

@@ -3,11 +3,49 @@
   "adventure_name": "Marble Madness",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Long before board and video games, kids played with marbles. Those little balls of glass are just as fun to play with now as they were back then. In this Adventure, you’ll play several different marble games. You’ll also learn special words only marble players know and discover how to use marbles in mazes, obstacle courses, and more. Are you ready? Then grab your taws, aggies, and cat’s eyes, and let’s play marbles. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Long before board and video games, kids played with marbles. Those little balls of glass are just as fun to play with now as they were back then. In this Adventure, you’ll play several different marble games. You’ll also learn special words only marble players know and discover how to use marbles in mazes, obstacle courses, and more. Are you ready? Then grab your taws, aggies, and cat’s eyes, and let’s play marbles.",
   "url": "https://www.scouting.org/cub-scout-adventures/marble-madness/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Marble_Madness.jpg",
   "image_filename": "marble-madness.jpg",
   "requirements": [
+    {
+      "id": "1",
+      "label": "1",
+      "text": "Make a marble bag.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Make a marble bag."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Make a Marble Bag",
+          "url": "https://www.scouting.org/cub-scout-activities/make-a-marble-bag/",
+          "description": "Create a personal drawstring bag to hold your marbles.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "No Sew Marble Bag",
+          "url": "https://www.scouting.org/cub-scout-activities/no-sew-marble-bag/",
+          "description": "Make a personal drawstring bag to hold your marbles without sewing.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
+        }
+      ]
+    },
     {
       "id": "2",
       "label": "2",
@@ -92,6 +130,35 @@
           "energy_level": "3",
           "supply_list": "3",
           "prep_time": "5"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "text": "Build a marble maze.",
+      "requirement_path": "5",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Build a marble maze."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Zig, Zag, Zoom",
+          "url": "https://www.scouting.org/cub-scout-activities/zig-zag-zoom/",
+          "description": "Create a maze for marbles.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "3"
         }
       ]
     }

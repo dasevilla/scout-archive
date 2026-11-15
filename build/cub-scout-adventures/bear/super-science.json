@@ -3,9 +3,198 @@
   "adventure_name": "Super Science",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Have you ever wondered why the sky is blue or how gravity works or what makes a rainbow? Scientists wonder about those things, too. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Have you ever wondered why the sky is blue or how gravity works or what makes a rainbow? Scientists wonder about those things, too.",
   "url": "https://www.scouting.org/cub-scout-adventures/super-science/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Super_Science.jpg",
   "image_filename": "super-science.jpg",
-  "requirements": []
+  "requirements": [
+    {
+      "id": "1",
+      "label": "1",
+      "text": "Conduct static electricity investigation.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Conduct static electricity investigation."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Dancing Foil",
+          "url": "https://www.scouting.org/cub-scout-activities/dancing-foil/",
+          "description": "Foil reaction to static electricity.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "1"
+        },
+        {
+          "name": "Race the Can",
+          "url": "https://www.scouting.org/cub-scout-activities/race-the-can/",
+          "description": "Cub Scouts use static electricity to push a can.",
+          "location": "Indoor",
+          "energy_level": "4",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "The Static Detective Lab",
+          "url": "https://www.scouting.org/cub-scout-activities/the-static-detective-lab/",
+          "description": "Cub Scouts explore static electricity using a plastic comb.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "text": "Conduct the sink-or-float investigation.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Conduct the sink-or-float investigation."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Hot vs. Cold Lab",
+          "url": "https://www.scouting.org/cub-scout-activities/hot-vs-cold-lab/",
+          "description": "Cub Scouts explore how temperature affects how water moves and mixes—and they actually  see it happen .",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Sink or Float Relay",
+          "url": "https://www.scouting.org/cub-scout-activities/sink-or-float-relay/",
+          "description": "Cub Scouts race to determine if objects sink or float.",
+          "location": "Outdoor",
+          "energy_level": "4",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Sink or Swim",
+          "url": "https://www.scouting.org/cub-scout-activities/sink-or-swim/",
+          "description": "Cub Scouts learn about experiment variables.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "The Boat Challenge",
+          "url": "https://www.scouting.org/cub-scout-activities/the-boat-challenge/",
+          "description": "Cub Scouts will build a boat to hold as many pennies as possible.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "text": "Conduct the color-morphing investigation.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Conduct the color-morphing investigation."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Magic Milk Color Explosion Lab",
+          "url": "https://www.scouting.org/cub-scout-activities/magic-milk-color-explosion-lab/",
+          "description": "Cub Scouts will create a magical color explosion and investigate what happens.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Oil and Water",
+          "url": "https://www.scouting.org/cub-scout-activities/oil-and-water/",
+          "description": "Cub Scouts test to see if liquids mix together.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Walking Rainbow",
+          "url": "https://www.scouting.org/cub-scout-activities/walking-rainbow/",
+          "description": "Cub Scouts become Color Scientists investigating how colors travel, mix, and magically change!",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "1"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Conduct the color-layering investigation.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Conduct the color-layering investigation."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Create a Rainbow",
+          "url": "https://www.scouting.org/cub-scout-activities/create-a-rainbow/",
+          "description": "Cub Scouts create a rainbow using 3 simple ingredients.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Rainbow Bottle Lab",
+          "url": "https://www.scouting.org/cub-scout-activities/rainbow-bottle-lab/",
+          "description": "Cub Scouts create a  stacked rainbow inside a bottle  using different liquids that naturally form layers.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        }
+      ]
+    }
+  ]
 }

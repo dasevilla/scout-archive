@@ -3,11 +3,114 @@
   "adventure_name": "Gizmos and Gadgets",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Lions with their adult partner will build a useful object together and explore the properties of motion and force. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Lions with their adult partner will build a useful object together and explore the properties of motion and force.",
   "url": "https://www.scouting.org/cub-scout-adventures/gizmos-and-gadgets/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Gizmos_and_Gadgets.jpg",
   "image_filename": "gizmos-and-gadgets.jpg",
   "requirements": [
+    {
+      "id": "1",
+      "label": "1",
+      "text": "Explore properties of motion.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Explore properties of motion."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Jumping Cars",
+          "url": "https://www.scouting.org/cub-scout-activities/jumping-cars/",
+          "description": "Use Hot Wheels™ cars to conduct some tests of motion.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "4",
+          "prep_time": "3"
+        },
+        {
+          "name": "Moving Marbles",
+          "url": "https://www.scouting.org/cub-scout-activities/moving-marbles/",
+          "description": "Make a marble maze out of a paper plate.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "On a Roll",
+          "url": "https://www.scouting.org/cub-scout-activities/on-a-roll/",
+          "description": "Roll different-sized balls to explore the movement and rotation.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Ping Pong Ball Derby",
+          "url": "https://www.scouting.org/cub-scout-activities/ping-pong-ball-derby/",
+          "description": "Race ping pong balls across a table by blowing through a straw.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "text": "Explore properties of force.",
+      "requirement_path": "2",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Explore properties of force."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Cars That Run On Air",
+          "url": "https://www.scouting.org/cub-scout-activities/cars-that-run-on-air/",
+          "description": "Build balloon cars to see how air can be a force to move things.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "3"
+        },
+        {
+          "name": "Does This Thing Fly?",
+          "url": "https://www.scouting.org/cub-scout-activities/does-this-thing-fly/",
+          "description": "Making paper airplanes and comparing it to paper balls explores the concept of friction as a force.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "1"
+        },
+        {
+          "name": "The Force Pushes and Pulls",
+          "url": "https://www.scouting.org/cub-scout-activities/the-force-pushes-and-pulls/",
+          "description": "Cub Scouts identify the difference between pushing and pulling as a force.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
+          "prep_time": "1"
+        }
+      ]
+    },
     {
       "id": "3",
       "label": "3",

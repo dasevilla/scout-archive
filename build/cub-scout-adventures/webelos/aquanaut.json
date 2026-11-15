@@ -3,7 +3,7 @@
   "adventure_name": "Aquanaut",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Swimming is great exercise and a whole lot of fun. It is also an important skill to learn when you consider that 70 percent of the Earth is covered in water. In this Adventure, you’ll discover how to enjoy swimming and how to respond to water emergencies.  Time to grab your swimsuit and your buddy tag and hit the water. This elective Adventure may be earned by completing the requirements below OR passing Scouting America swimmer test OR taking swimming lessons. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.",
+  "adventure_overview": "Swimming is great exercise and a whole lot of fun. It is also an important skill to learn when you consider that 70 percent of the Earth is covered in water. In this Adventure, you’ll discover how to enjoy swimming and how to respond to water emergencies.  Time to grab your swimsuit and your buddy tag and hit the water. This elective Adventure may be earned by completing the requirements below OR passing Scouting America swimmer test OR taking swimming lessons.",
   "url": "https://www.scouting.org/cub-scout-adventures/aquanaut/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Aquanaut.jpg",
   "image_filename": "aquanaut.jpg",
@@ -92,6 +92,35 @@
           "energy_level": "4",
           "supply_list": "2",
           "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Attempt to tread water.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Attempt to tread water."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Treading Skills",
+          "url": "https://www.scouting.org/cub-scout-activities/treading-skills/",
+          "description": "Cub Scouts  attempt  to tread water.",
+          "location": "Travel",
+          "energy_level": "5",
+          "supply_list": "4",
+          "prep_time": "5"
         }
       ]
     },

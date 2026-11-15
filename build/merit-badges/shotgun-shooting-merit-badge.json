@@ -12,6 +12,65 @@
   "image_filename": "shotgun-shooting-merit-badge.jpg",
   "requirements": [
     {
+      "id": "16236",
+      "label": null,
+      "text": "NOTE: To enable safe and responsible learning and enjoyment of range and target activities, Scouting America has established rigorous standards for approved equipment and materials, ranges, qualified supervision, training, proper technique, and discipline. Details of the requirements and safe practices for activities in this merit badge may be found in the current Scouting America Guide to Safe Scouting and the National Range and Target Activities Manual.",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " To enable safe and responsible learning and enjoyment of range and target activities, Scouting America has established rigorous standards for approved equipment and materials, ranges, qualified supervision, training, proper technique, and discipline. Details of the requirements and safe practices for activities in this merit badge may be found in the current Scouting America "
+        },
+        {
+          "type": "element",
+          "tag": "i",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "Guide to Safe Scouting"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " and the "
+        },
+        {
+          "type": "element",
+          "tag": "i",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "National Range and Target Activities Manual"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": ". "
+        }
+      ],
+      "resources": [],
+      "sub_requirements": []
+    },
+    {
       "id": "16237",
       "label": "1",
       "text": "Do the following:",

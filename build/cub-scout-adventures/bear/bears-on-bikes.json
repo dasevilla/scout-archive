@@ -3,7 +3,7 @@
   "adventure_name": "Bears on Bikes",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Get together with your den, pack, or family to go on a bike ride. In this Adventure, you’ll learn what to wear to ride your bike safely and some basic maintenance. Then get ready for a bike ride. Grab your helmet, check your tires, and take a buddy to head out on another Cub Scout Adventure. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Get together with your den, pack, or family to go on a bike ride. In this Adventure, you’ll learn what to wear to ride your bike safely and some basic maintenance. Then get ready for a bike ride. Grab your helmet, check your tires, and take a buddy to head out on another Cub Scout Adventure.",
   "url": "https://www.scouting.org/cub-scout-adventures/bears-on-bikes/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Bears_on_Bikes.jpg",
   "image_filename": "bears-on-bikes.jpg",
@@ -98,6 +98,53 @@
           "location": "Indoor",
           "energy_level": "2",
           "supply_list": "2",
+          "prep_time": "1"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "text": "Demonstrate proper hand signals.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Demonstrate proper hand signals."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Bear Says",
+          "url": "https://www.scouting.org/cub-scout-activities/bear-says/",
+          "description": "Cub Scouts learn and  demonstrate  proper biking hand signals by playing “Bear Says.”",
+          "location": "Outdoor",
+          "energy_level": "3",
+          "supply_list": "1",
+          "prep_time": "1"
+        },
+        {
+          "name": "Hand Signals Worksheet",
+          "url": "https://www.scouting.org/cub-scout-activities/hand-signals-worksheet/",
+          "description": "Cub Scouts will demonstrate knowledge of hand signals through a worksheet.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "1",
+          "prep_time": "1"
+        },
+        {
+          "name": "Left Turn, Right Turn",
+          "url": "https://www.scouting.org/cub-scout-activities/left-turn-right-turn/",
+          "description": "Cub Scouts learn and practice bike hand signals.",
+          "location": "Outdoor",
+          "energy_level": "4",
+          "supply_list": "1",
           "prep_time": "1"
         }
       ]

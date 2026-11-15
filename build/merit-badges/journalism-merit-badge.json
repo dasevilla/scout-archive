@@ -12,6 +12,58 @@
   "image_filename": "journalism-merit-badge.jpg",
   "requirements": [
     {
+      "id": "14118",
+      "label": null,
+      "text": "NOTE: Check out the Digital Resource Guide for the Law merit badge HERE for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Check out the Digital Resource Guide for the Law merit badge "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/skills/merit-badges/law"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " for detailed information and helpful resources to engage your learning and assist you along on your merit badge journey!"
+        }
+      ],
+      "resources": [
+        {
+          "title": "HERE",
+          "url": "https://www.scouting.org/skills/merit-badges/law",
+          "type": "website"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
       "id": "11937",
       "label": "1",
       "text": "Explain what freedom of the press is and how the First Amendment guarantees that you can voice your opinion. In your discussion, tell how to distinguish between fact and opinion, and explain the terms libel, slander, defamation, fair comment and criticism, public figure, privacy, and malice. Discuss how these matters relate to ethics in journalism.",

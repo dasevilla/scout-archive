@@ -12,6 +12,83 @@
   "image_filename": "environmental-science-merit-badge.jpg",
   "requirements": [
     {
+      "id": "14093",
+      "label": null,
+      "text": "NOTE: Check out the Digital Resource Guide for the Environmental Science merit badge HERE for information and helpful resources to engage your learning and assist you along on your merit badge journey! Additional educational resources are available on our Counselor Information Page.",
+      "requirement_path": "item-1",
+      "node_kind": "instruction_container",
+      "is_container": false,
+      "requires_response": false,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attrs": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "NOTE:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " Check out the Digital Resource Guide for the Environmental Science merit badge "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/environmental-science/"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": " for information and helpful resources to engage your learning and assist you along on your merit badge journey! Additional educational resources are available on our "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attrs": {
+            "href": "https://www.scouting.org/skills/merit-badges/counselor-information/"
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attrs": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Counselor Information Page."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "resources": [
+        {
+          "title": "HERE",
+          "url": "https://www.scouting.org/skills/merit-badges/digital-resource-guides/environmental-science/",
+          "type": "website"
+        },
+        {
+          "title": "Counselor Information Page.",
+          "url": "https://www.scouting.org/skills/merit-badges/counselor-information/",
+          "type": "website"
+        }
+      ],
+      "sub_requirements": []
+    },
+    {
       "id": "12600",
       "label": "1",
       "text": "Describe the meaning of environmental science in your own words. Explain how you think we can use science to understand, conserve, and improve our environment.",

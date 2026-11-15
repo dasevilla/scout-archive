@@ -3,7 +3,7 @@
   "adventure_name": "Good Knights",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Tigers will have fun making their own shield or coat of arms and even a castle. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Tigers will have fun making their own shield or coat of arms and even a castle.",
   "url": "https://www.scouting.org/cub-scout-adventures/good-knights/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Good_Knights.jpg",
   "image_filename": "good-knights.jpg",
@@ -146,6 +146,35 @@
           "energy_level": "2",
           "supply_list": "3",
           "prep_time": "3"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Do a Good Turn.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Do a Good Turn."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Knights Do a Good Turn Like Scouts Do",
+          "url": "https://www.scouting.org/cub-scout-activities/knights-do-a-good-turn-like-scouts-do/",
+          "description": "This is not a service project it is simply a good turn, a good deed for someone else.",
+          "location": "Indoor",
+          "energy_level": "1",
+          "supply_list": "1",
+          "prep_time": "1"
         }
       ]
     }

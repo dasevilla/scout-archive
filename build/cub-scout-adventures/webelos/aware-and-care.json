@@ -3,7 +3,7 @@
   "adventure_name": "Aware and Care",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Everyone has differences, and everyone faces challenges. That’s what makes us human. In this Adventure, you’ll learn about the challenges other people face by looking at the world through their eyes. The more you understand, the more helpful you can be — and the more you can show your friends how to be nice to everyone, including people who are different. After all, we are all different in one way or another. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Everyone has differences, and everyone faces challenges. That’s what makes us human. In this Adventure, you’ll learn about the challenges other people face by looking at the world through their eyes. The more you understand, the more helpful you can be — and the more you can show your friends how to be nice to everyone, including people who are different. After all, we are all different in one way or another.",
   "url": "https://www.scouting.org/cub-scout-adventures/aware-and-care/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Aware_and_Care.jpg",
   "image_filename": "aware-and-care.jpg",
@@ -107,6 +107,44 @@
           "location": "Indoor",
           "energy_level": "3",
           "supply_list": "2",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "text": "Explore barriers to access.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Explore barriers to access."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Can You Reach It?",
+          "url": "https://www.scouting.org/cub-scout-activities/can-you-reach-it/",
+          "description": "Cub Scouts experience what it is like to have an object out of reach.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Outdoors Barriers to Access",
+          "url": "https://www.scouting.org/cub-scout-activities/outdoors-barriers-to-access/",
+          "description": "Cub Scouts go outdoors looking for barriers to access.",
+          "location": "Outdoor",
+          "energy_level": "3",
+          "supply_list": "3",
           "prep_time": "2"
         }
       ]

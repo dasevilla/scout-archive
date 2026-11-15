@@ -3,7 +3,7 @@
   "adventure_name": "Let’s Camp Tiger",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "Here is the opportunity for Tigers and their adult partners to go on an overnight campout. Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "Here is the opportunity for Tigers and their adult partners to go on an overnight campout.",
   "url": "https://www.scouting.org/cub-scout-adventures/lets-camp-tiger/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Lets_Camp.jpg",
   "image_filename": "lets-camp-tiger.jpg",
@@ -136,6 +136,53 @@
           "location": "Indoor",
           "energy_level": "3",
           "supply_list": "4",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Learn a camping skill.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Learn a camping skill."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Flashlight Tiger Hunt",
+          "url": "https://www.scouting.org/cub-scout-activities/flashlight-tiger-hunt/",
+          "description": "Learn about the different flashlight and flashlight etiquette.",
+          "location": "Outdoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "My First Knot",
+          "url": "https://www.scouting.org/cub-scout-activities/my-first-knot/",
+          "description": "Cub Scouts will learn about the square knot and attempt to tie it.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Tent Time!",
+          "url": "https://www.scouting.org/cub-scout-activities/tent-time/",
+          "description": "Cub Scout and adult partners will practice setting up a tent.",
+          "location": "Outdoor",
+          "energy_level": "4",
+          "supply_list": "3",
           "prep_time": "2"
         }
       ]

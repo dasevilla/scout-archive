@@ -3,11 +3,58 @@
   "adventure_name": "Champions for Nature Bear",
   "adventure_type": "Elective",
   "adventure_category": "",
-  "adventure_overview": "We have three important resources for all living things on our planet: water, soil, and air. We use water to clean ourselves, our dishes, and our clothes. Soil is the resource that allows us to grow food. The air we breathe goes into our lungs, providing our bloodstream with oxygen. In this Adventure, you’ll discover more about the resources of water, soil, and air and perhaps put what you discover into use with a conservation project. Knowing more about the resources of the planet will help you make good decisions about conserving the resources of our world. Prior to any activity, use the Scouting AmericaSAFE Checklist to ensure the safety of all those involved. All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.",
+  "adventure_overview": "We have three important resources for all living things on our planet: water, soil, and air. We use water to clean ourselves, our dishes, and our clothes. Soil is the resource that allows us to grow food. The air we breathe goes into our lungs, providing our bloodstream with oxygen. In this Adventure, you’ll discover more about the resources of water, soil, and air and perhaps put what you discover into use with a conservation project. Knowing more about the resources of the planet will help you make good decisions about conserving the resources of our world.",
   "url": "https://www.scouting.org/cub-scout-adventures/champions-for-nature-bear/",
   "image_url": "https://www.scouting.org/wp-content/uploads/2024/01/2023_2024_loops_pins_Champions_of_Nature-1.jpg",
   "image_filename": "champions-for-nature-bear.jpg",
   "requirements": [
+    {
+      "id": "1",
+      "label": "1",
+      "text": "Discover natural resources.",
+      "requirement_path": "1",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Discover natural resources."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Build A World",
+          "url": "https://www.scouting.org/cub-scout-activities/build-a-world/",
+          "description": "",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "2",
+          "prep_time": "2"
+        },
+        {
+          "name": "Natural Resources Scavenger Hunt",
+          "url": "https://www.scouting.org/cub-scout-activities/natural-resources-scavenger-hunt/",
+          "description": "Cub Scouts learn about natural resources with a scavenger hunt.",
+          "location": "Travel",
+          "energy_level": "4",
+          "supply_list": "4",
+          "prep_time": "5"
+        },
+        {
+          "name": "Natural Resources Walk",
+          "url": "https://www.scouting.org/cub-scout-activities/natural-resources-walk/",
+          "description": "Cub Scouts will  identify  natural resources while taking a walk outside.",
+          "location": "Travel",
+          "energy_level": "4",
+          "supply_list": "2",
+          "prep_time": "5"
+        }
+      ]
+    },
     {
       "id": "2",
       "label": "2",
@@ -51,6 +98,100 @@
           "location": "Indoor",
           "energy_level": "2",
           "supply_list": "3",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "text": "Investigate soil.",
+      "requirement_path": "3",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Investigate soil."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Aqua Pollution Adventure",
+          "url": "https://www.scouting.org/cub-scout-activities/aqua-pollution-adventure/",
+          "description": "Cub Scouts  demonstrate  how pollution can enter our groundwater.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "DIY Composter",
+          "url": "https://www.scouting.org/cub-scout-activities/diy-composter/",
+          "description": "Cub Scouts will build their own composter.",
+          "location": "Indoor",
+          "energy_level": "4",
+          "supply_list": "4",
+          "prep_time": "2"
+        },
+        {
+          "name": "Soil Investigation",
+          "url": "https://www.scouting.org/cub-scout-activities/soil-investigation/",
+          "description": "Cub Scouts will investigate different soils.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "4",
+          "prep_time": "2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "text": "Investigate air pollution.",
+      "requirement_path": "4",
+      "node_kind": "action_requirement",
+      "is_container": false,
+      "requires_response": true,
+      "scoped_clauses": [],
+      "content": [
+        {
+          "type": "text",
+          "value": "Investigate air pollution."
+        }
+      ],
+      "resources": [],
+      "sub_requirements": [],
+      "activities": [
+        {
+          "name": "Acid Rain Investigation",
+          "url": "https://www.scouting.org/cub-scout-activities/acid-rain-investigation/",
+          "description": "Cub Scouts conduct an acid rain experiment.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Air Pollution Investigation",
+          "url": "https://www.scouting.org/cub-scout-activities/air-pollution-investigation/",
+          "description": "Cub Scouts investigate air pollution.",
+          "location": "Indoor",
+          "energy_level": "3",
+          "supply_list": "3",
+          "prep_time": "2"
+        },
+        {
+          "name": "Human Air Pollution Detectors",
+          "url": "https://www.scouting.org/cub-scout-activities/human-air-pollution-detectors/",
+          "description": "In this activity, Cub Scouts will be “indoor pollution detectors” to investigate air pollution.",
+          "location": "Indoor",
+          "energy_level": "2",
+          "supply_list": "2",
           "prep_time": "2"
         }
       ]

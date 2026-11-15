@@ -47,7 +47,16 @@ class EmptyRequirementsRetryTest(unittest.TestCase):
         # populated container whose only entry is the excluded pamphlet note.
         soup = BeautifulSoup(FIXTURE.read_text(), "html.parser")
         note = str(soup.select_one(".mb-requirement-item"))
-        for incomplete in ("", f'<div class="mb-requirement-container">{note}</div>'):
+        guide_note = note.replace(
+            "The official merit badge pamphlets",
+            'Find examples in the <a href="https://example.org/guide">Digital Resource Guide</a>.<br>'
+            "The official merit badge pamphlets",
+        )
+        for incomplete in (
+            "",
+            f'<div class="mb-requirement-container">{note}</div>',
+            f'<div class="mb-requirement-container">{guide_note}</div>',
+        ):
             with self.subTest(incomplete=incomplete):
                 response = self.response(incomplete)
                 retry = list(self.spider.parse_merit_badge(response))

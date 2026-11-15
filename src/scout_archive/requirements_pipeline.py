@@ -88,6 +88,7 @@ class SemanticRequirement(BaseModel):
     # a shape-classified instruction container. Private state is not archived.
     _owns_repaired_numbered_list: bool = PrivateAttr(default=False)
     _is_governed_option: bool = PrivateAttr(default=False)
+    _is_reference_note: bool = PrivateAttr(default=False)
     _source_content: List[RawNode] = PrivateAttr(default_factory=list)
 
 
@@ -245,8 +246,10 @@ class SemanticProcessor:
     TEXT_LABEL_RE = re.compile(r"^\s*((?:\([A-Za-z0-9]+\))+|[A-Za-z0-9]+[.)]+)\s*")
     INLINE_LABEL_RE = re.compile(r"(\([a-z]\)|\([0-9]+\))\s+")
     OPTION_PREFIX_RE = re.compile(r"^\s*Option\s+([A-Za-z0-9]+)\b", re.IGNORECASE)
-    EXCLUDED_NOTE_RE = re.compile(
-        r"\bthe official merit badge pamphlets are now free and downloadable\b",
+    PAMPHLET_NOTICE_RE = re.compile(
+        r"(?:\bnote:\s*)?\bthe\s+official\s+merit\s+badge\s+pamphlets\s+"
+        r"are\s+now\s+free\s+and\s+downloadable\s+here\s+or\s+can\s+be\s+"
+        r"purchased\s+at\s+the\s+scout\s+shop\b[.!]?",
         re.IGNORECASE,
     )
     ACTION_VERBS = (
@@ -272,11 +275,7 @@ class SemanticProcessor:
     HEADING_CONNECTORS = {"a", "an", "and", "for", "in", "of", "or", "the", "to"}
 
     def process(self, raw_items: List[RawRequirementItem]) -> List[SemanticRequirement]:
-        processed: List[SemanticRequirement] = []
-        for item in raw_items:
-            if self._is_excluded_requirement(item):
-                continue
-            processed.append(self._process_item(item))
+        processed = [self._process_item(item) for item in raw_items]
         processed = self._split_inline_labeled_requirements(processed)
         processed = self._repair_requirement_hierarchy(processed)
         processed = self._promote_resource_only_children(processed)
@@ -286,7 +285,15 @@ class SemanticProcessor:
         return processed
 
     def _process_item(self, item: RawRequirementItem) -> SemanticRequirement:
-        label, content_nodes = self._promote_label(item.content_nodes)
+        content_nodes = item.content_nodes
+        pamphlet_notice = self.PAMPHLET_NOTICE_RE.search(
+            self._plain_text(content_nodes)
+        )
+        if pamphlet_notice:
+            content_nodes = self._remove_text_span(
+                content_nodes, *pamphlet_notice.span()
+            )
+        label, content_nodes = self._promote_label(content_nodes)
         source_content = content_nodes
         resources: List[Resource] = []
         content_nodes = self._extract_resources(content_nodes, resources)
@@ -295,11 +302,7 @@ class SemanticProcessor:
         self._extend_unique_resources(resources, self._collect_links(content_nodes))
         content_nodes = self._normalize_text(content_nodes)
         content_nodes = self._clean_attributes(content_nodes)
-        sub_requirements = [
-            self._process_item(sub)
-            for sub in item.sub_requirements
-            if not self._is_excluded_requirement(sub)
-        ]
+        sub_requirements = [self._process_item(sub) for sub in item.sub_requirements]
         requirement = SemanticRequirement(
             id=item.id,
             label=label,
@@ -308,14 +311,31 @@ class SemanticProcessor:
             sub_requirements=sub_requirements,
         )
         requirement._source_content = source_content
+        requirement._is_reference_note = pamphlet_notice is not None and label is None
         return requirement
 
-    def _is_excluded_requirement(self, item: RawRequirementItem) -> bool:
-        text = self._nodes_text(item.content_nodes)
-        if not text:
-            return False
-        normalized = re.sub(r"\s+", " ", text).strip()
-        return bool(self.EXCLUDED_NOTE_RE.search(normalized))
+    def _remove_text_span(
+        self, nodes: List[RawNode], start: int, end: int
+    ) -> List[RawNode]:
+        """Remove a plain-text span while retaining markup on either side."""
+        kept: List[RawNode] = []
+        offset = 0
+        for node in nodes:
+            next_offset = offset + len(self._plain_text([node]))
+            if next_offset <= start or offset >= end:
+                kept.append(node)
+            elif offset < start or next_offset > end:
+                if isinstance(node, RawTextNode):
+                    prefix = node.value[: max(0, start - offset)]
+                    suffix = node.value[end - offset :]
+                    kept.append(RawTextNode(value=prefix + suffix))
+                else:
+                    children = self._remove_text_span(
+                        node.children, start - offset, end - offset
+                    )
+                    kept.append(node.model_copy(update={"children": children}))
+            offset = next_offset
+        return kept
 
     def _promote_label(
         self, nodes: List[RawNode]
@@ -1372,6 +1392,8 @@ class SemanticProcessor:
     def _classify_requirement(
         self, requirement: SemanticRequirement
     ) -> Literal["action_requirement", "instruction_container", "option_container"]:
+        if requirement._is_reference_note:
+            return "instruction_container"
         # An unnumbered resource-only leaf (Dance 5's tutorial list) retains
         # source structure and links, but contains no instruction to answer.
         if (

@@ -48,6 +48,35 @@ def flatten(requirements: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
 
 
 class DuplicateSourceContentTest(unittest.TestCase):
+    def test_pamphlet_boilerplate_keeps_adjacent_notes_and_links(self) -> None:
+        html = """
+        <div class="mb-requirement-item">
+          <div class="mb-requirement-parent mb-requirement-id-1">
+            <b>NOTE: Use a manually powered cycle.</b><br>
+            See the <a href="https://example.org/guide">Digital Resource Guide</a>.
+            The official merit badge pamphlets are now free and downloadable
+            <a href="https://example.org/pamphlet.pdf">HERE</a> or can be purchased at
+            the <a href="https://example.org/shop">Scout Shop.</a>
+            Additional resources are on the
+            <a href="https://example.org/counselor">Counselor Information Page</a>.
+          </div>
+        </div>
+        """
+        requirements = SemanticProcessor().process(HtmlExtractor().extract(html))
+        (note,) = requirements
+        self.assertIsNone(note.label)
+        self.assertFalse(note.requires_response)
+        self.assertIn("Use a manually powered cycle.", note.text)
+        self.assertIn("Additional resources are on the", note.text)
+        self.assertNotIn("pamphlets", note.text)
+        urls = [resource.url for resource in note.resources]
+        self.assertEqual(
+            urls, ["https://example.org/guide", "https://example.org/counselor"]
+        )
+        markdown = MarkdownGenerator().generate(requirements)
+        for url in urls:
+            self.assertIn(url, markdown)
+
     def test_golf_source_duplicate_preserves_complete_release141_tree(self) -> None:
         record = json.loads((FIXTURES / "golf.provenance.json").read_text())
         html = (FIXTURES / record["html_fixture"]).read_text()
@@ -98,8 +127,15 @@ class DuplicateSourceContentTest(unittest.TestCase):
         soup = BeautifulSoup(html, "html.parser")
         requirements = SemanticProcessor().process(HtmlExtractor().extract(html))
         nodes = flatten([node.model_dump() for node in requirements])
-        self.assertEqual(len(requirements), 9)
-        self.assertEqual(len(nodes), 33)
+        self.assertEqual(len(requirements), 10)
+        self.assertEqual(len(nodes), 34)
+        note = nodes["item-1"]
+        self.assertEqual(note["id"], "14116")
+        self.assertIsNone(note["label"])
+        self.assertFalse(note["requires_response"])
+        self.assertIn("If collecting is permitted", note["text"])
+        self.assertNotIn("pamphlets", note["text"])
+        self.assertEqual(note["resources"], [])
         self.assertEqual(sum(len(node["resources"]) for node in nodes.values()), 39)
 
         parent = soup.select_one(".mb-requirement-id-13458")
@@ -123,7 +159,9 @@ class DuplicateSourceContentTest(unittest.TestCase):
         # Check resource ownership independently against every source element,
         # including the beekeeping link attached to the duplicated second choice.
         markdown = MarkdownGenerator().generate(requirements)
-        for node in nodes.values():
+        for path, node in nodes.items():
+            if path == "item-1":
+                continue
             source = soup.select_one(f".mb-requirement-id-{node['id']}")
             expected = [
                 (" ".join(link.get_text(" ", strip=True).split()), link["href"])

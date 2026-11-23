@@ -218,23 +218,32 @@ class MeritBadgesSpider(scrapy.Spider):
     def parse_merit_badge(self, response, is_lab=False):
         if not is_lab and "/test-lab/" in response.url:
             is_lab = True
-        # Retired Test Lab links can remain in the listing after their pages
-        # permanently redirect to Scouting's shared expired-content page.
+        # Retired Test Lab links can remain in the listing after their pages move.
         parsed_url = urlparse(response.url)
         redirect_urls = response.meta.get("redirect_urls", [])
         if (
             is_lab
             and redirect_urls
             and parsed_url.hostname in {"www.scouting.org", "scouting.org"}
-            and parsed_url.path.rstrip("/") == "/expired-content"
         ):
-            self.expired_lab_urls.update(redirect_urls)
-            self.logger.warning(
-                "Skipping retired Test Lab page %s redirected to %s",
-                redirect_urls[0],
-                response.url,
+            destination_path = parsed_url.path.rstrip("/")
+            source = urlparse(redirect_urls[0])
+            # Scouting repurposed this specific Test Lab URL for a Cub Scout activity.
+            retired_dance = (
+                destination_path == "/cub-scout-activities/dance-memory-grooves"
+                and len(redirect_urls) == 1
+                and response.meta.get("redirect_reasons") in ([301], [308])
+                and source.hostname == parsed_url.hostname
+                and source.path.rstrip("/") == "/skills/merit-badges/test-lab/dance"
             )
-            return
+            if destination_path == "/expired-content" or retired_dance:
+                self.expired_lab_urls.update(redirect_urls)
+                self.logger.warning(
+                    "Skipping retired Test Lab page %s redirected to %s",
+                    redirect_urls[0],
+                    response.url,
+                )
+                return
 
         item = MeritBadgeItem()
         item["is_lab"] = is_lab

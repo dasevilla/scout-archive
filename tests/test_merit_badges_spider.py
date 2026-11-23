@@ -4,8 +4,11 @@ import tempfile
 import unittest
 from pathlib import Path
 
+from scrapy.crawler import Crawler
+from scrapy.downloadermiddlewares.redirect import RedirectMiddleware
 from scrapy.exceptions import CloseSpider
 from scrapy.http import Request, TextResponse
+from scrapy.settings import Settings
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
@@ -195,6 +198,110 @@ class MeritBadgesSpiderRetiredLabTest(unittest.TestCase):
                 self.assertEqual(items, [])
                 self.assertIn(self.source_url, logs.output[0])
                 self.assertIn(url, logs.output[0])
+
+    dance_lab_url = "https://www.scouting.org/skills/merit-badges/test-lab/dance/"
+    cub_activity_url = (
+        "https://www.scouting.org/cub-scout-activities/dance-memory-grooves/"
+    )
+    cub_activity_html = """
+        <title>Dance Memory Grooves | Scouting America</title>
+        <h1 class="elementor-heading-title">Dance Memory Grooves</h1>
+    """
+
+    def test_retired_dance_redirect_does_not_archive_cub_activity(self) -> None:
+        listing = make_response(
+            f'<a href="{self.dance_lab_url}">Dance</a>',
+            url=self.dance_lab_url.removesuffix("dance/"),
+        )
+        (request,) = self.spider.parse_test_lab_list(listing)
+        middleware = RedirectMiddleware.from_crawler(
+            Crawler(MeritBadgesSpider, Settings())
+        )
+        redirect = TextResponse(
+            request.url,
+            status=301,
+            headers={"Location": self.cub_activity_url},
+        )
+        follow = middleware.process_response(request, redirect, self.spider)
+        self.assertIsInstance(follow, Request)
+        response = TextResponse(
+            follow.url,
+            request=follow,
+            body=self.cub_activity_html.encode(),
+            encoding="utf-8",
+        )
+        with tempfile.TemporaryDirectory() as tmpdir:
+            output = Path(tmpdir)
+            archive = output / "dance-merit-badge.json"
+            archive.write_text(json.dumps({"is_lab": True, "url": self.dance_lab_url}))
+            archive.with_suffix(".md").write_text("Historical Dance requirements")
+            pipeline = ScoutArchivePipeline(tmpdir, tmpdir)
+
+            for item in follow.callback(response, **follow.cb_kwargs):
+                pipeline.process_item(item, self.spider)
+            self.assertTrue(archive.exists())  # Defer retirement until crawl close.
+            pipeline.close_spider(self.spider)
+
+            self.assertEqual(self.spider.expired_lab_urls, {self.dance_lab_url})
+            self.assertEqual(list(output.iterdir()), [])
+
+    def test_retired_dance_redirect_preserves_same_slug_standard_badge(self) -> None:
+        response = make_response(
+            self.cub_activity_html,
+            url=self.cub_activity_url,
+            meta={"redirect_urls": [self.dance_lab_url], "redirect_reasons": [308]},
+        )
+        self.assertEqual(list(self.spider.parse_merit_badge(response, is_lab=True)), [])
+        self.assertEqual(self.spider.expired_lab_urls, {self.dance_lab_url})
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            archive = Path(tmpdir) / "dance-merit-badge.json"
+            payload = {
+                "is_lab": False,
+                "url": "https://www.scouting.org/merit-badges/dance/",
+            }
+            archive.write_text(json.dumps(payload))
+            markdown = archive.with_suffix(".md")
+            markdown.write_text("Standard Dance requirements")
+            ScoutArchivePipeline(tmpdir, tmpdir).close_spider(self.spider)
+
+            self.assertEqual(json.loads(archive.read_text()), payload)
+            self.assertEqual(markdown.read_text(), "Standard Dance requirements")
+
+    def test_other_cub_activity_redirects_do_not_retire_test_labs(self) -> None:
+        for sources, destination, reasons in (
+            ([self.dance_lab_url], self.cub_activity_url, [302]),
+            ([self.dance_lab_url], self.cub_activity_url, [307]),
+            ([self.dance_lab_url], self.cub_activity_url, []),
+            ([self.source_url], self.cub_activity_url, [301]),
+            (
+                [self.dance_lab_url],
+                self.cub_activity_url.replace("www.scouting.org", "example.org"),
+                [301],
+            ),
+            (
+                [self.dance_lab_url.replace("www.scouting.org", "example.org")],
+                self.cub_activity_url,
+                [301],
+            ),
+            (
+                [self.dance_lab_url],
+                self.cub_activity_url.replace("dance-memory-grooves", "other-activity"),
+                [301],
+            ),
+            ([self.dance_lab_url, self.source_url], self.cub_activity_url, [301, 302]),
+        ):
+            with self.subTest(
+                sources=sources, destination=destination, reasons=reasons
+            ):
+                response = make_response(
+                    self.cub_activity_html,
+                    url=destination,
+                    meta={"redirect_urls": sources, "redirect_reasons": reasons},
+                )
+                (item,) = self.spider.parse_merit_badge(response, is_lab=True)
+                self.assertEqual(item["requirements_data"], [])
+                self.assertEqual(self.spider.expired_lab_urls, set())
 
     def test_standard_badge_redirect_to_expired_page_still_fails(self) -> None:
         response = make_response(
